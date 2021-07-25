@@ -8,6 +8,7 @@ http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="wavve|M01" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 
 #EXTINF:0 tvg-id="wavve|K01" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KoreaTV",KBS1
@@ -16,7 +17,11 @@ http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 #EXTINF:0 tvg-id="wavve|K02" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KoreaTV",KBS2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://www2.t-expo.jp/img/exhibitors/35957/KBS-World-logo%201.jpg?1439515826" group-title="KoreaTV",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KoreaTV",SBS
+https://www.navchina.cf/IPTV/sbs.php?id=S01
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 http://1.245.74.5:1935/live/tv/playlist.m3u8
 
