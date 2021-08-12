@@ -104,7 +104,7 @@ http://itskoi.dothome.co.kr/jptv.php?id=kanto_nippon
 
 #EXTINF:0 tvg-id="" tvg-logo="https://www.tv-asahi.co.jp/ips/contents/Topics/0001/img/0_28.jpg" group-title="JapanTV",TV Asahi
 
-https://vsd98.mycdn.me/hls/1404440808065.m3u8/sig/58_pcUU6CUw/expires/1628845208269/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2457884958337/video.m3u8?
+https://vsd98.mycdn.me/hls/1404440808065.m3u8/sig/hXhhb649Wmk/expires/1628847008104/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2457884958337/video.m3u8?
 
 http://1.179.247.11:1935/jptv/kanto_tv_asahi_540/chunklist.m3u8
 
@@ -116,7 +116,7 @@ http://itskoi.dothome.co.kr/jptv.php?id=kanto_tbs
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JapanTV",TV Tokyo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
-https://vsd91.mycdn.me/hls/1586919770740.m3u8/sig/49j7CWkLYSk/expires/1628845206367/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2986910883444/video.m3u8?
+https://vsd141.mycdn.me/hls/1586919770740.m3u8/sig/nEkDKmbh_xk/expires/1628847006291/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2986910883444/video.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="JapanTV",Tokyo MX
 https://neetball.net/live/test3.m3u8
@@ -272,26 +272,23 @@ https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23819&e=99172&ep=d
 #EXTINF:0 tvg-id="" tvg-logo="https://cc-tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png" group-title="JapanTV",Fuji_Next 일본vpn필요
 https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23820&e=99173&ep=delta01_02&eh=Linear_00613_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",日本购物1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",일본쇼핑1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",日本购物2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",일본쇼핑2
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",日本购物3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",일본쇼핑3
 http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",日本购物4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",일본쇼핑4
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",GSTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",일본쇼핑5
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",GTN Typhome (English Subs)
 https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="" group-title="JapanTV",AniPlus (Malay subtitles)
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax
-http://redlabmcdn.s.llnwi.net/jp04/bs14hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Indonesian Subs)
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Indonesian Subs) [Geo-blocked]
@@ -303,9 +300,3 @@ http://210.210.155.35/dr9445/h/h144/01.m3u8
 https://tv.mbed.cc/animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Thai Subs)
 http://27.254.130.62/feed/LC38/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Vietnamese Subs)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Vietnamese Subs)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
