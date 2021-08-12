@@ -104,7 +104,7 @@ http://itskoi.dothome.co.kr/jptv.php?id=kanto_nippon
 
 #EXTINF:0 tvg-id="Asahi.jp" tvg-logo="https://www.tv-asahi.co.jp/ips/contents/Topics/0001/img/0_28.jpg" group-title="JapanTV",TV Asahi
 
-https://vsd98.mycdn.me/hls/1404440808065.m3u8/sig/25QbA2VCNEM/expires/1628861412201/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2457884958337/video.m3u8?
+https://vsd126.mycdn.me/hls/1404440808065.m3u8/sig/a7xsf9GimYo/expires/1628863208195/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2457884958337/video.m3u8
 
 http://1.179.247.11:1935/jptv/kanto_tv_asahi_540/chunklist.m3u8
 
@@ -114,35 +114,8 @@ http://1.179.247.11:1935/jptv/kanto_tbs_540/chunklist.m3u8
 http://itskoi.dothome.co.kr/jptv.php?id=kanto_tbs
 
 #EXTINF:0 tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JapanTV",TV Tokyo
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
-https://vsd141.mycdn.me/hls/1586919770740.m3u8/sig/LnNBbnQGVLE/expires/1628847346594/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2986910883444/video.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="JapanTV",Tokyo MX
-https://neetball.net/live/test3.m3u8
-http://itskoi.dothome.co.kr/jptv.php?id=kanto_tokyo_mx1
-
-#EXTINF:0 tvg-id="" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="JapanTV",Tokyo MX 1
-http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2011221Q3340-L.jpg" group-title="JapanTV",Tokyo MX 2
-http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/566456.jpg/revision/latest/scale-to-width-down/250?cb=20130406224321" group-title="JapanTV",MX Live
-http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",ANIBOX
-https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://o-sleep.com/wp-content/uploads/2019/05/NHK-Logo-620x360.png" group-title="JapanTV",NHK WORLD
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png" group-title="JapanTV",WINI LIVE
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-
-
-
-
+https://vsd81.mycdn.me/hls/1586919770740.m3u8/sig/16yGR4i89eQ/expires/1628863205715/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2986910883444/video.m3u8?
 
 #EXTINF:0 tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="JapanTV",BS1 NHK
 http://redlabmcdn.s.llnwi.net/jp04/bs01hd/playlist.m3u8
@@ -303,4 +276,25 @@ https://tv.mbed.cc/animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Thai Subs)
 http://27.254.130.62/feed/LC38/playlist.m3u8
 
-https://vsd141.mycdn.me/hls/1586919770740.m3u8/sig/O8Hlvzmt-7w/expires/1628861410296/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2986910883444/video.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="JapanTV",Tokyo MX
+https://neetball.net/live/test3.m3u8
+http://itskoi.dothome.co.kr/jptv.php?id=kanto_tokyo_mx1
+
+#EXTINF:0 tvg-id="" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="JapanTV",Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2011221Q3340-L.jpg" group-title="JapanTV",Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/566456.jpg/revision/latest/scale-to-width-down/250?cb=20130406224321" group-title="JapanTV",MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",ANIBOX
+https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://o-sleep.com/wp-content/uploads/2019/05/NHK-Logo-620x360.png" group-title="JapanTV",NHK WORLD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png" group-title="JapanTV",WINI LIVE
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
