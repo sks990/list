@@ -104,7 +104,7 @@ http://itskoi.dothome.co.kr/jptv.php?id=kanto_nippon
 
 #EXTINF:0 tvg-id="Asahi.jp" tvg-logo="https://www.tv-asahi.co.jp/ips/contents/Topics/0001/img/0_28.jpg" group-title="JapanTV",TV Asahi
 
-https://vsd126.mycdn.me/hls/1404440808065.m3u8/sig/a7xsf9GimYo/expires/1628863208195/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2457884958337/video.m3u8
+https://vsd61.mycdn.me/hls/1404440808065.m3u8/sig/ensEq18Mb-M/expires/1628865006759/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2457884958337/video.m3u8?
 
 http://1.179.247.11:1935/jptv/kanto_tv_asahi_540/chunklist.m3u8
 
@@ -115,37 +115,45 @@ http://itskoi.dothome.co.kr/jptv.php?id=kanto_tbs
 
 #EXTINF:0 tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JapanTV",TV Tokyo
 
-https://vsd81.mycdn.me/hls/1586919770740.m3u8/sig/16yGR4i89eQ/expires/1628863205715/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2986910883444/video.m3u8?
+https://vsd141.mycdn.me/hls/1586919770740.m3u8/sig/yrLDK4GE0_k/expires/1628865004937/srcIp/36.2.196.138/clientType/0/srcAg/UNKNOWN/mid/2986910883444/video.m3u8
 
 #EXTINF:0 tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="JapanTV",BS1 NHK
+http://203.162.235.41:16909
 http://redlabmcdn.s.llnwi.net/jp04/bs01hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=B011
 
 #EXTINF:0 tvg-id="NHKBS2.jp" tvg-logo="https://i.ytimg.com/vi/XjgXA8dDSnc/hqdefault.jpg" group-title="JapanTV",BS2 NHK
+http://203.162.235.41:16910
 http://redlabmcdn.s.llnwi.net/jp04/bs02hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=B021
 
 #EXTINF:0 tvg-id="BSFuji2K.jp" tvg-logo="https://i0.wp.com/www.audioworkshop.jp/wordpress/wp-content/uploads/2020/03/22-BS-FUJI-770x480.jpg?fit=770%2C480" group-title="JapanTV",BS3 Fuji
+http://203.162.235.41:16911
 http://redlabmcdn.s.llnwi.net/jp04/bs07hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=B071
 
 #EXTINF:0 tvg-id="BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png" group-title="JapanTV",BS4 Nts
+http://203.162.235.41:16912
 http://redlabmcdn.s.llnwi.net/jp04/bs03hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=B031
 
 #EXTINF:0 tvg-id="" tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png" group-title="JapanTV",BS5 Asahi
+http://203.162.235.41:16914
 http://redlabmcdn.s.llnwi.net/jp04/bs04hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=B041
 
 #EXTINF:0 tvg-id="BSTBS.jp" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/shirucafe.com/cms/wp-content/uploads/2015/06/b1f3b1cb33745766fc8ddcfa38664922.jpg" group-title="JapanTV",BS6 TBS
+http://203.162.235.41:16913
 http://redlabmcdn.s.llnwi.net/jp04/bs05hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=B051
 
 #EXTINF:0 tvg-id="BSTVTokyo.jp" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/BS_TV_Tokyo_logo.png/revision/latest?cb=20190207020731" group-title="JapanTV",BS7 TVtokyo
+http://203.162.235.41:16915
 http://redlabmcdn.s.llnwi.net/jp04/bs06hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=B061
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",BS11
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",BS11 wowwow
+http://203.162.235.41:16916
 https://neetball.net/live/test3.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",BS12
@@ -154,9 +162,27 @@ http://itskoi.dothome.co.kr/jpn.php?id=B081
 
 
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",ANIMAX
-http://redlabmcdn.s.llnwi.net/jp04/bs14hd/playlist.m3u8
-http://itskoi.dothome.co.kr/jpn.php?id=B141
+
+#EXTINF:0 tvg-id="FujiOne.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png" group-title="JapanTV",Fuji_One 일본vpn필요
+https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23818&e=99171&ep=delta07_08&eh=Linear_00614_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
+
+#EXTINF:0 tvg-id="FujiTwo.jp" tvg-logo="https://thumb.skyperfectv.co.jp/uploads/attachment/file/p/f/k/9/https://thumb.skyperfectv.co.jp/uploads/tmp/1506324260-20825-0929-2752/e_Linear_00615_1_medium_large.jpg" group-title="JapanTV",Fuji_Two 일본vpn필요
+https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23819&e=99172&ep=delta07_08&eh=Linear_00615_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
+
+#EXTINF:0 tvg-id="FujiNext.jp" tvg-logo="https://cc-tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png" group-title="JapanTV",Fuji_Next 일본vpn필요
+https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23820&e=99173&ep=delta01_02&eh=Linear_00613_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" group-title="JapanTV",KBS-World 일본vpn필요
+https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=28327&e=245516&ep=delta51_52&eh=Linear_00656_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
+
+#EXTINF:0 tvg-id="" tvg-logo="https://asianwiki.com/images/6/63/Mnet-p1.png" group-title="JapanTV",mnet-japan 일본vpn필요
+https://jplive-hls-c.smart.mnetjp.com/mnethls/s_s6/chunklist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-584-400x400.png" group-title="JapanTV",Music_On_TV 일본vpn필요
+https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=26961&e=202830&ep=delta03_04&eh=Linear_00641_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
+
+
+
 
 #EXTINF:0 tvg-id="StarChannel1.jp" tvg-logo="" group-title="JapanTV",STAR1
 http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
@@ -181,6 +207,23 @@ http://itskoi.dothome.co.kr/jpn.php?id=B121
 #EXTINF:0 tvg-id="JSports4.jp" tvg-logo="" group-title="JapanTV",J Sports 4
 http://itskoi.dothome.co.kr/jpn.php?id=C021
 
+#EXTINF:0 tvg-id="NHKWorld.jp" tvg-logo="https://o-sleep.com/wp-content/uploads/2019/05/NHK-Logo-620x360.png" group-title="JapanTV",NHK World Premium
+https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng_enc=FjUiToUzI4n4ys9_IOUjIw.m3u8
+
+#EXTINF:0 tvg-id="NHKWorld.jp" tvg-logo="https://o-sleep.com/wp-content/uploads/2019/05/NHK-Logo-620x360.png" group-title="JapanTV",NHK WORLD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
+#EXTINF:0 tvg-id="TBSNews.jp" tvg-logo="https://i.pinimg.com/originals/a0/9e/f7/a09ef70d7f104ae6b1d347d98bff2c5f.png" group-title="JapanTV",TBSNews
+https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",ANIMAX
+http://redlabmcdn.s.llnwi.net/jp04/bs14hd/playlist.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B141
+
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",Disney
 http://itskoi.dothome.co.kr/jpn.php?id=B131
 
@@ -202,14 +245,7 @@ http://itskoi.dothome.co.kr/jpn.php?id=C061
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_WOWOW.jpg" group-title="JapanTV",WOWOW Cinema
 http://itskoi.dothome.co.kr/jpn.php?id=C071
 
-#EXTINF:0 tvg-id="NHKWorld.jp" tvg-logo="https://o-sleep.com/wp-content/uploads/2019/05/NHK-Logo-620x360.png" group-title="JapanTV",NHK World Premium
-https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng_enc=FjUiToUzI4n4ys9_IOUjIw.m3u8
 
-#EXTINF:0 tvg-id="NHKWorld.jp" tvg-logo="https://o-sleep.com/wp-content/uploads/2019/05/NHK-Logo-620x360.png" group-title="JapanTV",NHK WORLD
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
-#EXTINF:0 tvg-id="TBSNews.jp" tvg-logo="https://i.pinimg.com/originals/a0/9e/f7/a09ef70d7f104ae6b1d347d98bff2c5f.png" group-title="JapanTV",TBSNews
-https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="JapanTV",Gunma TV
@@ -229,23 +265,6 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" group-title="JapanTV",KBS-World 일본vpn필요
-https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=28327&e=245516&ep=delta51_52&eh=Linear_00656_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
-
-#EXTINF:0 tvg-id="" tvg-logo="https://asianwiki.com/images/6/63/Mnet-p1.png" group-title="JapanTV",mnet-japan 일본vpn필요
-https://jplive-hls-c.smart.mnetjp.com/mnethls/s_s6/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-584-400x400.png" group-title="JapanTV",Music_On_TV 일본vpn필요
-https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=26961&e=202830&ep=delta03_04&eh=Linear_00641_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
-
-#EXTINF:0 tvg-id="FujiOne.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png" group-title="JapanTV",Fuji_One 일본vpn필요
-https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23818&e=99171&ep=delta07_08&eh=Linear_00614_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
-
-#EXTINF:0 tvg-id="FujiTwo.jp" tvg-logo="https://thumb.skyperfectv.co.jp/uploads/attachment/file/p/f/k/9/https://thumb.skyperfectv.co.jp/uploads/tmp/1506324260-20825-0929-2752/e_Linear_00615_1_medium_large.jpg" group-title="JapanTV",Fuji_Two 일본vpn필요
-https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23819&e=99172&ep=delta07_08&eh=Linear_00615_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
-
-#EXTINF:0 tvg-id="FujiNext.jp" tvg-logo="https://cc-tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png" group-title="JapanTV",Fuji_Next 일본vpn필요
-https://vod-live2.skyperfectv.co.jp/m3u8/view_m3u8_api.m3u8?p=23820&e=99173&ep=delta01_02&eh=Linear_00613_2m&enssl=1&spod_viewaeskey_auth_245516=MU9HRE13ZWRPVGlJbkpyL2xTSEoweWtyWUpqWCt6WVpVRTVyMk16VzVtUT0%3D%3Fe%3D245516%3A1598181597%26_expire%3D1598185497
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",일본쇼핑1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
