@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://epg.best/1c184-i0bxd7.xml.gz" x-tvg-url="https://epg.best/1c184-i0bxd7.xml.gz" url-tvg="https://raw.githubusercontent.com/jassmusic/KLive/master/klive.xml" x-tvg-url="https://raw.githubusercontent.com/jassmusic/KLive/master/klive.xml"
+﻿#EXTM3U"
 
 
 
@@ -90,7 +90,7 @@ http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklis
 
 
 #EXTINF:-1 tvg-id="NHK1Tokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1200px-NHK_General_TV_logo.svg.png" group-title="JapanTV",NHK
-https://nhk.mov3.co/hls/nhk.m3u8
+https://nhk1.mov3.co/hls/nhk.m3u8
 http://itskoi.dothome.co.kr/jptv.php?id=kanto_nhk_g
 
 #EXTINF:-1 tvg-id="eTele.jp" tvg-logo="https://www.nhk-ed.co.jp/wp-content/themes/nhked/img/ogp.png" group-title="JapanTV",NHK E
@@ -100,7 +100,7 @@ http://redlabmcdn.s.llnwi.net/jp04/ryowa1hd/playlist.m3u8
 http://itskoi.dothome.co.kr/jpn.php?id=K111
 
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://blog.ariafloat.com/wp-content/uploads/2019/10/fujitv-logo.png" group-title="JapanTV", Fuji TV
-https://fujitv.mov3.co/hls/fujitv.m3u8
+https://fujitv1.mov3.co/hls/fujitv.m3u8
 http://itskoi.dothome.co.kr/jptv.php?id=kanto_fuji
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://www.jpvisitor.com/images/content/20171017/13671a7c055dcb9c.png" group-title="JapanTV",Nihon TV
@@ -108,6 +108,7 @@ https://ntv1.mov3.co/hls/ntv.m3u8
 http://itskoi.dothome.co.kr/jptv.php?id=kanto_nippon
 
 #EXTINF:-1 tvg-id="Asahi.jp" tvg-logo="https://www.tv-asahi.co.jp/ips/contents/Topics/0001/img/0_28.jpg" group-title="JapanTV",TV Asahi
+https://tna5.bozztv.com/asahitv/index.m3u8
 
 
 
@@ -120,7 +121,7 @@ http://itskoi.dothome.co.kr/jptv.php?id=kanto_tbs
 
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JapanTV",TV Tokyo
 
-https://vsd83.mycdn.me/hls/1616301591156.m3u8/sig/1KUJF9cGuNg/expires/1629948612704/srcIp/36.2.146.53/clientType/0/srcAg/UNKNOWN/mid/3012593917556/video.m3u8?p
+https://vsd119.mycdn.me/hls/1616301591156.m3u8/sig/lRmgOtz19g0/expires/1629950406650/srcIp/36.2.146.53/clientType/0/srcAg/UNKNOWN/mid/3012593917556/video.m3u8?
 
 #EXTINF:-1 group-title="JapanTV",Japanet channel DX
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
