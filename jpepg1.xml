@@ -1,55 +1,53 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-
 <tv generator-info-name="epg2xml 1.5.2">
-
 	<channel id="Tokyo MX">
 		<display-name>Tokyo MX</display-name>
-		<icon src="https://s.mxtv.jp/images/yumelion_200x200.jpg"/>
+		<icon src="https://s.mxtv.jp/images/yumelion_200x200.jpg" />
 	</channel>
 	<channel id="Animax.id">
 		<display-name>Animax ID</display-name>
-		<icon src="https://static.epg.best/id/Animax.id.png"/>
+		<icon src="https://static.epg.best/id/Animax.id.png" />
 	</channel>
 	<channel id="Asahi.jp">
 		<display-name>テレビ朝日</display-name>
-		<icon src="https://static.epg.best/jp/Asahi.jp.png"/>
+		<icon src="https://static.epg.best/jp/Asahi.jp.png" />
 	</channel>
 	<channel id="eTele.jp">
 		<display-name>NHK Eテレ</display-name>
-		<icon src="https://static.epg.best/jp/eTele.jp.png"/>
+		<icon src="https://static.epg.best/jp/eTele.jp.png" />
 	</channel>
 	<channel id="FujiTV.jp">
 		<display-name>フジTV</display-name>
-		<icon src="https://static.epg.best/jp/FujiTV.jp.png"/>
+		<icon src="https://static.epg.best/jp/FujiTV.jp.png" />
 	</channel>
 	<channel id="NHK1Tokyo.jp">
 		<display-name>NHK総合・東京</display-name>
-		<icon src="https://static.epg.best/jp/NHK1Tokyo.jp.png"/>
+		<icon src="https://static.epg.best/jp/NHK1Tokyo.jp.png" />
 	</channel>
 	<channel id="NipponTV.jp">
 		<display-name>日テレ</display-name>
-		<icon src="https://static.epg.best/jp/NipponTV.jp.png"/>
+		<icon src="https://static.epg.best/jp/NipponTV.jp.png" />
 	</channel>
 	<channel id="TBS2.jp">
 		<display-name>TBS</display-name>
-		<icon src="https://static.epg.best/jp/TBS2.jp.png"/>
+		<icon src="https://static.epg.best/jp/TBS2.jp.png" />
 	</channel>
 	<channel id="TVTokyo.jp">
 		<display-name>TV Tokyo</display-name>
-		<icon src="https://static.epg.best/jp/TVTokyo.jp.png"/>
+		<icon src="https://static.epg.best/jp/TVTokyo.jp.png" />
 	</channel>
 	<channel id="FujiNext.jp">
 		<display-name>Fuji Next JP</display-name>
-		<icon src="https://static.epg.best/jp/FujiNext.jp.png"/>
+		<icon src="https://static.epg.best/jp/FujiNext.jp.png" />
 	</channel>
 	<channel id="FujiOne.jp">
 		<display-name>Fuji One JP</display-name>
-		<icon src="https://static.epg.best/jp/FujiOne.jp.png"/>
+		<icon src="https://static.epg.best/jp/FujiOne.jp.png" />
 	</channel>
 	<channel id="FujiTwo.jp">
 		<display-name>Fuji Two JP</display-name>
-		<icon src="https://static.epg.best/jp/FujiTwo.jp.png"/>
+		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
 	<programme start="20210826233000" stop="20210827002000" channel="NHK1Tokyo.jp">
