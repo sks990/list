@@ -50,11 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210827045000" stop="20210827050000" channel="NHK1Tokyo.jp">
-		<title lang="ja">時論公論</title>
-		<desc lang="ja">みずほ銀行でシステム障害が相次いで発生した。度重なる失態に利用者からは厳しい批判が上がっている。障害が相次いだ背景、信頼を取り戻すには何が必要なのか考える。</desc>
-	</programme>
-
 	<programme start="20210827050000" stop="20210827060000" channel="NHK1Tokyo.jp">
 		<title lang="ja">NHKニュース おはよう日本</title>
 		<desc lang="ja">▼自民党総裁選　岸田氏立候補表明　菅氏も再選に意欲　▼パラリンピック　日本初の金メダルは競泳　鈴木孝幸選手／バスケットボール男子・女子／自転車　ほか</desc>
@@ -325,9 +320,29 @@
 		<desc lang="ja"></desc>
 	</programme>
 
-	<programme start="20210827040000" stop="20210827053000" channel="eTele.jp">
+	<programme start="20210828051000" stop="20210828051500" channel="NHK1Tokyo.jp">
 		<title lang="ja"></title>
+		<desc lang="ja">パリから帰国した栄一は、静岡で再スタートを決意。そこに舞い込んだ新政府への誘い…。持ち前の才覚で、どう時代を切り開くのか？新時代・明治の栄一の活躍をたっぷり紹介</desc>
+	</programme>
+
+	<programme start="20210828051500" stop="20210828054000" channel="NHK1Tokyo.jp">
+		<title lang="ja">うまいッ!</title>
+		<desc lang="ja">ももクロの高城れにさん初登場！▽もも並みの甘さ！「天空かぼちゃ」▽甘さのヒミツ！宙に浮かせて育てる▽夏にピッタリ！かぼちゃレシピ！さわやか煮物と冷静パスタ</desc>
+	</programme>
+
+	<programme start="20210828054000" stop="20210828055000" channel="NHK1Tokyo.jp">
+		<title lang="ja">NHK映像ファイル あの人に会いたい</title>
+		<desc lang="ja">今年３月に亡くなった田中邦衛さん。アクの強い風貌の個性的な脇役として活躍。ドラマ「北の国から」では子どもの成長を見守る不器用な父親を演じ国民的人気を集めた。</desc>
+	</programme>
+
+	<programme start="20210828055000" stop="20210828060000" channel="NHK1Tokyo.jp">
+		<title lang="ja">気象情報</title>
 		<desc lang="ja"></desc>
+	</programme>
+
+	<programme start="20210828060000" stop="20210828063000" channel="NHK1Tokyo.jp">
+		<title lang="ja">NHKニュース おはよう日本</title>
+		<desc lang="ja">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
 	</programme>
 
 	<programme start="20210827053000" stop="20210827060000" channel="eTele.jp">
@@ -750,9 +765,14 @@
 		<desc lang="ja"></desc>
 	</programme>
 
-	<programme start="20210827043000" stop="20210827055000" channel="NipponTV.jp">
-		<title lang="ja">Oha!4 NEWS LIVE</title>
-		<desc lang="ja">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽モデルナに異物混入▽全国の重症者が過去最多▽アフガンの空港近くで爆発</desc>
+	<programme start="20210828053000" stop="20210828055500" channel="eTele.jp">
+		<title lang="ja">レイチェルのおうちごはん</title>
+		<desc lang="ja">料理人、レイチェル・クーのシンプルだけど一味違う！ひとくち食べればみんな笑顔のおうちごはん。スウェーデンからレイチェル流の家庭料理を紹介する全８回のシリーズ。</desc>
+	</programme>
+
+	<programme start="20210828055500" stop="20210828062500" channel="eTele.jp">
+		<title lang="ja">ターシャの森から</title>
+		<desc lang="ja">夏の森は発見に満ちたワンダーランド。咲き乱れる花々、渡りをするチョウや不思議なキノコ。子どもたちはエンドウ豆やカブ、ブルーベリーを収穫してその場で味わいます。</desc>
 	</programme>
 
 	<programme start="20210827055000" stop="20210827080000" channel="NipponTV.jp">
@@ -866,6 +886,21 @@
 	<programme start="20210828045400" stop="20210828052400" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
+	</programme>
+
+	<programme start="20210828052400" stop="20210828052900" channel="NipponTV.jp">
+		<title lang="ja">5分でわかるファッション展</title>
+		<desc lang="ja">ＺＩＰ！の流行ニュース「キテルネ！」特別版。「あなたの好きな服がきっとある」　モデルのわたなべ麻衣がファッションの歴代日本代表を徹底調査！</desc>
+	</programme>
+
+	<programme start="20210828052900" stop="20210828053000" channel="NipponTV.jp">
+		<title lang="ja">日テレみどころ</title>
+		<desc lang="ja"></desc>
+	</programme>
+
+	<programme start="20210828053000" stop="20210828080000" channel="NipponTV.jp">
+		<title lang="ja">ズームイン!!サタデー</title>
+		<desc lang="ja">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタいち押し！</desc>
 	</programme>
 
 	<programme start="20210827045500" stop="20210827080000" channel="Asahi.jp">
@@ -994,6 +1029,22 @@
 	<programme start="20210828045500" stop="20210828052000" channel="Asahi.jp">
 		<title lang="ja">おかずのクッキング</title>
 		<desc lang="ja">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
+	</programme>
+
+	<programme start="20210828052000" stop="20210828055000" channel="Asahi.jp">
+		<title lang="ja">日本のチカラ</title>
+		<desc lang="ja">「教えない教育」を実践する、モノづくりと遊びのガッコウ…さまざまな子どもたちが笑顔になっていく日々を追いました。</desc>
+	</programme>
+
+	<programme start="20210828055000" stop="20210828060000" channel="Asahi.jp">
+		<title lang="ja">ANNニュース</title>
+		<desc lang="ja">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+	</programme>
+
+	<programme start="20210828060000" stop="20210828080000" channel="Asahi.jp">
+		<title lang="ja">週刊ニュースリーダー</title>
+		<desc lang="ja">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
+城島茂が各界のリーダーを現場取材します！</desc>
 	</programme>
 
 	<programme start="20210827042500" stop="20210827060000" channel="TBS2.jp">
@@ -1129,12 +1180,14 @@
 </desc>
 	</programme>
 
-	<programme start="20210827042300" stop="20210827054500" channel="TVTokyo.jp">
-		<title lang="ja">ものスタ</title>
-		<desc lang="ja">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+	<programme start="20210828051500" stop="20210828053000" channel="TBS2.jp">
+		<title lang="ja">皇室アルバム</title>
+		<desc lang="ja">『天皇皇后両陛下　全国戦没者追悼式ご出席』 </desc>
+	</programme>
+
+	<programme start="20210828053000" stop="20210828070000" channel="TBS2.jp">
+		<title lang="ja">まるっと!サタデー</title>
+		<desc lang="ja">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
 	</programme>
 
 	<programme start="20210827054500" stop="20210827070500" channel="TVTokyo.jp">
@@ -1363,9 +1416,14 @@
 「タ」っぷりとご紹介するショッピング番組</desc>
 	</programme>
 
-	<programme start="20210827045500" stop="20210827052500" channel="FujiTV.jp">
-		<title lang="ja">めざましテレビ全部見せ</title>
-		<desc lang="ja">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+	<programme start="20210828054500" stop="20210828060000" channel="TVTokyo.jp">
+		<title lang="ja">Eネ!</title>
+		<desc lang="ja">テレビ東京お薦めのエンタメ情報をお届け！映画・イベント・ＤＶＤなどを紹介します！</desc>
+	</programme>
+
+	<programme start="20210828060000" stop="20210828065400" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
 	</programme>
 
 	<programme start="20210827052500" stop="20210827080000" channel="FujiTV.jp">
@@ -1483,13 +1541,21 @@
 		<desc lang="ja">「心でつなぐ　オランウータンの命」
 小菅正夫（札幌市円山動物園参与）</desc>
 	</programme>
-	<programme start="20210827043000" stop="20210827050000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+
+	<programme start="20210828052200" stop="20210828053000" channel="FujiTV.jp">
+		<title lang="ja">ぼのぼの</title>
+		<desc lang="ja">「ぼのちゃん〜タマあそびをしよう」
+登場キャラクター：ぼのちゃん　ぼのちゃんのおとうさん　シマリスちゃん　アライグマちゃん　他</desc>
 	</programme>
-	<programme start="20210827050000" stop="20210827053000" channel="Tokyo MX">
-		<title lang="ja">うたなび!</title>
-		<desc lang="ja"> </desc>
+
+	<programme start="20210828053000" stop="20210828060000" channel="FujiTV.jp">
+		<title lang="ja">週刊フジテレビ批評</title>
+		<desc lang="ja">「テレビ離れの実態」大学生１２人とオンライン対談！テレビよりスマホ？アプリで新しい動画視聴も…縦型コンテンツ時代の幕開け女子大学生メディア視聴を定点観察</desc>
+	</programme>
+
+	<programme start="20210828060000" stop="20210828083000" channel="FujiTV.jp">
+		<title lang="ja">めざましどようび</title>
+		<desc lang="ja">めざましどようびニュース＆スポーツを１週間まとめチェック▽今週のエンタメ全見せ未公開＆舞台裏映像▽週末おすすめスポット▽出演者が挑戦！じゃんけん２回＆占い</desc>
 	</programme>
 	<programme start="20210827053000" stop="20210827060000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1660,6 +1726,14 @@
 		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210828050000" stop="20210828053000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210828053000" stop="20210828060000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210828060000" stop="20210828063000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
