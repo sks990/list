@@ -50,11 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210827193000" stop="20210827205900" channel="NHK1Tokyo.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇陸上　男子１００ｍ　Ｔ４７・決勝、男子４００ｍ　Ｔ５２・決勝、男子５０００ｍ　Ｔ５４・予選ほか（中継）　【出演】櫻井翔，根木慎志，後藤佑季，三上大進ほか</desc>
-	</programme>
-
 	<programme start="20210827205900" stop="20210827210000" channel="NHK1Tokyo.jp">
 		<title lang="ja"></title>
 		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -315,9 +310,19 @@
 		<desc lang="ja">◇陸上　男子走り幅跳び　Ｔ６３・決勝、女子１００ｍ　Ｔ３８・決勝、男子５０００ｍ　Ｔ５４・決勝ほか（中継）　【出演】武井壮，田口亜希，増田明美，後藤佑季ほか</desc>
 	</programme>
 
-	<programme start="20210827185000" stop="20210827204500" channel="eTele.jp">
+	<programme start="20210828204400" stop="20210828204500" channel="NHK1Tokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	</programme>
+
+	<programme start="20210828204500" stop="20210828205000" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース・気象情報</title>
+		<desc lang="ja"></desc>
+	</programme>
+
+	<programme start="20210828205000" stop="20210828221500" channel="NHK1Tokyo.jp">
 		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇競泳　男子２００ｍ個人メドレー　ＳＭ７・決勝ほか（中継）◇競泳　男子２００ｍ個人メドレー　ＳＭ７・決勝、女子２００ｍ個人メドレー　ＳＭ７・決勝、</desc>
+		<desc lang="ja">◇陸上　男子走り幅跳び　Ｔ６３・決勝、女子４００ｍ　Ｔ４７・決勝ほか（中継）　【出演】武井壮，田口亜希，増田明美，後藤佑季，萩原智子，【アナウンサー】中野淳ほか</desc>
 	</programme>
 
 	<programme start="20210827204500" stop="20210827210000" channel="eTele.jp">
@@ -565,9 +570,14 @@
 		<desc lang="ja">◇競泳　混合４００ｍリレー　Ｓ１４・決勝ほか（中継）　◇８：００頃　ゴールボール　男子・予選リーグ　グループＡ「日本×リトアニア」（録画）</desc>
 	</programme>
 
-	<programme start="20210827195600" stop="20210827205400" channel="NipponTV.jp">
-		<title lang="ja">沸騰ワード10</title>
-		<desc lang="ja">自衛隊に取り憑かれたカズレーザーが市ヶ谷防衛省の巨大施設にTV初潜入&施設科部隊の激レア装備品AMLVを激撮!▼とんでもない知識量を披露!取り憑かれた上白石萌歌</desc>
+	<programme start="20210828204500" stop="20210828210000" channel="eTele.jp">
+		<title lang="ja">ろうを生きる 難聴を生きる</title>
+		<desc lang="ja">手話で生み出す笑いが人気のコメディ演劇グループ「男組」。コロナ禍で中止を余儀なくされた公演を１年ぶりに再開。笑いを真剣に追求する舞台裏に密着しました。</desc>
+	</programme>
+
+	<programme start="20210828210000" stop="20210828213000" channel="eTele.jp">
+		<title lang="ja">すくすく子育て</title>
+		<desc lang="ja">去年１２月に放送した特別番組「すくすくアイデア大賞」からもう一度見たいアイデアを厳選して紹介！アイデアを考えた家族のその後の様子も伝える。</desc>
 	</programme>
 
 	<programme start="20210827205400" stop="20210827210000" channel="NipponTV.jp">
@@ -711,9 +721,14 @@
 		<desc lang="ja">所ジョージ先生の少し変えたらすんごく売れた！▼形を変えただけで売上２億円の布団にジャニーズＷＥＳＴ濱田驚き！▼橋本環奈が世田谷ベースで所流人生の楽しみ方を学ぶ！</desc>
 	</programme>
 
-	<programme start="20210827184500" stop="20210827203500" channel="Asahi.jp">
-		<title lang="ja">ザワつく!金曜日</title>
-		<desc lang="ja">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
+	<programme start="20210828205400" stop="20210828210000" channel="NipponTV.jp">
+		<title lang="ja">ワーズハウスへようこそ</title>
+		<desc lang="ja">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
+	</programme>
+
+	<programme start="20210828210000" stop="20210828215400" channel="NipponTV.jp">
+		<title lang="ja">1億3000万人のSHOWチャンネル</title>
+		<desc lang="ja">生田斗真の人生を８つのエピソードで紹介！新企画「人生チャート」が始動！▽大抜擢のデビュー時代から同期・嵐との秘話まで続々▽パン好き芸能人が選び抜いた絶品パンも！</desc>
 	</programme>
 
 	<programme start="20210827203500" stop="20210827214800" channel="Asahi.jp">
@@ -920,6 +935,11 @@
 		<desc lang="ja">施設はどうなる？お金は？…オリンピックが終わって明らかになった課題を徹底解説！そして今週から始まったパラリンピック、一体どんな大会か知っておこう！</desc>
 	</programme>
 
+	<programme start="20210828205400" stop="20210828215500" channel="Asahi.jp">
+		<title lang="ja">サタデーステーション</title>
+		<desc lang="ja">２１都道府県に“緊急事態”拡大…子どもの感染増加で対策は？▽自宅療養になったら…往診医師が語る現状▽東京パラリンピック▽大谷翔平▽夏の甲子園・準決勝▽プロ野球(他)</desc>
+	</programme>
+
 	<programme start="20210827190000" stop="20210827220000" channel="TBS2.jp">
 		<title lang="ja">THE鬼タイジ</title>
 		<desc lang="ja">遊園地を占拠した鬼６６体を撃ち倒せ！加藤浩次、フワちゃん、、春日ら２１人参戦！お化け屋敷が鬼屋敷に…鬼化した元メジャーリーガー＆高速ドローン鬼…生き残るのは？</desc>
@@ -1091,6 +1111,11 @@
 	<programme start="20210828185100" stop="20210828210000" channel="TBS2.jp">
 		<title lang="ja">生放送で満点出せるか 100点カラオケ音楽祭</title>
 		<desc lang="ja">SMAPの超名曲オレンジを現役音大の天才ジャニーズが…優里のドライフラワーを強豪アカペラ部部長が…ガチ熱唱！一発勝負満点出したら100万円！賞金総額900万円</desc>
+	</programme>
+
+	<programme start="20210828210000" stop="20210828215400" channel="TBS2.jp">
+		<title lang="ja">世界ふしぎ発見!</title>
+		<desc lang="ja">地球最後の秘境・南極へ豪華船旅！海洋冒険家・白石康次郎と迫る▽氷の下に潜む未知の生命体▽南極で進む宇宙研究が生命の起源を解き明かす！？衝撃映像続々！観測隊の日常</desc>
 	</programme>
 
 	<programme start="20210827195500" stop="20210827214800" channel="TVTokyo.jp">
@@ -1311,6 +1336,16 @@
 		<desc lang="ja">線路のみを道しるべに鉄道沿いの道を歩いてゴールを目指す！第１１弾は東京の八王子から富士山めざし河口湖駅へ！１泊２日で歩く距離なんと７５ｋｍ！果たしてゴールなるか</desc>
 	</programme>
 
+	<programme start="20210828205400" stop="20210828210000" channel="TVTokyo.jp">
+		<title lang="ja">生きるを伝える</title>
+		<desc lang="ja">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
+	</programme>
+
+	<programme start="20210828210000" stop="20210828215400" channel="TVTokyo.jp">
+		<title lang="ja">出没!アド街ック天国</title>
+		<desc lang="ja">最先端と下町情緒が融合する押上・東京スカイツリー▼プルふわカステラ＆豪快海鮮丼▼激シブ食堂の満腹定食▼大人も楽しい水族館＆プラネタリウム▼スカイツリーで運気UP</desc>
+	</programme>
+
 	<programme start="20210827190000" stop="20210827215800" channel="FujiTV.jp">
 		<title lang="ja">新しいカギ</title>
 		<desc lang="ja">１５年ぶりゴリエ復活！大ヒット曲ペコリナイト松尾せいや踊れるか？一ヶ月猛特訓で奇跡▽東京リベンジャーズ間宮祥太朗×ニセ吉沢亮再び▽箱根バカイジ体当たりツアー</desc>
@@ -1461,10 +1496,6 @@
 	<programme start="20210828183000" stop="20210828231000" channel="FujiTV.jp">
 		<title lang="ja">FNSラフ&ミュージック 〜歌と笑いの祭典〜</title>
 		<desc lang="ja">松本人志＆中居ナイナイ千鳥アンタの司会陣で音楽とお笑いの２夜連続生放送▼浜崎あゆみ＆スノーマンに爆笑問題＆かまいたち▼山崎育三郎×芸人コラボ▼千鳥クセスゴ歌謡祭</desc>
-	</programme>
-	<programme start="20210827195700" stop="20210827200000" channel="Tokyo MX">
-		<title lang="ja">ダイナ荘びより</title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210827200000" stop="20210827210000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
@@ -1677,5 +1708,17 @@
 	<programme start="20210828193000" stop="20210828202400" channel="Tokyo MX">
 		<title lang="ja">BOAT RACEプレミア</title>
 		<desc lang="ja">「準優勝戦」〜ＢＯＡＴＲＡＣＥ蒲郡</desc>
+	</programme>
+	<programme start="20210828202400" stop="20210828203000" channel="Tokyo MX">
+		<title lang="ja">シゴト手帖</title>
+		<desc lang="ja">〜ＡＬＬＮＬＰ（株式会社フェリックス）〜</desc>
+	</programme>
+	<programme start="20210828203000" stop="20210828210000" channel="Tokyo MX">
+		<title lang="ja">遊戯配信 e-Strangers</title>
+		<desc lang="ja">次世代の配信スターを発掘！今回はアウトドア系動画配信者スペシャル★狩野英孝＆篠崎こころのＭＣコンビと、テリー伊藤がアウトドア系動画配信者をジャッジ！</desc>
+	</programme>
+	<programme start="20210828210000" stop="20210828213000" channel="Tokyo MX">
+		<title lang="ja">斬波ZANMAI</title>
+		<desc lang="ja">単に怖い話をしてもつまらない？シチュエーションを“ちょい足し”してメンバーが怖い話を披露！</desc>
 	</programme>
 </tv>
