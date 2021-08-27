@@ -50,16 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210828055000" stop="20210828060000" channel="NHK1Tokyo.jp">
-		<title lang="ja">気象情報</title>
-		<desc lang="ja"></desc>
-	</programme>
-
-	<programme start="20210828060000" stop="20210828063000" channel="NHK1Tokyo.jp">
-		<title lang="ja">NHKニュース おはよう日本</title>
-		<desc lang="ja">▼緊迫するアフガン情勢　最新情報▼緊急事態宣言・地域を拡大　渋谷・若者のワクチン接種の現場は▼パラ陸上・佐藤友祈選手が金メダル！▼青森・ねぶた囃子　伝統をつなぐ</desc>
-	</programme>
-
 	<programme start="20210828063000" stop="20210828070000" channel="NHK1Tokyo.jp">
 		<title lang="ja">NHKニュース おはよう日本</title>
 		<desc lang="ja">▼新型コロナ・緊急事態宣言の地域が拡大　ワクチンは？最新情報▼ロヒンギャ難民　遠のくミャンマーへの帰還▼宮崎・空襲受けた小さな島　記憶を伝える朗読劇</desc>
@@ -330,24 +320,34 @@
 		<desc lang="ja"></desc>
 	</programme>
 
-	<programme start="20210828055500" stop="20210828062500" channel="eTele.jp">
-		<title lang="ja">ターシャの森から</title>
-		<desc lang="ja">夏の森は発見に満ちたワンダーランド。咲き乱れる花々、渡りをするチョウや不思議なキノコ。子どもたちはエンドウ豆やカブ、ブルーベリーを収穫してその場で味わいます。</desc>
+	<programme start="20210829061000" stop="20210829064000" channel="NHK1Tokyo.jp">
+		<title lang="ja">目撃!にっぽん</title>
+		<desc lang="ja">未曽有のコロナ禍で開かれた東京オリンピック。当初大きな期待を寄せていたのが、東京で宿を営む人たちだ。「夢」が「幻」となる中、オリンピックに彼らが見たものとは…。</desc>
 	</programme>
 
-	<programme start="20210828062500" stop="20210828063500" channel="eTele.jp">
-		<title lang="ja">テレビ体操</title>
-		<desc lang="ja">岡本美佳、幅しげみ、清水沙希、舘野伶奈、吉江晴菜、今井菜津美、戸塚寛子</desc>
+	<programme start="20210829064000" stop="20210829065000" channel="NHK1Tokyo.jp">
+		<title lang="ja">10分で巡る にっぽんの廃線</title>
+		<desc lang="ja">「１０分で巡る　にっぽんの廃線」北海道。札沼線（一部区間）、湧網線、広尾線、天北線、名寄本線、興浜北線、羽幌線の７路線を紹介します。</desc>
 	</programme>
 
-	<programme start="20210828063500" stop="20210828064500" channel="eTele.jp">
-		<title lang="ja">リトル・チャロ</title>
-		<desc lang="ja">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。４月からの半年は、ニューヨークで迷子になった子犬・チャロが日本に帰るまでの物語を描く。▽声：純名里沙</desc>
+	<programme start="20210829065000" stop="20210829065300" channel="NHK1Tokyo.jp">
+		<title lang="ja">にっぽん百名山ミニ 3min</title>
+		<desc lang="ja">鳥取県の大山（１７２９ｍ）は端正な姿から伯耆富士ともよばれる！西日本最大規模のブナの森、山頂から望む日本海側の大展望、１５種ほどが満開のお花畑を楽しむ夏の山旅！</desc>
 	</programme>
 
-	<programme start="20210828064500" stop="20210828065500" channel="eTele.jp">
-		<title lang="ja">えいごであそぼ with Orton</title>
-		<desc lang="ja">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+	<programme start="20210829065300" stop="20210829065500" channel="NHK1Tokyo.jp">
+		<title lang="ja">気象情報</title>
+		<desc lang="ja"></desc>
+	</programme>
+
+	<programme start="20210829065500" stop="20210829070000" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース・気象情報</title>
+		<desc lang="ja"></desc>
+	</programme>
+
+	<programme start="20210829070000" stop="20210829074000" channel="NHK1Tokyo.jp">
+		<title lang="ja">NHKニュース おはよう日本</title>
+		<desc lang="ja">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、日曜の名物・南さんの気象解説！</desc>
 	</programme>
 
 	<programme start="20210828065500" stop="20210828070000" channel="eTele.jp">
@@ -600,6 +600,21 @@
 		<desc lang="ja">選者：佐伯裕子、ゲスト：濱田龍臣、小澤愛実。テーマ「ファミレス」。約５０年前に誕生したファミリーレストランはどう変化してきたのか歌の中から探る。司会：井戸田潤。</desc>
 	</programme>
 
+	<programme start="20210829062500" stop="20210829063500" channel="eTele.jp">
+		<title lang="ja">テレビ体操</title>
+		<desc lang="ja">【出演】多胡肇，清水沙希，原川愛，吉江晴菜，今井菜津美，矢作あかり，【ピアノ】能條貴大</desc>
+	</programme>
+
+	<programme start="20210829063500" stop="20210829070000" channel="eTele.jp">
+		<title lang="ja">NHK俳句</title>
+		<desc lang="ja">初心者向け俳句講座。選者は櫂未知子さん。ゲストは田中要次さん。題は「枝豆」夏の食べ物と思われがちだが、実は秋の季語。今回は間違えやすい季語を紹介。司会　塚地武雅</desc>
+	</programme>
+
+	<programme start="20210829070000" stop="20210829070900" channel="eTele.jp">
+		<title lang="ja">わらたまドッカ〜ン</title>
+		<desc lang="ja">大人気のひょっこりはんと、実力派漫才師トータルテンボスの２０１８年の対決の再放送！８０人の小学生が玉入れで勝敗を決める。子どもたちをドッカ〜ンと笑わせるのは！</desc>
+	</programme>
+
 	<programme start="20210828053000" stop="20210828080000" channel="NipponTV.jp">
 		<title lang="ja">ズームイン!!サタデー</title>
 		<desc lang="ja">▽都内で新たに4227人感染▽大竹しのぶ直撃▽斉藤朱夏1stアルバム▽激カワ動物てんこもり▽G丸がご飯に”ちょい足し”したいモノ</desc>
@@ -781,9 +796,19 @@
 		<desc lang="ja">終戦から７６年、天皇陛下が受け継ぐ平和への想いをお伝えします。</desc>
 	</programme>
 
-	<programme start="20210828055000" stop="20210828060000" channel="Asahi.jp">
-		<title lang="ja">ANNニュース</title>
-		<desc lang="ja">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+	<programme start="20210829061500" stop="20210829063000" channel="NipponTV.jp">
+		<title lang="ja">NNNニュース・サンデー</title>
+		<desc lang="ja">最新のニュース、気になる気象情報をお伝えします。</desc>
+	</programme>
+
+	<programme start="20210829063000" stop="20210829070000" channel="NipponTV.jp">
+		<title lang="ja">遠くへ行きたい</title>
+		<desc lang="ja">今回は純烈の酒井一圭が桃太郎の国・岡山へ▽桃の形をした極上ぶどう▽かわいい桃尻グラス▽仰天！木製スーパーカーに試乗▽絶景の大露天風呂▽絶品チーズ＆和牛ステーキ！</desc>
+	</programme>
+
+	<programme start="20210829070000" stop="20210829073000" channel="NipponTV.jp">
+		<title lang="ja">所さんの目がテン!</title>
+		<desc lang="ja">新しく登録された世界遺産の魅力を目がテン秘蔵映像で紹介！▽生き物と自然が息づく沖縄・奄美で移住体験▽世界遺産の遺跡で縄文生活▽お世話になった現地の人の喜びの声も</desc>
 	</programme>
 
 	<programme start="20210828060000" stop="20210828080000" channel="Asahi.jp">
@@ -1180,14 +1205,14 @@
 		<desc lang="ja">日村さんインプラント治療完治を祝し、スタッフが全国から厳選した「カタくてうまい絶品グルメ」を噛み締める！超意外㊙フルーツ&美味さの詰まったご当地スイーツを堪能！</desc>
 	</programme>
 
-	<programme start="20210828054500" stop="20210828060000" channel="TVTokyo.jp">
-		<title lang="ja">Eネ!</title>
-		<desc lang="ja">テレビ東京お薦めのエンタメ情報をお届け！映画・イベント・ＤＶＤなどを紹介します！</desc>
+	<programme start="20210829064500" stop="20210829070000" channel="TBS2.jp">
+		<title lang="ja">JNNニュース</title>
+		<desc lang="ja">最新のニュースをお伝えします。</desc>
 	</programme>
 
-	<programme start="20210828060000" stop="20210828065400" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
+	<programme start="20210829070000" stop="20210829073000" channel="TBS2.jp">
+		<title lang="ja">健康カプセル!ゲンキの時間</title>
+		<desc lang="ja"> 発症すると激痛が走る病気「尿路結石」。放っておくと腎機能が停止する事や、全身に細菌がまわり死に至るケースも…。尿路結石の原因と対策を専門医に教えてもらいます。</desc>
 	</programme>
 
 	<programme start="20210828065400" stop="20210828070000" channel="TVTokyo.jp">
@@ -1402,9 +1427,14 @@
 		<desc lang="ja">日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。</desc>
 	</programme>
 
-	<programme start="20210828053000" stop="20210828060000" channel="FujiTV.jp">
-		<title lang="ja">週刊フジテレビ批評</title>
-		<desc lang="ja">「テレビ離れの実態」大学生１２人とオンライン対談！テレビよりスマホ？アプリで新しい動画視聴も…縦型コンテンツ時代の幕開け女子大学生メディア視聴を定点観察</desc>
+	<programme start="20210829065400" stop="20210829070000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
+	</programme>
+
+	<programme start="20210829070000" stop="20210829073000" channel="TVTokyo.jp">
+		<title lang="ja">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+		<desc lang="ja">殻の主要メンバーのアマドが、シカダイを人質にとり、木ノ葉隠れの里への亡命を求めてきた。アマドは亡命の見返りに知っている情報の提供を約束すると言うが…。</desc>
 	</programme>
 
 	<programme start="20210828060000" stop="20210828083000" channel="FujiTV.jp">
@@ -1533,13 +1563,21 @@
 		<title lang="ja">FNNニュース</title>
 		<desc lang="ja">日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。</desc>
 	</programme>
-	<programme start="20210828053000" stop="20210828060000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+
+	<programme start="20210829061500" stop="20210829063000" channel="FujiTV.jp">
+		<title lang="ja">GO!GO!チャギントン</title>
+		<desc lang="ja">世界で大人気の鉄道ＣＧアニメ「チャギントン」！ナビゲーター：つるの剛士・佐久間みなみアナ　他▽声：小林由美子　他▽＃４７１「ブルースターとドラゴン」</desc>
 	</programme>
-	<programme start="20210828060000" stop="20210828063000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+
+	<programme start="20210829063000" stop="20210829070000" channel="FujiTV.jp">
+		<title lang="ja">はやく起きた朝は…</title>
+		<desc lang="ja">憧れの運動靴を買っちゃった！▽飼い亀の亀吉はまさか！？▽スカッとしたい時にはこきりこ節！？▽ＢＴＳのライブの配信に感謝！
+〈出演〉松居直美・磯野貴理子・森尾由美</desc>
+	</programme>
+
+	<programme start="20210829070000" stop="20210829073000" channel="FujiTV.jp">
+		<title lang="ja">ボクらの時代</title>
+		<desc lang="ja">草刈民代×浅丘ルリ子×風吹ジュン</desc>
 	</programme>
 	<programme start="20210828063000" stop="20210828070000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1748,5 +1786,13 @@
 	<programme start="20210829060000" stop="20210829063000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829063000" stop="20210829070000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829070000" stop="20210829073000" channel="Tokyo MX">
+		<title lang="ja">TAKARAZUKA CAFEBREAK</title>
+		<desc lang="ja">今回は特別編‼珠城りょうさんのサヨナラ公演の模様を中心にお届けします</desc>
 	</programme>
 </tv>
