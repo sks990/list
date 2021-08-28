@@ -50,11 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210828165000" stop="20210828175900" channel="NHK1Tokyo.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇競泳　男子１００ｍ平泳ぎ　ＳＢ６・決勝、男子１００ｍ自由形　Ｓ１０・決勝、男子１５０ｍ個人メドレー　ＳＭ４・決勝ほか（中継）　【出演】武井壮，根木慎志ほか</desc>
-	</programme>
-
 	<programme start="20210828175900" stop="20210828180000" channel="NHK1Tokyo.jp">
 		<title lang="ja"></title>
 		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -345,9 +340,14 @@
 		<desc lang="ja">◇競泳　女子４００ｍ自由形　Ｓ７・決勝、男子　１００ｍ平泳ぎＳＢ１４・決勝、女子１００ｍ平泳ぎ　ＳＢ１４・決勝、男子　５０ｍ自由形　Ｓ９・決勝ほか（中継）</desc>
 	</programme>
 
-	<programme start="20210828165900" stop="20210828170000" channel="eTele.jp">
-		<title lang="ja">SDGsのうた</title>
-		<desc lang="ja">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+	<programme start="20210829175900" stop="20210829180000" channel="NHK1Tokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	</programme>
+
+	<programme start="20210829180000" stop="20210829180500" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース</title>
+		<desc lang="ja"></desc>
 	</programme>
 
 	<programme start="20210828170000" stop="20210828184500" channel="eTele.jp">
@@ -547,7 +547,7 @@
 
 	<programme start="20210829140000" stop="20210829165000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇車いすラグビー　３位決定戦（中継）</desc>
+		<desc lang="ja">◇車いすラグビー　３位決定戦（中継）　【解説】峰島靖，田村学，【アナウンサー】沢田石和樹</desc>
 	</programme>
 
 	<programme start="20210829165000" stop="20210829165500" channel="eTele.jp">
@@ -565,14 +565,19 @@
 		<desc lang="ja">「いないいないばあっ！」のワンワンとなかまたちがお届けする歌と笑顔のステージショー。今回は、東京のＮＨＫホールで収録した夏の発表会の模様をお届けします。</desc>
 	</programme>
 
-	<programme start="20210828160000" stop="20210828170000" channel="NipponTV.jp">
-		<title lang="ja">土曜ドラマ「ボイスII」今夜放送第6話から追いつけるSP</title>
-		<desc lang="ja">今夜放送第６話は生配信中に事件発生！唐沢寿明主演「ボイス2」これを見れば今から追いつける！緊張度MAXのタイムリミットサスペンス総ざらい！有名声優も毎話出演！</desc>
+	<programme start="20210829173000" stop="20210829175000" channel="eTele.jp">
+		<title lang="ja">きかんしゃトーマス</title>
+		<desc lang="ja">「はやいぞ！あかいきかんしゃ」「エドワードのやすむばしょ」</desc>
 	</programme>
 
-	<programme start="20210828170000" stop="20210828173000" channel="NipponTV.jp">
-		<title lang="ja">news every.サタデー</title>
-		<desc lang="ja">最新のニュース、気になる気象情報を詳しく分かりやすくお伝えします。</desc>
+	<programme start="20210829175000" stop="20210829180000" channel="eTele.jp">
+		<title lang="ja">こども手話ウイークリー</title>
+		<desc lang="ja">東京パラリンピックが開幕しました。開幕式や注目の競技はもちろんですが、おうちで観戦するときに楽しめるポイントをぜひ知っておきましょう。【キャスター】工藤咲子</desc>
+	</programme>
+
+	<programme start="20210829180000" stop="20210829184500" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja"></desc>
 	</programme>
 
 	<programme start="20210828173000" stop="20210828180000" channel="NipponTV.jp">
@@ -775,14 +780,19 @@
 		<desc lang="ja">メダルを逃した内村航平選手、五輪後に引退宣言をした土井レミイ杏利選手、難病と闘いながら見事5位の坂井丞選手☆メダルに手が届かなかった選手達の今の想いを伝えます</desc>
 	</programme>
 
-	<programme start="20210828163000" stop="20210828170000" channel="Asahi.jp">
-		<title lang="ja">クレヨンしんちゃん</title>
-		<desc lang="ja">しんのすけと風間くん、夏の終わりのプールで友情をたしかめる!?…夏休みのプール教室最後の日。参加者はしんのすけと風間くんの二人だけで―。残暑でも家族で爆笑３本立て</desc>
+	<programme start="20210829172500" stop="20210829173000" channel="NipponTV.jp">
+		<title lang="ja">もう笑点</title>
+		<desc lang="ja">１７時３０分から放送する「笑点」よりも５分早く「笑点」をみる事が出来るのが「もう笑点」です。昇太師匠をメインとした司会とメンバーによるおひとりさま大喜利。</desc>
 	</programme>
 
-	<programme start="20210828170000" stop="20210828173000" channel="Asahi.jp">
-		<title lang="ja">ドラえもん</title>
-		<desc lang="ja">キャンプで天狗が大暴れ！？『ゴロアワセトウでキャンプしよう』のび太が無人島で大かつやく！？『ロビンソンクルーソーセット』</desc>
+	<programme start="20210829173000" stop="20210829180000" channel="NipponTV.jp">
+		<title lang="ja">笑点</title>
+		<desc lang="ja">今日8月29日は焼き肉の日。そこで「行列の出来る焼き肉屋さんとは？」笑点流に答える</desc>
+	</programme>
+
+	<programme start="20210829180000" stop="20210829185500" channel="NipponTV.jp">
+		<title lang="ja">真相報道 バンキシャ!</title>
+		<desc lang="ja">バンキシャ！は毎週、注目されている事件・出来事について、他にない切り口で検証を加える番組です。今週もご期待ください。</desc>
 	</programme>
 
 	<programme start="20210828173000" stop="20210828180000" channel="Asahi.jp">
@@ -981,14 +991,23 @@
 		<desc lang="ja">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回は、新宿〜霞が関〜有楽町でビル内や地下街を巡る旅！</desc>
 	</programme>
 
-	<programme start="20210828164500" stop="20210828170000" channel="TBS2.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">🈑SMAPの超名曲オレンジを現役音大のジャニーズJr.が…松田聖子の大ヒット曲を藤岡弘の愛娘が…ガチ熱唱！賞金総額900万円！その前に前回満点を出した歌声大公開</desc>
+	<programme start="20210829172500" stop="20210829173000" channel="Asahi.jp">
+		<title lang="ja">二十歳の挑戦</title>
+		<desc lang="ja">番組では、それぞれが歩みだした２０歳前後の日々を、
+ドキュメント感あふれる映像で紹介。
+答えは一つではない
+一歩を踏み出した本気の「挑戦」にエールを送ります。</desc>
 	</programme>
 
-	<programme start="20210828170000" stop="20210828173000" channel="TBS2.jp">
-		<title lang="ja">バース・デイ</title>
-		<desc lang="ja">東京五輪史上最多58個のメダルラッシュから３週間。新たにスターとなった選手たち…21年の長き挑戦を続けた選手の“戦いを終えたその後”…支えてくれた家族への感謝</desc>
+	<programme start="20210829173000" stop="20210829180000" channel="Asahi.jp">
+		<title lang="ja">ANNスーパーJチャンネル</title>
+		<desc lang="ja">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+	</programme>
+
+	<programme start="20210829180000" stop="20210829190000" channel="Asahi.jp">
+		<title lang="ja">相葉マナブ</title>
+		<desc lang="ja">今回の食材は、埼玉県深谷市のオクラ！夏にぴったりの絶品簡単料理を地元農家の奥様たちから学びます！
+農家直伝のネバネバオクラ水とは？意外な夏の定番料理に大変身！</desc>
 	</programme>
 
 	<programme start="20210828173000" stop="20210828185000" channel="TBS2.jp">
@@ -1168,19 +1187,14 @@
 		<desc lang="ja">道の駅にはその地方の特産品とグルメが集結します▼千葉県館山市真夏のリゾートへ…向かう道中魅力あふれる道の駅でお届けモノ探し！▼所さんも思わず歌う⁉ドライブ旅へ！</desc>
 	</programme>
 
-	<programme start="20210828160000" stop="20210828171500" channel="TVTokyo.jp">
-		<title lang="ja">ニトリレディスゴルフトーナメント</title>
-		<desc lang="ja">史上３人目となる３週連続優勝へ、地元出身小祝さくら。東京五輪銀メダルの稲見萌寧は好発進！３日目はー。日本海に臨む美しいコースで北の風を味方につけるのは…</desc>
+	<programme start="20210829173000" stop="20210829180000" channel="TBS2.jp">
+		<title lang="ja">Nスタ</title>
+		<desc lang="ja">▼“感染爆発”つづく新型コロナ最新情報▼シリーズ「現場から、」パラ日本代表　出場決定後に亡くなった先輩選手の想いをつなぐ</desc>
 	</programme>
 
-	<programme start="20210828171500" stop="20210828172000" channel="TVTokyo.jp">
-		<title lang="ja">モノイズム</title>
-		<desc lang="ja">カタログやＣＭでは語り尽くせない、新製品の特徴などを各企業の開発者や研究者のインタビュー、秀逸な映像を駆使してご紹介します。</desc>
-	</programme>
-
-	<programme start="20210828172000" stop="20210828173000" channel="TVTokyo.jp">
-		<title lang="ja">TXNニュース</title>
-		<desc lang="ja">日本や世界の最新ニュースをコンパクトにお伝えする。</desc>
+	<programme start="20210829180000" stop="20210829183000" channel="TBS2.jp">
+		<title lang="ja">世界遺産</title>
+		<desc lang="ja">7月に世界遺産になった琉球列島の2つの島。落差100ｍの知られざる滝や日本最大級の水中鍾乳洞、絶景と「生きた化石」アマミノクロウサギなど貴重な生きものが見所。</desc>
 	</programme>
 
 	<programme start="20210828173000" stop="20210828180000" channel="TVTokyo.jp">
@@ -1383,9 +1397,25 @@
 		<desc lang="ja">都内で発生した強盗殺人事件。事件後行方不明となった容疑者は元恋人の前に姿を現すと刑事が推理するが…。</desc>
 	</programme>
 
-	<programme start="20210828153000" stop="20210828173000" channel="FujiTV.jp">
-		<title lang="ja">来週日曜夜8時は「逃走中×ONE　PIECE100巻記念コラボSP」</title>
-		<desc lang="ja">９月５日よる８時から放送「逃走中×ＯＮＥ　ＰＩＥＣＥ１００巻記念コラボＳＰ」直前ＳＰ！「上野アメ横妖怪伝説」上野のアメ横を逃走者、ハンターが駆け抜ける</desc>
+	<programme start="20210829171500" stop="20210829172000" channel="TVTokyo.jp">
+		<title lang="ja">My Fresh Life 最近見つけた、気持ちのいい暮らし方。</title>
+		<desc lang="ja">世の中が大きく変化するなかで最近、今までにない合理的な気持ちいい暮らし方を見つけ、颯爽と生きる人たちを紹介。
+生活の知恵や愛用品など最新情報はHPに！</desc>
+	</programme>
+
+	<programme start="20210829172000" stop="20210829173000" channel="TVTokyo.jp">
+		<title lang="ja">TXNニュース</title>
+		<desc lang="ja">日本や世界の最新ニュースをコンパクトにお伝えする。</desc>
+	</programme>
+
+	<programme start="20210829173000" stop="20210829180000" channel="TVTokyo.jp">
+		<title lang="ja">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+		<desc lang="ja">アマドは果心居士と結託し、殻のリーダー・ジゲンを欺いていたと告げると、ジゲンの本当の姿が、遠い昔この地にやって来た大筒木イッシキであることなどについて語りだす。</desc>
+	</programme>
+
+	<programme start="20210829180000" stop="20210829183000" channel="TVTokyo.jp">
+		<title lang="ja">パズドラ</title>
+		<desc lang="ja">パズドラプロリーグで優勝を果たした明石タイガを待っていたのは華やかな日々…ではなく、トラブルばかり。さらにモンスターたちも暴れまくり！？花草は今日も大騒ぎ！(他)</desc>
 	</programme>
 
 	<programme start="20210828173000" stop="20210828180000" channel="FujiTV.jp">
@@ -1550,13 +1580,27 @@
 		<title lang="ja">鶴瓶×サンドのとっておき街人</title>
 		<desc lang="ja">笑福亭鶴瓶とサンドウィッチマンの最強タッグによるＳＰ番組全国ネット第二弾を放送！浅草・阿佐ヶ谷所縁ゲストのおもてなしで、街ブラ＆絶品地元グルメを堪能！</desc>
 	</programme>
-	<programme start="20210828163000" stop="20210828170000" channel="Tokyo MX">
+
+	<programme start="20210829172000" stop="20210829172500" channel="FujiTV.jp">
 		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210828170000" stop="20210828175500" channel="Tokyo MX">
-		<title lang="ja">田村淳の訊きたい放題!</title>
-		<desc lang="ja">あなたの会社は大丈夫？　軍事力を使わない戦争！経済安全保障▼ゲスト：軍事ジャーナリスト・黒井文太郎／第一生命経済研究所・永濱利廣▼田村淳／中村仁美</desc>
+
+	<programme start="20210829172500" stop="20210829173000" channel="FujiTV.jp">
+		<title lang="ja">お台場馬術部</title>
+		<desc lang="ja">武井壮が新たな最強の称号を目指しお台場に「馬術部」を結成！！昨今関心の高まる「馬術」を極められるか！？</desc>
+	</programme>
+
+	<programme start="20210829173000" stop="20210829180000" channel="FujiTV.jp">
+		<title lang="ja">FNN Live News イット!</title>
+		<desc lang="ja">週末に起きたニュース・スポーツを一挙紹介。どこよりも早く正確な内容で内田嶺衣奈・奥寺健・佐久間みなみの３人のキャスターがお届けします。</desc>
+	</programme>
+
+	<programme start="20210829180000" stop="20210829183000" channel="FujiTV.jp">
+		<title lang="ja">ちびまる子ちゃん</title>
+		<desc lang="ja">〜まるちゃん大好き！８月のゲスト声優まつり〜
+『夏休みは残り何時間？』の巻
+『まる子とひまわり少女』の巻</desc>
 	</programme>
 	<programme start="20210828175500" stop="20210828180000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1765,5 +1809,13 @@
 	<programme start="20210829170000" stop="20210829175500" channel="Tokyo MX">
 		<title lang="ja">探偵!ナイトスクープ</title>
 		<desc lang="ja">依頼は、間寛平探偵が調査した『両手をグーで生活する２歳児』、澤部佑探偵の『爆笑！小ネタ集』、田村裕探偵の『通天閣の上から叫ぶ』。</desc>
+	</programme>
+	<programme start="20210829175500" stop="20210829180000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829180000" stop="20210829183000" channel="Tokyo MX">
+		<title lang="ja">news FLAG サンデー</title>
+		<desc lang="ja">東京の感染状況は？新型コロナ最新情報！▼ニューヨーク・ロンドンから届いたニュース▼気になる最新の気象情報は…！</desc>
 	</programme>
 </tv>
