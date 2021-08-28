@@ -50,21 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210828193000" stop="20210828204400" channel="NHK1Tokyo.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇陸上　男子走り幅跳び　Ｔ６３・決勝、女子１００ｍ　Ｔ３８・決勝、男子５０００ｍ　Ｔ５４・決勝ほか（中継）　【出演】武井壮，田口亜希，増田明美，後藤佑季ほか</desc>
-	</programme>
-
-	<programme start="20210828204400" stop="20210828204500" channel="NHK1Tokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-	</programme>
-
-	<programme start="20210828204500" stop="20210828205000" channel="NHK1Tokyo.jp">
-		<title lang="ja">ニュース・気象情報</title>
-		<desc lang="ja"></desc>
-	</programme>
-
 	<programme start="20210828205000" stop="20210828221500" channel="NHK1Tokyo.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇陸上　男子走り幅跳び　Ｔ６３・決勝、女子４００ｍ　Ｔ４７・決勝ほか（中継）　【出演】武井壮，田口亜希，増田明美，後藤佑季，萩原智子，【アナウンサー】中野淳ほか</desc>
@@ -350,9 +335,19 @@
 		<desc lang="ja">◇陸上　男子４００ｍ　Ｔ５３・決勝、男子１５００ｍ　Ｔ５２・決勝ほか（中継）　【出演】吉田沙保里，田口亜希，大西瞳，後藤佑季，【アナウンサー】中野淳ほか</desc>
 	</programme>
 
-	<programme start="20210828184500" stop="20210828204500" channel="eTele.jp">
+	<programme start="20210829205400" stop="20210829205500" channel="NHK1Tokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	</programme>
+
+	<programme start="20210829205500" stop="20210829210000" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース・気象情報</title>
+		<desc lang="ja"></desc>
+	</programme>
+
+	<programme start="20210829210000" stop="20210829220000" channel="NHK1Tokyo.jp">
 		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇競泳　混合４００ｍリレー　Ｓ１４・決勝ほか（中継）　◇８：００頃　ゴールボール　男子・予選リーグ　グループＡ「日本×リトアニア」（録画）</desc>
+		<desc lang="ja">◇陸上　男子１００ｍ　Ｔ６４・予選、男子１００ｍ　Ｔ６３・予選ほか（中継）　【出演】吉田沙保里，田口亜希，大西瞳，後藤佑季，【アナウンサー】中野淳，杉浦友紀ほか</desc>
 	</programme>
 
 	<programme start="20210828204500" stop="20210828210000" channel="eTele.jp">
@@ -590,9 +585,9 @@
 		<desc lang="ja">【アナウンサー】大澤幹朗</desc>
 	</programme>
 
-	<programme start="20210828195600" stop="20210828205400" channel="NipponTV.jp">
-		<title lang="ja">世界一受けたい授業</title>
-		<desc lang="ja">所ジョージ先生の少し変えたらすんごく売れた！▼形を変えただけで売上２億円の布団にジャニーズＷＥＳＴ濱田驚き！▼橋本環奈が世田谷ベースで所流人生の楽しみ方を学ぶ！</desc>
+	<programme start="20210829210000" stop="20210829230000" channel="eTele.jp">
+		<title lang="ja">古典芸能への招待</title>
+		<desc lang="ja">能・狂言の名作▽能「恋重荷（こいのおもに）」シテは観世流の人間国宝・大槻文藏▽狂言「二人大名（ふたりだいみょう）」茂山忠三郎・茂山千之丞・茂山逸平の花形共演</desc>
 	</programme>
 
 	<programme start="20210828205400" stop="20210828210000" channel="NipponTV.jp">
@@ -800,16 +795,14 @@
 		<desc lang="ja">あさこミステリーツアー奈良・和歌山！日本一のやまびこ対決＆世界初？ロボットと大縄跳び挑戦▼お祭り男VS最強王者！世界ホタテ釣り大会＆のろのろ一本橋競争で宮川覚醒</desc>
 	</programme>
 
-	<programme start="20210828185600" stop="20210828200000" channel="Asahi.jp">
-		<title lang="ja">サンドウィッチマン&芦田愛菜の博士ちゃん</title>
-		<desc lang="ja">子供博士こと“博士ちゃん”がサンド＆芦田愛菜に最強授業！
-今回はドラマ【科捜研の女】を愛する10歳少女が解説！
-ドラマで学ぶ最新科学捜査！愛菜も現場検証に挑戦！</desc>
+	<programme start="20210829205400" stop="20210829210000" channel="NipponTV.jp">
+		<title lang="ja">音のソノリティ</title>
+		<desc lang="ja">環境で変化する自然や天然の音、各地に根付く情緒溢れる文化の音、地球や生命の息遣いや生物の奏でる音楽など、様々なサウンドの世界を紹介。音の原風景を届けます。</desc>
 	</programme>
 
-	<programme start="20210828200000" stop="20210828205400" channel="Asahi.jp">
-		<title lang="ja">池上彰のニュースそうだったのか!!</title>
-		<desc lang="ja">施設はどうなる？お金は？…オリンピックが終わって明らかになった課題を徹底解説！そして今週から始まったパラリンピック、一体どんな大会か知っておこう！</desc>
+	<programme start="20210829210000" stop="20210829215400" channel="NipponTV.jp">
+		<title lang="ja">行列のできる法律相談所</title>
+		<desc lang="ja">ぐっさん＆山本耕史の伝説ユニットが上白石萌音へ生歌プレゼント!緑黄色社会・長屋VSよよよちゃん!井上芳雄の誘いを断った人気俳優Yとは？細田佳央太が気になる鯛焼き</desc>
 	</programme>
 
 	<programme start="20210828205400" stop="20210828215500" channel="Asahi.jp">
@@ -1005,6 +998,17 @@
 		<desc lang="ja">『ザワつく！金曜日』でお馴染み長嶋一茂と司会進行の高橋茂雄（サバンナ）が路線バスを貸し切り、横浜周辺をディープに巡る！</desc>
 	</programme>
 
+	<programme start="20210829205600" stop="20210829210000" channel="Asahi.jp">
+		<title lang="ja">食ノ音色</title>
+		<desc lang="ja">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
+今回の“食ノ音色”を奏でる主役は『豚肉の唐揚げ』です。</desc>
+	</programme>
+
+	<programme start="20210829210000" stop="20210829215500" channel="Asahi.jp">
+		<title lang="ja">サンデーステーション</title>
+		<desc lang="ja">日曜よる９時。新しい明日へ「再起動」。次の一週間のヒントにつながる報道番組を目指します。ニュースは総力取材、時代が見える独自特集、スポーツ、天気もしっかりと！</desc>
+	</programme>
+
 	<programme start="20210828185100" stop="20210828210000" channel="TBS2.jp">
 		<title lang="ja">生放送で満点出せるか 100点カラオケ音楽祭</title>
 		<desc lang="ja">SMAPの超名曲オレンジを現役音大の天才ジャニーズが…優里のドライフラワーを強豪アカペラ部部長が…ガチ熱唱！一発勝負満点出したら100万円！賞金総額900万円</desc>
@@ -1187,9 +1191,14 @@
 		<desc lang="ja">日村は夏の富士五湖で絶景×極上グルメ満喫★高畑充希＆大久保佳代子は福島市で旬の桃グルメ＆豪快天ぷらに悶絶★大好評！声優・木村昴が宮崎日南で極上焼肉×白米ドカ食い</desc>
 	</programme>
 
-	<programme start="20210828183000" stop="20210828205400" channel="TVTokyo.jp">
-		<title lang="ja">土曜スペシャル</title>
-		<desc lang="ja">線路のみを道しるべに鉄道沿いの道を歩いてゴールを目指す！第１１弾は東京の八王子から富士山めざし河口湖駅へ！１泊２日で歩く距離なんと７５ｋｍ！果たしてゴールなるか</desc>
+	<programme start="20210829205400" stop="20210829210000" channel="TBS2.jp">
+		<title lang="ja">フラッシュニュース</title>
+		<desc lang="ja">最新のニュースをお伝えします。</desc>
+	</programme>
+
+	<programme start="20210829210000" stop="20210829215400" channel="TBS2.jp">
+		<title lang="ja">TOKYO MER〜走る緊急救命室〜</title>
+		<desc lang="ja">🈑🈓　消火装置の故障で中毒事故が発生！しかしＭＥＲが許可なく外国大使館に突入すれば国際問題に…閉じ込められた職員の命を救うため、ルールを超えた危険な賭けに出る！</desc>
 	</programme>
 
 	<programme start="20210828205400" stop="20210828210000" channel="TVTokyo.jp">
@@ -1403,6 +1412,14 @@
 		<desc lang="ja">歌謡界に燦然と輝く、あの大ヒット曲を持つヒットシンガーが集結！日本国民の平均点と禁断のカラオケマシン採点勝負！ご本人は何点を叩き出す！？</desc>
 	</programme>
 
+	<programme start="20210829210000" stop="20210829215400" channel="TVTokyo.jp">
+		<title lang="ja">モヤモヤさまぁ〜ず2</title>
+		<desc lang="ja">▼天才！ダンボールアートの不思議師匠発見
+▼ザビエルカットを考案した老舗理容室の匠
+▼バングラデシュ出身の日本大好き蕎麦職人
+▼ビーサン飛ばしで大竹、大記録樹立</desc>
+	</programme>
+
 	<programme start="20210828183000" stop="20210828231000" channel="FujiTV.jp">
 		<title lang="ja">FNSラフ&ミュージック 〜歌と笑いの祭典〜</title>
 		<desc lang="ja">松本人志＆中居ナイナイ千鳥アンタの司会陣で音楽とお笑いの２夜連続生放送▼浜崎あゆみ＆乃木坂４６に爆笑問題＆かまいたち▼山崎育三郎×芸人コラボ▼千鳥クセスゴ歌謡祭</desc>
@@ -1588,14 +1605,6 @@
 	<programme start="20210829185900" stop="20210829230900" channel="FujiTV.jp">
 		<title lang="ja">FNSラフ&ミュージック 〜歌と笑いの祭典〜</title>
 		<desc lang="ja">松本人志＆中居ナイナイ千鳥アンタの司会陣で音楽とお笑いの生放送▼サンドウィッチマン＆チョコプラにキスマイ＆さだまさし▼日向坂がＢＴＳに変身▼ＥＸＩＬＥ対ＥＸＩＴ</desc>
-	</programme>
-	<programme start="20210828193000" stop="20210828202400" channel="Tokyo MX">
-		<title lang="ja">BOAT RACEプレミア</title>
-		<desc lang="ja">「準優勝戦」〜ＢＯＡＴＲＡＣＥ蒲郡</desc>
-	</programme>
-	<programme start="20210828202400" stop="20210828203000" channel="Tokyo MX">
-		<title lang="ja">シゴト手帖</title>
-		<desc lang="ja">〜ＡＬＬＮＬＰ（株式会社フェリックス）〜</desc>
 	</programme>
 	<programme start="20210828203000" stop="20210828210000" channel="Tokyo MX">
 		<title lang="ja">遊戯配信 e-Strangers</title>
@@ -1808,5 +1817,13 @@
 	<programme start="20210829200000" stop="20210829205400" channel="Tokyo MX">
 		<title lang="ja">BOAT RACEプレミア</title>
 		<desc lang="ja">「優勝戦」〜ＢＯＡＴＲＡＣＥ蒲郡</desc>
+	</programme>
+	<programme start="20210829205400" stop="20210829210000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829210000" stop="20210829213000" channel="Tokyo MX">
+		<title lang="ja">ぐらぶるTVちゃんねるっ!</title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
