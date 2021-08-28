@@ -50,16 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210828095900" stop="20210828100000" channel="NHK1Tokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-	</programme>
-
-	<programme start="20210828100000" stop="20210828100500" channel="NHK1Tokyo.jp">
-		<title lang="ja">ニュース・気象情報</title>
-		<desc lang="ja"></desc>
-	</programme>
-
 	<programme start="20210828100500" stop="20210828115300" channel="NHK1Tokyo.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇陸上　女子１００ｍ　Ｔ３８・予選、女子走り幅跳び　Ｔ６４・決勝ほか（中継）　【出演】武井壮，根木慎志，風間俊介，後藤佑季，【アナウンサー】松田利仁亜ほか</desc>
@@ -360,6 +350,16 @@
 		<desc lang="ja"></desc>
 	</programme>
 
+	<programme start="20210829100500" stop="20210829103000" channel="NHK1Tokyo.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇ブラインドサッカー　男子・予選リーグ　グループＡ「日本×フランス」（中継）</desc>
+	</programme>
+
+	<programme start="20210829103000" stop="20210829115400" channel="NHK1Tokyo.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇ゴールボール　女子・予選リーグ　グループＤ「日本×エジプト」（中継）</desc>
+	</programme>
+
 	<programme start="20210828090000" stop="20210828113900" channel="eTele.jp">
 		<title lang="ja">第103回全国高校野球選手権大会 全国大会</title>
 		<desc lang="ja">第１試合「近江」（滋賀）対「智弁和歌山」（和歌山）　第２試合「智弁学園」（奈良）対「京都国際」（京都）【第１試合】解説…川原崎哲也，アナウンサー…高瀬登志彦ほか</desc>
@@ -615,11 +615,6 @@
 		<desc lang="ja">◇陸上　女子走り幅跳び　Ｔ１２・決勝ほか（中継）　【陸上】解説…井村久美子，近藤克之，永尾嘉章，アナウンサー…浅井僚馬，塚本貴之</desc>
 	</programme>
 
-	<programme start="20210828092500" stop="20210828103000" channel="NipponTV.jp">
-		<title lang="ja">ぶらり途中下車の旅</title>
-		<desc lang="ja">初登場！渡辺大知が山手線でぶらり旅▽美味！焼かない？四角いハンバーグ▽音が出るギター型？バスケットボール型？ユニークバッグ▽カラフルでおしゃれ不織布マスク専門店</desc>
-	</programme>
-
 	<programme start="20210828103000" stop="20210828114500" channel="NipponTV.jp">
 		<title lang="ja">ゼロイチ</title>
 		<desc lang="ja">上白石萌歌とぼる塾の3人が、海と山に恵まれた千葉県南房総で同世代旅‼上白石萌歌が山で絶叫‼ぼる塾が子ブタレースに参戦‼</desc>
@@ -806,15 +801,9 @@
 		<desc lang="ja">ニュース・ショービズ・スポーツ・トレンド・グルメ・天気…１週間の気になる話題を詳しく紹介。明るく楽しく真面目に日本の今が学べる新型情報エンターテインメント番組。</desc>
 	</programme>
 
-	<programme start="20210828095500" stop="20210828100000" channel="Asahi.jp">
-		<title lang="ja">しあわせのたね。</title>
-		<desc lang="ja">２０３０年までに、持続可能でよりよい世界を目指す国際目標「ＳＤＧｓ」。
-番組では、未来に向けた“はじめの一歩”を実践している人たちに注目して紹介していきます。</desc>
-	</programme>
-
-	<programme start="20210828100000" stop="20210828103000" channel="Asahi.jp">
-		<title lang="ja">題名のない音楽会</title>
-		<desc lang="ja">「世界一要求が多い？エリザベート王妃国際音楽コンクールを知る音楽会」…今年５月、ピアニスト務川慧悟さんが見事３位受賞！過酷なコンクールの内容を伺います！</desc>
+	<programme start="20210829102500" stop="20210829112500" channel="NipponTV.jp">
+		<title lang="ja">ニノさん</title>
+		<desc lang="ja">田中圭が今一番気になるヘルシーチップス＆トーストのお供をおかずクラブが徹底調査！田中圭とダーツ対決も！▽「東大あれこれダービー」現役東大生が天才だと思う人は？</desc>
 	</programme>
 
 	<programme start="20210828103000" stop="20210828110000" channel="Asahi.jp">
@@ -1212,16 +1201,6 @@
 		<desc lang="ja">１週間のニュースを総まとめ！爆笑問題＆超辛口パネラーに旬なゲスト加え、独自取材と激アツトークでお送りする嵐のような９０分！唯一無二のジャーナリズムバラエティ！</desc>
 	</programme>
 
-	<programme start="20210828093000" stop="20210828100000" channel="TVTokyo.jp">
-		<title lang="ja">ドラゴンクエスト ダイの大冒険</title>
-		<desc lang="ja">ポップは魔法が効かないハドラー親衛騎団に対抗する術を探るため、師匠の大魔道士マトリフの元を訪れる。マトリフは自分でも使うのをためらう最強呪文を彼に教えるが…</desc>
-	</programme>
-
-	<programme start="20210828100000" stop="20210828103000" channel="TVTokyo.jp">
-		<title lang="ja">シャドウバース</title>
-		<desc lang="ja">ヒイロはシャドウグランプリのヒミツを解き明かすため、レオンのいる中央タワーを目指す。その行く手を阻むのは…強さを追い求める闇の貴公子、ルシア。</desc>
-	</programme>
-
 	<programme start="20210828103000" stop="20210828110000" channel="TVTokyo.jp">
 		<title lang="ja">パズドラ</title>
 		<desc lang="ja">チャレンジカップ準決勝。タイガの相手は王城に決まった。王城は『回復十字消し』による鉄壁の防御を見せつけ、タイガとトラゴンの攻撃はまったく通じず…。</desc>
@@ -1435,9 +1414,14 @@
 		<desc lang="ja">「キラッとプリ☆チャン」の桃山みらいが、「プリティーシリーズ」の歴代アイドルやスタァの活躍を紹介しながら夢を目指してキラキラ輝くフレンズたちを応援します。</desc>
 	</programme>
 
-	<programme start="20210828095500" stop="20210828102500" channel="FujiTV.jp">
-		<title lang="ja">ライオンのグータッチ</title>
-		<desc lang="ja">栗原恵が熱血指導！女子バレーチームが県大会出場をかけ２次予選に挑む！逆転に次ぐ逆転…激闘を制し県大会優勝という夢に近づくことができるのか！？涙のラスト</desc>
+	<programme start="20210829103000" stop="20210829110000" channel="TVTokyo.jp">
+		<title lang="ja">ミュークルドリーミーみっくす!</title>
+		<desc lang="ja">夏休みの宿題を頑張る『ゆめ』は、女王様からまだ願い事が残っていることを聞いて大喜び！一方、『アッキー』は、『ゆめ』がお誕生日だったことを知って……。</desc>
+	</programme>
+
+	<programme start="20210829110000" stop="20210829112500" channel="TVTokyo.jp">
+		<title lang="ja">ゴルフのキズナ</title>
+		<desc lang="ja">夢に向かって挑戦するゴルファーを名コーチが成功に導く！二人三脚で奮闘する本音や葛藤をリアルに描きます。▼今回は内藤雄士とプロテスト合格を目指す井上莉花のキズナ</desc>
 	</programme>
 
 	<programme start="20210828102500" stop="20210828110500" channel="FujiTV.jp">
@@ -1487,7 +1471,7 @@
 
 	<programme start="20210828183000" stop="20210828231000" channel="FujiTV.jp">
 		<title lang="ja">FNSラフ&ミュージック 〜歌と笑いの祭典〜</title>
-		<desc lang="ja">松本人志＆中居ナイナイ千鳥アンタの司会陣で音楽とお笑いの２夜連続生放送▼浜崎あゆみ＆スノーマンに爆笑問題＆かまいたち▼山崎育三郎×芸人コラボ▼千鳥クセスゴ歌謡祭</desc>
+		<desc lang="ja">松本人志＆中居ナイナイ千鳥アンタの司会陣で音楽とお笑いの２夜連続生放送▼浜崎あゆみ＆乃木坂４６に爆笑問題＆かまいたち▼山崎育三郎×芸人コラボ▼千鳥クセスゴ歌謡祭</desc>
 	</programme>
 
 	<programme start="20210828231000" stop="20210828234000" channel="FujiTV.jp">
@@ -1591,14 +1575,6 @@
 	<programme start="20210829100000" stop="20210829111500" channel="FujiTV.jp">
 		<title lang="ja">松本・中居・ナイナイのラフ&ミュージック朝</title>
 		<desc lang="ja">昨日放送された名場面を松本・中居・ナイナイが振り返る▼今夜６時５９分〜生放送の第２夜の見どころを４人が紹介▼サンド＆チョコプラ＆キスマイ▼日向坂がＢＴＳに変身</desc>
-	</programme>
-	<programme start="20210828093000" stop="20210828100000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210828100000" stop="20210828103000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210828103000" stop="20210828113000" channel="Tokyo MX">
 		<title lang="ja">東京ホンマもん教室</title>
@@ -1803,5 +1779,17 @@
 	<programme start="20210829100000" stop="20210829102900" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829102900" stop="20210829105500" channel="Tokyo MX">
+		<title lang="ja">D_CIDE TRAUMEREI THE ANIMATION</title>
+		<desc lang="ja">＃８「匣（はこ）の中」</desc>
+	</programme>
+	<programme start="20210829105500" stop="20210829110000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829110000" stop="20210829115500" channel="Tokyo MX">
+		<title lang="ja">京都浪漫〜美と伝統を訪ねる〜</title>
+		<desc lang="ja">夏の大原〜知られざる物語〜</desc>
 	</programme>
 </tv>
