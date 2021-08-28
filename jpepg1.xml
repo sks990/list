@@ -50,26 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210828115400" stop="20210828120000" channel="NHK1Tokyo.jp">
-		<title lang="ja">気象情報</title>
-		<desc lang="ja"></desc>
-	</programme>
-
-	<programme start="20210828120000" stop="20210828121000" channel="NHK1Tokyo.jp">
-		<title lang="ja">ニュース</title>
-		<desc lang="ja">【キャスター】高井正智</desc>
-	</programme>
-
-	<programme start="20210828121000" stop="20210828121500" channel="NHK1Tokyo.jp">
-		<title lang="ja">ニュース</title>
-		<desc lang="ja"></desc>
-	</programme>
-
-	<programme start="20210828121500" stop="20210828125500" channel="NHK1Tokyo.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇陸上　男子４００ｍ　Ｔ１１・予選ほか（中継）　【出演】武井壮，根木慎志，風間俊介，後藤佑季，【アナウンサー】松田利仁亜，保里小百合，中川安奈ほか</desc>
-	</programme>
-
 	<programme start="20210828125500" stop="20210828131000" channel="NHK1Tokyo.jp">
 		<title lang="ja">【連続テレビ小説】おかえりモネ</title>
 		<desc lang="ja">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
@@ -360,9 +340,19 @@
 		<desc lang="ja">【キャスター】佐藤誠太</desc>
 	</programme>
 
-	<programme start="20210828114000" stop="20210828120000" channel="eTele.jp">
-		<title lang="ja">週間手話ニュース</title>
-		<desc lang="ja">新型コロナ対策の緊急事態宣言が拡大。医療体制の危機的な状況も続いています。このほか東京パラリンピックなど今週のニュースをお伝えします。　板鼻英二・工藤咲子</desc>
+	<programme start="20210829121000" stop="20210829121500" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース</title>
+		<desc lang="ja"></desc>
+	</programme>
+
+	<programme start="20210829121500" stop="20210829130000" channel="NHK1Tokyo.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇陸上　女子走り幅跳び　Ｔ１２・決勝ほか（中継）　【出演】吉田沙保里，根木慎志，千葉絵里菜，【アナウンサー】松田利仁亜，保里小百合，【陸上】解説…井村久美子ほか</desc>
+	</programme>
+
+	<programme start="20210829130000" stop="20210829130500" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース・気象情報</title>
+		<desc lang="ja"></desc>
 	</programme>
 
 	<programme start="20210828120000" stop="20210828140000" channel="eTele.jp">
@@ -416,12 +406,12 @@
 	</programme>
 
 	<programme start="20210828165000" stop="20210828165500" channel="eTele.jp">
-		<title lang="ja"></title>
+		<title lang="ja">こち亀復活!両さんがゴールボールに挑戦!アニ×パラ第4弾「ゴールボール」</title>
 		<desc lang="ja">パラスポーツの魅力をアニメや人気アーティストとのコラボで描くプロジェクト。あの『こち亀』が、「ゴールボール」とコラボする。両さんたち人気キャラクターが続々登場！</desc>
 	</programme>
 
 	<programme start="20210828165500" stop="20210828170000" channel="eTele.jp">
-		<title lang="ja"></title>
+		<title lang="ja">パラスポーツ×アニメ「アニ×パラ」</title>
 		<desc lang="ja">パラスポーツをアニメで伝えるプロジェクト。八神ひろき原作のマンガ「ＤＥＡＲ　ＢＯＹＳ」とのコラボでパラスポーツの花形競技・車いすバスケを描く。テーマ曲：三浦大知</desc>
 	</programme>
 
@@ -613,6 +603,11 @@
 	<programme start="20210829120000" stop="20210829123000" channel="eTele.jp">
 		<title lang="ja">囲碁フォーカス</title>
 		<desc lang="ja">下島陽平八段の講座は「屋根を正しくかける」。「黒嘉嘉のＧＯビギナーズ」は「対局（前編）」。「フォーカス・オン」は「第７６期本因坊戦を振り返る」。</desc>
+	</programme>
+
+	<programme start="20210829123000" stop="20210829140000" channel="eTele.jp">
+		<title lang="ja">第69回 NHK杯テレビ囲碁トーナメント</title>
+		<desc lang="ja">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。２回戦第４局は井山裕太棋聖と蘇耀国九段の対戦。</desc>
 	</programme>
 
 	<programme start="20210828115500" stop="20210828132500" channel="NipponTV.jp">
@@ -811,9 +806,9 @@
 		<desc lang="ja">お好み焼き・たこ焼きなど人気店の様々な粉ものメニューからクイズを出題。正解したチームはごほうびをゲット！？さらにスペシャルゲストが１日Ｊ組転校生に！</desc>
 	</programme>
 
-	<programme start="20210828114500" stop="20210828120000" channel="Asahi.jp">
-		<title lang="ja">ANNニュース</title>
-		<desc lang="ja">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+	<programme start="20210829124500" stop="20210829134500" channel="NipponTV.jp">
+		<title lang="ja">サンバリュ</title>
+		<desc lang="ja">絶品グルメが食べられるツアーに、王様ゲームを導入したら？達人おススメ買い物ツアーで、へぇ〜と言うのを禁止したら？「定番ロケ×面白いルール」で超盛り上がるロケ番組</desc>
 	</programme>
 
 	<programme start="20210828120000" stop="20210828132600" channel="Asahi.jp">
@@ -1037,6 +1032,12 @@
 		<desc lang="ja">数々の苦難を乗り越え、夢舞台に挑むパラアスリートたち。それぞれの選手達が抱く知られざる想いに迫ります。</desc>
 	</programme>
 
+	<programme start="20210829125500" stop="20210829132500" channel="Asahi.jp">
+		<title lang="ja">新婚さんいらっしゃい!</title>
+		<desc lang="ja">▽大阪府・黒岩夫妻…素のままの男勝り美人妻。セロファンについたクリームを舐める
+▽福岡県・有本夫妻…彼の家にお泊まりデートに行くと金髪ギャルが家に入ってきて仰天</desc>
+	</programme>
+
 	<programme start="20210828115900" stop="20210828140000" channel="TBS2.jp">
 		<title lang="ja">王様のブランチ</title>
 		<desc lang="ja">▽マザー牧場で夏の遊び納め！㊙ゲストも▽超濃厚クーリム系からフルーツさっぱり系まで！最新アイスランキング▽Netflixオススメ作品を栞里＆藤森が熱弁！</desc>
@@ -1204,10 +1205,14 @@
 幅広いジャンルの話題・時事ネタを 笑いとともにお届けします！！</desc>
 	</programme>
 
-	<programme start="20210828110300" stop="20210828123000" channel="TVTokyo.jp">
-		<title lang="ja">鉄道沿線ひたすら歩き旅 第10弾 川越〜秩父・三峰口</title>
-		<desc lang="ja">「鉄道沿線歩き旅」第10弾！100ｋｍ踏破をめざす！川越駅から秩父鉄道の終点・三峰口を歩くハードな旅に大女優・高島礼子が参戦
-▽今夜６：３０は最新作！八王子〜河口湖へ</desc>
+	<programme start="20210829125400" stop="20210829130000" channel="TBS2.jp">
+		<title lang="ja">dai-docoro☆ベジタ</title>
+		<desc lang="ja">パプリカは加熱調理しても大丈夫！含まれるビタミンＰはビタミンＣを熱から守ってくれます★レタスもちぎってＩＮ！含まれるカリウムでむくみ解消が期待★ご飯が進みそう〜</desc>
+	</programme>
+
+	<programme start="20210829130000" stop="20210829133000" channel="TBS2.jp">
+		<title lang="ja">それSnow Manにやらせて下さい</title>
+		<desc lang="ja">あれ、なんだっけ…？名前が出てきそうで出てこない…街中で一度は見たことがあるロゴをクイズで出題▽梨の妖精・ふなっしーも参戦！実は博識！？意外な才能を見せつける！</desc>
 	</programme>
 
 	<programme start="20210828123000" stop="20210828143000" channel="TVTokyo.jp">
@@ -1427,9 +1432,9 @@
 		<desc lang="ja">▽人気食堂の鉄板まかない㊙野菜炒め▽農家さん直伝！ネギ味噌だれでいただく丸ナスのステーキ▽東京都江戸川区…喫茶店の濃厚ナポリタン＆母直伝ゴーヤーチャンプルー</desc>
 	</programme>
 
-	<programme start="20210828115000" stop="20210828120000" channel="FujiTV.jp">
-		<title lang="ja">FNN Live News days</title>
-		<desc lang="ja">週末の昼も「ライブニュース　デイズ」をお見逃しなく。民放で最大級の全国ネットワークを持つＦＮＮの記者が取材したニュースをお届けします。</desc>
+	<programme start="20210829125400" stop="20210829140000" channel="TVTokyo.jp">
+		<title lang="ja">開運!なんでも鑑定団</title>
+		<desc lang="ja">■本人登場…アノ＜有名女優＞が２０代で＜巨匠彫刻家＞のモデル！？衝撃鑑定額■特別企画＜今田＆福澤のお宝探し旅＞…超絶値お宝が続出■超貴重＜宇宙秘宝＞に驚き値■</desc>
 	</programme>
 
 	<programme start="20210828120000" stop="20210828133000" channel="FujiTV.jp">
@@ -1588,14 +1593,6 @@
 	<programme start="20210829120000" stop="20210829140000" channel="FujiTV.jp">
 		<title lang="ja">なりゆき街道旅</title>
 		<desc lang="ja">ＤＡＩＧＯ＆若槻千夏と巡る、「東京のブルックリン」蔵前！おしゃれ日本茶＆チョコ専門店でこだわりの味に感動！博物館で江戸を体験！ＤＡＩＧＯの子育て秘話！</desc>
-	</programme>
-	<programme start="20210828115500" stop="20210828120000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210828120000" stop="20210828125500" channel="Tokyo MX">
-		<title lang="ja">週末ハッピーライフ!お江戸に恋して</title>
-		<desc lang="ja">生放送★落語家・春風亭昇々生出演！▼「ぐるり東京江戸散歩」は「落語」スポットを巡る！▼春風亭昇々が落語クイズを出題！▼新宿区長が新宿中央公園の新エリアを紹介</desc>
 	</programme>
 	<programme start="20210828125500" stop="20210828130000" channel="Tokyo MX">
 		<title lang="ja">MX news FLAG</title>
@@ -1800,5 +1797,17 @@
 	<programme start="20210829115500" stop="20210829125000" channel="Tokyo MX">
 		<title lang="ja">日曜はカラフル!!!</title>
 		<desc lang="ja">登録者数１７０万超大人気ＹｏｕＴｕｂｅｒパパラピーズタナカガ生出演▼自宅で味わう超高級グルメ特集▼クリス松村が大豪邸訪問▼世界一短い人生相談▼アンミカ＆中山優馬</desc>
+	</programme>
+	<programme start="20210829125000" stop="20210829125500" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829125500" stop="20210829130000" channel="Tokyo MX">
+		<title lang="ja">MX news FLAG</title>
+		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
+	</programme>
+	<programme start="20210829130000" stop="20210829133000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
