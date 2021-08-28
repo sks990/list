@@ -50,16 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210828140000" stop="20210828164900" channel="NHK1Tokyo.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇車いすラグビー　準決勝「日本×イギリス」（中継）　◇４：００頃　ゴールボール　男子・予選リーグ　グループＡ「日本×リトアニア」（録画）　【出演】武井壮ほか</desc>
-	</programme>
-
-	<programme start="20210828164900" stop="20210828165000" channel="NHK1Tokyo.jp">
-		<title lang="ja">ニュース</title>
-		<desc lang="ja"></desc>
-	</programme>
-
 	<programme start="20210828165000" stop="20210828175900" channel="NHK1Tokyo.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇競泳　男子１００ｍ平泳ぎ　ＳＢ６・決勝、男子１００ｍ自由形　Ｓ１０・決勝、男子１５０ｍ個人メドレー　ＳＭ４・決勝ほか（中継）　【出演】武井壮，根木慎志ほか</desc>
@@ -87,7 +77,7 @@
 
 	<programme start="20210828190000" stop="20210828193000" channel="NHK1Tokyo.jp">
 		<title lang="ja">NHKニュース7</title>
-		<desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】青井実，【サブキャスター】林田理沙，深川仁志，【気象キャスター】向笠康二郎</desc>
+		<desc lang="ja">▼米軍がアフガンで報復攻撃か　ＩＳテロ計画者を殺害▼抽選でも長蛇の列　渋谷で若者接種▼家族が感染…　高齢者介護が危機に▼東京パラ　メダル獲得は</desc>
 	</programme>
 
 	<programme start="20210828193000" stop="20210828204400" channel="NHK1Tokyo.jp">
@@ -350,9 +340,9 @@
 		<desc lang="ja">「閉会式」　【解説】前田正治，【アナウンサー】冨坂和男　〜甲子園球場から中継〜</desc>
 	</programme>
 
-	<programme start="20210828144500" stop="20210828165900" channel="eTele.jp">
-		<title lang="ja">香川照之の昆虫すごいぜ!</title>
-		<desc lang="ja">カマキリ先生の夏より熱〜い特別授業の最終日。３週かけて、過去の放送からもう一度届けたい１０本をノミネートしてきた。いよいよ「ベスト・オブ・すごいぜ！」を発表！</desc>
+	<programme start="20210829165000" stop="20210829175900" channel="NHK1Tokyo.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇競泳　女子４００ｍ自由形　Ｓ７・決勝、男子　１００ｍ平泳ぎＳＢ１４・決勝、女子１００ｍ平泳ぎ　ＳＢ１４・決勝、男子　５０ｍ自由形　Ｓ９・決勝ほか（中継）</desc>
 	</programme>
 
 	<programme start="20210828165900" stop="20210828170000" channel="eTele.jp">
@@ -560,9 +550,19 @@
 		<desc lang="ja"></desc>
 	</programme>
 
-	<programme start="20210828142500" stop="20210828160000" channel="NipponTV.jp">
-		<title lang="ja">どうぶつ園×授業×SHOWチャンネル 特別編</title>
-		<desc lang="ja">今夜も！どうぶつ園＆授業＆ＳＨＯＷチャン▽池崎、保護ネコ明日香をついに触れた⁉▽所ジョージ先生の少し変えたら売れた！▽生田斗真を丸裸にする新企画！パンの会も</desc>
+	<programme start="20210829165000" stop="20210829165500" channel="eTele.jp">
+		<title lang="ja">沼にハマってきいてみたSP 全国の高校生30人が作る「青春リレーアニメ」!!</title>
+		<desc lang="ja">アニメづくりにハマった４組の高校生がリレー形式でアニメ作品を制作する特別企画。音楽はアーティスト平井大の「Ｓｔａｎｄ　ｂｙ　ｍｅ，Ｓｔａｎｄ　ｂｙ　ｙｏｕ．」</desc>
+	</programme>
+
+	<programme start="20210829165500" stop="20210829170000" channel="eTele.jp">
+		<title lang="ja">あおきいろ</title>
+		<desc lang="ja">「あお」と「きいろ」２つは明らかに違うけど、重なりあうと同じ「みどり」になる。すべての生き物たちと共に生きていくためのヒントが詰まった５分番組。</desc>
+	</programme>
+
+	<programme start="20210829170000" stop="20210829173000" channel="eTele.jp">
+		<title lang="ja">ワンワンわんだーらんど</title>
+		<desc lang="ja">「いないいないばあっ！」のワンワンとなかまたちがお届けする歌と笑顔のステージショー。今回は、東京のＮＨＫホールで収録した夏の発表会の模様をお届けします。</desc>
 	</programme>
 
 	<programme start="20210828160000" stop="20210828170000" channel="NipponTV.jp">
@@ -765,15 +765,14 @@
 		<desc lang="ja">明日３０日は八王子リホーム24時間テレビ激闘の裏側を大公開▼夢を持つ外国人のための日本語教室をリフォーム！その前に過去の「八王子リホーム」をもう一度！</desc>
 	</programme>
 
-	<programme start="20210828153000" stop="20210828160000" channel="Asahi.jp">
-		<title lang="ja">まだアプデしてないの?</title>
-		<desc lang="ja">関西ジャニーズJr.の人気グループ・なにわ男子が現代社会での新しい生き方を学ぶ、価値観アップデートバラエティー！</desc>
+	<programme start="20210829165500" stop="20210829170000" channel="NipponTV.jp">
+		<title lang="ja">Huluはじめました。</title>
+		<desc lang="ja">日々配信されている膨大な量の動画。アルコ＆ピースの平子祐希が「Huluアナリスト」に扮し動画配信サービスの便利な機能〜ダウンロード機能〜を紹介</desc>
 	</programme>
 
-	<programme start="20210828160000" stop="20210828163000" channel="Asahi.jp">
-		<title lang="ja">裸の少年</title>
-		<desc lang="ja">HiHi Jetsと美 少年の真剣勝負、〜バトるHiHi少年〜
-今回のミッションは…『スポーツチャンバラ！！』</desc>
+	<programme start="20210829170000" stop="20210829172500" channel="NipponTV.jp">
+		<title lang="ja">上田晋也の日本メダル話</title>
+		<desc lang="ja">メダルを逃した内村航平選手、五輪後に引退宣言をした土井レミイ杏利選手、難病と闘いながら見事5位の坂井丞選手☆メダルに手が届かなかった選手達の今の想いを伝えます</desc>
 	</programme>
 
 	<programme start="20210828163000" stop="20210828170000" channel="Asahi.jp">
@@ -977,14 +976,9 @@
 		<desc lang="ja">坂上忍VS大ヒット商品‼一流アスリートも愛用のあのエアウィーヴが２万円台‼お家で全身エステ⁉大人気シャワーヘッドを緊急確保＆汚れをこすらず落とす次世代㊙業務用洗剤</desc>
 	</programme>
 
-	<programme start="20210828143000" stop="20210828163900" channel="TBS2.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">☆届け、スポーツのチカラ☆前回９位の日本が最強メンバーで過去最高順位を目指す！☆相手は過去３度金メダルを獲得した強豪・カナダ</desc>
-	</programme>
-
-	<programme start="20210828163900" stop="20210828164500" channel="TBS2.jp">
-		<title lang="ja">ニュース</title>
-		<desc lang="ja">最新のニュースをお伝えします。</desc>
+	<programme start="20210829161500" stop="20210829172500" channel="Asahi.jp">
+		<title lang="ja">路線バスで寄り道&お買い物の旅</title>
+		<desc lang="ja">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回は、新宿〜霞が関〜有楽町でビル内や地下街を巡る旅！</desc>
 	</programme>
 
 	<programme start="20210828164500" stop="20210828170000" channel="TBS2.jp">
@@ -1169,11 +1163,9 @@
 		<desc lang="ja">今夜第９話の前に喜多見の告白をもう一度！山中の病院で停電事故！医療機器が使用不能…そんな中喜多見の過去を知り、激しく反発する音羽！そして喜多見に死の危険が迫る―</desc>
 	</programme>
 
-	<programme start="20210828150000" stop="20210828160000" channel="TVTokyo.jp">
-		<title lang="ja">ウイニング競馬</title>
-		<desc lang="ja">【新潟】10Ｒ長岡Ｓ、11ＲＢＳＮ賞（Ｌ）
-【小倉】11Ｒ釜山Ｓ
-【札幌】10Ｒ摩周湖特別、11ＲオホーツクＳ</desc>
+	<programme start="20210829170000" stop="20210829173000" channel="TBS2.jp">
+		<title lang="ja">所さんお届けモノです!</title>
+		<desc lang="ja">道の駅にはその地方の特産品とグルメが集結します▼千葉県館山市真夏のリゾートへ…向かう道中魅力あふれる道の駅でお届けモノ探し！▼所さんも思わず歌う⁉ドライブ旅へ！</desc>
 	</programme>
 
 	<programme start="20210828160000" stop="20210828171500" channel="TVTokyo.jp">
@@ -1553,13 +1545,10 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210828155900" stop="20210828160000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210828160000" stop="20210828163000" channel="Tokyo MX">
-		<title lang="ja">おにぎりあたためますか</title>
-		<desc lang="ja">『広島〜福岡 290㎞の旅』④▼山口県宇部市が誇る特産の車エビに感激▼「ＡＢＣの歌」論争再び！シゲちゃんの歌い方は彼だけ？視聴者メールをご紹介▼オクラホマに重大発表</desc>
+
+	<programme start="20210829160500" stop="20210829172000" channel="FujiTV.jp">
+		<title lang="ja">鶴瓶×サンドのとっておき街人</title>
+		<desc lang="ja">笑福亭鶴瓶とサンドウィッチマンの最強タッグによるＳＰ番組全国ネット第二弾を放送！浅草・阿佐ヶ谷所縁ゲストのおもてなしで、街ブラ＆絶品地元グルメを堪能！</desc>
 	</programme>
 	<programme start="20210828163000" stop="20210828170000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1768,5 +1757,13 @@
 	<programme start="20210829160000" stop="20210829163000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210829163000" stop="20210829170000" channel="Tokyo MX">
+		<title lang="ja">おぎやはぎのハピキャン</title>
+		<desc lang="ja">キャンプ初心者のおぎやはぎが、ハッピーな仲間と一緒にキャンプを体験する「アウトドア・ドキュメント・バラエティ」</desc>
+	</programme>
+	<programme start="20210829170000" stop="20210829175500" channel="Tokyo MX">
+		<title lang="ja">探偵!ナイトスクープ</title>
+		<desc lang="ja">依頼は、間寛平探偵が調査した『両手をグーで生活する２歳児』、澤部佑探偵の『爆笑！小ネタ集』、田村裕探偵の『通天閣の上から叫ぶ』。</desc>
 	</programme>
 </tv>
