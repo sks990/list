@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210829193000 +0000" stop="20210829205400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　男子４００ｍ　Ｔ５３・決勝、男子１５００ｍ　Ｔ５２・決勝ほか（中継）　【出演】吉田沙保里，田口亜希，大西瞳，後藤佑季，【アナウンサー】中野淳ほか</desc>
-  </programme>
-  <programme start="20210829205400 +0000" stop="20210829205500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
   <programme start="20210829205500 +0000" stop="20210829210000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
@@ -254,10 +246,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇陸上　女子１００ｍ　Ｔ１１・準決勝、女子４００ｍ　Ｔ２０・予選、男子１００ｍ　Ｔ６３・決勝、男子１００ｍ　Ｔ６４・決勝ほか（中継）　【出演】吉田沙保里ほか</desc>
   </programme>
-	<programme start="20210829195500 +0000" stop="20210829200000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK手話ニュース</title>
-		<desc lang="ja">【キャスター】赤堀仁美</desc>
-	</programme>
+  <programme start="20210830205900 +0000" stop="20210830210000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210830210000 +0000" stop="20210830213000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュースウオッチ9</title>
+    <desc lang="ja">混迷のアフガニスタン米軍の撤退期限が迫る▽コロナ自宅療養中に死亡も…▽医療ひっ迫病床を増やせるか？▽ワクチン接種状況は</desc>
+  </programme>
 	<programme start="20210829200000 +0000" stop="20210829210000 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇車いすテニス　男子シングルス・２回戦「眞田卓×イム・ホウォン」（録画）　【アナウンサー】大澤幹朗，【車いすテニス】解説…齋田悟司，アナウンサー…佐藤洋之</desc>
@@ -558,9 +554,13 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇競泳　男子２００ｍ個人メドレー　ＳＭ１１・決勝ほか（中継）　【出演】武井壮，三上大進，【アナウンサー】杉浦友紀，大澤幹朗　ほか</desc>
 	</programme>
-	<programme start="20210829195800 +0000" stop="20210829205400 +0000" channel="NipponTV.jp">
-		<title lang="ja">世界の果てまでイッテQ!</title>
-		<desc lang="ja">あさこミステリーツアー奈良・和歌山！日本一のやまびこ対決＆世界初？ロボットと大縄跳び挑戦▼お祭り男VS最強王者！世界ホタテ釣り大会＆のろのろ一本橋競争で宮川覚醒</desc>
+	<programme start="20210830204500 +0000" stop="20210830210000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース845</title>
+		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+	</programme>
+	<programme start="20210830210000 +0000" stop="20210830212500 +0000" channel="eTele.jp">
+		<title lang="ja">きょうの料理</title>
+		<desc lang="ja">南阿蘇の大自然とともに自給自足の暮らしを楽しむ料理家かるべけいこさんを訪ね、オクラやじゃがいもなど地元の野菜を丸ごと使ったおかずを紹介した回の再放送。</desc>
 	</programme>
 	<programme start="20210829205400 +0000" stop="20210829210000 +0000" channel="NipponTV.jp">
 		<title lang="ja">音のソノリティ</title>
@@ -655,9 +655,9 @@
 		<title lang="ja">有吉ゼミ</title>
 		<desc lang="ja">築50年！夢を持つ外国人のための日本語教室を機能性あふれるワクワク空間にリフォーム▼激闘8日間！炎天下作業が続く中おぎやはぎ矢作も参戦！完成お披露目の舞台裏公開</desc>
 	</programme>
-	<programme start="20210829190000 +0000" stop="20210829205600 +0000" channel="Asahi.jp">
-		<title lang="ja">ザワつく!路線バスで寄り道の旅</title>
-		<desc lang="ja">『ザワつく！金曜日』でお馴染み長嶋一茂と司会進行の高橋茂雄（サバンナ）が路線バスを貸し切り、横浜周辺をディープに巡る！</desc>
+	<programme start="20210830210000 +0000" stop="20210830215400 +0000" channel="NipponTV.jp">
+		<title lang="ja">人生が変わる1分間の深イイ話</title>
+		<desc lang="ja">一流アスリートの妻は本当に幸せ？▼元侍ジャパンの攝津正一家に深イイ初密着！知られざる白血病闘病生活▼藤岡弘、が新企画▼家見るハトリ！</desc>
 	</programme>
 	<programme start="20210829205600 +0000" stop="20210829210000 +0000" channel="Asahi.jp">
 		<title lang="ja">食ノ音色</title>
@@ -765,9 +765,10 @@
 舞台は人気の埼玉秩父。羽田美智子＆尾上右近＆Travis Japan宮近海斗が参戦。
 SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 	</programme>
-	<programme start="20210829183000 +0000" stop="20210829205400 +0000" channel="TBS2.jp">
-		<title lang="ja">バナナマンのせっかくグルメ</title>
-		<desc lang="ja">日村は夏の富士五湖で絶景×極上グルメ満喫★高畑充希＆大久保佳代子は福島市で旬の桃グルメ＆豪快天ぷらに悶絶★大好評！声優・木村昴が宮崎日南で極上焼肉×白米ドカ食い</desc>
+	<programme start="20210830204000 +0000" stop="20210830214800 +0000" channel="Asahi.jp">
+		<title lang="ja">10万円でできるかな</title>
+		<desc lang="ja">沢口靖子・劇団ひとりVSキスマイ！センス問われる新企画「名前変えただけで爆売れ商品の名前当てろ」
+貴方ならどんな名前つけますか？誕生秘話をキスマイ熱演！サンド爆笑</desc>
 	</programme>
 	<programme start="20210829205400 +0000" stop="20210829210000 +0000" channel="TBS2.jp">
 		<title lang="ja">フラッシュニュース</title>
@@ -1094,13 +1095,9 @@ SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 		<title lang="ja">痛快TV スカッとジャパン</title>
 		<desc lang="ja">女性が大変身で人生大逆転ＳＰダイエット＆メイクで見返した激変実話▽もう中学生ヒコロヒーが再現！２分後に奇跡が起こる実話投稿▽東大・松丸亮吾が頭脳で解決</desc>
 	</programme>
-	<programme start="20210829195500 +0000" stop="20210829200000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210829200000 +0000" stop="20210829205400 +0000" channel="Tokyo MX">
-		<title lang="ja">BOAT RACEプレミア</title>
-		<desc lang="ja">「優勝戦」〜ＢＯＡＴＲＡＣＥ蒲郡</desc>
+	<programme start="20210830210000 +0000" stop="20210830215400 +0000" channel="FujiTV.jp">
+		<title lang="ja">ナイト・ドクター</title>
+		<desc lang="ja">［衝突する５人！異なる価値観！］心美の願いはドナーになることだった！認めない深澤に複雑な心境の美月と桜庭！臓器提供をめぐりそれぞれの想いが交錯する！？</desc>
 	</programme>
 	<programme start="20210829205400 +0000" stop="20210829210000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1277,5 +1274,9 @@ SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 	<programme start="20210830200000 +0000" stop="20210830210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
 		<desc lang="ja">猛威をふるう「第５波」の脅威…新型コロナ最新情報は▼総選挙はどうなる？スタジオゲストのジャーナリスト鈴木哲夫さんが徹底解説！</desc>
+	</programme>
+	<programme start="20210830210000 +0000" stop="20210830215400 +0000" channel="Tokyo MX">
+		<title lang="ja">バラいろダンディ</title>
+		<desc lang="ja">遠野なぎこ×杉村太蔵！毎週月曜は「ビジネス・マネー」をテーマにお届け。【DANDY Salon】大人が知っておくべき世の中の話題をトーク＆教養を深める【DANDY Academy】</desc>
 	</programme>
 </tv>
