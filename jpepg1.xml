@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="epg2xml 1.5.2">
@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210829125800 +0000" stop="20210829130000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">新型コロナ 命を守る行動を</title>
-    <desc lang="ja">新型コロナワクチンをめぐり、根拠の不確かな情報が飛び交っている。どうすれば信頼できる情報を見極めることができるのか？専門家からのアドバイスをご紹介。</desc>
-  </programme>
-  <programme start="20210829130000 +0000" stop="20210829130500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210829130500 +0000" stop="20210829135000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすラグビー　【出演】吉田沙保里，根木慎志，千葉絵里菜，【アナウンサー】松田利仁亜，保里小百合</desc>
-  </programme>
   <programme start="20210829135000 +0000" stop="20210829165000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">第103回全国高校野球選手権大会 全国大会</title>
     <desc lang="ja">「智弁和歌山」（和歌山）対「智弁学園」（奈良）　「閉会式」　【解説】前田正治，【アナウンサー】冨坂和男　〜甲子園球場から中継〜</desc>
@@ -241,6 +229,18 @@
   <programme start="20210830130000 +0000" stop="20210830130500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210830130500 +0000" stop="20210830132000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">連続テレビ小説 おかえりモネ</title>
+    <desc lang="ja">東京で行方不明の亮（永瀬廉）だったが、気仙沼に戻ろうとしていることが分かる。百音（清原果耶）は、亮を帰らせてはいけないと考え、高速バス乗り場に迎えに行く。</desc>
+  </programme>
+  <programme start="20210830132000 +0000" stop="20210830132200 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">新型コロナ 命を守る行動を</title>
+    <desc lang="ja">ワクチンへの不安をあおる怪しげな情報に対し科学的根拠のある情報をネットなどで発信している団体の医師が一つ一つ反論。最新の知見に基づく正しい情報を分かりやすく説明</desc>
+  </programme>
+  <programme start="20210830132200 +0000" stop="20210830143000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇陸上　男子１５００ｍ　Ｔ１１・予選、男子やり投げ　Ｆ４６・決勝、女子１００ｍ　Ｔ１１・予選、男子１５００ｍ　Ｔ５４・予選ほか（録画）</desc>
   </programme>
 	<programme start="20210829123000 +0000" stop="20210829140000 +0000" channel="eTele.jp">
 		<title lang="ja">第69回 NHK杯テレビ囲碁トーナメント</title>
@@ -470,9 +470,21 @@
 		<title lang="ja">NHK手話ニュース</title>
 		<desc lang="ja">【キャスター】工藤咲子</desc>
 	</programme>
-	<programme start="20210829124500 +0000" stop="20210829134500 +0000" channel="NipponTV.jp">
-		<title lang="ja">サンバリュ</title>
-		<desc lang="ja">絶品グルメが食べられるツアーに、王様ゲームを導入したら？達人おススメ買い物ツアーで、へぇ〜と言うのを禁止したら？「定番ロケ×面白いルール」で超盛り上がるロケ番組</desc>
+	<programme start="20210830130500 +0000" stop="20210830133500 +0000" channel="eTele.jp">
+		<title lang="ja">ハートネットTV</title>
+		<desc lang="ja">８月２４日に開幕する東京パラリンピックの見どころを凝縮！注目の推し選手と実況で“パラ前夜祭”を彩る。</desc>
+	</programme>
+	<programme start="20210830133500 +0000" stop="20210830135000 +0000" channel="eTele.jp">
+		<title lang="ja">きょうの健康</title>
+		<desc lang="ja">首の痛みに悩む人は一千万人以上ともいわれる。原因を見分けるセルフチェックや正確な診断法とともに、首にやさしい姿勢、スマホ使用時の注意点、ストレッチ法などを紹介。</desc>
+	</programme>
+	<programme start="20210830135000 +0000" stop="20210830140000 +0000" channel="eTele.jp">
+		<title lang="ja">視点・論点</title>
+		<desc lang="ja">「パラリンピック選手の“脳の再編”」中澤公孝（東京大学大学院教授）</desc>
+	</programme>
+	<programme start="20210830140000 +0000" stop="20210830141000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 ベーシック数学</title>
+		<desc lang="ja">基本的にはどんな２次方程式も解の公式を使えば解くことができます。便利だけれどちょっと覚えにくい解の公式をリズムに合わせてマスターしましょう</desc>
 	</programme>
 	<programme start="20210829134500 +0000" stop="20210829141500 +0000" channel="NipponTV.jp">
 		<title lang="ja">東海オンエア〜上京フェス2020〜</title>
@@ -603,14 +615,9 @@
 		<title lang="ja">ヒルナンデス!</title>
 		<desc lang="ja">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
 	</programme>
-	<programme start="20210829125500 +0000" stop="20210829132500 +0000" channel="Asahi.jp">
-		<title lang="ja">新婚さんいらっしゃい!</title>
-		<desc lang="ja">▽大阪府・黒岩夫妻…素のままの男勝り美人妻。セロファンについたクリームを舐める
-▽福岡県・有本夫妻…彼の家にお泊まりデートに行くと金髪ギャルが家に入ってきて仰天</desc>
-	</programme>
-	<programme start="20210829132500 +0000" stop="20210829135500 +0000" channel="Asahi.jp">
-		<title lang="ja">パネルクイズ アタック25</title>
-		<desc lang="ja">夏休みＳＰ！高校生クイズ研究会の猛者が激突！優勝者は沖縄・宮古島ペア旅行をかけて、最後のＶＴＲクイズに挑戦。司会は谷原章介！</desc>
+	<programme start="20210830135500 +0000" stop="20210830155000 +0000" channel="NipponTV.jp">
+		<title lang="ja">情報ライブ ミヤネ屋</title>
+		<desc lang="ja">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
 	</programme>
 	<programme start="20210829135500 +0000" stop="20210829152000 +0000" channel="Asahi.jp">
 		<title lang="ja">Sansan KBCオーガスタゴルフトーナメント2021</title>
@@ -723,17 +730,18 @@
 		<title lang="ja">徹子の部屋</title>
 		<desc lang="ja">〜父は元・警察官、箱入り？娘と早大卒才女の人気コンビ！〜ハリセンボンが今日のゲストです。</desc>
 	</programme>
-	<programme start="20210829125400 +0000" stop="20210829130000 +0000" channel="TBS2.jp">
-		<title lang="ja">dai-docoro☆ベジタ</title>
-		<desc lang="ja">パプリカは加熱調理しても大丈夫！含まれるビタミンＰはビタミンＣを熱から守ってくれます★レタスもちぎってＩＮ！含まれるカリウムでむくみ解消が期待★ご飯が進みそう〜</desc>
+	<programme start="20210830133000 +0000" stop="20210830134500 +0000" channel="Asahi.jp">
+		<title lang="ja">上沼恵美子のおしゃべりクッキング</title>
+		<desc lang="ja">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理は、電子レンジでサッとできる和の一品</desc>
 	</programme>
-	<programme start="20210829130000 +0000" stop="20210829133000 +0000" channel="TBS2.jp">
-		<title lang="ja">それSnow Manにやらせて下さい</title>
-		<desc lang="ja">あれ、なんだっけ…？名前が出てきそうで出てこない…街中で一度は見たことがあるロゴをクイズで出題▽梨の妖精・ふなっしーも参戦！実は博識！？意外な才能を見せつける！</desc>
+	<programme start="20210830134500 +0000" stop="20210830134900 +0000" channel="Asahi.jp">
+		<title lang="ja">東京サイト</title>
+		<desc lang="ja">様々な災害を擬似体験できる東京消防庁の本所防災館で、東日本大震災と同じ揺れを再現。停電した屋内での避難も体験できます。真っ暗の中、ドアに必ずたどり着く方法とは？</desc>
 	</programme>
-	<programme start="20210829133000 +0000" stop="20210829135700 +0000" channel="TBS2.jp">
-		<title lang="ja">ウッチャン式</title>
-		<desc lang="ja">🈑「ウッチャン式でハネたい芸人×オーディション」きつね・ウエストランド井口・ゾフィー・さんさんず！若手芸人がロケ企画を持ち込みプレゼン！ロケできるのは誰だ！？</desc>
+	<programme start="20210830134900 +0000" stop="20210830154300 +0000" channel="Asahi.jp">
+		<title lang="ja">科捜研の女20</title>
+		<desc lang="ja">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞本日は【科捜研ファンの著名人が選ぶ！ベストエピソード】藤井隆さんの１本！映画は９／３（金）公開！</desc>
 	</programme>
 	<programme start="20210829135700 +0000" stop="20210829140000 +0000" channel="TBS2.jp">
 		<title lang="ja">四季折々の贈り物</title>
@@ -827,6 +835,10 @@
 	<programme start="20210830102500 +0000" stop="20210830135500 +0000" channel="TBS2.jp">
 		<title lang="ja">ひるおび!</title>
 		<desc lang="ja">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
+	</programme>
+	<programme start="20210830135500 +0000" stop="20210830154900 +0000" channel="TBS2.jp">
+		<title lang="ja">ゴゴスマ〜GOGO!Smile!〜</title>
+		<desc lang="ja">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」をやさしくお伝えします！</desc>
 	</programme>
 	<programme start="20210829125400 +0000" stop="20210829140000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">開運!なんでも鑑定団</title>
@@ -985,6 +997,10 @@
 		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
 		<desc lang="ja">あなたのご飯見せて下さい▽静岡県河津町…世界遺産で作るわさび丼▽古民家レトロかき氷＆ふっくら釜戸炊きご飯▽東京・新島…新鮮野菜の島ポキ丼＆明日葉と島のり天ぷら</desc>
 	</programme>
+	<programme start="20210830134000 +0000" stop="20210830154000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">午後のロードショー</title>
+		<desc lang="ja">耳元で悪魔が囁く…キアヌ・リーブス＆アル・パチーノ主演サスペンス・スリラー。閉ざされた扉の向こう、お金・虚栄・官能…数々の誘惑に人間は敗北する!?</desc>
+	</programme>
 	<programme start="20210829120000 +0000" stop="20210829140000 +0000" channel="FujiTV.jp">
 		<title lang="ja">なりゆき街道旅</title>
 		<desc lang="ja">ＤＡＩＧＯ＆若槻千夏と巡る、「東京のブルックリン」蔵前！おしゃれ日本茶＆チョコ専門店でこだわりの味に感動！博物館で江戸を体験！ＤＡＩＧＯの子育て秘話！</desc>
@@ -1100,14 +1116,6 @@
 	<programme start="20210830115500 +0000" stop="20210830144500 +0000" channel="FujiTV.jp">
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-	</programme>
-	<programme start="20210829125500 +0000" stop="20210829130000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210829130000 +0000" stop="20210829133000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210829133000 +0000" stop="20210829140000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1296,5 +1304,13 @@
 	<programme start="20210830130000 +0000" stop="20210830135500 +0000" channel="Tokyo MX">
 		<title lang="ja">キム秘書はいったい、なぜ?</title>
 		<desc lang="ja">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
+	</programme>
+	<programme start="20210830135500 +0000" stop="20210830140000 +0000" channel="Tokyo MX">
+		<title lang="ja">MX news FLAG</title>
+		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
+	</programme>
+	<programme start="20210830140000 +0000" stop="20210830143000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
