@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210829233600 +0000" stop="20210830003600 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ヘチ 王座への道</title>
-    <desc lang="ja">朝鮮王朝の王イ・グムが、正義を求める仲間と公平な世を目指す不屈の闘いの物語、最終回。王イ・グムは政治改革を宣言。そこに、イ・タンが王宮で騒いでいると知らせが…。</desc>
-  </programme>
-  <programme start="20210830003600 +0000" stop="20210830004100 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210830004100 +0000" stop="20210830010600 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">キングダム 第3シリーズ</title>
     <desc lang="ja">天下の大将軍を志す元・下僕の信と若き秦王・エイ政。運命的に出会い共に「中華統一」を成し遂げることを誓うが、この夢を阻むように突如秦国を国家存亡の危機が襲う。</desc>
@@ -266,14 +258,14 @@
     <title lang="ja">有吉のお金発見 突撃!カネオくん</title>
     <desc lang="ja">ふだん聞けないお金の秘密をカネオくんが可視化で解明！今回は地図の秘密を大調査！時代の変化に合わせて進化した驚きの地図登場！ＭＣ有吉弘行と田牧そらちゃんもビックリ</desc>
   </programme>
-	<programme start="20210829233000 +0000" stop="20210830000000 +0000" channel="eTele.jp">
-		<title lang="ja">サイエンスZERO</title>
-		<desc lang="ja">かつての巨大噴火の謎に迫る最新の調査に密着。定説を覆す大発見とは？市街地の近くまで達していた火砕流の痕跡も発見！正しく恐れて備えるため知っておくべき富士山の姿。</desc>
-	</programme>
-	<programme start="20210830000000 +0000" stop="20210830004500 +0000" channel="eTele.jp">
-		<title lang="ja">地球ドラマチック</title>
-		<desc lang="ja">さまざまな種類の生き物が暮らすシェアハウス。アリ塚を住みかにするマングース、鳥の巣に住みついたトカゲ。時に敵となり、時に味方となる奇妙なサバンナの共同生活とは？</desc>
-	</programme>
+  <programme start="20210831000400 +0000" stop="20210831005000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">プロフェッショナル 仕事の流儀</title>
+    <desc lang="ja">コロナ禍で急増する荷物を届け、生活を支える宅配ドライバー。業界最大手６万人の中でトップの実力と評価される男がいる。その驚くべき配達スピードと心配りの技とは！？</desc>
+  </programme>
+  <programme start="20210831005000 +0000" stop="20210831013600 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">SONGS</title>
+    <desc lang="ja">星野源が６年ぶりに登場！大泉洋とテレビで初トーク▽親交の深い２人が＜人生を変えた音楽＞をテーマに星野の音楽のルーツに迫る▽ＳＵＮ・創造・不思議</desc>
+  </programme>
 	<programme start="20210830004500 +0000" stop="20210830011000 +0000" channel="eTele.jp">
 		<title lang="ja">NHKみんなの手話</title>
 		<desc lang="ja">カフェ　みんなの手話へようこそ。災害や防災についての表現を覚えましょう。顔や手の動きを変えることで、雨量のちがいなどを伝えることができます。</desc>
@@ -606,6 +598,10 @@
 		<title lang="ja">アラビーヤ・シャベリーヤ!</title>
 		<desc lang="ja">旅の舞台は、化石の産地として名高いエルフード。俳優・金子貴俊が、三葉虫などの化石を扱う専門店を訪ね、店内を見学しながら“比べる表現”を学ぶ。</desc>
 	</programme>
+	<programme start="20210831002500 +0000" stop="20210831053000 +0000" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja"></desc>
+	</programme>
 	<programme start="20210829235500 +0000" stop="20210830010000 +0000" channel="NipponTV.jp">
 		<title lang="ja">Going! Sports&News</title>
 		<desc lang="ja">東京五輪バドミトン混合ダブルス初の銅メダル渡辺勇大・東野有紗＆競歩初の銀メダル池田向希生出演！今だから話せる初メダル秘話＆スゴ技▼夏の甲子園決勝▼パラメダルは？</desc>
@@ -690,13 +686,13 @@
 		<title lang="ja">news zero</title>
 		<desc lang="ja">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
 	</programme>
-	<programme start="20210829233000 +0000" stop="20210830002500 +0000" channel="Asahi.jp">
-		<title lang="ja">関ジャム 完全燃SHOW</title>
-		<desc lang="ja">あいみょん、宇多田ヒカル、スピッツ、ドリカム、RADWIMPS…プロだから気付く音楽的にキュンとするポイントやフレーズを解説！その曲を聴いた時の自らの赤裸々エピソードも</desc>
+	<programme start="20210831000400 +0000" stop="20210831005900 +0000" channel="NipponTV.jp">
+		<title lang="ja">月曜から夜ふかし</title>
+		<desc lang="ja">関ジャニ村上とマツコが話題の件をあれこれ語り合う…街行く人にお宝を見せてもらった件…東京大学を目指し４２浪中の男性の宝物▽１５０周年に沸く埼玉の今を調査</desc>
 	</programme>
-	<programme start="20210830002500 +0000" stop="20210830005500 +0000" channel="Asahi.jp">
-		<title lang="ja">声優パーク建設計画 VR部</title>
-		<desc lang="ja">アニメ「ワールドトリガー」人気声優が大集合！梶裕貴＆島﨑信長＆村中知＆田村奈央…憧れの玉狛第二メンバーが恒例ラフレコ＆大好評！声優世代表作りに挑戦！</desc>
+	<programme start="20210831005900 +0000" stop="20210831010400 +0000" channel="NipponTV.jp">
+		<title lang="ja">イントロ</title>
+		<desc lang="ja">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
 	</programme>
 	<programme start="20210830005500 +0000" stop="20210830010000 +0000" channel="Asahi.jp">
 		<title lang="ja"></title>
@@ -800,9 +796,18 @@ by.Jovanotti</desc>
 		<title lang="ja">激レアさんを連れてきた。</title>
 		<desc lang="ja">今回の激レアさんは「誰よりも必死に身長をサバ読み続けてきた元プロ野球選手」</desc>
 	</programme>
-	<programme start="20210829230000 +0000" stop="20210830000000 +0000" channel="TBS2.jp">
-		<title lang="ja">東京2020パラリンピック ハイライト</title>
-		<desc lang="ja">☆祝！パラリンピック２大会連続銅メダル！車いすラグビー３位決定戦・日本vsオーストラリア激闘の模様をもう一度たっぷり！</desc>
+	<programme start="20210831002000 +0000" stop="20210831005000 +0000" channel="Asahi.jp">
+		<title lang="ja">しくじり先生 俺みたいになるな!!</title>
+		<desc lang="ja">ぺこぱ登場！若林も師と慕うTAIGAが「ブレイクの波」に乗るため猛特訓！
+吉村＆澤部らの厳しい指導の下、リアクション芸、街ブラリポートを特訓し隠れた才能が開花…？</desc>
+	</programme>
+	<programme start="20210831005000 +0000" stop="20210831005500 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">テレビ朝日のおすすめ番組をご紹介！</desc>
+	</programme>
+	<programme start="20210831005500 +0000" stop="20210831012500 +0000" channel="Asahi.jp">
+		<title lang="ja">お願い!ランキング</title>
+		<desc lang="ja">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
 	</programme>
 	<programme start="20210830000000 +0000" stop="20210830010300 +0000" channel="TBS2.jp">
 		<title lang="ja">S☆1</title>
@@ -865,17 +870,16 @@ by.Jovanotti</desc>
 		<title lang="ja">news23</title>
 		<desc lang="ja">感染拡大続く中、自宅療養者を救え！救命の現場から移動中継▽あす全米ＯＰ！大坂なおみ連覇へ▽パラリンピック奮い立たせる言葉とは</desc>
 	</programme>
-	<programme start="20210829233000 +0000" stop="20210830000000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">SUPER GT+</title>
-		<desc lang="ja">これまで３戦を終え、トヨタスープラの１勝、ホンダNSXの２勝。今年まだ未勝利の日産GT-Rは昨年２勝と相性のいい鈴鹿サーキットで逆襲を誓う！真夏の消耗戦を制したのは？</desc>
+	<programme start="20210831000100 +0000" stop="20210831010000 +0000" channel="TBS2.jp">
+		<title lang="ja">霜降りミキXIT</title>
+		<desc lang="ja">1つ88000円の超高級枕を見抜けるか！？実際にベットで使ってみることに！
+ここでしか観られない可愛すぎる鷲見玲奈の寝姿を公開！
+小学校の教科書クイズに挑戦！</desc>
 	</programme>
-	<programme start="20210830000000 +0000" stop="20210830003000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">乃木坂工事中</title>
-		<desc lang="ja">今週の乃木坂工事中は「大御所にハマれ！おじさんあるある勉強会」後半戦！</desc>
-	</programme>
-	<programme start="20210830003000 +0000" stop="20210830003500 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
+	<programme start="20210831010000 +0000" stop="20210831010300 +0000" channel="TBS2.jp">
+		<title lang="ja">ビジネス・クリック</title>
+		<desc lang="ja">最新の金融マーケット情報をＮＹから中継。
+注目の経済ニュースも</desc>
 	</programme>
 	<programme start="20210830003500 +0000" stop="20210830010500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">そこ曲がったら、櫻坂?</title>
@@ -1030,9 +1034,13 @@ by.Jovanotti</desc>
 		<title lang="ja">追跡 LIVE! SPORTS ウォッチャー</title>
 		<desc lang="ja">この日にあった最新のスポーツ情報をお届け！▽プロ野球＆MLBやサッカーさらに五輪競技を総力取材</desc>
 	</programme>
-	<programme start="20210829231500 +0000" stop="20210830003500 +0000" channel="FujiTV.jp">
-		<title lang="ja">S-PARK</title>
-		<desc lang="ja">スポーツ・パーク「Ｓ－ＰＡＲＫ」▼東京パラ金メダル候補続々登場▼投打に好調！大谷翔平▼金メダリスト再出発！スケボー・西矢椛＆競泳・大橋悠依▼甲子園決勝</desc>
+	<programme start="20210831000500 +0000" stop="20210831003500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">紙とさまぁ〜ず</title>
+		<desc lang="ja">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
+	</programme>
+	<programme start="20210831003500 +0000" stop="20210831010500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">巨大企業の日本改革3.0</title>
+		<desc lang="ja">日野自動車㊙新規事業！街に行くのではなく、街が全自動でやってくる？フラットフォーマーとは⁉▼東大×ベンチャーキャピタル×ベンチャー企業のプレゼン＆取材</desc>
 	</programme>
 	<programme start="20210830003500 +0000" stop="20210830013000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Love music</title>
@@ -1130,13 +1138,13 @@ by.Jovanotti</desc>
 		<title lang="ja">FNN Live News α</title>
 		<desc lang="ja">働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が三田友梨佳、金曜日は内田嶺衣奈。</desc>
 	</programme>
-	<programme start="20210829233000 +0000" stop="20210830000000 +0000" channel="Tokyo MX">
-		<title lang="ja">とんでも戦士ムテキング</title>
-		<desc lang="ja">２０２１年秋から放送予定の「ＭＵＴＥＫＩＮＧ　ＴＨＥ　Ｄａｎｃｉｎｇ　ＨＥＲＯ」の原点、ライトでポップな「とんでも戦士ムテキング」のセレクション放送！</desc>
+	<programme start="20210831003000 +0000" stop="20210831010000 +0000" channel="FujiTV.jp">
+		<title lang="ja">スイートリベンジ</title>
+		<desc lang="ja">女を弄ぶエリートサラリーマン前編〜オンナ遊びの激しい広告マン・コウイチの落とし方</desc>
 	</programme>
-	<programme start="20210830000000 +0000" stop="20210830003000 +0000" channel="Tokyo MX">
-		<title lang="ja">無職転生 〜異世界行ったら本気だす〜</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210831010000 +0000" stop="20210831013000 +0000" channel="FujiTV.jp">
+		<title lang="ja">百合だのかんだの</title>
+		<desc lang="ja">第六話「ＳとＭ」</desc>
 	</programme>
 	<programme start="20210830003000 +0000" stop="20210830010000 +0000" channel="Tokyo MX">
 		<title lang="ja">探偵はもう、死んでいる。</title>
@@ -1309,5 +1317,17 @@ by.Jovanotti</desc>
 	<programme start="20210831000000 +0000" stop="20210831003000 +0000" channel="Tokyo MX">
 		<title lang="ja">出会って5秒でバトル</title>
 		<desc lang="ja">抗え、この不条理に――。小学館「マンガワン」で大人気連載中の『出会って5秒でバトル』がついにTVアニメ化！</desc>
+	</programme>
+	<programme start="20210831003000 +0000" stop="20210831005600 +0000" channel="Tokyo MX">
+		<title lang="ja">極主夫道</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831005600 +0000" stop="20210831010000 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831010000 +0000" stop="20210831010500 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
