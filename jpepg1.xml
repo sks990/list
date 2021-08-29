@@ -50,26 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210829115400" stop="20210829120000" channel="NHK1Tokyo.jp">
-		<title lang="ja">気象情報</title>
-		<desc lang="ja"></desc>
-	</programme>
-
-	<programme start="20210829120000" stop="20210829121000" channel="NHK1Tokyo.jp">
-		<title lang="ja">ニュース</title>
-		<desc lang="ja">【キャスター】佐藤誠太</desc>
-	</programme>
-
-	<programme start="20210829121000" stop="20210829121500" channel="NHK1Tokyo.jp">
-		<title lang="ja">ニュース</title>
-		<desc lang="ja"></desc>
-	</programme>
-
-	<programme start="20210829121500" stop="20210829125800" channel="NHK1Tokyo.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇陸上　男子１００ｍ　Ｔ１３・予選ほか（中継）　【出演】吉田沙保里，北澤豪，後藤佑季，【アナウンサー】松田利仁亜，保里小百合，副島萌生ほか</desc>
-	</programme>
-
 	<programme start="20210829125800" stop="20210829130000" channel="NHK1Tokyo.jp">
 		<title lang="ja">新型コロナ 命を守る行動を</title>
 		<desc lang="ja">新型コロナワクチンをめぐり、根拠の不確かな情報が飛び交っている。どうすれば信頼できる情報を見極めることができるのか？専門家からのアドバイスをご紹介。</desc>
@@ -295,14 +275,19 @@
 		<desc lang="ja">【キャスター】三條雅幸</desc>
 	</programme>
 
-	<programme start="20210829115900" stop="20210829120000" channel="eTele.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	<programme start="20210830121500" stop="20210830122000" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース</title>
+		<desc lang="ja"></desc>
 	</programme>
 
-	<programme start="20210829120000" stop="20210829123000" channel="eTele.jp">
-		<title lang="ja">囲碁フォーカス</title>
-		<desc lang="ja">下島陽平八段の講座は「屋根を正しくかける」。「黒嘉嘉のＧＯビギナーズ」は「対局（前編）」。「フォーカス・オン」は「第７６期本因坊戦を振り返る」。</desc>
+	<programme start="20210830122000" stop="20210830130000" channel="NHK1Tokyo.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇ブラインドサッカー　男子・予選リーグ　グループＡ「日本×ブラジル」（中継）</desc>
+	</programme>
+
+	<programme start="20210830130000" stop="20210830130500" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース</title>
+		<desc lang="ja"></desc>
 	</programme>
 
 	<programme start="20210829123000" stop="20210829140000" channel="eTele.jp">
@@ -580,9 +565,14 @@
 		<desc lang="ja">「蔵出し！名舞台」▽昭和から平成にかけて活躍した能の名人の至芸を「五番立（だて）」の形式にのっとってご紹介。▽ゲストは稽古に通うほどの能の愛好家、女優の余貴美子</desc>
 	</programme>
 
-	<programme start="20210829114500" stop="20210829124500" channel="NipponTV.jp">
-		<title lang="ja">スクール革命!</title>
-		<desc lang="ja">お好み焼き・たこ焼きなど人気店の様々な粉ものメニューからクイズを出題。正解したチームはごほうびをゲット！？さらにスペシャルゲストが１日Ｊ組転校生に！</desc>
+	<programme start="20210830125500" stop="20210830130000" channel="eTele.jp">
+		<title lang="ja">みんなのうた</title>
+		<desc lang="ja">「パンダ・ダ・パ・ヤッ」うた：加茂晴美／「やさしさの玉手箱」うた：石田よう子／「遠い夏休み」うた：杏子／「ラジャ・マハラジャー」うた：戸川純、東京放送児童合唱団</desc>
+	</programme>
+
+	<programme start="20210830130000" stop="20210830130500" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース</title>
+		<desc lang="ja">【キャスター】工藤咲子</desc>
 	</programme>
 
 	<programme start="20210829124500" stop="20210829134500" channel="NipponTV.jp">
@@ -751,16 +741,6 @@
 		<desc lang="ja">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
 	</programme>
 
-	<programme start="20210829115000" stop="20210829120000" channel="Asahi.jp">
-		<title lang="ja">ANNニュース</title>
-		<desc lang="ja">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-	</programme>
-
-	<programme start="20210829120000" stop="20210829125500" channel="Asahi.jp">
-		<title lang="ja">東京パラリンピック 夢舞台に懸ける!アスリートたちの物語</title>
-		<desc lang="ja">数々の苦難を乗り越え、夢舞台に挑むパラアスリートたち。それぞれの選手達が抱く知られざる想いに迫ります。</desc>
-	</programme>
-
 	<programme start="20210829125500" stop="20210829132500" channel="Asahi.jp">
 		<title lang="ja">新婚さんいらっしゃい!</title>
 		<desc lang="ja">▽大阪府・黒岩夫妻…素のままの男勝り美人妻。セロファンについたクリームを舐める
@@ -904,9 +884,9 @@
 		<desc lang="ja">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
 	</programme>
 
-	<programme start="20210829114500" stop="20210829125400" channel="TBS2.jp">
-		<title lang="ja">アッコにおまかせ!</title>
-		<desc lang="ja">野々村真が退院…コロナ闘病の苦しさ語る▼今年中にスクープされる？芸能人の結婚＆離婚情報▼バカ売れ必至！便利な手洗いグッズ＆手を使わず履けて脱げる革新的スニーカー</desc>
+	<programme start="20210830130000" stop="20210830133000" channel="Asahi.jp">
+		<title lang="ja">徹子の部屋</title>
+		<desc lang="ja">〜父は元・警察官、箱入り？娘と早大卒才女の人気コンビ！〜ハリセンボンが今日のゲストです。</desc>
 	</programme>
 
 	<programme start="20210829125400" stop="20210829130000" channel="TBS2.jp">
@@ -1037,11 +1017,6 @@
 	<programme start="20210830102500" stop="20210830135500" channel="TBS2.jp">
 		<title lang="ja">ひるおび!</title>
 		<desc lang="ja">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
-	</programme>
-
-	<programme start="20210829115500" stop="20210829125400" channel="TVTokyo.jp">
-		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
-		<desc lang="ja">▽人気食堂の鉄板まかない㊙野菜炒め▽農家さん直伝！ネギ味噌だれでいただく丸ナスのステーキ▽東京都江戸川区…喫茶店の濃厚ナポリタン＆母直伝ゴーヤーチャンプルー</desc>
 	</programme>
 
 	<programme start="20210829125400" stop="20210829140000" channel="TVTokyo.jp">
@@ -1238,11 +1213,6 @@
 		<desc lang="ja">あなたのご飯見せて下さい▽静岡県河津町…世界遺産で作るわさび丼▽古民家レトロかき氷＆ふっくら釜戸炊きご飯▽東京・新島…新鮮野菜の島ポキ丼＆明日葉と島のり天ぷら</desc>
 	</programme>
 
-	<programme start="20210829115000" stop="20210829120000" channel="FujiTV.jp">
-		<title lang="ja">FNN Live News days</title>
-		<desc lang="ja">週末の昼も「ライブニュース　デイズ」をお見逃しなく。民放で最大級の全国ネットワークを持つＦＮＮの記者が取材したニュースをお届けします。</desc>
-	</programme>
-
 	<programme start="20210829120000" stop="20210829140000" channel="FujiTV.jp">
 		<title lang="ja">なりゆき街道旅</title>
 		<desc lang="ja">ＤＡＩＧＯ＆若槻千夏と巡る、「東京のブルックリン」蔵前！おしゃれ日本茶＆チョコ専門店でこだわりの味に感動！博物館で江戸を体験！ＤＡＩＧＯの子育て秘話！</desc>
@@ -1385,14 +1355,6 @@
 	<programme start="20210830115500" stop="20210830144500" channel="FujiTV.jp">
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-	</programme>
-	<programme start="20210829115500" stop="20210829125000" channel="Tokyo MX">
-		<title lang="ja">日曜はカラフル!!!</title>
-		<desc lang="ja">登録者数１７０万超大人気ＹｏｕＴｕｂｅｒパパラピーズタナカガ生出演▼自宅で味わう超高級グルメ特集▼クリス松村が大豪邸訪問▼世界一短い人生相談▼アンミカ＆中山優馬</desc>
-	</programme>
-	<programme start="20210829125000" stop="20210829125500" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210829125500" stop="20210829130000" channel="Tokyo MX">
 		<title lang="ja">MX news FLAG</title>
@@ -1581,5 +1543,13 @@
 	<programme start="20210830120000" stop="20210830123000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210830123000" stop="20210830130000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210830130000" stop="20210830135500" channel="Tokyo MX">
+		<title lang="ja">キム秘書はいったい、なぜ?</title>
+		<desc lang="ja">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
 	</programme>
 </tv>
