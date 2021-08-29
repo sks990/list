@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210829211000 +0000" stop="20210829223600 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　男子１００ｍ　Ｔ６４・予選、男子１００ｍ　Ｔ６３・予選ほか（中継）　【出演】吉田沙保里，田口亜希，大西瞳，後藤佑季，【アナウンサー】中野淳，杉浦友紀ほか</desc>
-  </programme>
   <programme start="20210829223600 +0000" stop="20210829233600 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック ハイライト</title>
     <desc lang="ja">注目競技の結果をいち早く伝える。車いすラグビーはメダルをかけた大一番に挑む。風間俊介さんはブラインドサッカーの現場へ。日本代表が大会に向けて準備してきたものとは</desc>
@@ -253,6 +249,10 @@
   <programme start="20210830213000 +0000" stop="20210830221500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇陸上　女子１５００ｍ　Ｔ５４・予選ほか（中継）　【出演】吉田沙保里，保原浩明，猪狩ともか，後藤佑季，【アナウンサー】瀬田宙大，和久田麻由子，中野淳ほか</desc>
+  </programme>
+  <programme start="20210830221500 +0000" stop="20210830231500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック ハイライト</title>
+    <desc lang="ja">注目競技の結果をいち早く伝える。嵐の相葉雅紀さんは車いすバスケット会場へ。風間俊介さんは陸上知的障がい選手とコーチの挑戦をリポート。競泳の東海林大選手を紹介。</desc>
   </programme>
 	<programme start="20210829210000 +0000" stop="20210829230000 +0000" channel="eTele.jp">
 		<title lang="ja">古典芸能への招待</title>
@@ -574,14 +574,13 @@
 		<title lang="ja">グレーテルのかまど</title>
 		<desc lang="ja">パイナップルのシャーベットやいちごを取り合わせ、華やかに洋酒が香るフレーズ・サラ・ベルナール。伝説的な女優にささげられたデザートです。その永遠の魅力とは。</desc>
 	</programme>
-	<programme start="20210829215400 +0000" stop="20210829220000 +0000" channel="NipponTV.jp">
-		<title lang="ja">夢の通り道</title>
-		<desc lang="ja">東京ディズニーランド「クラブマウスビート」
-アメリカ・カリフォルニア州 ロサンゼルス「ラテンダンス」編</desc>
+	<programme start="20210830222500 +0000" stop="20210830225000 +0000" channel="eTele.jp">
+		<title lang="ja">100分de名著</title>
+		<desc lang="ja">「感情の歴史」を描きたいと語るアレクシェーヴィチ。彼女によって戦争は生身の身体、鮮烈な五感、豊かな感情の震えの記録として描き直される。戦争を記録する意味とは？</desc>
 	</programme>
-	<programme start="20210829220000 +0000" stop="20210829223000 +0000" channel="NipponTV.jp">
-		<title lang="ja">おしゃれイズム</title>
-		<desc lang="ja">生きる伝説…デビュー５０周年！郷ひろみが降臨▼日テレ貴重映像解禁▼バーキンの中身＆財布の中身を大公開▼知られざるオタク道愛の不時着＆キングダムの奇妙すぎる鑑賞術</desc>
+	<programme start="20210830225000 +0000" stop="20210830231500 +0000" channel="eTele.jp">
+		<title lang="ja">不滅のあなたへ</title>
+		<desc lang="ja">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
 	</programme>
 	<programme start="20210829223000 +0000" stop="20210829232500 +0000" channel="NipponTV.jp">
 		<title lang="ja">ボクの殺意が恋をした</title>
@@ -671,13 +670,9 @@
 		<title lang="ja">しゃべくり007</title>
 		<desc lang="ja">祝！銀メダル‼バスケ女子日本代表参戦‼選手達がバスケより夢中になってるコト大公開SP▽試合中に選手より目立っていた⁉猛将トム・ホーバスが本格バラエティー初登場‼</desc>
 	</programme>
-	<programme start="20210829215500 +0000" stop="20210829222500 +0000" channel="Asahi.jp">
-		<title lang="ja">爆笑問題&霜降り明星のシンパイ賞!!</title>
-		<desc lang="ja">芸人がブレイクしてお金を持つのは本当に幸せなことなのか？人気急上昇！ブレイク芸人７人のお金事情を通して考える！ニューヨーク・嶋佐＆錦鯉・長谷川も…⁉</desc>
-	</programme>
-	<programme start="20210829222500 +0000" stop="20210829225500 +0000" channel="Asahi.jp">
-		<title lang="ja">テレビ千鳥</title>
-		<desc lang="ja">炎天下の中、屋上でビール好き芸人が集結!!自分の中のNO.1おつまみ1品プレゼン!!ガマンして最後にみんなで決めた1品をあてにビールを飲む。ケンコバ＆飯尾＆こじるり＆薄幸</desc>
+	<programme start="20210830230000 +0000" stop="20210831000400 +0000" channel="NipponTV.jp">
+		<title lang="ja">news zero</title>
+		<desc lang="ja">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
 	</programme>
 	<programme start="20210829225500 +0000" stop="20210829230000 +0000" channel="Asahi.jp">
 		<title lang="ja">EXITのラリージャパン応援宣言</title>
@@ -781,14 +776,6 @@ SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 		<title lang="ja">報道ステーション</title>
 		<desc lang="ja">「きょう、色々。」こだわりのトップニュースに、ダイナミックなスタジオ展開！きょう知りたいニュースを“もっと深く、もっとカラフル”にお伝えします！</desc>
 	</programme>
-	<programme start="20210829215400 +0000" stop="20210829220000 +0000" channel="TBS2.jp">
-		<title lang="ja">まちづくり夢づくりPART2</title>
-		<desc lang="ja">まちづくり夢づくりＰＡＲＴ２</desc>
-	</programme>
-	<programme start="20210829220000 +0000" stop="20210829225400 +0000" channel="TBS2.jp">
-		<title lang="ja">日曜日の初耳学</title>
-		<desc lang="ja">中村倫也が『暗黒期』と呼ぶほど荒んだ過去を激白！ブレイクの裏に５人の名優の存在が…親友中島健人との㊙エピソード▼スマホより便利⁉女性がハマる『スマートウォッチ』</desc>
-	</programme>
 	<programme start="20210829225400 +0000" stop="20210829230000 +0000" channel="TBS2.jp">
 		<title lang="ja">今晩、Paraviれば</title>
 		<desc lang="ja">過去の話題作やオリジナル番組が見放題の動画配信サービス【Paravi】！豊富なラインアップから一押しコンテンツをご紹介！今すぐParaviれば！</desc>
@@ -850,13 +837,13 @@ SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 		<title lang="ja">教えてもらう前と後</title>
 		<desc lang="ja">プロも絶賛モノマネなし！笑いなし！『女芸人が本気の熱唱‼』歌うまテクニック披露▼日本一のラーメンＹｏｕＴｕｂｅｒ×ロバート秋山『進化系！この夏食べるべきつけ麺』</desc>
 	</programme>
-	<programme start="20210829215400 +0000" stop="20210829224800 +0000" channel="TVTokyo.jp">
-		<title lang="ja">有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?</title>
-		<desc lang="ja">有吉ジャパン奇跡のスーパープレイ連発！帰ってきた鉄壁ボンバー！さらに“日本代表伝説の10番”超大物レジェンドが檄を飛ばす「アナタたちなかなか勝てないらしいね！」</desc>
+	<programme start="20210830225700 +0000" stop="20210830230000 +0000" channel="TBS2.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">きょうのＮＥＷＳ２３。みどころを、いち早くお伝えします！最新情報、満載です！</desc>
 	</programme>
-	<programme start="20210829224800 +0000" stop="20210829225400 +0000" channel="TVTokyo.jp">
-		<title lang="ja">eSports high TV</title>
-		<desc lang="ja">毎週ｅスポーツイベントや最新ゲームなど旬な情報を届ける。ＭＣは中垣正太郎アナと原田修佑アナ。そしてAI-Vtuberのタミ子。</desc>
+	<programme start="20210830230000 +0000" stop="20210831000100 +0000" channel="TBS2.jp">
+		<title lang="ja">news23</title>
+		<desc lang="ja">感染拡大続く中、自宅療養者を救え！救命の現場から移動中継▽あす全米ＯＰ！大坂なおみ連覇へ▽パラリンピック奮い立たせる言葉とは</desc>
 	</programme>
 	<programme start="20210829225400 +0000" stop="20210829233000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">追跡 LIVE! SPORTS ウォッチャー</title>
@@ -1015,6 +1002,10 @@ SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 		<title lang="ja">WBS</title>
 		<desc lang="ja">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 	</programme>
+	<programme start="20210830225800 +0000" stop="20210830230600 +0000" channel="TVTokyo.jp">
+		<title lang="ja">夢遺産〜リーダーの夢の先〜</title>
+		<desc lang="ja">今回の夢追い人は建築プロジェクト管理サービスを展開するアンドパッド社長　稲田武夫。失敗を重ねた末、成功を実感した現場からの一言とは？そして未来に遺したい夢とは？</desc>
+	</programme>
 	<programme start="20210829185900 +0000" stop="20210829230900 +0000" channel="FujiTV.jp">
 		<title lang="ja">FNSラフ&ミュージック 〜歌と笑いの祭典〜</title>
 		<desc lang="ja">松本人志＆中居ナイナイ千鳥アンタの司会陣で音楽とお笑いの生放送▼サンドウィッチマン＆チョコプラにキスマイ＆さだまさし▼日向坂がＢＴＳに変身▼ＥＸＩＬＥ対ＥＸＩＴ</desc>
@@ -1111,13 +1102,13 @@ SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 		<title lang="ja">所JAPAN</title>
 		<desc lang="ja">ハッピーメルカリ便第５弾！芸能人が正体を隠して私物出品＆購入者にサプライズ連絡！幸せ全開三代目ＪＳＢ山下健二郎㊙激レアスニーカー＆ラスボス小林幸子４億円豪邸訪問</desc>
 	</programme>
-	<programme start="20210829213000 +0000" stop="20210829220000 +0000" channel="Tokyo MX">
-		<title lang="ja">天官賜福</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210830225400 +0000" stop="20210830230000 +0000" channel="FujiTV.jp">
+		<title lang="ja">My Routine〜太陽と星空の時間〜</title>
+		<desc lang="ja">１００歳まで健康に！各界で活躍するあの有名人の独自の健康法〜マイ・ルーティーンをこっそり教えます！▽女優・飯野めぐみ</desc>
 	</programme>
-	<programme start="20210829220000 +0000" stop="20210829223000 +0000" channel="Tokyo MX">
-		<title lang="ja">死神坊ちゃんと黒メイド</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210830230000 +0000" stop="20210830234000 +0000" channel="FujiTV.jp">
+		<title lang="ja">関ジャニ∞クロニクルF</title>
+		<desc lang="ja">マグロの街三崎で最強“映え丼”探し！高級金目鯛＆マグロを使ったタイ料理＆獲れたて地魚…超レア部位生解体ショーに一同興奮＆横山「俺のオカンや」クセ強すぎ地元民続出</desc>
 	</programme>
 	<programme start="20210829223000 +0000" stop="20210829230000 +0000" channel="Tokyo MX">
 		<title lang="ja">アイドリッシュセブン Third BEAT!</title>
@@ -1290,5 +1281,13 @@ SNSで話題のコラボ絶景・雲海夜景へ。</desc>
 	<programme start="20210830220000 +0000" stop="20210830223000 +0000" channel="Tokyo MX">
 		<title lang="ja">SHOW BY ROCK!!ましゅまいれっしゅ!!</title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210830223000 +0000" stop="20210830230000 +0000" channel="Tokyo MX">
+		<title lang="ja">月が導く異世界道中</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210830230000 +0000" stop="20210830233000 +0000" channel="Tokyo MX">
+		<title lang="ja">Free!-Dive to the Future-</title>
+		<desc lang="ja">＃８「魂のメタモルフォーゼ！」</desc>
 	</programme>
 </tv>
