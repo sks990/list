@@ -50,11 +50,6 @@
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
 	</channel>
 
-	<programme start="20210829085900" stop="20210829090000" channel="NHK1Tokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-	</programme>
-
 	<programme start="20210829090000" stop="20210829100000" channel="NHK1Tokyo.jp">
 		<title lang="ja">日曜討論</title>
 		<desc lang="ja">止まらぬ感染拡大めぐって田村大臣と専門家が討論▽緊急事態拡大で感染を防げるか？急増する自宅療養・危機に直面する医療をどう支える？新学期を迎える学校の感染対策は？</desc>
@@ -285,9 +280,14 @@
 		<desc lang="ja">◇競泳　男子２００ｍ自由形　Ｓ４・予選ほか（中継）</desc>
 	</programme>
 
-	<programme start="20210829085500" stop="20210829090000" channel="eTele.jp">
-		<title lang="ja">365日の献立日記</title>
-		<desc lang="ja">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+	<programme start="20210830095900" stop="20210830100000" channel="NHK1Tokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	</programme>
+
+	<programme start="20210830100000" stop="20210830100500" channel="NHK1Tokyo.jp">
+		<title lang="ja">ニュース・気象情報</title>
+		<desc lang="ja"></desc>
 	</programme>
 
 	<programme start="20210829090000" stop="20210829115900" channel="eTele.jp">
@@ -500,6 +500,36 @@
 		<desc lang="ja">新しく学校生活をスタートする小学１年生をサポートする番組。今回は、水を使っておもしろい遊びを見つけて、水といっぱいふれあう活動を紹介します。</desc>
 	</programme>
 
+	<programme start="20210830090500" stop="20210830091500" channel="eTele.jp">
+		<title lang="ja">おはなしのくに</title>
+		<desc lang="ja">定番の昔話を個性派俳優が一人芝居で朗読！『はなさかじいさん』“枯れ木に花を咲かせましょう！”（日本の昔話）出演：平田満</desc>
+	</programme>
+
+	<programme start="20210830091500" stop="20210830092500" channel="eTele.jp">
+		<title lang="ja">お伝(つた)と伝(でん)じろう</title>
+		<desc lang="ja">子どもたちが「どうしたら伝わるのか」を考えコミュニケーションスキルを育てる番組。出演は、レ・ロマネスク、越冨幹人ほか。</desc>
+	</programme>
+
+	<programme start="20210830092500" stop="20210830093500" channel="eTele.jp">
+		<title lang="ja">ことばドリル</title>
+		<desc lang="ja">「みんなわらっています」と「みんなわらっていました」では状況が異なる。「今起こっていること」と「もうすんだこと」を表現しわける効果を理解する。</desc>
+	</programme>
+
+	<programme start="20210830093500" stop="20210830094500" channel="eTele.jp">
+		<title lang="ja">キミなら何つくる?</title>
+		<desc lang="ja">「キミなら何つくる？」では、図工大好き３人組が、毎回それぞれの思いを込めた作品を製作！今回は「液体粘土」で布を固めて好きな形をつくる。出演：ＣＯＷＣＯＷほか</desc>
+	</programme>
+
+	<programme start="20210830094500" stop="20210830095500" channel="eTele.jp">
+		<title lang="ja">さんすう犬ワン</title>
+		<desc lang="ja">算数が得意な犬の「ワン」が、お巡りさんと事件を解決する痛快コメディードラマ。舞台は大掃除の教室。大きな机を入口から運び出すことはできるのか？出演：スギちゃんほか</desc>
+	</programme>
+
+	<programme start="20210830095500" stop="20210830100500" channel="eTele.jp">
+		<title lang="ja">さんすう刑事ゼロ</title>
+		<desc lang="ja">さんすう刑事ゼロとイチが、算数を使い事件を解決するミステリードラマ。走行中のトラックからメロンを盗んだ犯人は？速度計算で解決！出演：モロ師岡、加藤慶祐、聖也ほか</desc>
+	</programme>
+
 	<programme start="20210829073000" stop="20210829102500" channel="NipponTV.jp">
 		<title lang="ja">シューイチ</title>
 		<desc lang="ja">五十嵐カノア独占インタビュー▼劇団四季新作はアナ雪▼平野紫耀×橋本環奈▼ロバート秋山×アルピー平子リノベ銭湯巡り▼中丸百均ソロキャンプ▼高畑充希が生出演▼辻元舞</desc>
@@ -671,18 +701,6 @@
 		<desc lang="ja">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
 	</programme>
 
-	<programme start="20210829083000" stop="20210829090000" channel="Asahi.jp">
-		<title lang="ja">トロピカル〜ジュ!プリキュア</title>
-		<desc lang="ja">「わたしの《今、一番 大事なこと》！それは…！」
-メイクでトロピカルチェンジして、やる気全開！
-プリキュアに、学校に、部活に！みんなでトロピカっちゃおー！</desc>
-	</programme>
-
-	<programme start="20210829090000" stop="20210829093000" channel="Asahi.jp">
-		<title lang="ja">仮面ライダーセイバー</title>
-		<desc lang="ja">小説家の神山飛羽真は、聖なる剣と本に選ばれし剣士＝仮面ライダーセイバーとして異世界に飛ばされた街や人々を救うために戦う！「この物語の結末はオレが決める！」</desc>
-	</programme>
-
 	<programme start="20210829093000" stop="20210829100000" channel="Asahi.jp">
 		<title lang="ja">機界戦隊ゼンカイジャー</title>
 		<desc lang="ja">１人の人間と４人のロボがすべての世界を守るヒーローになる！その名も機界戦隊ゼンカイジャー！地球に侵略してきた悪のトジテンド王朝を倒せるのか!?みんなで応援しよう！</desc>
@@ -836,9 +854,9 @@
 		<desc lang="ja">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 	</programme>
 
-	<programme start="20210829080000" stop="20210829095400" channel="TBS2.jp">
-		<title lang="ja">サンデーモーニング</title>
-		<desc lang="ja">子どもの感染急増で‥夏休み明けを危ぶむ声▽アフガン退避で混乱▽東京パラリンピック開幕・日本メダルラッシュ▽大谷本塁打争い独走▽男女・夏の甲子園▽風をよむ</desc>
+	<programme start="20210830095500" stop="20210830102500" channel="Asahi.jp">
+		<title lang="ja">じゅん散歩</title>
+		<desc lang="ja">三代目散歩人・高田純次が「みなとみらい」を散策▽「奇跡の化石」が初来日！横浜の博覧会へ▽ティラノにトリケラ…圧巻の恐竜化石▽化石の発掘に挑戦！まさかの事態</desc>
 	</programme>
 
 	<programme start="20210829095400" stop="20210829113000" channel="TBS2.jp">
@@ -981,15 +999,9 @@
 		<desc lang="ja">人気ジャニーズメンバーも大興奮！ソラマチの最新絶品スイーツを食べ尽くす▼プロが超厳選！進化した料理するおもちゃ！夏休みに親子で楽しめるクッキングトイランキング！</desc>
 	</programme>
 
-	<programme start="20210829083000" stop="20210829090000" channel="TVTokyo.jp">
-		<title lang="ja">デュエル・マスターズ キング!</title>
-		<desc lang="ja">ガットル２・ヒミコにモモキングが奪われた！ヒミコは、ボルツを操ってジョーをさらに追い詰めようとする。しかし、そこにパワーアップしたキャンベロが現れて…！？</desc>
-	</programme>
-
-	<programme start="20210829090000" stop="20210829093000" channel="TVTokyo.jp">
-		<title lang="ja">ビッ友×戦士 キラメキパワーズ!</title>
-		<desc lang="ja">大冒険をゲームスタート！ゲームの世界から人間界にきた悪の「マックラ帝国」と戦い、世界の闇を！キラッキラにきらめかせる！
-ガールズ×戦士シリーズ記念すべき第5弾！</desc>
+	<programme start="20210830095500" stop="20210830102500" channel="TBS2.jp">
+		<title lang="ja">Let's!美バディ</title>
+		<desc lang="ja">★YouTubeで人気の竹脇まりなが指導★ゲストは歌手 郷ひろみ★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
 	</programme>
 
 	<programme start="20210829093000" stop="20210829100000" channel="TVTokyo.jp">
@@ -1186,14 +1198,19 @@
 【全40話　日本語字幕付　二カ国語放送】</desc>
 	</programme>
 
-	<programme start="20210829085500" stop="20210829090000" channel="FujiTV.jp">
-		<title lang="ja">千葉の贈り物〜まごころ配達人〜</title>
-		<desc lang="ja">心のこもった“まごころ”で、全国から訪れる方々を迎えたい…そんな思いを込めて、千葉県のスポットとその魅力を支える人たちを紹介します。</desc>
+	<programme start="20210830091100" stop="20210830092100" channel="TVTokyo.jp">
+		<title lang="ja">なないろ日和!プラス</title>
+		<desc lang="ja">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
 	</programme>
 
-	<programme start="20210829090000" stop="20210829093000" channel="FujiTV.jp">
-		<title lang="ja">デジモンアドベンチャー:</title>
-		<desc lang="ja">［勇気の紋章］太一とアグモンが辿り着いた、不思議な城。そこで待ち受けていたヴァルキリモンは、太一だけを凶暴なデジモンたちが息づく未知の世界に放り込んでしまった。</desc>
+	<programme start="20210830092100" stop="20210830092600" channel="TVTokyo.jp">
+		<title lang="ja">Mナビ</title>
+		<desc lang="ja">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+	</programme>
+
+	<programme start="20210830092600" stop="20210830111300" channel="TVTokyo.jp">
+		<title lang="ja">なないろ日和!</title>
+		<desc lang="ja">▽快適ショッピングスタジオ▽野菜をたっぷり食べて栄養補給…キーマカレー風丼！野菜とカツオのマリネ。ヘルシービビンバ▽「虎ノ門市場」中華世界チャンピオンのエビチリ</desc>
 	</programme>
 
 	<programme start="20210829093000" stop="20210829100000" channel="FujiTV.jp">
@@ -1344,13 +1361,10 @@
 		<title lang="ja">めざまし8</title>
 		<desc lang="ja">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 	</programme>
-	<programme start="20210829083000" stop="20210829090000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210829090000" stop="20210829093000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+
+	<programme start="20210830095000" stop="20210830112500" channel="FujiTV.jp">
+		<title lang="ja">ノンストップ!</title>
+		<desc lang="ja">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 	</programme>
 	<programme start="20210829093000" stop="20210829100000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1543,5 +1557,13 @@
 	<programme start="20210830090000" stop="20210830093000" channel="Tokyo MX">
 		<title lang="ja">HISTORY</title>
 		<desc lang="ja">Ｂｅａｕ　Ｂｅｌｌｅ／じゅんちゃんファーム／ＥＳＰＲＥＳＳＯ　社会保険労務士法人ＷＩＬＬ／ビセルインターナショナル／たかはし</desc>
+	</programme>
+	<programme start="20210830093000" stop="20210830100000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210830100000" stop="20210830103000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
