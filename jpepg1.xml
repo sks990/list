@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epg2xml 1.5.2">
+<channels xmlns:xsi="http://www.w3.org/2001/XMLSchema=instance">
 	<channel id="Tokyo MX">
 		<display-name>Tokyo MX</display-name>
 		<icon src="https://s.mxtv.jp/images/yumelion_200x200.jpg" />
@@ -48,7 +50,7 @@
 	<channel id="FujiTwo.jp">
 		<display-name>Fuji Two JP</display-name>
 		<icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
-	</channel>
+	</channel></channels>
 
 	<programme start="20210829125800" stop="20210829130000" channel="NHK1Tokyo.jp">
 		<title lang="ja">新型コロナ 命を守る行動を</title>
@@ -257,7 +259,7 @@
 
 	<programme start="20210830100500" stop="20210830115300" channel="NHK1Tokyo.jp">
 		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja"></desc>
+		<desc lang="ja">◇競泳　男子２００ｍ個人メドレー　ＳＭ１１・予選ほか（中継）◇１１：１５頃　ブラインドサッカー　男子・予選リーグ　グループＡ「日本×ブラジル」（中継）</desc>
 	</programme>
 
 	<programme start="20210830115300" stop="20210830115400" channel="NHK1Tokyo.jp">
