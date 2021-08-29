@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210830015600 +0000" stop="20210830020100 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">パリから帰国した栄一は、静岡で再スタートを決意。そこに舞い込んだ新政府への誘い…。持ち前の才覚で、どう時代を切り開くのか？新時代・明治の栄一の活躍をたっぷり紹介</desc>
-  </programme>
   <programme start="20210830020100 +0000" stop="20210830030000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ザ少年倶楽部</title>
     <desc lang="ja">テーマは「ＳＵＭＭＥＲ」。ＳｉｘＴＯＮＥＳは「Ｂｅｌｌａ」、Ｓｎｏｗ　Ｍａｎは「ＨＥＬＬＯ　ＨＥＬＬＯ」を初披露！Ｔｒａｖｉｓ　Ｊａｐａｎの少クラ調査探検隊も！</desc>
@@ -258,10 +254,10 @@
     <title lang="ja">NHKスペシャル</title>
     <desc lang="ja">中国国民政府を率いた蒋介石の膨大な日記の全貌が明らかになった。日中戦争の国際化をもくろんだその戦略は、太平洋戦争開戦へとつながっていた。そして日本の選択とは。</desc>
   </programme>
-	<programme start="20210830011000 +0000" stop="20210830024000 +0000" channel="eTele.jp">
-		<title lang="ja">第71回 NHK杯テレビ将棋トーナメント</title>
-		<desc lang="ja">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。２回戦第４局は三浦弘行九段と松尾歩八段の対戦。</desc>
-	</programme>
+  <programme start="20210831023600 +0000" stop="20210831032400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">スポーツ×ヒューマン</title>
+    <desc lang="ja">東京五輪で２つの金メダルを獲得した大橋悠依。無名の存在から２０代で驚異の進化を遂げた遅咲きスイマーだ。強さの秘密は？２０１９年４月に放送した番組をアンコール！</desc>
+  </programme>
 	<programme start="20210830024000 +0000" stop="20210830053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
@@ -590,11 +586,7 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210830015000 +0000" stop="20210830022000 +0000" channel="NipponTV.jp">
-		<title lang="ja">にけつッ!!</title>
-		<desc lang="ja">千原ジュニアとケンドーコバヤシによる二人だけの喋り番組。打ち合わせや、台本は一切ありません。</desc>
-	</programme>
-	<programme start="20210830022000 +0000" stop="20210830035800 +0000" channel="NipponTV.jp">
+	<programme start="20210830030000 +0000" stop="20210830035800 +0000" channel="NipponTV.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
@@ -678,15 +670,9 @@
 		<title lang="ja">乃木坂スター誕生!</title>
 		<desc lang="ja">乃木坂４６が昭和・平成の名曲を熱唱！MCぺこぱ▽ロンバケ！東京ラブストーリー！９０年代ドラマ主題歌メドレー＆リンドバーグ渡瀬マキ登場「今すぐＫｉｓｓ Ｍｅ」</desc>
 	</programme>
-	<programme start="20210830013000 +0000" stop="20210830020000 +0000" channel="Asahi.jp">
-		<title lang="ja">熱闘!Mリーグ</title>
-		<desc lang="ja">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
-雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
-	</programme>
-	<programme start="20210830020000 +0000" stop="20210830023000 +0000" channel="Asahi.jp">
-		<title lang="ja">芸能人ハローワーク ウチの後輩、大丈夫ですか?</title>
-		<desc lang="ja">芸能人が話題の会社に“お試し転職”！
-「アンガールズ」の事務所の後輩、「土佐兄弟」の兄・卓也が動画編集ソフトで有名な外資系企業でマーケティングの仕事に挑戦！</desc>
+	<programme start="20210831020400 +0000" stop="20210831034900 +0000" channel="NipponTV.jp">
+		<title lang="ja">日テレポシュレ</title>
+		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
 	</programme>
 	<programme start="20210830023000 +0000" stop="20210830040000 +0000" channel="Asahi.jp">
 		<title lang="ja">Get Sports</title>
@@ -793,6 +779,19 @@ by.Jovanotti</desc>
 		<title lang="ja">musicる TV</title>
 		<desc lang="ja">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
 	</programme>
+	<programme start="20210831020100 +0000" stop="20210831022100 +0000" channel="Asahi.jp">
+		<title lang="ja">さまぁ〜ず論</title>
+		<desc lang="ja">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
+	</programme>
+	<programme start="20210831022100 +0000" stop="20210831024100 +0000" channel="Asahi.jp">
+		<title lang="ja">トゲアリトゲナシトゲトゲ</title>
+		<desc lang="ja">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
+令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
+	</programme>
+	<programme start="20210831024100 +0000" stop="20210831030100 +0000" channel="Asahi.jp">
+		<title lang="ja">あのちゃんねる</title>
+		<desc lang="ja">若い男女を中心にカリスマ的人気を誇る「あのちゃん」の初・冠番組‼▽チャンカワイがあのちゃんの楽曲の世界を深読み!!▽アーティストの側面を引き出します!!</desc>
+	</programme>
 	<programme start="20210830010300 +0000" stop="20210830034500 +0000" channel="TBS2.jp">
 		<title lang="ja">カイモノラボ</title>
 		<desc lang="ja">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
@@ -865,13 +864,18 @@ by.Jovanotti</desc>
 		<desc lang="ja">今週の「週刊EXILE」は・・・
 スタイリッシュなパフォーマンスが魅力のFANTASTICSを特集！</desc>
 	</programme>
-	<programme start="20210830013500 +0000" stop="20210830020500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">東京リベンジャーズ</title>
-		<desc lang="ja">抗争の中で稀咲を追い詰めた場地だったが、吐血し倒れてしまう。怒りに呑まれたマイキーが一虎を殺してしまう悲劇的な未来を食い止めようとするタケミチだが……。</desc>
+	<programme start="20210831020300 +0000" stop="20210831023300 +0000" channel="TBS2.jp">
+		<title lang="ja">イコノイ、どーですか?</title>
+		<desc lang="ja">指原莉乃がプロデュースするアイドル、＝ＬＯＶＥ（イコールラブ）と≠ＭＥ（ノットイコールミー）の冠番組。ＭＣニューヨークがメンバーたちの魅力を売り込みます！</desc>
 	</programme>
-	<programme start="20210830020500 +0000" stop="20210830023500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">Mixalive presents 田村淳が豊島区池袋</title>
-		<desc lang="ja">田村淳×Mixalive×池袋。最新スポットMixaliveにビジネス、カルチャーの最先端の方々が集結。田村淳とともに、池袋発の最新ムーブメントを生み出す！</desc>
+	<programme start="20210831023300 +0000" stop="20210831024000 +0000" channel="TBS2.jp">
+		<title lang="ja">イベントGO!</title>
+		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+	</programme>
+	<programme start="20210831024000 +0000" stop="20210831034500 +0000" channel="TBS2.jp">
+		<title lang="ja">カイモノラボ</title>
+		<desc lang="ja">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 	</programme>
 	<programme start="20210830023500 +0000" stop="20210830030500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">一夜づけ</title>
@@ -1025,9 +1029,22 @@ by.Jovanotti</desc>
 		<title lang="ja">うらみちお兄さん</title>
 		<desc lang="ja">いよいよクリスマス☆　大人も子どもも浮き足立つ中、師走の激務が裏道を襲う。企画販売部の木角に呼ばれた裏道は、そこで彼の闇に触れ…。ちゃんと仕事納めはできるのか!?</desc>
 	</programme>
-	<programme start="20210830013000 +0000" stop="20210830020000 +0000" channel="FujiTV.jp">
-		<title lang="ja">おかべろ</title>
-		<desc lang="ja">今回は桐谷健太が登場！数々の人気ドラマ・映画に出演する一流俳優がトガりすぎた過去を激白！さらに活躍の裏に隠されたドン底時代、それを救った奇跡の出会いが明かされる</desc>
+	<programme start="20210831020500 +0000" stop="20210831023500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">精霊幻想記</title>
+		<desc lang="ja">母の復讐を決意したリオは、しばらくしたらシュトラール地方へ戻ることをユバに告げる。春になり、リオが村を出ることを知ったサヨは家に帰るとひとり土間で泣き崩れる。</desc>
+	</programme>
+	<programme start="20210831023500 +0000" stop="20210831024000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
+	</programme>
+	<programme start="20210831024000 +0000" stop="20210831025500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">一夜づけ</title>
+		<desc lang="ja">ファン待望！「テニプリ」の新作映画！「リョーマ！The　Prince　of　Tennis　新生劇場版テニスの王子様」をご紹介。特別に予告映像をちょい見せしちゃいます！</desc>
+	</programme>
+	<programme start="20210831025500 +0000" stop="20210831032500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">プレミアMelodiX!</title>
+		<desc lang="ja">【ゲスト】高城れに、KEYTALK、the　quiet　room
+【ナビゲーター】南海キャンディーズ</desc>
 	</programme>
 	<programme start="20210830020000 +0000" stop="20210830030000 +0000" channel="FujiTV.jp">
 		<title lang="ja">World Baseballエンタテイメントたまッチ!</title>
@@ -1133,15 +1150,11 @@ by.Jovanotti</desc>
 		<title lang="ja">エンタメサーチバラエティ プレミアの巣窟</title>
 		<desc lang="ja">ＦＯＤにて絶賛配信中のドラマ「スイートリベンジ」に出演中の古畑星夏が登場！こじるりとドラマさながらのスイートリベンジな恋バナに発展！？お見逃しなく！！</desc>
 	</programme>
-	<programme start="20210830013500 +0000" stop="20210830020500 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210831022000 +0000" stop="20210831032000 +0000" channel="FujiTV.jp">
+		<title lang="ja">偶然見つけたハル</title>
+		<desc lang="ja">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
 	</programme>
-	<programme start="20210830020500 +0000" stop="20210830023500 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210830023500 +0000" stop="20210830050000 +0000" channel="Tokyo MX">
+	<programme start="20210830030000 +0000" stop="20210830050000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
@@ -1312,5 +1325,17 @@ by.Jovanotti</desc>
 	<programme start="20210831013500 +0000" stop="20210831020500 +0000" channel="Tokyo MX">
 		<title lang="ja">Girls Pop Paradise</title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831020500 +0000" stop="20210831023400 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831023400 +0000" stop="20210831023500 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831023500 +0000" stop="20210831030500 +0000" channel="Tokyo MX">
+		<title lang="ja">JOYnt! JOYのASOBU-TV</title>
+		<desc lang="ja">４〜６月　未公開集　呼び出し</desc>
 	</programme>
 </tv>
