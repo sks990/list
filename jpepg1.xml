@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210830045000 +0000" stop="20210830050000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">時論公論</title>
-    <desc lang="ja">イランで反米・保守強硬派のライシ新大統領が新政権を発足させる。外交方針は大きく変わり、核合意をめぐる協議も仕切り直しになると見られている。政権交代の影響を解説。</desc>
-  </programme>
   <programme start="20210830050000 +0000" stop="20210830060000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">▼緊迫するアフガニスタン情勢▼来年度予算案・外務省が感染症対策関連で今年度予算の約２倍計上へ▼パラリンピック・海外のレジェンド“残されたものを最大限に”</desc>
@@ -254,18 +250,10 @@
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-	<programme start="20210830024000 +0000" stop="20210830053000 +0000" channel="eTele.jp">
-		<title lang="ja"></title>
-		<desc lang="ja"></desc>
-	</programme>
-	<programme start="20210830053000 +0000" stop="20210830055000 +0000" channel="eTele.jp">
-		<title lang="ja">知りたガールと学ボーイ</title>
-		<desc lang="ja">ゆりやんレトリィバァとミキの新感覚英会話番組。今回は、ミキ昴生の地理クイズ。外国人観光客に質問をして、どこの国から来たのかを当ててみよう！</desc>
-	</programme>
-	<programme start="20210830055000 +0000" stop="20210830055500 +0000" channel="eTele.jp">
-		<title lang="ja">びじゅチューン!</title>
-		<desc lang="ja">断崖絶壁にたつ国宝「投入堂」（鳥取・三徳山三佛寺）。いったいどうやって建設されたのか？投入堂を中心に、お堂たちが協力して崖を登っていったのかも？と想像した曲。</desc>
-	</programme>
+  <programme start="20210831060000 +0000" stop="20210831063000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
+  </programme>
 	<programme start="20210830055500 +0000" stop="20210830060000 +0000" channel="eTele.jp">
 		<title lang="ja">ワンポイント手話</title>
 		<desc lang="ja">初歩的な手話の単語や会話を２５回に分けて紹介します。最終的には手話で簡単な自己紹介ができるようになるのが目標です。テニス、サッカー、水泳といった単語を学びます。</desc>
@@ -582,9 +570,17 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210830043000 +0000" stop="20210830055000 +0000" channel="NipponTV.jp">
-		<title lang="ja">Oha!4 NEWS LIVE</title>
-		<desc lang="ja">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽“混乱”渋谷の若者向け接種会場に行列…日曜は？▽アフガニスタンでまた爆発▽パラリンピック日本勢メダルラッシュ！</desc>
+	<programme start="20210831053000 +0000" stop="20210831055500 +0000" channel="eTele.jp">
+		<title lang="ja">ロシアゴスキー</title>
+		<desc lang="ja">現地リポーターの案内による街歩きと、楽しいアニメーションでスタイリッシュな講座。サンクトペテルブルクの風景を楽しみながら、旅で役立つロシア語を覚えましょう！</desc>
+	</programme>
+	<programme start="20210831055500 +0000" stop="20210831060000 +0000" channel="eTele.jp">
+		<title lang="ja">楽ラクワンポイント介護</title>
+		<desc lang="ja">認知症の家族の介護についてアドバイスする。今回は「汚れた下着を隠す」ことについて。講師は認知症ケアの第一人者の介護福祉士の和田行男さん。</desc>
+	</programme>
+	<programme start="20210831060000 +0000" stop="20210831062500 +0000" channel="eTele.jp">
+		<title lang="ja">旅するためのスペイン語</title>
+		<desc lang="ja">伊原六花さんがスペイン語会話に体当たり！アクセサリーの作り方を教わりながら、今月習ったフレーズを使っていきます。新しい単語も覚えられるよう頑張りましょう！</desc>
 	</programme>
 	<programme start="20210830055000 +0000" stop="20210830080000 +0000" channel="NipponTV.jp">
 		<title lang="ja">ZIP!</title>
@@ -677,6 +673,10 @@
 	<programme start="20210831043000 +0000" stop="20210831055000 +0000" channel="NipponTV.jp">
 		<title lang="ja">Oha!4 NEWS LIVE</title>
 		<desc lang="ja">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+	</programme>
+	<programme start="20210831055000 +0000" stop="20210831080000 +0000" channel="NipponTV.jp">
+		<title lang="ja">ZIP!</title>
+		<desc lang="ja">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
 	</programme>
 	<programme start="20210830045500 +0000" stop="20210830080000 +0000" channel="Asahi.jp">
 		<title lang="ja">グッド!モーニング</title>
@@ -890,16 +890,9 @@ by.Jovanotti</desc>
 		<title lang="ja">はやドキ!</title>
 		<desc lang="ja">最新のニュース・情報・関心事をどこよりも早くお伝えします！お楽しみに！</desc>
 	</programme>
-	<programme start="20210830050000 +0000" stop="20210830051000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja"></desc>
-	</programme>
-	<programme start="20210830051000 +0000" stop="20210830054500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ものスタ</title>
-		<desc lang="ja">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+	<programme start="20210831060000 +0000" stop="20210831080000 +0000" channel="TBS2.jp">
+		<title lang="ja">あさチャン!</title>
+		<desc lang="ja">メインキャスターは夏目三久。きのうからけさまでの注目ニュースを総ざらい。世界の今がライブでわかる。専門知識豊富なゲストが独自の視点でより深い情報をお届けする。</desc>
 	</programme>
 	<programme start="20210830054500 +0000" stop="20210830070500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">モーサテ</title>
@@ -1070,9 +1063,9 @@ by.Jovanotti</desc>
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 	</programme>
-	<programme start="20210830045500 +0000" stop="20210830052500 +0000" channel="FujiTV.jp">
-		<title lang="ja">めざましテレビ全部見せ</title>
-		<desc lang="ja">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+	<programme start="20210831054500 +0000" stop="20210831070500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">モーサテ</title>
+		<desc lang="ja">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 	</programme>
 	<programme start="20210830052500 +0000" stop="20210830080000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざましテレビ</title>
@@ -1174,13 +1167,9 @@ by.Jovanotti</desc>
 		<title lang="ja">めざましテレビ全部見せ</title>
 		<desc lang="ja">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 	</programme>
-	<programme start="20210830050000 +0000" stop="20210830051500 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210830051500 +0000" stop="20210830053000 +0000" channel="Tokyo MX">
-		<title lang="ja">童謡コーラス♪名曲大合唱</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210831052500 +0000" stop="20210831080000 +0000" channel="FujiTV.jp">
+		<title lang="ja">めざましテレビ</title>
+		<desc lang="ja">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 	</programme>
 	<programme start="20210830053000 +0000" stop="20210830060000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1373,5 +1362,13 @@ by.Jovanotti</desc>
 	<programme start="20210831050000 +0000" stop="20210831053000 +0000" channel="Tokyo MX">
 		<title lang="ja">あんぎゃでござる!!</title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831053000 +0000" stop="20210831060000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831060000 +0000" stop="20210831070000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
 	</programme>
 </tv>
