@@ -50,17 +50,13 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831013600 +0000" stop="20210831023600 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKスペシャル</title>
-    <desc lang="ja">中国国民政府を率いた蒋介石の膨大な日記の全貌が明らかになった。日中戦争の国際化をもくろんだその戦略は、太平洋戦争開戦へとつながっていた。そして日本の選択とは。</desc>
-  </programme>
   <programme start="20210831023600 +0000" stop="20210831032400 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">スポーツ×ヒューマン</title>
     <desc lang="ja">東京五輪で２つの金メダルを獲得した大橋悠依。無名の存在から２０代で驚異の進化を遂げた遅咲きスイマーだ。強さの秘密は？２０１９年４月に放送した番組をアンコール！</desc>
   </programme>
   <programme start="20210831032400 +0000" stop="20210831042400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ヨーロッパ トラムの旅</title>
-    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
   </programme>
   <programme start="20210831042400 +0000" stop="20210831043500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">瀬戸内 ふるさとの絶景</title>
@@ -277,6 +273,10 @@
   <programme start="20210901015100 +0000" stop="20210901025100 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">日本の名峰</title>
     <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210901025100 +0000" stop="20210901035100 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">空からクルージング特別編</title>
+    <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。</desc>
   </programme>
 	<programme start="20210831002500 +0000" stop="20210831053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -614,10 +614,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210831013400 +0000" stop="20210831020400 +0000" channel="NipponTV.jp">
-		<title lang="ja">乃木坂スター誕生!</title>
-		<desc lang="ja">乃木坂４６が昭和・平成の名曲を熱唱！MCぺこぱ▽ロンバケ！東京ラブストーリー！９０年代ドラマ主題歌メドレー＆リンドバーグ渡瀬マキ登場「今すぐＫｉｓｓ Ｍｅ」</desc>
-	</programme>
 	<programme start="20210831020400 +0000" stop="20210831034900 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -714,18 +710,13 @@
 		<title lang="ja">ハコヅメ〜たたかう!交番女子〜</title>
 		<desc lang="ja">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香&永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
 	</programme>
-	<programme start="20210831013100 +0000" stop="20210831020100 +0000" channel="Asahi.jp">
-		<title lang="ja">musicる TV</title>
-		<desc lang="ja">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
+	<programme start="20210901020900 +0000" stop="20210901023900 +0000" channel="NipponTV.jp">
+		<title lang="ja">HUNTER×HUNTER</title>
+		<desc lang="ja">＃１３０「マホウ×デ×ゼツボウ」</desc>
 	</programme>
-	<programme start="20210831020100 +0000" stop="20210831022100 +0000" channel="Asahi.jp">
-		<title lang="ja">さまぁ〜ず論</title>
-		<desc lang="ja">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
-	</programme>
-	<programme start="20210831022100 +0000" stop="20210831024100 +0000" channel="Asahi.jp">
-		<title lang="ja">トゲアリトゲナシトゲトゲ</title>
-		<desc lang="ja">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
-令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
+	<programme start="20210901023900 +0000" stop="20210901042400 +0000" channel="NipponTV.jp">
+		<title lang="ja">日テレポシュレ</title>
+		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
 	</programme>
 	<programme start="20210831024100 +0000" stop="20210831030100 +0000" channel="Asahi.jp">
 		<title lang="ja">あのちゃんねる</title>
@@ -840,18 +831,17 @@ by.Laura Pausini</desc>
 		<desc lang="ja">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
 ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
 	</programme>
-	<programme start="20210831013300 +0000" stop="20210831020300 +0000" channel="TBS2.jp">
-		<title lang="ja">週刊EXILE</title>
-		<desc lang="ja">今週の「週刊EXILE」は・・・
-スタイリッシュなパフォーマンスが魅力のFANTASTICSを特集！</desc>
+	<programme start="20210901020100 +0000" stop="20210901022100 +0000" channel="Asahi.jp">
+		<title lang="ja">にゅーくりぃむ</title>
+		<desc lang="ja">くりぃむ上田の「裸の王様度チェック」楽屋で傍若無人な上田をダイアン津田は注意できる?!最多出演の河本準一とくりぃむ大好き芸人・カカロニが熱すぎる企画プレゼン！</desc>
 	</programme>
-	<programme start="20210831020300 +0000" stop="20210831023300 +0000" channel="TBS2.jp">
-		<title lang="ja">イコノイ、どーですか?</title>
-		<desc lang="ja">指原莉乃がプロデュースするアイドル、＝ＬＯＶＥ（イコールラブ）と≠ＭＥ（ノットイコールミー）の冠番組。ＭＣニューヨークがメンバーたちの魅力を売り込みます！</desc>
+	<programme start="20210901022100 +0000" stop="20210901024100 +0000" channel="Asahi.jp">
+		<title lang="ja">ぼる塾の煩悩ごはん</title>
+		<desc lang="ja">シェフのあんりが考案したハイカロリー“煩悩ごはん”をむさぼり食べる深夜の飯テロバラエティ！ぼる塾とゲストのここでしか聞けない真剣トークも！</desc>
 	</programme>
-	<programme start="20210831023300 +0000" stop="20210831024000 +0000" channel="TBS2.jp">
-		<title lang="ja">イベントGO!</title>
-		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+	<programme start="20210901024100 +0000" stop="20210901030100 +0000" channel="Asahi.jp">
+		<title lang="ja">イグナッツ!!</title>
+		<desc lang="ja">４人のセンスを競うバトル企画第５弾!!バーで一人飲みする女性を、アラサー４人が順番に口説き、口説かれ役の女性が誰が一番センスが良かったか発表!!</desc>
 	</programme>
 	<programme start="20210831024000 +0000" stop="20210831034500 +0000" channel="TBS2.jp">
 		<title lang="ja">カイモノラボ</title>
@@ -937,21 +927,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">サレタガワのブルー</title>
 		<desc lang="ja">藍子（堀未央奈）と和正（岩岡徹）の不倫の現場を押さえた暢（犬飼貴丈）。妻・梢（高梨臨）の姿を見つけ狼狽える和正。弁護士も加わりシタガワとサレタガワの修羅場が…‼</desc>
 	</programme>
-	<programme start="20210831013500 +0000" stop="20210831020500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">うらみちお兄さん</title>
-		<desc lang="ja">いよいよクリスマス☆　大人も子どもも浮き足立つ中、師走の激務が裏道を襲う。企画販売部の木角に呼ばれた裏道は、そこで彼の闇に触れ…。ちゃんと仕事納めはできるのか!?</desc>
-	</programme>
-	<programme start="20210831020500 +0000" stop="20210831023500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">精霊幻想記</title>
-		<desc lang="ja">母の復讐を決意したリオは、しばらくしたらシュトラール地方へ戻ることをユバに告げる。春になり、リオが村を出ることを知ったサヨは家に帰るとひとり土間で泣き崩れる。</desc>
-	</programme>
-	<programme start="20210831023500 +0000" stop="20210831024000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
-	</programme>
-	<programme start="20210831024000 +0000" stop="20210831025500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">一夜づけ</title>
-		<desc lang="ja">ファン待望！「テニプリ」の新作映画！「リョーマ！The　Prince　of　Tennis　新生劇場版テニスの王子様」をご紹介。特別に予告映像をちょい見せしちゃいます！</desc>
+	<programme start="20210901020300 +0000" stop="20210901031300 +0000" channel="TBS2.jp">
+		<title lang="ja">PLAYLIST</title>
+		<desc lang="ja">今後の活動に注目の　今世の中に届けたい期待のアーティスト達をご紹介！他では見られないライブパフォーマンスも必見！</desc>
 	</programme>
 	<programme start="20210831025500 +0000" stop="20210831032500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">プレミアMelodiX!</title>
@@ -1118,9 +1096,21 @@ by.Laura Pausini</desc>
 		<title lang="ja">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
 		<desc lang="ja">新プロジェクト始動！！ＡＫＢ４８はギャラ０円で何でもします！▽「私温泉シーンだって見せますよ！」小栗がテレ東Ｐ陣に出演直談判！！▽ひろゆきデレデレ新コーナーも！</desc>
 	</programme>
-	<programme start="20210831015500 +0000" stop="20210831022000 +0000" channel="FujiTV.jp">
-		<title lang="ja">エンタメサーチバラエティ プレミアの巣窟</title>
-		<desc lang="ja">ＦＯＤにて絶賛配信中のドラマ「スイートリベンジ」に出演中の古畑星夏が登場！こじるりとドラマさながらのスイートリベンジな恋バナに発展！？お見逃しなく！！</desc>
+	<programme start="20210901021000 +0000" stop="20210901024000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">世界のアッと驚くイチオシ商品をご紹介！</desc>
+	</programme>
+	<programme start="20210901024000 +0000" stop="20210901025500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">一夜づけ</title>
+		<desc lang="ja">天才テニスプレイヤー・越前リョーマがライバルたちと試合を重ねていく中で成長していく物語！映画「リョーマ！The　Prince　of　Tennis　新生劇場版テニスの王子様」！！</desc>
+	</programme>
+	<programme start="20210901025500 +0000" stop="20210901030000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ミュージックブレイク</title>
+		<desc lang="ja">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+	</programme>
+	<programme start="20210901030000 +0000" stop="20210901033000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">高嶺のハナさん</title>
+		<desc lang="ja">弱木(小越勇輝)が画期的なお菓子の新商品プランを発案し、華(泉里香)はようやくCOPの企画書を完成させた。喜びの二人は、ついに両片思いの壁を破るのか！？</desc>
 	</programme>
 	<programme start="20210831022000 +0000" stop="20210831032000 +0000" channel="FujiTV.jp">
 		<title lang="ja">偶然見つけたハル</title>
@@ -1221,18 +1211,6 @@ by.Laura Pausini</desc>
 	<programme start="20210901020000 +0000" stop="20210901040000 +0000" channel="FujiTV.jp">
 		<title lang="ja">出動!ラーメン刑事</title>
 		<desc lang="ja">令和生まれの美味すぎて罪なラーメン店をナイツ＆ベテラン浅草芸人が徹底捜査！著名ラーメン評論家を招き「醤油・とんこつ・味噌・塩・変わり種」ラーメンを紹介</desc>
-	</programme>
-	<programme start="20210831013500 +0000" stop="20210831020500 +0000" channel="Tokyo MX">
-		<title lang="ja">Girls Pop Paradise</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210831020500 +0000" stop="20210831023400 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210831023400 +0000" stop="20210831023500 +0000" channel="Tokyo MX">
-		<title lang="ja">フラッシュ天気</title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210831023500 +0000" stop="20210831030500 +0000" channel="Tokyo MX">
 		<title lang="ja">JOYnt! JOYのASOBU-TV</title>
@@ -1413,5 +1391,17 @@ by.Laura Pausini</desc>
 	<programme start="20210901013500 +0000" stop="20210901020500 +0000" channel="Tokyo MX">
 		<title lang="ja">69号室の住人</title>
 		<desc lang="ja">ユニコーンがメンバー５人全員で登場！ロックンロールをテーマにしたニューアルバム「ツイス島＆シャウ島」の制作エピソードをたっぷりにお届けします！</desc>
+	</programme>
+	<programme start="20210901020500 +0000" stop="20210901023400 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901023400 +0000" stop="20210901023500 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901023500 +0000" stop="20210901030500 +0000" channel="Tokyo MX">
+		<title lang="ja">キラ×バズTV!?</title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
