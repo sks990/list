@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210830115400 +0000" stop="20210830120000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210830120000 +0000" stop="20210830121500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20210830121500 +0000" stop="20210830122000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210830122000 +0000" stop="20210830130000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇ブラインドサッカー　男子・予選リーグ　グループＡ「日本×ブラジル」（中継）　【出演】吉田沙保里，花岡伸和，【アナウンサー】一橋忠之，副島萌生ほか</desc>
@@ -262,14 +250,26 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja">【キャスター】三條雅幸</desc>
   </programme>
-	<programme start="20210830115500 +0000" stop="20210830120000 +0000" channel="eTele.jp">
-		<title lang="ja">まる得マガジン</title>
-		<desc lang="ja">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
-	</programme>
-	<programme start="20210830120000 +0000" stop="20210830125500 +0000" channel="eTele.jp">
-		<title lang="ja">にっぽんの芸能</title>
-		<desc lang="ja">「蔵出し！名舞台」▽昭和から平成にかけて活躍した能の名人の至芸を「五番立（だて）」の形式にのっとってご紹介。▽ゲストは稽古に通うほどの能の愛好家、女優の余貴美子</desc>
-	</programme>
+  <programme start="20210831121500 +0000" stop="20210831122000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210831122000 +0000" stop="20210831124400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">【出演】北澤豪，伊藤亜紗，根木慎志，吉田沙保里，千葉絵里菜，猪狩ともか，熊谷晋一郎，【アナウンサー】一橋忠之，副島萌生</desc>
+  </programme>
+  <programme start="20210831124400 +0000" stop="20210831124500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210831124500 +0000" stop="20210831130000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">連続テレビ小説 おかえりモネ</title>
+    <desc lang="ja">亮（永瀬廉）が高速バスで気仙沼へ戻ろうとしていたのを、百音（清原果耶）が見つける。一方、汐見湯では、未知（蒔田彩珠）が、菅波（坂口健太郎）と会っていた。</desc>
+  </programme>
+  <programme start="20210831130000 +0000" stop="20210831130500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210830125500 +0000" stop="20210830130000 +0000" channel="eTele.jp">
 		<title lang="ja">みんなのうた</title>
 		<desc lang="ja">「パンダ・ダ・パ・ヤッ」うた：加茂晴美／「やさしさの玉手箱」うた：石田よう子／「遠い夏休み」うた：杏子／「ラジャ・マハラジャー」うた：戸川純、東京放送児童合唱団</desc>
@@ -590,6 +590,18 @@
 		<title lang="ja">先人たちの底力 知恵泉</title>
 		<desc lang="ja">コロナ禍の今、生活に欠かせない「宅配便」。このサービスを生んだ経営者・小倉昌男は、社内の反対、新システムの構築、国の規制など数々の困難をどう乗り越えたのか。</desc>
 	</programme>
+	<programme start="20210831124500 +0000" stop="20210831125500 +0000" channel="eTele.jp">
+		<title lang="ja">365日の献立日記</title>
+		<desc lang="ja">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+	</programme>
+	<programme start="20210831125500 +0000" stop="20210831130000 +0000" channel="eTele.jp">
+		<title lang="ja">みんなのうた</title>
+		<desc lang="ja">「おしゃべりあひる」／「森の熊さん」／「ドラキュラのうた」／「四人目の王さま」</desc>
+	</programme>
+	<programme start="20210831130000 +0000" stop="20210831130500 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース</title>
+		<desc lang="ja">【キャスター】小野寺善子</desc>
+	</programme>
 	<programme start="20210830115500 +0000" stop="20210830135500 +0000" channel="NipponTV.jp">
 		<title lang="ja">ヒルナンデス!</title>
 		<desc lang="ja">大人気の「巨大サーモン」を子どもが喜ぶ「手まり寿司」にアレンジ＆激安スイーツ！１本64円チョコアイス▽３歳の歌姫・村方乃々佳ちゃんがレギュラー陣とコラボソング！</desc>
@@ -813,6 +825,10 @@ by.Jovanotti</desc>
 	<programme start="20210831102500 +0000" stop="20210831130000 +0000" channel="Asahi.jp">
 		<title lang="ja">大下容子ワイド!スクランブル</title>
 		<desc lang="ja">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
+	</programme>
+	<programme start="20210831130000 +0000" stop="20210831133000 +0000" channel="Asahi.jp">
+		<title lang="ja">徹子の部屋</title>
+		<desc lang="ja">〜スター自慢の“相棒”〜十朱幸代さん・五木ひろしさん・千昌夫さん(他)『徹子の部屋』放送開始４５周年を記念し、貴重な映像で綴る傑作選をお送りします。</desc>
 	</programme>
 	<programme start="20210830102500 +0000" stop="20210830135500 +0000" channel="TBS2.jp">
 		<title lang="ja">ひるおび!</title>
@@ -1179,14 +1195,6 @@ by.Jovanotti</desc>
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
 	</programme>
-	<programme start="20210830115500 +0000" stop="20210830120000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210830120000 +0000" stop="20210830123000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
 	<programme start="20210830123000 +0000" stop="20210830130000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
@@ -1378,5 +1386,13 @@ by.Jovanotti</desc>
 	<programme start="20210831120000 +0000" stop="20210831123000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831123000 +0000" stop="20210831130000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831130000 +0000" stop="20210831135500 +0000" channel="Tokyo MX">
+		<title lang="ja">太陽の末裔</title>
+		<desc lang="ja">第４話「君のために背いた命令」〔字幕スーパー〕</desc>
 	</programme>
 </tv>
