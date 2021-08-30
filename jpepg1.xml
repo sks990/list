@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210830193000 +0000" stop="20210830205900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　女子１００ｍ　Ｔ１１・準決勝、女子４００ｍ　Ｔ２０・予選、男子１００ｍ　Ｔ６３・決勝、男子１００ｍ　Ｔ６４・決勝ほか（中継）　【出演】吉田沙保里ほか</desc>
-  </programme>
   <programme start="20210830205900 +0000" stop="20210830210000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -274,10 +270,18 @@
     <title lang="ja"></title>
     <desc lang="ja">◇競泳　混合４００ｍリレー　４９ポイント・決勝ほか（中継）　【出演】吉田沙保里，櫻井翔，猪狩ともか，三上大進，【アナウンサー】瀬田宙大，和久田麻由子ほか</desc>
   </programme>
-	<programme start="20210830185000 +0000" stop="20210830204500 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇競泳　男子２００ｍ個人メドレー　ＳＭ１１・決勝、女子２００ｍ個人メドレー　ＳＭ１１・決勝、女子１００ｍ自由形　Ｓ３・決勝　ほか</desc>
-	</programme>
+  <programme start="20210831200500 +0000" stop="20210831205900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">◇車いすバスケットボール　女子・準々決勝「日本×オランダ」【出演】吉田沙保里，櫻井翔，猪狩ともか，【アナウンサー】瀬田宙大，和久田麻由子ほか</desc>
+  </programme>
+  <programme start="20210831205900 +0000" stop="20210831210000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210831210000 +0000" stop="20210831213000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュースウオッチ9</title>
+    <desc lang="ja">▽アフガニスタン米軍撤退期限・現地最新事情は？米バイデン外交その行方は▽増え続ける新型コロナ重症患者対策は？</desc>
+  </programme>
 	<programme start="20210830204500 +0000" stop="20210830210000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK手話ニュース845</title>
 		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
@@ -610,6 +614,18 @@
 		<title lang="ja"></title>
 		<desc lang="ja">◇陸上　女子走り幅跳び　Ｔ３８・決勝、男子４００ｍ　Ｔ３８・決勝、女子２００ｍ　Ｔ６４・決勝、女子１００ｍ　Ｔ１１・決勝、女子１００ｍ　Ｔ１３・決勝、</desc>
 	</programme>
+	<programme start="20210831204400 +0000" stop="20210831204500 +0000" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	</programme>
+	<programme start="20210831204500 +0000" stop="20210831210000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース845</title>
+		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+	</programme>
+	<programme start="20210831210000 +0000" stop="20210831212500 +0000" channel="eTele.jp">
+		<title lang="ja">きょうの料理</title>
+		<desc lang="ja">２０１８年度、放送文化賞を受賞した江上栄子さんを特集した回の再放送。義母・江上トミさんの代から続く料理学校で栄子さんが教える次世代へ伝えたい「味」と「心」とは。</desc>
+	</programme>
 	<programme start="20210830190000 +0000" stop="20210830210000 +0000" channel="NipponTV.jp">
 		<title lang="ja">有吉ゼミ</title>
 		<desc lang="ja">築50年！夢を持つ外国人のための日本語教室を機能性あふれるワクワク空間にリフォーム▼激闘8日間！炎天下作業が続く中おぎやはぎ矢作も参戦！完成お披露目の舞台裏公開</desc>
@@ -710,11 +726,13 @@
 		<title lang="ja">踊る!さんま御殿!!</title>
 		<desc lang="ja">郷ひろみがナゾに包まれた㊙食生活を告白！リュウジが教える簡単絶品グルメにさんまもメロメロ⁉カレーマニアが今注目するカレー＆グルメ芸能人がとっておきの逸品を紹介！</desc>
 	</programme>
-	<programme start="20210830184500 +0000" stop="20210830204000 +0000" channel="Asahi.jp">
-		<title lang="ja">帰れマンデー見っけ隊!!</title>
-		<desc lang="ja">今夜はサンドウィッチマン秘境バス旅・バスサンド。
-舞台は人気の埼玉秩父。羽田美智子＆尾上右近＆Travis Japan宮近海斗が参戦。
-SNSで話題のコラボ絶景・雲海夜景へ。</desc>
+	<programme start="20210831205400 +0000" stop="20210831210000 +0000" channel="NipponTV.jp">
+		<title lang="ja">まもなく仰天ニュース</title>
+		<desc lang="ja">芸能人がまさかの事件を熱演！▽生駒里奈は血まみれになり恋が芽生えた！松井玲奈は前歯が飛んだことがきっかけで結婚！▽鶴瓶は半裸！中居は女装の爆笑演技！</desc>
+	</programme>
+	<programme start="20210831210000 +0000" stop="20210831215400 +0000" channel="NipponTV.jp">
+		<title lang="ja">ザ!世界仰天ニュース</title>
+		<desc lang="ja">鶴瓶中居も熱演…誕生日ケーキで地獄と天国＆足痺れてダイブ＆肛門にアレが刺さった＆筋トレでアゴ出血＆パーカーに蜂＆天井から落ちた女＆ソーセージで前歯飛んだ</desc>
 	</programme>
 	<programme start="20210830204000 +0000" stop="20210830214800 +0000" channel="Asahi.jp">
 		<title lang="ja">10万円でできるかな</title>
@@ -930,9 +948,13 @@ by.Jovanotti</desc>
 		<title lang="ja">バナナサンド</title>
 		<desc lang="ja">🈑サンドがカロリー無視の激うま料理を振る舞う新企画『レストランバカロリー』開店！ストイック集団ＬＤＨが超ハイカロリー飯まさかの爆食い＆爆笑ノーリアクション対決も</desc>
 	</programme>
-	<programme start="20210830182500 +0000" stop="20210830200000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">YOUは何しに日本へ?</title>
-		<desc lang="ja">▼母国では英雄…金メダル兄弟が東京五輪に出場＆段ボールベッドに興奮▼湾岸戦争で受難！なぜ日本のおばけ屋敷に就職？▼ぽちゃＹＯＵお菓子食べながら列島1500キロ横断</desc>
+	<programme start="20210831205400 +0000" stop="20210831205700 +0000" channel="TBS2.jp">
+		<title lang="ja">フラッシュニュース</title>
+		<desc lang="ja">最新のニュースをお伝えします。</desc>
+	</programme>
+	<programme start="20210831205700 +0000" stop="20210831220000 +0000" channel="TBS2.jp">
+		<title lang="ja">マツコの知らない世界</title>
+		<desc lang="ja">🈑KREVAのエナジーを注げるフェイバリット文房具！文房具と自身の楽曲の共通点とは？▽マツコ朝方人間になる？激うま朝ラーメン！朝ラーの聖地</desc>
 	</programme>
 	<programme start="20210830200000 +0000" stop="20210830215400 +0000" channel="TVTokyo.jp">
 		<title lang="ja">月曜プレミア8</title>
@@ -944,7 +966,7 @@ by.Jovanotti</desc>
 	</programme>
 	<programme start="20210830220000 +0000" stop="20210830225800 +0000" channel="TVTokyo.jp">
 		<title lang="ja">WBS</title>
-		<desc lang="ja">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
+		<desc lang="ja">▼パラ陸上界の“鉄人”を支える「車いす」開発舞台裏に密着！▼走るICU「エクモカー」に期待▼アメリカ軍の撤収期限直前…緊迫高まるアフガン</desc>
 	</programme>
 	<programme start="20210830225800 +0000" stop="20210830230600 +0000" channel="TVTokyo.jp">
 		<title lang="ja">夢遺産〜リーダーの夢の先〜</title>
@@ -1106,9 +1128,9 @@ by.Jovanotti</desc>
 		<title lang="ja">ありえへん∞世界</title>
 		<desc lang="ja">▼体重２９８ｋｇのおデブ女性が激ヤセ！美女に大変身▼怪奇…エアコン３００台壊れた㊙ミステリー旅館▼令和の新世代モノマネ＆アフリカで一番有名な日本語⁉</desc>
 	</programme>
-	<programme start="20210830190000 +0000" stop="20210830200000 +0000" channel="FujiTV.jp">
-		<title lang="ja">ネプリーグ</title>
-		<desc lang="ja">似た者同士の中島＆赤楚！好きなタイプは〇〇女子！人気コーナーカラ漢！ヒゲダン、ＢＵＭＰヒット曲の歌詞の漢字でロッチが大ピンチ！▼ｄボタンで赤ウニ当たる</desc>
+	<programme start="20210831205400 +0000" stop="20210831215400 +0000" channel="TVTokyo.jp">
+		<title lang="ja">開運!なんでも鑑定団</title>
+		<desc lang="ja">■仏壇から発見＜日本のゴーギャン＞作！？…超絶＜掛け軸＞驚き値■超貴重！＜幻のロシア秘石＞…まさかの衝撃鑑定額■新幹線＆ディズニー…＜鉄道グッズ＞鑑定大会■</desc>
 	</programme>
 	<programme start="20210830200000 +0000" stop="20210830210000 +0000" channel="FujiTV.jp">
 		<title lang="ja">痛快TV スカッとジャパン</title>
@@ -1214,9 +1236,9 @@ by.Jovanotti</desc>
 		<title lang="ja">潜在能力テスト</title>
 		<desc lang="ja">知っておきたい料理の豆知識＆ヒット商品の初代パッケージ＆公募でついた名前Ｑ▽新テスト！公園遊具に㊙変化…推理せよ▽伝説アイドル佐藤アツヒロ珍事件×Ｊ井上×乃木坂</desc>
 	</programme>
-	<programme start="20210830193000 +0000" stop="20210830200000 +0000" channel="Tokyo MX">
-		<title lang="ja">〜ルパン三世 アニメ化50周年記念〜 石川五ェ門セレクション放送</title>
-		<desc lang="ja">≪ルパン三世 ＰＡＲＴ２≫２１話「五ェ門の復讐」</desc>
+	<programme start="20210831210000 +0000" stop="20210831215400 +0000" channel="FujiTV.jp">
+		<title lang="ja">彼女はキレイだった</title>
+		<desc lang="ja">「愛情と友情の狭間！仲間たちの絆と決意」中島健人　小芝風花　赤楚衛二　佐久間由衣</desc>
 	</programme>
 	<programme start="20210830200000 +0000" stop="20210830210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
@@ -1409,5 +1431,9 @@ by.Jovanotti</desc>
 	<programme start="20210831200000 +0000" stop="20210831210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
 		<desc lang="ja">止まらない感染拡大　新型コロナウイルス最新情報は▼赤ちゃんパンダの最新映像　すくすく成長中…！</desc>
+	</programme>
+	<programme start="20210831210000 +0000" stop="20210831215400 +0000" channel="Tokyo MX">
+		<title lang="ja">バラいろダンディ</title>
+		<desc lang="ja">知の巨人ロバートキャンベルが語る！目からウロコの東京衣食住</desc>
 	</programme>
 </tv>
