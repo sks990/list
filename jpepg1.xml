@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210830132200 +0000" stop="20210830143000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　男子１５００ｍ　Ｔ１１・予選、男子やり投げ　Ｆ４６・決勝、女子１００ｍ　Ｔ１１・予選、男子１５００ｍ　Ｔ５４・予選ほか（録画）　【出演】吉田沙保里ほか</desc>
-  </programme>
   <programme start="20210830143000 +0000" stop="20210830165000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすバスケットボール　男子・予選リーグ　グループＡ「日本×トルコ」（中継）　【出演】吉田沙保里，根木慎志，佳山明，【アナウンサー】一橋忠之，副島萌生ほか</desc>
@@ -258,22 +254,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">【出演】吉田沙保里，千葉絵里菜，猪狩ともか，熊谷晋一郎，【アナウンサー】瀬田宙大，和久田麻由子　［２：５９−３：０５　総合２で放送継続］</desc>
   </programme>
-	<programme start="20210830135000 +0000" stop="20210830140000 +0000" channel="eTele.jp">
-		<title lang="ja">視点・論点</title>
-		<desc lang="ja">「パラリンピック選手の“脳の再編”」中澤公孝（東京大学大学院教授）</desc>
-	</programme>
-	<programme start="20210830140000 +0000" stop="20210830141000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 ベーシック数学</title>
-		<desc lang="ja">基本的にはどんな２次方程式も解の公式を使えば解くことができます。便利だけれどちょっと覚えにくい解の公式をリズムに合わせてマスターしましょう</desc>
-	</programme>
-	<programme start="20210830141000 +0000" stop="20210830143000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 数学I</title>
-		<desc lang="ja">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
-	</programme>
-	<programme start="20210830143000 +0000" stop="20210830144000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 苦手を克服! ベーシック英語</title>
-		<desc lang="ja">「高校の英語がわからない…」そんなキミのための基礎力ＵＰ講座。中１から中３までの英語のつまずきポイントを中心に文法の基礎を解りやすく説明するぞ！</desc>
-	</programme>
+  <programme start="20210831145900 +0000" stop="20210831150000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210831150000 +0000" stop="20210831150500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210830144000 +0000" stop="20210830150000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK高校講座 コミュニケーション英語I</title>
 		<desc lang="ja">外国からのお客様に喜んでもらう「おもてなしの英語」ってどんなの？ホテルを舞台にトレンディエンジェルと一緒にすぐに使える実践的な英語を学んでいきます。</desc>
@@ -589,6 +577,22 @@
 	<programme start="20210831140000 +0000" stop="20210831141000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK高校講座 あらためまして ベーシック国語</title>
 		<desc lang="ja">国語の基本を学ぶ講座バラエティー。滝沢カレンと金田一秀穂先生、謎のオウムが国語の授業を行う。今回は「故事成語」。言葉の由来を知りカレンは故事成語を使いこなせるか</desc>
+	</programme>
+	<programme start="20210831141000 +0000" stop="20210831143000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 国語表現</title>
+		<desc lang="ja">「国語表現」は「話す」、「聞く」、「書く」など言語感覚を磨いて、表現する能力の向上をめざす教科です。今回のテーマは「言葉遊び・漢字パズル」です。</desc>
+	</programme>
+	<programme start="20210831143000 +0000" stop="20210831144000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 ビジネス基礎</title>
+		<desc lang="ja">高校講座「ビジネス基礎」第９回は「証券会社」について学びます。出演は前野朋哉さんと濱尾咲綺さんです。</desc>
+	</programme>
+	<programme start="20210831144000 +0000" stop="20210831150000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 生物基礎</title>
+		<desc lang="ja">最先端の生物の専門家が自らの研究を基に、高校での生物基礎の学習内容と関係づけわかりやすく伝えながら、生物を学ぶ魅力を伝える。</desc>
+	</programme>
+	<programme start="20210831150000 +0000" stop="20210831152500 +0000" channel="eTele.jp">
+		<title lang="ja">NHK短歌</title>
+		<desc lang="ja">選者：佐伯裕子、ゲスト：濱田龍臣、小澤愛実。テーマ「ファミレス」。約５０年前に誕生したファミリーレストランはどう変化してきたのか歌の中から探る。司会：井戸田潤。</desc>
 	</programme>
 	<programme start="20210830135500 +0000" stop="20210830155000 +0000" channel="NipponTV.jp">
 		<title lang="ja">情報ライブ ミヤネ屋</title>
@@ -1075,10 +1079,6 @@ by.Jovanotti</desc>
 		<title lang="ja">午後のロードショー</title>
 		<desc lang="ja">ジェラルド・バトラー出演！暴君の突然の支配により奴隷化された人達。追放された神と人間の盗賊タッグが狙うはエジプトの王座！鍵を握るのは＜神の眼＞！アクション大作！</desc>
 	</programme>
-	<programme start="20210830115500 +0000" stop="20210830144500 +0000" channel="FujiTV.jp">
-		<title lang="ja">バイキングMORE</title>
-		<desc lang="ja">批判殺到…音楽フェス「不織布マスクＮＧ」呼びかけ▽白金高輪“硫酸男”数十万円所持▽福井県の“野戦病院”実現の舞台裏を独自取材“ケンカ腰”の激しい議論も</desc>
-	</programme>
 	<programme start="20210830144500 +0000" stop="20210830154500 +0000" channel="FujiTV.jp">
 		<title lang="ja">HERO</title>
 		<desc lang="ja">時代は変わった。この男はどうだ。ジーパン姿の型破り検事、久利生公平が帰ってきた！おなじみの面々に新メンバーも加わり、城西支部が再び動き出す！</desc>
@@ -1179,17 +1179,9 @@ by.Jovanotti</desc>
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
 	</programme>
-	<programme start="20210830135500 +0000" stop="20210830140000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210830140000 +0000" stop="20210830143000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210830143000 +0000" stop="20210830145900 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210831144500 +0000" stop="20210831154500 +0000" channel="FujiTV.jp">
+		<title lang="ja">HERO</title>
+		<desc lang="ja">主演木村拓哉！久利生と麻木の前に立ちはだかるエリート弁護士…初犯の金持ちと常習犯の貧乏人、二人の痴漢の嘘と謎！真実と正義を守る女たちの戦い</desc>
 	</programme>
 	<programme start="20210830145900 +0000" stop="20210830150000 +0000" channel="Tokyo MX">
 		<title lang="ja">フラッシュ天気</title>
@@ -1376,6 +1368,18 @@ by.Jovanotti</desc>
 		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
 	</programme>
 	<programme start="20210831140000 +0000" stop="20210831143000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831143000 +0000" stop="20210831145900 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831145900 +0000" stop="20210831150000 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831150000 +0000" stop="20210831153000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
