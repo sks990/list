@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210830184500 +0000" stop="20210830190000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">首都圏ネットワーク</title>
-    <desc lang="ja">▼重傷者数が連日過去最多となる中、病床を増やす動きが急ピッチで進む。医療現場で何が起きているのか迫る。</desc>
-  </programme>
-  <programme start="20210830190000 +0000" stop="20210830193000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース7</title>
-    <desc lang="ja">▽混乱深まるアフガニスタン米軍が空爆民間人にも死傷者か▽新型コロナ人工呼吸器使用最多の９００人超▽千葉県が一転中止パラ学校観戦▽自民総裁選下村氏が立候補断念</desc>
-  </programme>
   <programme start="20210830193000 +0000" stop="20210830205900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇陸上　女子１００ｍ　Ｔ１１・準決勝、女子４００ｍ　Ｔ２０・予選、男子１００ｍ　Ｔ６３・決勝、男子１００ｍ　Ｔ６４・決勝ほか（中継）　【出演】吉田沙保里ほか</desc>
@@ -277,6 +269,10 @@
   <programme start="20210831190000 +0000" stop="20210831193000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース7</title>
     <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】上原光紀，栗原望，【気象キャスター】平野有海</desc>
+  </programme>
+  <programme start="20210831193000 +0000" stop="20210831200500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">◇競泳　混合４００ｍリレー　４９ポイント・決勝ほか（中継）　【出演】吉田沙保里，櫻井翔，猪狩ともか，三上大進，【アナウンサー】瀬田宙大，和久田麻由子ほか</desc>
   </programme>
 	<programme start="20210830185000 +0000" stop="20210830204500 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
@@ -614,10 +610,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja">◇陸上　女子走り幅跳び　Ｔ３８・決勝、男子４００ｍ　Ｔ３８・決勝、女子２００ｍ　Ｔ６４・決勝、女子１００ｍ　Ｔ１１・決勝、女子１００ｍ　Ｔ１３・決勝、</desc>
 	</programme>
-	<programme start="20210830155000 +0000" stop="20210830190000 +0000" channel="NipponTV.jp">
-		<title lang="ja">news every.</title>
-		<desc lang="ja">東京で１９１５人…子供の自宅療養に困惑も▼宣言下に野外フェス…密で飲酒に知事怒り▼医療危機で“野戦病院”求める声…課題は▼五輪にパラで世界魅了…日本の文化再発見</desc>
-	</programme>
 	<programme start="20210830190000 +0000" stop="20210830210000 +0000" channel="NipponTV.jp">
 		<title lang="ja">有吉ゼミ</title>
 		<desc lang="ja">築50年！夢を持つ外国人のための日本語教室を機能性あふれるワクワク空間にリフォーム▼激闘8日間！炎天下作業が続く中おぎやはぎ矢作も参戦！完成お披露目の舞台裏公開</desc>
@@ -713,6 +705,10 @@
 	<programme start="20210831190000 +0000" stop="20210831195600 +0000" channel="NipponTV.jp">
 		<title lang="ja">ヒューマングルメンタリー オモウマい店</title>
 		<desc lang="ja">ロングソフトクリーム１３０円！おいしい！楽しい！でも倒れそう…夏休み最高の思い出‼ソフトを食べる５０４人のお客さんを撮影した１時間スペシャル‼倒れない㊙理由</desc>
+	</programme>
+	<programme start="20210831195600 +0000" stop="20210831205400 +0000" channel="NipponTV.jp">
+		<title lang="ja">踊る!さんま御殿!!</title>
+		<desc lang="ja">郷ひろみがナゾに包まれた㊙食生活を告白！リュウジが教える簡単絶品グルメにさんまもメロメロ⁉カレーマニアが今注目するカレー＆グルメ芸能人がとっておきの逸品を紹介！</desc>
 	</programme>
 	<programme start="20210830184500 +0000" stop="20210830204000 +0000" channel="Asahi.jp">
 		<title lang="ja">帰れマンデー見っけ隊!!</title>
@@ -844,10 +840,6 @@ by.Jovanotti</desc>
 ①パンサー・ジャンポケ・ミキ…に『○○からのー落とし穴グランプリ』
 ②千鳥＆かまいたち…『もしも俺が女子だったら…この人と付き合いたい』</desc>
 	</programme>
-	<programme start="20210830154900 +0000" stop="20210830190000 +0000" channel="TBS2.jp">
-		<title lang="ja">Nスタ</title>
-		<desc lang="ja">新たな異物混入が発覚　モデルナ接種見送りも　死亡例との因果関係は▽渋谷ワクチンに殺到　若者の意識に変化が？抽選…友人同士で明暗▽食材“値上げの秋”</desc>
-	</programme>
 	<programme start="20210830190000 +0000" stop="20210830220000 +0000" channel="TBS2.jp">
 		<title lang="ja">CDTVライブ!ライブ!</title>
 		<desc lang="ja">ヒゲダン★ファンモン１時間フェス★キンプリ★V6★Hey! Say! JUMP★A.B.C-Z★踊ってみたEXILE×DA PUMP★森七菜★EXIT★夏ソング</desc>
@@ -933,6 +925,10 @@ by.Jovanotti</desc>
 		<title lang="ja">オトラクション</title>
 		<desc lang="ja">🈑☆東京五輪銀メダル！女子バスケ日本代表エブリンがテレビ初本気熱唱！
 ☆GENERATIONS亜嵐が必死ダイブ＆メンディー裸になって本気ダンス！…ブチギレ！？</desc>
+	</programme>
+	<programme start="20210831200000 +0000" stop="20210831205400 +0000" channel="TBS2.jp">
+		<title lang="ja">バナナサンド</title>
+		<desc lang="ja">🈑サンドがカロリー無視の激うま料理を振る舞う新企画『レストランバカロリー』開店！ストイック集団ＬＤＨが超ハイカロリー飯まさかの爆食い＆爆笑ノーリアクション対決も</desc>
 	</programme>
 	<programme start="20210830182500 +0000" stop="20210830200000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">YOUは何しに日本へ?</title>
@@ -1110,10 +1106,6 @@ by.Jovanotti</desc>
 		<title lang="ja">ありえへん∞世界</title>
 		<desc lang="ja">▼体重２９８ｋｇのおデブ女性が激ヤセ！美女に大変身▼怪奇…エアコン３００台壊れた㊙ミステリー旅館▼令和の新世代モノマネ＆アフリカで一番有名な日本語⁉</desc>
 	</programme>
-	<programme start="20210830154500 +0000" stop="20210830190000 +0000" channel="FujiTV.jp">
-		<title lang="ja">Live News イット!</title>
-		<desc lang="ja">異物混入次々と判明…ワクチン不信ジワリ▽“硫酸男”の動機は？▽次のスイーツはコレ“食べる宝石”ゼリー▽迷惑ゴルファー出没…禁止場所でなぜ？直撃ほか</desc>
-	</programme>
 	<programme start="20210830190000 +0000" stop="20210830200000 +0000" channel="FujiTV.jp">
 		<title lang="ja">ネプリーグ</title>
 		<desc lang="ja">似た者同士の中島＆赤楚！好きなタイプは〇〇女子！人気コーナーカラ漢！ヒゲダン、ＢＵＭＰヒット曲の歌詞の漢字でロッチが大ピンチ！▼ｄボタンで赤ウニ当たる</desc>
@@ -1218,13 +1210,9 @@ by.Jovanotti</desc>
 		<title lang="ja">今夜はナゾトレ</title>
 		<desc lang="ja">東京五輪金メダリスト参戦！柔道ウルフアロンＶＳフェンシング見延和靖！見たけどアレ何だっけ？いま知っておきたい五輪の常識Ｑ▽ジャニーズ７ＭＥＮ侍ＶＳもう中学生</desc>
 	</programme>
-	<programme start="20210830183000 +0000" stop="20210830190000 +0000" channel="Tokyo MX">
-		<title lang="ja">恐竜くんの 地球だいすき!ダイナソー</title>
-		<desc lang="ja">恐竜が生きた時代／今また絶滅の危機？！</desc>
-	</programme>
-	<programme start="20210830190000 +0000" stop="20210830193000 +0000" channel="Tokyo MX">
-		<title lang="ja">トムとジェリー</title>
-		<desc lang="ja">＃９「冬の夜ばなし」「象さんはジェリーの味方」「目茶苦茶ゴルフ」</desc>
+	<programme start="20210831200000 +0000" stop="20210831210000 +0000" channel="FujiTV.jp">
+		<title lang="ja">潜在能力テスト</title>
+		<desc lang="ja">知っておきたい料理の豆知識＆ヒット商品の初代パッケージ＆公募でついた名前Ｑ▽新テスト！公園遊具に㊙変化…推理せよ▽伝説アイドル佐藤アツヒロ珍事件×Ｊ井上×乃木坂</desc>
 	</programme>
 	<programme start="20210830193000 +0000" stop="20210830200000 +0000" channel="Tokyo MX">
 		<title lang="ja">〜ルパン三世 アニメ化50周年記念〜 石川五ェ門セレクション放送</title>
@@ -1417,5 +1405,9 @@ by.Jovanotti</desc>
 	<programme start="20210831190000 +0000" stop="20210831200000 +0000" channel="Tokyo MX">
 		<title lang="ja">空手バカ一代</title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210831200000 +0000" stop="20210831210000 +0000" channel="Tokyo MX">
+		<title lang="ja">news TOKYO FLAG</title>
+		<desc lang="ja">止まらない感染拡大　新型コロナウイルス最新情報は▼赤ちゃんパンダの最新映像　すくすく成長中…！</desc>
 	</programme>
 </tv>
