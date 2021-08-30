@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831032600 +0000" stop="20210831042400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ヨーロッパ トラムの旅</title>
-    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
-  </programme>
-  <programme start="20210831042400 +0000" stop="20210831043500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">瀬戸内 ふるさとの絶景</title>
-    <desc lang="ja">穏やかな海と無数の島々が美しい風景を織りなす瀬戸内海。空や海の「青」。渓谷の「緑」。夕日が染める「赤」。四季折々に変化する瀬戸内の「色」をつづる映像詩。</desc>
-  </programme>
-  <programme start="20210831043500 +0000" stop="20210831044000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">みんなのうた</title>
-    <desc lang="ja">「そんなぼくがすき」うた：たま／「バケバケＮｉｇｈｔ！」うた：ＤＡ　ＰＵＭＰ</desc>
-  </programme>
-  <programme start="20210831044000 +0000" stop="20210831045000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">視点・論点</title>
-    <desc lang="ja">「パラリンピック選手の“脳の再編”」中澤公孝（東京大学大学院教授）</desc>
-  </programme>
   <programme start="20210831045000 +0000" stop="20210831050000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">時論公論</title>
     <desc lang="ja">夏休み明けの児童・生徒の新型コロナウイルスの感染拡大をどう抑えるか。感染を減少に転じさせるために求められることを解説する。</desc>
@@ -277,6 +261,22 @@
   <programme start="20210901035100 +0000" stop="20210901043500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ヨーロッパ トラムの旅</title>
     <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
+  </programme>
+  <programme start="20210901043500 +0000" stop="20210901044000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">みんなのうた</title>
+    <desc lang="ja">「わたしの紙風船」うた：紙ふうせん／「天下無敵のゴーヤーマン★」うた：ガレッジセール</desc>
+  </programme>
+  <programme start="20210901044000 +0000" stop="20210901045000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">視点・論点</title>
+    <desc lang="ja">「新型コロナ　子どもを感染から守る」和田耕治（国際医療福祉大学教授）</desc>
+  </programme>
+  <programme start="20210901045000 +0000" stop="20210901050000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">時論公論</title>
+    <desc lang="ja">米軍のアフガニスタン撤退が３１日、期限を迎える。ここにきて、アフガニスタンの情勢悪化は“世界的な無秩序”のリスクを見せつけたかたち。今後の見通しを解説。</desc>
+  </programme>
+  <programme start="20210901050000 +0000" stop="20210901060000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
 	<programme start="20210831002500 +0000" stop="20210831053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -614,14 +614,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210831035900 +0000" stop="20210831042900 +0000" channel="NipponTV.jp">
-		<title lang="ja">日テレポシュレ</title>
-		<desc lang="ja">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
-	</programme>
-	<programme start="20210831042900 +0000" stop="20210831043000 +0000" channel="NipponTV.jp">
-		<title lang="ja">日テレみどころ</title>
-		<desc lang="ja"></desc>
-	</programme>
 	<programme start="20210831043000 +0000" stop="20210831055000 +0000" channel="NipponTV.jp">
 		<title lang="ja">Oha!4 NEWS LIVE</title>
 		<desc lang="ja">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽自宅療養中の2人死亡▽硫酸は学生時代の恨みで？▽緊迫アフガン情勢▽藤原紀香</desc>
@@ -706,13 +698,17 @@
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
 	</programme>
-	<programme start="20210831033100 +0000" stop="20210831040000 +0000" channel="Asahi.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+	<programme start="20210901042400 +0000" stop="20210901042900 +0000" channel="NipponTV.jp">
+		<title lang="ja">ZIP!×ファッションSP</title>
+		<desc lang="ja">ＺＩＰ！の流行ニュース「キテルネ！」特別版。「あなたの好きな服がきっとある」　モデルのわたなべ麻衣がファッションの歴代日本代表を徹底調査！</desc>
 	</programme>
-	<programme start="20210831040000 +0000" stop="20210831045500 +0000" channel="Asahi.jp">
-		<title lang="ja">暴れん坊将軍IV</title>
-		<desc lang="ja">「一大事！花嫁は鬼っ子姫」松平健(他)▽高慢で無礼な姫君と偶然出会った吉宗。だが、この姫君こそ以前から孫兵衛が見合い相手として吉宗にすすめていた藤岡藩主の娘だった…</desc>
+	<programme start="20210901042900 +0000" stop="20210901043000 +0000" channel="NipponTV.jp">
+		<title lang="ja">日テレみどころ</title>
+		<desc lang="ja"></desc>
+	</programme>
+	<programme start="20210901043000 +0000" stop="20210901055000 +0000" channel="NipponTV.jp">
+		<title lang="ja">Oha!4 NEWS LIVE</title>
+		<desc lang="ja">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
 	</programme>
 	<programme start="20210831045500 +0000" stop="20210831080000 +0000" channel="Asahi.jp">
 		<title lang="ja">グッド!モーニング</title>
@@ -835,9 +831,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">暴れん坊将軍IV</title>
 		<desc lang="ja">「吉宗、熱き心で掟破り！」松平健(他)▽小伝馬町の牢屋敷に護送中の凶賊が、何者かの手助けによって逃走する騒ぎが起こった。そんな中、女スリに財布をすられた吉宗は…</desc>
 	</programme>
-	<programme start="20210831034500 +0000" stop="20210831042500 +0000" channel="TBS2.jp">
-		<title lang="ja">TBS NEWS</title>
-		<desc lang="ja">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+	<programme start="20210901045500 +0000" stop="20210901080000 +0000" channel="Asahi.jp">
+		<title lang="ja">グッド!モーニング</title>
+		<desc lang="ja">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 	</programme>
 	<programme start="20210831042500 +0000" stop="20210831060000 +0000" channel="TBS2.jp">
 		<title lang="ja">はやドキ!</title>
@@ -931,17 +927,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">TBS NEWS</title>
 		<desc lang="ja">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 	</programme>
-	<programme start="20210831035500 +0000" stop="20210831040000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ミュージックブレイク</title>
-		<desc lang="ja">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
-	</programme>
-	<programme start="20210831040000 +0000" stop="20210831041500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">家、ついて行ってイイですか?(明け方)</title>
-		<desc lang="ja">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
-	</programme>
-	<programme start="20210831041500 +0000" stop="20210831042300 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja"></desc>
+	<programme start="20210901042500 +0000" stop="20210901060000 +0000" channel="TBS2.jp">
+		<title lang="ja">はやドキ!</title>
+		<desc lang="ja">最新のニュース・情報・関心事をどこよりも早くお伝えします！お楽しみに！</desc>
 	</programme>
 	<programme start="20210831042300 +0000" stop="20210831054500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ものスタ</title>
@@ -1107,13 +1095,16 @@ by.Laura Pausini</desc>
 		<title lang="ja">ただ離婚してないだけ</title>
 		<desc lang="ja">思い詰めた雪映（中村ゆり）がベランダから飛び降り自殺を図る。一方、正隆（北山宏光）の父・利通（団時朗）が危篤状態との知らせが入る。正隆は不安と混乱に陥り…！？</desc>
 	</programme>
-	<programme start="20210831035000 +0000" stop="20210831040000 +0000" channel="FujiTV.jp">
+	<programme start="20210901041000 +0000" stop="20210901042300 +0000" channel="TVTokyo.jp">
 		<title lang="ja"></title>
-		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210831040000 +0000" stop="20210831045500 +0000" channel="FujiTV.jp">
-		<title lang="ja">クイズ!脳ベルSHOW</title>
-		<desc lang="ja">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+	<programme start="20210901042300 +0000" stop="20210901054500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ものスタ</title>
+		<desc lang="ja">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 	</programme>
 	<programme start="20210831045500 +0000" stop="20210831052500 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざましテレビ全部見せ</title>
@@ -1203,13 +1194,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">クイズ!脳ベルSHOW</title>
 		<desc lang="ja">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 	</programme>
-	<programme start="20210831033500 +0000" stop="20210831040000 +0000" channel="Tokyo MX">
-		<title lang="ja">洋上の楽園クルーズ</title>
-		<desc lang="ja">「歴史と伝統の豪華客船　クイーン・エリザベスで巡る　英国一周　周遊クルーズ」</desc>
-	</programme>
-	<programme start="20210831040000 +0000" stop="20210831043000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210901045500 +0000" stop="20210901052500 +0000" channel="FujiTV.jp">
+		<title lang="ja">めざましテレビ全部見せ</title>
+		<desc lang="ja">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 	</programme>
 	<programme start="20210831043000 +0000" stop="20210831050000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1398,5 +1385,13 @@ by.Laura Pausini</desc>
 	<programme start="20210901040000 +0000" stop="20210901043000 +0000" channel="Tokyo MX">
 		<title lang="ja">MUSIC B.B.</title>
 		<desc lang="ja">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+	</programme>
+	<programme start="20210901043000 +0000" stop="20210901050000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901050000 +0000" stop="20210901053000 +0000" channel="Tokyo MX">
+		<title lang="ja">手づくり花づくりプラス〜目指せ花メン!園芸男子〜</title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
