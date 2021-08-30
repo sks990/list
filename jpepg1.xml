@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831023600 +0000" stop="20210831032400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">スポーツ×ヒューマン</title>
-    <desc lang="ja">東京五輪で２つの金メダルを獲得した大橋悠依。無名の存在から２０代で驚異の進化を遂げた遅咲きスイマーだ。強さの秘密は？２０１９年４月に放送した番組をアンコール！</desc>
-  </programme>
-  <programme start="20210831032400 +0000" stop="20210831032600 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">ニュース</desc>
-  </programme>
   <programme start="20210831032600 +0000" stop="20210831042400 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ヨーロッパ トラムの旅</title>
     <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
@@ -281,6 +273,10 @@
   <programme start="20210901025100 +0000" stop="20210901035100 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">空からクルージング特別編</title>
     <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。</desc>
+  </programme>
+  <programme start="20210901035100 +0000" stop="20210901043500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ヨーロッパ トラムの旅</title>
+    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
   </programme>
 	<programme start="20210831002500 +0000" stop="20210831053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -618,18 +614,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210831020400 +0000" stop="20210831034900 +0000" channel="NipponTV.jp">
-		<title lang="ja">日テレポシュレ</title>
-		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
-	</programme>
-	<programme start="20210831034900 +0000" stop="20210831035400 +0000" channel="NipponTV.jp">
-		<title lang="ja">「バンクシーって誰?展」</title>
-		<desc lang="ja">映画のセットのような美術展「バンクシーって誰？展」の見どころをお届け！</desc>
-	</programme>
-	<programme start="20210831035400 +0000" stop="20210831035900 +0000" channel="NipponTV.jp">
-		<title lang="ja">ZIP!×ファッションSP</title>
-		<desc lang="ja">ＺＩＰ！の流行ニュース「キテルネ！」特別版。「あなたの好きな服がきっとある」　モデルのわたなべ麻衣がファッションの歴代日本代表を徹底調査！</desc>
-	</programme>
 	<programme start="20210831035900 +0000" stop="20210831042900 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
@@ -721,15 +705,6 @@
 	<programme start="20210901023900 +0000" stop="20210901042400 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
-	</programme>
-	<programme start="20210831024100 +0000" stop="20210831030100 +0000" channel="Asahi.jp">
-		<title lang="ja">あのちゃんねる</title>
-		<desc lang="ja">若い男女を中心にカリスマ的人気を誇る「あのちゃん」の初・冠番組‼▽チャンカワイがあのちゃんの楽曲の世界を深読み!!▽アーティストの側面を引き出します!!</desc>
-	</programme>
-	<programme start="20210831030100 +0000" stop="20210831033100 +0000" channel="Asahi.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 	</programme>
 	<programme start="20210831033100 +0000" stop="20210831040000 +0000" channel="Asahi.jp">
 		<title lang="ja"></title>
@@ -847,10 +822,18 @@ by.Laura Pausini</desc>
 		<title lang="ja">イグナッツ!!</title>
 		<desc lang="ja">４人のセンスを競うバトル企画第５弾!!バーで一人飲みする女性を、アラサー４人が順番に口説き、口説かれ役の女性が誰が一番センスが良かったか発表!!</desc>
 	</programme>
-	<programme start="20210831024000 +0000" stop="20210831034500 +0000" channel="TBS2.jp">
-		<title lang="ja">カイモノラボ</title>
-		<desc lang="ja">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+	<programme start="20210901030100 +0000" stop="20210901033100 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
+	</programme>
+	<programme start="20210901033100 +0000" stop="20210901040000 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+	</programme>
+	<programme start="20210901040000 +0000" stop="20210901045500 +0000" channel="Asahi.jp">
+		<title lang="ja">暴れん坊将軍IV</title>
+		<desc lang="ja">「吉宗、熱き心で掟破り！」松平健(他)▽小伝馬町の牢屋敷に護送中の凶賊が、何者かの手助けによって逃走する騒ぎが起こった。そんな中、女スリに財布をすられた吉宗は…</desc>
 	</programme>
 	<programme start="20210831034500 +0000" stop="20210831042500 +0000" channel="TBS2.jp">
 		<title lang="ja">TBS NEWS</title>
@@ -935,14 +918,18 @@ by.Laura Pausini</desc>
 		<title lang="ja">PLAYLIST</title>
 		<desc lang="ja">今後の活動に注目の　今世の中に届けたい期待のアーティスト達をご紹介！他では見られないライブパフォーマンスも必見！</desc>
 	</programme>
-	<programme start="20210831025500 +0000" stop="20210831032500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">プレミアMelodiX!</title>
-		<desc lang="ja">【ゲスト】高城れに、KEYTALK、the　quiet　room
-【ナビゲーター】南海キャンディーズ</desc>
+	<programme start="20210901031300 +0000" stop="20210901032000 +0000" channel="TBS2.jp">
+		<title lang="ja">イベントGO!</title>
+		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 	</programme>
-	<programme start="20210831032500 +0000" stop="20210831035500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">あにレコTV</title>
-		<desc lang="ja">新アニメ「異世界食堂２」特集！安野希世乃が登場！東山奈央のコメントVTRも！▽映画『リョーマ！新生劇場版テニスの王子様』特集！作品の新たな挑戦とは…!?</desc>
+	<programme start="20210901032000 +0000" stop="20210901034500 +0000" channel="TBS2.jp">
+		<title lang="ja">カイモノラボ</title>
+		<desc lang="ja">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+	</programme>
+	<programme start="20210901034500 +0000" stop="20210901042500 +0000" channel="TBS2.jp">
+		<title lang="ja">TBS NEWS</title>
+		<desc lang="ja">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 	</programme>
 	<programme start="20210831035500 +0000" stop="20210831040000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ミュージックブレイク</title>
@@ -1116,13 +1103,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">高嶺のハナさん</title>
 		<desc lang="ja">弱木(小越勇輝)が画期的なお菓子の新商品プランを発案し、華(泉里香)はようやくCOPの企画書を完成させた。喜びの二人は、ついに両片思いの壁を破るのか！？</desc>
 	</programme>
-	<programme start="20210831022000 +0000" stop="20210831032000 +0000" channel="FujiTV.jp">
-		<title lang="ja">偶然見つけたハル</title>
-		<desc lang="ja">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
-	</programme>
-	<programme start="20210831032000 +0000" stop="20210831035000 +0000" channel="FujiTV.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+	<programme start="20210901033000 +0000" stop="20210901041000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ただ離婚してないだけ</title>
+		<desc lang="ja">思い詰めた雪映（中村ゆり）がベランダから飛び降り自殺を図る。一方、正隆（北山宏光）の父・利通（団時朗）が危篤状態との知らせが入る。正隆は不安と混乱に陥り…！？</desc>
 	</programme>
 	<programme start="20210831035000 +0000" stop="20210831040000 +0000" channel="FujiTV.jp">
 		<title lang="ja"></title>
@@ -1216,13 +1199,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">出動!ラーメン刑事</title>
 		<desc lang="ja">令和生まれの美味すぎて罪なラーメン店をナイツ＆ベテラン浅草芸人が徹底捜査！著名ラーメン評論家を招き「醤油・とんこつ・味噌・塩・変わり種」ラーメンを紹介</desc>
 	</programme>
-	<programme start="20210831023500 +0000" stop="20210831030500 +0000" channel="Tokyo MX">
-		<title lang="ja">JOYnt! JOYのASOBU-TV</title>
-		<desc lang="ja">４〜６月　未公開集　呼び出し</desc>
-	</programme>
-	<programme start="20210831030500 +0000" stop="20210831033500 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210901040000 +0000" stop="20210901045500 +0000" channel="FujiTV.jp">
+		<title lang="ja">クイズ!脳ベルSHOW</title>
+		<desc lang="ja">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 	</programme>
 	<programme start="20210831033500 +0000" stop="20210831040000 +0000" channel="Tokyo MX">
 		<title lang="ja">洋上の楽園クルーズ</title>
@@ -1407,5 +1386,17 @@ by.Laura Pausini</desc>
 	<programme start="20210901023500 +0000" stop="20210901030500 +0000" channel="Tokyo MX">
 		<title lang="ja">キラ×バズTV!?</title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901030500 +0000" stop="20210901033500 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901033500 +0000" stop="20210901040000 +0000" channel="Tokyo MX">
+		<title lang="ja">ごりやくさん</title>
+		<desc lang="ja">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+	</programme>
+	<programme start="20210901040000 +0000" stop="20210901043000 +0000" channel="Tokyo MX">
+		<title lang="ja">MUSIC B.B.</title>
+		<desc lang="ja">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 	</programme>
 </tv>
