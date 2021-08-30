@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831063000 +0000" stop="20210831070000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース おはよう日本</title>
-    <desc lang="ja">▼マネーロンダリング　国際機関“日本政府は監督強化を”　▼男女を問わない販売戦略へ　変わる企業の取り組み　▼洋上風力発電　漁業の街の期待と課題</desc>
-  </programme>
-  <programme start="20210831070000 +0000" stop="20210831075000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース おはよう日本</title>
-    <desc lang="ja">▼国内で新たな変異ウイルス　▼重症者が１８日連続で最多更新　治療の最前線で何が　▼新学期　子どもの心のケアは　▼視覚障害の写真家　「心で撮るパラリンピック」</desc>
-  </programme>
   <programme start="20210831075000 +0000" stop="20210831080000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">関東甲信越のニュースと交通・気象情報</desc>
@@ -278,26 +270,14 @@
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">【７時台】新着のニュースを分かりやすく。社会の深層に迫る特集。暮らしに役立つアイデアを紹介する「まちかど情報室」。気になる天気。スポーツなど</desc>
   </programme>
-	<programme start="20210831065500 +0000" stop="20210831070000 +0000" channel="eTele.jp">
-		<title lang="ja">Eテレ0655</title>
-		<desc lang="ja">１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します</desc>
-	</programme>
-	<programme start="20210831070000 +0000" stop="20210831071000 +0000" channel="eTele.jp">
-		<title lang="ja">ゴー!ゴー!キッチン戦隊クックルン</title>
-		<desc lang="ja">アニメ×実写の幼児向け食育番組。キッチン戦隊クックルンの３人が、料理の力で怪人をやっつける！今週は、朝は先輩クックルンが活躍、夕方は今のクックルンが登場するよ。</desc>
-	</programme>
-	<programme start="20210831071000 +0000" stop="20210831072000 +0000" channel="eTele.jp">
-		<title lang="ja">はなかっぱ</title>
-		<desc lang="ja">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
-	</programme>
-	<programme start="20210831072000 +0000" stop="20210831073000 +0000" channel="eTele.jp">
-		<title lang="ja">コレナンデ商会</title>
-		<desc lang="ja">特集「タイムマシン」。今回はその後編。タイムマシンで出かけた先でトラブルに見舞われたジェイさんたち。果たして無事にコレナンデ商会に戻ることが出きるのか…？</desc>
-	</programme>
-	<programme start="20210831073000 +0000" stop="20210831074500 +0000" channel="eTele.jp">
-		<title lang="ja">みいつけた!</title>
-		<desc lang="ja">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
-	</programme>
+  <programme start="20210901075000 +0000" stop="20210901080000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">関東甲信越のニュースと交通・気象情報</desc>
+  </programme>
+  <programme start="20210901080000 +0000" stop="20210901081500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">連続テレビ小説 おかえりモネ</title>
+    <desc lang="ja">久しぶりに会った百音（清原果耶）、亮（永瀬廉）、未知（蒔田彩珠）、明日美（恒松祐里）、悠人（髙田彪我）、三生（前田航基）は、ずっと隠してきた胸の内を語り合う。</desc>
+  </programme>
 	<programme start="20210831074500 +0000" stop="20210831080900 +0000" channel="eTele.jp">
 		<title lang="ja">おかあさんといっしょ</title>
 		<desc lang="ja">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！今週は遊び特集だよ！</desc>
@@ -618,6 +598,22 @@
 		<title lang="ja">ゴー!ゴー!キッチン戦隊クックルン</title>
 		<desc lang="ja">アニメ×実写の幼児向け食育番組。キッチン戦隊クックルンの３人が、料理の力で怪人をやっつける！今週は、朝は先輩クックルンが活躍、夕方は今のクックルンが登場するよ。</desc>
 	</programme>
+	<programme start="20210901071000 +0000" stop="20210901072000 +0000" channel="eTele.jp">
+		<title lang="ja">はなかっぱ</title>
+		<desc lang="ja">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+	</programme>
+	<programme start="20210901072000 +0000" stop="20210901073000 +0000" channel="eTele.jp">
+		<title lang="ja">コレナンデ商会</title>
+		<desc lang="ja">お話のテーマは「消防士さんのお仕事」。曲は「ファイヤー・ファイター」「非常口ドッチ？」他。人気コーナー「ほめまっちょ」には新作が登場するよ。出演：川平慈英</desc>
+	</programme>
+	<programme start="20210901073000 +0000" stop="20210901074500 +0000" channel="eTele.jp">
+		<title lang="ja">みいつけた!</title>
+		<desc lang="ja">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
+	</programme>
+	<programme start="20210901074500 +0000" stop="20210901080900 +0000" channel="eTele.jp">
+		<title lang="ja">おかあさんといっしょ</title>
+		<desc lang="ja">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！今週は遊び特集だよ！</desc>
+	</programme>
 	<programme start="20210831055000 +0000" stop="20210831080000 +0000" channel="NipponTV.jp">
 		<title lang="ja">ZIP!</title>
 		<desc lang="ja">火曜ＺＩＰ！は山下健二郎▼無法地帯密状態のフェスに抗議休校で学童保育が悲鳴▼硫酸男動機ため口か▼３回接種なぜ必要？▼興奮健二郎パラ観戦▼平野紫耀が包丁学ぶ</desc>
@@ -713,6 +709,10 @@
 	<programme start="20210901055000 +0000" stop="20210901080000 +0000" channel="NipponTV.jp">
 		<title lang="ja">ZIP!</title>
 		<desc lang="ja">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
+	</programme>
+	<programme start="20210901080000 +0000" stop="20210901102500 +0000" channel="NipponTV.jp">
+		<title lang="ja">スッキリ</title>
+		<desc lang="ja">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
 	</programme>
 	<programme start="20210831045500 +0000" stop="20210831080000 +0000" channel="Asahi.jp">
 		<title lang="ja">グッド!モーニング</title>
@@ -839,6 +839,10 @@ by.Laura Pausini</desc>
 		<title lang="ja">グッド!モーニング</title>
 		<desc lang="ja">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 	</programme>
+	<programme start="20210901080000 +0000" stop="20210901095500 +0000" channel="Asahi.jp">
+		<title lang="ja">羽鳥慎一モーニングショー</title>
+		<desc lang="ja">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
+	</programme>
 	<programme start="20210831060000 +0000" stop="20210831080000 +0000" channel="TBS2.jp">
 		<title lang="ja">あさチャン!</title>
 		<desc lang="ja">愛知で野外フェス「密集」に批判▼ワクチン接種後死亡した男性の父親無念語る▼新学期子どもを感染から守るには▼パスタに蕎麦…９月から値上げ続々▼暑さいつまで</desc>
@@ -935,21 +939,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">あさチャン!</title>
 		<desc lang="ja">メインキャスターは夏目三久。きのうからけさまでの注目ニュースを総ざらい。世界の今がライブでわかる。専門知識豊富なゲストが独自の視点でより深い情報をお届けする。</desc>
 	</programme>
-	<programme start="20210831054500 +0000" stop="20210831070500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">モーサテ</title>
-		<desc lang="ja">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
-	</programme>
-	<programme start="20210831070500 +0000" stop="20210831073000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">おはスタ</title>
-		<desc lang="ja">ＯＨＡ！小学生必見！ワクワクが詰まってる情報ステーション・おはスタ！話題のゲームやホビー、アニメ…見逃せない最新情報！</desc>
-	</programme>
-	<programme start="20210831073000 +0000" stop="20210831073500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">きんだーてれび</title>
-		<desc lang="ja">「きんだーてれび」は、テレビで送る楽しい子ども雑誌。アニメや歌、ダンスのコーナーなど内容盛りだくさんで放送します。▽今回は「PUI　PUI　モルカー　アンコール」。</desc>
-	</programme>
-	<programme start="20210831073500 +0000" stop="20210831075500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">シナぷしゅ</title>
-		<desc lang="ja">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
+	<programme start="20210901080000 +0000" stop="20210901095500 +0000" channel="TBS2.jp">
+		<title lang="ja">ラヴィット!</title>
+		<desc lang="ja">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
 	</programme>
 	<programme start="20210831075500 +0000" stop="20210831080000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">東京2020パラリンピック ハイライト</title>
@@ -1107,6 +1099,26 @@ by.Laura Pausini</desc>
 		<title lang="ja">モーサテ</title>
 		<desc lang="ja">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 	</programme>
+	<programme start="20210901070500 +0000" stop="20210901073000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">おはスタ</title>
+		<desc lang="ja">ＯＨＡ！小学生必見！キッズの欲しいが詰まってる情報ステーション・おはスタ！妖怪、ポケモン、ベイブレード！話題のゲームやホビー、アニメ…見逃せない最新情報！</desc>
+	</programme>
+	<programme start="20210901073000 +0000" stop="20210901073500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">きんだーてれび</title>
+		<desc lang="ja">「きんだーてれび」は、テレビで送る楽しい子ども雑誌。アニメや歌、ダンスのコーナーなど内容盛りだくさんで放送します。▽今回は「ぴったんこ！！ねこざかな選」</desc>
+	</programme>
+	<programme start="20210901073500 +0000" stop="20210901075500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">シナぷしゅ</title>
+		<desc lang="ja">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
+	</programme>
+	<programme start="20210901075500 +0000" stop="20210901080000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">東京2020パラリンピック ハイライト</title>
+		<desc lang="ja">８月２４日から開幕中の東京パラリンピック。１３日間にわたり２２競技が開催される。２５０人を超える日本選手団の大会での模様を連日速報として伝える。</desc>
+	</programme>
+	<programme start="20210901080000 +0000" stop="20210901081500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ハーフタイムツアーズ</title>
+		<desc lang="ja">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
+	</programme>
 	<programme start="20210831052500 +0000" stop="20210831080000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざましテレビ</title>
 		<desc lang="ja">密フェス抗議…謝罪も▽若者接種に予約殺到▽９月値上げで生活は▽Ｖ６の２６年貴重映像▽ＹＯＡＳＯＢＩ新曲▽好きな男性声優は？</desc>
@@ -1199,9 +1211,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">めざましテレビ</title>
 		<desc lang="ja">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 	</programme>
-	<programme start="20210831060000 +0000" stop="20210831070000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+	<programme start="20210901080000 +0000" stop="20210901095000 +0000" channel="FujiTV.jp">
+		<title lang="ja">めざまし8</title>
+		<desc lang="ja">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 	</programme>
 	<programme start="20210831070000 +0000" stop="20210831080000 +0000" channel="Tokyo MX">
 		<title lang="ja">堀潤モーニングFLAG</title>
@@ -1394,5 +1406,9 @@ by.Laura Pausini</desc>
 	<programme start="20210901070000 +0000" stop="20210901080000 +0000" channel="Tokyo MX">
 		<title lang="ja">堀潤モーニングFLAG</title>
 		<desc lang="ja">ジャーナリスト堀潤がＺ世代コメンテーターとお届けするカジュアルニュースショー▼不登校を経験した作家・起業家の小幡和輝が出演！▼特集企画は「事故物件」を取材</desc>
+	</programme>
+	<programme start="20210901080000 +0000" stop="20210901083000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
