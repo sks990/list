@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831075000 +0000" stop="20210831080000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース おはよう日本</title>
-    <desc lang="ja">関東甲信越のニュースと交通・気象情報</desc>
-  </programme>
-  <programme start="20210831080000 +0000" stop="20210831081500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">連続テレビ小説 おかえりモネ</title>
-    <desc lang="ja">亮（永瀬廉）が高速バスで気仙沼へ戻ろうとしていたのを、百音（清原果耶）が見つける。一方、汐見湯では、未知（蒔田彩珠）が、菅波（坂口健太郎）と会っていた。</desc>
-  </programme>
-  <programme start="20210831081500 +0000" stop="20210831085000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック あさナビ</title>
-    <desc lang="ja">パラリンピックのとっておきの楽しみ方、見どころをご紹介！あの人の“熱血！推しプレゼン”に現場からのホットな中継も交え、アスリートの素顔、支える人の思いにも迫る！</desc>
-  </programme>
-  <programme start="20210831085000 +0000" stop="20210831085500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210831085500 +0000" stop="20210831095900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇ブラインドサッカー　男子・予選リーグ　グループＡ「日本×中国」（中継）　【出演】北澤豪，伊藤亜紗，根木慎志，【アナウンサー】一橋忠之，副島萌生ほか</desc>
@@ -278,34 +262,14 @@
     <title lang="ja">連続テレビ小説 おかえりモネ</title>
     <desc lang="ja">久しぶりに会った百音（清原果耶）、亮（永瀬廉）、未知（蒔田彩珠）、明日美（恒松祐里）、悠人（髙田彪我）、三生（前田航基）は、ずっと隠してきた胸の内を語り合う。</desc>
   </programme>
-	<programme start="20210831074500 +0000" stop="20210831080900 +0000" channel="eTele.jp">
-		<title lang="ja">おかあさんといっしょ</title>
-		<desc lang="ja">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！今週は遊び特集だよ！</desc>
-	</programme>
-	<programme start="20210831080900 +0000" stop="20210831081000 +0000" channel="eTele.jp">
-		<title lang="ja">パッコロリン</title>
-		<desc lang="ja">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
-	</programme>
-	<programme start="20210831081000 +0000" stop="20210831082500 +0000" channel="eTele.jp">
-		<title lang="ja">いないいないばあっ!</title>
-		<desc lang="ja">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-	</programme>
-	<programme start="20210831082500 +0000" stop="20210831083500 +0000" channel="eTele.jp">
-		<title lang="ja">にほんごであそぼ</title>
-		<desc lang="ja">今日は、ひこうき山陽が、吉野山をおとずれます。ほかに、花鹿亭、童謡、名文を言ってみよう！、うた「平城遷都１３００年祭のうた」。</desc>
-	</programme>
-	<programme start="20210831083500 +0000" stop="20210831084500 +0000" channel="eTele.jp">
-		<title lang="ja">ピタゴラスイッチ</title>
-		<desc lang="ja">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます</desc>
-	</programme>
-	<programme start="20210831084500 +0000" stop="20210831085000 +0000" channel="eTele.jp">
-		<title lang="ja">プチプチ・アニメ</title>
-		<desc lang="ja">マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな？</desc>
-	</programme>
-	<programme start="20210831085000 +0000" stop="20210831085500 +0000" channel="eTele.jp">
-		<title lang="ja">てれび絵本</title>
-		<desc lang="ja">五味太郎氏が生み出す個性的なキャラクターがたくさん！今日はだれが登場するでしょう？</desc>
-	</programme>
+  <programme start="20210901081500 +0000" stop="20210901090000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック あさナビ</title>
+    <desc lang="ja">パラリンピックのとっておきの楽しみ方、見どころをご紹介！あの人の“熱血！推しプレゼン”に現場からのホットな中継も交え、アスリートの素顔、支える人の思いにも迫る！</desc>
+  </programme>
+  <programme start="20210901090000 +0000" stop="20210901090500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210831085500 +0000" stop="20210831090000 +0000" channel="eTele.jp">
 		<title lang="ja">みんなのうた</title>
 		<desc lang="ja">「素敵な夜」うた：Ｖ６／「スナビキソウ」うた：遥海</desc>
@@ -614,9 +578,37 @@
 		<title lang="ja">おかあさんといっしょ</title>
 		<desc lang="ja">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！今週は遊び特集だよ！</desc>
 	</programme>
-	<programme start="20210831055000 +0000" stop="20210831080000 +0000" channel="NipponTV.jp">
-		<title lang="ja">ZIP!</title>
-		<desc lang="ja">火曜ＺＩＰ！は山下健二郎▼無法地帯密状態のフェスに抗議休校で学童保育が悲鳴▼硫酸男動機ため口か▼３回接種なぜ必要？▼興奮健二郎パラ観戦▼平野紫耀が包丁学ぶ</desc>
+	<programme start="20210901080900 +0000" stop="20210901081000 +0000" channel="eTele.jp">
+		<title lang="ja">パッコロリン</title>
+		<desc lang="ja">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+	</programme>
+	<programme start="20210901081000 +0000" stop="20210901082500 +0000" channel="eTele.jp">
+		<title lang="ja">いないいないばあっ!</title>
+		<desc lang="ja">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+	</programme>
+	<programme start="20210901082500 +0000" stop="20210901083500 +0000" channel="eTele.jp">
+		<title lang="ja">にほんごであそぼ</title>
+		<desc lang="ja">今回のひこうき山陽は、“奈良の月”をさがします。ほかに、あいだのじいさん、四字熟語かるた、うた「平城遷都１３００年祭のうた」。</desc>
+	</programme>
+	<programme start="20210901083500 +0000" stop="20210901084500 +0000" channel="eTele.jp">
+		<title lang="ja">ピタゴラスイッチ</title>
+		<desc lang="ja">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます</desc>
+	</programme>
+	<programme start="20210901084500 +0000" stop="20210901085000 +0000" channel="eTele.jp">
+		<title lang="ja">プチプチ・アニメ</title>
+		<desc lang="ja">三角ボディーにごま塩頭、元気なおにぎりの男の子、こにぎりくん。お友達のケロッケやペットのブロッコリーと、今日は何をして遊ぼうかな？</desc>
+	</programme>
+	<programme start="20210901085000 +0000" stop="20210901085500 +0000" channel="eTele.jp">
+		<title lang="ja">てれび絵本</title>
+		<desc lang="ja">五味太郎氏が生み出す個性的なキャラクターがたくさん！今日はだれが登場するでしょう？</desc>
+	</programme>
+	<programme start="20210901085500 +0000" stop="20210901090000 +0000" channel="eTele.jp">
+		<title lang="ja">みんなのうた</title>
+		<desc lang="ja">「クマのぬいぐるみ」／「アフターマン」／「ユア　ハンド　マイ　ハート　〜Ｙｏｕｒ　Ｈａｎｄ，Ｍｙ　Ｈｅａｒｔ〜」／「恋するニワトリ」</desc>
+	</programme>
+	<programme start="20210901090000 +0000" stop="20210901091000 +0000" channel="eTele.jp">
+		<title lang="ja">u&i</title>
+		<desc lang="ja">発達障害などの困難があるこどもたちの特性を知ることで、多様性への理解を深めるこども番組。マイノリティーへの理解を深め共生社会の実現に貢献する力を育む。</desc>
 	</programme>
 	<programme start="20210831080000 +0000" stop="20210831102500 +0000" channel="NipponTV.jp">
 		<title lang="ja">スッキリ</title>
@@ -713,10 +705,6 @@
 	<programme start="20210901080000 +0000" stop="20210901102500 +0000" channel="NipponTV.jp">
 		<title lang="ja">スッキリ</title>
 		<desc lang="ja">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
-	</programme>
-	<programme start="20210831045500 +0000" stop="20210831080000 +0000" channel="Asahi.jp">
-		<title lang="ja">グッド!モーニング</title>
-		<desc lang="ja">知事激怒の音楽フェス“密状態＆飲酒”証言▽国内で新デルタ株⁉自宅療養中の２０代死亡▽アフガン撤退期限に“日本の救出作戦”は(他)</desc>
 	</programme>
 	<programme start="20210831080000 +0000" stop="20210831095500 +0000" channel="Asahi.jp">
 		<title lang="ja">羽鳥慎一モーニングショー</title>
@@ -843,10 +831,6 @@ by.Laura Pausini</desc>
 		<title lang="ja">羽鳥慎一モーニングショー</title>
 		<desc lang="ja">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 	</programme>
-	<programme start="20210831060000 +0000" stop="20210831080000 +0000" channel="TBS2.jp">
-		<title lang="ja">あさチャン!</title>
-		<desc lang="ja">愛知で野外フェス「密集」に批判▼ワクチン接種後死亡した男性の父親無念語る▼新学期子どもを感染から守るには▼パスタに蕎麦…９月から値上げ続々▼暑さいつまで</desc>
-	</programme>
 	<programme start="20210831080000 +0000" stop="20210831095500 +0000" channel="TBS2.jp">
 		<title lang="ja">ラヴィット!</title>
 		<desc lang="ja">人気ブランド「ＶｉＳ」でこの秋使える着回しバツグン『しりとりコーデ』ご紹介▽毎日のお弁当作りに最適！一番おいしい冷凍おかずランキング▽占い▽アルコ＆ピース生登場</desc>
@@ -942,14 +926,6 @@ by.Laura Pausini</desc>
 	<programme start="20210901080000 +0000" stop="20210901095500 +0000" channel="TBS2.jp">
 		<title lang="ja">ラヴィット!</title>
 		<desc lang="ja">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
-	</programme>
-	<programme start="20210831075500 +0000" stop="20210831080000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">東京2020パラリンピック ハイライト</title>
-		<desc lang="ja">８月２４日から開幕中の東京パラリンピック。１３日間にわたり２２競技が開催される。２５０人を超える日本選手団の大会での模様を連日速報として伝える。</desc>
-	</programme>
-	<programme start="20210831080000 +0000" stop="20210831081500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ハーフタイムツアーズ</title>
-		<desc lang="ja">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
 	</programme>
 	<programme start="20210831081500 +0000" stop="20210831091100 +0000" channel="TVTokyo.jp">
 		<title lang="ja">魔女たちの楽園〜二度なき人生〜</title>
@@ -1119,9 +1095,10 @@ by.Laura Pausini</desc>
 		<title lang="ja">ハーフタイムツアーズ</title>
 		<desc lang="ja">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
 	</programme>
-	<programme start="20210831052500 +0000" stop="20210831080000 +0000" channel="FujiTV.jp">
-		<title lang="ja">めざましテレビ</title>
-		<desc lang="ja">密フェス抗議…謝罪も▽若者接種に予約殺到▽９月値上げで生活は▽Ｖ６の２６年貴重映像▽ＹＯＡＳＯＢＩ新曲▽好きな男性声優は？</desc>
+	<programme start="20210901081500 +0000" stop="20210901091100 +0000" channel="TVTokyo.jp">
+		<title lang="ja">魔女たちの楽園〜二度なき人生〜</title>
+		<desc lang="ja">狙え、人生大逆転！ワケアリ宿泊客の笑いあり、涙あり、ロマンスありのヒューマンドラマ　地上波初放送！
+【全40話　日本語字幕付　二カ国語放送】</desc>
 	</programme>
 	<programme start="20210831080000 +0000" stop="20210831095000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざまし8</title>
@@ -1214,14 +1191,6 @@ by.Laura Pausini</desc>
 	<programme start="20210901080000 +0000" stop="20210901095000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざまし8</title>
 		<desc lang="ja">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
-	</programme>
-	<programme start="20210831070000 +0000" stop="20210831080000 +0000" channel="Tokyo MX">
-		<title lang="ja">堀潤モーニングFLAG</title>
-		<desc lang="ja">ジャーナリスト堀潤がＺ世代を中心としたコメンテーターとお届けするカジュアルニュースショー▼弁護士の由井恒輝が出演！▼特集・今話題のフェムテックとは？</desc>
-	</programme>
-	<programme start="20210831080000 +0000" stop="20210831083000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210831083000 +0000" stop="20210831090000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1409,6 +1378,14 @@ by.Laura Pausini</desc>
 	</programme>
 	<programme start="20210901080000 +0000" stop="20210901083000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901083000 +0000" stop="20210901090000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901090000 +0000" stop="20210901093000 +0000" channel="Tokyo MX">
+		<title lang="ja">洋上の楽園クルーズ</title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
