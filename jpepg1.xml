@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210901015100 +0000" stop="20210901025100 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">日本の名峰</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210901025100 +0000" stop="20210901035100 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">空からクルージング特別編</title>
     <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。</desc>
@@ -265,6 +261,14 @@
   <programme start="20210902015000 +0000" stop="20210902023500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">明日をまもるナビ</title>
     <desc lang="ja">大地震による負傷原因の８割される建物倒壊や家具の転倒▽どうしたら自宅を耐震化できるのか？身近な器具を使ってのノウハウ伝授▽高層ビルを揺らす長周期地震動の対策は？</desc>
+  </programme>
+  <programme start="20210902023500 +0000" stop="20210902024000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">音を見る物語</title>
+    <desc lang="ja">視覚障害のあるゴールボール選手や一般の視覚障害者たちは、どのように世界を認識しているのか。数々の賞を受賞するアニメクリエーターが描いた、“見えないひとの世界”</desc>
+  </programme>
+  <programme start="20210902024000 +0000" stop="20210902034000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">映像詩</title>
+    <desc lang="ja">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
   </programme>
 	<programme start="20210901002500 +0000" stop="20210901053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -582,14 +586,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210901010400 +0000" stop="20210901020900 +0000" channel="NipponTV.jp">
-		<title lang="ja">ハコヅメ〜たたかう!交番女子〜</title>
-		<desc lang="ja">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香&永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
-	</programme>
-	<programme start="20210901020900 +0000" stop="20210901023900 +0000" channel="NipponTV.jp">
-		<title lang="ja">HUNTER×HUNTER</title>
-		<desc lang="ja">＃１３０「マホウ×デ×ゼツボウ」</desc>
-	</programme>
 	<programme start="20210901023900 +0000" stop="20210901042400 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -689,18 +685,13 @@
 		<title lang="ja">東野・岡村の旅猿19</title>
 		<desc lang="ja">「山梨県で軽キャンピングカーの旅」第１話　今回からスタート！ゲストは久々登場のオードリー春日さん！どしゃぶりの雨で波乱のスタート。どんな旅となるのか・・・</desc>
 	</programme>
-	<programme start="20210901013100 +0000" stop="20210901020100 +0000" channel="Asahi.jp">
-		<title lang="ja">フリースタイルティーチャー</title>
-		<desc lang="ja">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
-ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
+	<programme start="20210902020900 +0000" stop="20210902023900 +0000" channel="NipponTV.jp">
+		<title lang="ja">浜ちゃんが!</title>
+		<desc lang="ja">今週も芸能人が愛用している「お取り寄せ」を披露し合う「芸能人お取り寄せグルメ編」あの人は一体、どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
 	</programme>
-	<programme start="20210901020100 +0000" stop="20210901022100 +0000" channel="Asahi.jp">
-		<title lang="ja">にゅーくりぃむ</title>
-		<desc lang="ja">この秋スタート「くりぃむナンタラ」は日曜よる10時台！この10年の企画を現代版にアップデートすべくシミュレーション！楽屋で傍若無人な上田にダイアン津田が大混乱?!</desc>
-	</programme>
-	<programme start="20210901022100 +0000" stop="20210901024100 +0000" channel="Asahi.jp">
-		<title lang="ja">ぼる塾の煩悩ごはん</title>
-		<desc lang="ja">シェフのあんりが考案したハイカロリー“煩悩ごはん”をむさぼり食べる深夜の飯テロバラエティ！ぼる塾とゲストのここでしか聞けない真剣トークも！</desc>
+	<programme start="20210902023900 +0000" stop="20210902042400 +0000" channel="NipponTV.jp">
+		<title lang="ja">日テレポシュレ</title>
+		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
 	</programme>
 	<programme start="20210901024100 +0000" stop="20210901030100 +0000" channel="Asahi.jp">
 		<title lang="ja">イグナッツ!!</title>
@@ -809,9 +800,17 @@
 		<title lang="ja">Break Out</title>
 		<desc lang="ja">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
 	</programme>
-	<programme start="20210901013300 +0000" stop="20210901020300 +0000" channel="TBS2.jp">
-		<title lang="ja">サレタガワのブルー</title>
-		<desc lang="ja">藍子（堀未央奈）と和正（岩岡徹）の不倫の現場を押さえた暢（犬飼貴丈）。妻・梢（高梨臨）の姿を見つけ狼狽える和正。弁護士も加わりシタガワとサレタガワの修羅場が…‼</desc>
+	<programme start="20210902020100 +0000" stop="20210902022100 +0000" channel="Asahi.jp">
+		<title lang="ja">まんが未知</title>
+		<desc lang="ja">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◇トム・ブラウンが漫画原作初挑戦！“柔道”と“異世界転生”が合体した漫画とは？</desc>
+	</programme>
+	<programme start="20210902022100 +0000" stop="20210902024100 +0000" channel="Asahi.jp">
+		<title lang="ja">あるある土佐カンパニー</title>
+		<desc lang="ja">土佐兄弟が“新しいあるあるを見つける会社”を遂に設立『高校生あるある』で話題！動画アプリ５億回再生を記録した土佐兄弟の初冠番組。毎週愉快なあるあるをお届けします</desc>
+	</programme>
+	<programme start="20210902024100 +0000" stop="20210902030100 +0000" channel="Asahi.jp">
+		<title lang="ja">キョコロヒー</title>
+		<desc lang="ja">日向坂46の齊藤京子と芸人のヒコロヒー。京子とヒコロヒーで「キョコロヒー」。ダンスの新たな魅力と可能性を追求する、トーン低めのダンスバラエティー番組です。</desc>
 	</programme>
 	<programme start="20210901020300 +0000" stop="20210901031300 +0000" channel="TBS2.jp">
 		<title lang="ja">PLAYLIST</title>
@@ -896,17 +895,14 @@
 		<title lang="ja">ミルベキ!</title>
 		<desc lang="ja">熊川哲也Kバレエ カンパニー「シンデレラ」ダンサー・栗山廉がスタジオ登場！▽朗読劇「湯布院寄行」燃え殻・成田凌・黒木華・「水曜日のカンパネラ」コムアイ▽サンリオ</desc>
 	</programme>
-	<programme start="20210901014000 +0000" stop="20210901021000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
-		<desc lang="ja">新プロジェクト始動！！ＡＫＢ４８はギャラ０円で何でもします！▽「私温泉シーンだって見せますよ！」小栗がテレ東Ｐ陣に出演直談判！！▽ひろゆきデレデレ新コーナーも！</desc>
+	<programme start="20210902020300 +0000" stop="20210902021000 +0000" channel="TBS2.jp">
+		<title lang="ja">イベントGO!</title>
+		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 	</programme>
-	<programme start="20210901021000 +0000" stop="20210901024000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">世界のアッと驚くイチオシ商品をご紹介！</desc>
-	</programme>
-	<programme start="20210901024000 +0000" stop="20210901025500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">一夜づけ</title>
-		<desc lang="ja">天才テニスプレイヤー・越前リョーマがライバルたちと試合を重ねていく中で成長していく物語！映画「リョーマ！The　Prince　of　Tennis　新生劇場版テニスの王子様」！！</desc>
+	<programme start="20210902021000 +0000" stop="20210902034500 +0000" channel="TBS2.jp">
+		<title lang="ja">カイモノラボ</title>
+		<desc lang="ja">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 	</programme>
 	<programme start="20210901025500 +0000" stop="20210901030000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ミュージックブレイク</title>
@@ -1060,9 +1056,13 @@
 		<desc lang="ja">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！
 今回はコロナ禍なのに業績絶好調の運送会社！乗り放題＆食べ放題…驚きの秘密に迫る</desc>
 	</programme>
-	<programme start="20210901013000 +0000" stop="20210901020000 +0000" channel="FujiTV.jp">
-		<title lang="ja">ドラゴンボール改</title>
-		<desc lang="ja">「猛追ドドリアの恐怖！」</desc>
+	<programme start="20210902021000 +0000" stop="20210902024000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">生活に役立つ商品を紹介する通販番組</desc>
+	</programme>
+	<programme start="20210902024000 +0000" stop="20210902031000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ドラゴンクエスト ダイの大冒険</title>
+		<desc lang="ja">ポップは魔法が効かないハドラー親衛騎団に対抗する術を探るため、師匠の大魔道士マトリフの元を訪れる。マトリフは自分でも使うのをためらう最強呪文を彼に教えるが…</desc>
 	</programme>
 	<programme start="20210901020000 +0000" stop="20210901040000 +0000" channel="FujiTV.jp">
 		<title lang="ja">出動!ラーメン刑事</title>
@@ -1152,17 +1152,9 @@
 		<title lang="ja">アートフルワールド 〜たぶん、すばらしき芸術の世界〜</title>
 		<desc lang="ja">「世界はアートに満ちている。」をテーマに、アートの世界を様々な視点から紹介し、その多種多様な楽しみ方も合わせてお伝えする。</desc>
 	</programme>
-	<programme start="20210901013500 +0000" stop="20210901020500 +0000" channel="Tokyo MX">
-		<title lang="ja">69号室の住人</title>
-		<desc lang="ja">ユニコーンがメンバー５人全員で登場！ロックンロールをテーマにしたニューアルバム「ツイス島＆シャウ島」の制作エピソードをたっぷりにお届けします！</desc>
-	</programme>
-	<programme start="20210901020500 +0000" stop="20210901023400 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210901023400 +0000" stop="20210901023500 +0000" channel="Tokyo MX">
-		<title lang="ja">フラッシュ天気</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210902025500 +0000" stop="20210902035000 +0000" channel="FujiTV.jp">
+		<title lang="ja">FNSドキュメンタリー大賞</title>
+		<desc lang="ja">人とクマの共存を目指す長野県軽井沢町。日本初！クマを森へ追い払う犬「ベアドッグ」に取り組む。出産、子育て、子犬のデビュー…訓練士とベアドッグの親子３年間の軌跡。</desc>
 	</programme>
 	<programme start="20210901023500 +0000" stop="20210901030500 +0000" channel="Tokyo MX">
 		<title lang="ja">キラ×バズTV!?</title>
@@ -1342,6 +1334,22 @@
 	</programme>
 	<programme start="20210902013500 +0000" stop="20210902020500 +0000" channel="Tokyo MX">
 		<title lang="ja">ノーゲーム・ノーライフ</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902020500 +0000" stop="20210902023400 +0000" channel="Tokyo MX">
+		<title lang="ja">MIRAI系アイドルTV</title>
+		<desc lang="ja">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
+	</programme>
+	<programme start="20210902023400 +0000" stop="20210902023500 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902023500 +0000" stop="20210902030000 +0000" channel="Tokyo MX">
+		<title lang="ja">せとチャレ!STU48</title>
+		<desc lang="ja">ゆみりん＆ほのたんがゲストの学天即と愛媛ロケ！▼愛媛朝日テレビを訪問し勝手に番組PR▼松山が誇るディープな名物グルメ▼愛媛を舞台に全力でチャレンジします！</desc>
+	</programme>
+	<programme start="20210902030000 +0000" stop="20210902033000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
