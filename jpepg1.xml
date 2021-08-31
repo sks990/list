@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831150500 +0000" stop="20210831165000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　男子ダブルス・準決勝「国枝慎吾／眞田卓×アルフィー　ヒューウェット／ゴードン　リード」（中継）</desc>
-  </programme>
-  <programme start="20210831165000 +0000" stop="20210831165500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210831165500 +0000" stop="20210831175900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　男子２００ｍ個人メドレー　ＳＭ１４・決勝、女子２００ｍ個人メドレー　ＳＭ１４・決勝ほか（中継）　【出演】吉田沙保里，千葉絵里菜，猪狩ともかほか</desc>
@@ -196,7 +188,7 @@
   </programme>
   <programme start="20210901090500 +0000" stop="20210901095900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">【出演】増田明美，保原浩明，大西瞳，【アナウンサー】松田利仁亜，保里小百合</desc>
+    <desc lang="ja">◇ボッチャ　個人　ＢＣ２・３位決定戦（中継）　【出演】増田明美，保原浩明，大西瞳，【アナウンサー】松田利仁亜，保里小百合</desc>
   </programme>
   <programme start="20210901095900 +0000" stop="20210901100000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
@@ -208,7 +200,7 @@
   </programme>
   <programme start="20210901100500 +0000" stop="20210901103000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">【出演】増田明美，保原浩明，大西瞳，【アナウンサー】松田利仁亜，保里小百合</desc>
+    <desc lang="ja">◇ボッチャ　個人　ＢＣ２・３位決定戦（中継）　【出演】増田明美，保原浩明，大西瞳，【アナウンサー】松田利仁亜，保里小百合</desc>
   </programme>
   <programme start="20210901103000 +0000" stop="20210901115300 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
@@ -258,26 +250,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇ゴールボール　女子・準々決勝「日本×イスラエル」（中継）　【出演】増田明美，伊藤亜紗，佳山明，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀ほか</desc>
   </programme>
-	<programme start="20210831154500 +0000" stop="20210831160000 +0000" channel="eTele.jp">
-		<title lang="ja">しぜんとあそぼ</title>
-		<desc lang="ja">自然と縁遠くなったといわれる子どもたちに身近な生きものたちの生態をていねいに紹介し、生きものへの優しい気持ちと、自然の不思議や命の輝きに対する好奇心を育みます。</desc>
-	</programme>
-	<programme start="20210831160000 +0000" stop="20210831160500 +0000" channel="eTele.jp">
-		<title lang="ja">みんなのうた</title>
-		<desc lang="ja">「Ｐａｉｋａｊｉ　〜南風〜」うた：加藤登紀子／「遠い空」うた：三浦和人／「怪獣トットト」うた：チームしゃちほこ／「６さいのばらーど」うた：ゆーゆ</desc>
-	</programme>
-	<programme start="20210831160500 +0000" stop="20210831162000 +0000" channel="eTele.jp">
-		<title lang="ja">いないいないばあっ!</title>
-		<desc lang="ja">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-	</programme>
-	<programme start="20210831162000 +0000" stop="20210831164400 +0000" channel="eTele.jp">
-		<title lang="ja">おかあさんといっしょ</title>
-		<desc lang="ja">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！今週は遊び特集だよ！</desc>
-	</programme>
-	<programme start="20210831164400 +0000" stop="20210831164500 +0000" channel="eTele.jp">
-		<title lang="ja">パプリカ</title>
-		<desc lang="ja">「あしたにたねをまこう！」キャッチコピーのもと、未来に向かってがんばる全ての人たちを応援する「パプリカ」の新ＭＶ（監督・奥山大史）を紹介。出演：Ｆｏｏｒｉｎ</desc>
-	</programme>
+  <programme start="20210901165000 +0000" stop="20210901165500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210901165500 +0000" stop="20210901175900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇競泳　男子１００ｍ平泳ぎ　ＳＢ７・決勝ほか（中継）　【出演】増田明美，伊藤亜紗，佳山明，萩原智子，三上大進，【アナウンサー】松田利仁亜，保里小百合，中野淳ほか</desc>
+  </programme>
 	<programme start="20210831164500 +0000" stop="20210831170000 +0000" channel="eTele.jp">
 		<title lang="ja">みいつけた!</title>
 		<desc lang="ja">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
@@ -582,6 +562,26 @@
 		<title lang="ja">みんなのうた</title>
 		<desc lang="ja">「素敵な夜」うた：Ｖ６／「スナビキソウ」うた：遥海</desc>
 	</programme>
+	<programme start="20210901160500 +0000" stop="20210901162000 +0000" channel="eTele.jp">
+		<title lang="ja">いないいないばあっ!</title>
+		<desc lang="ja">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+	</programme>
+	<programme start="20210901162000 +0000" stop="20210901164400 +0000" channel="eTele.jp">
+		<title lang="ja">おかあさんといっしょ</title>
+		<desc lang="ja">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！今週は遊び特集だよ！</desc>
+	</programme>
+	<programme start="20210901164400 +0000" stop="20210901164500 +0000" channel="eTele.jp">
+		<title lang="ja">パプリカ</title>
+		<desc lang="ja">世界の応援コールをおぼえてＦｏｏｒｉｎ＆Ｆｏｏｒｉｎ　ｔｅａｍ　Ｅと一緒に世界のおともだちを応援しよう！今回応援するのはニュージーランドのアリソンちゃんのゆめ。</desc>
+	</programme>
+	<programme start="20210901164500 +0000" stop="20210901170000 +0000" channel="eTele.jp">
+		<title lang="ja">みいつけた!</title>
+		<desc lang="ja">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
+	</programme>
+	<programme start="20210901170000 +0000" stop="20210901171000 +0000" channel="eTele.jp">
+		<title lang="ja">にほんごであそぼ</title>
+		<desc lang="ja">今回のひこうき山陽は、“奈良の月”をさがします。ほかに、あいだのじいさん、四字熟語かるた、うた「平城遷都１３００年祭のうた」。</desc>
+	</programme>
 	<programme start="20210831155000 +0000" stop="20210831190000 +0000" channel="NipponTV.jp">
 		<title lang="ja">news every.</title>
 		<desc lang="ja">重症者18日連続で最多医療現場への協力要請回答期限迎えどうする10代の自宅療養者も…▽容器の進化が続々と“長持ち”でプラ削減▽文具や家の最新防災</desc>
@@ -677,10 +677,6 @@
 	<programme start="20210901155000 +0000" stop="20210901190000 +0000" channel="NipponTV.jp">
 		<title lang="ja">news every.</title>
 		<desc lang="ja">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
-	</programme>
-	<programme start="20210831154300 +0000" stop="20210831164000 +0000" channel="Asahi.jp">
-		<title lang="ja">相棒season9</title>
-		<desc lang="ja">「通報者」水谷豊、及川光博(他)▽深夜、生け花教師の俊子が何者かに絞殺された。殺害現場を目撃していた人間がいたらしいが、通報してきたものの、名乗らずに電話を切り…</desc>
 	</programme>
 	<programme start="20210831164000 +0000" stop="20210831184500 +0000" channel="Asahi.jp">
 		<title lang="ja">スーパーJチャンネル</title>
@@ -803,6 +799,10 @@ by.Laura Pausini</desc>
 		<title lang="ja">相棒season7</title>
 		<desc lang="ja">「最後の砦」水谷豊、寺脇康文(他)▽スクーター通り魔事件の容疑者が逮捕されたが、取調べ監督官・下柳が見守る中、野村警部補による取り調べ中に容疑者が急死し…</desc>
 	</programme>
+	<programme start="20210901164000 +0000" stop="20210901184500 +0000" channel="Asahi.jp">
+		<title lang="ja">スーパーJチャンネル</title>
+		<desc lang="ja">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+	</programme>
 	<programme start="20210831154900 +0000" stop="20210831190000 +0000" channel="TBS2.jp">
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">ワクチン予定変更に…異物混入で大混乱続く　若者まだ渋谷に行列か　接種詐欺メールに注意▽二学期に四苦八苦…“自主休校”の判断も▽９月から値上げの品</desc>
@@ -898,10 +898,6 @@ by.Laura Pausini</desc>
 	<programme start="20210901154900 +0000" stop="20210901190000 +0000" channel="TBS2.jp">
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！「ＮｅｗｓＣｌｉｐ」でニュースからエンタメ・カルチャーまで！６時１５分からはグルメ情報も！</desc>
-	</programme>
-	<programme start="20210831154000 +0000" stop="20210831165400 +0000" channel="TVTokyo.jp">
-		<title lang="ja">よじごじDays</title>
-		<desc lang="ja">埼玉の街で絶景ハンター敦士が美しい水辺の景色を求めて巡ります。湧水で作られた極上豆腐から、秩父の伏流水で作られたかき氷！渓谷や山から流れ出る美しい水の景色を堪能</desc>
 	</programme>
 	<programme start="20210831165400 +0000" stop="20210831170000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ゆうがたサテライト</title>
@@ -1071,6 +1067,14 @@ by.Laura Pausini</desc>
 		<title lang="ja">よじごじDays</title>
 		<desc lang="ja">土佐兄弟が秩父の人里離れた秘境で人気グルメを探す▽天空の秘境で発見！絶品たまごかけご飯▽豪農屋敷で野菜収穫＆㊙鍋料理▽秩父の観音霊場巡りで見つけた鬼ころりとは？</desc>
 	</programme>
+	<programme start="20210901165400 +0000" stop="20210901170000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ゆうがたサテライト</title>
+		<desc lang="ja">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
+	</programme>
+	<programme start="20210901170000 +0000" stop="20210901171000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">生活に役立つ商品を紹介する通販番組</desc>
+	</programme>
 	<programme start="20210831154500 +0000" stop="20210831190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">渋谷ワクチン抽選　初の平日…希望者は▽大坂なおみ全米ＯＰ▽“硫酸男”新供述は▽気になる野菜の値段▽コンビニ復活グルメ▽トランクルーム人気　何を預ける？</desc>
@@ -1162,14 +1166,6 @@ by.Laura Pausini</desc>
 	<programme start="20210901154500 +0000" stop="20210901190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-	</programme>
-	<programme start="20210831153000 +0000" stop="20210831160000 +0000" channel="Tokyo MX">
-		<title lang="ja">花道だけ歩きましょう〜恋の花が咲きました〜</title>
-		<desc lang="ja">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
-	</programme>
-	<programme start="20210831160000 +0000" stop="20210831163000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210831163000 +0000" stop="20210831170000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1358,5 +1354,13 @@ by.Laura Pausini</desc>
 	<programme start="20210901160000 +0000" stop="20210901163000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901163000 +0000" stop="20210901170000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901170000 +0000" stop="20210901180000 +0000" channel="Tokyo MX">
+		<title lang="ja">5時に夢中!</title>
+		<desc lang="ja">東京の夕方を彩る井戸端ワイドショー！▼アーティスト松田ゆう姫と画家杉田陽平が激論！▼クイズ★井戸端イングリッシュ！▼アオハル相談室</desc>
 	</programme>
 </tv>
