@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831233500 +0000" stop="20210901002000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">うたコン</title>
-    <desc lang="ja">２０２１年上半期に放送した歌の名場面をお届けします▽視聴者の皆様のリクエストにもたっぷりお答えします！</desc>
-  </programme>
   <programme start="20210901002000 +0000" stop="20210901010500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">チコちゃんに叱られる!</title>
     <desc lang="ja">今回のチコちゃんの素朴な疑問は…なぜゼリーはふたまでパンパンに入っているの？なぜアルファベットには大文字と小文字があるの？なぜ西郷隆盛像は犬を連れているの？</desc>
@@ -258,14 +254,18 @@
     <title lang="ja">ガッテン!</title>
     <desc lang="ja">☆古着屋さんも実践！あの液体でヨレヨレ伸び伸びの服が大復活☆超便利な機能が続々登場！最新洗濯機の世界☆実験で解明！洗濯機のホントの適量☆洗濯ネットの落とし穴</desc>
   </programme>
-	<programme start="20210831235500 +0000" stop="20210901000000 +0000" channel="eTele.jp">
-		<title lang="ja">Eテレ2355</title>
-		<desc lang="ja">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です</desc>
-	</programme>
-	<programme start="20210901000000 +0000" stop="20210901002500 +0000" channel="eTele.jp">
-		<title lang="ja">ロシアゴスキー</title>
-		<desc lang="ja">現地リポーターの案内による街歩きと、楽しいアニメーションで学ぶスタイリッシュな講座。サンクトペテルブルクの風景を楽しみながら、旅で役立つロシア語を覚えましょう！</desc>
-	</programme>
+  <programme start="20210902002200 +0000" stop="20210902002400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">新型コロナ 命を守る行動を</title>
+    <desc lang="ja">ワクチンへの不安をあおる怪しげな情報に対し科学的根拠のある情報をネットなどで発信している団体の医師が一つ一つ反論。最新の知見に基づく正しい情報を分かりやすく説明</desc>
+  </programme>
+  <programme start="20210902002400 +0000" stop="20210902005200 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">所さん!大変ですよ</title>
+    <desc lang="ja">日本人の２人に１人がかかる「がん」。新型コロナの影響で患者数の増加が懸念されている。理由は「検診控え」と「受診控え」。がんを見つけ出す驚きの最新技術を深掘りする</desc>
+  </programme>
+  <programme start="20210902005200 +0000" stop="20210902012200 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">有田P おもてなす</title>
+    <desc lang="ja">【司会】有田哲平，【出演】さらば青春の光，加藤雅也，ＪＵＪＵ，蝶野正洋，松雪泰子，【語り】杉田智和</desc>
+  </programme>
 	<programme start="20210901002500 +0000" stop="20210901053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
@@ -578,13 +578,9 @@
 		<title lang="ja">ETV特集</title>
 		<desc lang="ja">日米両軍が激突したテニアン島。戦前から島に住む日本人移民は、戦火の中で集団自決を余儀なくされた。重い記憶を抱える人々を２０年以上取材。遺言ともいえる証言でつづる</desc>
 	</programme>
-	<programme start="20210831230000 +0000" stop="20210901000400 +0000" channel="NipponTV.jp">
-		<title lang="ja">news zero</title>
-		<desc lang="ja">女子高校生「遺体」で２０代夫婦を逮捕…ＳＮＳで接点か▽密集「野外フェス」補助金取り消しも▽重症最多2100人超▽アフガン撤退完了…米軍▽パラ「最年長」金メダル</desc>
-	</programme>
-	<programme start="20210901000400 +0000" stop="20210901005900 +0000" channel="NipponTV.jp">
-		<title lang="ja">ウチのガヤがすみません!</title>
-		<desc lang="ja">藤原竜也＆風間俊介VSガヤ芸人予測不能ダマし合いSP！本物の謎バイト芸人は誰？①大福揉み師②金持ちにUMA話③相撲部屋でホーミー▼ヒロミ＆藤原ビリビリ？</desc>
+	<programme start="20210902010000 +0000" stop="20210902053000 +0000" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja"></desc>
 	</programme>
 	<programme start="20210901005900 +0000" stop="20210901010400 +0000" channel="NipponTV.jp">
 		<title lang="ja">イントロ</title>
@@ -674,19 +670,16 @@
 		<title lang="ja">news zero</title>
 		<desc lang="ja">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
 	</programme>
-	<programme start="20210831232000 +0000" stop="20210901002000 +0000" channel="Asahi.jp">
-		<title lang="ja">ロンドンハーツ</title>
-		<desc lang="ja">現役＆アイドル卒業組から売れっ子モデル、女子アナ、人気女芸人が集結！
-今回のテーマは
-『（20代〜40代の一般女性200人に聞いた）友達になりたくない女』</desc>
+	<programme start="20210902000400 +0000" stop="20210902005900 +0000" channel="NipponTV.jp">
+		<title lang="ja">それって!?実際どうなの課</title>
+		<desc lang="ja">世の中のウマイ話を検証するドキュメントバラエティー！
+
+【蚊に刺されやすい／刺されにくいを徹底検証‼】
+【１杯１０万円のラーメンって…実際、誰が食べてるのか】</desc>
 	</programme>
-	<programme start="20210901002000 +0000" stop="20210901005000 +0000" channel="Asahi.jp">
-		<title lang="ja">霜降りバラエティー</title>
-		<desc lang="ja">霜降りが最近、芸能界に染まりすぎてよくないとミキ昴生と亜生が乱入。コンビ結成前の純粋な気持ちを取り戻そうと９年前の石川と佐々木に戻って当時を再現!!</desc>
-	</programme>
-	<programme start="20210901005000 +0000" stop="20210901005500 +0000" channel="Asahi.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">テレビ朝日のおすすめ番組をご紹介！</desc>
+	<programme start="20210902005900 +0000" stop="20210902010400 +0000" channel="NipponTV.jp">
+		<title lang="ja">イントロ</title>
+		<desc lang="ja">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
 	</programme>
 	<programme start="20210901005500 +0000" stop="20210901012500 +0000" channel="Asahi.jp">
 		<title lang="ja">お願い!ランキング</title>
@@ -797,9 +790,18 @@
 		<title lang="ja">お笑い実力刃</title>
 		<desc lang="ja">ＭＣアンタッチャブルとサンドウィッチマンのもとに、実力派芸人たちが集結！珠玉のネタを披露し、ＭＣたちとネタや笑いについて熱くトークする硬派ネタバラエティ！</desc>
 	</programme>
-	<programme start="20210831230000 +0000" stop="20210901000100 +0000" channel="TBS2.jp">
-		<title lang="ja">news23</title>
-		<desc lang="ja">◇女子高校生遺棄・逮捕の夫婦との関係は？未明の捜索現場に夫が…山本恵里伽キャスターが現場取材◇東京きょう２９０９人…自宅療養支援拠点を取材◇大谷翔平きょうも快音</desc>
+	<programme start="20210902002000 +0000" stop="20210902005000 +0000" channel="Asahi.jp">
+		<title lang="ja">ブイ子のバズっちゃいな!</title>
+		<desc lang="ja">中国の動画配信プラットフォームに公式アカウントを開設！
+中国で人気の日本人インフルエンサーを招き、「中国でバズる秘密」を学びながら、一緒に動画を制作しアップ！</desc>
+	</programme>
+	<programme start="20210902005000 +0000" stop="20210902005500 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">テレビ朝日のおすすめ番組をご紹介！</desc>
+	</programme>
+	<programme start="20210902005500 +0000" stop="20210902012500 +0000" channel="Asahi.jp">
+		<title lang="ja">お願い!ランキング</title>
+		<desc lang="ja">相席ケイ＆尼神インター渚＆納言幸が回転寿司店人気順位当てに挑戦！</desc>
 	</programme>
 	<programme start="20210901000100 +0000" stop="20210901010000 +0000" channel="TBS2.jp">
 		<title lang="ja">パパジャニWEST</title>
@@ -883,13 +885,14 @@
 		<title lang="ja">news23</title>
 		<desc lang="ja">国山ハセンアナウンサーが新たに加入！小川彩佳と共に番組独自の調査報道からＺ世代に刺さるカルチャーまで　明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
 	</programme>
-	<programme start="20210831235500 +0000" stop="20210901000500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">追跡 LIVE! SPORTS ウォッチャー</title>
-		<desc lang="ja">ＨＲ王争いも佳境！日本人初の快挙へ大谷年間５１本ペースだ！▽メダル量産！パラ五輪日本人勢の活躍詳細▽セ首位争いは大混戦！巨人＆阪神＆ヤクルト</desc>
+	<programme start="20210902000100 +0000" stop="20210902010000 +0000" channel="TBS2.jp">
+		<title lang="ja">よるのブランチ</title>
+		<desc lang="ja">もーりー兄弟がパンサー尾形・菅と最新猫カフェでバズる猫動画撮影に挑戦▽喉押さえマン密着！最新ファッションに大変身！？▽東京韓流デートに井上想良＆石川翔鈴が登場！</desc>
 	</programme>
-	<programme start="20210901000500 +0000" stop="20210901003500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">チマタの噺</title>
-		<desc lang="ja">鶴瓶とドランクドラゴン鈴木拓がぶっちゃけトーク！▼「はねるのトびら」での確執を爆笑告白！キングコングが嫌いだった!?▼相方・塚地はずっと金をめぐんでくれていた!?</desc>
+	<programme start="20210902010000 +0000" stop="20210902010300 +0000" channel="TBS2.jp">
+		<title lang="ja">ビジネス・クリック</title>
+		<desc lang="ja">最新の金融マーケット情報をＮＹから中継。
+注目の経済ニュースも</desc>
 	</programme>
 	<programme start="20210901003500 +0000" stop="20210901010500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">芸人動画チューズデー</title>
@@ -1050,9 +1053,13 @@
 		<title lang="ja">追跡 LIVE! SPORTS ウォッチャー</title>
 		<desc lang="ja">この日にあった最新のスポーツ情報をお届け！▽プロ野球＆MLBやサッカーさらに五輪競技を総力取材</desc>
 	</programme>
-	<programme start="20210831234000 +0000" stop="20210901003000 +0000" channel="FujiTV.jp">
-		<title lang="ja">FNN Live News α</title>
-		<desc lang="ja">デザインと立地に狙い新宿にＳＤＧｓ雑貨店▽大坂が全米ＯＰ初戦▽ＭＬＢ大谷最新情報</desc>
+	<programme start="20210902000500 +0000" stop="20210902004500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ただ離婚してないだけ</title>
+		<desc lang="ja">突然家に押しかけてきた佐野に、熱湯を浴びせた雪映（中村ゆり）。正隆（北山宏光）は「俺がトドメを刺す」と言うが…！？そして、凄まじい共同生活が始まることになる…。</desc>
+	</programme>
+	<programme start="20210902004500 +0000" stop="20210902011500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">来世ではちゃんとします2</title>
+		<desc lang="ja">内田理央主演！ＳＮＳで話題沸騰の人気漫画原作！性をこじらせた男女の赤裸々エロラブコメディドラマ待望の続編▼始まったセフレとの同棲生活！桃江、ついに恋人ができる？</desc>
 	</programme>
 	<programme start="20210901003000 +0000" stop="20210901013000 +0000" channel="FujiTV.jp">
 		<title lang="ja">好きな人がいること</title>
@@ -1134,17 +1141,13 @@
 		<title lang="ja">FNN Live News α</title>
 		<desc lang="ja">働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が三田友梨佳、金曜日は内田嶺衣奈。</desc>
 	</programme>
-	<programme start="20210831233000 +0000" stop="20210901000000 +0000" channel="Tokyo MX">
-		<title lang="ja">劇的に沈黙</title>
-		<desc lang="ja">本作は、東京都練馬区江古田を舞台に、とある芸術系大学で潰れかけの演劇サークルに所属する大学生たちが繰り広げる「気まずい」シチュエーション・コメディドラマです。</desc>
+	<programme start="20210902003000 +0000" stop="20210902010000 +0000" channel="FujiTV.jp">
+		<title lang="ja">東京ブロードウェイ</title>
+		<desc lang="ja">川崎鷹也…総再生回数３億回超え「魔法の絨毯」秘話！初めて聴いた時の愛妻の感想に仰天▽が〜まるちょば…「動くピクトグラム」パフォーマンス成功の裏側明かす</desc>
 	</programme>
-	<programme start="20210901000000 +0000" stop="20210901003000 +0000" channel="Tokyo MX">
-		<title lang="ja">WoW!Ho!TV</title>
-		<desc lang="ja">アート界の若い才能をもっと知りたい！もっと見たい！バイきんぐ小峠英二と元ＮＨＫ解説委員の中谷日出が注目の若手アーティストを紹介する新感覚のアートバラエティ</desc>
-	</programme>
-	<programme start="20210901003000 +0000" stop="20210901004500 +0000" channel="Tokyo MX">
-		<title lang="ja">異世界かるてっと2</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210902010000 +0000" stop="20210902013000 +0000" channel="FujiTV.jp">
+		<title lang="ja">NIGHT HEAD 2041</title>
+		<desc lang="ja">ユウヤは目覚めた能力により失踪直前の両親を幻視が、なぜか霧原兄弟の姿があって…。ユウヤは両親の失踪に霧原兄弟が関わっていることを確認する。</desc>
 	</programme>
 	<programme start="20210901004500 +0000" stop="20210901010000 +0000" channel="Tokyo MX">
 		<title lang="ja">異世界かるてっと2</title>
@@ -1333,5 +1336,13 @@
 	<programme start="20210902000000 +0000" stop="20210902003000 +0000" channel="Tokyo MX">
 		<title lang="ja">小林さんちのメイドラゴンS</title>
 		<desc lang="ja">＃９「いろいろワケがありまして（エルマざんまいです）」</desc>
+	</programme>
+	<programme start="20210902003000 +0000" stop="20210902010000 +0000" channel="Tokyo MX">
+		<title lang="ja">ソードアート・オンライン</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902010000 +0000" stop="20210902010500 +0000" channel="Tokyo MX">
+		<title lang="ja">コミックBAR Renta!</title>
+		<desc lang="ja">街角にひっそりと佇む「コミックＢＡＲ　Ｒｅｎｔａ！」マンガ好きのマスター森嶋秀太が毎週男性声優ゲストに話題のマンガを紹介！</desc>
 	</programme>
 </tv>
