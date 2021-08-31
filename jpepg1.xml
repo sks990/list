@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831130700 +0000" stop="20210831145900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　女子シングルス・準々決勝「大谷桃子×ディーデ・デ　フロート」（中継）　【出演】吉田沙保里，千葉絵里菜，猪狩ともか，熊谷晋一郎ほか</desc>
-  </programme>
   <programme start="20210831145900 +0000" stop="20210831150000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -258,22 +254,18 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇ボッチャ　個人　ＢＣ４・決勝（録画）　【出演】増田明美，伊藤亜紗，佳山明，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀ほか</desc>
   </programme>
-	<programme start="20210831135000 +0000" stop="20210831140000 +0000" channel="eTele.jp">
-		<title lang="ja">視点・論点</title>
-		<desc lang="ja">「新型コロナ　子どもを感染から守る」和田耕治（国際医療福祉大学教授）</desc>
-	</programme>
-	<programme start="20210831140000 +0000" stop="20210831141000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 あらためまして ベーシック国語</title>
-		<desc lang="ja">国語の基本を学ぶ講座バラエティー。滝沢カレンと金田一秀穂先生、謎のオウムが国語の授業を行う。今回は「故事成語」。言葉の由来を知りカレンは故事成語を使いこなせるか</desc>
-	</programme>
-	<programme start="20210831141000 +0000" stop="20210831143000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 国語表現</title>
-		<desc lang="ja">「国語表現」は「話す」、「聞く」、「書く」など言語感覚を磨いて、表現する能力の向上をめざす教科です。今回のテーマは「言葉遊び・漢字パズル」です。</desc>
-	</programme>
-	<programme start="20210831143000 +0000" stop="20210831144000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 ビジネス基礎</title>
-		<desc lang="ja">高校講座「ビジネス基礎」第９回は「証券会社」について学びます。出演は前野朋哉さんと濱尾咲綺さんです。</desc>
-	</programme>
+  <programme start="20210901143800 +0000" stop="20210901144000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">新型コロナ 命を守る行動を</title>
+    <desc lang="ja">以前インフルエンザのワクチン接種で重い副反応に見舞われた女性。不安を解消するために信頼できる情報を自ら集め、十分納得して接種の決断に至ったプロセスを紹介する。</desc>
+  </programme>
+  <programme start="20210901144000 +0000" stop="20210901144500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210901144500 +0000" stop="20210901165000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇ゴールボール　女子・準々決勝「日本×イスラエル」（中継）◇ゴールボール　女子・準々決勝「日本×イスラエル」（中継）　【出演】増田明美，伊藤亜紗，佳山明ほか</desc>
+  </programme>
 	<programme start="20210831144000 +0000" stop="20210831150000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK高校講座 生物基礎</title>
 		<desc lang="ja">最先端の生物の専門家が自らの研究を基に、高校での生物基礎の学習内容と関係づけわかりやすく伝えながら、生物を学ぶ魅力を伝える。</desc>
@@ -585,6 +577,18 @@
 	<programme start="20210901140000 +0000" stop="20210901142000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK高校講座 化学基礎</title>
 		<desc lang="ja">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
+	</programme>
+	<programme start="20210901142000 +0000" stop="20210901144000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 物理基礎</title>
+		<desc lang="ja">射的銃のコルク玉は標的を倒すことができるが、コルク玉に「力」はない。では何が標的を倒すのか？物理家（ものりけ）の射的大会で「運動エネルギー」について考える。</desc>
+	</programme>
+	<programme start="20210901144000 +0000" stop="20210901150000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 地学基礎</title>
+		<desc lang="ja">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は人類が繁栄し、世界中に広がった新生代について学びます</desc>
+	</programme>
+	<programme start="20210901150000 +0000" stop="20210901152500 +0000" channel="eTele.jp">
+		<title lang="ja">NHK俳句</title>
+		<desc lang="ja">初心者向け俳句講座。選者は櫂未知子さん。ゲストは田中要次さん。題は「枝豆」夏の食べ物と思われがちだが、実は秋の季語。今回は間違えやすい季語を紹介。司会　塚地武雅</desc>
 	</programme>
 	<programme start="20210831135500 +0000" stop="20210831155000 +0000" channel="NipponTV.jp">
 		<title lang="ja">情報ライブ ミヤネ屋</title>
@@ -1072,10 +1076,6 @@ by.Laura Pausini</desc>
 		<title lang="ja">午後のロードショー</title>
 		<desc lang="ja">通話だけで少女を救え！拉致された少女からの電話。緊急電話911の女性オペレーターが少女を救出するため残忍な殺人鬼と対峙する！ハル・ベリー主演、緊迫のサスペンス！</desc>
 	</programme>
-	<programme start="20210831115500 +0000" stop="20210831144500 +0000" channel="FujiTV.jp">
-		<title lang="ja">バイキングMORE</title>
-		<desc lang="ja">愛知県で密＆酒提供野外フェス「危険な状況だった」▽東京新規１９１５人感染…明日から新学期開始で子どもたちどう守る？▽硫酸凶行止めるには…法整備どうする</desc>
-	</programme>
 	<programme start="20210831144500 +0000" stop="20210831154500 +0000" channel="FujiTV.jp">
 		<title lang="ja">HERO</title>
 		<desc lang="ja">主演木村拓哉！久利生と麻木の前に立ちはだかるエリート弁護士…初犯の金持ちと常習犯の貧乏人、二人の痴漢の嘘と謎！真実と正義を守る女たちの戦い</desc>
@@ -1164,17 +1164,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナがおぎやはぎと豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！３時間生放送</desc>
 	</programme>
-	<programme start="20210831135500 +0000" stop="20210831140000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210831140000 +0000" stop="20210831143000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210831143000 +0000" stop="20210831145900 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210901144500 +0000" stop="20210901154500 +0000" channel="FujiTV.jp">
+		<title lang="ja">HERO</title>
+		<desc lang="ja">コンビ解消の危機！？城西支部に愛と憎しみが吹き荒れる！被害者遺族に恨まれた田村と、違法薬物の取り調べを担当する久利生。真正面から向き合うことの奥にある真実とは。</desc>
 	</programme>
 	<programme start="20210831145900 +0000" stop="20210831150000 +0000" channel="Tokyo MX">
 		<title lang="ja">フラッシュ天気</title>
@@ -1357,6 +1349,18 @@ by.Laura Pausini</desc>
 		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
 	</programme>
 	<programme start="20210901140000 +0000" stop="20210901143000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901143000 +0000" stop="20210901145900 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901145900 +0000" stop="20210901150000 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901150000 +0000" stop="20210901153000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
