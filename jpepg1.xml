@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831205900 +0000" stop="20210831210000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210831210000 +0000" stop="20210831213000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュースウオッチ9</title>
-    <desc lang="ja">▽アフガニスタン米軍撤退期限・現地最新事情は？米バイデン外交その行方は▽増え続ける新型コロナ重症患者対策は？</desc>
-  </programme>
   <programme start="20210831213000 +0000" stop="20210831221500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすバスケットボール　女子・準々決勝「日本×オランダ」【出演】吉田沙保里，櫻井翔，猪狩ともか，【アナウンサー】瀬田宙大，和久田麻由子，ほか</desc>
@@ -262,22 +254,10 @@
     <title lang="ja">ニュースウオッチ9</title>
     <desc lang="ja">▽感染拡大のさなかで始まる新学期・子どもたちの安全は守れるか意識調査で見えたもの▽アフガニスタン続報▽プロ野球速報</desc>
   </programme>
-	<programme start="20210831204500 +0000" stop="20210831210000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK手話ニュース845</title>
-		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-	</programme>
-	<programme start="20210831210000 +0000" stop="20210831212500 +0000" channel="eTele.jp">
-		<title lang="ja">きょうの料理</title>
-		<desc lang="ja">２０１８年度、放送文化賞を受賞した江上栄子さんを特集した回の再放送。義母・江上トミさんの代から続く料理学校で栄子さんが教える次世代へ伝えたい「味」と「心」とは。</desc>
-	</programme>
-	<programme start="20210831212500 +0000" stop="20210831213000 +0000" channel="eTele.jp">
-		<title lang="ja">きょうの料理ビギナーズ</title>
-		<desc lang="ja">「“めんつゆ”でラクラク！」甘さと辛さのバランスがよく、だしの風味が効いた“めんつゆ”をおかずに大活用。簡単に味が決まる！２０１８年８月のアンコール。</desc>
-	</programme>
-	<programme start="20210831213000 +0000" stop="20210831215500 +0000" channel="eTele.jp">
-		<title lang="ja">趣味どきっ!</title>
-		<desc lang="ja">初心者向けスマホ講座。アイフォンとアンドロイド両方に対応。今回はスマホで健康管理ができるアプリを紹介。歩数計、睡眠管理、お薬手帳など。</desc>
-	</programme>
+  <programme start="20210901213000 +0000" stop="20210901221500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇陸上　女子１００ｍ　Ｔ３７・予選ほか（中継）　【出演】増田明美，櫻井翔，保原浩明，千葉絵里菜，後藤佑季，【アナウンサー】中野淳，杉浦友紀，中川安奈ほか</desc>
+  </programme>
 	<programme start="20210831215500 +0000" stop="20210831220000 +0000" channel="eTele.jp">
 		<title lang="ja">まる得マガジン</title>
 		<desc lang="ja">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
@@ -578,13 +558,21 @@
 		<title lang="ja">きょうの料理</title>
 		<desc lang="ja">四季折々の暮らしに合う保存食と手仕事を紹介するシリーズの再放送。ムラヨシマサユキさんに夏の果実でピュレ、シロップ、ジャムなど果実の個性を楽しめる保存食を教わる。</desc>
 	</programme>
-	<programme start="20210831205400 +0000" stop="20210831210000 +0000" channel="NipponTV.jp">
-		<title lang="ja">まもなく仰天ニュース</title>
-		<desc lang="ja">芸能人がまさかの事件を熱演！▽生駒里奈は血まみれになり恋が芽生えた！松井玲奈は前歯が飛んだことがきっかけで結婚！▽鶴瓶は半裸！中居は女装の爆笑演技！</desc>
+	<programme start="20210901212500 +0000" stop="20210901213000 +0000" channel="eTele.jp">
+		<title lang="ja">きょうの料理ビギナーズ</title>
+		<desc lang="ja">「ほったらかしでＯＫ！“ホイル焼き”」材料をアルミ箔（はく）で包んでグリルで焼くだけの簡単おかずを２品紹介する。２０１８年８月のアンコール。</desc>
 	</programme>
-	<programme start="20210831210000 +0000" stop="20210831215400 +0000" channel="NipponTV.jp">
-		<title lang="ja">ザ!世界仰天ニュース</title>
-		<desc lang="ja">鶴瓶中居も熱演…誕生日ケーキで地獄と天国＆足痺れてダイブ＆肛門にアレが刺さった＆筋トレでアゴ出血＆パーカーに蜂＆天井から落ちた女＆ソーセージで前歯飛んだ</desc>
+	<programme start="20210901213000 +0000" stop="20210901215500 +0000" channel="eTele.jp">
+		<title lang="ja">趣味どきっ!</title>
+		<desc lang="ja">台所。それは人の胃袋と心を満たす、食が生まれる大切な場所。暮らしの達人たちの知恵と工夫を美しい映像と珠玉の言葉で紡ぐ。待望の新シリーズ！あなたにとって台所とは？</desc>
+	</programme>
+	<programme start="20210901215500 +0000" stop="20210901220000 +0000" channel="eTele.jp">
+		<title lang="ja">まる得マガジン</title>
+		<desc lang="ja">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
+	</programme>
+	<programme start="20210901220000 +0000" stop="20210901224500 +0000" channel="eTele.jp">
+		<title lang="ja">福島をずっと見ているTV</title>
+		<desc lang="ja">巨大人形「モッコ」が東北を行く―番組ＭＣ箭内さんが企画した東京五輪公式文化プログラムだ。東北の被災地を巡り、人々の思いを世界へ発信するはずが…。又吉直樹さんも！</desc>
 	</programme>
 	<programme start="20210831215400 +0000" stop="20210831220000 +0000" channel="NipponTV.jp">
 		<title lang="ja">元気のアプリ</title>
@@ -678,15 +666,13 @@
 		<title lang="ja">今夜くらべてみました</title>
 		<desc lang="ja">となりのトトロ、魔女の宅急便、ハウルの動く城など…大人たちの人生を変えたジブリ作品の名シーンが続々登場！さらに宮崎吾朗監督も特別出演！ジブリご飯のレシピ公開！</desc>
 	</programme>
-	<programme start="20210831184500 +0000" stop="20210831214800 +0000" channel="Asahi.jp">
-		<title lang="ja">ロンドンハーツ</title>
-		<desc lang="ja">今夜は２大企画！！
-①パンサー・ジャンポケ・ミキ…に『○○からのー落とし穴グランプリ』
-②千鳥＆かまいたち…『もしも俺が女子だったら…この人と付き合いたい』</desc>
+	<programme start="20210901215400 +0000" stop="20210901220000 +0000" channel="NipponTV.jp">
+		<title lang="ja">心に刻む風景</title>
+		<desc lang="ja">歴史に名を残す人物の誕生の地や活躍の舞台、終の棲家などを訪ねます。今も残る建物や風景から彼らの人生が浮かび上がってきます。ナレーターは歌舞伎役者・中村吉右衛門。</desc>
 	</programme>
-	<programme start="20210831214800 +0000" stop="20210831215400 +0000" channel="Asahi.jp">
-		<title lang="ja">世界の街道をゆく</title>
-		<desc lang="ja">歴史と文学が息づく道・イングランド</desc>
+	<programme start="20210901220000 +0000" stop="20210901230000 +0000" channel="NipponTV.jp">
+		<title lang="ja">ハコヅメ〜たたかう!交番女子〜</title>
+		<desc lang="ja">ワケあり元エース刑事×ひよっこ新米警官の凸凹ペアが街の平和のために駆け回る！“お巡りさん”のリアルな日常と本音がダダ漏れ！笑いあり涙ありの交番女子物語！！</desc>
 	</programme>
 	<programme start="20210831215400 +0000" stop="20210831231000 +0000" channel="Asahi.jp">
 		<title lang="ja">報道ステーション</title>
@@ -811,6 +797,10 @@ by.Laura Pausini</desc>
 		<title lang="ja">刑事7人</title>
 		<desc lang="ja">東山紀之主演ドラマ『刑事７人』待望の第７シリーズ！個性派揃いのスペシャリスト集団が、時代と共に進化する≪超凶悪犯罪≫や≪未解決難事件≫に挑む！</desc>
 	</programme>
+	<programme start="20210901215400 +0000" stop="20210901231000 +0000" channel="Asahi.jp">
+		<title lang="ja">報道ステーション</title>
+		<desc lang="ja">「きょう、色々。」こだわりのトップニュースに、ダイナミックなスタジオ展開！きょう知りたいニュースを“もっと深く、もっとカラフル”にお伝えします！</desc>
+	</programme>
 	<programme start="20210831205700 +0000" stop="20210831220000 +0000" channel="TBS2.jp">
 		<title lang="ja">マツコの知らない世界</title>
 		<desc lang="ja">🈑KREVAのエナジーを注げるフェイバリット文房具！文房具と自身の楽曲の共通点とは？▽マツコ朝方人間になる？激うま朝ラーメン！朝ラーの聖地</desc>
@@ -868,7 +858,7 @@ by.Laura Pausini</desc>
 	</programme>
 	<programme start="20210901060000 +0000" stop="20210901080000 +0000" channel="TBS2.jp">
 		<title lang="ja">あさチャン!</title>
-		<desc lang="ja">メインキャスターは夏目三久。きのうからけさまでの注目ニュースを総ざらい。世界の今がライブでわかる。専門知識豊富なゲストが独自の視点でより深い情報をお届けする。</desc>
+		<desc lang="ja">重症者ゼロ墨田区の取り組みとは▽ワクチン3回目接種…現場の医療従事者から切実な声▽動物園飼育員のウラ側▽綾瀬はるかがコロナ感染で入院▽川口春奈▽橋本環奈×Ado</desc>
 	</programme>
 	<programme start="20210901080000 +0000" stop="20210901095500 +0000" channel="TBS2.jp">
 		<title lang="ja">ラヴィット!</title>
@@ -902,9 +892,9 @@ by.Laura Pausini</desc>
 相手は現在１５連勝中、同級２位メキシコのロドリゲス
 ゲストに五輪金メダル入江聖奈を迎える！</desc>
 	</programme>
-	<programme start="20210831205400 +0000" stop="20210831215400 +0000" channel="TVTokyo.jp">
-		<title lang="ja">開運!なんでも鑑定団</title>
-		<desc lang="ja">■仏壇から発見＜日本のゴーギャン＞作！？…超絶＜掛け軸＞驚き値■超貴重！＜幻のロシア秘石＞…まさかの衝撃鑑定額■新幹線＆ディズニー…＜鉄道グッズ＞鑑定大会■</desc>
+	<programme start="20210901220000 +0000" stop="20210901230000 +0000" channel="TBS2.jp">
+		<title lang="ja">水曜日のダウンタウン</title>
+		<desc lang="ja">「クロちゃん部屋ごと無人島生活」がついに完結！島に散った7つのボール全てを集めたクロちゃんの願い事とは？そして、無人島ワープからの意外すぎる展開とは？</desc>
 	</programme>
 	<programme start="20210831215400 +0000" stop="20210831220000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">東京交差点</title>
@@ -1072,13 +1062,14 @@ by.Laura Pausini</desc>
 		<title lang="ja">水バラ</title>
 		<desc lang="ja">太川陽介vs河合郁人！今回の舞台は夏の信州で茅野から上田城を目指す！立ちはだかる八ヶ岳の壁！後がない河合は勝つことができるのか！？いざ上田決戦へ！</desc>
 	</programme>
-	<programme start="20210831200000 +0000" stop="20210831210000 +0000" channel="FujiTV.jp">
-		<title lang="ja">潜在能力テスト</title>
-		<desc lang="ja">知っておきたい料理の豆知識＆ヒット商品の初代パッケージ＆公募でついた名前Ｑ▽新テスト！公園遊具に㊙変化…推理せよ▽伝説アイドル佐藤アツヒロ珍事件×Ｊ井上×乃木坂</desc>
+	<programme start="20210901215400 +0000" stop="20210901220000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">Ｄの旋律〜ダンスと映画と音楽と〜</title>
+		<desc lang="ja">ヴァイオリニスト古澤巖が奏でる名曲にのせて、日本の社交ダンス界のトッププロがダンスを披露する。今回は映画「ひまわり」より
+「Loss　of　Love」</desc>
 	</programme>
-	<programme start="20210831210000 +0000" stop="20210831215400 +0000" channel="FujiTV.jp">
-		<title lang="ja">彼女はキレイだった</title>
-		<desc lang="ja">「愛情と友情の狭間！仲間たちの絆と決意」中島健人　小芝風花　赤楚衛二　佐久間由衣</desc>
+	<programme start="20210901220000 +0000" stop="20210901225800 +0000" channel="TVTokyo.jp">
+		<title lang="ja">WBS</title>
+		<desc lang="ja">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 	</programme>
 	<programme start="20210831215400 +0000" stop="20210831220000 +0000" channel="FujiTV.jp">
 		<title lang="ja">村雨式調理</title>
@@ -1164,13 +1155,13 @@ by.Laura Pausini</desc>
 		<title lang="ja">ホンマでっか!?TV</title>
 		<desc lang="ja">りんたろー。×井戸田×アイン稲田！理想の肌は綾瀬はるか！２０万円の美顔器！無人島ロケは肌が荒れるからＮＧ！もっとキレイになれる方法を専門家が伝授</desc>
 	</programme>
-	<programme start="20210831200000 +0000" stop="20210831210000 +0000" channel="Tokyo MX">
-		<title lang="ja">news TOKYO FLAG</title>
-		<desc lang="ja">墨田区の女子高生に一体何が…死体遺棄事件の最新情報は▼止まらない感染拡大　都内の感染状況は▼赤ちゃんパンダの最新映像　すくすく成長中…！</desc>
+	<programme start="20210901215400 +0000" stop="20210901220000 +0000" channel="FujiTV.jp">
+		<title lang="ja">おふくろ、もう一杯</title>
+		<desc lang="ja">「もう一杯！」と思わず言ってしまうようなカツオ・昆布・いりこなどの出汁（だし）が効いた日本全国のこだわり料理を紹介します</desc>
 	</programme>
-	<programme start="20210831210000 +0000" stop="20210831215400 +0000" channel="Tokyo MX">
-		<title lang="ja">バラいろダンディ</title>
-		<desc lang="ja">知の巨人ロバートキャンベルが語る！目からウロコの東京衣食住</desc>
+	<programme start="20210901220000 +0000" stop="20210901225400 +0000" channel="FujiTV.jp">
+		<title lang="ja">突然ですが占ってもいいですか?</title>
+		<desc lang="ja">大竹しのぶ…芸歴４８年！大女優の知られざる衝撃実態⁉母の顔＆意外な結婚生活も▽トリンドル姉妹…恋愛のライバル⁉赤裸々㊙事情が次々に！謎の家族関係も⁉</desc>
 	</programme>
 	<programme start="20210831215400 +0000" stop="20210831220000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1363,5 +1354,13 @@ by.Laura Pausini</desc>
 	<programme start="20210901210000 +0000" stop="20210901215400 +0000" channel="Tokyo MX">
 		<title lang="ja">バラいろダンディ</title>
 		<desc lang="ja">ふかわりょう＆大島由香里と安東弘樹＆前園真聖が「美と健康」をダンディに語らう１時間。世界的アームレスラー・近藤忠のナイトルーティンとは？</desc>
+	</programme>
+	<programme start="20210901215400 +0000" stop="20210901220000 +0000" channel="Tokyo MX">
+		<title lang="ja">別冊オリンピア・キュクロス</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901220000 +0000" stop="20210901223000 +0000" channel="Tokyo MX">
+		<title lang="ja">チート薬師のスローライフ〜異世界に作ろうドラッグストア〜</title>
+		<desc lang="ja">本日の処方箋　その①爆釣れ君　その②毛トリーヌ</desc>
 	</programme>
 </tv>
