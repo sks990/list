@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831193000 +0000" stop="20210831202400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇競泳　混合４００ｍリレー　４９ポイント・決勝ほか（中継）　【出演】吉田沙保里，櫻井翔，猪狩ともか，三上大進，【アナウンサー】瀬田宙大，和久田麻由子ほか</desc>
-  </programme>
-  <programme start="20210831202400 +0000" stop="20210831205900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすバスケットボール　女子・準々決勝「日本×オランダ」【出演】吉田沙保里，櫻井翔，猪狩ともか，【アナウンサー】瀬田宙大，和久田麻由子ほか</desc>
-  </programme>
   <programme start="20210831205900 +0000" stop="20210831210000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -262,14 +254,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇陸上　女子１００ｍ　Ｔ１２・予選ほか（中継）　【出演】増田明美，櫻井翔，保原浩明，千葉絵里菜，後藤佑季，【アナウンサー】中野淳，杉浦友紀，中川安奈ほか</desc>
   </programme>
-	<programme start="20210831185000 +0000" stop="20210831204400 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇陸上　女子走り幅跳び　Ｔ３８・決勝、男子４００ｍ　Ｔ２０・決勝、男子４００ｍ　Ｔ３８・決勝、女子２００ｍ　Ｔ６４・決勝、女子１００ｍ　Ｔ１１・決勝、</desc>
-	</programme>
-	<programme start="20210831204400 +0000" stop="20210831204500 +0000" channel="eTele.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-	</programme>
+  <programme start="20210901205900 +0000" stop="20210901210000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210901210000 +0000" stop="20210901213000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュースウオッチ9</title>
+    <desc lang="ja">▽感染拡大のさなかで始まる新学期・子どもたちの安全は守れるか意識調査で見えたもの▽アフガニスタン続報▽プロ野球速報</desc>
+  </programme>
 	<programme start="20210831204500 +0000" stop="20210831210000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK手話ニュース845</title>
 		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
@@ -570,9 +562,21 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇ボッチャ　個人　ＢＣ２・決勝「杉村英孝×ワッチャラポン・ボンサー」（中継）　【アナウンサー】大澤幹朗，【ボッチャ】解説…新井大基，アナウンサー…佐々生佳典</desc>
 	</programme>
-	<programme start="20210831195600 +0000" stop="20210831205400 +0000" channel="NipponTV.jp">
-		<title lang="ja">踊る!さんま御殿!!</title>
-		<desc lang="ja">郷ひろみがナゾに包まれた㊙食生活を告白！リュウジが教える簡単絶品グルメにさんまもメロメロ⁉カレーマニアが今注目するカレー＆グルメ芸能人がとっておきの逸品を紹介！</desc>
+	<programme start="20210901203000 +0000" stop="20210901204400 +0000" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">◇車いすバスケットボール　男子・準々決勝「日本×オーストラリア」（中継）【アナウンサー】大澤幹朗，【車いすバスケットボール】解説…森紀之，アナウンサー…酒匂飛鳥</desc>
+	</programme>
+	<programme start="20210901204400 +0000" stop="20210901204500 +0000" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	</programme>
+	<programme start="20210901204500 +0000" stop="20210901210000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース845</title>
+		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+	</programme>
+	<programme start="20210901210000 +0000" stop="20210901212500 +0000" channel="eTele.jp">
+		<title lang="ja">きょうの料理</title>
+		<desc lang="ja">四季折々の暮らしに合う保存食と手仕事を紹介するシリーズの再放送。ムラヨシマサユキさんに夏の果実でピュレ、シロップ、ジャムなど果実の個性を楽しめる保存食を教わる。</desc>
 	</programme>
 	<programme start="20210831205400 +0000" stop="20210831210000 +0000" channel="NipponTV.jp">
 		<title lang="ja">まもなく仰天ニュース</title>
@@ -669,6 +673,10 @@
 	<programme start="20210901200000 +0000" stop="20210901210000 +0000" channel="NipponTV.jp">
 		<title lang="ja">1億人の大質問!?笑ってコラえて!</title>
 		<desc lang="ja">鶏肉＆いわし＆にんじんを使って料理経験ほぼゼロの女子大生にスペシャルゲスト杏が簡単美味レシピ伝授▼大好きな母親に花束を▼ダーツ旅in大分県野津原！ウナギ漁に密着</desc>
+	</programme>
+	<programme start="20210901210000 +0000" stop="20210901215400 +0000" channel="NipponTV.jp">
+		<title lang="ja">今夜くらべてみました</title>
+		<desc lang="ja">となりのトトロ、魔女の宅急便、ハウルの動く城など…大人たちの人生を変えたジブリ作品の名シーンが続々登場！さらに宮崎吾朗監督も特別出演！ジブリご飯のレシピ公開！</desc>
 	</programme>
 	<programme start="20210831184500 +0000" stop="20210831214800 +0000" channel="Asahi.jp">
 		<title lang="ja">ロンドンハーツ</title>
@@ -795,18 +803,13 @@ by.Laura Pausini</desc>
 		<title lang="ja">あいつ今何してる?</title>
 		<desc lang="ja">沢口靖子デビュー作を支えた恩人＆朝ドラで産んだ双子の赤ちゃんは今▽成城学園同級生・三浦祐太朗＆三四郎▽コロッケ、高校時代バンド仲間との再会に涙▽高橋英樹</desc>
 	</programme>
-	<programme start="20210831190000 +0000" stop="20210831200000 +0000" channel="TBS2.jp">
-		<title lang="ja">オトラクション</title>
-		<desc lang="ja">🈑☆東京五輪銀メダル！女子バスケ日本代表エブリンがテレビ初本気熱唱！
-☆GENERATIONS亜嵐が必死ダイブ＆メンディー裸になって本気ダンス！…ブチギレ！？</desc>
+	<programme start="20210901205400 +0000" stop="20210901210000 +0000" channel="Asahi.jp">
+		<title lang="ja">世界の街道をゆく</title>
+		<desc lang="ja">今に受け継ぐニューディール政策の道・アメリカ</desc>
 	</programme>
-	<programme start="20210831200000 +0000" stop="20210831205400 +0000" channel="TBS2.jp">
-		<title lang="ja">バナナサンド</title>
-		<desc lang="ja">🈑サンドがカロリー無視の激うま料理を振る舞う新企画『レストランバカロリー』開店！ストイック集団ＬＤＨが超ハイカロリー飯まさかの爆食い＆爆笑ノーリアクション対決も</desc>
-	</programme>
-	<programme start="20210831205400 +0000" stop="20210831205700 +0000" channel="TBS2.jp">
-		<title lang="ja">フラッシュニュース</title>
-		<desc lang="ja">最新のニュースをお伝えします。</desc>
+	<programme start="20210901210000 +0000" stop="20210901215400 +0000" channel="Asahi.jp">
+		<title lang="ja">刑事7人</title>
+		<desc lang="ja">東山紀之主演ドラマ『刑事７人』待望の第７シリーズ！個性派揃いのスペシャリスト集団が、時代と共に進化する≪超凶悪犯罪≫や≪未解決難事件≫に挑む！</desc>
 	</programme>
 	<programme start="20210831205700 +0000" stop="20210831220000 +0000" channel="TBS2.jp">
 		<title lang="ja">マツコの知らない世界</title>
@@ -893,9 +896,11 @@ by.Laura Pausini</desc>
 		<title lang="ja">東大王</title>
 		<desc lang="ja">全国１０１７人のクイズ高校生の頂点が決まる…泣いた！笑った！生徒も顧問の先生も…クイズに捧げた熱い夏▽日本一の高校ＶＳ東大王鶴崎＆川上さらに一夜限り伊沢が復活！</desc>
 	</programme>
-	<programme start="20210831182500 +0000" stop="20210831205400 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ありえへん∞世界</title>
-		<desc lang="ja">▼体重２９８ｋｇのおデブ女性が激ヤセ！美女に大変身▼怪奇…エアコン３００台壊れた㊙ミステリー旅館▼令和の新世代モノマネ＆アフリカで一番有名な日本語⁉</desc>
+	<programme start="20210901210000 +0000" stop="20210901220000 +0000" channel="TBS2.jp">
+		<title lang="ja">WBO世界スーパーフライ級タイトルマッチ 井岡一翔×ロドリゲス</title>
+		<desc lang="ja">日本人史上初にして唯一の世界４階級王者・井岡一翔が3度目の防衛戦。
+相手は現在１５連勝中、同級２位メキシコのロドリゲス
+ゲストに五輪金メダル入江聖奈を迎える！</desc>
 	</programme>
 	<programme start="20210831205400 +0000" stop="20210831215400 +0000" channel="TVTokyo.jp">
 		<title lang="ja">開運!なんでも鑑定団</title>
@@ -1067,10 +1072,6 @@ by.Laura Pausini</desc>
 		<title lang="ja">水バラ</title>
 		<desc lang="ja">太川陽介vs河合郁人！今回の舞台は夏の信州で茅野から上田城を目指す！立ちはだかる八ヶ岳の壁！後がない河合は勝つことができるのか！？いざ上田決戦へ！</desc>
 	</programme>
-	<programme start="20210831190000 +0000" stop="20210831200000 +0000" channel="FujiTV.jp">
-		<title lang="ja">今夜はナゾトレ</title>
-		<desc lang="ja">東京五輪金メダリスト参戦！柔道ウルフアロンＶＳフェンシング見延和靖！見たけどアレ何だっけ？いま知っておきたい五輪の常識Ｑ▽ジャニーズ７ＭＥＮ侍ＶＳもう中学生</desc>
-	</programme>
 	<programme start="20210831200000 +0000" stop="20210831210000 +0000" channel="FujiTV.jp">
 		<title lang="ja">潜在能力テスト</title>
 		<desc lang="ja">知っておきたい料理の豆知識＆ヒット商品の初代パッケージ＆公募でついた名前Ｑ▽新テスト！公園遊具に㊙変化…推理せよ▽伝説アイドル佐藤アツヒロ珍事件×Ｊ井上×乃木坂</desc>
@@ -1159,9 +1160,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">林修のニッポンドリル</title>
 		<desc lang="ja">ギャル曽根・業務田スー子が激安商品を大量買い＆アレンジ料理▽オーケーのお弁当はなぜここまで安くて美味い？潜入調査でカラクリ発見</desc>
 	</programme>
-	<programme start="20210831190000 +0000" stop="20210831200000 +0000" channel="Tokyo MX">
-		<title lang="ja">空手バカ一代</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210901210000 +0000" stop="20210901215400 +0000" channel="FujiTV.jp">
+		<title lang="ja">ホンマでっか!?TV</title>
+		<desc lang="ja">りんたろー。×井戸田×アイン稲田！理想の肌は綾瀬はるか！２０万円の美顔器！無人島ロケは肌が荒れるからＮＧ！もっとキレイになれる方法を専門家が伝授</desc>
 	</programme>
 	<programme start="20210831200000 +0000" stop="20210831210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
@@ -1358,5 +1359,9 @@ by.Laura Pausini</desc>
 	<programme start="20210901200000 +0000" stop="20210901210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
 		<desc lang="ja">墨田区の女子高生が遺体となって見つかった事件…女子高生に一体何が？最新情報は…▼親子２人が犠牲になった池袋事故…判決を前に遺族の思いは▼ゲストは若新雄純さん</desc>
+	</programme>
+	<programme start="20210901210000 +0000" stop="20210901215400 +0000" channel="Tokyo MX">
+		<title lang="ja">バラいろダンディ</title>
+		<desc lang="ja">ふかわりょう＆大島由香里と安東弘樹＆前園真聖が「美と健康」をダンディに語らう１時間。世界的アームレスラー・近藤忠のナイトルーティンとは？</desc>
 	</programme>
 </tv>
