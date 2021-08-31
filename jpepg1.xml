@@ -50,26 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210831175900 +0000" stop="20210831180000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210831180000 +0000" stop="20210831181000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210831181000 +0000" stop="20210831183000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">首都圏ネットワーク</title>
-    <desc lang="ja">▼死体遺棄事件　なぜ事件が起きた？逮捕の夫婦との関係は？捜査の最新情報▼都内新規感染２９０９人　９日連続で前週同じ曜日を下回る。</desc>
-  </programme>
-  <programme start="20210831183000 +0000" stop="20210831184400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇競泳　女子１００ｍ自由形　Ｓ７・決勝ほか（中継）　【出演】吉田沙保里，千葉絵里菜，猪狩ともか，熊谷晋一郎，三上大進，【アナウンサー】瀬田宙大，和久田麻由子ほか</desc>
-  </programme>
-  <programme start="20210831184400 +0000" stop="20210831184500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
   <programme start="20210831184500 +0000" stop="20210831190000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">首都圏ネットワーク</title>
     <desc lang="ja">▼新型コロナ　都内新規感染２９０９人。▼埼玉県で始まった遠隔ＩＣＵシステム。県内医療機関の集中治療室をネットで結び診療支援を行う試みをリポート。</desc>
@@ -262,22 +242,26 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210831175500 +0000" stop="20210831180000 +0000" channel="eTele.jp">
-		<title lang="ja">オトッペ</title>
-		<desc lang="ja">音から生まれた不思議な生きもの・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
-	</programme>
-	<programme start="20210831180000 +0000" stop="20210831181000 +0000" channel="eTele.jp">
-		<title lang="ja">わしも</title>
-		<desc lang="ja">おばあちゃん型ロボット「わしも」が、小学生の女の子「ひよりちゃん」のもとにやってきた。新幹線より速いスーパーおばあちゃんが、楽しい騒動を巻き起こす！</desc>
-	</programme>
-	<programme start="20210831181000 +0000" stop="20210831182000 +0000" channel="eTele.jp">
-		<title lang="ja">忍たま乱太郎</title>
-		<desc lang="ja">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
-	</programme>
-	<programme start="20210831182000 +0000" stop="20210831185000 +0000" channel="eTele.jp">
-		<title lang="ja">天才てれびくんhello，</title>
-		<desc lang="ja">世界で活躍（かつやく）するダンスユニット・シットキングスとてれび戦士によるダンスのスペシャルコラボ企画！「音ダンス」「ことばダンス」「物ダンス」ってなんだ！？</desc>
-	</programme>
+  <programme start="20210901181000 +0000" stop="20210901183000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">首都圏ネットワーク</title>
+    <desc lang="ja">首都圏１都６県で注目のニュース、生活に役立つ情報を高井正智・林田理沙が現場を駆け抜け、街を訪ね歩いた経験を基にいち早く、より深くお伝えします。</desc>
+  </programme>
+  <programme start="20210901183000 +0000" stop="20210901184400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇競泳　男子２００ｍ個人メドレー　ＳＭ９・決勝、女子２００ｍ個人メドレー　ＳＭ９・決勝ほか（中継）　【出演】増田明美，伊藤亜紗，佳山明，萩原智子，三上大進ほか</desc>
+  </programme>
+  <programme start="20210901184400 +0000" stop="20210901184500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210901184500 +0000" stop="20210901190000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">首都圏ネットワーク</title>
+    <desc lang="ja">ニュース・気象情報、新型コロナ感染状況、生活への影響などをくわしくお伝えします。</desc>
+  </programme>
+  <programme start="20210901190000 +0000" stop="20210901193000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース7</title>
+    <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】上原光紀，栗原望，【気象キャスター】平野有海</desc>
+  </programme>
 	<programme start="20210831185000 +0000" stop="20210831204400 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇陸上　女子走り幅跳び　Ｔ３８・決勝、男子４００ｍ　Ｔ２０・決勝、男子４００ｍ　Ｔ３８・決勝、女子２００ｍ　Ｔ６４・決勝、女子１００ｍ　Ｔ１１・決勝、</desc>
@@ -682,9 +666,9 @@
 		<title lang="ja">news every.</title>
 		<desc lang="ja">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
 	</programme>
-	<programme start="20210831164000 +0000" stop="20210831184500 +0000" channel="Asahi.jp">
-		<title lang="ja">スーパーJチャンネル</title>
-		<desc lang="ja">渋谷ワクチンで混乱は…モデルナ異物混入なぜ…製造過程で？安全性は▽“自主休校”のワケ▽“真夜中の清掃人”依頼急増コロナ禍事情(他)</desc>
+	<programme start="20210901190000 +0000" stop="20210901195400 +0000" channel="NipponTV.jp">
+		<title lang="ja">有吉の壁</title>
+		<desc lang="ja">調理師専門学校潜みボケまくり！チョコンヌ！かが屋×空気！タイム×インポッシブル爆笑▼ブレイク芸人選手権！チョコプラ＆インポッシブル新キャラにジャンポケ㊙衝撃ネタ</desc>
 	</programme>
 	<programme start="20210831184500 +0000" stop="20210831214800 +0000" channel="Asahi.jp">
 		<title lang="ja">ロンドンハーツ</title>
@@ -807,6 +791,10 @@ by.Laura Pausini</desc>
 		<title lang="ja">スーパーJチャンネル</title>
 		<desc lang="ja">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
 	</programme>
+	<programme start="20210901184500 +0000" stop="20210901205400 +0000" channel="Asahi.jp">
+		<title lang="ja">あいつ今何してる?</title>
+		<desc lang="ja">沢口靖子デビュー作を支えた恩人＆朝ドラで産んだ双子の赤ちゃんは今▽成城学園同級生・三浦祐太朗＆三四郎▽コロッケ、高校時代バンド仲間との再会に涙▽高橋英樹</desc>
+	</programme>
 	<programme start="20210831154900 +0000" stop="20210831190000 +0000" channel="TBS2.jp">
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">ワクチン予定変更に…異物混入で大混乱続く　若者まだ渋谷に行列か　接種詐欺メールに注意▽二学期に四苦八苦…“自主休校”の判断も▽９月から値上げの品</desc>
@@ -905,9 +893,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">警戒…悩み多き新学期　学校クラスターを防げ　家庭内での感染も増加▽高３女子遺体で発見　逮捕の男「妻が嫉妬」▽おせち商戦スタート　巣ごもり正月で需要増</desc>
 	</programme>
-	<programme start="20210831175500 +0000" stop="20210831182500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">新生劇場版「リョーマ!」公開記念特番</title>
-		<desc lang="ja">９月３日公開『リョーマ！　The　Prince　of　Tennis　新生劇場版テニスの王子様』の情報を特別にお届け！原作者・許斐剛先生のインタビューや本編映像の先行紹介も！</desc>
+	<programme start="20210901190000 +0000" stop="20210901210000 +0000" channel="TBS2.jp">
+		<title lang="ja">東大王</title>
+		<desc lang="ja">全国１０１７人のクイズ高校生の頂点が決まる…泣いた！笑った！生徒も顧問の先生も…クイズに捧げた熱い夏▽日本一の高校ＶＳ東大王鶴崎＆川上さらに一夜限り伊沢が復活！</desc>
 	</programme>
 	<programme start="20210831182500 +0000" stop="20210831205400 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ありえへん∞世界</title>
@@ -1079,6 +1067,10 @@ by.Laura Pausini</desc>
 試験の課題を与えられたGirls2。フリーマガ
 ジン編集者ナツに出会い、原宿を舞台に雑誌作りに挑戦▽ミナミが恋のキューピッド⁉</desc>
 	</programme>
+	<programme start="20210901182500 +0000" stop="20210901215400 +0000" channel="TVTokyo.jp">
+		<title lang="ja">水バラ</title>
+		<desc lang="ja">太川陽介vs河合郁人！今回の舞台は夏の信州で茅野から上田城を目指す！立ちはだかる八ヶ岳の壁！後がない河合は勝つことができるのか！？いざ上田決戦へ！</desc>
+	</programme>
 	<programme start="20210831154500 +0000" stop="20210831190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">渋谷ワクチン抽選　初の平日…希望者は▽大坂なおみ全米ＯＰ▽“硫酸男”新供述は▽気になる野菜の値段▽コンビニ復活グルメ▽トランクルーム人気　何を預ける？</desc>
@@ -1171,13 +1163,9 @@ by.Laura Pausini</desc>
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 	</programme>
-	<programme start="20210831170000 +0000" stop="20210831180000 +0000" channel="Tokyo MX">
-		<title lang="ja">5時に夢中!</title>
-		<desc lang="ja">井戸端ワイドショー▼ニュースに大激論！▼いま話題の人！はるな愛に聞きたい１０のコト！▼ウソを見破れ！ホラフキンちゃん！</desc>
-	</programme>
-	<programme start="20210831180000 +0000" stop="20210831183000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210901190000 +0000" stop="20210901210000 +0000" channel="FujiTV.jp">
+		<title lang="ja">林修のニッポンドリル</title>
+		<desc lang="ja">ギャル曽根・業務田スー子が激安商品を大量買い＆アレンジ料理▽オーケーのお弁当はなぜここまで安くて美味い？潜入調査でカラクリ発見</desc>
 	</programme>
 	<programme start="20210831183000 +0000" stop="20210831190000 +0000" channel="Tokyo MX">
 		<title lang="ja">ピポンザABC!</title>
@@ -1365,6 +1353,14 @@ by.Laura Pausini</desc>
 	</programme>
 	<programme start="20210901180000 +0000" stop="20210901183000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210901183000 +0000" stop="20210901190000 +0000" channel="Tokyo MX">
+		<title lang="ja">ELTソング〜えいごでうたおう!〜</title>
+		<desc lang="ja">イギリス発祥、１００ヵ国以上で活用されている子ども向け動画教材「ＥＬＴ　Ｓｏｎｇｓ」を活用した世界初のテレビ番組が登場！</desc>
+	</programme>
+	<programme start="20210901190000 +0000" stop="20210901193000 +0000" channel="Tokyo MX">
+		<title lang="ja">プリパラ</title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
