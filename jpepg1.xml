@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210901130500 +0000" stop="20210901143800 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇ボッチャ　個人　ＢＣ４・決勝（録画）　【出演】増田明美，伊藤亜紗，佳山明，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀ほか</desc>
-  </programme>
-  <programme start="20210901143800 +0000" stop="20210901144000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">新型コロナ 命を守る行動を</title>
-    <desc lang="ja">以前インフルエンザのワクチン接種で重い副反応に見舞われた女性。不安を解消するために信頼できる情報を自ら集め、十分納得して接種の決断に至ったプロセスを紹介する。</desc>
-  </programme>
-  <programme start="20210901144000 +0000" stop="20210901144500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210901144500 +0000" stop="20210901165000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇ゴールボール　女子・準々決勝「日本×イスラエル」（中継）　【出演】増田明美，伊藤亜紗，佳山明，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀ほか</desc>
@@ -266,18 +254,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇ボッチャ　予選リーグ（録画）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀ほか</desc>
   </programme>
-	<programme start="20210901135000 +0000" stop="20210901140000 +0000" channel="eTele.jp">
-		<title lang="ja">視点・論点</title>
-		<desc lang="ja">「南海トラフ地震“臨時情報”で起きること」矢守克也（京都大学防災研究所教授）</desc>
-	</programme>
-	<programme start="20210901140000 +0000" stop="20210901142000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 化学基礎</title>
-		<desc lang="ja">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
-	</programme>
-	<programme start="20210901142000 +0000" stop="20210901144000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 物理基礎</title>
-		<desc lang="ja">射的銃のコルク玉は標的を倒すことができるが、コルク玉に「力」はない。では何が標的を倒すのか？物理家（ものりけ）の射的大会で「運動エネルギー」について考える。</desc>
-	</programme>
+  <programme start="20210902144000 +0000" stop="20210902144500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210902144500 +0000" stop="20210902161500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
+  </programme>
 	<programme start="20210901144000 +0000" stop="20210901150000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK高校講座 地学基礎</title>
 		<desc lang="ja">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は人類が繁栄し、世界中に広がった新生代について学びます</desc>
@@ -586,6 +570,18 @@
 		<title lang="ja">NHK高校講座 科学と人間生活</title>
 		<desc lang="ja">身の回りの自然や暮らしを糸口に、科学を楽しく解き明かしていきます。今回のテーマはプラスチック水族館の水槽や宇宙船の帆、電気自動車に活用されている様子を紹介します</desc>
 	</programme>
+	<programme start="20210902142000 +0000" stop="20210902144000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 芸術</title>
+		<desc lang="ja">わが国で独自の発展を遂げた日本美術。いったいどんな特徴があるのでしょうか？　今回は琳派や雪舟などの絵画作品から、その独自性や魅力について考えていきます。</desc>
+	</programme>
+	<programme start="20210902144000 +0000" stop="20210902150000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 家庭総合</title>
+		<desc lang="ja">これからの生活に必要な知識や技術を学ぶ「家庭総合」。身近な問題について、地域・社会・歴史など、さまざまな視点でとらえ、りゅうちぇるさんと一緒に考えましょう！</desc>
+	</programme>
+	<programme start="20210902150000 +0000" stop="20210902152500 +0000" channel="eTele.jp">
+		<title lang="ja">将棋フォーカス</title>
+		<desc lang="ja">将棋の総合情報番組。講座は木村一基九段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
+	</programme>
 	<programme start="20210901135500 +0000" stop="20210901155000 +0000" channel="NipponTV.jp">
 		<title lang="ja">情報ライブ ミヤネ屋</title>
 		<desc lang="ja">速報！眞子さま小室圭さんと年内結婚で調整“結婚に伴う儀式”は行わない見通し…米で新生活か？一時金は？元宮内庁＆国際弁護士が生解説</desc>
@@ -811,6 +807,10 @@
 	<programme start="20210902134900 +0000" stop="20210902144700 +0000" channel="Asahi.jp">
 		<title lang="ja">緊急取調室4</title>
 		<desc lang="ja">「ｖｓ息子を誘拐した母親‼決死の逃亡を声だけで救え」天海祐希(他)▽別居中の妻が夫のもとで暮らす息子を連れ去った。彼女を説得するため、有希子は電話交渉に乗り出すが…</desc>
+	</programme>
+	<programme start="20210902144700 +0000" stop="20210902154300 +0000" channel="Asahi.jp">
+		<title lang="ja">科捜研の女19</title>
+		<desc lang="ja">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞本日は【科捜研ファンの著名人が選ぶ！ベストエピソード】中野信子さんの１本！映画はいよいよ明日公開！</desc>
 	</programme>
 	<programme start="20210901135500 +0000" stop="20210901154900 +0000" channel="TBS2.jp">
 		<title lang="ja">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1058,10 +1058,6 @@
 		<title lang="ja">午後のロードショー</title>
 		<desc lang="ja">ドウェイン・ジョンソン主演のリベンジアクション！自分を陥れ、兄を殺した者への復讐が今、始まる。それを追うベテラン刑事とスゴ腕暗殺者！果たして復讐を遂げられるか!?</desc>
 	</programme>
-	<programme start="20210901115500 +0000" stop="20210901144500 +0000" channel="FujiTV.jp">
-		<title lang="ja">バイキングMORE</title>
-		<desc lang="ja">自宅療養者若い世代の死亡例も…ひとり親が抱える不安▽中国人気女優脱税認定１２億円第２のファン・ビンビン“芸能界追放”の背景▽女子高生遺棄「夫と会うな」</desc>
-	</programme>
 	<programme start="20210901144500 +0000" stop="20210901154500 +0000" channel="FujiTV.jp">
 		<title lang="ja">HERO</title>
 		<desc lang="ja">コンビ解消の危機！？城西支部に愛と憎しみが吹き荒れる！被害者遺族に恨まれた田村と、違法薬物の取り調べを担当する久利生。真正面から向き合うことの奥にある真実とは。</desc>
@@ -1154,17 +1150,9 @@
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 	</programme>
-	<programme start="20210901135500 +0000" stop="20210901140000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210901140000 +0000" stop="20210901143000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210901143000 +0000" stop="20210901145900 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210902144500 +0000" stop="20210902154500 +0000" channel="FujiTV.jp">
+		<title lang="ja">HERO</title>
+		<desc lang="ja">京都地検より中村美鈴検事が登場！新旧事務官バトル勃発！過去に裏切られた女…犯罪者となった昔の仲間との再会が、麻木に思いもよらない危機をもたらす！お前は俺が守る！</desc>
 	</programme>
 	<programme start="20210901145900 +0000" stop="20210901150000 +0000" channel="Tokyo MX">
 		<title lang="ja">フラッシュ天気</title>
@@ -1347,6 +1335,18 @@
 		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
 	</programme>
 	<programme start="20210902140000 +0000" stop="20210902143000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902143000 +0000" stop="20210902145900 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902145900 +0000" stop="20210902150000 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902150000 +0000" stop="20210902153000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
