@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902015000 +0000" stop="20210902023500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">明日をまもるナビ</title>
-    <desc lang="ja">大地震による負傷原因の８割される建物倒壊や家具の転倒▽どうしたら自宅を耐震化できるのか？身近な器具を使ってのノウハウ伝授▽高層ビルを揺らす長周期地震動の対策は？</desc>
-  </programme>
-  <programme start="20210902023500 +0000" stop="20210902024000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">音を見る物語</title>
-    <desc lang="ja">視覚障害のあるゴールボール選手や一般の視覚障害者たちは、どのように世界を認識しているのか。数々の賞を受賞するアニメクリエーターが描いた、“見えないひとの世界”</desc>
-  </programme>
   <programme start="20210902024000 +0000" stop="20210902034000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">映像詩</title>
     <desc lang="ja">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
@@ -265,6 +257,14 @@
   <programme start="20210903013400 +0000" stop="20210903020600 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ドキュメント72時間</title>
     <desc lang="ja">白衣や調理服、作業着などがそろうユニフォーム専門店。新年度を迎える春、仕事着を新調しようと多くの人がやってくる。どんな思いで袖を通すのか。３日間、耳を傾ける。</desc>
+  </programme>
+  <programme start="20210903020600 +0000" stop="20210903025100 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">明日をまもるナビ</title>
+    <desc lang="ja">相次ぐ巨大台風に大地震▽いま避難訓練も進化している▽幼稚園や保育園で子どもたちが率先して避難するようになる取り組みが！▽中学校では防災訓練でお互いに褒めあう？！</desc>
+  </programme>
+  <programme start="20210903025100 +0000" stop="20210903035100 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ハンガリー・ブダペストを旅する。</desc>
   </programme>
 	<programme start="20210902010000 +0000" stop="20210902053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -582,14 +582,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210902013900 +0000" stop="20210902020900 +0000" channel="NipponTV.jp">
-		<title lang="ja">東野・岡村の旅猿19</title>
-		<desc lang="ja">「山梨県で軽キャンピングカーの旅」第１話　今回からスタート！ゲストは久々登場のオードリー春日さん！どしゃぶりの雨で波乱のスタート。どんな旅となるのか・・・</desc>
-	</programme>
-	<programme start="20210902020900 +0000" stop="20210902023900 +0000" channel="NipponTV.jp">
-		<title lang="ja">浜ちゃんが!</title>
-		<desc lang="ja">今週も芸能人が愛用している「お取り寄せ」を披露し合う「芸能人お取り寄せグルメ編」あの人は一体、どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
-	</programme>
 	<programme start="20210902023900 +0000" stop="20210902042400 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -682,17 +674,13 @@
 		<title lang="ja">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
 		<desc lang="ja">テンションは伝わるが「話がまとめられない」女性。何とかしてあげたいと話を聞くも、サッパリ理解ができず…。オドぜひオリジナルカードゲームに春日大興奮！</desc>
 	</programme>
-	<programme start="20210902013100 +0000" stop="20210902020100 +0000" channel="Asahi.jp">
-		<title lang="ja">Break Out</title>
-		<desc lang="ja">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
+	<programme start="20210903020900 +0000" stop="20210903023900 +0000" channel="NipponTV.jp">
+		<title lang="ja">川島・山内のマンガ沼</title>
+		<desc lang="ja">「アイアムアヒーロー」「アンダーニンジャ」の花沢健吾先生にガチアンケート！川島＆山内も衝撃！マンガ史上に残る見開きとは！？</desc>
 	</programme>
-	<programme start="20210902020100 +0000" stop="20210902022100 +0000" channel="Asahi.jp">
-		<title lang="ja">まんが未知</title>
-		<desc lang="ja">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◇トム・ブラウンが漫画原作初挑戦！“柔道”と“異世界転生”が合体した漫画とは？</desc>
-	</programme>
-	<programme start="20210902022100 +0000" stop="20210902024100 +0000" channel="Asahi.jp">
-		<title lang="ja">あるある土佐カンパニー</title>
-		<desc lang="ja">土佐兄弟が“新しいあるあるを見つける会社”を遂に設立『高校生あるある』で話題！動画アプリ５億回再生を記録した土佐兄弟の初冠番組。毎週愉快なあるあるをお届けします</desc>
+	<programme start="20210903023900 +0000" stop="20210903042400 +0000" channel="NipponTV.jp">
+		<title lang="ja">日テレポシュレ</title>
+		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
 	</programme>
 	<programme start="20210902024100 +0000" stop="20210902030100 +0000" channel="Asahi.jp">
 		<title lang="ja">キョコロヒー</title>
@@ -802,13 +790,17 @@
 		<title lang="ja">春菜ザキさんのタダの通販じゃねーよ!</title>
 		<desc lang="ja">春菜＆怜奈がタダの通販商品じゃない今注目のアイテムを実際に体験しリアルな感想を聞き出す通販バラエティ！</desc>
 	</programme>
-	<programme start="20210902014800 +0000" stop="20210902021800 +0000" channel="TBS2.jp">
-		<title lang="ja">ミルベキ!</title>
-		<desc lang="ja">熊川哲也Kバレエ カンパニー「シンデレラ」ダンサー・栗山廉がスタジオ登場！▽朗読劇「湯布院寄行」燃え殻・成田凌・黒木華・「水曜日のカンパネラ」コムアイ▽サンリオ</desc>
+	<programme start="20210903021600 +0000" stop="20210903023600 +0000" channel="Asahi.jp">
+		<title lang="ja">NEWニューヨーク</title>
+		<desc lang="ja">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
 	</programme>
-	<programme start="20210902021800 +0000" stop="20210902022500 +0000" channel="TBS2.jp">
-		<title lang="ja">イベントGO!</title>
-		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+	<programme start="20210903023600 +0000" stop="20210903025600 +0000" channel="Asahi.jp">
+		<title lang="ja">そんな食べ方あったのか!</title>
+		<desc lang="ja">ミキ亜生とフワちゃんが「そんな食べ方あったのか」と言ってしまうアレンジレシピを発掘する番組▼人気ポテトチップスを一流フレンチシェフが本気アレンジ！亜生フワ感嘆！</desc>
+	</programme>
+	<programme start="20210903025600 +0000" stop="20210903031600 +0000" channel="Asahi.jp">
+		<title lang="ja">会心の1ゲー</title>
+		<desc lang="ja">芸人×ゲーム＝伝説のバカゲー誕生⁉▼オシャレなパズルゲームから学ぶ！▼バイク川崎バイク案「かゆいところないDEATHか」とは？▼ニューヨーク屋敷発案の空手ゲーム？</desc>
 	</programme>
 	<programme start="20210902022500 +0000" stop="20210902040000 +0000" channel="TBS2.jp">
 		<title lang="ja">カイモノラボ</title>
@@ -892,14 +884,17 @@
 		<desc lang="ja">ある朝突然闇の力に目覚めた優子は一族にかけられた呪いをとくため魔法少女を倒すことになってしまった!!
 </desc>
 	</programme>
-	<programme start="20210902014500 +0000" stop="20210902021000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">お仕事search!それってグッジョブ</title>
-		<desc lang="ja">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！
-今回はコロナ禍なのに業績絶好調の運送会社！乗り放題＆食べ放題…驚きの秘密に迫る</desc>
+	<programme start="20210903020300 +0000" stop="20210903024300 +0000" channel="TBS2.jp">
+		<title lang="ja">アカデミーナイトG</title>
+		<desc lang="ja">「かぐや様は告らせたい」佐野勇斗＆浅川梨奈＆堀田真由＆影山優佳が舞台裏を告白！サンリオ創立60周年の歴史＆カワイイ文化にＡマッソ＆もう中学生が売り込み！？大興奮</desc>
 	</programme>
-	<programme start="20210902021000 +0000" stop="20210902024000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">生活に役立つ商品を紹介する通販番組</desc>
+	<programme start="20210903024300 +0000" stop="20210903025000 +0000" channel="TBS2.jp">
+		<title lang="ja">イベントGO!</title>
+		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+	</programme>
+	<programme start="20210903025000 +0000" stop="20210903034500 +0000" channel="TBS2.jp">
+		<title lang="ja">カイモノラボ</title>
+		<desc lang="ja">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 	</programme>
 	<programme start="20210902024000 +0000" stop="20210902031000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ドラゴンクエスト ダイの大冒険</title>
@@ -1057,13 +1052,18 @@
 		<title lang="ja">みんなでBINGOLF</title>
 		<desc lang="ja">全９ホールを『ゴルフ×ビンゴ』のルールでプレー！様々なミッションに挑みながら、全員でビンゴ達成を目指す！達成したビンゴの数により豪華賞品が!?</desc>
 	</programme>
-	<programme start="20210902013000 +0000" stop="20210902020000 +0000" channel="FujiTV.jp">
-		<title lang="ja">村上マヨネーズのツッコませて頂きます!</title>
-		<desc lang="ja">コンビ愛診断クイズ！これ俺の相方やろ！？第３弾▽ニューヨーク・宮下草薙・インディアンスの３組が挑戦▽相方のボケ・ツッコミを当てることができるのか！？</desc>
+	<programme start="20210903020500 +0000" stop="20210903021000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
 	</programme>
-	<programme start="20210902020000 +0000" stop="20210902025500 +0000" channel="FujiTV.jp">
-		<title lang="ja">アートフルワールド 〜たぶん、すばらしき芸術の世界〜</title>
-		<desc lang="ja">「世界はアートに満ちている。」をテーマに、アートの世界を様々な視点から紹介し、その多種多様な楽しみ方も合わせてお伝えする。</desc>
+	<programme start="20210903021000 +0000" stop="20210903024000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">きらきらアフロTM</title>
+		<desc lang="ja">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
+【出演】笑福亭鶴瓶、松嶋尚美</desc>
+	</programme>
+	<programme start="20210903024000 +0000" stop="20210903031000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">生活に役立つ商品を紹介する通販番組</desc>
 	</programme>
 	<programme start="20210902025500 +0000" stop="20210902035000 +0000" channel="FujiTV.jp">
 		<title lang="ja">FNSドキュメンタリー大賞</title>
@@ -1153,17 +1153,13 @@
 		<title lang="ja">49thフジサンケイクラシック</title>
 		<desc lang="ja">この夏、世界の猛者を相手に戦った日本代表・星野陸也が連覇に挑む！石川遼・今平周吾ら実力者や金谷拓実ら若い力が待ったをかけるか！？</desc>
 	</programme>
-	<programme start="20210902013500 +0000" stop="20210902020500 +0000" channel="Tokyo MX">
-		<title lang="ja">ノーゲーム・ノーライフ</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210903022500 +0000" stop="20210903025500 +0000" channel="FujiTV.jp">
+		<title lang="ja">いいすぽ!</title>
+		<desc lang="ja">今話題のｅ－Ｓｐｏｒｔｓ専門番組！大人気パズルゲームの元祖！「ぷよぷよｅスポーツ」トーナメント！！ＭＣ：バカリズム</desc>
 	</programme>
-	<programme start="20210902020500 +0000" stop="20210902023400 +0000" channel="Tokyo MX">
-		<title lang="ja">MIRAI系アイドルTV</title>
-		<desc lang="ja">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
-	</programme>
-	<programme start="20210902023400 +0000" stop="20210902023500 +0000" channel="Tokyo MX">
-		<title lang="ja">フラッシュ天気</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210903025500 +0000" stop="20210903032500 +0000" channel="FujiTV.jp">
+		<title lang="ja">Tune</title>
+		<desc lang="ja">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 	</programme>
 	<programme start="20210902023500 +0000" stop="20210902030000 +0000" channel="Tokyo MX">
 		<title lang="ja">せとチャレ!STU48</title>
@@ -1347,6 +1343,18 @@
 	</programme>
 	<programme start="20210903013500 +0000" stop="20210903020500 +0000" channel="Tokyo MX">
 		<title lang="ja">バリふり!!!</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903020500 +0000" stop="20210903023400 +0000" channel="Tokyo MX">
+		<title lang="ja">らいコレTV</title>
+		<desc lang="ja">イケメンシンガーソングライバー“森下邦太”が登場！ライバー界の最新情報も！</desc>
+	</programme>
+	<programme start="20210903023400 +0000" stop="20210903023500 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903023500 +0000" stop="20210903030500 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
