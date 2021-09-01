@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210901193000 +0000" stop="20210901200000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇競泳　男子５０ｍ自由形　Ｓ５・決勝ほか（中継）　萩原智子，三上大進，中山果奈，【競泳】解説…生田泰志，杉内周作，アナウンサー…西阪太志</desc>
-  </programme>
-  <programme start="20210901200000 +0000" stop="20210901205900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　女子１００ｍ　Ｔ１２・予選ほか（中継）　櫻井翔，保原浩明，後藤佑季，【アナウンサー】中野淳，杉浦友紀，中川安奈，【陸上】解説…近藤克之，井村久美子ほか</desc>
-  </programme>
   <programme start="20210901205900 +0000" stop="20210901210000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -282,14 +274,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇陸上　女子走り幅跳び　Ｔ６３・決勝、女子１００ｍ　Ｔ１２・決勝、男子８００ｍ　Ｔ５４・決勝、女子１００ｍ　Ｔ６４・予選ほか（中継）　櫻井翔，岸田奈美ほか</desc>
   </programme>
-	<programme start="20210901180000 +0000" stop="20210901203600 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇ボッチャ　個人　ＢＣ２・決勝「杉村英孝×ワッチャラポン・ボンサー」（中継）　【アナウンサー】大澤幹朗，【ボッチャ】解説…新井大基，アナウンサー…佐々生佳典</desc>
-	</programme>
-	<programme start="20210901203600 +0000" stop="20210901204500 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇車いすバスケットボール　男子・準々決勝「日本×オーストラリア」（中継）【アナウンサー】大澤幹朗，【車いすバスケットボール】解説…森紀之，アナウンサー…酒匂飛翔</desc>
-	</programme>
+  <programme start="20210902205900 +0000" stop="20210902210000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210902210000 +0000" stop="20210902213000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュースウオッチ9</title>
+    <desc lang="ja">▽新型コロナ最新情報▽池袋暴走・母子死亡事故で被告に判決▽高齢者ドライバーの事故は防げるか・各地の先進的取り組みは▽サッカーＷ杯予選＆プロ野球速報</desc>
+  </programme>
 	<programme start="20210901204500 +0000" stop="20210901210000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK手話ニュース845</title>
 		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
@@ -594,9 +586,13 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇競泳　女子５０ｍ背泳ぎ　Ｓ２・決勝、男子５０ｍ自由形　Ｓ３・決勝、男子５０ｍ自由形　Ｓ４・決勝、女子５０ｍ自由形　Ｓ４・決勝、</desc>
 	</programme>
-	<programme start="20210901195400 +0000" stop="20210901200000 +0000" channel="NipponTV.jp">
-		<title lang="ja">まもなく笑ってコラえて!</title>
-		<desc lang="ja">有吉の壁芸人が笑コラの名物企画に挑戦！カメラに向かってごめんなさい！チョコプラはお尻出し過ぎ⁉▼この後は女優・杏が料理経験ほぼゼロ女子大生に超簡単レシピを伝授</desc>
+	<programme start="20210902204500 +0000" stop="20210902210000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース845</title>
+		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+	</programme>
+	<programme start="20210902210000 +0000" stop="20210902212500 +0000" channel="eTele.jp">
+		<title lang="ja">パリジェンヌの田舎暮らし</title>
+		<desc lang="ja">女性誌などで活躍するイラストレーターのイザベル・ボワノがフランスの職人たちによる味わい深い手仕事の世界をご紹介。今回はフワフワでカラフルなモヘアの魅力に迫る。</desc>
 	</programme>
 	<programme start="20210901200000 +0000" stop="20210901210000 +0000" channel="NipponTV.jp">
 		<title lang="ja">1億人の大質問!?笑ってコラえて!</title>
@@ -697,9 +693,13 @@
 		<title lang="ja">鳥人間コンテスト2021</title>
 		<desc lang="ja">鳥人間２年ぶり開催！７０ｋｍ衝撃新コース＆記録誕生▽西川貴教ついに参戦▽笑いと魂のフライト続々▽ウイカ映画化希望の感動秘話▽覚悟のフライト告白に…髙橋ひかるが涙</desc>
 	</programme>
-	<programme start="20210901184500 +0000" stop="20210901205400 +0000" channel="Asahi.jp">
-		<title lang="ja">あいつ今何してる?</title>
-		<desc lang="ja">沢口靖子デビュー作を支えた恩人＆朝ドラで産んだ双子の赤ちゃんは今▽成城学園同級生・三浦祐太朗＆三四郎▽コロッケ、高校時代バンド仲間との再会に涙▽高橋英樹</desc>
+	<programme start="20210902205400 +0000" stop="20210902210000 +0000" channel="NipponTV.jp">
+		<title lang="ja">このあと秘密のケンミンSHOW極&ダウンタウンDX</title>
+		<desc lang="ja">ケンミン…広島のソウルフードピリ辛「呉冷麺」＆鮮度抜群！宮城の誇り「ホヤ」の秘密ＤＸ…三代目山下㊙炎上★こじるり共演ＮＧ宣言★トラウデン鬼越ケンカ★収納王子デク</desc>
+	</programme>
+	<programme start="20210902210000 +0000" stop="20210902215400 +0000" channel="NipponTV.jp">
+		<title lang="ja">秘密のケンミンSHOW極</title>
+		<desc lang="ja">広島県呉市の冷麺はピリ辛の専用調味料が味の決め手！▽鮮度バツグン！宮城のプライド「ホヤ」の秘密！▽ヒミツのＯＳＡＫＡ「なにわレディ」との㊙コミュニケーション方法</desc>
 	</programme>
 	<programme start="20210901205400 +0000" stop="20210901210000 +0000" channel="Asahi.jp">
 		<title lang="ja">世界の街道をゆく</title>
@@ -1172,10 +1172,6 @@
 		<title lang="ja">千鳥のクセがスゴいネタGP</title>
 		<desc lang="ja">遠藤と狩野トレンディエンジェル森三中黒沢大村親子日谷ヒロノリ粗品ほしの＆斉藤…新作最強クセ曲大連発に勝地涼＆長濱ねる大爆笑！ネルソンズのゾンビ最終回！</desc>
 	</programme>
-	<programme start="20210901193000 +0000" stop="20210901200000 +0000" channel="Tokyo MX">
-		<title lang="ja">スター☆トゥインクルプリキュア</title>
-		<desc lang="ja"> </desc>
-	</programme>
 	<programme start="20210901200000 +0000" stop="20210901210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
 		<desc lang="ja">墨田区の女子高生が遺体となって見つかった事件…女子高生に一体何が？最新情報は…▼親子２人が犠牲になった池袋事故…判決を前に遺族の思いは▼ゲストは若新雄純さん</desc>
@@ -1371,5 +1367,9 @@
 	<programme start="20210902200000 +0000" stop="20210902210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
 		<desc lang="ja">事故から２年４カ月…池袋暴走事故の裁判で判決…遺族の思いは？▼東京都のモニタリング会議開催…減少傾向の感染者数に専門家は？▼パラリンピック１０日目メダルは？</desc>
+	</programme>
+	<programme start="20210902210000 +0000" stop="20210902215400 +0000" channel="Tokyo MX">
+		<title lang="ja">バラいろダンディ</title>
+		<desc lang="ja">梅沢富美男＆金村義明が人生を説く！ＭＣは「新・東京　夜の顔」ふかわりょう＆大島由香里。人生をダンディに語らう１時間。「江戸切子」に魅せられた若き女性ダンディ</desc>
 	</programme>
 </tv>
