@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210901115400 +0000" stop="20210901120000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210901120000 +0000" stop="20210901121500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20210901121500 +0000" stop="20210901122000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210901122000 +0000" stop="20210901124500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　女子１００ｍ　Ｔ５４・予選ほか（中継）　【出演】増田明美，保原浩明，大西瞳，井村久美子，後藤佑季，【アナウンサー】松田利仁亜，保里小百合，森花子ほか</desc>
-  </programme>
   <programme start="20210901124500 +0000" stop="20210901130000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">連続テレビ小説 おかえりモネ</title>
     <desc lang="ja">久しぶりに会った百音（清原果耶）、亮（永瀬廉）、未知（蒔田彩珠）、明日美（恒松祐里）、悠人（髙田彪我）、三生（前田航基）は、ずっと隠してきた胸の内を語り合う。</desc>
@@ -270,18 +254,22 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja">【キャスター】三條雅幸</desc>
   </programme>
-	<programme start="20210901115500 +0000" stop="20210901120000 +0000" channel="eTele.jp">
-		<title lang="ja">まる得マガジン</title>
-		<desc lang="ja">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
-	</programme>
-	<programme start="20210901120000 +0000" stop="20210901122500 +0000" channel="eTele.jp">
-		<title lang="ja">100分de名著</title>
-		<desc lang="ja">「感情の歴史」を描きたいと語るアレクシェーヴィチ。彼女によって戦争は生身の身体、鮮烈な五感、豊かな感情の震えの記録として描き直される。戦争を記録する意味とは？</desc>
-	</programme>
-	<programme start="20210901122500 +0000" stop="20210901125500 +0000" channel="eTele.jp">
-		<title lang="ja">イギリスで一番美しい庭 ダルメイン</title>
-		<desc lang="ja">イギリスで一番美しいと称される庭は、湖水地方の１２世紀から続く屋敷ダルメインの庭。庭の樹木に代々の歴史。大航海時代に持ち込んだ木は大木に。クルミケーキ作り注目。</desc>
-	</programme>
+  <programme start="20210902121500 +0000" stop="20210902122000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210902122000 +0000" stop="20210902124500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
+  </programme>
+  <programme start="20210902124500 +0000" stop="20210902130000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">連続テレビ小説 おかえりモネ</title>
+    <desc lang="ja">百音（清原果耶）や亮（永瀬廉）たち幼なじみは、築地に繰り出して、つかの間楽しいときを過ごす。そして汐見湯に戻った百音は、亮から思いもよらないことを告げられる。</desc>
+  </programme>
+  <programme start="20210902130000 +0000" stop="20210902130500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210901125500 +0000" stop="20210901130000 +0000" channel="eTele.jp">
 		<title lang="ja">みんなのうた</title>
 		<desc lang="ja">「ヨルガオ」ｎａｎｏ．ＲＩＰＥ／「世界はハーモニー」サーカス／「ダンディーひつじ執事」藤澤ノリマサ／「ｍｏｏｎｆｅｓｔａ　〜ムーンフェスタ〜」Ｋａｌａｆｉｎａ</desc>
@@ -586,6 +574,22 @@
 		<title lang="ja">趣味の園芸 やさいの時間</title>
 		<desc lang="ja">２０２０年９月６日のアンコール放送。シュンギクは収穫まで１か月と育てやすく、秋におすすめ。つみ取り収穫すると、新しい茎葉が次々と出て、冬まで収穫を楽しめる。</desc>
 	</programme>
+	<programme start="20210902122500 +0000" stop="20210902123000 +0000" channel="eTele.jp">
+		<title lang="ja">趣味の園芸 京も一日陽だまり屋</title>
+		<desc lang="ja">ピンクと黄色がそれぞれ好きな遠距離恋愛中の二人、見つけたのはランタナ。黄色とピンクの小花が同居してまりのように丸く咲く。ところが花の色が変わることを知らず…。</desc>
+	</programme>
+	<programme start="20210902123000 +0000" stop="20210902125500 +0000" channel="eTele.jp">
+		<title lang="ja">趣味の園芸</title>
+		<desc lang="ja">アガベとアロエはともに乾燥地に自生する多肉植物。ギザギザの葉がワイルドでスタイリッシュだ。置き場所や水やりなど、自宅でかっこよく育てる秘けつを滝藤賢一さんと学ぶ</desc>
+	</programme>
+	<programme start="20210902125500 +0000" stop="20210902130000 +0000" channel="eTele.jp">
+		<title lang="ja">みんなのうた</title>
+		<desc lang="ja">「クマのぬいぐるみ」／「アフターマン」／「ユア　ハンド　マイ　ハート　〜Ｙｏｕｒ　Ｈａｎｄ，Ｍｙ　Ｈｅａｒｔ〜」／「恋するニワトリ」</desc>
+	</programme>
+	<programme start="20210902130000 +0000" stop="20210902130500 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース</title>
+		<desc lang="ja">【キャスター】河合祐三子</desc>
+	</programme>
 	<programme start="20210901115500 +0000" stop="20210901135500 +0000" channel="NipponTV.jp">
 		<title lang="ja">ヒルナンデス!</title>
 		<desc lang="ja">じゃがいもの美味レシピで焼くＶＳ茹でる論争勃発！料理のプロがプレゼンする今夜作りたくなる簡単レシピから週末ひと手間かける高級ポテトチップスまで▼海の絶景民家</desc>
@@ -811,6 +815,10 @@
 	<programme start="20210902102500 +0000" stop="20210902130000 +0000" channel="Asahi.jp">
 		<title lang="ja">大下容子ワイド!スクランブル</title>
 		<desc lang="ja">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
+	</programme>
+	<programme start="20210902130000 +0000" stop="20210902133000 +0000" channel="Asahi.jp">
+		<title lang="ja">徹子の部屋</title>
+		<desc lang="ja">〜波瀾万丈な結婚生活！妻に初めて感謝の言葉を…〜間寛平さん＆光代さん夫妻が今日のゲストです。</desc>
 	</programme>
 	<programme start="20210901102500 +0000" stop="20210901135500 +0000" channel="TBS2.jp">
 		<title lang="ja">ひるおび!</title>
@@ -1154,14 +1162,6 @@
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 	</programme>
-	<programme start="20210901115500 +0000" stop="20210901120000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210901120000 +0000" stop="20210901123000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
 	<programme start="20210901123000 +0000" stop="20210901130000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
@@ -1349,5 +1349,13 @@
 	<programme start="20210902120000 +0000" stop="20210902123000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902123000 +0000" stop="20210902130000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902130000 +0000" stop="20210902135500 +0000" channel="Tokyo MX">
+		<title lang="ja">2gether</title>
+		<desc lang="ja">Twitter世界トレンド入りの超話題作！偽装彼氏が本物に？イケメン同級生とのピュアで甘い恋の駆け引きが始まる…</desc>
 	</programme>
 </tv>
