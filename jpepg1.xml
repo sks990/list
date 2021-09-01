@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902045000 +0000" stop="20210902050000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">時論公論</title>
-    <desc lang="ja">最近の災害では自治体が死者や行方不明の名前を公表しないケースが増えている。氏名公表の公益性と個人情報保護のバランスはどうあるべきなのかを考える。</desc>
-  </programme>
   <programme start="20210902050000 +0000" stop="20210902060000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">▼新型コロナ感染確認１５０万人超・今後の見通しは▼パラリンピック・ボッチャで日本勢初の金▼コロナ禍に勇気与えるアルパカ</desc>
@@ -64,7 +60,7 @@
   </programme>
   <programme start="20210902061300 +0000" stop="20210902063000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース おはよう日本</title>
-    <desc lang="ja">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
+    <desc lang="ja">▼ここに注目「混迷アフガニスタンどうなるタリバンの統治」▼熱海土石流あす２か月・見えてきた被害の実態</desc>
   </programme>
   <programme start="20210902063000 +0000" stop="20210902070000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース おはよう日本</title>
@@ -274,14 +270,10 @@
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-	<programme start="20210902010000 +0000" stop="20210902053000 +0000" channel="eTele.jp">
-		<title lang="ja"></title>
-		<desc lang="ja"></desc>
-	</programme>
-	<programme start="20210902053000 +0000" stop="20210902055500 +0000" channel="eTele.jp">
-		<title lang="ja">旅するためのドイツ語</title>
-		<desc lang="ja">いつかドイツを楽しく旅行するために、ドイツをはじめドイツ語圏の風景、伝統、食など文化を映像で味わいながら、旅先で必要になる厳選キーフレーズを覚えていく！</desc>
-	</programme>
+  <programme start="20210903060000 +0000" stop="20210903063000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
+  </programme>
 	<programme start="20210902055500 +0000" stop="20210902060000 +0000" channel="eTele.jp">
 		<title lang="ja">no art，no life</title>
 		<desc lang="ja">今まで見たことのない芸術に圧倒される５分間。各地のアーティストを取材、作品が生まれる過程を記録する。紙のコラージュの世界を作る松岡里佳を紹介。</desc>
@@ -590,9 +582,13 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210902043000 +0000" stop="20210902055000 +0000" channel="NipponTV.jp">
-		<title lang="ja">Oha!4 NEWS LIVE</title>
-		<desc lang="ja">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽都内の8月の感染者は過去最多▽不明女子高校生遺棄事件▽ボッチャ初の金メダル▽関ジャニ∞</desc>
+	<programme start="20210903053000 +0000" stop="20210903060000 +0000" channel="eTele.jp">
+		<title lang="ja">アラビーヤ・シャベリーヤ!</title>
+		<desc lang="ja">旅の舞台は、化石の産地として名高いエルフード。俳優・金子貴俊が、三葉虫などの化石を扱う専門店を訪ね、店内を見学しながら“比べる表現”を学ぶ。</desc>
+	</programme>
+	<programme start="20210903060000 +0000" stop="20210903062500 +0000" channel="eTele.jp">
+		<title lang="ja">テレビでハングル講座</title>
+		<desc lang="ja">「いま、開こう！ハングルの“扉”」今回は「人に勧める表現」▽Ｋ−ＰＯＰマンスリーゲスト「Ｓｔｒａｙ　Ｋｉｄｓ（ストレイキッズ）」▽韓国　登山で人気のインワン山</desc>
 	</programme>
 	<programme start="20210902055000 +0000" stop="20210902080000 +0000" channel="NipponTV.jp">
 		<title lang="ja">ZIP!</title>
@@ -689,6 +685,10 @@
 	<programme start="20210903043000 +0000" stop="20210903055000 +0000" channel="NipponTV.jp">
 		<title lang="ja">Oha!4 NEWS LIVE</title>
 		<desc lang="ja">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+	</programme>
+	<programme start="20210903055000 +0000" stop="20210903080000 +0000" channel="NipponTV.jp">
+		<title lang="ja">ZIP!</title>
+		<desc lang="ja">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
 	</programme>
 	<programme start="20210902045500 +0000" stop="20210902080000 +0000" channel="Asahi.jp">
 		<title lang="ja">グッド!モーニング</title>
@@ -903,12 +903,9 @@
 		<title lang="ja">はやドキ!</title>
 		<desc lang="ja">最新のニュース・情報・関心事をどこよりも早くお伝えします！お楽しみに！</desc>
 	</programme>
-	<programme start="20210902042300 +0000" stop="20210902054500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ものスタ</title>
-		<desc lang="ja">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+	<programme start="20210903060000 +0000" stop="20210903080000 +0000" channel="TBS2.jp">
+		<title lang="ja">あさチャン!</title>
+		<desc lang="ja">メインキャスターは夏目三久。きのうからけさまでの注目ニュースを総ざらい。世界の今がライブでわかる。専門知識豊富なゲストが独自の視点でより深い情報をお届けする。</desc>
 	</programme>
 	<programme start="20210902054500 +0000" stop="20210902070500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">モーサテ</title>
@@ -1079,9 +1076,9 @@
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 	</programme>
-	<programme start="20210902045500 +0000" stop="20210902052500 +0000" channel="FujiTV.jp">
-		<title lang="ja">めざましテレビ全部見せ</title>
-		<desc lang="ja">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+	<programme start="20210903054500 +0000" stop="20210903070500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">モーサテ</title>
+		<desc lang="ja">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 	</programme>
 	<programme start="20210902052500 +0000" stop="20210902080000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざましテレビ</title>
@@ -1179,13 +1176,9 @@
 		<title lang="ja">めざましテレビ全部見せ</title>
 		<desc lang="ja">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 	</programme>
-	<programme start="20210902043000 +0000" stop="20210902050000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210902050000 +0000" stop="20210902053000 +0000" channel="Tokyo MX">
-		<title lang="ja">LOVE HOKKAIDO</title>
-		<desc lang="ja">恵山をスタートして函館屈指の温泉街・湯の川へ！ユリエが熱望する“食べる昆布”の実力とは⁉▼湯の川の“絶景お宿”で、函館尽くしの絶品料理！至極のひとときが訪れる！</desc>
+	<programme start="20210903052500 +0000" stop="20210903080000 +0000" channel="FujiTV.jp">
+		<title lang="ja">めざましテレビ</title>
+		<desc lang="ja">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 	</programme>
 	<programme start="20210902053000 +0000" stop="20210902060000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1377,6 +1370,14 @@
 	</programme>
 	<programme start="20210903050000 +0000" stop="20210903053000 +0000" channel="Tokyo MX">
 		<title lang="ja">うたなび!</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903053000 +0000" stop="20210903060000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903060000 +0000" stop="20210903063000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
