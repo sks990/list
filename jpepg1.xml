@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902005200 +0000" stop="20210902012200 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">有田P おもてなす</title>
-    <desc lang="ja">【司会】有田哲平，【出演】さらば青春の光，加藤雅也，ＪＵＪＵ，蝶野正洋，松雪泰子，【語り】杉田智和</desc>
-  </programme>
-  <programme start="20210902012200 +0000" stop="20210902015000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">サラメシ シーズン9</title>
-    <desc lang="ja">東海道新幹線を運行するみなさんのランチを拝見！まるごと新幹線スペシャル▽ドクターイエローの走行前検査と車内で食べるお弁当をのぞき見▽運転士育成講師の大盛りカレー</desc>
-  </programme>
   <programme start="20210902015000 +0000" stop="20210902023500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">明日をまもるナビ</title>
     <desc lang="ja">大地震による負傷原因の８割される建物倒壊や家具の転倒▽どうしたら自宅を耐震化できるのか？身近な器具を使ってのノウハウ伝授▽高層ビルを揺らす長周期地震動の対策は？</desc>
@@ -270,10 +262,10 @@
     <title lang="ja">歴史探偵</title>
     <desc lang="ja">最後の将軍、徳川慶喜。慶喜が関わった重大事件が大政奉還と鳥羽伏見の戦いだ。最新のＡＩを駆使し、謎多き慶喜の内面を徹底解析。幕末の２大事件の真相を解き明かす。</desc>
   </programme>
-	<programme start="20210902000000 +0000" stop="20210902010000 +0000" channel="eTele.jp">
-		<title lang="ja">ETV特集</title>
-		<desc lang="ja">日米両軍が激突したテニアン島。戦前から島に住む日本人移民は、戦火の中で集団自決を余儀なくされた。重い記憶を抱える人々を２０年以上取材。遺言ともいえる証言でつづる</desc>
-	</programme>
+  <programme start="20210903013400 +0000" stop="20210903020600 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ドキュメント72時間</title>
+    <desc lang="ja">白衣や調理服、作業着などがそろうユニフォーム専門店。新年度を迎える春、仕事着を新調しようと多くの人がやってくる。どんな思いで袖を通すのか。３日間、耳を傾ける。</desc>
+  </programme>
 	<programme start="20210902010000 +0000" stop="20210902053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
@@ -590,18 +582,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210902005900 +0000" stop="20210902010400 +0000" channel="NipponTV.jp">
-		<title lang="ja">イントロ</title>
-		<desc lang="ja">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
-	</programme>
-	<programme start="20210902010400 +0000" stop="20210902013400 +0000" channel="NipponTV.jp">
-		<title lang="ja">ラグビー応援TV ONEラグビー</title>
-		<desc lang="ja">23年Ｗ杯期待の新星・齋藤直人＆テビタ・タタフがスタジオに！春の日本代表戦で輝きを放った２人の凄さ＆素顔に櫻井が迫る▼ＮＺが！豪州が！激闘の南半球最強決定戦</desc>
-	</programme>
-	<programme start="20210902013400 +0000" stop="20210902013900 +0000" channel="NipponTV.jp">
-		<title lang="ja">ガイド</title>
-		<desc lang="ja"></desc>
-	</programme>
 	<programme start="20210902013900 +0000" stop="20210902020900 +0000" channel="NipponTV.jp">
 		<title lang="ja">東野・岡村の旅猿19</title>
 		<desc lang="ja">「山梨県で軽キャンピングカーの旅」第１話　今回からスタート！ゲストは久々登場のオードリー春日さん！どしゃぶりの雨で波乱のスタート。どんな旅となるのか・・・</desc>
@@ -690,13 +670,17 @@
 		<title lang="ja">イントロ</title>
 		<desc lang="ja">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
 	</programme>
-	<programme start="20210902005500 +0000" stop="20210902012500 +0000" channel="Asahi.jp">
-		<title lang="ja">お願い!ランキング</title>
-		<desc lang="ja">相席ケイ＆尼神インター渚＆納言幸が回転寿司店人気順位当てに挑戦！</desc>
+	<programme start="20210903010400 +0000" stop="20210903013400 +0000" channel="NipponTV.jp">
+		<title lang="ja">アナザースカイ</title>
+		<desc lang="ja">「夢の数だけ空がある」放送作家の鈴木おさむが人生の節目で訪れる伊勢へ▽大島美幸との結婚式秘話▽伊勢で出逢ったパワーピープルに感激▽年齢と共に感じる心の変化とは？</desc>
 	</programme>
-	<programme start="20210902012500 +0000" stop="20210902013100 +0000" channel="Asahi.jp">
-		<title lang="ja">全力坂</title>
-		<desc lang="ja">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+	<programme start="20210903013400 +0000" stop="20210903013900 +0000" channel="NipponTV.jp">
+		<title lang="ja">ガイド</title>
+		<desc lang="ja"></desc>
+	</programme>
+	<programme start="20210903013900 +0000" stop="20210903020900 +0000" channel="NipponTV.jp">
+		<title lang="ja">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
+		<desc lang="ja">テンションは伝わるが「話がまとめられない」女性。何とかしてあげたいと話を聞くも、サッパリ理解ができず…。オドぜひオリジナルカードゲームに春日大興奮！</desc>
 	</programme>
 	<programme start="20210902013100 +0000" stop="20210902020100 +0000" channel="Asahi.jp">
 		<title lang="ja">Break Out</title>
@@ -802,19 +786,21 @@
 		<title lang="ja">かまいガチ</title>
 		<desc lang="ja">今夜最も紳士的な芸人が誕生！ジェントルマン王決定戦！▼かまいたちの２人が“ガチでそのとき面白いと思うこと”に挑戦する関東初の冠レギュラー番組</desc>
 	</programme>
-	<programme start="20210902001600 +0000" stop="20210902011500 +0000" channel="TBS2.jp">
-		<title lang="ja">よるのブランチ</title>
-		<desc lang="ja">もーりー兄弟がパンサー尾形・菅と最新猫カフェでバズる猫動画撮影に挑戦▽喉押さえマン密着！最新ファッションに大変身！？▽東京韓流デートに井上想良＆石川翔鈴が登場！</desc>
+	<programme start="20210903010500 +0000" stop="20210903011000 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">テレビ朝日のおすすめ番組をご紹介！</desc>
 	</programme>
-	<programme start="20210902011500 +0000" stop="20210902011800 +0000" channel="TBS2.jp">
-		<title lang="ja">ビジネス・クリック</title>
-		<desc lang="ja">最新の金融マーケット情報をＮＹから中継。
-注目の経済ニュースも</desc>
+	<programme start="20210903011000 +0000" stop="20210903014000 +0000" channel="Asahi.jp">
+		<title lang="ja">お願い!ランキング</title>
+		<desc lang="ja">まさかのルールはナゼできた！？お絵描きプレゼンショー</desc>
 	</programme>
-	<programme start="20210902011800 +0000" stop="20210902014800 +0000" channel="TBS2.jp">
-		<title lang="ja">ふるさとの未来</title>
-		<desc lang="ja">お肉の変わりとなる今注目の「代替肉」で
-環境問題に立ち向かう企業の登場！</desc>
+	<programme start="20210903014000 +0000" stop="20210903014600 +0000" channel="Asahi.jp">
+		<title lang="ja">全力坂</title>
+		<desc lang="ja">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+	</programme>
+	<programme start="20210903014600 +0000" stop="20210903021600 +0000" channel="Asahi.jp">
+		<title lang="ja">春菜ザキさんのタダの通販じゃねーよ!</title>
+		<desc lang="ja">春菜＆怜奈がタダの通販商品じゃない今注目のアイテムを実際に体験しリアルな感想を聞き出す通販バラエティ！</desc>
 	</programme>
 	<programme start="20210902014800 +0000" stop="20210902021800 +0000" channel="TBS2.jp">
 		<title lang="ja">ミルベキ!</title>
@@ -897,13 +883,14 @@
 		<desc lang="ja">最新の金融マーケット情報をＮＹから中継。
 注目の経済ニュースも</desc>
 	</programme>
-	<programme start="20210902004500 +0000" stop="20210902011500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">来世ではちゃんとします2</title>
-		<desc lang="ja">内田理央主演！ＳＮＳで話題沸騰の人気漫画原作！性をこじらせた男女の赤裸々エロラブコメディドラマ待望の続編▼始まったセフレとの同棲生活！桃江、ついに恋人ができる？</desc>
+	<programme start="20210903010300 +0000" stop="20210903013300 +0000" channel="TBS2.jp">
+		<title lang="ja">KAT-TUNの食宝ゲッットゥーン</title>
+		<desc lang="ja">メロン並みの糖度・館山トウモロコシ…醤油の香ばしさが抜群の焼きトウモロコシに中丸前代未聞の食レポ！？さらに「ホイル焼き」など絶品フルコースに中丸、今夜限界突破！</desc>
 	</programme>
-	<programme start="20210902011500 +0000" stop="20210902014500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">八月は夜のバッティングセンターで。</title>
-		<desc lang="ja">関水渚×仲村トオルＷ主演！「ライフ・イズ・ベースボール」を合言葉に、野球を通して悩める女性たちの背中を少しだけ押していく“ベースボール・ヒューマンドラマ”開幕</desc>
+	<programme start="20210903013300 +0000" stop="20210903020300 +0000" channel="TBS2.jp">
+		<title lang="ja">まちカドまぞく</title>
+		<desc lang="ja">ある朝突然闇の力に目覚めた優子は一族にかけられた呪いをとくため魔法少女を倒すことになってしまった!!
+</desc>
 	</programme>
 	<programme start="20210902014500 +0000" stop="20210902021000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">お仕事search!それってグッジョブ</title>
@@ -1062,13 +1049,13 @@
 		<title lang="ja">お耳に合いましたら。</title>
 		<desc lang="ja">伊藤万理華主演！ポッドキャスト×グルメ愛▼広告塔らっきょう子ちゃんの存続のため、企画会議をする美園たち。奮闘しながらも、夜食をきっかけに良いアイデアが浮かぶ！</desc>
 	</programme>
-	<programme start="20210902003000 +0000" stop="20210902010000 +0000" channel="FujiTV.jp">
-		<title lang="ja">東京ブロードウェイ</title>
-		<desc lang="ja">川崎鷹也…総再生回数３億回超え「魔法の絨毯」秘話！初めて聴いた時の愛妻の感想に仰天▽が〜まるちょば…「動くピクトグラム」パフォーマンス成功の裏側明かす</desc>
+	<programme start="20210903010500 +0000" stop="20210903013500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">大学お笑いMONSTERS〜お笑いのプロが本当に面白い学生芸人No.1を決定</title>
+		<desc lang="ja">▼ＭＣフワちゃん＆トンツカタン森本▼審査ネタ数５３０本！全国の大学生の中から、“いま一番面白い”学生をプロ芸人＆業界人が選抜！</desc>
 	</programme>
-	<programme start="20210902010000 +0000" stop="20210902013000 +0000" channel="FujiTV.jp">
-		<title lang="ja">NIGHT HEAD 2041</title>
-		<desc lang="ja">ユウヤは目覚めた能力により失踪直前の両親を幻視が、なぜか霧原兄弟の姿があって…。ユウヤは両親の失踪に霧原兄弟が関わっていることを確認する。</desc>
+	<programme start="20210903013500 +0000" stop="20210903020500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">みんなでBINGOLF</title>
+		<desc lang="ja">全９ホールを『ゴルフ×ビンゴ』のルールでプレー！様々なミッションに挑みながら、全員でビンゴ達成を目指す！達成したビンゴの数により豪華賞品が!?</desc>
 	</programme>
 	<programme start="20210902013000 +0000" stop="20210902020000 +0000" channel="FujiTV.jp">
 		<title lang="ja">村上マヨネーズのツッコませて頂きます!</title>
@@ -1162,17 +1149,9 @@
 		<title lang="ja">平穏世代の韋駄天達</title>
 		<desc lang="ja">かつて世界は魔族に蹂躙されていた。韋駄天と呼ばれる戦いの神々が魔族を封印し、世界に平和をもたらしてから８００年――。ルール無用の最凶バトルが今始まる！</desc>
 	</programme>
-	<programme start="20210902003000 +0000" stop="20210902010000 +0000" channel="Tokyo MX">
-		<title lang="ja">ソードアート・オンライン</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210902010000 +0000" stop="20210902010500 +0000" channel="Tokyo MX">
-		<title lang="ja">コミックBAR Renta!</title>
-		<desc lang="ja">街角にひっそりと佇む「コミックＢＡＲ　Ｒｅｎｔａ！」マンガ好きのマスター森嶋秀太が毎週男性声優ゲストに話題のマンガを紹介！</desc>
-	</programme>
-	<programme start="20210902010500 +0000" stop="20210902013500 +0000" channel="Tokyo MX">
-		<title lang="ja">女神寮の寮母くん。</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210903013000 +0000" stop="20210903022500 +0000" channel="FujiTV.jp">
+		<title lang="ja">49thフジサンケイクラシック</title>
+		<desc lang="ja">この夏、世界の猛者を相手に戦った日本代表・星野陸也が連覇に挑む！石川遼・今平周吾ら実力者や金谷拓実ら若い力が待ったをかけるか！？</desc>
 	</programme>
 	<programme start="20210902013500 +0000" stop="20210902020500 +0000" channel="Tokyo MX">
 		<title lang="ja">ノーゲーム・ノーライフ</title>
@@ -1360,6 +1339,14 @@
 	</programme>
 	<programme start="20210903010000 +0000" stop="20210903010500 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903010500 +0000" stop="20210903013500 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903013500 +0000" stop="20210903020500 +0000" channel="Tokyo MX">
+		<title lang="ja">バリふり!!!</title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
