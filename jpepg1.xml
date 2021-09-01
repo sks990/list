@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210901103000 +0000" stop="20210901115300 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　男子１００ｍ　Ｔ５４・予選ほか（中継）　【出演】増田明美，保原浩明，大西瞳，井村久美子，後藤佑季，【アナウンサー】松田利仁亜，保里小百合，森花子ほか</desc>
-  </programme>
-  <programme start="20210901115300 +0000" stop="20210901115400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
   <programme start="20210901115400 +0000" stop="20210901120000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">気象情報</title>
     <desc lang="ja"></desc>
@@ -270,22 +262,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　女子５０ｍ背泳ぎ　Ｓ２・予選、男子５０ｍ自由形　Ｓ４・予選ほか（中継）　【出演】増田明美，【アナウンサー】松田利仁亜，保里小百合，森花子ほか</desc>
   </programme>
-	<programme start="20210901105500 +0000" stop="20210901110000 +0000" channel="eTele.jp">
-		<title lang="ja">まいにちスクスク</title>
-		<desc lang="ja">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
-	</programme>
-	<programme start="20210901110000 +0000" stop="20210901112500 +0000" channel="eTele.jp">
-		<title lang="ja">きょうの料理</title>
-		<desc lang="ja">２０１８年度、放送文化賞を受賞した江上栄子さんを特集した回の再放送。義母・江上トミさんの代から続く料理学校で栄子さんが教える次世代へ伝えたい「味」と「心」とは。</desc>
-	</programme>
-	<programme start="20210901112500 +0000" stop="20210901113000 +0000" channel="eTele.jp">
-		<title lang="ja">きょうの料理ビギナーズ</title>
-		<desc lang="ja">「“めんつゆ”でラクラク！」甘さと辛さのバランスがよく、だしの風味が効いた“めんつゆ”をおかずに大活用。簡単に味が決まる！２０１８年８月のアンコール。</desc>
-	</programme>
-	<programme start="20210901113000 +0000" stop="20210901115500 +0000" channel="eTele.jp">
-		<title lang="ja">趣味どきっ!</title>
-		<desc lang="ja">台所。それは人の胃袋と心を満たす、食が生まれる大切な場所。暮らしの達人たちの知恵と工夫を美しい映像と珠玉の言葉で紡ぐ。待望の新シリーズ！あなたにとって台所とは？</desc>
-	</programme>
+  <programme start="20210902115400 +0000" stop="20210902120000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210902120000 +0000" stop="20210902121500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja">【キャスター】三條雅幸</desc>
+  </programme>
 	<programme start="20210901115500 +0000" stop="20210901120000 +0000" channel="eTele.jp">
 		<title lang="ja">まる得マガジン</title>
 		<desc lang="ja">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
@@ -590,17 +574,17 @@
 		<title lang="ja">美の壺</title>
 		<desc lang="ja">アクアリウムで癒やしのおうち時間を実現！▽水槽に水草や苔で表現するアクアリウム▽陸地やアマゾン・アジアの山川を表現するアクアテラリウム▽さかなクンのメッセージ？</desc>
 	</programme>
-	<programme start="20210901102500 +0000" stop="20210901113000 +0000" channel="NipponTV.jp">
-		<title lang="ja">バゲット</title>
-		<desc lang="ja">夏の疲れた肌を癒やすダイソーのプチプラスキンケアグッズTOP5▽防災のプロに聞く！コロナ禍の避難生活で本当に必要な衛生グッズとは？▽村田倫子おすすめ！夏のカレー</desc>
+	<programme start="20210902113000 +0000" stop="20210902115500 +0000" channel="eTele.jp">
+		<title lang="ja">すてきにハンドメイド</title>
+		<desc lang="ja">日々の仕事や親の介護に追われて、心が前向きになれない…そんなときに、ニット作家の能勢マユミさんが、新天地・徳島へ赴いて生まれたのが、今回の「青海波サコッシュ」！</desc>
 	</programme>
-	<programme start="20210901113000 +0000" stop="20210901114500 +0000" channel="NipponTV.jp">
-		<title lang="ja">NNN ストレイトニュース</title>
-		<desc lang="ja">最新のニュースをストレートに！　必要とされる情報を、コンパクトにまとめてお伝えします。</desc>
+	<programme start="20210902115500 +0000" stop="20210902120000 +0000" channel="eTele.jp">
+		<title lang="ja">まる得マガジン</title>
+		<desc lang="ja">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
 	</programme>
-	<programme start="20210901114500 +0000" stop="20210901115500 +0000" channel="NipponTV.jp">
-		<title lang="ja">キユーピー3分クッキング</title>
-		<desc lang="ja">下焼きはせずに、しょうゆ味ベースの煮汁で、鶏肉を直に煮て仕上げます。さっぱりとしたきゅうりのあえものをつけ合わせにしました。</desc>
+	<programme start="20210902120000 +0000" stop="20210902122500 +0000" channel="eTele.jp">
+		<title lang="ja">趣味の園芸 やさいの時間</title>
+		<desc lang="ja">２０２０年９月６日のアンコール放送。シュンギクは収穫まで１か月と育てやすく、秋におすすめ。つみ取り収穫すると、新しい茎葉が次々と出て、冬まで収穫を楽しめる。</desc>
 	</programme>
 	<programme start="20210901115500 +0000" stop="20210901135500 +0000" channel="NipponTV.jp">
 		<title lang="ja">ヒルナンデス!</title>
@@ -696,6 +680,18 @@
 	<programme start="20210902102500 +0000" stop="20210902113000 +0000" channel="NipponTV.jp">
 		<title lang="ja">バゲット</title>
 		<desc lang="ja">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
+	</programme>
+	<programme start="20210902113000 +0000" stop="20210902114500 +0000" channel="NipponTV.jp">
+		<title lang="ja">NNN ストレイトニュース</title>
+		<desc lang="ja">最新のニュースをストレートに！　必要とされる情報を、コンパクトにまとめてお伝えします。</desc>
+	</programme>
+	<programme start="20210902114500 +0000" stop="20210902115500 +0000" channel="NipponTV.jp">
+		<title lang="ja">キユーピー3分クッキング</title>
+		<desc lang="ja">フライパンに塩をふった豚肉と野菜を重ね、野菜の水分を生かして蒸し煮にします。蒸し汁ごと召し上がれ。</desc>
+	</programme>
+	<programme start="20210902115500 +0000" stop="20210902135500 +0000" channel="NipponTV.jp">
+		<title lang="ja">ヒルナンデス!</title>
+		<desc lang="ja">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
 	</programme>
 	<programme start="20210901102500 +0000" stop="20210901130000 +0000" channel="Asahi.jp">
 		<title lang="ja">大下容子ワイド!スクランブル</title>
@@ -897,18 +893,6 @@
 		<title lang="ja">ひるおび!</title>
 		<desc lang="ja">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 	</programme>
-	<programme start="20210901092600 +0000" stop="20210901111300 +0000" channel="TVTokyo.jp">
-		<title lang="ja">なないろ日和!</title>
-		<desc lang="ja">▽快適ショッピングスタジオ▽薬丸裕英と香坂みゆきのＭＣでお送りする『なにかいいことありそうな』生活情報番組▽「虎ノ門市場」富永美樹プロデュース！魚総菜</desc>
-	</programme>
-	<programme start="20210901111300 +0000" stop="20210901113500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">昼サテ</title>
-		<desc lang="ja">最新のニュースとマーケット情報をいち早くお伝えします。</desc>
-	</programme>
-	<programme start="20210901113500 +0000" stop="20210901114000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">月〜金お昼のソングショー ひるソン!</title>
-		<desc lang="ja">月曜〜金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！</desc>
-	</programme>
 	<programme start="20210901114000 +0000" stop="20210901134000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
 		<desc lang="ja">▽牧場の珍まかない…新感覚㊙バーガー＆卵白だけ!?丼▽老舗醤油蔵で味わう絶品ＴＫＧ▽神奈川県藤沢市…農家さん直伝！ピリ辛肉詰め＆にら玉トマトスープ</desc>
@@ -1062,17 +1046,17 @@
 		<title lang="ja">なないろ日和!</title>
 		<desc lang="ja">▽快適ショッピングスタジオ▽自宅で“ピラティス”＆肌に効く簡単レシピ＆美魔女の㊙スキンケア(他)▽「虎ノ門市場」中村家の豪華ウニ味噌＆海宝漬</desc>
 	</programme>
-	<programme start="20210901095000 +0000" stop="20210901112500 +0000" channel="FujiTV.jp">
-		<title lang="ja">ノンストップ!</title>
-		<desc lang="ja">俳優・滝川英治が見たパラリンピック＆自身重ねた絵本▽ワイキキ生リモート旅！次クル最新バッグとは▽観葉インドア植物</desc>
+	<programme start="20210902111300 +0000" stop="20210902113500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">昼サテ</title>
+		<desc lang="ja">最新のニュースとマーケット情報をいち早くお伝えします。</desc>
 	</programme>
-	<programme start="20210901112500 +0000" stop="20210901113000 +0000" channel="FujiTV.jp">
-		<title lang="ja">国分太一のお気楽さんぽ〜Happy Go Lucky〜</title>
-		<desc lang="ja">国分太一が日本全国の街を手ぶらでおさんぽ！ここに行けば楽しめる！あそこに行けば幸せになれる！街の魅力を伝えながらハッピーとラッキーを発見しに行きます！</desc>
+	<programme start="20210902113500 +0000" stop="20210902114000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">月〜金お昼のソングショー ひるソン!</title>
+		<desc lang="ja">月曜〜金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！</desc>
 	</programme>
-	<programme start="20210901113000 +0000" stop="20210901115500 +0000" channel="FujiTV.jp">
-		<title lang="ja">FNN Live News days</title>
-		<desc lang="ja">女子高生殺害で逮捕の夫婦に何が…最新情報▽池袋母子死亡事故判決直前の遺族の想いは…▽米軍完全撤退後どうなるアフガニスタン情勢</desc>
+	<programme start="20210902114000 +0000" stop="20210902134000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
+		<desc lang="ja">▽千葉県白子町…キャンプ場で漁師めし！豪快ながらみ丼▽ママのギョウザのひみつ▽神奈川県真鶴町…漁師さんの豪快ＢＢＱ＆海女粥▽イワシ山かけ丼</desc>
 	</programme>
 	<programme start="20210901115500 +0000" stop="20210901144500 +0000" channel="FujiTV.jp">
 		<title lang="ja">バイキングMORE</title>
@@ -1158,13 +1142,17 @@
 		<title lang="ja">ノンストップ!</title>
 		<desc lang="ja">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 	</programme>
-	<programme start="20210901103000 +0000" stop="20210901110000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210902112500 +0000" stop="20210902113000 +0000" channel="FujiTV.jp">
+		<title lang="ja">国分太一のお気楽さんぽ〜Happy Go Lucky〜</title>
+		<desc lang="ja">国分太一が日本全国の街を手ぶらでおさんぽ！ここに行けば楽しめる！あそこに行けば幸せになれる！街の魅力を伝えながらハッピーとラッキーを発見しに行きます！</desc>
 	</programme>
-	<programme start="20210901110000 +0000" stop="20210901115500 +0000" channel="Tokyo MX">
-		<title lang="ja">如懿伝〜紫禁城に散る宿命の王妃〜</title>
-		<desc lang="ja">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
+	<programme start="20210902113000 +0000" stop="20210902115500 +0000" channel="FujiTV.jp">
+		<title lang="ja">FNN Live News days</title>
+		<desc lang="ja">世の中の動きを素早くキャッチ！最新ニュースをわかりやすく、丁寧にお届けします。気になるポイントは深掘りして、役に立つニュースをお伝えします。</desc>
+	</programme>
+	<programme start="20210902115500 +0000" stop="20210902144500 +0000" channel="FujiTV.jp">
+		<title lang="ja">バイキングMORE</title>
+		<desc lang="ja">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 	</programme>
 	<programme start="20210901115500 +0000" stop="20210901120000 +0000" channel="Tokyo MX">
 		<title lang="ja">MX news FLAG</title>
@@ -1353,5 +1341,13 @@
 	<programme start="20210902110000 +0000" stop="20210902115500 +0000" channel="Tokyo MX">
 		<title lang="ja">如懿伝〜紫禁城に散る宿命の王妃〜</title>
 		<desc lang="ja">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
+	</programme>
+	<programme start="20210902115500 +0000" stop="20210902120000 +0000" channel="Tokyo MX">
+		<title lang="ja">MX news FLAG</title>
+		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
+	</programme>
+	<programme start="20210902120000 +0000" stop="20210902123000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
