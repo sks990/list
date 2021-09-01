@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210901184500 +0000" stop="20210901190000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">首都圏ネットワーク</title>
-    <desc lang="ja">▼杉並区など各地で自宅療養者支援のための施設の設置や体制強化が進む。▼防災の日。▼分散登校やオンライン授業でとまどう子どもたち。</desc>
-  </programme>
-  <programme start="20210901190000 +0000" stop="20210901193000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース7</title>
-    <desc lang="ja">▽菅首相“解散できる状況ではない”▽国内感染１５０万人超える加速度的に拡大▽眞子さま小室圭さん年内結婚で調整▽デジタル庁発足▽米軍撤退後のアフガニスタンは</desc>
-  </programme>
   <programme start="20210901193000 +0000" stop="20210901200000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　男子５０ｍ自由形　Ｓ５・決勝ほか（中継）　萩原智子，三上大進，中山果奈，【競泳】解説…生田泰志，杉内周作，アナウンサー…西阪太志</desc>
@@ -190,9 +182,13 @@
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-  <programme start="20210902100500 +0000" stop="20210902115400 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210902100500 +0000" stop="20210902115300 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　女子１００ｍ背泳ぎ　Ｓ１４・予選、女子５０ｍ背泳ぎ　Ｓ２・予選、男子５０ｍ自由形　Ｓ４・予選ほか（中継）　◇車いすテニス（中継）</desc>
+  </programme>
+  <programme start="20210902115300 +0000" stop="20210902115400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
   </programme>
   <programme start="20210902115400 +0000" stop="20210902120000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">気象情報</title>
@@ -206,9 +202,13 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
-  <programme start="20210902122000 +0000" stop="20210902124500 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210902122000 +0000" stop="20210902124400 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすテニス（中継）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
+  </programme>
+  <programme start="20210902124400 +0000" stop="20210902124500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
   </programme>
   <programme start="20210902124500 +0000" stop="20210902130000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">連続テレビ小説 おかえりモネ</title>
@@ -218,19 +218,31 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
-  <programme start="20210902130500 +0000" stop="20210902144000 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210902130500 +0000" stop="20210902130700 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210902130700 +0000" stop="20210902145900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすテニス（中継）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀，【ボッチャ】解説…新井大基ほか</desc>
   </programme>
-  <programme start="20210902144000 +0000" stop="20210902144500 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210902145900 +0000" stop="20210902150000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210902150000 +0000" stop="20210902150500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-  <programme start="20210902144500 +0000" stop="20210902161500 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210902150500 +0000" stop="20210902164900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすテニス（中継）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
   </programme>
-  <programme start="20210902161500 +0000" stop="20210902175900 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210902164900 +0000" stop="20210902165500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210902165500 +0000" stop="20210902175900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすテニス（中継）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
   </programme>
@@ -261,6 +273,10 @@
   <programme start="20210902190000 +0000" stop="20210902193000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース7</title>
     <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】上原光紀，栗原望，【気象キャスター】平野有海</desc>
+  </programme>
+  <programme start="20210902193000 +0000" stop="20210902205900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇陸上　女子走り幅跳び　Ｔ６３・決勝、女子１００ｍ　Ｔ１２・決勝、男子８００ｍ　Ｔ５４・決勝、女子１００ｍ　Ｔ６４・予選ほか（中継）　櫻井翔，岸田奈美ほか</desc>
   </programme>
 	<programme start="20210901180000 +0000" stop="20210901203000 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
@@ -574,14 +590,6 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇競泳　女子５０ｍ背泳ぎ　Ｓ２・決勝、男子５０ｍ自由形　Ｓ３・決勝、男子５０ｍ自由形　Ｓ４・決勝、女子５０ｍ自由形　Ｓ４・決勝、</desc>
 	</programme>
-	<programme start="20210901155000 +0000" stop="20210901190000 +0000" channel="NipponTV.jp">
-		<title lang="ja">news every.</title>
-		<desc lang="ja">小室さん母“金銭トラブル”未解決…今後は▼気温下がり秋の気配…東京３１６８人感染▼宣言下の新学期…リモート始業式や黙食も▼総裁選前の解散否定に…“菅おろし”の声</desc>
-	</programme>
-	<programme start="20210901190000 +0000" stop="20210901195400 +0000" channel="NipponTV.jp">
-		<title lang="ja">有吉の壁</title>
-		<desc lang="ja">調理師専門学校潜みボケまくり！チョコンヌ！かが屋×空気！タイム×インポッシブル爆笑▼ブレイク芸人選手権！チョコプラ＆インポッシブル新キャラにジャンポケ㊙衝撃ネタ</desc>
-	</programme>
 	<programme start="20210901195400 +0000" stop="20210901200000 +0000" channel="NipponTV.jp">
 		<title lang="ja">まもなく笑ってコラえて!</title>
 		<desc lang="ja">有吉の壁芸人が笑コラの名物企画に挑戦！カメラに向かってごめんなさい！チョコプラはお尻出し過ぎ⁉▼この後は女優・杏が料理経験ほぼゼロ女子大生に超簡単レシピを伝授</desc>
@@ -810,10 +818,6 @@
 長く険しいカタールへの最後の戦い“アジア最終予選”が開幕！
 日本中の心を一つに、サッカー日本代表にエールを！</desc>
 	</programme>
-	<programme start="20210901154900 +0000" stop="20210901190000 +0000" channel="TBS2.jp">
-		<title lang="ja">Nスタ</title>
-		<desc lang="ja">警戒…悩み多き新学期　学校クラスターを防げ　家庭内での感染も増加▽高３女子遺体で発見　逮捕の男「妻が嫉妬」▽おせち商戦スタート　巣ごもり正月で需要増</desc>
-	</programme>
 	<programme start="20210901190000 +0000" stop="20210901210000 +0000" channel="TBS2.jp">
 		<title lang="ja">東大王</title>
 		<desc lang="ja">全国１０１７人のクイズ高校生の頂点が決まる…泣いた！笑った！生徒も顧問の先生も…クイズに捧げた熱い夏▽日本一の高校ＶＳ東大王鶴崎＆川上さらに一夜限り伊沢が復活！</desc>
@@ -897,6 +901,10 @@
 	<programme start="20210902190000 +0000" stop="20210902200000 +0000" channel="TBS2.jp">
 		<title lang="ja">プレバト!!</title>
 		<desc lang="ja">和田アキ子が夏井先生の毒舌に悲鳴…！かまいたち、梅沢富美男にダメ出し＆夏井先生に逆ギレ★人気ナンバー１お天気キャスターが自信作★秋のタイトル戦開幕！キスマイ悲劇</desc>
+	</programme>
+	<programme start="20210902200000 +0000" stop="20210902215700 +0000" channel="TBS2.jp">
+		<title lang="ja">ニンゲン観察バラエティ モニタリング</title>
+		<desc lang="ja">木村拓哉が緊急参戦！一般の方の夢を叶えるため、超難問プレッシャーバトルに挑むドリームスペシャル！ドラマ「ロングバケーション」名シーン！スーパーボールが再び蘇る！</desc>
 	</programme>
 	<programme start="20210901182500 +0000" stop="20210901215400 +0000" channel="TVTokyo.jp">
 		<title lang="ja">水バラ</title>
@@ -1060,10 +1068,6 @@
 		<title lang="ja">最強!衝撃映像146連発!!</title>
 		<desc lang="ja">▼九死に一生！花嫁乗ったヘリが墜落！機体から炎…奇跡の救出▼妻リモート会議中…マヌケなパンツ夫が登場▼激カワ動物３２連発！爆笑「ドリアンVS猫」＆薬が怖すぎる子犬</desc>
 	</programme>
-	<programme start="20210901154500 +0000" stop="20210901190000 +0000" channel="FujiTV.jp">
-		<title lang="ja">Live News イット!</title>
-		<desc lang="ja">眞子さま年内にも結婚へ▽妻の嫉妬で殺害？高３女子遺体で発見▽綾瀬はるかさん感染▽池袋暴走あす判決へ▽本当にいた迷惑客！「会計が遅い」怒鳴るほか</desc>
-	</programme>
 	<programme start="20210901190000 +0000" stop="20210901210000 +0000" channel="FujiTV.jp">
 		<title lang="ja">林修のニッポンドリル</title>
 		<desc lang="ja">ギャル曽根・業務田スー子が激安商品を大量買い＆アレンジ料理▽オーケーのお弁当はなぜここまで安くて美味い？潜入調査でカラクリ発見</desc>
@@ -1160,13 +1164,9 @@
 		<title lang="ja">VS魂</title>
 		<desc lang="ja">学校を貸し切って夢の対決！廊下ボウリング＆校庭で巨大お絵描き＆雑巾掛けレース！平野紫耀ｖｓ岸優太が禁断のガチンコ対決！超高層マシュマロキャッチで奇跡が</desc>
 	</programme>
-	<programme start="20210901183000 +0000" stop="20210901190000 +0000" channel="Tokyo MX">
-		<title lang="ja">ELTソング〜えいごでうたおう!〜</title>
-		<desc lang="ja">イギリス発祥、１００ヵ国以上で活用されている子ども向け動画教材「ＥＬＴ　Ｓｏｎｇｓ」を活用した世界初のテレビ番組が登場！</desc>
-	</programme>
-	<programme start="20210901190000 +0000" stop="20210901193000 +0000" channel="Tokyo MX">
-		<title lang="ja">プリパラ</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210902200000 +0000" stop="20210902215400 +0000" channel="FujiTV.jp">
+		<title lang="ja">千鳥のクセがスゴいネタGP</title>
+		<desc lang="ja">遠藤と狩野トレンディエンジェル森三中黒沢大村親子日谷ヒロノリ粗品ほしの＆斉藤…新作最強クセ曲大連発に勝地涼＆長濱ねる大爆笑！ネルソンズのゾンビ最終回！</desc>
 	</programme>
 	<programme start="20210901193000 +0000" stop="20210901200000 +0000" channel="Tokyo MX">
 		<title lang="ja">スター☆トゥインクルプリキュア</title>
@@ -1355,5 +1355,17 @@
 	<programme start="20210902190000 +0000" stop="20210902192600 +0000" channel="Tokyo MX">
 		<title lang="ja">アイカツ!</title>
 		<desc lang="ja">走り出す、私のアツいアイドル活動！</desc>
+	</programme>
+	<programme start="20210902192600 +0000" stop="20210902193000 +0000" channel="Tokyo MX">
+		<title lang="ja">シルバニアファミリー ミニストーリー ピオニー</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210902193000 +0000" stop="20210902200000 +0000" channel="Tokyo MX">
+		<title lang="ja">ハートキャッチプリキュア!</title>
+		<desc lang="ja">＃４２「とまどいのゆりさん！ラブレター見ちゃいました…」</desc>
+	</programme>
+	<programme start="20210902200000 +0000" stop="20210902210000 +0000" channel="Tokyo MX">
+		<title lang="ja">news TOKYO FLAG</title>
+		<desc lang="ja">事故から２年４カ月…池袋暴走事故の裁判で判決…遺族の思いは？▼東京都のモニタリング会議開催…減少傾向の感染者数に専門家は？▼パラリンピック１０日目メダルは？</desc>
 	</programme>
 </tv>
