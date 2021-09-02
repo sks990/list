@@ -50,26 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902175900 +0000" stop="20210902180000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210902180000 +0000" stop="20210902181000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210902181000 +0000" stop="20210902183000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">首都圏ネットワーク</title>
-    <desc lang="ja">▼家族全員コロナ感染、親は重症化。懸命な治療が続けられたが…。▼残された子どもは？濃厚接触などが理由で受け入れ機関が見つからない。▼池袋暴走事故で判決。</desc>
-  </programme>
-  <programme start="20210902183000 +0000" stop="20210902184400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇競泳　男子５０ｍ背泳ぎ　Ｓ１・決勝ほか（中継）　【出演】武井壮，岸田奈美，根木慎志，三上大進，【アナウンサー】中野淳，杉浦友紀，中山果奈ほか</desc>
-  </programme>
-  <programme start="20210902184400 +0000" stop="20210902184500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
   <programme start="20210902184500 +0000" stop="20210902190000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">首都圏ネットワーク</title>
     <desc lang="ja">▼東京都のモニタリング会議「極めて高い値続いている」医療提供体制の限界を超え救える命が救えない事態▼家族全員コロナ感染、親は重症化。懸命な治療が続けられたが…。</desc>
@@ -258,22 +238,26 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210902175500 +0000" stop="20210902180000 +0000" channel="eTele.jp">
-		<title lang="ja">オトッペ</title>
-		<desc lang="ja">音から生まれた不思議な生きもの・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
-	</programme>
-	<programme start="20210902180000 +0000" stop="20210902181000 +0000" channel="eTele.jp">
-		<title lang="ja">おじゃる丸</title>
-		<desc lang="ja">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
-	</programme>
-	<programme start="20210902181000 +0000" stop="20210902182000 +0000" channel="eTele.jp">
-		<title lang="ja">忍たま乱太郎</title>
-		<desc lang="ja">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
-	</programme>
-	<programme start="20210902182000 +0000" stop="20210902185000 +0000" channel="eTele.jp">
-		<title lang="ja">天才てれびくんhello，</title>
-		<desc lang="ja">てれび戦士がいろんなおしごとに体当たりでトライする「ｈｅｌｌｏ，ワーク」シリーズ、今回はスペシャル版！</desc>
-	</programme>
+  <programme start="20210903181000 +0000" stop="20210903183000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">首都圏ネットワーク</title>
+    <desc lang="ja">１都６県のニュース・気象情報、新型コロナ感染状況、生活への影響などをくわしくお伝えします。</desc>
+  </programme>
+  <programme start="20210903183000 +0000" stop="20210903184400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇競泳　男子１００ｍバタフライ　Ｓ１１・決勝ほか（中継）　【出演】吉田沙保里，田口亜希，萩原智子，三上大進，【アナウンサー】中野淳，杉浦友紀，中山果奈ほか</desc>
+  </programme>
+  <programme start="20210903184400 +0000" stop="20210903184500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210903184500 +0000" stop="20210903190000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">首都圏ネットワーク</title>
+    <desc lang="ja">ニュース・気象情報、新型コロナ感染状況、生活への影響などをくわしくお伝えします。</desc>
+  </programme>
+  <programme start="20210903190000 +0000" stop="20210903193000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース7</title>
+    <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】上原光紀，栗原望，【気象キャスター】平野有海</desc>
+  </programme>
 	<programme start="20210902185000 +0000" stop="20210902204500 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇競泳　女子５０ｍ背泳ぎ　Ｓ２・決勝、男子５０ｍ自由形　Ｓ３・決勝、男子５０ｍ自由形　Ｓ４・決勝、女子５０ｍ自由形　Ｓ４・決勝、</desc>
@@ -709,9 +693,9 @@
 		<title lang="ja">news every.</title>
 		<desc lang="ja">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
 	</programme>
-	<programme start="20210902164000 +0000" stop="20210902184500 +0000" channel="Asahi.jp">
-		<title lang="ja">スーパーJチャンネル</title>
-		<desc lang="ja">池袋暴走事故で判決が…９０歳被告は無罪を主張▽ワクチン接種後感染“３回目”求める声が▽食卓の必需品が高騰▽コロナ禍の民間救急…重症化防ぐ奔走に密着(他)</desc>
+	<programme start="20210903190000 +0000" stop="20210903195600 +0000" channel="NipponTV.jp">
+		<title lang="ja">クイズ!あなたは小学5年生より賢いの?</title>
+		<desc lang="ja">狂言風言葉で子どもに大人気すゑひろがりず！国立大卒＆双子パパ南條殿＆三島殿が快進撃！Mr.マリック＆LUNA父娘は超魔術で＆１児の母キンタロー300万円ゲット？</desc>
 	</programme>
 	<programme start="20210902184500 +0000" stop="20210902211500 +0000" channel="Asahi.jp">
 		<title lang="ja">2022FIFAワールドカップカタール アジア地区予選</title>
@@ -825,6 +809,10 @@
 		<title lang="ja">スーパーJチャンネル</title>
 		<desc lang="ja">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
 	</programme>
+	<programme start="20210903184500 +0000" stop="20210903214800 +0000" channel="Asahi.jp">
+		<title lang="ja">千鳥の芸人C-1グランプリ</title>
+		<desc lang="ja">いきなりゴールデンで３時間▽人気芸人30名によるチャレンジ企画５連発…①寿司食べながらカラオケ②強風クイズ③安藤優子が審査員④野球部芸人ＨＲ競争⑤千鳥vsかまいたち</desc>
+	</programme>
 	<programme start="20210902154900 +0000" stop="20210902190000 +0000" channel="TBS2.jp">
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">感染者は減少傾向も？自宅療養中の死亡続く▽池袋暴走事故で判決　９０歳被告に実刑は…▽猛暑はもう終わり？きょうも秋雨＆肌寒く　秋グルメが続々登場！</desc>
@@ -921,9 +909,9 @@
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">陽性者再増加に危惧…「滞留人口」東京急増▽子ども専用病棟苦悩▽自粛続きに楽しみを　パパ達からサプライズ▽秋雨ホカホカ恋しく▽岸田氏に菅首相は？</desc>
 	</programme>
-	<programme start="20210902175500 +0000" stop="20210902182500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">SHAMAN KING</title>
-		<desc lang="ja">蓮たちの勝利を祝う葉たちの元に、シャーマンファイト第２試合の中継が飛び込んできた。打倒ハオを悲願とする「X-LAWS」のトップ「X-Ⅰ」には、あの少年の姿があった…。</desc>
+	<programme start="20210903190000 +0000" stop="20210903200000 +0000" channel="TBS2.jp">
+		<title lang="ja">オオカミ少年</title>
+		<desc lang="ja">🈑田中樹がONEOKROCK「Wherever you are」カラオケ熱唱＆新企画・スターの自宅生中継！家に届いた4つの商品のうち欲しいフリをしてるのはどれ？</desc>
 	</programme>
 	<programme start="20210902182500 +0000" stop="20210902214800 +0000" channel="TVTokyo.jp">
 		<title lang="ja">最強!衝撃映像146連発!!</title>
@@ -1098,6 +1086,14 @@
 		<desc lang="ja">世界160以上の国と地域で大人気のパウ・パトロール！今まで放送してきた全話の中から選りすぐりのエピソードをお届けします！！
 ▽副音声でアニメ本編は英語版も聞けるよ！</desc>
 	</programme>
+	<programme start="20210903182500 +0000" stop="20210903185500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">妖怪ウォッチ♪</title>
+		<desc lang="ja">完全に自分のせいであるにも関わらず、毎年ギリギリまで夏休みの宿題をやらないのは妖怪のしわざだと言い出したケータ。ウォッチで辺りを照らしてみると、そこには…。</desc>
+	</programme>
+	<programme start="20210903185500 +0000" stop="20210903192500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ポケットモンスター</title>
+		<desc lang="ja">エーフィとブラッキーに会うため、日蝕城を訪れたサトシとゴウとコハル。そこにはなんとコハルに瓜二つの少女、ハルヒの存在が。新しく城主になろうとするも怪しい影が…。</desc>
+	</programme>
 	<programme start="20210902154500 +0000" stop="20210902190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">池袋暴走死傷事故　飯塚被告に“禁錮５年”　事故の遺族はその時▽尾身会長がインスタ開設…Ｔシャツの文字が話題に▽混迷“ポスト二階”解散封印…人事難航も</desc>
@@ -1198,13 +1194,9 @@
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 	</programme>
-	<programme start="20210902170000 +0000" stop="20210902180000 +0000" channel="Tokyo MX">
-		<title lang="ja">5時に夢中!</title>
-		<desc lang="ja">木曜日は文壇ガールズ…岩井志麻子＆中瀬ゆかり！▼話題の注目記事で激論！井戸端報道！▼前半は【追跡・エロい魚を深掘り調査！】▼後半は【新漢字クリエイト開催！】</desc>
-	</programme>
-	<programme start="20210902180000 +0000" stop="20210902183000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210903190000 +0000" stop="20210903200000 +0000" channel="FujiTV.jp">
+		<title lang="ja">坂上どうぶつ王国</title>
+		<desc lang="ja">助けた猫に救われ人生大逆転ＳＰ▽借金地獄で崖っぷち…思わぬ猫の行動が奇跡を呼び１億円大豪邸▽廃業寸前だった食堂が蘇る！猫が起こした「一瞬の奇跡」とは？</desc>
 	</programme>
 	<programme start="20210902183000 +0000" stop="20210902190000 +0000" channel="Tokyo MX">
 		<title lang="ja">ABCブロッコリ!</title>
@@ -1392,6 +1384,14 @@
 	</programme>
 	<programme start="20210903180000 +0000" stop="20210903183000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903183000 +0000" stop="20210903190000 +0000" channel="Tokyo MX">
+		<title lang="ja">キングオブモルックのモルック大作戦!!</title>
+		<desc lang="ja">おそらく世界初のモルック番組！ＡＫＢ４８チームが参戦！前シーズン勝利を飾った乃木坂４６へのライバル心から、なぜか国民的アイドルがバラエティアイドルに路線変更⁉</desc>
+	</programme>
+	<programme start="20210903190000 +0000" stop="20210903193000 +0000" channel="Tokyo MX">
+		<title lang="ja">仮面ライダー</title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
