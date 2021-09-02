@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902221500 +0000" stop="20210902231500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック ハイライト</title>
-    <desc lang="ja">注目競技の結果を伝える。車いすテニスは準決勝。国枝慎吾と上地結衣の決勝進出は？風間俊介さんは陸上の新種目ユニバーサルリレーをリポート。副音声解説と共に伝える。</desc>
-  </programme>
-  <programme start="20210902231500 +0000" stop="20210902232000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210902232000 +0000" stop="20210902233000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">時論公論</title>
-    <desc lang="ja">新たにデジタル庁が発足した。司令塔として行政のデジタル化を進めるが、省庁の縦割りを超えて国民が必要なサービスを早く確実に届けられるようになるのか解説する。</desc>
-  </programme>
-  <programme start="20210902233000 +0000" stop="20210902233500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">未来スイッチ</title>
-    <desc lang="ja">不要になったダンボールを２万円もする財布に作りかえる。アップサイクルという。より価値の高いものにリサイクルする発想。ものを捨てず豊かに暮らす生き方だ。＃ＳＤＧｓ</desc>
-  </programme>
   <programme start="20210902233500 +0000" stop="20210903004800 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">鶴瓶の家族に乾杯</title>
     <desc lang="ja">これまでの“ぶっつけ本番旅”の中から東京都の名場面をえりすぐってお届けする。スタジオゲストは２０１６年に江東区深川を旅した高橋克典。かつて出会ったあの家族は今？</desc>
@@ -258,18 +242,22 @@
     <title lang="ja">東京2020パラリンピック ハイライト</title>
     <desc lang="ja">木村敬一と富田宇宙。パラ競泳、宿命のライバル▽車いすテニス・上地結衣が悲願の金をかけ決勝戦▽競泳レジェンド・鈴木孝幸が生出演▽相葉雅紀さんが迫る亡き先輩への思い</desc>
   </programme>
-	<programme start="20210902225500 +0000" stop="20210902232000 +0000" channel="eTele.jp">
-		<title lang="ja">太田光のつぶやき英語</title>
-		<desc lang="ja">ＳＮＳで話題のニュースやトレンドなど、注目のハッシュタグへの海外からの投稿を英語で読み解き、世界の“今”を知る英語情報番組。ＭＣ：太田光（爆笑問題）・森川葵</desc>
-	</programme>
-	<programme start="20210902232000 +0000" stop="20210902233000 +0000" channel="eTele.jp">
-		<title lang="ja">もっと伝わる!即レス英会話</title>
-		<desc lang="ja">英語で話しかけられた時、とっさに応対できますか？　簡単な英語で「即レス」できるよう、スタジオの出演者が画面の前のあなたを徹底的にコーチします！</desc>
-	</programme>
-	<programme start="20210902233000 +0000" stop="20210902235500 +0000" channel="eTele.jp">
-		<title lang="ja">旅するためのフランス語</title>
-		<desc lang="ja">いつか旅する日のために、旅先で役立つフランス語をシチュエーション別に学ぶ語学番組。南フランスへの旅に憧れる俳優の須藤温子さんと一緒に、楽しく学びましょう！</desc>
-	</programme>
+  <programme start="20210903232500 +0000" stop="20210903233000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210903233000 +0000" stop="20210903234000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">時論公論</title>
+    <desc lang="ja">おととし東京・池袋で車を暴走させ、母親と３歳児を死亡させた罪などに問われた被告（９０）に禁固５年の判決。高齢者による事故を防ぐには何ができるのか考える。</desc>
+  </programme>
+  <programme start="20210903234000 +0000" stop="20210903234500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">未来スイッチ</title>
+    <desc lang="ja">コロナ禍で新しい生活様式が広がるなか、視覚に障害のある人たちが対応できず困難に直面している。不安を募らせる視覚障害者を支えるために、私たちにできることとは。</desc>
+  </programme>
+  <programme start="20210903234500 +0000" stop="20210904003100 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">逆転人生</title>
+    <desc lang="ja">あなたの知らないＬＧＢＴ苦難の歴史。日本初のＬＧＢＴパレードを開催した伝説のゲイ活動家。戦前から続く差別。エイズパニック。そしてパレード中に起こった涙の逆転劇。</desc>
+  </programme>
 	<programme start="20210902235500 +0000" stop="20210903000000 +0000" channel="eTele.jp">
 		<title lang="ja">Eテレ2355</title>
 		<desc lang="ja">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です</desc>
@@ -586,9 +574,17 @@
 		<title lang="ja">ドキュランドへようこそ</title>
 		<desc lang="ja">きつ音の子どもたちが集う２週間のキャンプ。周囲に理解されず、からに閉じこもってきた子たちが、同じ悩みを抱える仲間と出会い、ありのままの自分でいいと気づいていく。</desc>
 	</programme>
-	<programme start="20210902220000 +0000" stop="20210902230000 +0000" channel="NipponTV.jp">
-		<title lang="ja">ダウンタウンDX</title>
-		<desc lang="ja">★トラウデン鬼越ケンカ私生活★こじるり愛車ジャガーで銀座通い？共演ＮＧの芸能人も発覚★収納王子コジマジックＶＳ美人妻激白★三代目ＥＬＬＹが１３００万円超お宝紛失</desc>
+	<programme start="20210903235000 +0000" stop="20210903235500 +0000" channel="eTele.jp">
+		<title lang="ja">our SPORTS!</title>
+		<desc lang="ja">スポーツの魅力を伝えるｏｕｒ　ＳＰＯＲＴＳ。落語家・柳家わさびさんが、たった５分でざっくりとパラスポーツ「走り幅跳び」の基礎知識をお伝えする。</desc>
+	</programme>
+	<programme start="20210903235500 +0000" stop="20210904000000 +0000" channel="eTele.jp">
+		<title lang="ja">Eテレ2355</title>
+		<desc lang="ja">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です</desc>
+	</programme>
+	<programme start="20210904000000 +0000" stop="20210904005000 +0000" channel="eTele.jp">
+		<title lang="ja">SWITCHインタビュー 達人達(たち)</title>
+		<desc lang="ja">怪獣映画や特撮で活躍の監督・樋口真嗣と「マイブーム」「ゆるキャラ」などの言葉の生みの親・みうらじゅん。怪獣好きな二人、会うなりウルトラマンにゴジラにトークさく裂</desc>
 	</programme>
 	<programme start="20210902230000 +0000" stop="20210903000400 +0000" channel="NipponTV.jp">
 		<title lang="ja">news zero</title>
@@ -701,17 +697,9 @@
 		<title lang="ja">MUSIC BLOOD</title>
 		<desc lang="ja">「自分の音楽の血となったアーティストは誰ですか？」五輪閉会式でも話題！クリーピーナッツがＪポップ名曲をヒップホップ目線で超解析！敬愛するライムスターを初カバー！</desc>
 	</programme>
-	<programme start="20210902220900 +0000" stop="20210902232500 +0000" channel="Asahi.jp">
-		<title lang="ja">報道ステーション</title>
-		<desc lang="ja">街のクリニックが奮闘…コロナ中等症の治療も“綱渡り”医療の現場▽母娘死亡の池袋暴走事故…飯塚被告に判決▽Ｗ杯アジア最終予選の初戦！内田篤人が解説(他)</desc>
-	</programme>
-	<programme start="20210902232500 +0000" stop="20210902233000 +0000" channel="Asahi.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">松岡修造、寺川綾、内田篤人らテレビ朝日スポーツキャスターが、注目の選手をご紹介！競技の見どころをお伝えします。</desc>
-	</programme>
-	<programme start="20210902233000 +0000" stop="20210902233500 +0000" channel="Asahi.jp">
-		<title lang="ja">あなたの駅前物語</title>
-		<desc lang="ja">【浦和駅／埼玉県】サッカーのまちの駅前</desc>
+	<programme start="20210903233000 +0000" stop="20210904003500 +0000" channel="NipponTV.jp">
+		<title lang="ja">news zero</title>
+		<desc lang="ja">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
 	</programme>
 	<programme start="20210902233500 +0000" stop="20210903003500 +0000" channel="Asahi.jp">
 		<title lang="ja">アメトーーク!</title>
@@ -815,9 +803,19 @@
 		<title lang="ja">報道ステーション</title>
 		<desc lang="ja">「きょう、色々。」こだわりのトップニュースに、ダイナミックなスタジオ展開！きょう知りたいニュースを“もっと深く、もっとカラフル”にお伝えします！</desc>
 	</programme>
-	<programme start="20210902225700 +0000" stop="20210902230000 +0000" channel="TBS2.jp">
-		<title lang="ja">YELL!2020!〜オリパラから未来へ〜</title>
-		<desc lang="ja">★ナレーション：かれん（Little Glee Monster）★東京パラリンピック・アーチェリー日本代表上山友裕選手★パラリンピックの先に見据える未来とは？</desc>
+	<programme start="20210903231000 +0000" stop="20210903231500 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">松岡修造、寺川綾、内田篤人らテレビ朝日スポーツキャスターが、注目の選手をご紹介！競技の見どころをお伝えします。</desc>
+	</programme>
+	<programme start="20210903231500 +0000" stop="20210903232000 +0000" channel="Asahi.jp">
+		<title lang="ja">気づきの扉</title>
+		<desc lang="ja">本と本に関するさまざまな催しに囲まれて暮らせるシェアハウス。従来のシェアハウスとは一線を画すこの取り組み…誕生のきっかけをつくった、ある“気づき”とは？</desc>
+	</programme>
+	<programme start="20210903232000 +0000" stop="20210904002000 +0000" channel="Asahi.jp">
+		<title lang="ja">漂着者</title>
+		<desc lang="ja">＜主演＞斎藤工 ×＜企画・原作・脚本＞秋元康
+とある海岸に流れ着いた記憶喪失の男。予言めいた力を発揮する彼は何者なのか⁉
+この夏、誰も見たことのない物語！</desc>
 	</programme>
 	<programme start="20210902230000 +0000" stop="20210903000100 +0000" channel="TBS2.jp">
 		<title lang="ja">news23</title>
@@ -913,13 +911,9 @@
 		<title lang="ja">A-Studio+</title>
 		<desc lang="ja">ついにＡスタ初登場！「けっこう情報を仕入れていますね…」ベールに包まれた素顔と私生活を関係者たちに極秘取材‼…ところが会話が今ひとつ噛み合わず、鶴瓶ピンチ⁉</desc>
 	</programme>
-	<programme start="20210902225800 +0000" stop="20210902230600 +0000" channel="TVTokyo.jp">
-		<title lang="ja">探究の階段</title>
-		<desc lang="ja">革新的なアイデアやテクノロジーでワクワクする未来を創りたい。そんな思いで研究・開発に取り組む人々がいる。探究の階段を登った先にある未来は、どんな世界なんだろう。</desc>
-	</programme>
-	<programme start="20210902230600 +0000" stop="20210902235500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">カンブリア宮殿</title>
-		<desc lang="ja">新商品の開発よりも、定番商品に磨きをかけ、時代に合わせた人気商品に育て上げていく手法。森永製菓流・こだわりのヒット商品開発術に迫る。</desc>
+	<programme start="20210903233000 +0000" stop="20210904002000 +0000" channel="TBS2.jp">
+		<title lang="ja">news23</title>
+		<desc lang="ja">国山ハセンアナウンサーが新たに加入！小川彩佳と共に番組独自の調査報道からＺ世代に刺さるカルチャーまで　明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
 	</programme>
 	<programme start="20210902235500 +0000" stop="20210903000500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">追跡 LIVE! SPORTS ウォッチャー</title>
@@ -1106,13 +1100,9 @@
 		<title lang="ja">WBS</title>
 		<desc lang="ja">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 	</programme>
-	<programme start="20210902225400 +0000" stop="20210902230000 +0000" channel="FujiTV.jp">
-		<title lang="ja">空旅をあなたへ-PREMIUM SKY-</title>
-		<desc lang="ja">ある都市の「食」「遊」「楽」などの情報を紹介し、じっくりと味わいつくす上質な旅番組。毎回とっておきの現地情報を旅人であるアーティストと共に紹介します。</desc>
-	</programme>
-	<programme start="20210902230000 +0000" stop="20210902234000 +0000" channel="FujiTV.jp">
-		<title lang="ja">アウト×デラックス</title>
-		<desc lang="ja">イケメンなのになぜモテない？朝のお天気キャスターで人気の片岡信和の秘密</desc>
+	<programme start="20210903235800 +0000" stop="20210904001700 +0000" channel="TVTokyo.jp">
+		<title lang="ja">追跡 LIVE! SPORTS ウォッチャー</title>
+		<desc lang="ja">この日にあった最新のスポーツ情報をお届け！▽プロ野球＆MLBやサッカーさらに五輪競技を総力取材</desc>
 	</programme>
 	<programme start="20210902234000 +0000" stop="20210903003000 +0000" channel="FujiTV.jp">
 		<title lang="ja">FNN Live News α</title>
@@ -1206,13 +1196,9 @@
 		<title lang="ja">全力!脱力タイムズ</title>
 		<desc lang="ja">残暑を乗り切る究極の暑さ対策を実証実験！小籔千豊も震えあがるような怖い話で体温は低下するのか？▽想定外？福山翔大も怪談に挑戦で驚きの結末▽新喜劇生披露</desc>
 	</programme>
-	<programme start="20210902223000 +0000" stop="20210902230000 +0000" channel="Tokyo MX">
-		<title lang="ja">SCARLET NEXUS</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210902230000 +0000" stop="20210902233000 +0000" channel="Tokyo MX">
-		<title lang="ja">バンステ!BanG Dream! STATION 2021</title>
-		<desc lang="ja">メディアミックスプロジェクト『バンドリ！』の魅力の一つでもある、リアルライブ。そんなライブをキャストのコメンタリーとともに楽しめる番組です。</desc>
+	<programme start="20210903234000 +0000" stop="20210904001000 +0000" channel="FujiTV.jp">
+		<title lang="ja">ネタパレ</title>
+		<desc lang="ja">レイザーラモンＲＧ×キンタロー。コラボネタ▽ガリベンズ矢野・ラパルフェ・ゆず姉ｗｉｔｈむらせ・朝倉兄弟にそっくり朝食みるく！話題ＴＯＫＹＯ　ＣＯＯＬモノマネネタ</desc>
 	</programme>
 	<programme start="20210902233000 +0000" stop="20210903000000 +0000" channel="Tokyo MX">
 		<title lang="ja">ひぐらしのなく頃に卒</title>
@@ -1401,5 +1387,13 @@
 	<programme start="20210903230000 +0000" stop="20210903233000 +0000" channel="Tokyo MX">
 		<title lang="ja">D4DJ Photon Maiden TV</title>
 		<desc lang="ja">D4DJの情報を盛りだくさんでお送りいたします！番組MCはPhoton Maidenのメンバーが担当いたします。ミニアニメ『ぷっちみく♪ D4DJ Petit Mix』もお見逃しなく！</desc>
+	</programme>
+	<programme start="20210903233000 +0000" stop="20210904000000 +0000" channel="Tokyo MX">
+		<title lang="ja">格ゲー喫茶ハメじゅん</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904000000 +0000" stop="20210904003000 +0000" channel="Tokyo MX">
+		<title lang="ja">ヴァニタスの手記(カルテ)</title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
