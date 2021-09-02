@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902095900 +0000" stop="20210902100000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210902100000 +0000" stop="20210902100500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210902100500 +0000" stop="20210902115300 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　女子１００ｍ背泳ぎ　Ｓ１４・予選、女子５０ｍ背泳ぎ　Ｓ２・予選、男子５０ｍ自由形　Ｓ４・予選ほか（中継）　◇車いすテニス（中継）　武井壮，猪狩ともかほか</desc>
@@ -270,22 +262,10 @@
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210902095500 +0000" stop="20210902100500 +0000" channel="eTele.jp">
-		<title lang="ja">エイゴビート2</title>
-		<desc lang="ja">リズムに乗って体を動かし、楽しく英語を身につけよう！英語ビギナーのキッズが、習ったキーフレーズを引っさげて外国人との会話に挑戦。小学３、４年向け。出演・すみれ</desc>
-	</programme>
-	<programme start="20210902100500 +0000" stop="20210902101500 +0000" channel="eTele.jp">
-		<title lang="ja">キソ英語を学んでみたら 世界とつながった。</title>
-		<desc lang="ja">世界の家族とオンラインで会話し、小学校で習う英語で世界の人とつながる番組。現地のリアルな暮らしや文化を体感でき、キーフレーズの実践的な使い方が身につきます。</desc>
-	</programme>
-	<programme start="20210902101500 +0000" stop="20210902102500 +0000" channel="eTele.jp">
-		<title lang="ja">もっと伝わる!即レス英会話</title>
-		<desc lang="ja">英語で話しかけられた時、とっさに応対できますか？　簡単な英語で「即レス」できるよう、スタジオの出演者が画面の前のあなたを徹底的にコーチします！</desc>
-	</programme>
-	<programme start="20210902102500 +0000" stop="20210902105500 +0000" channel="eTele.jp">
-		<title lang="ja">クラシックTV</title>
-		<desc lang="ja">【アンコール放送】ゲストは紅白出場シンガーソングライターのｍｉｌｅｔ！▽クラシック音楽ファンの彼女が大好きという、ロシア出身の作曲家ラフマニノフを取り上げる。</desc>
-	</programme>
+  <programme start="20210903100500 +0000" stop="20210903115300 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇陸上　男子１５００ｍ　Ｔ２０・決勝、女子１５００ｍ　Ｔ２０・決勝、男子４００ｍ　Ｔ４７・予選、男子走り高跳び　Ｔ６４・決勝</desc>
+  </programme>
 	<programme start="20210902105500 +0000" stop="20210902110000 +0000" channel="eTele.jp">
 		<title lang="ja">まいにちスクスク</title>
 		<desc lang="ja">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
@@ -586,9 +566,25 @@
 		<title lang="ja">ミミクリーズ</title>
 		<desc lang="ja">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
 	</programme>
-	<programme start="20210902080000 +0000" stop="20210902102500 +0000" channel="NipponTV.jp">
-		<title lang="ja">スッキリ</title>
-		<desc lang="ja">ボッチャ杉村選手が金メダル！元監督と阿部が観戦で頭脳戦分析▽池袋暴走事故きょう判決・妻子失った夫が語った思い▽交差接種の効果と課題▽五七五で青春バトル俳句甲子園</desc>
+	<programme start="20210903101000 +0000" stop="20210903101500 +0000" channel="eTele.jp">
+		<title lang="ja">びじゅチューン!</title>
+		<desc lang="ja">発想の源は、国宝「桜ヶ丘４号銅鐸」（神戸市立博物館）。銅鐸を頭にかぶるのがドレスコードの「仮面舞踏会」があったら？身に着けた銅鐸から、人となりを想像するのかも。</desc>
+	</programme>
+	<programme start="20210903101500 +0000" stop="20210903102500 +0000" channel="eTele.jp">
+		<title lang="ja">もっと伝わる!即レス英会話</title>
+		<desc lang="ja">英語で話しかけられた時、とっさに応対できますか？　簡単な英語で「即レス」できるよう、スタジオの出演者が画面の前のあなたを徹底的にコーチします！</desc>
+	</programme>
+	<programme start="20210903102500 +0000" stop="20210903105500 +0000" channel="eTele.jp">
+		<title lang="ja">太田光のつぶやき英語</title>
+		<desc lang="ja">ＳＮＳで話題のニュースやトレンドなど、注目のハッシュタグへの海外からの投稿を英語で読み解き、世界の“今”を知る英語情報番組。ＭＣ：太田光（爆笑問題）・森川葵</desc>
+	</programme>
+	<programme start="20210903105500 +0000" stop="20210903110000 +0000" channel="eTele.jp">
+		<title lang="ja">名曲アルバム</title>
+		<desc lang="ja">「おとめの祈り」（ピアノ）仲道郁代</desc>
+	</programme>
+	<programme start="20210903110000 +0000" stop="20210903114500 +0000" channel="eTele.jp">
+		<title lang="ja">あしたも晴れ!人生レシピ</title>
+		<desc lang="ja">暮らしに植物を取り入れて自然を感じてみませんか？植物や花を飾りベランダでは野菜やハーブの栽培。豊かな暮らしを実践している人からヒントを教えていただきます！</desc>
 	</programme>
 	<programme start="20210902102500 +0000" stop="20210902113000 +0000" channel="NipponTV.jp">
 		<title lang="ja">バゲット</title>
@@ -686,9 +682,16 @@
 		<title lang="ja">スッキリ</title>
 		<desc lang="ja">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
 	</programme>
-	<programme start="20210902095500 +0000" stop="20210902102500 +0000" channel="Asahi.jp">
-		<title lang="ja">じゅん散歩</title>
-		<desc lang="ja">三代目散歩人・高田純次が「横浜」を散策▽出川哲朗実家の老舗海苔店へ▽伊勢えび＆海鮮丼！相模湾の幸に興奮▽ハマの台所！人気市場へ</desc>
+	<programme start="20210903102500 +0000" stop="20210903105500 +0000" channel="NipponTV.jp">
+		<title lang="ja">女神のマルシェ</title>
+		<desc lang="ja">①体が整う！？大人気トレーナー監修まくら
+②脱毛サロン・ミュゼの品質を自宅でも！美肌に導くマルチシェーバー
+③柴田理恵も大絶賛の大ヒットぬか漬けキット</desc>
+	</programme>
+	<programme start="20210903105500 +0000" stop="20210903112500 +0000" channel="NipponTV.jp">
+		<title lang="ja">それいけ!アンパンマン</title>
+		<desc lang="ja">「ばいきんまんとカマンベールくん」
+「ビクビクちゃんとパジャマン」</desc>
 	</programme>
 	<programme start="20210902102500 +0000" stop="20210902130000 +0000" channel="Asahi.jp">
 		<title lang="ja">大下容子ワイド!スクランブル</title>
@@ -806,9 +809,9 @@
 		<title lang="ja">じゅん散歩</title>
 		<desc lang="ja">三代目散歩人・高田純次が「桜木町」を散策▽横浜醤油とんこつラーメンの研修道場▽純ちゃんのおしゃべりクッキング▽西口グルメ街で魚の漢字クイズ</desc>
 	</programme>
-	<programme start="20210902095500 +0000" stop="20210902102500 +0000" channel="TBS2.jp">
-		<title lang="ja">Let's!美バディ</title>
-		<desc lang="ja">★YouTubeで人気の竹脇まりなが指導★ゲストは歌手 郷ひろみ★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
+	<programme start="20210903102500 +0000" stop="20210903130000 +0000" channel="Asahi.jp">
+		<title lang="ja">大下容子ワイド!スクランブル</title>
+		<desc lang="ja">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
 	</programme>
 	<programme start="20210902102500 +0000" stop="20210902135500 +0000" channel="TBS2.jp">
 		<title lang="ja">ひるおび!</title>
@@ -896,6 +899,10 @@
 		<title lang="ja">キニナル金曜日</title>
 		<desc lang="ja">キニナル買い物情報とキニナル生活情報をお届けする
 得する情報バラエティ!!</desc>
+	</programme>
+	<programme start="20210903102500 +0000" stop="20210903135500 +0000" channel="TBS2.jp">
+		<title lang="ja">ひるおび!</title>
+		<desc lang="ja">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 	</programme>
 	<programme start="20210902092600 +0000" stop="20210902111300 +0000" channel="TVTokyo.jp">
 		<title lang="ja">なないろ日和!</title>
@@ -1173,14 +1180,6 @@
 		<title lang="ja">ノンストップ!</title>
 		<desc lang="ja">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 	</programme>
-	<programme start="20210902093000 +0000" stop="20210902100000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210902100000 +0000" stop="20210902103000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
 	<programme start="20210902103000 +0000" stop="20210902110000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
@@ -1376,5 +1375,13 @@
 	<programme start="20210903100000 +0000" stop="20210903103000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903103000 +0000" stop="20210903110000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903110000 +0000" stop="20210903115500 +0000" channel="Tokyo MX">
+		<title lang="ja">如懿伝〜紫禁城に散る宿命の王妃〜</title>
+		<desc lang="ja">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
 	</programme>
 </tv>
