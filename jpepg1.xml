@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902124500 +0000" stop="20210902130000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">連続テレビ小説 おかえりモネ</title>
-    <desc lang="ja">百音（清原果耶）や亮（永瀬廉）たち幼なじみは、築地に繰り出して、つかの間楽しいときを過ごす。そして汐見湯に戻った百音は、亮から思いもよらないことを告げられる。</desc>
-  </programme>
-  <programme start="20210902130000 +0000" stop="20210902130500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210902130500 +0000" stop="20210902130700 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">新型コロナ 命を守る行動を</title>
-    <desc lang="ja">重い副反応が出た時にどう備えるのか？家事や子育てへの影響を心配して事前に対策を講じた夫婦の事例を紹介。食材の買い置きや幼稚園の送迎など、家庭でできる工夫を紹介</desc>
-  </programme>
   <programme start="20210902130700 +0000" stop="20210902145900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすテニス　女子シングルス・準決勝「上地結衣×アニーク・ファン　コート」、男子シングルス・準決勝「国枝慎吾×ゴードン・リード」（中継）</desc>
@@ -262,26 +250,14 @@
     <title lang="ja">連続テレビ小説 おかえりモネ</title>
     <desc lang="ja">未知（蒔田彩珠）や亮（永瀬廉）たちは気仙沼へ帰っていった。そして、菅波（坂口健太郎）が、百音（清原果耶）にある重大なことを告げるため、汐見湯にやってくる。</desc>
   </programme>
-	<programme start="20210902125500 +0000" stop="20210902130000 +0000" channel="eTele.jp">
-		<title lang="ja">みんなのうた</title>
-		<desc lang="ja">「クマのぬいぐるみ」／「アフターマン」／「ユア　ハンド　マイ　ハート　〜Ｙｏｕｒ　Ｈａｎｄ，Ｍｙ　Ｈｅａｒｔ〜」／「恋するニワトリ」</desc>
-	</programme>
-	<programme start="20210902130000 +0000" stop="20210902130500 +0000" channel="eTele.jp">
-		<title lang="ja">NHK手話ニュース</title>
-		<desc lang="ja">【キャスター】河合祐三子</desc>
-	</programme>
-	<programme start="20210902130500 +0000" stop="20210902133500 +0000" channel="eTele.jp">
-		<title lang="ja">やまと尼寺 精進日記</title>
-		<desc lang="ja">夏の早朝。ご住職は丹精してきた蓮の花を切り、観音さまにお供え。泥の中で育てたからこそ美しく咲く蓮。蓮の葉に注いだお酒をいただく「象鼻杯」も夏ならではのお楽しみ。</desc>
-	</programme>
-	<programme start="20210902133500 +0000" stop="20210902135000 +0000" channel="eTele.jp">
-		<title lang="ja">きょうの健康</title>
-		<desc lang="ja">心筋梗塞などによって心臓の働きが大きく低下した「心不全」の患者は、体力を回復し心臓の負担を減らすリハビリが必要になる。チーム医療が支える心臓リハビリの最新情報。</desc>
-	</programme>
-	<programme start="20210902135000 +0000" stop="20210902135500 +0000" channel="eTele.jp">
-		<title lang="ja">名曲アルバム</title>
-		<desc lang="ja">「幻想即興曲」（ピアノ）清水和音　〜フランス・パリ〜</desc>
-	</programme>
+  <programme start="20210903130500 +0000" stop="20210903131000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210903131000 +0000" stop="20210903145900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">【出演】吉田沙保里，田口亜希，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀，【車いすテニス】解説…齊田悟司，二条実穂，アナウンサー…佐藤洋之ほか</desc>
+  </programme>
 	<programme start="20210902135500 +0000" stop="20210902140000 +0000" channel="eTele.jp">
 		<title lang="ja">やまと尼寺 献立帳</title>
 		<desc lang="ja">秋の庭のハーブでつくる絶品ドレッシング。みょうが、ウイキョウ、赤ジソ、青ジソ、レモンバーム。細かく刻んで自家製クリームチーズと一緒にオイルに漬ければできあがり。</desc>
@@ -578,9 +554,29 @@
 		<title lang="ja">NHK手話ニュース</title>
 		<desc lang="ja">【キャスター】小野寺善子</desc>
 	</programme>
-	<programme start="20210902115500 +0000" stop="20210902135500 +0000" channel="NipponTV.jp">
-		<title lang="ja">ヒルナンデス!</title>
-		<desc lang="ja">芸能人夫婦私服Ｎｏ.１決定戦！辻希美＆杉浦太陽ＶＳ和泉元彌＆羽野晶紀▼２４時間テレビＬＥＤパフォーマンスの裏側に完全密着！想いをこめたひと夏の全記録</desc>
+	<programme start="20210903130500 +0000" stop="20210903133000 +0000" channel="eTele.jp">
+		<title lang="ja">NHKみんなの手話</title>
+		<desc lang="ja">カフェ　みんなの手話へようこそ。災害や防災についての表現を覚えましょう。顔や手の動きを変えることで、雨量のちがいなどを伝えることができます。</desc>
+	</programme>
+	<programme start="20210903133000 +0000" stop="20210903133500 +0000" channel="eTele.jp">
+		<title lang="ja">ワンポイント手話</title>
+		<desc lang="ja">初歩的な手話の単語や会話を２５回に分けて紹介します。最終的には手話で簡単な自己紹介ができるようになるのが目標です。北海道、宮城、イギリスなどの単語を学びます。</desc>
+	</programme>
+	<programme start="20210903133500 +0000" stop="20210903134500 +0000" channel="eTele.jp">
+		<title lang="ja">リトル・チャロ</title>
+		<desc lang="ja">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。４月からの半年は、ニューヨークで迷子になった子犬・チャロが日本に帰るまでの物語を描く。▽声：純名里沙</desc>
+	</programme>
+	<programme start="20210903134500 +0000" stop="20210903135000 +0000" channel="eTele.jp">
+		<title lang="ja">みんなのうた</title>
+		<desc lang="ja">「こんど、君と」うた：小田和正</desc>
+	</programme>
+	<programme start="20210903135000 +0000" stop="20210903140000 +0000" channel="eTele.jp">
+		<title lang="ja">ピタゴラスイッチ</title>
+		<desc lang="ja">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
+	</programme>
+	<programme start="20210903140000 +0000" stop="20210903142000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK高校講座 日本史</title>
+		<desc lang="ja">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
 	</programme>
 	<programme start="20210902135500 +0000" stop="20210902155000 +0000" channel="NipponTV.jp">
 		<title lang="ja">情報ライブ ミヤネ屋</title>
@@ -689,22 +685,9 @@
 		<title lang="ja">ヒルナンデス!</title>
 		<desc lang="ja">マチャミが調布で一人旅▽幻のブドウ狩り＆深大寺で絶品蕎麦▽松坂大輔投手を育てた横浜高校元寮母の夏バテ予防レシピ▽揚げ餃子＆ロコモコ丼＆冷やし蕎麦</desc>
 	</programme>
-	<programme start="20210902102500 +0000" stop="20210902130000 +0000" channel="Asahi.jp">
-		<title lang="ja">大下容子ワイド!スクランブル</title>
-		<desc lang="ja">菅総理…結局解散するしない？▽新型コロナ武漢起源説…発表の裏に膨大資料⁉米調査報告書の真意▽病床確保「協力要請」東京都の本気度は？▽小室圭さん金銭問題行方(他)</desc>
-	</programme>
-	<programme start="20210902130000 +0000" stop="20210902133000 +0000" channel="Asahi.jp">
-		<title lang="ja">徹子の部屋</title>
-		<desc lang="ja">〜波瀾万丈な結婚生活！妻に初めて感謝の言葉を…〜間寛平さん＆光代さん夫妻が今日のゲストです。</desc>
-	</programme>
-	<programme start="20210902133000 +0000" stop="20210902134500 +0000" channel="Asahi.jp">
-		<title lang="ja">上沼恵美子のおしゃべりクッキング</title>
-		<desc lang="ja">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
-今日の料理は、間違いなく美味しい！絶品パスタ！</desc>
-	</programme>
-	<programme start="20210902134500 +0000" stop="20210902134900 +0000" channel="Asahi.jp">
-		<title lang="ja">東京サイト</title>
-		<desc lang="ja">東京都では、防災について楽しく学べる「東京都防災アプリ」を公開。「こども防災シミュレーション」では、スマホを使ってクイズなどに答える事で防災知識が身につきます！</desc>
+	<programme start="20210903135500 +0000" stop="20210903155000 +0000" channel="NipponTV.jp">
+		<title lang="ja">情報ライブ ミヤネ屋</title>
+		<desc lang="ja">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
 	</programme>
 	<programme start="20210902134900 +0000" stop="20210902144700 +0000" channel="Asahi.jp">
 		<title lang="ja">緊急取調室4</title>
@@ -813,9 +796,18 @@
 		<title lang="ja">徹子の部屋</title>
 		<desc lang="ja">〜夫・松田優作の死から３２年…女手ひとつで子育てを〜松田美由紀さんが今日のゲストです。</desc>
 	</programme>
-	<programme start="20210902102500 +0000" stop="20210902135500 +0000" channel="TBS2.jp">
-		<title lang="ja">ひるおび!</title>
-		<desc lang="ja">岸田文雄議員・高市早苗議員が生出演　総裁選“キーパーソン”に聞く　コロナ対応・女性議員少ないワケ・党内の空気…▽公立小中学校で２学期スタート　感染対策に試行錯誤</desc>
+	<programme start="20210903133000 +0000" stop="20210903134500 +0000" channel="Asahi.jp">
+		<title lang="ja">上沼恵美子のおしゃべりクッキング</title>
+		<desc lang="ja">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理は、旨みたっぷり！ご飯がすすむ一品！</desc>
+	</programme>
+	<programme start="20210903134500 +0000" stop="20210903134900 +0000" channel="Asahi.jp">
+		<title lang="ja">東京サイト</title>
+		<desc lang="ja">首都直下地震では、ライフラインの復旧に１週間以上かかると言われています。東京都が公開している「東京都防災アプリ」の機能で、その家に必要な備蓄の量が確認できます。</desc>
+	</programme>
+	<programme start="20210903134900 +0000" stop="20210903144700 +0000" channel="Asahi.jp">
+		<title lang="ja">漂着者</title>
+		<desc lang="ja">「許嫁ｖｓロシアｖｓ預言者…１４００年待った愛の結末、ついに記憶が蘇る‼」斎藤工(他)▽琴音との出会いをきっかけに記憶の扉が開き始めたヘミングウェイ。そこで詠美は…</desc>
 	</programme>
 	<programme start="20210902135500 +0000" stop="20210902154900 +0000" channel="TBS2.jp">
 		<title lang="ja">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -904,9 +896,9 @@
 		<title lang="ja">ひるおび!</title>
 		<desc lang="ja">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 	</programme>
-	<programme start="20210902114000 +0000" stop="20210902134000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
-		<desc lang="ja">▽千葉県白子町…キャンプ場で漁師めし！豪快ながらみ丼▽ママのギョウザのひみつ▽神奈川県真鶴町…漁師さんの豪快ＢＢＱ＆海女粥▽イワシ山かけ丼</desc>
+	<programme start="20210903135500 +0000" stop="20210903154900 +0000" channel="TBS2.jp">
+		<title lang="ja">ゴゴスマ〜GOGO!Smile!〜</title>
+		<desc lang="ja">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」をやさしくお伝えします！</desc>
 	</programme>
 	<programme start="20210902134000 +0000" stop="20210902154000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">午後のロードショー</title>
@@ -1080,6 +1072,10 @@
 		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
 		<desc lang="ja">▽「ハシが止まらない」大奥女優が大絶賛！ほかほかご飯の“カツオ出汁バター”乗せ！▽江戸前ハマグリの味噌串焼き＆鶏くわ焼き▽多摩川の隠れ名物…？アユ丸ごとラーメン</desc>
 	</programme>
+	<programme start="20210903134000 +0000" stop="20210903154000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">午後のロードショー</title>
+		<desc lang="ja">クリント・イーストウッドが製作・監督・主演を務めた傑作サスペンス！心臓移植で一命をとりとめた元ＦＢＩ心理分析官が、連続殺人犯を追う！現場に残される数字の謎とは？</desc>
+	</programme>
 	<programme start="20210902115500 +0000" stop="20210902144500 +0000" channel="FujiTV.jp">
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">「金目当て…」ド・ドドンパの“被害者”へ中傷投稿「侮辱罪」厳罰化方針▽速報…池袋暴走事故判決受け遺族の思いは▽大阪で感染者過去最多▽河村たかし市長感染</desc>
@@ -1179,14 +1175,6 @@
 	<programme start="20210903115500 +0000" stop="20210903144500 +0000" channel="FujiTV.jp">
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-	</programme>
-	<programme start="20210902123000 +0000" stop="20210902130000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210902130000 +0000" stop="20210902135500 +0000" channel="Tokyo MX">
-		<title lang="ja">2gether</title>
-		<desc lang="ja">Twitter世界トレンド入りの超話題作！偽装彼氏が本物に？イケメン同級生とのピュアで甘い恋の駆け引きが始まる…</desc>
 	</programme>
 	<programme start="20210902135500 +0000" stop="20210902140000 +0000" channel="Tokyo MX">
 		<title lang="ja">MX news FLAG</title>
@@ -1382,6 +1370,14 @@
 	</programme>
 	<programme start="20210903130000 +0000" stop="20210903135500 +0000" channel="Tokyo MX">
 		<title lang="ja">寺西一浩ドラマ 人生いろいろ</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903135500 +0000" stop="20210903135900 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903135900 +0000" stop="20210903150000 +0000" channel="Tokyo MX">
+		<title lang="ja">都知事定例会見</title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
