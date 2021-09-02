@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902184500 +0000" stop="20210902190000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">首都圏ネットワーク</title>
-    <desc lang="ja">▼東京都のモニタリング会議「極めて高い値続いている」医療提供体制の限界を超え救える命が救えない事態▼家族全員コロナ感染、親は重症化。懸命な治療が続けられたが…。</desc>
-  </programme>
-  <programme start="20210902190000 +0000" stop="20210902193000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース7</title>
-    <desc lang="ja">▽自民総裁選へ動き活発▽子ども残し亡くなる親も…家庭での感染深刻に▽２０歳未満の感染２．６倍に▽池袋暴走事故禁錮５年の実刑判決▽タリバン“女性閣僚登用ない”</desc>
-  </programme>
   <programme start="20210902193000 +0000" stop="20210902205900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇陸上　女子走り幅跳び　Ｔ６３・決勝、女子１００ｍ　Ｔ１２・決勝、男子８００ｍ　Ｔ５４・決勝、女子１００ｍ　Ｔ６４・予選ほか（中継）　岸田奈美，根木慎志ほか</desc>
@@ -218,21 +210,21 @@
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-  <programme start="20210903150500 +0000" stop="20210903165000 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210903150500 +0000" stop="20210903164900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">【出演】吉田沙保里，田口亜希，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
+  </programme>
+  <programme start="20210903164900 +0000" stop="20210903165000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
   </programme>
   <programme start="20210903165000 +0000" stop="20210903165500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
-  <programme start="20210903165500 +0000" stop="20210903175900 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210903165500 +0000" stop="20210903180000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　男子１００ｍバタフライ　Ｓ８・決勝ほか　【出演】吉田沙保里，田口亜希，萩原智子，三上大進，【アナウンサー】中野淳，杉浦友紀，中山果奈ほか</desc>
-  </programme>
-  <programme start="20210903175900 +0000" stop="20210903180000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
   </programme>
   <programme start="20210903180000 +0000" stop="20210903181000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース</title>
@@ -257,6 +249,10 @@
   <programme start="20210903190000 +0000" stop="20210903193000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース7</title>
     <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】上原光紀，栗原望，【気象キャスター】平野有海</desc>
+  </programme>
+  <programme start="20210903193000 +0000" stop="20210903202500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇競泳　女子２００ｍ個人メドレー　ＳＭ５・決勝ほか（中継）◇競泳　女子２００ｍ個人メドレー　ＳＭ５・決勝、男子１００ｍバタフライ　Ｓ１１・決勝、男子４００ｍメド</desc>
   </programme>
 	<programme start="20210902185000 +0000" stop="20210902204500 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
@@ -580,11 +576,7 @@
 	</programme>
 	<programme start="20210903180000 +0000" stop="20210903204400 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇陸上　男子１００ｍ　Ｔ３６・予選（中継）　【陸上】解説…近藤克之，井村久美子，花岡伸和，アナウンサー…浅井僚馬，小野卓哉</desc>
-	</programme>
-	<programme start="20210902155000 +0000" stop="20210902190000 +0000" channel="NipponTV.jp">
-		<title lang="ja">news every.</title>
-		<desc lang="ja">池袋車暴走「過失は明白」実刑判決に遺族は▼相談急増…新学期に不安抱える子どもたち▼千葉で音楽イベント延期要請も…主催者は▼住宅街で女性流血「ハンマーで…」男ナゼ</desc>
+		<desc lang="ja">◇陸上　男子１００ｍ　Ｔ３６・予選ほか（中継）　【陸上】解説…近藤克之，井村久美子，花岡伸和，アナウンサー…浅井僚馬，小野卓哉</desc>
 	</programme>
 	<programme start="20210902190000 +0000" stop="20210902205400 +0000" channel="NipponTV.jp">
 		<title lang="ja">鳥人間コンテスト2021</title>
@@ -696,6 +688,10 @@
 	<programme start="20210903190000 +0000" stop="20210903195600 +0000" channel="NipponTV.jp">
 		<title lang="ja">クイズ!あなたは小学5年生より賢いの?</title>
 		<desc lang="ja">狂言風言葉で子どもに大人気すゑひろがりず！国立大卒＆双子パパ南條殿＆三島殿が快進撃！Mr.マリック＆LUNA父娘は超魔術で＆１児の母キンタロー300万円ゲット？</desc>
+	</programme>
+	<programme start="20210903195600 +0000" stop="20210903205400 +0000" channel="NipponTV.jp">
+		<title lang="ja">沸騰ワード10</title>
+		<desc lang="ja">今誰でも買えると話題!超人気ロケ弁を芸能界一食べた男が編み出した最強食べ方徹底解説▼大河や朝ドラで話題!山に取り憑かれた井之脇海が話題の山頂グルメ求め過酷登山</desc>
 	</programme>
 	<programme start="20210902184500 +0000" stop="20210902211500 +0000" channel="Asahi.jp">
 		<title lang="ja">2022FIFAワールドカップカタール アジア地区予選</title>
@@ -813,10 +809,6 @@
 		<title lang="ja">千鳥の芸人C-1グランプリ</title>
 		<desc lang="ja">いきなりゴールデンで３時間▽人気芸人30名によるチャレンジ企画５連発…①寿司食べながらカラオケ②強風クイズ③安藤優子が審査員④野球部芸人ＨＲ競争⑤千鳥vsかまいたち</desc>
 	</programme>
-	<programme start="20210902154900 +0000" stop="20210902190000 +0000" channel="TBS2.jp">
-		<title lang="ja">Nスタ</title>
-		<desc lang="ja">感染者は減少傾向も？自宅療養中の死亡続く▽池袋暴走事故で判決　９０歳被告に実刑は…▽猛暑はもう終わり？きょうも秋雨＆肌寒く　秋グルメが続々登場！</desc>
-	</programme>
 	<programme start="20210902190000 +0000" stop="20210902200000 +0000" channel="TBS2.jp">
 		<title lang="ja">プレバト!!</title>
 		<desc lang="ja">和田アキ子が夏井先生の毒舌に悲鳴…！かまいたち、梅沢富美男にダメ出し＆夏井先生に逆ギレ★人気ナンバー１お天気キャスターが自信作★秋のタイトル戦開幕！キスマイ悲劇</desc>
@@ -913,6 +905,10 @@
 	<programme start="20210903190000 +0000" stop="20210903200000 +0000" channel="TBS2.jp">
 		<title lang="ja">オオカミ少年</title>
 		<desc lang="ja">🈑田中樹がONEOKROCK「Wherever you are」カラオケ熱唱＆新企画・スターの自宅生中継！家に届いた4つの商品のうち欲しいフリをしてるのはどれ？</desc>
+	</programme>
+	<programme start="20210903200000 +0000" stop="20210903220000 +0000" channel="TBS2.jp">
+		<title lang="ja">中居正広の金曜日のスマイルたちへ</title>
+		<desc lang="ja">▽今夜解禁！中居が数年間隠していたある事件…驚愕の内容にキスマイ震撼！▽ジャニーズの落ちこぼれだった７人…絆で掴んだ大逆転ストーリー！横尾の膝が震え千賀は涙…</desc>
 	</programme>
 	<programme start="20210902182500 +0000" stop="20210902214800 +0000" channel="TVTokyo.jp">
 		<title lang="ja">最強!衝撃映像146連発!!</title>
@@ -1095,9 +1091,13 @@
 		<title lang="ja">ポケットモンスター</title>
 		<desc lang="ja">エーフィとブラッキーに会うため、日蝕城を訪れたサトシとゴウとコハル。そこにはなんとコハルに瓜二つの少女、ハルヒの存在が。新しく城主になろうとするも怪しい影が…。</desc>
 	</programme>
-	<programme start="20210902154500 +0000" stop="20210902190000 +0000" channel="FujiTV.jp">
-		<title lang="ja">Live News イット!</title>
-		<desc lang="ja">池袋暴走死傷事故　飯塚被告に“禁錮５年”　事故の遺族はその時▽尾身会長がインスタ開設…Ｔシャツの文字が話題に▽混迷“ポスト二階”解散封印…人事難航も</desc>
+	<programme start="20210903192500 +0000" stop="20210903195500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">新幹線変形ロボ シンカリオンZ</title>
+		<desc lang="ja">京都でＺコードを探し始めるシンたちだが、「アブトの夢」という手がかりがなくなったために場所の見当さえつかない。疲れ果てたシンたちを、ギンガは自分のライブに誘う。</desc>
+	</programme>
+	<programme start="20210903195500 +0000" stop="20210903214800 +0000" channel="TVTokyo.jp">
+		<title lang="ja">所さんの学校では教えてくれないそこんトコロ!</title>
+		<desc lang="ja">▼お宝だらけの歴史民俗資料館の金庫＆名門窯元が建てた巨大屋敷の金庫を開錠▼母親思いの20歳女学生が１都４県をまたぐ驚異の遠距離通学！一体ナゼ▼日本全国の珍自販機</desc>
 	</programme>
 	<programme start="20210902190000 +0000" stop="20210902200000 +0000" channel="FujiTV.jp">
 		<title lang="ja">VS魂</title>
@@ -1199,17 +1199,9 @@
 		<title lang="ja">坂上どうぶつ王国</title>
 		<desc lang="ja">助けた猫に救われ人生大逆転ＳＰ▽借金地獄で崖っぷち…思わぬ猫の行動が奇跡を呼び１億円大豪邸▽廃業寸前だった食堂が蘇る！猫が起こした「一瞬の奇跡」とは？</desc>
 	</programme>
-	<programme start="20210902183000 +0000" stop="20210902190000 +0000" channel="Tokyo MX">
-		<title lang="ja">ABCブロッコリ!</title>
-		<desc lang="ja">＃２２「ウサリーヌはスタイリスト」</desc>
-	</programme>
-	<programme start="20210902190000 +0000" stop="20210902192600 +0000" channel="Tokyo MX">
-		<title lang="ja">アイカツ!</title>
-		<desc lang="ja">走り出す、私のアツいアイドル活動！</desc>
-	</programme>
-	<programme start="20210902192600 +0000" stop="20210902193000 +0000" channel="Tokyo MX">
-		<title lang="ja">シルバニアファミリー ミニストーリー ピオニー</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210903200000 +0000" stop="20210903215800 +0000" channel="FujiTV.jp">
+		<title lang="ja">ウワサのお客さま</title>
+		<desc lang="ja">１時間で１６品作る美人姉妹が登場！激安スーパー・オーケーの食材を使って作る映える節約パーティー料理▽６年間日高屋に週４で通う女優奈緒▽かっぱ寿司で大食い対決</desc>
 	</programme>
 	<programme start="20210902193000 +0000" stop="20210902200000 +0000" channel="Tokyo MX">
 		<title lang="ja">ハートキャッチプリキュア!</title>
@@ -1394,5 +1386,17 @@
 	<programme start="20210903190000 +0000" stop="20210903193000 +0000" channel="Tokyo MX">
 		<title lang="ja">仮面ライダー</title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903193000 +0000" stop="20210903195700 +0000" channel="Tokyo MX">
+		<title lang="ja">白い砂のアクアトープ</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903195700 +0000" stop="20210903200000 +0000" channel="Tokyo MX">
+		<title lang="ja">ダイナ荘びより</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903200000 +0000" stop="20210903210000 +0000" channel="Tokyo MX">
+		<title lang="ja">news TOKYO FLAG</title>
+		<desc lang="ja">小池知事定例会見…感染者数の“減少傾向”に知事は？▼パラ１１日目…きょうの“東京勢”の活躍は？▼ソニー音楽財団がコロナで苦境の若手クラシック演奏家を支援</desc>
 	</programme>
 </tv>
