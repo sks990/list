@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902193000 +0000" stop="20210902205900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　女子走り幅跳び　Ｔ６３・決勝、女子１００ｍ　Ｔ１２・決勝、男子８００ｍ　Ｔ５４・決勝、女子１００ｍ　Ｔ６４・予選ほか（中継）　岸田奈美，根木慎志ほか</desc>
-  </programme>
   <programme start="20210902205900 +0000" stop="20210902210000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -254,10 +250,18 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　女子２００ｍ個人メドレー　ＳＭ５・決勝、男子１００ｍバタフライ　Ｓ１１・決勝、男子４００ｍメドレーリレー　３４ポイント・決勝ほか（中継）</desc>
   </programme>
-	<programme start="20210902185000 +0000" stop="20210902204500 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇競泳　女子５０ｍ背泳ぎ　Ｓ２・決勝、男子５０ｍ自由形　Ｓ３・決勝、男子５０ｍ自由形　Ｓ４・決勝、女子５０ｍ自由形　Ｓ４・決勝、</desc>
-	</programme>
+  <programme start="20210903202500 +0000" stop="20210903205900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇車いすバスケットボール　男子・準決勝「日本×イギリス」（中継）　【出演】吉田沙保里，櫻井翔，猪狩ともか，【アナウンサー】中野淳，杉浦友紀</desc>
+  </programme>
+  <programme start="20210903205900 +0000" stop="20210903210000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210903210000 +0000" stop="20210903213000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュースウオッチ9</title>
+    <desc lang="ja">▽新型コロナ最新情報　▽あさって閉幕・改めて考える五輪とパラ　揺るいだ理念・コロナ禍の無観客開催　私たちに残したものは…　▽ＭＬＢ大谷は・プロ野球速報は</desc>
+  </programme>
 	<programme start="20210902204500 +0000" stop="20210902210000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK手話ニュース845</title>
 		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
@@ -582,9 +586,17 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇陸上　男子１００ｍ　Ｔ３６・予選ほか（中継）　【陸上】解説…近藤克之，井村久美子，花岡伸和，アナウンサー…浅井僚馬，小野卓哉</desc>
 	</programme>
-	<programme start="20210902190000 +0000" stop="20210902205400 +0000" channel="NipponTV.jp">
-		<title lang="ja">鳥人間コンテスト2021</title>
-		<desc lang="ja">鳥人間２年ぶり開催！７０ｋｍ衝撃新コース＆記録誕生▽西川貴教ついに参戦▽笑いと魂のフライト続々▽ウイカ映画化希望の感動秘話▽覚悟のフライト告白に…髙橋ひかるが涙</desc>
+	<programme start="20210903204400 +0000" stop="20210903204500 +0000" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+	</programme>
+	<programme start="20210903204500 +0000" stop="20210903210000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース845</title>
+		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+	</programme>
+	<programme start="20210903210000 +0000" stop="20210903215500 +0000" channel="eTele.jp">
+		<title lang="ja">にっぽんの芸能</title>
+		<desc lang="ja">八岐大蛇伝説を元にした舞踊「日本振袖始」。主演の尾上紫と振付の尾上墨雪親子がトークゲスト。後半は新作舞踊「門司春秋」の話題と、今回から始まる着物の新コーナーを。</desc>
 	</programme>
 	<programme start="20210902205400 +0000" stop="20210902210000 +0000" channel="NipponTV.jp">
 		<title lang="ja">このあと秘密のケンミンSHOW極&ダウンタウンDX</title>
@@ -696,6 +708,14 @@
 	<programme start="20210903195600 +0000" stop="20210903205400 +0000" channel="NipponTV.jp">
 		<title lang="ja">沸騰ワード10</title>
 		<desc lang="ja">今誰でも買えると話題!超人気ロケ弁を芸能界一食べた男が編み出した最強食べ方徹底解説▼大河や朝ドラで話題!山に取り憑かれた井之脇海が話題の山頂グルメ求め過酷登山</desc>
+	</programme>
+	<programme start="20210903205400 +0000" stop="20210903210000 +0000" channel="NipponTV.jp">
+		<title lang="ja">まもなく金曜ロードショー</title>
+		<desc lang="ja">大ヒットシリーズの記念すべき第１作「ジュラシック・パーク」の見どころを、映画大好き芸人・こがけんがお届け★“映画モノマネ”を交えて、意外な注目場面もご紹介！！</desc>
+	</programme>
+	<programme start="20210903210000 +0000" stop="20210903225400 +0000" channel="NipponTV.jp">
+		<title lang="ja">金曜ロードショー</title>
+		<desc lang="ja">監督・スティーヴン・スピルバーグ★映画の歴史を変えた恐竜映画の金字塔★遺伝子技術で恐竜が現代によみがえる！★あまりにもリアルな恐竜の動きと大迫力の映像は圧巻</desc>
 	</programme>
 	<programme start="20210902184500 +0000" stop="20210902211500 +0000" channel="Asahi.jp">
 		<title lang="ja">2022FIFAワールドカップカタール アジア地区予選</title>
@@ -812,10 +832,6 @@
 	<programme start="20210903184500 +0000" stop="20210903214800 +0000" channel="Asahi.jp">
 		<title lang="ja">千鳥の芸人C-1グランプリ</title>
 		<desc lang="ja">いきなりゴールデンで３時間▽人気芸人30名によるチャレンジ企画５連発…①寿司食べながらカラオケ②強風クイズ③安藤優子が審査員④野球部芸人ＨＲ競争⑤千鳥vsかまいたち</desc>
-	</programme>
-	<programme start="20210902190000 +0000" stop="20210902200000 +0000" channel="TBS2.jp">
-		<title lang="ja">プレバト!!</title>
-		<desc lang="ja">和田アキ子が夏井先生の毒舌に悲鳴…！かまいたち、梅沢富美男にダメ出し＆夏井先生に逆ギレ★人気ナンバー１お天気キャスターが自信作★秋のタイトル戦開幕！キスマイ悲劇</desc>
 	</programme>
 	<programme start="20210902200000 +0000" stop="20210902215700 +0000" channel="TBS2.jp">
 		<title lang="ja">ニンゲン観察バラエティ モニタリング</title>
@@ -1103,10 +1119,6 @@
 		<title lang="ja">所さんの学校では教えてくれないそこんトコロ!</title>
 		<desc lang="ja">▼お宝だらけの歴史民俗資料館の金庫＆名門窯元が建てた巨大屋敷の金庫を開錠▼母親思いの20歳女学生が１都４県をまたぐ驚異の遠距離通学！一体ナゼ▼日本全国の珍自販機</desc>
 	</programme>
-	<programme start="20210902190000 +0000" stop="20210902200000 +0000" channel="FujiTV.jp">
-		<title lang="ja">VS魂</title>
-		<desc lang="ja">学校を貸し切って夢の対決！廊下ボウリング＆校庭で巨大お絵描き＆雑巾掛けレース！平野紫耀ｖｓ岸優太が禁断のガチンコ対決！超高層マシュマロキャッチで奇跡が</desc>
-	</programme>
 	<programme start="20210902200000 +0000" stop="20210902215400 +0000" channel="FujiTV.jp">
 		<title lang="ja">千鳥のクセがスゴいネタGP</title>
 		<desc lang="ja">遠藤と狩野トレンディエンジェル森三中黒沢大村親子日谷ヒロノリ粗品ほしの＆斉藤…新作最強クセ曲大連発に勝地涼＆長濱ねる大爆笑！ネルソンズのゾンビ最終回！</desc>
@@ -1206,10 +1218,6 @@
 	<programme start="20210903200000 +0000" stop="20210903215800 +0000" channel="FujiTV.jp">
 		<title lang="ja">ウワサのお客さま</title>
 		<desc lang="ja">１時間で１６品作る美人姉妹が登場！激安スーパー・オーケーの食材を使って作る映える節約パーティー料理▽６年間日高屋に週４で通う女優奈緒▽かっぱ寿司で大食い対決</desc>
-	</programme>
-	<programme start="20210902193000 +0000" stop="20210902200000 +0000" channel="Tokyo MX">
-		<title lang="ja">ハートキャッチプリキュア!</title>
-		<desc lang="ja">＃４２「とまどいのゆりさん！ラブレター見ちゃいました…」</desc>
 	</programme>
 	<programme start="20210902200000 +0000" stop="20210902210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
@@ -1402,5 +1410,9 @@
 	<programme start="20210903200000 +0000" stop="20210903210000 +0000" channel="Tokyo MX">
 		<title lang="ja">news TOKYO FLAG</title>
 		<desc lang="ja">小池知事定例会見…感染者数の“減少傾向”に知事は？▼パラ１１日目…きょうの“東京勢”の活躍は？▼ソニー音楽財団がコロナで苦境の若手クラシック演奏家を支援</desc>
+	</programme>
+	<programme start="20210903210000 +0000" stop="20210903215400 +0000" channel="Tokyo MX">
+		<title lang="ja">バラいろダンディ</title>
+		<desc lang="ja">コメンテーターはデーブ・スペクターとゲスト古坂大魔王が登場！金曜は「遊び・エンタメ」がテーマ　古坂大魔王がエンタメを紹介！「エンタメ喜怒哀楽」‼</desc>
 	</programme>
 </tv>
