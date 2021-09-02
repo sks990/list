@@ -50,26 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902115400 +0000" stop="20210902120000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210902120000 +0000" stop="20210902121500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20210902121500 +0000" stop="20210902122000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210902122000 +0000" stop="20210902124400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　女子シングルス・準決勝「上地結衣×アニーク・ファン　コート」（中継）　【出演】武井壮，猪狩ともか，【アナウンサー】松田利仁亜，保里小百合ほか</desc>
-  </programme>
-  <programme start="20210902124400 +0000" stop="20210902124500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
   <programme start="20210902124500 +0000" stop="20210902130000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">連続テレビ小説 おかえりモネ</title>
     <desc lang="ja">百音（清原果耶）や亮（永瀬廉）たち幼なじみは、築地に繰り出して、つかの間楽しいときを過ごす。そして汐見湯に戻った百音は、亮から思いもよらないことを告げられる。</desc>
@@ -270,22 +250,18 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja">【キャスター】三條雅幸</desc>
   </programme>
-	<programme start="20210902115500 +0000" stop="20210902120000 +0000" channel="eTele.jp">
-		<title lang="ja">まる得マガジン</title>
-		<desc lang="ja">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
-	</programme>
-	<programme start="20210902120000 +0000" stop="20210902122500 +0000" channel="eTele.jp">
-		<title lang="ja">趣味の園芸 やさいの時間</title>
-		<desc lang="ja">２０２０年９月６日のアンコール放送。シュンギクは収穫まで１か月と育てやすく、秋におすすめ。つみ取り収穫すると、新しい茎葉が次々と出て、冬まで収穫を楽しめる。</desc>
-	</programme>
-	<programme start="20210902122500 +0000" stop="20210902123000 +0000" channel="eTele.jp">
-		<title lang="ja">趣味の園芸 京も一日陽だまり屋</title>
-		<desc lang="ja">ピンクと黄色がそれぞれ好きな遠距離恋愛中の二人、見つけたのはランタナ。黄色とピンクの小花が同居してまりのように丸く咲く。ところが花の色が変わることを知らず…。</desc>
-	</programme>
-	<programme start="20210902123000 +0000" stop="20210902125500 +0000" channel="eTele.jp">
-		<title lang="ja">趣味の園芸</title>
-		<desc lang="ja">アガベとアロエはともに乾燥地に自生する多肉植物。ギザギザの葉がワイルドでスタイリッシュだ。置き場所や水やりなど、自宅でかっこよく育てる秘けつを滝藤賢一さんと学ぶ</desc>
-	</programme>
+  <programme start="20210903121500 +0000" stop="20210903122000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210903122000 +0000" stop="20210903125000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇陸上　男子１５００ｍ　Ｔ２０・決勝、女子１５００ｍ　Ｔ２０・決勝、男子４００ｍ　Ｔ４７・予選、男子走り高跳び　Ｔ６４・決勝</desc>
+  </programme>
+  <programme start="20210903125000 +0000" stop="20210903130500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">連続テレビ小説 おかえりモネ</title>
+    <desc lang="ja">未知（蒔田彩珠）や亮（永瀬廉）たちは気仙沼へ帰っていった。そして、菅波（坂口健太郎）が、百音（清原果耶）にある重大なことを告げるため、汐見湯にやってくる。</desc>
+  </programme>
 	<programme start="20210902125500 +0000" stop="20210902130000 +0000" channel="eTele.jp">
 		<title lang="ja">みんなのうた</title>
 		<desc lang="ja">「クマのぬいぐるみ」／「アフターマン」／「ユア　ハンド　マイ　ハート　〜Ｙｏｕｒ　Ｈａｎｄ，Ｍｙ　Ｈｅａｒｔ〜」／「恋するニワトリ」</desc>
@@ -594,6 +570,14 @@
 		<title lang="ja">チョイス＠病気になったとき</title>
 		<desc lang="ja">全国で１０００万人以上の人が悩む「便秘」。次々登場する新薬の特徴を詳しく紹介。日々の対策として、食物繊維の効果的なとり方から「出やすい」排便姿勢まで、徹底解説！</desc>
 	</programme>
+	<programme start="20210903124500 +0000" stop="20210903130000 +0000" channel="eTele.jp">
+		<title lang="ja">ろうを生きる 難聴を生きる</title>
+		<desc lang="ja">手話で生み出す笑いが人気のコメディ演劇グループ「男組」。コロナ禍で中止を余儀なくされた公演を１年ぶりに再開。笑いを真剣に追求する舞台裏に密着しました。</desc>
+	</programme>
+	<programme start="20210903130000 +0000" stop="20210903130500 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース</title>
+		<desc lang="ja">【キャスター】小野寺善子</desc>
+	</programme>
 	<programme start="20210902115500 +0000" stop="20210902135500 +0000" channel="NipponTV.jp">
 		<title lang="ja">ヒルナンデス!</title>
 		<desc lang="ja">芸能人夫婦私服Ｎｏ.１決定戦！辻希美＆杉浦太陽ＶＳ和泉元彌＆羽野晶紀▼２４時間テレビＬＥＤパフォーマンスの裏側に完全密着！想いをこめたひと夏の全記録</desc>
@@ -824,6 +808,10 @@
 	<programme start="20210903102500 +0000" stop="20210903130000 +0000" channel="Asahi.jp">
 		<title lang="ja">大下容子ワイド!スクランブル</title>
 		<desc lang="ja">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
+	</programme>
+	<programme start="20210903130000 +0000" stop="20210903133000 +0000" channel="Asahi.jp">
+		<title lang="ja">徹子の部屋</title>
+		<desc lang="ja">〜夫・松田優作の死から３２年…女手ひとつで子育てを〜松田美由紀さんが今日のゲストです。</desc>
 	</programme>
 	<programme start="20210902102500 +0000" stop="20210902135500 +0000" channel="TBS2.jp">
 		<title lang="ja">ひるおび!</title>
@@ -1192,14 +1180,6 @@
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 	</programme>
-	<programme start="20210902115500 +0000" stop="20210902120000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210902120000 +0000" stop="20210902123000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
 	<programme start="20210902123000 +0000" stop="20210902130000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
@@ -1394,6 +1374,14 @@
 	</programme>
 	<programme start="20210903120000 +0000" stop="20210903123000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903123000 +0000" stop="20210903130000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903130000 +0000" stop="20210903135500 +0000" channel="Tokyo MX">
+		<title lang="ja">寺西一浩ドラマ 人生いろいろ</title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
