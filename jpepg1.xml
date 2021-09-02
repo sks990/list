@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903013400 +0000" stop="20210903020600 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ドキュメント72時間</title>
-    <desc lang="ja">白衣や調理服、作業着などがそろうユニフォーム専門店。新年度を迎える春、仕事着を新調しようと多くの人がやってくる。どんな思いで袖を通すのか。３日間、耳を傾ける。</desc>
-  </programme>
-  <programme start="20210903020600 +0000" stop="20210903025100 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">明日をまもるナビ</title>
-    <desc lang="ja">相次ぐ巨大台風に大地震▽いま避難訓練も進化している▽幼稚園や保育園で子どもたちが率先して避難するようになる取り組みが！▽中学校では防災訓練でお互いに褒めあう？！</desc>
-  </programme>
   <programme start="20210903025100 +0000" stop="20210903035100 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ヨーロッパ トラムの旅</title>
     <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ハンガリー・ブダペストを旅する。</desc>
@@ -261,6 +253,14 @@
   <programme start="20210904013200 +0000" stop="20210904020200 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">サンドのお風呂いただきます</title>
     <desc lang="ja">サンドと千鳥が温泉地として有名な神奈川の湯河原へ！地元の人々とふれ合い、ご家庭風呂をいただきます！伊３０分の放送で伊達が３度入浴する２０１８年放送の伝説の回！</desc>
+  </programme>
+  <programme start="20210904020200 +0000" stop="20210904024700 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">明日をまもるナビ</title>
+    <desc lang="ja">台風による大規模停電の怖さ▽真夏には熱中症による死者も▽実は毎年各地で発生している停電被害▽▽危機管理アドバイザー国崎信江が目からうろこの停電対策グッズを紹介！</desc>
+  </programme>
+  <programme start="20210904024700 +0000" stop="20210904034700 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ヨーロッパ トラムの旅</title>
+    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
   </programme>
 	<programme start="20210903005500 +0000" stop="20210903053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -574,14 +574,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210903013900 +0000" stop="20210903020900 +0000" channel="NipponTV.jp">
-		<title lang="ja">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-		<desc lang="ja">テンションは伝わるが「話がまとめられない」女性。何とかしてあげたいと話を聞くも、サッパリ理解ができず…。オドぜひオリジナルカードゲームに春日大興奮！</desc>
-	</programme>
-	<programme start="20210903020900 +0000" stop="20210903023900 +0000" channel="NipponTV.jp">
-		<title lang="ja">川島・山内のマンガ沼</title>
-		<desc lang="ja">「アイアムアヒーロー」「アンダーニンジャ」の花沢健吾先生にガチアンケート！川島＆山内も衝撃！マンガ史上に残る見開きとは！？</desc>
-	</programme>
 	<programme start="20210903023900 +0000" stop="20210903042400 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -673,17 +665,9 @@
 		<title lang="ja">東京2020パラリンピック ハイライト</title>
 		<desc lang="ja">リオパラリンピックでは初出場で７位入賞、世界ランクでは最高２位と日本アーチェリー男子のエースとなった上山友裕選手。自国開催の今大会、自身初のメダル獲得に挑む！</desc>
 	</programme>
-	<programme start="20210903014600 +0000" stop="20210903021600 +0000" channel="Asahi.jp">
-		<title lang="ja">春菜ザキさんのタダの通販じゃねーよ!</title>
-		<desc lang="ja">人気フリーアナが感動した！おうち時間快適グッズＳＰ！▽座ってるだけで簡単自転車運動＆話題の目元簡単ケア＆コードレスで超気持ち良い大人気マッサージャーが登場！</desc>
-	</programme>
-	<programme start="20210903021600 +0000" stop="20210903023600 +0000" channel="Asahi.jp">
-		<title lang="ja">NEWニューヨーク</title>
-		<desc lang="ja">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
-	</programme>
-	<programme start="20210903023600 +0000" stop="20210903025600 +0000" channel="Asahi.jp">
-		<title lang="ja">そんな食べ方あったのか!</title>
-		<desc lang="ja">ミキ亜生とフワちゃんが「そんな食べ方あったのか」と言ってしまうアレンジレシピを発掘する番組▼人気ポテトチップスを一流フレンチシェフが本気アレンジ！亜生フワ感嘆！</desc>
+	<programme start="20210904023500 +0000" stop="20210904032000 +0000" channel="NipponTV.jp">
+		<title lang="ja">夜バゲット</title>
+		<desc lang="ja">イチ押しの映画、イベント、アニメ情報を日テレアナウンサー陣が徹底紹介。</desc>
 	</programme>
 	<programme start="20210903025600 +0000" stop="20210903031600 +0000" channel="Asahi.jp">
 		<title lang="ja">会心の1ゲー</title>
@@ -790,18 +774,13 @@
 		<desc lang="ja">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
 【テーマ】秋から始める自分磨き！</desc>
 	</programme>
-	<programme start="20210903013300 +0000" stop="20210903020300 +0000" channel="TBS2.jp">
-		<title lang="ja">まちカドまぞく</title>
-		<desc lang="ja">ある朝突然闇の力に目覚めた優子は一族にかけられた呪いをとくため魔法少女を倒すことになってしまった!!
-</desc>
+	<programme start="20210904022500 +0000" stop="20210904024500 +0000" channel="Asahi.jp">
+		<title lang="ja">新日ちゃん。</title>
+		<desc lang="ja">SeasonⅣ第７試合となる今夜は…真壁パイセンが悩んでしまっている！真剣な悩みに矢野通選手＆本間朋晃選手が解決するためのグッズやグルメをご紹介！</desc>
 	</programme>
-	<programme start="20210903020300 +0000" stop="20210903024300 +0000" channel="TBS2.jp">
-		<title lang="ja">アカデミーナイトG</title>
-		<desc lang="ja">「かぐや様は告らせたい」佐野勇斗＆浅川梨奈＆堀田真由＆影山優佳が舞台裏を告白！サンリオ創立60周年の歴史＆カワイイ文化にＡマッソ＆もう中学生が売り込み！？大興奮</desc>
-	</programme>
-	<programme start="20210903024300 +0000" stop="20210903025000 +0000" channel="TBS2.jp">
-		<title lang="ja">イベントGO!</title>
-		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+	<programme start="20210904024500 +0000" stop="20210904030500 +0000" channel="Asahi.jp">
+		<title lang="ja">ももクロちゃんと!</title>
+		<desc lang="ja">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
 	</programme>
 	<programme start="20210903025000 +0000" stop="20210903034500 +0000" channel="TBS2.jp">
 		<title lang="ja">カイモノラボ</title>
@@ -895,18 +874,13 @@
 		<title lang="ja">BLUE REFLECTION RAY/澪</title>
 		<desc lang="ja">【アニメイズム】紫乃がコモンへ消えて、世界は変わってしまった。街中が緑に覆われていくだけではなく、人々の想いが希薄になりつつあるのだ。一同は紫乃を止めるため…</desc>
 	</programme>
-	<programme start="20210903013500 +0000" stop="20210903020500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">みんなでBINGOLF</title>
-		<desc lang="ja">全９ホールを『ゴルフ×ビンゴ』のルールでプレー！様々なミッションに挑みながら、全員でビンゴ達成を目指す！達成したビンゴの数により豪華賞品が!?</desc>
+	<programme start="20210904023000 +0000" stop="20210904030000 +0000" channel="TBS2.jp">
+		<title lang="ja">カノジョも彼女</title>
+		<desc lang="ja">▽彼女がいるのに、他の女の子に告白されたら……どうする？話題沸騰中のネオスタンダードラブコメ♥</desc>
 	</programme>
-	<programme start="20210903020500 +0000" stop="20210903021000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
-	</programme>
-	<programme start="20210903021000 +0000" stop="20210903024000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">きらきらアフロTM</title>
-		<desc lang="ja">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
-【出演】笑福亭鶴瓶、松嶋尚美</desc>
+	<programme start="20210904030000 +0000" stop="20210904031000 +0000" channel="TBS2.jp">
+		<title lang="ja">With☆ベイスターズ2021</title>
+		<desc lang="ja">横浜DeNAベイスターズ応援番組。番組MC今井翼さんが23年ぶりの日本一を目指す、三浦大輔新監督率いる新生ベイスターズに熱く迫ります！</desc>
 	</programme>
 	<programme start="20210903024000 +0000" stop="20210903031000 +0000" channel="TVTokyo.jp">
 		<title lang="ja"></title>
@@ -1084,13 +1058,17 @@
 		<title lang="ja"></title>
 		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
 	</programme>
-	<programme start="20210903013000 +0000" stop="20210903022500 +0000" channel="FujiTV.jp">
-		<title lang="ja">49thフジサンケイクラシック</title>
-		<desc lang="ja">この夏、世界の猛者を相手に戦った日本代表・星野陸也が連覇に挑む！石川遼・今平周吾ら実力者や金谷拓実ら若い力が待ったをかけるか！？</desc>
+	<programme start="20210904020500 +0000" stop="20210904023500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">流派-R since2001</title>
+		<desc lang="ja">VIEWS１：SHAKKAZOMBIE／２：LibeRty　Doggs／３：ONE　in　a　Billion／MY　CLASSICS　new特別編：サイプレス上野　Rei🄫hi　高木“ＪＥＴ”晋一郎</desc>
 	</programme>
-	<programme start="20210903022500 +0000" stop="20210903025500 +0000" channel="FujiTV.jp">
-		<title lang="ja">いいすぽ!</title>
-		<desc lang="ja">今話題のｅ－Ｓｐｏｒｔｓ専門番組！大人気パズルゲームの元祖！「ぷよぷよｅスポーツ」トーナメント！！ＭＣ：バカリズム</desc>
+	<programme start="20210904023500 +0000" stop="20210904025000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">一夜づけ</title>
+		<desc lang="ja">野村宗弘による同名コミックスが原作！隣同士に住む男女の切ない恋の物語！「うきわ　−友達以上、不倫未満−」をご紹介。今夜は“ムズキュン”シーンをちょい見せ！！</desc>
+	</programme>
+	<programme start="20210904025000 +0000" stop="20210904032000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">音流〜ONRYU〜</title>
+		<desc lang="ja">▼スタジオゲストは、Girls²、ドラマチックアラスカが登場！▼カフェライブでは、acaneが生演奏！</desc>
 	</programme>
 	<programme start="20210903025500 +0000" stop="20210903032500 +0000" channel="FujiTV.jp">
 		<title lang="ja">Tune</title>
@@ -1176,17 +1154,9 @@
 		<title lang="ja">有吉の夏休み2020</title>
 		<desc lang="ja">昨年放送された「有吉の夏休み２０２０」の面白いところだけを切り取り再編集して放送！９月４日放送の有吉が結婚して初めて迎える夏休みも少しだけお見せします</desc>
 	</programme>
-	<programme start="20210903013500 +0000" stop="20210903020500 +0000" channel="Tokyo MX">
-		<title lang="ja">バリふり!!!</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210903020500 +0000" stop="20210903023400 +0000" channel="Tokyo MX">
-		<title lang="ja">らいコレTV</title>
-		<desc lang="ja">イケメンシンガーソングライバー“森下邦太”が登場！ライバー界の最新情報も！</desc>
-	</programme>
-	<programme start="20210903023400 +0000" stop="20210903023500 +0000" channel="Tokyo MX">
-		<title lang="ja">フラッシュ天気</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210904023000 +0000" stop="20210904032500 +0000" channel="FujiTV.jp">
+		<title lang="ja">49thフジサンケイクラシック</title>
+		<desc lang="ja">この夏、世界の猛者を相手に戦った日本代表・星野陸也が連覇に挑む！石川遼・今平周吾ら実力者や金谷拓実ら若い力が待ったをかけるか！？</desc>
 	</programme>
 	<programme start="20210903023500 +0000" stop="20210903030500 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1367,5 +1337,17 @@
 	<programme start="20210904013500 +0000" stop="20210904020500 +0000" channel="Tokyo MX">
 		<title lang="ja">WONDER WHEEL</title>
 		<desc lang="ja">３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！</desc>
+	</programme>
+	<programme start="20210904020500 +0000" stop="20210904023400 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904023400 +0000" stop="20210904023500 +0000" channel="Tokyo MX">
+		<title lang="ja">フラッシュ天気</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904023500 +0000" stop="20210904030500 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
