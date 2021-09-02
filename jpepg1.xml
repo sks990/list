@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902165500 +0000" stop="20210902175900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス（中継）　【出演】武井壮，猪狩ともか，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀，【車いすテニスー】解説…齋田悟司ほか</desc>
-  </programme>
   <programme start="20210902175900 +0000" stop="20210902180000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -254,34 +250,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　男子１００ｍバタフライ　Ｓ１１・決勝ほか（中継）　【出演】吉田沙保里，田口亜希，萩原智子，三上大進，【アナウンサー】中野淳，杉浦友紀，中山果奈ほか</desc>
   </programme>
-	<programme start="20210902164500 +0000" stop="20210902170000 +0000" channel="eTele.jp">
-		<title lang="ja">みいつけた!</title>
-		<desc lang="ja">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
-	</programme>
-	<programme start="20210902170000 +0000" stop="20210902171000 +0000" channel="eTele.jp">
-		<title lang="ja">にほんごであそぼ</title>
-		<desc lang="ja">今日も奈良の“いいとこ”をご紹介します。ひこうき山陽たんけんたい、野村萬斎、童謡、名文合唱団、うた「平城遷都１３００年祭のうた」。</desc>
-	</programme>
-	<programme start="20210902171000 +0000" stop="20210902172000 +0000" channel="eTele.jp">
-		<title lang="ja">えいごであそぼ with Orton</title>
-		<desc lang="ja">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
-	</programme>
-	<programme start="20210902172000 +0000" stop="20210902172500 +0000" channel="eTele.jp">
-		<title lang="ja">のりものまん モービルランドのカークン</title>
-		<desc lang="ja">カークンはキャンピングカーのキャビイと初めてキャンプに来たよ。ハンモックやバーベキューに大こうふん！でもキャビイは本当はひとりでキャンプするのが好きなんだ…</desc>
-	</programme>
-	<programme start="20210902172500 +0000" stop="20210902173500 +0000" channel="eTele.jp">
-		<title lang="ja">はなかっぱ</title>
-		<desc lang="ja">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
-	</programme>
-	<programme start="20210902173500 +0000" stop="20210902174500 +0000" channel="eTele.jp">
-		<title lang="ja">もしものときのがんこちゃん</title>
-		<desc lang="ja">もしも自然災害が起きたら、どう行動すればいい？がんこちゃんといっしょに、身を守るために知っておきたい避難行動を学ぼう！第１回は「地震」について。</desc>
-	</programme>
-	<programme start="20210902174500 +0000" stop="20210902175500 +0000" channel="eTele.jp">
-		<title lang="ja">ゴー!ゴー!キッチン戦隊クックルン</title>
-		<desc lang="ja">アニメ×実写の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルン伝説の島を舞台に、クックルン３人と遠い星からきた姫が繰り広げる大冒険の物語。</desc>
-	</programme>
+  <programme start="20210903175900 +0000" stop="20210903180000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210903180000 +0000" stop="20210903181000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210902175500 +0000" stop="20210902180000 +0000" channel="eTele.jp">
 		<title lang="ja">オトッペ</title>
 		<desc lang="ja">音から生まれた不思議な生きもの・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
@@ -593,6 +569,34 @@
 	<programme start="20210903170000 +0000" stop="20210903171000 +0000" channel="eTele.jp">
 		<title lang="ja">にほんごであそぼ</title>
 		<desc lang="ja">今回は、ひこうき山陽さんが、かぐや姫ゆかりの地をたんけんします。ほかに、文楽、あいだのじいさん、四字熟語かるた、うた「平城遷都１３００年祭のうた」。</desc>
+	</programme>
+	<programme start="20210903171000 +0000" stop="20210903172000 +0000" channel="eTele.jp">
+		<title lang="ja">えいごであそぼ with Orton</title>
+		<desc lang="ja">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+	</programme>
+	<programme start="20210903172000 +0000" stop="20210903172500 +0000" channel="eTele.jp">
+		<title lang="ja">かいじゅうステップ ワンダバダ</title>
+		<desc lang="ja">カネちゃんのかいじゅうパワーは、ロケットみたいに空を飛ぶ「おしりジェット」。いつでも空を飛べるように、とっくんだ！</desc>
+	</programme>
+	<programme start="20210903172500 +0000" stop="20210903173500 +0000" channel="eTele.jp">
+		<title lang="ja">はなかっぱ</title>
+		<desc lang="ja">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+	</programme>
+	<programme start="20210903173500 +0000" stop="20210903174500 +0000" channel="eTele.jp">
+		<title lang="ja">ムジカ・ピッコリーノ</title>
+		<desc lang="ja">シエリとルネッタのいなくなってしまったアルカ号。さみしさを感じつつ、また行き先も定まらないドクター不在の船。そんな時に壊れてしまったモンストロを発見する。</desc>
+	</programme>
+	<programme start="20210903174500 +0000" stop="20210903175500 +0000" channel="eTele.jp">
+		<title lang="ja">ゴー!ゴー!キッチン戦隊クックルン</title>
+		<desc lang="ja">アニメ×実写の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルン伝説の島を舞台に、クックルン３人と遠い星からきた姫が繰り広げる大冒険の物語。</desc>
+	</programme>
+	<programme start="20210903175500 +0000" stop="20210903180000 +0000" channel="eTele.jp">
+		<title lang="ja">オトッペ</title>
+		<desc lang="ja">音から生まれた不思議な生きもの・オトッペ。みなさんから届いたオトッペや、珍しい日本の音を紹介する特別編。</desc>
+	</programme>
+	<programme start="20210903180000 +0000" stop="20210903204500 +0000" channel="eTele.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇陸上　男子１００ｍ　Ｔ３６・予選（中継）　【陸上】解説…近藤克之，井村久美子，花岡伸和，アナウンサー…浅井僚馬，小野卓哉</desc>
 	</programme>
 	<programme start="20210902155000 +0000" stop="20210902190000 +0000" channel="NipponTV.jp">
 		<title lang="ja">news every.</title>
@@ -912,26 +916,6 @@
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！「ＮｅｗｓＣｌｉｐ」でニュースからエンタメ・カルチャーまで！６時１５分からはグルメ情報も！</desc>
 	</programme>
-	<programme start="20210902165400 +0000" stop="20210902170000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ゆうがたサテライト</title>
-		<desc lang="ja">池袋暴走事故で飯塚被告に禁錮５年の実刑判決。妻娘失った遺族の思いは▽東京の新規感染者数を速報</desc>
-	</programme>
-	<programme start="20210902170000 +0000" stop="20210902171000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">生活に役立つ商品を紹介する通販番組</desc>
-	</programme>
-	<programme start="20210902171000 +0000" stop="20210902173000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">虎ノ門市場 〜毎日、幸せごはん。〜</title>
-		<desc lang="ja">地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。テレビ東京「虎ノ門市場」でお取り寄せも可能です！</desc>
-	</programme>
-	<programme start="20210902173000 +0000" stop="20210902175000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">シナぷしゅ</title>
-		<desc lang="ja">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
-	</programme>
-	<programme start="20210902175000 +0000" stop="20210902175500 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ◆シロさんとケンジのほろ苦くも温かい日々と美味しい食卓を描いた物語。美味しいレシピを大公開！</desc>
-	</programme>
 	<programme start="20210902175500 +0000" stop="20210902182500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">SHAMAN KING</title>
 		<desc lang="ja">蓮たちの勝利を祝う葉たちの元に、シャーマンファイト第２試合の中継が飛び込んできた。打倒ハオを悲願とする「X-LAWS」のトップ「X-Ⅰ」には、あの少年の姿があった…。</desc>
@@ -1092,6 +1076,23 @@
 		<title lang="ja"></title>
 		<desc lang="ja">生活に役立つ商品を紹介する通販番組</desc>
 	</programme>
+	<programme start="20210903171000 +0000" stop="20210903173000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">虎ノ門市場 〜毎日、幸せごはん。〜</title>
+		<desc lang="ja">地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。テレビ東京「虎ノ門市場」でお取り寄せも可能です！</desc>
+	</programme>
+	<programme start="20210903173000 +0000" stop="20210903175000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">シナぷしゅ</title>
+		<desc lang="ja">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
+	</programme>
+	<programme start="20210903175000 +0000" stop="20210903175500 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ◆シロさんとケンジのほろ苦くも温かい日々と美味しい食卓を描いた物語。美味しいレシピを大公開！</desc>
+	</programme>
+	<programme start="20210903175500 +0000" stop="20210903182500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">パウ・パトロール</title>
+		<desc lang="ja">世界160以上の国と地域で大人気のパウ・パトロール！今まで放送してきた全話の中から選りすぐりのエピソードをお届けします！！
+▽副音声でアニメ本編は英語版も聞けるよ！</desc>
+	</programme>
 	<programme start="20210902154500 +0000" stop="20210902190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">池袋暴走死傷事故　飯塚被告に“禁錮５年”　事故の遺族はその時▽尾身会長がインスタ開設…Ｔシャツの文字が話題に▽混迷“ポスト二階”解散封印…人事難航も</desc>
@@ -1191,10 +1192,6 @@
 	<programme start="20210903154500 +0000" stop="20210903190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-	</programme>
-	<programme start="20210902163000 +0000" stop="20210902170000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210902170000 +0000" stop="20210902180000 +0000" channel="Tokyo MX">
 		<title lang="ja">5時に夢中!</title>
@@ -1387,5 +1384,9 @@
 	<programme start="20210903170000 +0000" stop="20210903180000 +0000" channel="Tokyo MX">
 		<title lang="ja">5時に夢中!</title>
 		<desc lang="ja">女性のストレスを解消する“本音マル出し”ぶっちゃけワイドショー！金曜はゲストデー！池畑慎之介さん！▼「大きなお世話ですが」ではゲストおもてなし企画も</desc>
+	</programme>
+	<programme start="20210903180000 +0000" stop="20210903183000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
