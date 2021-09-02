@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903050000 +0000" stop="20210903060000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース おはよう日本</title>
-    <desc lang="ja">▼若者などのワクチン接種　経済界も促す取り組み　▼パラリンピック　競泳／車いすテニス／ボッチャ団体　ほか　▼リポート「在日ベラルーシ人に迫る当局の影」</desc>
-  </programme>
-  <programme start="20210903060000 +0000" stop="20210903063000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">NHKニュース おはよう日本</title>
-    <desc lang="ja">▼増える子どもの感染　学級閉鎖も　▼西日本側中心　大気不安定　土砂災害などに注意　▼パラリンピック　競泳／車いすテニス／カヌー／テコンドー</desc>
-  </programme>
   <programme start="20210903063000 +0000" stop="20210903070000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">　▼「がん対策研究所」設置　国のがん対策の政策立案も　▼おはＢｉｚ「ＩＴ接客で“多様な人材”に輝きを」　▼パラリンピック　ボッチャ／「究極の二人三脚」</desc>
@@ -278,30 +270,14 @@
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-	<programme start="20210903053000 +0000" stop="20210903060000 +0000" channel="eTele.jp">
-		<title lang="ja">アラビーヤ・シャベリーヤ!</title>
-		<desc lang="ja">旅の舞台は、化石の産地として名高いエルフード。俳優・金子貴俊が、三葉虫などの化石を扱う専門店を訪ね、店内を見学しながら“比べる表現”を学ぶ。</desc>
-	</programme>
-	<programme start="20210903060000 +0000" stop="20210903062500 +0000" channel="eTele.jp">
-		<title lang="ja">テレビでハングル講座</title>
-		<desc lang="ja">「いま、開こう！ハングルの“扉”」今回は「人に勧める表現」▽Ｋ−ＰＯＰマンスリーゲスト「Ｓｔｒａｙ　Ｋｉｄｓ（ストレイキッズ）」▽韓国　登山で人気のインワン山</desc>
-	</programme>
-	<programme start="20210903062500 +0000" stop="20210903063500 +0000" channel="eTele.jp">
-		<title lang="ja">テレビ体操</title>
-		<desc lang="ja">鈴木大輔、加藤由美子、清水沙希、原川愛、舘野伶奈、吉江晴菜、矢作あかり</desc>
-	</programme>
-	<programme start="20210903063500 +0000" stop="20210903064000 +0000" channel="eTele.jp">
-		<title lang="ja">オトッペ</title>
-		<desc lang="ja">音から生まれた不思議な生きもの・オトッペ。みなさんから届いたオトッペや、珍しい日本の音を紹介する特別編。</desc>
-	</programme>
-	<programme start="20210903064000 +0000" stop="20210903065000 +0000" channel="eTele.jp">
-		<title lang="ja">オハ!よ〜いどん</title>
-		<desc lang="ja">「オハ！よ〜いどん」は一日を元気にすごすための朝の会。日本中のお友だちがリモートで参加して、今田耕司さんと楽しくお話しするよ。よしお兄さんの体操もお見逃しなく！</desc>
-	</programme>
-	<programme start="20210903065000 +0000" stop="20210903065500 +0000" channel="eTele.jp">
-		<title lang="ja">あそビーバー</title>
-		<desc lang="ja">遊びのアイデア満載！Ｅテレの番組から人気コーナーも紹介する。今回は「ミミクリーズ」「にほんごであそぼ」から。</desc>
-	</programme>
+  <programme start="20210904063000 +0000" stop="20210904070000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">【６時半台】最新のニュースをコンパクトに！チェックしておきたい国内外の動き。気象情報など</desc>
+  </programme>
+  <programme start="20210904070000 +0000" stop="20210904075000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、南さんの気象情報など</desc>
+  </programme>
 	<programme start="20210903065500 +0000" stop="20210903070000 +0000" channel="eTele.jp">
 		<title lang="ja">Eテレ0655</title>
 		<desc lang="ja">１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します</desc>
@@ -594,6 +570,26 @@
 		<title lang="ja">やまと尼寺 精進日記</title>
 		<desc lang="ja">夏の早朝。ご住職は丹精してきた蓮の花を切り、観音さまにお供え。泥の中で育てたからこそ美しく咲く蓮。蓮の葉に注いだお酒をいただく「象鼻杯」も夏ならではのお楽しみ。</desc>
 	</programme>
+	<programme start="20210904062500 +0000" stop="20210904063500 +0000" channel="eTele.jp">
+		<title lang="ja">テレビ体操</title>
+		<desc lang="ja">岡本美佳、幅しげみ、清水沙希、舘野伶奈、吉江晴菜、今井菜津美、戸塚寛子</desc>
+	</programme>
+	<programme start="20210904063500 +0000" stop="20210904064500 +0000" channel="eTele.jp">
+		<title lang="ja">リトル・チャロ</title>
+		<desc lang="ja">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。４月からの半年は、ニューヨークで迷子になった子犬・チャロが日本に帰るまでの物語を描く。▽声：純名里沙</desc>
+	</programme>
+	<programme start="20210904064500 +0000" stop="20210904065500 +0000" channel="eTele.jp">
+		<title lang="ja">えいごであそぼ with Orton</title>
+		<desc lang="ja">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+	</programme>
+	<programme start="20210904065500 +0000" stop="20210904070000 +0000" channel="eTele.jp">
+		<title lang="ja">あそビーバー</title>
+		<desc lang="ja">遊びのアイデア満載！Ｅテレの番組から人気コーナーも紹介する。今回は「ミミクリーズ」「にほんごであそぼ」から。</desc>
+	</programme>
+	<programme start="20210904070000 +0000" stop="20210904071000 +0000" channel="eTele.jp">
+		<title lang="ja">ミミクリーズ</title>
+		<desc lang="ja">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
+	</programme>
 	<programme start="20210903055000 +0000" stop="20210903080000 +0000" channel="NipponTV.jp">
 		<title lang="ja">ZIP!</title>
 		<desc lang="ja">金曜ＺＩＰ！は細田佳央太▼禁錮五年池袋事故判決に遺族は▼初確認ミュー株影響▼東京３０９９人が感染▼缶詰で炊き込みご飯▼深田恭子が活動再開▼金曜朝は細田佳央太</desc>
@@ -829,10 +825,6 @@
 		<desc lang="ja">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
 城島茂が各界のリーダーを現場取材します！</desc>
 	</programme>
-	<programme start="20210903042500 +0000" stop="20210903060000 +0000" channel="TBS2.jp">
-		<title lang="ja">はやドキ!</title>
-		<desc lang="ja">全国の感染者18222人、重症者は66人増で過去最多更新▽都の病床確保要請で150床増も目標には届かず▽パラ車いすテニス男女決勝進出▽V6▽山田孝之▽広瀬アリス</desc>
-	</programme>
 	<programme start="20210903060000 +0000" stop="20210903080000 +0000" channel="TBS2.jp">
 		<title lang="ja">あさチャン!</title>
 		<desc lang="ja">▽東京感染減少傾向も・・再び人流急増懸念
@@ -949,6 +941,10 @@
 	<programme start="20210904053000 +0000" stop="20210904070000 +0000" channel="TBS2.jp">
 		<title lang="ja">まるっと!サタデー</title>
 		<desc lang="ja">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
+	</programme>
+	<programme start="20210904070000 +0000" stop="20210904073000 +0000" channel="TBS2.jp">
+		<title lang="ja">東京VICTORY</title>
+		<desc lang="ja">安住紳一郎がアスリートの魅力に迫る！東京五輪金メダリストSP！試合当日、ウルフアロン選手を襲ったハプニングとは？須﨑優衣選手の姉が明かす負けず嫌いエピソード！</desc>
 	</programme>
 	<programme start="20210903054500 +0000" stop="20210903070500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">モーサテ</title>
@@ -1135,6 +1131,14 @@
 		<title lang="ja"></title>
 		<desc lang="ja">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
 	</programme>
+	<programme start="20210904065400 +0000" stop="20210904070000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
+	</programme>
+	<programme start="20210904070000 +0000" stop="20210904073000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ペッパピッグ/パジャマスク</title>
+		<desc lang="ja">『イニミニマニモ』では世界で大人気のアニメ「ペッパピッグ」と「しゅつどう！パジャマスク」を豪華2本立てで放送！副音声で英語バージョンも聞けるよ！！</desc>
+	</programme>
 	<programme start="20210903052500 +0000" stop="20210903080000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざましテレビ</title>
 		<desc lang="ja">新たな脅威？ミュー株▽ウソ説明で高額請求▽深田恭子が活動再開▽国枝＆上地が決勝へ▽「よっ友」どう使う▽人気店果物スイーツ</desc>
@@ -1236,14 +1240,6 @@
 	<programme start="20210904060000 +0000" stop="20210904083000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざましどようび</title>
 		<desc lang="ja">めざましどようびニュース＆スポーツを１週間まとめチェック▽今週のエンタメ全見せ未公開＆舞台裏映像▽週末おすすめスポット▽出演者が挑戦！じゃんけん２回＆占い</desc>
-	</programme>
-	<programme start="20210903053000 +0000" stop="20210903060000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210903060000 +0000" stop="20210903063000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210903063000 +0000" stop="20210903070000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1440,5 +1436,13 @@
 	<programme start="20210904060000 +0000" stop="20210904063000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904063000 +0000" stop="20210904070000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904070000 +0000" stop="20210904073000 +0000" channel="Tokyo MX">
+		<title lang="ja">F.C.TOKYO COLORS</title>
+		<desc lang="ja">アウェイ７連戦のラストを飾る大一番！Ｊ１リーグ第２７節ヴィッセル神戸戦ゲームハイライト♪リーグ屈指のタレント軍団にＦＣ東京がチーム一丸で挑む！</desc>
 	</programme>
 </tv>
