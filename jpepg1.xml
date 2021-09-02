@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210902085500 +0000" stop="20210902095900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇競泳　男子４００ｍ自由形　Ｓ６・予選ほか（中継）　【アナウンサー】松田利仁亜，保里小百合，【競泳】解説…寺田雅裕，萩原智子，アナウンサー…金城均</desc>
-  </programme>
   <programme start="20210902095900 +0000" stop="20210902100000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -84,7 +80,7 @@
   </programme>
   <programme start="20210902122000 +0000" stop="20210902124400 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　女子シングルス・準決勝「上地結衣×アニーク・ファン　コート」（中継）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪ほか</desc>
+    <desc lang="ja">◇車いすテニス　女子シングルス・準決勝「上地結衣×アニーク・ファン　コート」（中継）　【出演】武井壮，猪狩ともか，【アナウンサー】松田利仁亜，保里小百合ほか</desc>
   </programme>
   <programme start="20210902124400 +0000" stop="20210902124500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
@@ -116,7 +112,7 @@
   </programme>
   <programme start="20210902150500 +0000" stop="20210902164900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　男子シングルス・準決勝「国枝慎吾×ゴードン・リード」（中継）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪　ほか</desc>
+    <desc lang="ja">◇車いすテニス　男子シングルス・準決勝「国枝慎吾×ゴードン・リード」（中継）　【出演】武井壮，猪狩ともか　ほか</desc>
   </programme>
   <programme start="20210902164900 +0000" stop="20210902165000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
@@ -128,7 +124,7 @@
   </programme>
   <programme start="20210902165500 +0000" stop="20210902175900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス（中継）　【出演】武井壮，猪狩ともか，伊藤亜紗，北澤豪，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
+    <desc lang="ja">◇車いすテニス（中継）　【出演】武井壮，猪狩ともか，【アナウンサー】松田利仁亜，保里小百合，中野淳，杉浦友紀</desc>
   </programme>
   <programme start="20210902175900 +0000" stop="20210902180000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
@@ -262,34 +258,18 @@
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210902085500 +0000" stop="20210902090000 +0000" channel="eTele.jp">
-		<title lang="ja">みんなのうた</title>
-		<desc lang="ja">「素敵な夜」うた：Ｖ６／「スナビキソウ」うた：遥海</desc>
-	</programme>
-	<programme start="20210902090000 +0000" stop="20210902091000 +0000" channel="eTele.jp">
-		<title lang="ja">ストレッチマン・ゴールド</title>
-		<desc lang="ja">レジェンドが新しい準備運動「ストレッチマン体操」を完成させた！ゴールドといっしょにみんなもぜひやってみよう【出演】結城洋平・宇仁菅真・生駒里奈</desc>
-	</programme>
-	<programme start="20210902091000 +0000" stop="20210902092000 +0000" channel="eTele.jp">
-		<title lang="ja">しまった!〜情報活用スキルアップ〜</title>
-		<desc lang="ja">デーモン閣下が小・中学生に情報を活用する技を伝授！「動画で伝える技」シリーズの第３回は「編集」。見る人に伝わりやすくする映像の加工や、説明を加える方法を学ぶ。</desc>
-	</programme>
-	<programme start="20210902092000 +0000" stop="20210902093000 +0000" channel="eTele.jp">
-		<title lang="ja">ドスルコスル</title>
-		<desc lang="ja">「世の中の課題とどう向き合う？」そのヒントを子どもに提示する「ドスルコスル」。こうする編では、京都の伝統工芸の魅力と現状の課題を伝える小学生の活動を紹介する。</desc>
-	</programme>
-	<programme start="20210902093000 +0000" stop="20210902094500 +0000" channel="eTele.jp">
-		<title lang="ja">Q〜こどものための哲学〜</title>
-		<desc lang="ja">日本初の子ども向け哲学番組。少年Ｑくんが抱いた不満や願望に、ぬいぐるみのチッチがなぜそう思ったのかを問いかけ、対話をしながら、自分なりの答えを探求していく人形劇</desc>
-	</programme>
-	<programme start="20210902094500 +0000" stop="20210902095000 +0000" channel="eTele.jp">
-		<title lang="ja">ミクロワールド</title>
-		<desc lang="ja">顕微鏡を使って拡大していくと突然開ける意外な世界。今回は「アメンボ」。アメンボは、足に生えた毛で表面張力を利用して水面に浮く。</desc>
-	</programme>
-	<programme start="20210902095000 +0000" stop="20210902095500 +0000" channel="eTele.jp">
-		<title lang="ja">えいごでがんこちゃん</title>
-		<desc lang="ja">がんこちゃんが、道にあいた穴に落ちそうになっている。あ！がんこちゃん、あぶないよ！でも、がんこちゃんは穴に落ちてしまう。どうやって助けたらいいの？！</desc>
-	</programme>
+  <programme start="20210903090500 +0000" stop="20210903095900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇陸上　男子１５００ｍ　Ｔ２０・決勝、女子１５００ｍ　Ｔ２０・決勝、男子４００ｍ　Ｔ４７・予選、男子走り高跳び　Ｔ６４・決勝</desc>
+  </programme>
+  <programme start="20210903095900 +0000" stop="20210903100000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210903100000 +0000" stop="20210903100500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210902095500 +0000" stop="20210902100500 +0000" channel="eTele.jp">
 		<title lang="ja">エイゴビート2</title>
 		<desc lang="ja">リズムに乗って体を動かし、楽しく英語を身につけよう！英語ビギナーのキッズが、習ったキーフレーズを引っさげて外国人との会話に挑戦。小学３、４年向け。出演・すみれ</desc>
@@ -582,6 +562,30 @@
 		<title lang="ja">新・ざわざわ森のがんこちゃん</title>
 		<desc lang="ja">みんなで遊んでいるとき、オナラをしてしまったがんこ。みんなに知られたくないため、バンバンがしたとウソをつく。しかし、がんこはウソをカッパに問いつめられて…。</desc>
 	</programme>
+	<programme start="20210903091000 +0000" stop="20210903092000 +0000" channel="eTele.jp">
+		<title lang="ja">銀河銭湯パンタくん</title>
+		<desc lang="ja">父と母に正反対のことを言われるパンタ。広場に集まった子どもたちは口々に親への不満をぶちまける。そして、一つの作戦を思いついた。パンタたちが実行した作戦とは！？</desc>
+	</programme>
+	<programme start="20210903092000 +0000" stop="20210903093000 +0000" channel="eTele.jp">
+		<title lang="ja">もやモ屋</title>
+		<desc lang="ja">遠くで暮らしていたおばあちゃんのお葬式。お父さんは号泣したけど、明日香（小４）は悲しい気持ちにならなかった。そのことを友だちに話すと「冷たい！」と言われ…</desc>
+	</programme>
+	<programme start="20210903093000 +0000" stop="20210903094000 +0000" channel="eTele.jp">
+		<title lang="ja">ココロ部!</title>
+		<desc lang="ja">子どもたちに、考える力とコミュニケーション力、“道徳力”を楽しく身につけてもらう、新感覚の教育番組。さまざまなピンチに対して、キミならどうする？　出演：児嶋一哉</desc>
+	</programme>
+	<programme start="20210903094000 +0000" stop="20210903095000 +0000" channel="eTele.jp">
+		<title lang="ja">でーきた</title>
+		<desc lang="ja">「できないに気づけば、かならずできる」をテーマに、学校生活で必要な集団行動・マナー・社会的スキルを、わかりやすく、自発的に学ぶ番組。今回は『しっかりたべよう』。</desc>
+	</programme>
+	<programme start="20210903095000 +0000" stop="20210903100000 +0000" channel="eTele.jp">
+		<title lang="ja">いじめをノックアウト</title>
+		<desc lang="ja">体育祭や文化祭…学校行事がひと段落すると、ちょっとした人間関係のもつれから、いじめが起きやすくなる。「いざというとき、どこに相談すればよいのか？」考えていく。</desc>
+	</programme>
+	<programme start="20210903100000 +0000" stop="20210903101000 +0000" channel="eTele.jp">
+		<title lang="ja">ミミクリーズ</title>
+		<desc lang="ja">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
+	</programme>
 	<programme start="20210902080000 +0000" stop="20210902102500 +0000" channel="NipponTV.jp">
 		<title lang="ja">スッキリ</title>
 		<desc lang="ja">ボッチャ杉村選手が金メダル！元監督と阿部が観戦で頭脳戦分析▽池袋暴走事故きょう判決・妻子失った夫が語った思い▽交差接種の効果と課題▽五七五で青春バトル俳句甲子園</desc>
@@ -681,10 +685,6 @@
 	<programme start="20210903080000 +0000" stop="20210903102500 +0000" channel="NipponTV.jp">
 		<title lang="ja">スッキリ</title>
 		<desc lang="ja">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
-	</programme>
-	<programme start="20210902080000 +0000" stop="20210902095500 +0000" channel="Asahi.jp">
-		<title lang="ja">羽鳥慎一モーニングショー</title>
-		<desc lang="ja">危険！都内で違反多発…車道を逆走＆信号無視！電動キックボード直撃▽人事で注目！小泉進次郎氏、菅総理と３日連続面会▽大阪最多３００４人感染</desc>
 	</programme>
 	<programme start="20210902095500 +0000" stop="20210902102500 +0000" channel="Asahi.jp">
 		<title lang="ja">じゅん散歩</title>
@@ -802,9 +802,9 @@
 		<title lang="ja">羽鳥慎一モーニングショー</title>
 		<desc lang="ja">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 	</programme>
-	<programme start="20210902080000 +0000" stop="20210902095500 +0000" channel="TBS2.jp">
-		<title lang="ja">ラヴィット!</title>
-		<desc lang="ja">伝説の編集者が厳選！本当に面白い最新マンガ大発表▼ニューヨーク不動産！おしゃれデザイナーズ…手頃タワマン…ついに嶋佐の新居が決定か？</desc>
+	<programme start="20210903095500 +0000" stop="20210903102500 +0000" channel="Asahi.jp">
+		<title lang="ja">じゅん散歩</title>
+		<desc lang="ja">三代目散歩人・高田純次が「桜木町」を散策▽横浜醤油とんこつラーメンの研修道場▽純ちゃんのおしゃべりクッキング▽西口グルメ街で魚の漢字クイズ</desc>
 	</programme>
 	<programme start="20210902095500 +0000" stop="20210902102500 +0000" channel="TBS2.jp">
 		<title lang="ja">Let's!美バディ</title>
@@ -892,18 +892,10 @@
 		<title lang="ja">ラヴィット!</title>
 		<desc lang="ja">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
 	</programme>
-	<programme start="20210902081500 +0000" stop="20210902091100 +0000" channel="TVTokyo.jp">
-		<title lang="ja">魔女たちの楽園〜二度なき人生〜</title>
-		<desc lang="ja">狙え、人生大逆転！ワケアリ宿泊客の笑いあり、涙あり、ロマンスありのヒューマンドラマ　地上波初放送！
-【全40話　日本語字幕付　二カ国語放送】</desc>
-	</programme>
-	<programme start="20210902091100 +0000" stop="20210902092100 +0000" channel="TVTokyo.jp">
-		<title lang="ja">なないろ日和!プラス</title>
-		<desc lang="ja">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
-	</programme>
-	<programme start="20210902092100 +0000" stop="20210902092600 +0000" channel="TVTokyo.jp">
-		<title lang="ja">Mナビ</title>
-		<desc lang="ja">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+	<programme start="20210903095500 +0000" stop="20210903102500 +0000" channel="TBS2.jp">
+		<title lang="ja">キニナル金曜日</title>
+		<desc lang="ja">キニナル買い物情報とキニナル生活情報をお届けする
+得する情報バラエティ!!</desc>
 	</programme>
 	<programme start="20210902092600 +0000" stop="20210902111300 +0000" channel="TVTokyo.jp">
 		<title lang="ja">なないろ日和!</title>
@@ -1066,9 +1058,20 @@
 		<desc lang="ja">狙え、人生大逆転！ワケアリ宿泊客の笑いあり、涙あり、ロマンスありのヒューマンドラマ　地上波初放送！
 【全40話　日本語字幕付　二カ国語放送】</desc>
 	</programme>
-	<programme start="20210902080000 +0000" stop="20210902095000 +0000" channel="FujiTV.jp">
-		<title lang="ja">めざまし8</title>
-		<desc lang="ja">独自追跡…「実家で同居も」容疑者の母親が涙で語る“夫婦関係”女子高校生遺棄で何が▽「迷惑」山手線で“マスクせず大声電話”▽河村市長が感染…空気感染も？医師会懸念</desc>
+	<programme start="20210903091100 +0000" stop="20210903092100 +0000" channel="TVTokyo.jp">
+		<title lang="ja">7スタライブプラス</title>
+		<desc lang="ja">この後、午前９時２６分からは「７スタライブ」。テレビ東京の旬なエンタメ情報をお送りします！▽ショッピング</desc>
+	</programme>
+	<programme start="20210903092100 +0000" stop="20210903092600 +0000" channel="TVTokyo.jp">
+		<title lang="ja">Mナビ</title>
+		<desc lang="ja">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+	</programme>
+	<programme start="20210903092600 +0000" stop="20210903111300 +0000" channel="TVTokyo.jp">
+		<title lang="ja">7スタライブ</title>
+		<desc lang="ja">▽快適ショッピングスタジオ拡大版
+▽「７コレ　Friday」
+▽「虎ノ門市場〜毎日、幸せごはん。〜」
+お得な「魚と野菜」のお惣菜</desc>
 	</programme>
 	<programme start="20210902095000 +0000" stop="20210902112500 +0000" channel="FujiTV.jp">
 		<title lang="ja">ノンストップ!</title>
@@ -1166,13 +1169,9 @@
 		<title lang="ja">めざまし8</title>
 		<desc lang="ja">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 	</programme>
-	<programme start="20210902083000 +0000" stop="20210902090000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210902090000 +0000" stop="20210902093000 +0000" channel="Tokyo MX">
-		<title lang="ja">どさんこクッキング</title>
-		<desc lang="ja">秋到来！キノコ三昧</desc>
+	<programme start="20210903095000 +0000" stop="20210903112500 +0000" channel="FujiTV.jp">
+		<title lang="ja">ノンストップ!</title>
+		<desc lang="ja">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 	</programme>
 	<programme start="20210902093000 +0000" stop="20210902100000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1369,5 +1368,13 @@
 	<programme start="20210903090000 +0000" stop="20210903093000 +0000" channel="Tokyo MX">
 		<title lang="ja">日本のチカラ</title>
 		<desc lang="ja">ひとりじゃない　〜ママがゆく！復興への道〜</desc>
+	</programme>
+	<programme start="20210903093000 +0000" stop="20210903100000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210903100000 +0000" stop="20210903103000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
