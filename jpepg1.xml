@@ -50,17 +50,9 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904013700 +0000" stop="20210904020700 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">サンドのお風呂いただきます</title>
-    <desc lang="ja">サンドと千鳥が温泉地として有名な神奈川の湯河原へ！地元の人々とふれ合い、ご家庭風呂をいただきます！伊３０分の放送で伊達が３度入浴する２０１８年放送の伝説の回！</desc>
-  </programme>
-  <programme start="20210904020700 +0000" stop="20210904025200 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">明日をまもるナビ</title>
-    <desc lang="ja">台風による大規模停電の怖さ▽真夏には熱中症による死者も▽実は毎年各地で発生している停電被害▽▽危機管理アドバイザー国崎信江が目からうろこの停電対策グッズを紹介！</desc>
-  </programme>
-  <programme start="20210904025200 +0000" stop="20210904034700 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja"></desc>
+  <programme start="20210904025400 +0000" stop="20210904034700 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ヨーロッパ トラムの旅</title>
+    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
   </programme>
   <programme start="20210904034700 +0000" stop="20210904040800 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">日本夜景めぐり</title>
@@ -250,6 +242,14 @@
     <title lang="ja"></title>
     <desc lang="ja">９月６日（月）夜１０：４５から始まる「よるドラ『古見さんは、コミュ症です。』」の見どころをコンパクトにご案内します。</desc>
   </programme>
+  <programme start="20210905020500 +0000" stop="20210905021000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">＜豪華キャスト編＞ドラマの魅力でもある池松壮亮をはじめとする豪華キャスト。撮影に密着することで見えた俳優たちの姿。彼らは果たして演出家・オダギリをどう見たのか。</desc>
+  </programme>
+  <programme start="20210905021000 +0000" stop="20210905031000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">日本の名峰</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210904005000 +0000" stop="20210904053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
@@ -438,10 +438,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210904003500 +0000" stop="20210904023500 +0000" channel="NipponTV.jp">
-		<title lang="ja">東京2020パラリンピック ハイライト</title>
-		<desc lang="ja">リオパラリンピックでは初出場で７位入賞、世界ランクでは最高２位と日本アーチェリー男子のエースとなった上山友裕選手。自国開催の今大会、自身初のメダル獲得に挑む！</desc>
-	</programme>
 	<programme start="20210904023500 +0000" stop="20210904032000 +0000" channel="NipponTV.jp">
 		<title lang="ja">夜バゲット</title>
 		<desc lang="ja">イチ押しの映画、イベント、アニメ情報を日テレアナウンサー陣が徹底紹介。</desc>
@@ -580,14 +576,9 @@
 		<title lang="ja">Hulu傑作シアター</title>
 		<desc lang="ja">9月7日からシーズン7配信！超高速で疾走しながら自分の大切な人々を守り抜く「THE　FLASH／フラッシュ」を特集▼「ライフ　私たちの生きる道」第1話を放送</desc>
 	</programme>
-	<programme start="20210904015500 +0000" stop="20210904022500 +0000" channel="Asahi.jp">
-		<title lang="ja">BeauTV 〜VOCE ビューティーヴィー</title>
-		<desc lang="ja">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
-【テーマ】秋から始める自分磨き！</desc>
-	</programme>
-	<programme start="20210904022500 +0000" stop="20210904024500 +0000" channel="Asahi.jp">
-		<title lang="ja">新日ちゃん。</title>
-		<desc lang="ja">SeasonⅣ第７試合となる今夜は…真壁パイセンが悩んでしまっている！真剣な悩みに矢野通選手＆本間朋晃選手が解決するためのグッズやグルメをご紹介！</desc>
+	<programme start="20210905023500 +0000" stop="20210905050500 +0000" channel="NipponTV.jp">
+		<title lang="ja">日テレポシュレ</title>
+		<desc lang="ja">ポシュレは残暑に負けないセールを展開！インナーマスク、激安夏寝具、ブルブルボーテ、ドラレコ、英国バッグ、強力掃除機、顔もできる脱毛器、高機能シャワーヘッドまで！</desc>
 	</programme>
 	<programme start="20210904024500 +0000" stop="20210904030500 +0000" channel="Asahi.jp">
 		<title lang="ja">ももクロちゃんと!</title>
@@ -757,13 +748,14 @@
 		<desc lang="ja">―知らない自分に、僕らは出会う―
 総監督・脚本 西田征史（「TIGER & BUNNY」）× アニメーション制作 MAPPA（「呪術廻戦」）の初タッグで水球に挑む！</desc>
 	</programme>
-	<programme start="20210904013000 +0000" stop="20210904020000 +0000" channel="TBS2.jp">
-		<title lang="ja">乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X/俺、つしま</title>
-		<desc lang="ja">EPISODE10「キースがいなくなってしまった…（中編）」囚われてしまったキースは姉の身を…▼『はめふらＸ』は豪華キャスト陣のコメンタリー副音声放送も★</desc>
+	<programme start="20210905020500 +0000" stop="20210905023500 +0000" channel="Asahi.jp">
+		<title lang="ja">ジャヒー様はくじけない!</title>
+		<desc lang="ja">くじけちゃダメだっ！残念カワイイ魔界復興コメディ☆</desc>
 	</programme>
-	<programme start="20210904020000 +0000" stop="20210904023000 +0000" channel="TBS2.jp">
-		<title lang="ja">BLUE REFLECTION RAY/澪</title>
-		<desc lang="ja">【アニメイズム】紫乃がコモンへ消えて、世界は変わってしまった。街中が緑に覆われていくだけではなく、人々の想いが希薄になりつつあるのだ。一同は紫乃を止めるため…</desc>
+	<programme start="20210905023500 +0000" stop="20210905030500 +0000" channel="Asahi.jp">
+		<title lang="ja">痴情の接吻</title>
+		<desc lang="ja">橋本良亮×中村ゆりか▽大人気コミックが原作…ちょっとＨで美しい恋物語！
+突然、高校時代の同級生と同居することに⁉“接吻”から始まる危険な偏愛同居ラブストーリー！</desc>
 	</programme>
 	<programme start="20210904023000 +0000" stop="20210904030000 +0000" channel="TBS2.jp">
 		<title lang="ja">カノジョも彼女</title>
@@ -910,17 +902,9 @@
 		<desc lang="ja">柴田英嗣が“ミクシィ”のカバン持ち
 「モンスターストライク」ゲームの裏側</desc>
 	</programme>
-	<programme start="20210904015800 +0000" stop="20210904020500 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">9/5(日)よる6時30分から放送！「サンド軍VSナイツ軍！とっておき激推し芸人ネタバトル」の見所を紹介。今、最も面白いと思う激推し芸人を集めネタバトルを開催します！</desc>
-	</programme>
-	<programme start="20210904020500 +0000" stop="20210904023500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">流派-R since2001</title>
-		<desc lang="ja">VIEWS１：SHAKKAZOMBIE／２：LibeRty　Doggs／３：ONE　in　a　Billion／MY　CLASSICS　new特別編：サイプレス上野　Rei🄫hi　高木“ＪＥＴ”晋一郎</desc>
-	</programme>
-	<programme start="20210904023500 +0000" stop="20210904025000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">一夜づけ</title>
-		<desc lang="ja">野村宗弘による同名コミックスが原作！隣同士に住む男女の切ない恋の物語！「うきわ　−友達以上、不倫未満−」をご紹介。今夜は“ムズキュン”シーンをちょい見せ！！</desc>
+	<programme start="20210905020300 +0000" stop="20210905040000 +0000" channel="TBS2.jp">
+		<title lang="ja">カイモノラボ</title>
+		<desc lang="ja">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 	</programme>
 	<programme start="20210904025000 +0000" stop="20210904032000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">音流〜ONRYU〜</title>
@@ -1101,9 +1085,13 @@
 		<title lang="ja">ゴッドタン</title>
 		<desc lang="ja">悪ふざけの最高峰「ゴッドタン」。その時面白いと思った企画をやり続ける「お笑い番組」です。芸人の本気の悪ふざけは、一見の価値あり！</desc>
 	</programme>
-	<programme start="20210904010000 +0000" stop="20210904023000 +0000" channel="FujiTV.jp">
-		<title lang="ja">有吉の夏休み2020</title>
-		<desc lang="ja">昨年放送された「有吉の夏休み２０２０」の面白いところだけを切り取り再編集して放送！９月４日放送の有吉が結婚して初めて迎える夏休みも少しだけお見せします</desc>
+	<programme start="20210905021000 +0000" stop="20210905023500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">今日からやる会議</title>
+		<desc lang="ja">さらば青春の光、カミナリＭＣ！ガチのビジネス会議やビジネス賢人へのインタビューをヒントに、ビジネスプロジェクト立ち上げに挑む新感覚ドキュメント・バラエティ番組！</desc>
+	</programme>
+	<programme start="20210905023500 +0000" stop="20210905030500 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">生活に役立つ商品を紹介する通販番組。</desc>
 	</programme>
 	<programme start="20210904023000 +0000" stop="20210904032500 +0000" channel="FujiTV.jp">
 		<title lang="ja">49thフジサンケイクラシック</title>
@@ -1234,17 +1222,9 @@
 		<title lang="ja">ナイト・ドクター</title>
 		<desc lang="ja">［衝突する５人！異なる価値観！］心美の願いはドナーになることだった！認めない深澤に複雑な心境の美月と桜庭！臓器提供をめぐりそれぞれの想いが交錯する！？</desc>
 	</programme>
-	<programme start="20210904013500 +0000" stop="20210904020500 +0000" channel="Tokyo MX">
-		<title lang="ja">WONDER WHEEL</title>
-		<desc lang="ja">３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！</desc>
-	</programme>
-	<programme start="20210904020500 +0000" stop="20210904023400 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210904023400 +0000" stop="20210904023500 +0000" channel="Tokyo MX">
-		<title lang="ja">フラッシュ天気</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210905025000 +0000" stop="20210905034500 +0000" channel="FujiTV.jp">
+		<title lang="ja">カウズ東京上陸!世界を席巻する人気現代アートの魅力!</title>
+		<desc lang="ja">日本初となる大型展覧会が絶賛開催中の現代アーティスト、カウズ。世界中を熱狂させるその魅力と人気の秘密を武井咲、天野ひろゆき（キャイ〜ン）らと徹底解剖！</desc>
 	</programme>
 	<programme start="20210904023500 +0000" stop="20210904030500 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1459,6 +1439,14 @@
 		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210905020000 +0000" stop="20210905023000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905023000 +0000" stop="20210905030000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905030000 +0000" stop="20210905033000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
