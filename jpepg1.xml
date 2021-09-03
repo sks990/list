@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903184500 +0000" stop="20210903190000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">首都圏ネットワーク</title>
-    <desc lang="ja">ニュース・気象情報、新型コロナ感染状況、生活への影響などをくわしくお伝えします。</desc>
-  </programme>
   <programme start="20210903190000 +0000" stop="20210903200000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース7</title>
     <desc lang="ja">▽菅首相総裁選立候補せず退任へ▽ワクチン接種進むと日常生活は？提言案▽コロナで休園の保育所が過去最多</desc>
@@ -238,9 +234,13 @@
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-  <programme start="20210904150500 +0000" stop="20210904180000 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210904150500 +0000" stop="20210904175900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすテニス　【出演】増田明美，根木慎志，【アナウンサー】中野淳，杉浦友紀</desc>
+  </programme>
+  <programme start="20210904175900 +0000" stop="20210904180000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja"></desc>
   </programme>
   <programme start="20210904180000 +0000" stop="20210904180500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース</title>
@@ -261,6 +261,10 @@
   <programme start="20210904190000 +0000" stop="20210904193000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース7</title>
     <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】青井実，【サブキャスター】池田伸子，深川仁志，【気象キャスター】向笠康二郎</desc>
+  </programme>
+  <programme start="20210904193000 +0000" stop="20210904205500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇ボッチャ　団体　ＢＣ１／２・決勝（中継）　【出演】増田明美，岸田奈美，大西瞳，【アナウンサー】中野淳，杉浦友紀，【ゴールボール】解説…新井大基ほか</desc>
   </programme>
 	<programme start="20210903185000 +0000" stop="20210903204400 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
@@ -384,7 +388,7 @@
 	</programme>
 	<programme start="20210904111000 +0000" stop="20210904114000 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇カヌー　女子カヤックシングル　ＫＬ１　準決勝・決勝ほか（録画）</desc>
+		<desc lang="ja">◇カヌー　女子カヤックシングル　ＫＬ１　準決勝・決勝（録画）</desc>
 	</programme>
 	<programme start="20210904114000 +0000" stop="20210904120000 +0000" channel="eTele.jp">
 		<title lang="ja">週間手話ニュース</title>
@@ -446,13 +450,17 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇陸上　男子走り幅跳び　Ｔ２０・決勝、女子２００ｍ　Ｔ４７・決勝ほか（中継）　【出演】後藤佑季，【アナウンサー】中川安奈，大澤幹朗　ほか</desc>
 	</programme>
-	<programme start="20210903155000 +0000" stop="20210903190000 +0000" channel="NipponTV.jp">
-		<title lang="ja">news every.</title>
-		<desc lang="ja">菅首相“突然の決断”党総裁選に立候補せず任期満了で首相辞任か…後任候補の顔ぶれは▼東京で２５３９人…接種進み制限緩和も？▼医師不足も…高まる“野戦病院”求める声</desc>
+	<programme start="20210904195400 +0000" stop="20210904195500 +0000" channel="eTele.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
 	</programme>
-	<programme start="20210903190000 +0000" stop="20210903195600 +0000" channel="NipponTV.jp">
-		<title lang="ja">クイズ!あなたは小学5年生より賢いの?</title>
-		<desc lang="ja">狂言風言葉で子どもに大人気すゑひろがりず！国立大卒＆双子パパ南條殿＆三島殿が快進撃！Mr.マリック＆LUNA父娘は超魔術で＆１児の母キンタロー300万円ゲット？</desc>
+	<programme start="20210904195500 +0000" stop="20210904200000 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース</title>
+		<desc lang="ja">【キャスター】那須英彰</desc>
+	</programme>
+	<programme start="20210904200000 +0000" stop="20210904205900 +0000" channel="eTele.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇陸上　女子４００ｍ　Ｔ３８・決勝、男子４００ｍ　Ｔ４７・決勝ほか（中継）　【出演】後藤佑季，【アナウンサー】中川安奈，大澤幹朗，</desc>
 	</programme>
 	<programme start="20210903195600 +0000" stop="20210903205400 +0000" channel="NipponTV.jp">
 		<title lang="ja">沸騰ワード10</title>
@@ -571,6 +579,10 @@
 	<programme start="20210904190000 +0000" stop="20210904195600 +0000" channel="NipponTV.jp">
 		<title lang="ja">I LOVE みんなのどうぶつ園</title>
 		<desc lang="ja">アンガールズ・田中の実家で生まれたツバメのヒナたち…巣立ちの瞬間に田中ファミリー密着▽山田裕貴が11年間お散歩できなかった保護犬に新たな飼い主ができるよう奮闘</desc>
+	</programme>
+	<programme start="20210904195600 +0000" stop="20210904205400 +0000" channel="NipponTV.jp">
+		<title lang="ja">世界一受けたい授業</title>
+		<desc lang="ja">夜仕込んで翌朝食べられる手作り発酵食品！砂糖なしでも甘くなる発酵スイーツの作り方▼劇団四季『アナと雪の女王』舞台裏に潜入名曲「生まれて初めて」特別バージョン披露</desc>
 	</programme>
 	<programme start="20210903184500 +0000" stop="20210903214800 +0000" channel="Asahi.jp">
 		<title lang="ja">千鳥の芸人C-1グランプリ</title>
@@ -741,9 +753,9 @@
 		<title lang="ja">ドラえもん</title>
 		<desc lang="ja">ドラえもんがドラヤキ星人と大バトル！【どら焼きが消えた日】宇宙で大ピンチ！壮大な自由研究!?【のび太の惑星探査ミッション】のび太がマジック!?【マジックの使い道】</desc>
 	</programme>
-	<programme start="20210903154900 +0000" stop="20210903190000 +0000" channel="TBS2.jp">
-		<title lang="ja">Nスタ</title>
-		<desc lang="ja">陽性者再増加に危惧…「滞留人口」東京急増▽子ども専用病棟苦悩▽自粛続きに楽しみを　パパ達からサプライズ▽秋雨ホカホカ恋しく▽岸田氏に菅首相は？</desc>
+	<programme start="20210904195400 +0000" stop="20210904205400 +0000" channel="Asahi.jp">
+		<title lang="ja">池上彰のニュースそうだったのか!!</title>
+		<desc lang="ja">今世界で起きていることを徹底解説！アフガニスタンはなぜ混乱している？タリバンてどんな組織？世界で頻発する自然災害の意味とは…！？</desc>
 	</programme>
 	<programme start="20210903190000 +0000" stop="20210903200000 +0000" channel="TBS2.jp">
 		<title lang="ja">オオカミ少年</title>
@@ -894,14 +906,6 @@
 	<programme start="20210904185100 +0000" stop="20210904210000 +0000" channel="TBS2.jp">
 		<title lang="ja">炎の体育会TV</title>
 		<desc lang="ja">あのメダリストが五輪後初の超本気プレー▽バスケ町田＆林は…レジェンド五十嵐圭考案２０の超難関ゴールに▽バド渡辺東野ペアは…高級フカヒレかけ動く的当てに挑む！</desc>
-	</programme>
-	<programme start="20210903185500 +0000" stop="20210903192500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ポケットモンスター</title>
-		<desc lang="ja">エーフィとブラッキーに会うため、日蝕城を訪れたサトシとゴウとコハル。そこにはなんとコハルに瓜二つの少女、ハルヒの存在が。新しく城主になろうとするも怪しい影が…。</desc>
-	</programme>
-	<programme start="20210903192500 +0000" stop="20210903195500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">新幹線変形ロボ シンカリオンZ</title>
-		<desc lang="ja">京都でＺコードを探し始めるシンたちだが、「アブトの夢」という手がかりがなくなったために場所の見当さえつかない。疲れ果てたシンたちを、ギンガは自分のライブに誘う。</desc>
 	</programme>
 	<programme start="20210903195500 +0000" stop="20210903214800 +0000" channel="TVTokyo.jp">
 		<title lang="ja">所さんの学校では教えてくれないそこんトコロ!</title>
@@ -1083,10 +1087,6 @@
 		<title lang="ja">出川哲朗の充電させてもらえませんか?</title>
 		<desc lang="ja">高知最南端の旅！絶景の柏島から足摺岬をグルっと120キロ！ゴールは清流“四万十川”ですが…森三中と番組初のハプニングでヤバいよヤバいよSP</desc>
 	</programme>
-	<programme start="20210903154500 +0000" stop="20210903190000 +0000" channel="FujiTV.jp">
-		<title lang="ja">Live News イット!</title>
-		<desc lang="ja">菅首相が総裁選不出馬　人事も断念“辞任”へ▽どうなる“ポスト菅”岸田氏の本音を直撃！▽ワクチンに“若者枠”▽世界の交通トラブルハンマーが飛んできた</desc>
-	</programme>
 	<programme start="20210903190000 +0000" stop="20210903200000 +0000" channel="FujiTV.jp">
 		<title lang="ja">坂上どうぶつ王国</title>
 		<desc lang="ja">助けた猫に救われ人生大逆転ＳＰ▽借金地獄で崖っぷち…思わぬ猫の行動が奇跡を呼び１億円大豪邸▽廃業寸前だった食堂が蘇る！猫が起こした「一瞬の奇跡」とは？</desc>
@@ -1220,18 +1220,6 @@
 	<programme start="20210904190000 +0000" stop="20210904210000 +0000" channel="FujiTV.jp">
 		<title lang="ja">超超ベスト5 海上自衛隊をジャニーズ&人気芸人が限界調査SP</title>
 		<desc lang="ja">海上自衛隊の全てを徹底調査①衝撃訓練の全容！２ｔの浸水を防げ！火の海に突入！沈没船から脱出②超高性能な艦船の衝撃値段ランキング③女性自衛官の生活とは？</desc>
-	</programme>
-	<programme start="20210903183000 +0000" stop="20210903190000 +0000" channel="Tokyo MX">
-		<title lang="ja">キングオブモルックのモルック大作戦!!</title>
-		<desc lang="ja">おそらく世界初のモルック番組！ＡＫＢ４８チームが参戦！前シーズン勝利を飾った乃木坂４６へのライバル心から、なぜか国民的アイドルがバラエティアイドルに路線変更⁉</desc>
-	</programme>
-	<programme start="20210903190000 +0000" stop="20210903193000 +0000" channel="Tokyo MX">
-		<title lang="ja">仮面ライダー</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210903193000 +0000" stop="20210903195700 +0000" channel="Tokyo MX">
-		<title lang="ja">白い砂のアクアトープ</title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210903195700 +0000" stop="20210903200000 +0000" channel="Tokyo MX">
 		<title lang="ja">ダイナ荘びより</title>
@@ -1452,5 +1440,9 @@
 	<programme start="20210904190000 +0000" stop="20210904200000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja">佐世保発ショッピング　期間限定商品がお得</desc>
+	</programme>
+	<programme start="20210904200000 +0000" stop="20210904203000 +0000" channel="Tokyo MX">
+		<title lang="ja">山路、岸の全部言っちゃえ</title>
+		<desc lang="ja">山路徹と岸博之のゴールデンコンビが令和の世相を一刀両断！ウィズコロナ、民主主義、多様性をキーワードに他では聞けない議論を展開！</desc>
 	</programme>
 </tv>
