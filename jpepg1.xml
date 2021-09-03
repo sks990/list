@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903125000 +0000" stop="20210903131500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">ニュース</desc>
-  </programme>
-  <programme start="20210903131500 +0000" stop="20210903133000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">連続テレビ小説 おかえりモネ</title>
-    <desc lang="ja">未知（蒔田彩珠）や亮（永瀬廉）たちは気仙沼へ帰っていった。そして、菅波（坂口健太郎）が、百音（清原果耶）にある重大なことを告げるため、汐見湯にやってくる。</desc>
-  </programme>
-  <programme start="20210903133000 +0000" stop="20210903135900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇ゴールボール　女子・３位決定戦「日本×ブラジル」（中継）◇２：１５頃　車いすテニス　男子ダブルス・３位決定戦</desc>
-  </programme>
   <programme start="20210903135900 +0000" stop="20210903140000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -114,11 +102,11 @@
     <title lang="ja">首都圏ネットワーク</title>
     <desc lang="ja">ニュース・気象情報、新型コロナ感染状況、生活への影響などをくわしくお伝えします。</desc>
   </programme>
-  <programme start="20210903190000 +0000" stop="20210903193000 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210903190000 +0000" stop="20210903200000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">NHKニュース7</title>
     <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】上原光紀，栗原望，【気象キャスター】平野有海</desc>
   </programme>
-  <programme start="20210903193000 +0000" stop="20210903202500 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210903200000 +0000" stop="20210903202500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇競泳　女子２００ｍ個人メドレー　ＳＭ５・決勝、男子１００ｍバタフライ　Ｓ１１・決勝、男子４００ｍメドレーリレー　３４ポイント・決勝ほか（中継）</desc>
   </programme>
@@ -130,11 +118,11 @@
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
   </programme>
-  <programme start="20210903210000 +0000" stop="20210903213000 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210903210000 +0000" stop="20210903214500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュースウオッチ9</title>
     <desc lang="ja">▽新型コロナ最新情報　▽あさって閉幕・改めて考える五輪とパラ　揺るいだ理念・コロナ禍の無観客開催　私たちに残したものは…　▽ＭＬＢ大谷は・プロ野球速報は</desc>
   </programme>
-  <programme start="20210903213000 +0000" stop="20210903221500 +0000" channel="NHK1Tokyo.jp">
+  <programme start="20210903214500 +0000" stop="20210903221500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすバスケットボール　男子・準決勝「日本×イギリス」（中継）　【出演】吉田沙保里，櫻井翔，猪狩ともか，【アナウンサー】中野淳，杉浦友紀</desc>
   </programme>
@@ -286,30 +274,10 @@
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210903124500 +0000" stop="20210903130000 +0000" channel="eTele.jp">
-		<title lang="ja">ろうを生きる 難聴を生きる</title>
-		<desc lang="ja">手話で生み出す笑いが人気のコメディ演劇グループ「男組」。コロナ禍で中止を余儀なくされた公演を１年ぶりに再開。笑いを真剣に追求する舞台裏に密着しました。</desc>
-	</programme>
-	<programme start="20210903130000 +0000" stop="20210903130500 +0000" channel="eTele.jp">
-		<title lang="ja">NHK手話ニュース</title>
-		<desc lang="ja">【キャスター】小野寺善子</desc>
-	</programme>
-	<programme start="20210903130500 +0000" stop="20210903133000 +0000" channel="eTele.jp">
-		<title lang="ja">NHKみんなの手話</title>
-		<desc lang="ja">カフェ　みんなの手話へようこそ。災害や防災についての表現を覚えましょう。顔や手の動きを変えることで、雨量のちがいなどを伝えることができます。</desc>
-	</programme>
-	<programme start="20210903133000 +0000" stop="20210903133500 +0000" channel="eTele.jp">
-		<title lang="ja">ワンポイント手話</title>
-		<desc lang="ja">初歩的な手話の単語や会話を２５回に分けて紹介します。最終的には手話で簡単な自己紹介ができるようになるのが目標です。北海道、宮城、イギリスなどの単語を学びます。</desc>
-	</programme>
-	<programme start="20210903133500 +0000" stop="20210903134500 +0000" channel="eTele.jp">
-		<title lang="ja">リトル・チャロ</title>
-		<desc lang="ja">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。４月からの半年は、ニューヨークで迷子になった子犬・チャロが日本に帰るまでの物語を描く。▽声：純名里沙</desc>
-	</programme>
-	<programme start="20210903134500 +0000" stop="20210903135000 +0000" channel="eTele.jp">
-		<title lang="ja">みんなのうた</title>
-		<desc lang="ja">「こんど、君と」うた：小田和正</desc>
-	</programme>
+  <programme start="20210904130500 +0000" stop="20210904145900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210903135000 +0000" stop="20210903140000 +0000" channel="eTele.jp">
 		<title lang="ja">ピタゴラスイッチ</title>
 		<desc lang="ja">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
@@ -542,9 +510,9 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210903115500 +0000" stop="20210903135500 +0000" channel="NipponTV.jp">
-		<title lang="ja">ヒルナンデス!</title>
-		<desc lang="ja">マチャミが調布で一人旅▽幻のブドウ狩り＆深大寺で絶品蕎麦▽松坂大輔投手を育てた横浜高校元寮母の夏バテ予防レシピ▽揚げ餃子＆ロコモコ丼＆冷やし蕎麦</desc>
+	<programme start="20210904140000 +0000" stop="20210904141500 +0000" channel="eTele.jp">
+		<title lang="ja">アニ×パラワールド</title>
+		<desc lang="ja">パラスポーツの魅力を描くアニ×パラをクリエーターたちの思いと共に楽しむ！ひうらの目線で描かれるボッチャの魅力。ホタルノヒカリの蛍も登場！武井と篠田が廣瀬選手に</desc>
 	</programme>
 	<programme start="20210903135500 +0000" stop="20210903155000 +0000" channel="NipponTV.jp">
 		<title lang="ja">情報ライブ ミヤネ屋</title>
@@ -639,22 +607,14 @@
 		<title lang="ja">ゼロイチ</title>
 		<desc lang="ja">「魔法の野菜料理人」「1時間だけ高級ホテル」</desc>
 	</programme>
-	<programme start="20210903102500 +0000" stop="20210903130000 +0000" channel="Asahi.jp">
-		<title lang="ja">大下容子ワイド!スクランブル</title>
-		<desc lang="ja">菅総理、二階氏との会談重ねる…総裁選の“戦略”は？党役員人事は難航か…岸田氏はコロナ４本柱▽タリバン政権樹立へ…謎多い最高指導者とは▽自衛隊でクラスター(他)</desc>
+	<programme start="20210904132500 +0000" stop="20210904133000 +0000" channel="NipponTV.jp">
+		<title lang="ja">天才!!カンパニー</title>
+		<desc lang="ja">話題の気になる新商品や企業のイチオシ商品を毎週クローズアップ！
+おぎやはぎがその魅力を楽しくお伝えします！</desc>
 	</programme>
-	<programme start="20210903130000 +0000" stop="20210903133000 +0000" channel="Asahi.jp">
-		<title lang="ja">徹子の部屋</title>
-		<desc lang="ja">菅総理の緊急会見をお伝えします。</desc>
-	</programme>
-	<programme start="20210903133000 +0000" stop="20210903134500 +0000" channel="Asahi.jp">
-		<title lang="ja">上沼恵美子のおしゃべりクッキング</title>
-		<desc lang="ja">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
-今日の料理は、旨みたっぷり！ご飯がすすむ一品！</desc>
-	</programme>
-	<programme start="20210903134500 +0000" stop="20210903134900 +0000" channel="Asahi.jp">
-		<title lang="ja">東京サイト</title>
-		<desc lang="ja">首都直下地震では、ライフラインの復旧に１週間以上かかると言われています。東京都が公開している「東京都防災アプリ」の機能で、その家に必要な備蓄の量が確認できます。</desc>
+	<programme start="20210904133000 +0000" stop="20210904151000 +0000" channel="NipponTV.jp">
+		<title lang="ja">ネタフェス直前SP</title>
+		<desc lang="ja">ネタフェス直前ＳＰ！今田耕司&有吉弘行ダブルＭＣ日テレ系お笑いの祭典ネタフェスＪＡＰＡＮ！最強芸人の超豪華ネタ祭り！</desc>
 	</programme>
 	<programme start="20210903134900 +0000" stop="20210903144700 +0000" channel="Asahi.jp">
 		<title lang="ja">漂着者</title>
@@ -795,9 +755,14 @@
 		<desc lang="ja">中居正広が“土曜・お昼の顔”になり、話題の出来事を独自の目線で解説する新感覚ニュース番組です。
 より分かりやすく興味深く。「ニュースって見方が分かると面白い！」</desc>
 	</programme>
-	<programme start="20210903102500 +0000" stop="20210903135500 +0000" channel="TBS2.jp">
-		<title lang="ja">ひるおび!</title>
-		<desc lang="ja">党内外から逆風…どうなる役員人事　首相思惑は　今後占う３つのシナリオ▽秋雨前線停滞…来週残暑再び▽中国「習近平思想」授業必修化の狙いは▽睡眠のお悩み解消</desc>
+	<programme start="20210904132600 +0000" stop="20210904133000 +0000" channel="Asahi.jp">
+		<title lang="ja">TVクリップ</title>
+		<desc lang="ja">人気番組の最新情報をギュッと凝縮してお届けします！</desc>
+	</programme>
+	<programme start="20210904133000 +0000" stop="20210904153000 +0000" channel="Asahi.jp">
+		<title lang="ja">家事ヤロウ!!!</title>
+		<desc lang="ja">７日火曜よる家事ヤロウ２時間ＳＰ！木村拓哉が日頃家で食べているご飯を完全レシピ化！
+その放送に先駆けて、北川景子＆広末涼子＆松本まりか…が披露した料理姿を放送！</desc>
 	</programme>
 	<programme start="20210903135500 +0000" stop="20210903154900 +0000" channel="TBS2.jp">
 		<title lang="ja">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -918,9 +883,9 @@
 		<title lang="ja">王様のブランチ</title>
 		<desc lang="ja">この秋必ず話題になる！新感覚の極上麺＆高級抹茶スイーツとは▽小松菜奈と宮沢氷魚が食べログ１位のかき氷に大興奮！▽次にくるマンガ大賞２０２１を大特集</desc>
 	</programme>
-	<programme start="20210903114000 +0000" stop="20210903134000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
-		<desc lang="ja">▽「ハシが止まらない」大奥女優が大絶賛！ほかほかご飯の“カツオ出汁バター”乗せ！▽江戸前ハマグリの味噌串焼き＆鶏くわ焼き▽多摩川の隠れ名物…？アユ丸ごとラーメン</desc>
+	<programme start="20210904140000 +0000" stop="20210904145400 +0000" channel="TBS2.jp">
+		<title lang="ja">芸人鉄道!オワライナー</title>
+		<desc lang="ja">MCアンタッチャブルがローカル鉄道でゲストをおもてなし！群馬・上信電鉄を舞台に総勢２４名の芸人登場！各駅の停車時間内だけ新ネタ披露…おもてなし失敗で扉が閉まる！</desc>
 	</programme>
 	<programme start="20210903134000 +0000" stop="20210903154000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">午後のロードショー</title>
@@ -1216,17 +1181,9 @@
 		<title lang="ja">ぶらぶらサタデー</title>
 		<desc lang="ja">まるで煙を食べている？絶品魚介料理で不思議体験▽１枚５万円？一発勝負の記念撮影▽油断禁物！デヴィ夫人の商店街ぶらり▽スイカ×生クリームのショートケーキ</desc>
 	</programme>
-	<programme start="20210903123000 +0000" stop="20210903130000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210903130000 +0000" stop="20210903135500 +0000" channel="Tokyo MX">
-		<title lang="ja">寺西一浩ドラマ 人生いろいろ</title>
-		<desc lang="ja">第７話▼龍太郎は和菓子屋を継いだ本当の理由と自分の気持ちを伝えようとかなえの家にやって来た。そこに真紀子が現れタイミングを逃してしまった龍太郎は…</desc>
-	</programme>
-	<programme start="20210903135500 +0000" stop="20210903135900 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210904133000 +0000" stop="20210904143000 +0000" channel="FujiTV.jp">
+		<title lang="ja">ワンピースバラエティ 海賊王におれはなるTV</title>
+		<desc lang="ja">かまいたち×マヂカルラブリー×オズワルド！ワンピースと共に歩んだ人生を徹底比較！ずん飯尾がついに単行本を読破！</desc>
 	</programme>
 	<programme start="20210903135900 +0000" stop="20210903150000 +0000" channel="Tokyo MX">
 		<title lang="ja">都知事定例会見</title>
@@ -1429,6 +1386,14 @@
 		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
 	</programme>
 	<programme start="20210904130000 +0000" stop="20210904133000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904133000 +0000" stop="20210904140000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904140000 +0000" stop="20210904143000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
