@@ -50,21 +50,9 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903115400 +0000" stop="20210903120000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">気象情報</title>
+  <programme start="20210903130000 +0000" stop="20210903130500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
     <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210903120000 +0000" stop="20210903124500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20210903124500 +0000" stop="20210903125000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210903125000 +0000" stop="20210903130500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">連続テレビ小説 おかえりモネ</title>
-    <desc lang="ja">未知（蒔田彩珠）や亮（永瀬廉）たちは気仙沼へ帰っていった。そして、菅波（坂口健太郎）が、百音（清原果耶）にある重大なことを告げるため、汐見湯にやってくる。</desc>
   </programme>
   <programme start="20210903130500 +0000" stop="20210903131000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース</title>
@@ -270,14 +258,26 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja">【キャスター】井上二郎</desc>
   </programme>
-	<programme start="20210903115500 +0000" stop="20210903120000 +0000" channel="eTele.jp">
-		<title lang="ja">やまと尼寺 献立帳</title>
-		<desc lang="ja">秋の庭のハーブでつくる絶品ドレッシング。みょうが、ウイキョウ、赤ジソ、青ジソ、レモンバーム。細かく刻んで自家製クリームチーズと一緒にオイルに漬ければできあがり。</desc>
-	</programme>
-	<programme start="20210903120000 +0000" stop="20210903124500 +0000" channel="eTele.jp">
-		<title lang="ja">チョイス＠病気になったとき</title>
-		<desc lang="ja">全国で１０００万人以上の人が悩む「便秘」。次々登場する新薬の特徴を詳しく紹介。日々の対策として、食物繊維の効果的なとり方から「出やすい」排便姿勢まで、徹底解説！</desc>
-	</programme>
+  <programme start="20210904121000 +0000" stop="20210904121500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210904121500 +0000" stop="20210904124400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210904124400 +0000" stop="20210904124500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210904124500 +0000" stop="20210904130000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">【連続テレビ小説】おかえりモネ</title>
+    <desc lang="ja">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
+  </programme>
+  <programme start="20210904130000 +0000" stop="20210904130500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210903124500 +0000" stop="20210903130000 +0000" channel="eTele.jp">
 		<title lang="ja">ろうを生きる 難聴を生きる</title>
 		<desc lang="ja">手話で生み出す笑いが人気のコメディ演劇グループ「男組」。コロナ禍で中止を余儀なくされた公演を１年ぶりに再開。笑いを真剣に追求する舞台裏に密着しました。</desc>
@@ -527,6 +527,10 @@
 		<desc lang="ja">この１週間に日本や世界で起きた出来事は？おもなニュースを最新情報も盛り込んで振り返ります。　※放送する内容やテーマは決まり次第掲載します。</desc>
 	</programme>
 	<programme start="20210904120000 +0000" stop="20210904130000 +0000" channel="eTele.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja"></desc>
+	</programme>
+	<programme start="20210904130000 +0000" stop="20210904140000 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja"></desc>
 	</programme>
@@ -1086,6 +1090,18 @@
 		<title lang="ja">TXNニュース</title>
 		<desc lang="ja">日本や世界の最新ニュースをコンパクトにお伝えする。</desc>
 	</programme>
+	<programme start="20210904120500 +0000" stop="20210904124500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">シナぷしゅ</title>
+		<desc lang="ja">いつもとちょっとちがう、スペシャルなシナぷしゅは人気コーナーがもりだくさん！
+歌って踊れるはじまりぷしゅや、初公開のぷしゅぷしゅ音頭も♪</desc>
+	</programme>
+	<programme start="20210904124500 +0000" stop="20210904142300 +0000" channel="TVTokyo.jp">
+		<title lang="ja">サンド軍VSナイツ軍!とっておき激推し芸人ネタバトル予習復習スペシャル</title>
+		<desc lang="ja">人気・実力ともに芸人界トップのサンドウィ
+ッチマンとナイツが今、最も面白いと思う激
+推し芸人を集めてネタバトルを開催！
+明日の放送の前に予習復習！</desc>
+	</programme>
 	<programme start="20210903115500 +0000" stop="20210903144500 +0000" channel="FujiTV.jp">
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">どうなる「自民党総裁選」菅首相来週役員人事へ▽眞子さまと小室圭さん「年内ご結婚へ」海外メディアどう報じた▽新たな変異「ミュー株」ワクチンが効きにくい？</desc>
@@ -1191,14 +1207,6 @@
 	<programme start="20210904120000 +0000" stop="20210904133000 +0000" channel="FujiTV.jp">
 		<title lang="ja">ぶらぶらサタデー</title>
 		<desc lang="ja">まるで煙を食べている？絶品魚介料理で不思議体験▽１枚５万円？一発勝負の記念撮影▽油断禁物！デヴィ夫人の商店街ぶらり▽スイカ×生クリームのショートケーキ</desc>
-	</programme>
-	<programme start="20210903115500 +0000" stop="20210903120000 +0000" channel="Tokyo MX">
-		<title lang="ja">MX news FLAG</title>
-		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-	</programme>
-	<programme start="20210903120000 +0000" stop="20210903123000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210903123000 +0000" stop="20210903130000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1407,5 +1415,13 @@
 	<programme start="20210904120000 +0000" stop="20210904125500 +0000" channel="Tokyo MX">
 		<title lang="ja">週末ハッピーライフ!お江戸に恋して</title>
 		<desc lang="ja">東京の魅力を再発見！毎週話題のゲストが登場！現代に残る江戸歴史＆東京23区の区長がハッピーになれる情報をお届け！江戸恋で東京をもっと好きになる！</desc>
+	</programme>
+	<programme start="20210904125500 +0000" stop="20210904130000 +0000" channel="Tokyo MX">
+		<title lang="ja">MX news FLAG</title>
+		<desc lang="ja">東京の様々なニュースをお伝えします。</desc>
+	</programme>
+	<programme start="20210904130000 +0000" stop="20210904133000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
