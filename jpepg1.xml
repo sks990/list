@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904003600 +0000" stop="20210904010700 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">シブヤノオト</title>
-    <desc lang="ja">Ｓｎｏｗ　Ｍａｎがぶっつけ質問にガチ回答！セブチが登場クイズもあるよ！アデューこと上白石萌歌が告白！？話題のＦＩＶＥ　ＮＥＷ　ＯＬＤがグッドサウンドを響かせる！</desc>
-  </programme>
-  <programme start="20210904010700 +0000" stop="20210904013700 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ストーリーズ</title>
-    <desc lang="ja">ナレーションのないドキュメンタリー「ノーナレ」。聴力を失ったジャズベーシスト、体に刻まれた「音」の記憶を引き出し演奏。人工内耳で取り戻した音の世界を映像化。</desc>
-  </programme>
   <programme start="20210904013700 +0000" stop="20210904020700 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">サンドのお風呂いただきます</title>
     <desc lang="ja">サンドと千鳥が温泉地として有名な神奈川の湯河原へ！地元の人々とふれ合い、ご家庭風呂をいただきます！伊３０分の放送で伊達が３度入浴する２０１８年放送の伝説の回！</desc>
@@ -249,6 +241,14 @@
   <programme start="20210905003000 +0000" stop="20210905011500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">アンという名の少女</title>
     <desc lang="ja">世界中で愛されているモンゴメリ作の不朽の名作『赤毛のアン』をドラマ化。不登校になったアンは、毎日学校へ行くふりをしてどこへ？ある夜、アンの同級生の家が火事に…。</desc>
+  </programme>
+  <programme start="20210905011500 +0000" stop="20210905020000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">アンという名の少女</title>
+    <desc lang="ja">世界中で愛されているモンゴメリ作の不朽の名作『赤毛のアン』をドラマ化。アンはダイアナをお茶会に招待するが、予想外の展開に。アンの服を新調しに行ったマシューは…。</desc>
+  </programme>
+  <programme start="20210905020000 +0000" stop="20210905020500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">９月６日（月）夜１０：４５から始まる「よるドラ『古見さんは、コミュ症です。』」の見どころをコンパクトにご案内します。</desc>
   </programme>
 	<programme start="20210904005000 +0000" stop="20210904053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -572,13 +572,13 @@
 		<title lang="ja">EDENSZERO/エデンズ ゼロ</title>
 		<desc lang="ja">＃２１「リセット」</desc>
 	</programme>
-	<programme start="20210904005500 +0000" stop="20210904012500 +0000" channel="Asahi.jp">
-		<title lang="ja">ナスD大冒険TV</title>
-		<desc lang="ja">テレビ朝日の社員・ナスＤが殆どの日本人が踏み入れた事のない世界の僻地に命懸けで向かい、知られざる文化・住む人々の暮らしをレポートする超本気紀行ドキュメント番組！</desc>
+	<programme start="20210905013000 +0000" stop="20210905013500 +0000" channel="NipponTV.jp">
+		<title lang="ja">ガイド</title>
+		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210904012500 +0000" stop="20210904015500 +0000" channel="Asahi.jp">
-		<title lang="ja">ラストアイドル</title>
-		<desc lang="ja">秋元康がプロデュースする究極のアイドルグループ「ラストアイドル」が誕生。様々な試練に挑む！</desc>
+	<programme start="20210905013500 +0000" stop="20210905023500 +0000" channel="NipponTV.jp">
+		<title lang="ja">Hulu傑作シアター</title>
+		<desc lang="ja">9月7日からシーズン7配信！超高速で疾走しながら自分の大切な人々を守り抜く「THE　FLASH／フラッシュ」を特集▼「ライフ　私たちの生きる道」第1話を放送</desc>
 	</programme>
 	<programme start="20210904015500 +0000" stop="20210904022500 +0000" channel="Asahi.jp">
 		<title lang="ja">BeauTV 〜VOCE ビューティーヴィー</title>
@@ -748,13 +748,14 @@
 		<title lang="ja">アニマルエレジー</title>
 		<desc lang="ja">地球上に生きるあらゆる「生き物」の、哀しいけれどちょっと笑ってしまう…おかしい生態を覗き見する異色の動物番組。</desc>
 	</programme>
-	<programme start="20210904005500 +0000" stop="20210904012500 +0000" channel="TBS2.jp">
-		<title lang="ja">NEWSの全力!!メイキング</title>
-		<desc lang="ja">話題のＥＬワイヤーを使って自宅で真似出来る“ネオンサインボード”作り！ＤＩＹ芸人チョコプラの凄技連発！「一番儲かった仕事は」「モノマネが助けてくれた」本音トーク</desc>
+	<programme start="20210905010500 +0000" stop="20210905013500 +0000" channel="Asahi.jp">
+		<title lang="ja">ワールドプロレスリング</title>
+		<desc lang="ja">新日本プロレス・アメリカ大会！エース棚橋弘至が１年半ぶりの有観客となったロスで「ＩＷＧＰ ＵＳヘビー級王座」に挑戦！初戴冠を目指す▽ヤングライオンの激闘を特集！</desc>
 	</programme>
-	<programme start="20210904012500 +0000" stop="20210904013000 +0000" channel="TBS2.jp">
-		<title lang="ja">ジョシとドラゴン</title>
-		<desc lang="ja">【日常系ゆるふわゲーム番組】　ジョシの家に住み着くゲーム大好きドラゴンがいた！ドラゴンはゲームに興味がないジョシたちにその魅力を伝えようと大奮闘！</desc>
+	<programme start="20210905013500 +0000" stop="20210905020500 +0000" channel="Asahi.jp">
+		<title lang="ja">RE-MAIN</title>
+		<desc lang="ja">―知らない自分に、僕らは出会う―
+総監督・脚本 西田征史（「TIGER & BUNNY」）× アニメーション制作 MAPPA（「呪術廻戦」）の初タッグで水球に挑む！</desc>
 	</programme>
 	<programme start="20210904013000 +0000" stop="20210904020000 +0000" channel="TBS2.jp">
 		<title lang="ja">乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X/俺、つしま</title>
@@ -899,13 +900,15 @@
 ▽パラリンピックその他注目競技
 ▽プロ野球</desc>
 	</programme>
-	<programme start="20210904005700 +0000" stop="20210904012800 +0000" channel="TVTokyo.jp">
-		<title lang="ja">サ道2021</title>
-		<desc lang="ja">サウナブームを巻き起こした「サ道」が新シリーズ突入！原田×三宅×磯村が再集結▼ナカタがご機嫌に話す“秘密の場所”とは？妻に内緒で1人ラブホテルを訪れたアダチは…</desc>
+	<programme start="20210905010300 +0000" stop="20210905013300 +0000" channel="TBS2.jp">
+		<title lang="ja">私が女優になる日_</title>
+		<desc lang="ja">☆１位は主演！今秋スタートのTBS新ドラマに出演できるのは誰だ！？
+☆いよいよ最終戦！「半沢直樹」「ドラゴン桜」監督が原石たちの演技を本気審査！</desc>
 	</programme>
-	<programme start="20210904012800 +0000" stop="20210904015800 +0000" channel="TVTokyo.jp">
-		<title lang="ja">八月のシンデレラナイン2021</title>
-		<desc lang="ja">市立里ヶ浜高校に通う有原翼は、野球部のないこの学校に女子硬式野球部を立ち上げる。時にぶつかりながら少女たちは青春を駆け抜ける！▽豪華ゲストによる副音声つき！</desc>
+	<programme start="20210905013300 +0000" stop="20210905020300 +0000" channel="TBS2.jp">
+		<title lang="ja">カバン持ちさせてください</title>
+		<desc lang="ja">柴田英嗣が“ミクシィ”のカバン持ち
+「モンスターストライク」ゲームの裏側</desc>
 	</programme>
 	<programme start="20210904015800 +0000" stop="20210904020500 +0000" channel="TVTokyo.jp">
 		<title lang="ja"></title>
@@ -1089,9 +1092,14 @@
 		<desc lang="ja">今回のゲストは、女優・中村ゆり！
 ＴＯＫＩＯ松岡＆博多大吉とテイクアウトで家飲み！</desc>
 	</programme>
-	<programme start="20210904001000 +0000" stop="20210904010000 +0000" channel="FujiTV.jp">
-		<title lang="ja">FNN Live News α</title>
-		<desc lang="ja">“再増加も”警戒続く▽首相不出馬…真意は◆初の４強…メダルは車いすバスケ試合詳報</desc>
+	<programme start="20210905012000 +0000" stop="20210905014500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ABChanZOO</title>
+		<desc lang="ja">メンバーがリスペクトの想いを込めてジャニーズモノマネに挑戦！
+木村拓哉、亀梨和也がまさかの登場！？</desc>
+	</programme>
+	<programme start="20210905014500 +0000" stop="20210905021000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ゴッドタン</title>
+		<desc lang="ja">悪ふざけの最高峰「ゴッドタン」。その時面白いと思った企画をやり続ける「お笑い番組」です。芸人の本気の悪ふざけは、一見の価値あり！</desc>
 	</programme>
 	<programme start="20210904010000 +0000" stop="20210904023000 +0000" channel="FujiTV.jp">
 		<title lang="ja">有吉の夏休み2020</title>
@@ -1218,17 +1226,13 @@
 ▼連日メダルラッシュの東京パラリンピック
 ▼３度目Ｖへ大坂なおみ全米ＯＰ</desc>
 	</programme>
-	<programme start="20210904003000 +0000" stop="20210904010000 +0000" channel="Tokyo MX">
-		<title lang="ja">100万の命の上に俺は立っている</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210905012000 +0000" stop="20210905015000 +0000" channel="FujiTV.jp">
+		<title lang="ja">馬好王国〜UmazuKingdom〜</title>
+		<desc lang="ja">競馬にまつわる初めての出来事をクイズ形式にして「王国チーム」と「正義の味方チーム」が対決！クイズの不正解者には“初めて”にまつわる恥ずかし映像を公開！</desc>
 	</programme>
-	<programme start="20210904010000 +0000" stop="20210904010500 +0000" channel="Tokyo MX">
-		<title lang="ja">ぷっちみく♪ D4DJ Petit Mix</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210904010500 +0000" stop="20210904013500 +0000" channel="Tokyo MX">
-		<title lang="ja">ぶらどらぶ</title>
-		<desc lang="ja">押井守がシリーズアニメに帰ってきた！　献血マニアの女子高生・絆播貢と、美少女吸血鬼・マイが織りなすドタバタコメディ！　第１０夜は、超人ハ…腐乱犬⁉</desc>
+	<programme start="20210905015000 +0000" stop="20210905025000 +0000" channel="FujiTV.jp">
+		<title lang="ja">ナイト・ドクター</title>
+		<desc lang="ja">［衝突する５人！異なる価値観！］心美の願いはドナーになることだった！認めない深澤に複雑な心境の美月と桜庭！臓器提供をめぐりそれぞれの想いが交錯する！？</desc>
 	</programme>
 	<programme start="20210904013500 +0000" stop="20210904020500 +0000" channel="Tokyo MX">
 		<title lang="ja">WONDER WHEEL</title>
@@ -1448,6 +1452,14 @@
 	</programme>
 	<programme start="20210905010000 +0000" stop="20210905013000 +0000" channel="Tokyo MX">
 		<title lang="ja">かげきしょうじょ!!</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905013000 +0000" stop="20210905020000 +0000" channel="Tokyo MX">
+		<title lang="ja">現実主義勇者の王国再建記</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905020000 +0000" stop="20210905023000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
