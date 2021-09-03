@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904034700 +0000" stop="20210904040800 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">日本夜景めぐり</title>
-    <desc lang="ja">ゆったりと流れる夜景の空撮、光の織りなす芸術をハイビジョン映像でおくるシリーズ「日本夜景めぐり」。今回は、大都会東京の美しい夜景空撮などを紹介。</desc>
-  </programme>
-  <programme start="20210904040800 +0000" stop="20210904041500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">みんなのうた</title>
-    <desc lang="ja">「トタン屋根のワルツ」うた：工藤順子／「タチツテト手を」うた：ヘンリー・バンド　ｗｉｔｈ　Ｍ</desc>
-  </programme>
-  <programme start="20210904041500 +0000" stop="20210904043000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">先どり きょうの健康</title>
-    <desc lang="ja">肩が激しく痛む、腕が上がらない、多くの中高年に起こる五十肩。治療で大切なのはタイミング。これを誤ると回復が遅れたり悪い状態に逆戻りする。治療の秘けつを徹底解説</desc>
-  </programme>
   <programme start="20210904043000 +0000" stop="20210904050000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">日本の話芸</title>
     <desc lang="ja">つい先日逝去された落語家・笑福亭仁鶴の話芸で「崇徳院」を▽第３１７回ＮＨＫ上方落語の会より（２０１２年３月ＮＨＫ大阪ホールで録画）</desc>
@@ -249,6 +237,38 @@
   <programme start="20210905031000 +0000" stop="20210905041000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">空からクルージング特別編</title>
     <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパに残る、知られざる遺跡の数々を紹介する。</desc>
+  </programme>
+  <programme start="20210905041000 +0000" stop="20210905041300 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">青海チベット鉄道</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210905041300 +0000" stop="20210905041500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">インターミッション</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210905041500 +0000" stop="20210905042000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">音を見る物語</title>
+    <desc lang="ja">視覚障害のあるゴールボール選手や一般の視覚障害者たちは、どのように世界を認識しているのか。数々の賞を受賞するアニメクリエーターが描いた、“見えないひとの世界”</desc>
+  </programme>
+  <programme start="20210905042000 +0000" stop="20210905042500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">名曲アルバム</title>
+    <desc lang="ja">「故郷」（合唱）東京混声合唱団，（管弦楽）東京フィルハーモニー交響楽団，（指揮）円光寺雅彦　〜長野県中野市ほか〜</desc>
+  </programme>
+  <programme start="20210905042500 +0000" stop="20210905043000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">みんなのうた</title>
+    <desc lang="ja">「わたしの紙風船」うた：紙ふうせん／「天下無敵のゴーヤーマン★」うた：ガレッジセール</desc>
+  </programme>
+  <programme start="20210905043000 +0000" stop="20210905045900 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">イッピン</title>
+    <desc lang="ja">綿花栽培に始まった岡山県倉敷の織物。厚手の木綿織物「帆布」や、畳の縁を彩る「畳縁（たたみべり）」など、丈夫で長持ちする布製品を生み出す、織物産地の底力に迫る。</desc>
+  </programme>
+  <programme start="20210905045900 +0000" stop="20210905050000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">明日へ1min.</title>
+    <desc lang="ja">避難所で作った一品▽支援物資として届けられた材料で▽野菜とランチョンミートを切って鍋で煮込む▽レトルトハヤシで味付け▽短く切った焼きそばの麺を加えて出来上がり</desc>
+  </programme>
+  <programme start="20210905050000 +0000" stop="20210905051000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
   </programme>
 	<programme start="20210904005000 +0000" stop="20210904053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -438,6 +458,10 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
+	<programme start="20210905050000 +0000" stop="20210905060000 +0000" channel="eTele.jp">
+		<title lang="ja">こころの時代〜宗教・人生〜</title>
+		<desc lang="ja">『ニュクスの角灯』の作者・高浜寛さんは、アルコール依存症、熊本地震で「死」に直面しながら、光に導く角灯を描き続けた。闇から光へ…異色の表現者の核心に迫る。</desc>
+	</programme>
 	<programme start="20210904032000 +0000" stop="20210904050500 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -575,18 +599,6 @@
 	<programme start="20210905023500 +0000" stop="20210905050500 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！インナーマスク、激安夏寝具、ブルブルボーテ、ドラレコ、英国バッグ、強力掃除機、顔もできる脱毛器、高機能シャワーヘッドまで！</desc>
-	</programme>
-	<programme start="20210904030500 +0000" stop="20210904040000 +0000" channel="Asahi.jp">
-		<title lang="ja">SUBSC MUSIC2021夏「今なに聴いてる?」</title>
-		<desc lang="ja">サブスク総再生回数６億５６００万回！「この夏、１０代が本当に聴いている楽曲ランキングＢＥＳＴ５０」を大発表＆豪華アーティスト陣のフルサイズパフォーマンス！</desc>
-	</programme>
-	<programme start="20210904040000 +0000" stop="20210904043000 +0000" channel="Asahi.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-	</programme>
-	<programme start="20210904043000 +0000" stop="20210904045500 +0000" channel="Asahi.jp">
-		<title lang="ja">渡辺篤史の建もの探訪</title>
-		<desc lang="ja">「屋根に不思議な三角柱を載せた平屋」埼玉県さいたま市・小島邸</desc>
 	</programme>
 	<programme start="20210904045500 +0000" stop="20210904052000 +0000" channel="Asahi.jp">
 		<title lang="ja">おかずのクッキング</title>
@@ -757,17 +769,20 @@
 		<title lang="ja">CSテレ朝ナビ!!</title>
 		<desc lang="ja">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
 	</programme>
-	<programme start="20210904032200 +0000" stop="20210904040000 +0000" channel="TBS2.jp">
-		<title lang="ja">カイモノラボ</title>
-		<desc lang="ja">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+	<programme start="20210905040500 +0000" stop="20210905043000 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 	</programme>
-	<programme start="20210904040000 +0000" stop="20210904041500 +0000" channel="TBS2.jp">
-		<title lang="ja">TBS NEWS</title>
-		<desc lang="ja">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+	<programme start="20210905043000 +0000" stop="20210905050000 +0000" channel="Asahi.jp">
+		<title lang="ja">テレメンタリー2021</title>
+		<desc lang="ja">女子高校野球「春夏連覇」に挑む新潟の開志学園。野球が大好きな女子高校生48人が全国から集まり寮生活。新型ウイルス禍でも夢を諦めない彼女たちのひたむきな姿を追った。</desc>
 	</programme>
-	<programme start="20210904041500 +0000" stop="20210904044500 +0000" channel="TBS2.jp">
-		<title lang="ja">開運音楽堂</title>
-		<desc lang="ja">Zenyaのデジタルシングルは必聴!夏の終わりにぴったりだ!▽シンディ・ローパーの伝説の名曲!▽柊木璃々歩スタジオ初登場。来た理由を聞いた開運ファミリーが困惑!</desc>
+	<programme start="20210905050000 +0000" stop="20210905052000 +0000" channel="Asahi.jp">
+		<title lang="ja">はい!テレビ朝日です</title>
+		<desc lang="ja">花職人の仕事 石橋恵三子さん
+「徹子の部屋」の花を飾って４５年。
+石橋さんの仕事場を覗かせていただきました。</desc>
 	</programme>
 	<programme start="20210904044500 +0000" stop="20210904051500 +0000" channel="TBS2.jp">
 		<title lang="ja"></title>
@@ -898,9 +913,10 @@
 		<title lang="ja">TBS NEWS</title>
 		<desc lang="ja">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 	</programme>
-	<programme start="20210904040000 +0000" stop="20210904042300 +0000" channel="TVTokyo.jp">
+	<programme start="20210905050000 +0000" stop="20210905060000 +0000" channel="TBS2.jp">
 		<title lang="ja"></title>
-		<desc lang="ja"></desc>
+		<desc lang="ja">通販番組（ＴＶショッピング）
+</desc>
 	</programme>
 	<programme start="20210904042300 +0000" stop="20210904054500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ものスタ サタデー</title>
@@ -1080,17 +1096,12 @@
 		<title lang="ja">サタ☆シネ</title>
 		<desc lang="ja"><ゆく夏惜しむホラー祭り>立入禁止海域に向かうセスナ機墜落！海に投げ出された彼らを待っていたのは…ホホジロザメ!?次々犠牲となるメンバー、生還なるか？生き物パニック</desc>
 	</programme>
-	<programme start="20210904035500 +0000" stop="20210904042500 +0000" channel="FujiTV.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
-	</programme>
-	<programme start="20210904042500 +0000" stop="20210904045000 +0000" channel="FujiTV.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
-	</programme>
-	<programme start="20210904045000 +0000" stop="20210904045200 +0000" channel="FujiTV.jp">
-		<title lang="ja">天気予報</title>
-		<desc lang="ja">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+	<programme start="20210905050000 +0000" stop="20210905052000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ものスタ サンデー</title>
+		<desc lang="ja">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 	</programme>
 	<programme start="20210904045200 +0000" stop="20210904052200 +0000" channel="FujiTV.jp">
 		<title lang="ja">テレビ寺子屋</title>
@@ -1213,13 +1224,13 @@
 		<title lang="ja">ミミヨリ!</title>
 		<desc lang="ja">耳より情報をお届けします！</desc>
 	</programme>
-	<programme start="20210904035000 +0000" stop="20210904040000 +0000" channel="Tokyo MX">
-		<title lang="ja">路面電車のある風景</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210904040000 +0000" stop="20210904043000 +0000" channel="Tokyo MX">
+	<programme start="20210905043000 +0000" stop="20210905050000 +0000" channel="FujiTV.jp">
 		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+	</programme>
+	<programme start="20210905050000 +0000" stop="20210905051000 +0000" channel="FujiTV.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
 	</programme>
 	<programme start="20210904043000 +0000" stop="20210904050000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1426,6 +1437,14 @@
 		<desc lang="ja">ＰＲさせてください！けん玉チャレンジ！（前編）</desc>
 	</programme>
 	<programme start="20210905040000 +0000" stop="20210905043000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905043000 +0000" stop="20210905050000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905050000 +0000" stop="20210905053000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
