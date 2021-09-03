@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904025400 +0000" stop="20210904034700 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ヨーロッパ トラムの旅</title>
-    <desc lang="ja">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
-  </programme>
   <programme start="20210904034700 +0000" stop="20210904040800 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">日本夜景めぐり</title>
     <desc lang="ja">ゆったりと流れる夜景の空撮、光の織りなす芸術をハイビジョン映像でおくるシリーズ「日本夜景めぐり」。今回は、大都会東京の美しい夜景空撮などを紹介。</desc>
@@ -250,6 +246,10 @@
     <title lang="ja">日本の名峰</title>
     <desc lang="ja"></desc>
   </programme>
+  <programme start="20210905031000 +0000" stop="20210905041000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">空からクルージング特別編</title>
+    <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパに残る、知られざる遺跡の数々を紹介する。</desc>
+  </programme>
 	<programme start="20210904005000 +0000" stop="20210904053000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
@@ -438,10 +438,6 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210904023500 +0000" stop="20210904032000 +0000" channel="NipponTV.jp">
-		<title lang="ja">夜バゲット</title>
-		<desc lang="ja">イチ押しの映画、イベント、アニメ情報を日テレアナウンサー陣が徹底紹介。</desc>
-	</programme>
 	<programme start="20210904032000 +0000" stop="20210904050500 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -579,10 +575,6 @@
 	<programme start="20210905023500 +0000" stop="20210905050500 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレポシュレ</title>
 		<desc lang="ja">ポシュレは残暑に負けないセールを展開！インナーマスク、激安夏寝具、ブルブルボーテ、ドラレコ、英国バッグ、強力掃除機、顔もできる脱毛器、高機能シャワーヘッドまで！</desc>
-	</programme>
-	<programme start="20210904024500 +0000" stop="20210904030500 +0000" channel="Asahi.jp">
-		<title lang="ja">ももクロちゃんと!</title>
-		<desc lang="ja">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
 	</programme>
 	<programme start="20210904030500 +0000" stop="20210904040000 +0000" channel="Asahi.jp">
 		<title lang="ja">SUBSC MUSIC2021夏「今なに聴いてる?」</title>
@@ -756,17 +748,14 @@
 		<desc lang="ja">橋本良亮×中村ゆりか▽大人気コミックが原作…ちょっとＨで美しい恋物語！
 突然、高校時代の同級生と同居することに⁉“接吻”から始まる危険な偏愛同居ラブストーリー！</desc>
 	</programme>
-	<programme start="20210904023000 +0000" stop="20210904030000 +0000" channel="TBS2.jp">
-		<title lang="ja">カノジョも彼女</title>
-		<desc lang="ja">▽彼女がいるのに、他の女の子に告白されたら……どうする？話題沸騰中のネオスタンダードラブコメ♥</desc>
+	<programme start="20210905030500 +0000" stop="20210905040000 +0000" channel="Asahi.jp">
+		<title lang="ja">イベ検</title>
+		<desc lang="ja">テレビ朝日がオススメするイベント情報！
+イベントの詳しい情報は『テレビ朝日　イベント』で検索‼</desc>
 	</programme>
-	<programme start="20210904030000 +0000" stop="20210904031000 +0000" channel="TBS2.jp">
-		<title lang="ja">With☆ベイスターズ2021</title>
-		<desc lang="ja">横浜DeNAベイスターズ応援番組。番組MC今井翼さんが23年ぶりの日本一を目指す、三浦大輔新監督率いる新生ベイスターズに熱く迫ります！</desc>
-	</programme>
-	<programme start="20210904031000 +0000" stop="20210904032200 +0000" channel="TBS2.jp">
-		<title lang="ja">イベントGO!プラス</title>
-		<desc lang="ja">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+	<programme start="20210905040000 +0000" stop="20210905040500 +0000" channel="Asahi.jp">
+		<title lang="ja">CSテレ朝ナビ!!</title>
+		<desc lang="ja">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
 	</programme>
 	<programme start="20210904032200 +0000" stop="20210904040000 +0000" channel="TBS2.jp">
 		<title lang="ja">カイモノラボ</title>
@@ -905,20 +894,11 @@
 		<title lang="ja">カイモノラボ</title>
 		<desc lang="ja">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 	</programme>
-	<programme start="20210904025000 +0000" stop="20210904032000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">音流〜ONRYU〜</title>
-		<desc lang="ja">▼スタジオゲストは、Girls²、ドラマチックアラスカが登場！▼カフェライブでは、acaneが生演奏！</desc>
+	<programme start="20210905040000 +0000" stop="20210905050000 +0000" channel="TBS2.jp">
+		<title lang="ja">TBS NEWS</title>
+		<desc lang="ja">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 	</programme>
-	<programme start="20210904032000 +0000" stop="20210904032500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ミュージックブレイク</title>
-		<desc lang="ja">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
-	</programme>
-	<programme start="20210904032500 +0000" stop="20210904034000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">あなたの生活をより楽しく！より快適に！
-ワクワクする商品を厳選して紹介するショッピング番組。</desc>
-	</programme>
-	<programme start="20210904034000 +0000" stop="20210904042300 +0000" channel="TVTokyo.jp">
+	<programme start="20210904040000 +0000" stop="20210904042300 +0000" channel="TVTokyo.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
@@ -1092,13 +1072,13 @@
 		<title lang="ja"></title>
 		<desc lang="ja">生活に役立つ商品を紹介する通販番組。</desc>
 	</programme>
-	<programme start="20210904023000 +0000" stop="20210904032500 +0000" channel="FujiTV.jp">
-		<title lang="ja">49thフジサンケイクラシック</title>
-		<desc lang="ja">この夏、世界の猛者を相手に戦った日本代表・星野陸也が連覇に挑む！石川遼・今平周吾ら実力者や金谷拓実ら若い力が待ったをかけるか！？</desc>
+	<programme start="20210905030500 +0000" stop="20210905031500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">一夜づけ</title>
+		<desc lang="ja">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
 	</programme>
-	<programme start="20210904032500 +0000" stop="20210904035500 +0000" channel="FujiTV.jp">
-		<title lang="ja">次ナルTV-S</title>
-		<desc lang="ja">人気番組がスマホでも見られるＣＳ放送フジテレビＴＷＯで放送する「逢田梨香子　１ｓｔ　ＬＩＶＥ　ＴＯＵＲ『Ｃｕｒｔａｉｎ　ｒａｉｓｅ』」ダイジェスト</desc>
+	<programme start="20210905031500 +0000" stop="20210905050000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">サタ☆シネ</title>
+		<desc lang="ja"><ゆく夏惜しむホラー祭り>立入禁止海域に向かうセスナ機墜落！海に投げ出された彼らを待っていたのは…ホホジロザメ!?次々犠牲となるメンバー、生還なるか？生き物パニック</desc>
 	</programme>
 	<programme start="20210904035500 +0000" stop="20210904042500 +0000" channel="FujiTV.jp">
 		<title lang="ja"></title>
@@ -1225,21 +1205,13 @@
 		<title lang="ja">カウズ東京上陸!世界を席巻する人気現代アートの魅力!</title>
 		<desc lang="ja">日本初となる大型展覧会が絶賛開催中の現代アーティスト、カウズ。世界中を熱狂させるその魅力と人気の秘密を武井咲、天野ひろゆき（キャイ〜ン）らと徹底解剖！</desc>
 	</programme>
-	<programme start="20210904023500 +0000" stop="20210904030500 +0000" channel="Tokyo MX">
+	<programme start="20210905034500 +0000" stop="20210905040000 +0000" channel="FujiTV.jp">
 		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
 	</programme>
-	<programme start="20210904030500 +0000" stop="20210904032200 +0000" channel="Tokyo MX">
-		<title lang="ja">楽遊のさきどり★アイドル塾</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210904032200 +0000" stop="20210904033500 +0000" channel="Tokyo MX">
-		<title lang="ja">楽遊のさきどり★BOYS</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210904033500 +0000" stop="20210904035000 +0000" channel="Tokyo MX">
-		<title lang="ja">ふるさと百景 路面電車のある風景</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210905040000 +0000" stop="20210905043000 +0000" channel="FujiTV.jp">
+		<title lang="ja">ミミヨリ!</title>
+		<desc lang="ja">耳より情報をお届けします！</desc>
 	</programme>
 	<programme start="20210904035000 +0000" stop="20210904040000 +0000" channel="Tokyo MX">
 		<title lang="ja">路面電車のある風景</title>
@@ -1446,6 +1418,14 @@
 		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210905030000 +0000" stop="20210905033000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905033000 +0000" stop="20210905040000 +0000" channel="Tokyo MX">
+		<title lang="ja">真夜中のおバカ騒ぎ!</title>
+		<desc lang="ja">ＰＲさせてください！けん玉チャレンジ！（前編）</desc>
+	</programme>
+	<programme start="20210905040000 +0000" stop="20210905043000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
