@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903135900 +0000" stop="20210903140000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210903140000 +0000" stop="20210903141000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210903141000 +0000" stop="20210903145900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">◇ゴールボール　女子・３位決定戦「日本×ブラジル」（中継）◇２：１５頃　車いすテニス　男子ダブルス・３位決定戦</desc>
-  </programme>
   <programme start="20210903145900 +0000" stop="20210903150000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -282,18 +270,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210903135000 +0000" stop="20210903140000 +0000" channel="eTele.jp">
-		<title lang="ja">ピタゴラスイッチ</title>
-		<desc lang="ja">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
-	</programme>
-	<programme start="20210903140000 +0000" stop="20210903142000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 日本史</title>
-		<desc lang="ja">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
-	</programme>
-	<programme start="20210903142000 +0000" stop="20210903144000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK高校講座 世界史</title>
-		<desc lang="ja">室町時代、鹿苑寺金閣が建てられた理由のひとつが中国の明朝の使者をもてなすためだったと言われます。その頃の日本には明と国交を結ぶ必要があったのです。それは…。</desc>
-	</programme>
+  <programme start="20210904145900 +0000" stop="20210904150000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210904150000 +0000" stop="20210904150500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210903144000 +0000" stop="20210903150000 +0000" channel="eTele.jp">
 		<title lang="ja">NHK高校講座 地理</title>
 		<desc lang="ja">地球上で起きているあらゆる事柄は、「地理」の知識で理解することができます。さぁ一緒に「地理」の知識を深め、世の中の謎を調査・分析！新たな発見をしていきましょう。</desc>
@@ -518,6 +502,14 @@
 		<title lang="ja">アニ×パラワールド</title>
 		<desc lang="ja">パラスポーツの魅力を描くアニ×パラをクリエーターたちの思いと共に楽しむ！ひうらの目線で描かれるボッチャの魅力。ホタルノヒカリの蛍も登場！武井と篠田が廣瀬選手に</desc>
 	</programme>
+	<programme start="20210904141500 +0000" stop="20210904145500 +0000" channel="eTele.jp">
+		<title lang="ja">アニメ・イン・ザ・ダーク</title>
+		<desc lang="ja">視覚障害のあるゴールボール選手や一般の視覚障害者たちは、どのように世界を認識しているのか。数々の賞を受賞するアニメクリエーターが、見えない世界のアニメ化に挑む</desc>
+	</programme>
+	<programme start="20210904145500 +0000" stop="20210904154500 +0000" channel="eTele.jp">
+		<title lang="ja">NHKスペシャル</title>
+		<desc lang="ja">東京パラリンピック。ここには私たちの社会を変えるかもしれない、大切なヒントが詰まっている。答えを探すのは香取慎吾さんと若者たち。パラ教室へようこそ</desc>
+	</programme>
 	<programme start="20210903135500 +0000" stop="20210903155000 +0000" channel="NipponTV.jp">
 		<title lang="ja">情報ライブ ミヤネ屋</title>
 		<desc lang="ja">自民党・役員人事で河野大臣や小泉大臣を要職起用？菅首相の思惑は▽「塾＆宿題」禁止！中国・驚きの“教育改革”習主席の狙いとは▽新型コロナ最新情報</desc>
@@ -619,10 +611,6 @@
 	<programme start="20210904133000 +0000" stop="20210904151000 +0000" channel="NipponTV.jp">
 		<title lang="ja">ネタフェス直前SP</title>
 		<desc lang="ja">ネタフェス直前ＳＰ！今田耕司&有吉弘行ダブルＭＣ日テレ系お笑いの祭典ネタフェスＪＡＰＡＮ！最強芸人の超豪華ネタ祭り！</desc>
-	</programme>
-	<programme start="20210903134900 +0000" stop="20210903144700 +0000" channel="Asahi.jp">
-		<title lang="ja">漂着者</title>
-		<desc lang="ja">「許嫁ｖｓロシアｖｓ預言者…１４００年待った愛の結末、ついに記憶が蘇る‼」斎藤工(他)▽琴音との出会いをきっかけに記憶の扉が開き始めたヘミングウェイ。そこで詠美は…</desc>
 	</programme>
 	<programme start="20210903144700 +0000" stop="20210903164000 +0000" channel="Asahi.jp">
 		<title lang="ja">科捜研の女スペシャル</title>
@@ -891,6 +879,16 @@
 		<title lang="ja">芸人鉄道!オワライナー</title>
 		<desc lang="ja">MCアンタッチャブルがローカル鉄道でゲストをおもてなし！群馬・上信電鉄を舞台に総勢２４名の芸人登場！各駅の停車時間内だけ新ネタ披露…おもてなし失敗で扉が閉まる！</desc>
 	</programme>
+	<programme start="20210904145400 +0000" stop="20210904150000 +0000" channel="TBS2.jp">
+		<title lang="ja">ニュース</title>
+		<desc lang="ja">最新のニュースをお伝えします。</desc>
+	</programme>
+	<programme start="20210904150000 +0000" stop="20210904160000 +0000" channel="TBS2.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">🈑☆梅沢＆ギャル曽根大コーフン＆卓球銅メダル張本智和TV初熱唱
+☆新企画〜厨房の音だけで絶品料理を当てられるか⁉
+☆最強モノマネ軍が「音のスペシャリスト」に挑む</desc>
+	</programme>
 	<programme start="20210903134000 +0000" stop="20210903154000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">午後のロードショー</title>
 		<desc lang="ja">クリント・イーストウッドが製作・監督・主演を務めた傑作サスペンス！心臓移植で一命をとりとめた元ＦＢＩ心理分析官が、連続殺人犯を追う！現場に残される数字の謎とは？</desc>
@@ -1079,9 +1077,19 @@
 推し芸人を集めてネタバトルを開催！
 明日の放送の前に予習復習！</desc>
 	</programme>
-	<programme start="20210903115500 +0000" stop="20210903144500 +0000" channel="FujiTV.jp">
-		<title lang="ja">バイキングMORE</title>
-		<desc lang="ja">どうなる「自民党総裁選」菅首相来週役員人事へ▽眞子さまと小室圭さん「年内ご結婚へ」海外メディアどう報じた▽新たな変異「ミュー株」ワクチンが効きにくい？</desc>
+	<programme start="20210904142300 +0000" stop="20210904143000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
+	</programme>
+	<programme start="20210904143000 +0000" stop="20210904150000 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">月曜から金曜まで毎日生放送「快適！ショッピングスタジオ」が土曜日午後に拡大！土曜日午後も長崎・佐世保のスタジオより元気に生放送！</desc>
+	</programme>
+	<programme start="20210904150000 +0000" stop="20210904160000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">ウイニング競馬</title>
+		<desc lang="ja">【新潟】10Ｒ赤倉特別、11Ｒ古町Ｓ
+【小倉】10Ｒ天草特別、11ＲテレＱ杯
+【札幌】11Ｒ札幌２歳Ｓ（ＧⅢ）</desc>
 	</programme>
 	<programme start="20210903144500 +0000" stop="20210903154500 +0000" channel="FujiTV.jp">
 		<title lang="ja">有吉の夏休み2021直前SP!</title>
@@ -1188,6 +1196,18 @@
 	<programme start="20210904133000 +0000" stop="20210904143000 +0000" channel="FujiTV.jp">
 		<title lang="ja">ワンピースバラエティ 海賊王におれはなるTV</title>
 		<desc lang="ja">かまいたち×マヂカルラブリー×オズワルド！ワンピースと共に歩んだ人生を徹底比較！ずん飯尾がついに単行本を読破！</desc>
+	</programme>
+	<programme start="20210904143000 +0000" stop="20210904143500 +0000" channel="FujiTV.jp">
+		<title lang="ja">ワタシ∞ウォーキング</title>
+		<desc lang="ja">今回ウォーキングするのは、お笑い芸人カミナリのたくみさん。相方のまなぶさんと共同生活をした思い出の街である江古田周辺をウォーキング。</desc>
+	</programme>
+	<programme start="20210904143500 +0000" stop="20210904144000 +0000" channel="FujiTV.jp">
+		<title lang="ja"></title>
+		<desc lang="ja"></desc>
+	</programme>
+	<programme start="20210904144000 +0000" stop="20210904155500 +0000" channel="FujiTV.jp">
+		<title lang="ja">49thフジサンケイクラシック</title>
+		<desc lang="ja">舞台は富士桜カントリー倶楽部　国内屈指のモンスターコースを攻略するのは果たして　日本代表・星野陸也　石川遼　金谷拓実ら実力者集結！激戦必至の富士桜決戦</desc>
 	</programme>
 	<programme start="20210903135900 +0000" stop="20210903150000 +0000" channel="Tokyo MX">
 		<title lang="ja">都知事定例会見</title>
@@ -1398,6 +1418,14 @@
 		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210904140000 +0000" stop="20210904143000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904143000 +0000" stop="20210904150000 +0000" channel="Tokyo MX">
+		<title lang="ja">世界の子どもの未来のために</title>
+		<desc lang="ja">厳しい貧困に生きる子ども達の生活をドキュメンタリー形式で紹介。ワールド・ビジョンの「チャイルド・スポンサーシップ」による支援を紹介します。</desc>
+	</programme>
+	<programme start="20210904150000 +0000" stop="20210904153000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
