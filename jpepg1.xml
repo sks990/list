@@ -50,26 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903165500 +0000" stop="20210903180000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　女子シングルス・決勝「上地結衣×ディーデ・デ　フロート」（中継）　【出演】吉田沙保里，田口亜希，萩原智子，三上大進，【アナウンサー】中野淳ほか</desc>
-  </programme>
-  <programme start="20210903180000 +0000" stop="20210903181000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210903181000 +0000" stop="20210903183000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">首都圏ネットワーク</title>
-    <desc lang="ja">１都６県のニュース・気象情報、新型コロナ感染状況、生活への影響などをくわしくお伝えします。</desc>
-  </programme>
-  <programme start="20210903183000 +0000" stop="20210903184400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇競泳　男子５０ｍ背泳ぎ　Ｓ４・決勝ほか　【出演】吉田沙保里，田口亜希，萩原智子，三上大進，【アナウンサー】中野淳，杉浦友紀，中山果奈ほか</desc>
-  </programme>
-  <programme start="20210903184400 +0000" stop="20210903184500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
   <programme start="20210903184500 +0000" stop="20210903190000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">首都圏ネットワーク</title>
     <desc lang="ja">ニュース・気象情報、新型コロナ感染状況、生活への影響などをくわしくお伝えします。</desc>
@@ -266,14 +246,22 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210903175500 +0000" stop="20210903180000 +0000" channel="eTele.jp">
-		<title lang="ja">オトッペ</title>
-		<desc lang="ja">音から生まれた不思議な生きもの・オトッペ。みなさんから届いたオトッペや、珍しい日本の音を紹介する特別編。</desc>
-	</programme>
-	<programme start="20210903180000 +0000" stop="20210903185000 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇車いすテニス　女子シングルス・決勝「上地結衣×ディーデ・デ　フロート」（中継）【アナウンサー】大澤幹朗，【車いすテニス】解説…二條実穂，アナウンサー…佐藤洋之</desc>
-	</programme>
+  <programme start="20210904180500 +0000" stop="20210904184400 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇ボッチャ　団体　ＢＣ１／２・決勝（中継）　【出演】増田明美，岸田奈美，大西瞳，【アナウンサー】中野淳，杉浦友紀，【ゴールボール】解説…新井大基ほか</desc>
+  </programme>
+  <programme start="20210904184400 +0000" stop="20210904184500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+  </programme>
+  <programme start="20210904184500 +0000" stop="20210904190000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210904190000 +0000" stop="20210904193000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース7</title>
+    <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】青井実，【サブキャスター】池田伸子，深川仁志，【気象キャスター】向笠康二郎</desc>
+  </programme>
 	<programme start="20210903185000 +0000" stop="20210903204400 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇陸上　女子走り幅跳び　Ｔ２０・決勝、女子１００ｍ　Ｔ６４・決勝、男子４００ｍ　Ｔ６２・決勝、男子２００ｍ　Ｔ６１・決勝、女子やり投げ　Ｆ４６・決勝　ほか</desc>
@@ -404,7 +392,7 @@
 	</programme>
 	<programme start="20210904120000 +0000" stop="20210904140000 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇ボッチャ　団体　ＢＣ１／２　３位決定戦（中継）</desc>
+		<desc lang="ja">◇ボッチャ　団体　ＢＣ１／２・３位決定戦（中継）</desc>
 	</programme>
 	<programme start="20210904140000 +0000" stop="20210904141500 +0000" channel="eTele.jp">
 		<title lang="ja">アニ×パラワールド</title>
@@ -449,6 +437,14 @@
 	<programme start="20210904180000 +0000" stop="20210904182500 +0000" channel="eTele.jp">
 		<title lang="ja">スポンジ・ボブ</title>
 		<desc lang="ja">深い海の底にある海底都市・ビキニタウンに住むスポンジ・ボブとその仲間たちが繰り広げる、ユーモラスで楽しい日常を描いたハイテンション・アニメ！</desc>
+	</programme>
+	<programme start="20210904182500 +0000" stop="20210904185000 +0000" channel="eTele.jp">
+		<title lang="ja">ミルドレッドの魔女学校</title>
+		<desc lang="ja">ひょんなことから魔女学校に入学したミルドレッドの冒険ファンタジー。アガサとエイダ校長の争いで学校に最大の危機が！ミルドレッドはこの状況を救うことができるのか？</desc>
+	</programme>
+	<programme start="20210904185000 +0000" stop="20210904195400 +0000" channel="eTele.jp">
+		<title lang="ja">東京2020パラリンピック</title>
+		<desc lang="ja">◇陸上　男子走り幅跳び　Ｔ２０・決勝、女子２００ｍ　Ｔ４７・決勝ほか（中継）　【出演】後藤佑季，【アナウンサー】中川安奈，大澤幹朗　ほか</desc>
 	</programme>
 	<programme start="20210903155000 +0000" stop="20210903190000 +0000" channel="NipponTV.jp">
 		<title lang="ja">news every.</title>
@@ -568,9 +564,13 @@
 		<title lang="ja">名探偵コナン</title>
 		<desc lang="ja">モノレールで起こった銃弾による傷害事件。犯人を追跡していたコナンと小五郎は、あるマンションに到着する。しかし、犯人は追跡を振り切り東都市場へと逃走してしまい…。</desc>
 	</programme>
-	<programme start="20210903164000 +0000" stop="20210903184500 +0000" channel="Asahi.jp">
-		<title lang="ja">スーパーJチャンネル</title>
-		<desc lang="ja">全国の重症者数最多に…保育園でクラスターも…ワクチン効果弱まる？「ミュー株」の特徴は▽党役員人事どうなる…総理の狙いは？動き加速▽肌寒さに激しい雨も(他)</desc>
+	<programme start="20210904183000 +0000" stop="20210904190000 +0000" channel="NipponTV.jp">
+		<title lang="ja">満天☆青空レストラン</title>
+		<desc lang="ja">長野県・国産の超希少なヘーゼルナッツを競泳・入江陵介選手と収穫に！香り豊かなヘーゼルナッツを生アイスに！さらに野菜炒めに、冷製スープに、担々麺に大変身！</desc>
+	</programme>
+	<programme start="20210904190000 +0000" stop="20210904195600 +0000" channel="NipponTV.jp">
+		<title lang="ja">I LOVE みんなのどうぶつ園</title>
+		<desc lang="ja">アンガールズ・田中の実家で生まれたツバメのヒナたち…巣立ちの瞬間に田中ファミリー密着▽山田裕貴が11年間お散歩できなかった保護犬に新たな飼い主ができるよう奮闘</desc>
 	</programme>
 	<programme start="20210903184500 +0000" stop="20210903214800 +0000" channel="Asahi.jp">
 		<title lang="ja">千鳥の芸人C-1グランプリ</title>
@@ -733,6 +733,14 @@
 		<title lang="ja">人生の楽園</title>
 		<desc lang="ja">妻の実家のトマト農家を継ぎ、そのおいしさを知ってもらいたいとピザの移動販売を始めた佐藤智哉さん(４１歳)。小さく育てて糖度を高めた、フルティカトマトのピザとは!?</desc>
 	</programme>
+	<programme start="20210904183000 +0000" stop="20210904185600 +0000" channel="Asahi.jp">
+		<title lang="ja">ごはんジャパン</title>
+		<desc lang="ja">埼玉県・秩父を舞台に、スイーツの匠が清涼感たっぷりの天然氷と桃を使った極上パフェを作る！暑さが残るこの時期にぴったりのパフェにアイドルたちもビックリ！</desc>
+	</programme>
+	<programme start="20210904185600 +0000" stop="20210904195400 +0000" channel="Asahi.jp">
+		<title lang="ja">ドラえもん</title>
+		<desc lang="ja">ドラえもんがドラヤキ星人と大バトル！【どら焼きが消えた日】宇宙で大ピンチ！壮大な自由研究!?【のび太の惑星探査ミッション】のび太がマジック!?【マジックの使い道】</desc>
+	</programme>
 	<programme start="20210903154900 +0000" stop="20210903190000 +0000" channel="TBS2.jp">
 		<title lang="ja">Nスタ</title>
 		<desc lang="ja">陽性者再増加に危惧…「滞留人口」東京急増▽子ども専用病棟苦悩▽自粛続きに楽しみを　パパ達からサプライズ▽秋雨ホカホカ恋しく▽岸田氏に菅首相は？</desc>
@@ -857,7 +865,7 @@
 		<desc lang="ja">最新のニュースをお伝えします。</desc>
 	</programme>
 	<programme start="20210904150000 +0000" stop="20210904160000 +0000" channel="TBS2.jp">
-		<title lang="ja"></title>
+		<title lang="ja">3日後 火曜よる7時〜オトラクション2時間SP!SixTONES×宮川大輔参戦</title>
 		<desc lang="ja">🈑☆梅沢＆ギャル曽根大コーフン＆卓球銅メダル張本智和TV初熱唱
 ☆新企画〜厨房の音だけで絶品料理を当てられるか⁉
 ☆最強モノマネ軍が「音のスペシャリスト」に挑む</desc>
@@ -879,14 +887,13 @@
 		<title lang="ja">報道特集</title>
 		<desc lang="ja">▽緊急特集・菅総理が辞任へ！急転直下の舞台裏で何が起きた？総裁選の行方といま政治に求められるもの。コロナ禍、五輪、菅政権の１年を徹底検証する。</desc>
 	</programme>
-	<programme start="20210903175500 +0000" stop="20210903182500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">パウ・パトロール</title>
-		<desc lang="ja">世界160以上の国と地域で大人気のパウ・パトロール！今まで放送してきた全話の中から選りすぐりのエピソードをお届けします！！
-▽副音声でアニメ本編は英語版も聞けるよ！</desc>
+	<programme start="20210904185000 +0000" stop="20210904185100 +0000" channel="TBS2.jp">
+		<title lang="ja">ウィークエンドウェザー</title>
+		<desc lang="ja">日々の生活に役立つ天気を分かりやすく解説！防災情報もしっかりお伝えします。</desc>
 	</programme>
-	<programme start="20210903182500 +0000" stop="20210903185500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">妖怪ウォッチ♪</title>
-		<desc lang="ja">完全に自分のせいであるにも関わらず、毎年ギリギリまで夏休みの宿題をやらないのは妖怪のしわざだと言い出したケータ。ウォッチで辺りを照らしてみると、そこには…。</desc>
+	<programme start="20210904185100 +0000" stop="20210904210000 +0000" channel="TBS2.jp">
+		<title lang="ja">炎の体育会TV</title>
+		<desc lang="ja">あのメダリストが五輪後初の超本気プレー▽バスケ町田＆林は…レジェンド五十嵐圭考案２０の超難関ゴールに▽バド渡辺東野ペアは…高級フカヒレかけ動く的当てに挑む！</desc>
 	</programme>
 	<programme start="20210903185500 +0000" stop="20210903192500 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ポケットモンスター</title>
@@ -1072,6 +1079,10 @@
 		<title lang="ja">知られざるガリバー〜エクセレントカンパニーファイル〜</title>
 		<desc lang="ja">プレート式熱交換器で国内シェアトップの産業機械メーカー、日阪製作所。プレート式熱交換器は、給湯器や空調、発電所、スーパー銭湯等幅広い製品・施設で使われる装置。</desc>
 	</programme>
+	<programme start="20210904183000 +0000" stop="20210904205400 +0000" channel="TVTokyo.jp">
+		<title lang="ja">出川哲朗の充電させてもらえませんか?</title>
+		<desc lang="ja">高知最南端の旅！絶景の柏島から足摺岬をグルっと120キロ！ゴールは清流“四万十川”ですが…森三中と番組初のハプニングでヤバいよヤバいよSP</desc>
+	</programme>
 	<programme start="20210903154500 +0000" stop="20210903190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">Live News イット!</title>
 		<desc lang="ja">菅首相が総裁選不出馬　人事も断念“辞任”へ▽どうなる“ポスト菅”岸田氏の本音を直撃！▽ワクチンに“若者枠”▽世界の交通トラブルハンマーが飛んできた</desc>
@@ -1202,13 +1213,13 @@
 		<title lang="ja">MUSIC FAIR</title>
 		<desc lang="ja">豪華バンドコラボ！ＴＵＢＥ×緑黄色社会×松下洸平「さよならイエスタデイ」ＴＶ初披露の今届けたい名曲「Ｋｅｅｐ　Ｏｎ　Ｓａｉｌｉｎ’」松下洸平が音楽番組初登場！他</desc>
 	</programme>
-	<programme start="20210903170000 +0000" stop="20210903180000 +0000" channel="Tokyo MX">
-		<title lang="ja">5時に夢中!</title>
-		<desc lang="ja">女性のストレスを解消する“本音マル出し”ぶっちゃけワイドショー！金曜はゲストデー！池畑慎之介さん！▼「大きなお世話ですが」ではゲストおもてなし企画も</desc>
+	<programme start="20210904183000 +0000" stop="20210904190000 +0000" channel="FujiTV.jp">
+		<title lang="ja">もしもツアーズ</title>
+		<desc lang="ja">秋の新作一挙公開！コストコ木更津へ▽新作アイテム２０品を発表！①ブランド食材の国産デリカ②変わり種！健康野菜グルメ③高品質なナチュラルチーズがお得！みやぞん</desc>
 	</programme>
-	<programme start="20210903180000 +0000" stop="20210903183000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210904190000 +0000" stop="20210904210000 +0000" channel="FujiTV.jp">
+		<title lang="ja">超超ベスト5 海上自衛隊をジャニーズ&人気芸人が限界調査SP</title>
+		<desc lang="ja">海上自衛隊の全てを徹底調査①衝撃訓練の全容！２ｔの浸水を防げ！火の海に突入！沈没船から脱出②超高性能な艦船の衝撃値段ランキング③女性自衛官の生活とは？</desc>
 	</programme>
 	<programme start="20210903183000 +0000" stop="20210903190000 +0000" channel="Tokyo MX">
 		<title lang="ja">キングオブモルックのモルック大作戦!!</title>
@@ -1429,5 +1440,17 @@
 	<programme start="20210904180000 +0000" stop="20210904181500 +0000" channel="Tokyo MX">
 		<title lang="ja">news FLAG サタデー</title>
 		<desc lang="ja">東京の、各地のニュース・天気情報など詳しくお伝えします。</desc>
+	</programme>
+	<programme start="20210904181500 +0000" stop="20210904183000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904183000 +0000" stop="20210904190000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210904190000 +0000" stop="20210904200000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja">佐世保発ショッピング　期間限定商品がお得</desc>
 	</programme>
 </tv>
