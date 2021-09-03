@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210903205900 +0000" stop="20210903210000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210903210000 +0000" stop="20210903214500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュースウオッチ9</title>
-    <desc lang="ja">▽新型コロナ最新情報　▽あさって閉幕・改めて考える五輪とパラ　揺るいだ理念・コロナ禍の無観客開催　私たちに残したものは…　▽ＭＬＢ大谷は・プロ野球速報は</desc>
-  </programme>
   <programme start="20210903214500 +0000" stop="20210903221500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすバスケットボール　男子・準決勝「日本×イギリス」（中継）　【出演】吉田沙保里，櫻井翔，猪狩ともか，【アナウンサー】中野淳，杉浦友紀</desc>
@@ -262,14 +254,10 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">【出演】増田明美，岸田奈美，大西瞳，【アナウンサー】中野淳，杉浦友紀</desc>
   </programme>
-	<programme start="20210903204500 +0000" stop="20210903210000 +0000" channel="eTele.jp">
-		<title lang="ja">NHK手話ニュース845</title>
-		<desc lang="ja">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-	</programme>
-	<programme start="20210903210000 +0000" stop="20210903215500 +0000" channel="eTele.jp">
-		<title lang="ja">にっぽんの芸能</title>
-		<desc lang="ja">八岐大蛇伝説を元にした舞踊「日本振袖始」。主演の尾上紫と振付の尾上墨雪親子がトークゲスト。後半は新作舞踊「門司春秋」の話題と、今回から始まる着物の新コーナーを。</desc>
-	</programme>
+  <programme start="20210904220000 +0000" stop="20210904231000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック ハイライト</title>
+    <desc lang="ja">注目競技の結果をいち早く伝える。車いすテニス国枝慎吾は金メダルなるか。新競技バドミントン日本代表は？メダリストたちにスタジオから生でインタビュー。副音声解説も。</desc>
+  </programme>
 	<programme start="20210903215500 +0000" stop="20210903220000 +0000" channel="eTele.jp">
 		<title lang="ja">365日の献立日記</title>
 		<desc lang="ja">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
@@ -458,9 +446,17 @@
 		<title lang="ja">すくすく子育て</title>
 		<desc lang="ja">今回は特別編！「なんでも質問スペシャル」。いつもとはちょっと違うスタイルでママ・パパからのさまざまな悩みや質問にどんどん答える！</desc>
 	</programme>
-	<programme start="20210903205400 +0000" stop="20210903210000 +0000" channel="NipponTV.jp">
-		<title lang="ja">まもなく金曜ロードショー</title>
-		<desc lang="ja">大ヒットシリーズの記念すべき第１作「ジュラシック・パーク」の見どころを、映画大好き芸人・こがけんがお届け★“映画モノマネ”を交えて、意外な注目場面もご紹介！！</desc>
+	<programme start="20210904213000 +0000" stop="20210904215500 +0000" channel="eTele.jp">
+		<title lang="ja">ウワサの保護者会</title>
+		<desc lang="ja">尾木ママと小中学生の保護者が子育てや教育の悩みについて語り合い解決に導く教育情報番組。今回のテーマは「今だからこそのＰＴＡ！」。新たなＰＴＡのあり方を考える。</desc>
+	</programme>
+	<programme start="20210904215500 +0000" stop="20210904220000 +0000" channel="eTele.jp">
+		<title lang="ja">楽ラクワンポイント介護</title>
+		<desc lang="ja">認知症の家族の介護についてアドバイスする。今回は「汚れた下着を隠す」ことについて。講師は認知症ケアの第一人者の介護福祉士の和田行男さん。</desc>
+	</programme>
+	<programme start="20210904220000 +0000" stop="20210904225000 +0000" channel="eTele.jp">
+		<title lang="ja">SWITCHインタビュー 達人達(たち)</title>
+		<desc lang="ja">情熱のバイオリニスト・川井郁子×世界的プラネタリウム・クリエーター大平貴之。人はなぜ星空に惹（ひ）かれ、その先に何を見るのか？　美しい星空と音楽に浸れる５０分間</desc>
 	</programme>
 	<programme start="20210903210000 +0000" stop="20210903225400 +0000" channel="NipponTV.jp">
 		<title lang="ja">金曜ロードショー</title>
@@ -584,13 +580,13 @@
 		<title lang="ja">1億3000万人のSHOWチャンネル</title>
 		<desc lang="ja">長州＆武藤の秘湯旅！秘境・黒部峡谷の絶景温泉へ！▽桐谷健太の人生チャート！利きワインに挑戦▽菊池風磨の今こそバスケキャラを売りたい！バスケ大技チャレンジなるか！</desc>
 	</programme>
-	<programme start="20210903184500 +0000" stop="20210903214800 +0000" channel="Asahi.jp">
-		<title lang="ja">千鳥の芸人C-1グランプリ</title>
-		<desc lang="ja">いきなりゴールデンで３時間▽人気芸人30名によるチャレンジ企画５連発…①寿司食べながらカラオケ②強風クイズ③安藤優子が審査員④野球部芸人ＨＲ競争⑤千鳥vsかまいたち</desc>
+	<programme start="20210904215400 +0000" stop="20210904220000 +0000" channel="NipponTV.jp">
+		<title lang="ja">ココロ通う街角</title>
+		<desc lang="ja">街角で出会える心と心のつながりや、人と人の助け合いを美しい情景とともに描きます。</desc>
 	</programme>
-	<programme start="20210903214800 +0000" stop="20210903215400 +0000" channel="Asahi.jp">
-		<title lang="ja">世界の街道をゆく</title>
-		<desc lang="ja">今に受け継ぐニューディール政策の道・アメリカ</desc>
+	<programme start="20210904220000 +0000" stop="20210904225400 +0000" channel="NipponTV.jp">
+		<title lang="ja">ボイスII 110緊急指令室</title>
+		<desc lang="ja">逃亡者・石川透（増田貴久）！県警本部長殺人事件の容疑者に！？相棒を追う樋口（唐沢寿明）窮地の石川が見た衝撃の真実とは！？有名声優も毎話出演山口勝平・日髙のり子</desc>
 	</programme>
 	<programme start="20210903215400 +0000" stop="20210903231000 +0000" channel="Asahi.jp">
 		<title lang="ja">報道ステーション</title>
@@ -761,6 +757,10 @@
 		<title lang="ja">サタデーステーション</title>
 		<desc lang="ja">政界激震…菅総理が総裁選不出馬で今後は？誰に注目？▽自宅療養者と重症者を救うため…支援の現場▽大谷翔平が先発登板▽東京パラリンピック▽プロ野球(他)</desc>
 	</programme>
+	<programme start="20210904215500 +0000" stop="20210904222500 +0000" channel="Asahi.jp">
+		<title lang="ja">あざとくて何が悪いの?</title>
+		<desc lang="ja">猛毒注意‼山里亮太×田中みな実×弘中綾香という危険すぎる３人が“あざとい男女”の言動について徹底トーク‼</desc>
+	</programme>
 	<programme start="20210903200000 +0000" stop="20210903220000 +0000" channel="TBS2.jp">
 		<title lang="ja">中居正広の金曜日のスマイルたちへ</title>
 		<desc lang="ja">▽今夜解禁！中居が数年間隠していたある事件…驚愕の内容にキスマイ震撼！▽ジャニーズの落ちこぼれだった７人…絆で掴んだ大逆転ストーリー！横尾の膝が震え千賀は涙…</desc>
@@ -911,13 +911,14 @@
 		<title lang="ja">世界ふしぎ発見!</title>
 		<desc lang="ja">黒柳徹子の一言から始まった？イースター島のモアイ修復プロジェクトの全貌とは▽瓦礫の中から発見！？日本にあるモアイ感動の秘話▽復興を願うイースター島からの贈り物</desc>
 	</programme>
-	<programme start="20210903195500 +0000" stop="20210903214800 +0000" channel="TVTokyo.jp">
-		<title lang="ja">所さんの学校では教えてくれないそこんトコロ!</title>
-		<desc lang="ja">▼お宝だらけの歴史民俗資料館の金庫＆名門窯元が建てた巨大屋敷の金庫を開錠▼母親思いの20歳女学生が１都４県をまたぐ驚異の遠距離通学！一体ナゼ▼日本全国の珍自販機</desc>
+	<programme start="20210904215400 +0000" stop="20210904220000 +0000" channel="TBS2.jp">
+		<title lang="ja">和心百景</title>
+		<desc lang="ja">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
+今回は、秋田『秋田杉桶樽』　笛木優子</desc>
 	</programme>
-	<programme start="20210903214800 +0000" stop="20210903215400 +0000" channel="TVTokyo.jp">
-		<title lang="ja">インテリア日和</title>
-		<desc lang="ja">毎回テーマをもってプロのインテリアコーディネーターがその部屋を魅力ある空間に大改造します。</desc>
+	<programme start="20210904220000 +0000" stop="20210904232400 +0000" channel="TBS2.jp">
+		<title lang="ja">新・情報7daysニュースキャスター</title>
+		<desc lang="ja">菅首相が総裁選不出馬を表明◆女子高生と容疑者夫婦の謎◆政治は何してる？コロナ分断国民の声は◆直撃！入江聖奈…井岡一翔の防衛戦で◆たけし２度見…筋トレやりすぎ列伝</desc>
 	</programme>
 	<programme start="20210903215400 +0000" stop="20210903220000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">わたしのヒュッゲ</title>
@@ -1099,9 +1100,16 @@
 		<title lang="ja">出没!アド街ック天国</title>
 		<desc lang="ja">名水と絶景の楽園「千葉　君津」▼ハートに光差す話題の洞窟▼自然派アミューズメントと清流のアウトドアスポーツ▼名水育む美味の宝庫＆ご当地麺が九州ラーメンの謎!?</desc>
 	</programme>
-	<programme start="20210903200000 +0000" stop="20210903215800 +0000" channel="FujiTV.jp">
-		<title lang="ja">ウワサのお客さま</title>
-		<desc lang="ja">１時間で１６品作る美人姉妹が登場！激安スーパー・オーケーの食材を使って作る映える節約パーティー料理▽６年間日高屋に週４で通う女優奈緒▽かっぱ寿司で大食い対決</desc>
+	<programme start="20210904215400 +0000" stop="20210904220000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">土曜名馬座</title>
+		<desc lang="ja">◆第二百二夜「三度の輝き」
+人々の記憶に残る、名馬たちの活躍を
+当時のエピソードなどを交えて紹介する。
+俳優・仲村トオルが語る名馬物語…</desc>
+	</programme>
+	<programme start="20210904220000 +0000" stop="20210904223000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">新美の巨人たち</title>
+		<desc lang="ja">「暮しが仕事、仕事が暮し」ーー美しい仕事は美しい暮らしの中に…稀代の陶工が暮らした職住一体の理想の家屋！寬次郎が見出した用の美に学ぶステイホームの極意▼近藤サト</desc>
 	</programme>
 	<programme start="20210903215800 +0000" stop="20210903225200 +0000" channel="FujiTV.jp">
 		<title lang="ja">人志松本の酒のツマミになる話</title>
@@ -1232,14 +1240,6 @@
 	<programme start="20210904210000 +0000" stop="20210904231000 +0000" channel="FujiTV.jp">
 		<title lang="ja">土曜プレミアム</title>
 		<desc lang="ja">今年で９年目の有吉の夏休み！グルメ＆アクティビティ三昧！絶品寿司＆バーガーに有吉も大興奮！絶景の空中散歩！吉村主宰の有吉のサプライズ結婚祝いも開催！</desc>
-	</programme>
-	<programme start="20210903200000 +0000" stop="20210903210000 +0000" channel="Tokyo MX">
-		<title lang="ja">news TOKYO FLAG</title>
-		<desc lang="ja">小池知事定例会見…感染者数の“減少傾向”に知事は？▼パラ１１日目…きょうの“東京勢”の活躍は？▼ソニー音楽財団がコロナで苦境の若手クラシック演奏家を支援</desc>
-	</programme>
-	<programme start="20210903210000 +0000" stop="20210903215400 +0000" channel="Tokyo MX">
-		<title lang="ja">バラいろダンディ</title>
-		<desc lang="ja">コメンテーターはデーブ・スペクターとゲスト古坂大魔王が登場！金曜は「遊び・エンタメ」がテーマ　古坂大魔王がエンタメを紹介！「エンタメ喜怒哀楽」‼</desc>
 	</programme>
 	<programme start="20210903215400 +0000" stop="20210903220000 +0000" channel="Tokyo MX">
 		<title lang="ja">別冊オリンピア・キュクロス</title>
@@ -1460,5 +1460,13 @@
 	<programme start="20210904210000 +0000" stop="20210904213000 +0000" channel="Tokyo MX">
 		<title lang="ja">斬波ZANMAI</title>
 		<desc lang="ja">音を鳴らしたらアウト？“全静オープン”！新コーナー斬波ライブニュースも！</desc>
+	</programme>
+	<programme start="20210904213000 +0000" stop="20210904220000 +0000" channel="Tokyo MX">
+		<title lang="ja">音ボケPOPS</title>
+		<desc lang="ja">ＭＣは中川翔子。音ボケファミリーは庄司智春（品川庄司）、ｈｉｂｉｋｉ（ｌｏｌ）、橘ゆりか、西村美咲。今回のゲストは、ＫＥＹＴＡＬＫ。</desc>
+	</programme>
+	<programme start="20210904220000 +0000" stop="20210904223000 +0000" channel="Tokyo MX">
+		<title lang="ja">ぼくたちのリメイク</title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
