@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210905004000 +0000" stop="20210905012500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">アンという名の少女</title>
-    <desc lang="ja">世界中で愛されているモンゴメリ作の不朽の名作『赤毛のアン』をドラマ化。不登校になったアンは、毎日学校へ行くふりをしてどこへ？ある夜、アンの同級生の家が火事に…。</desc>
-  </programme>
   <programme start="20210905012500 +0000" stop="20210905021000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">アンという名の少女</title>
     <desc lang="ja">世界中で愛されているモンゴメリ作の不朽の名作『赤毛のアン』をドラマ化。アンはダイアナをお茶会に招待するが、予想外の展開に。アンの服を新調しに行ったマシューは…。</desc>
@@ -262,6 +258,10 @@
     <title lang="ja">青天を衝（つ）け</title>
     <desc lang="ja">パリの篤太夫は、証券取引所などを巡り、発見の連続に胸が高鳴る。しかし、突然、幕府から政権を返上したという知らせが届く。日本で何が起こっているのか？一行は戸惑う。</desc>
   </programme>
+  <programme start="20210906012000 +0000" stop="20210906020500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">青天を衝（つ）け</title>
+    <desc lang="ja">帰国した篤太夫が知る幕府崩壊のてんまつ。慶喜の動向や成一郎、惇忠、平九郎たちのその後を聞きどうこくする。頭の整理がつかない中篤太夫は６年ぶりに故郷・血洗島へ戻る</desc>
+  </programme>
 	<programme start="20210905003000 +0000" stop="20210905050000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
@@ -406,18 +406,6 @@
 		<title lang="ja">第71回 NHK杯テレビ将棋トーナメント</title>
 		<desc lang="ja">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。２回戦第５局は丸山忠久九段と糸谷哲郎八段の対戦。</desc>
 	</programme>
-	<programme start="20210904235500 +0000" stop="20210905010000 +0000" channel="NipponTV.jp">
-		<title lang="ja">Going! Sports&News</title>
-		<desc lang="ja">国枝慎吾３度目のパラリンピック金メダル獲得は？▼体操金・橋本大輝が五輪後初試合を総力特集！原点の体操クラブを取材！▼大坂なおみ全米OP3回戦</desc>
-	</programme>
-	<programme start="20210905010000 +0000" stop="20210905013000 +0000" channel="NipponTV.jp">
-		<title lang="ja">EDENSZERO/エデンズ ゼロ</title>
-		<desc lang="ja">＃２１「リセット」</desc>
-	</programme>
-	<programme start="20210905013000 +0000" stop="20210905013500 +0000" channel="NipponTV.jp">
-		<title lang="ja">ガイド</title>
-		<desc lang="ja"></desc>
-	</programme>
 	<programme start="20210905013500 +0000" stop="20210905023500 +0000" channel="NipponTV.jp">
 		<title lang="ja">Hulu傑作シアター</title>
 		<desc lang="ja">9月7日からシーズン7配信！超高速で疾走しながら自分の大切な人々を守り抜く「THE　FLASH／フラッシュ」を特集▼「ライフ　私たちの生きる道」第1話を放送</desc>
@@ -548,13 +536,13 @@
 		<title lang="ja">Going! Sports&News</title>
 		<desc lang="ja">豪華メダリスト“メダル獲得の秘密”▼結婚５日後に失った右腕…トライアスロン宇田の妻が明かす“奇跡”舞台ウラ▼競泳"金"木村＆"銀"富田を支えた大人気モデルＳ!?</desc>
 	</programme>
-	<programme start="20210905003500 +0000" stop="20210905010500 +0000" channel="Asahi.jp">
-		<title lang="ja">アニマルエレジー</title>
-		<desc lang="ja">地球上に生きるあらゆる「生き物」の、哀しいけれどちょっと笑ってしまう…おかしい生態を覗き見する異色の動物番組。</desc>
+	<programme start="20210906013000 +0000" stop="20210906020000 +0000" channel="NipponTV.jp">
+		<title lang="ja">NNNドキュメント</title>
+		<desc lang="ja">両足がない長谷川奨くん（１３）。障がいは自分を強くしてくれるー車いすバスケ、マラソン、やりたい事はなんでも挑戦します。できないこともあるけど、いつも明るく前へ！</desc>
 	</programme>
-	<programme start="20210905010500 +0000" stop="20210905013500 +0000" channel="Asahi.jp">
-		<title lang="ja">ワールドプロレスリング</title>
-		<desc lang="ja">新日本プロレス・アメリカ大会！エース棚橋弘至が１年半ぶりの有観客となったロスで「ＩＷＧＰ ＵＳヘビー級王座」に挑戦！初戴冠を目指す▽ヤングライオンの激闘を特集！</desc>
+	<programme start="20210906020000 +0000" stop="20210906022000 +0000" channel="NipponTV.jp">
+		<title lang="ja">イントロ</title>
+		<desc lang="ja">佐藤真知子アナがゲストを招く番宣トーク番組。今夜のテーマは「ネタフェス」。ゲストはピン芸人のおいでやす小田さんとこがけんさんのお笑いユ二ット「おいでやすこが」。</desc>
 	</programme>
 	<programme start="20210905013500 +0000" stop="20210905020500 +0000" channel="Asahi.jp">
 		<title lang="ja">RE-MAIN</title>
@@ -733,19 +721,9 @@
 		<desc lang="ja">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
 雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
 	</programme>
-	<programme start="20210905003000 +0000" stop="20210905010300 +0000" channel="TBS2.jp">
-		<title lang="ja">S☆1</title>
-		<desc lang="ja">▽全米オープンテニス大坂を沢松さんが解説
-▽MLB大谷
-▽車いすテニス国枝慎吾
-▽車いすバドミントン里見紗里奈
-▽パラリンピックその他注目競技
-▽プロ野球</desc>
-	</programme>
-	<programme start="20210905010300 +0000" stop="20210905013300 +0000" channel="TBS2.jp">
-		<title lang="ja">私が女優になる日_</title>
-		<desc lang="ja">☆１位は主演！今秋スタートのTBS新ドラマに出演できるのは誰だ！？
-☆いよいよ最終戦！「半沢直樹」「ドラゴン桜」監督が原石たちの演技を本気審査！</desc>
+	<programme start="20210906013000 +0000" stop="20210906024000 +0000" channel="Asahi.jp">
+		<title lang="ja">バラバラフェス</title>
+		<desc lang="ja">テレビ朝日で深夜に放送中の「バラバラ大作戦」の豪華ＭＣ陣が大集結！８月１２日に開催されたバラバラ大作戦初のオンラインイベント『バラバラフェス』の特別編を放送！</desc>
 	</programme>
 	<programme start="20210905013300 +0000" stop="20210905020300 +0000" channel="TBS2.jp">
 		<title lang="ja">カバン持ちさせてください</title>
@@ -888,15 +866,9 @@
 ▽サッカー林大地
 ▽プロ野球</desc>
 	</programme>
-	<programme start="20210905005000 +0000" stop="20210905012000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">二軒目どうする?〜ツマミのハナシ〜</title>
-		<desc lang="ja">今回のゲストは、女優・中村ゆり！
-ＴＯＫＩＯ松岡＆博多大吉とテイクアウトで家飲み！</desc>
-	</programme>
-	<programme start="20210905012000 +0000" stop="20210905014500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">ABChanZOO</title>
-		<desc lang="ja">メンバーがリスペクトの想いを込めてジャニーズモノマネに挑戦！
-木村拓哉、亀梨和也がまさかの登場！？</desc>
+	<programme start="20210906010300 +0000" stop="20210906020300 +0000" channel="TBS2.jp">
+		<title lang="ja">ドキュメンタリー「解放区」</title>
+		<desc lang="ja">「解放区」。第11回の放送は、核のごみの最終処分場選定にゆれる北海道寿都町。最大20億円の交付金があるものの、住民には国や町の決め方に根強い不信感がある。</desc>
 	</programme>
 	<programme start="20210905014500 +0000" stop="20210905021000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ゴッドタン</title>
@@ -1059,16 +1031,13 @@
 		<desc lang="ja">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
 見逃せないパフォーマンスが続々と登場します。</desc>
 	</programme>
-	<programme start="20210905003500 +0000" stop="20210905012000 +0000" channel="FujiTV.jp">
-		<title lang="ja">S-PARK</title>
-		<desc lang="ja">スポーツ・パーク「Ｓ－ＰＡＲＫ」宮司愛海
-▼大谷翔平リアル二刀流でＭＶＰへ再加速！
-▼連日メダルラッシュの東京パラリンピック
-▼３度目Ｖへ大坂なおみ全米ＯＰ</desc>
+	<programme start="20210906010500 +0000" stop="20210906013500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">日向坂で会いましょう</title>
+		<desc lang="ja">日向坂４６が、みんなを笑顔に変えるハッピー全開のバラエティ番組！様々なことに挑戦し、苦難を乗り越えトップアイドルへと成長していく姿を追いかけます!!</desc>
 	</programme>
-	<programme start="20210905012000 +0000" stop="20210905015000 +0000" channel="FujiTV.jp">
-		<title lang="ja">馬好王国〜UmazuKingdom〜</title>
-		<desc lang="ja">競馬にまつわる初めての出来事をクイズ形式にして「王国チーム」と「正義の味方チーム」が対決！クイズの不正解者には“初めて”にまつわる恥ずかし映像を公開！</desc>
+	<programme start="20210906013500 +0000" stop="20210906020500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">東京リベンジャーズ</title>
+		<desc lang="ja">東京卍會を結成した2年前、みんなで交通安全のお守りを買ったあの日の約束を守るために、場地は一人で戦っていた。</desc>
 	</programme>
 	<programme start="20210905015000 +0000" stop="20210905025000 +0000" channel="FujiTV.jp">
 		<title lang="ja">ナイト・ドクター</title>
@@ -1219,13 +1188,13 @@
 		<title lang="ja">Love music</title>
 		<desc lang="ja">川谷絵音、小籔千豊、くっきー！、中嶋イッキュウ、新垣隆、異色５人組のジェニーハイそれぞれが語る“〇〇な１曲”で個性爆発！▽ＮＡＭＢＡ６９ライブ＆舞台裏</desc>
 	</programme>
-	<programme start="20210905005700 +0000" stop="20210905010000 +0000" channel="Tokyo MX">
-		<title lang="ja">ダイナ荘びより</title>
-		<desc lang="ja">＃２３「病院と影」</desc>
+	<programme start="20210906013000 +0000" stop="20210906020000 +0000" channel="FujiTV.jp">
+		<title lang="ja">おかべろ</title>
+		<desc lang="ja">今回はダイアンが登場！東京でのくすぶりは津田のせい⁉次々と明らかになる津田の手抜きグセを麒麟川島が徹底追及！津田のギャグ「ゴイゴイスー」にユースケが猛クレーム！</desc>
 	</programme>
-	<programme start="20210905010000 +0000" stop="20210905013000 +0000" channel="Tokyo MX">
-		<title lang="ja">かげきしょうじょ!!</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210906020000 +0000" stop="20210906021000 +0000" channel="FujiTV.jp">
+		<title lang="ja">中央競馬ダイジェスト</title>
+		<desc lang="ja">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
 	</programme>
 	<programme start="20210905013000 +0000" stop="20210905020000 +0000" channel="Tokyo MX">
 		<title lang="ja">現実主義勇者の王国再建記</title>
@@ -1426,5 +1395,13 @@
 	<programme start="20210906010000 +0000" stop="20210906010500 +0000" channel="Tokyo MX">
 		<title lang="ja">じょしおちっ!〜2階から女の子が…降ってきた!?〜</title>
 		<desc lang="ja">「あの子へとつながる、穴。」</desc>
+	</programme>
+	<programme start="20210906010500 +0000" stop="20210906013500 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210906013500 +0000" stop="20210906020500 +0000" channel="Tokyo MX">
+		<title lang="ja">ええじゃない課Biz</title>
+		<desc lang="ja"> </desc>
 	</programme>
 </tv>
