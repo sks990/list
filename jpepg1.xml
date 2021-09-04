@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210905022000 +0000" stop="20210905031000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">日本の名峰</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210905031000 +0000" stop="20210905041000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">空からクルージング特別編</title>
     <desc lang="ja">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパに残る、知られざる遺跡の数々を紹介する。</desc>
@@ -257,6 +253,14 @@
   <programme start="20210906025000 +0000" stop="20210906033500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">アンという名の少女</title>
     <desc lang="ja">世界中で愛されているモンゴメリ作の不朽の名作『赤毛のアン』をドラマ化。最終回。マシューが倒れ、農場が危機に。家族と生活を守るために、アンとマリラは奔走する。</desc>
+  </programme>
+  <programme start="20210906033500 +0000" stop="20210906034000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">＜豪華キャスト編＞ドラマの魅力でもある池松壮亮をはじめとする豪華キャスト。撮影に密着することで見えた俳優たちの姿。彼らは果たして演出家・オダギリをどう見たのか。</desc>
+  </programme>
+  <programme start="20210906034000 +0000" stop="20210906043500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">北アルプス</title>
+    <desc lang="ja">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
   </programme>
 	<programme start="20210905003000 +0000" stop="20210905050000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
@@ -540,14 +544,9 @@
 		<title lang="ja">イントロ</title>
 		<desc lang="ja">佐藤真知子アナがゲストを招く番宣トーク番組。今夜のテーマは「ネタフェス」。ゲストはピン芸人のおいでやす小田さんとこがけんさんのお笑いユ二ット「おいでやすこが」。</desc>
 	</programme>
-	<programme start="20210906022000 +0000" stop="20210906030000 +0000" channel="NipponTV.jp">
+	<programme start="20210906022000 +0000" stop="20210906040000 +0000" channel="NipponTV.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
-	</programme>
-	<programme start="20210905023500 +0000" stop="20210905030500 +0000" channel="Asahi.jp">
-		<title lang="ja">痴情の接吻</title>
-		<desc lang="ja">橋本良亮×中村ゆりか▽大人気コミックが原作…ちょっとＨで美しい恋物語！
-突然、高校時代の同級生と同居することに⁉“接吻”から始まる危険な偏愛同居ラブストーリー！</desc>
 	</programme>
 	<programme start="20210905030500 +0000" stop="20210905040000 +0000" channel="Asahi.jp">
 		<title lang="ja">イベ検</title>
@@ -720,9 +719,17 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210906024200 +0000" stop="20210906030000 +0000" channel="Asahi.jp">
+	<programme start="20210906024200 +0000" stop="20210906035900 +0000" channel="Asahi.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
+	</programme>
+	<programme start="20210906035900 +0000" stop="20210906040000 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja"></desc>
+	</programme>
+	<programme start="20210906040000 +0000" stop="20210906045500 +0000" channel="Asahi.jp">
+		<title lang="ja">暴れん坊将軍IV</title>
+		<desc lang="ja">「母恋い飛脚」松平健(他)▽飛脚問屋・山城屋から、飛脚ばかりを襲う辻強盗が出没して困っていると聞いた吉宗は、紋次郎をオトリの飛脚に仕立て、見事に強盗一味を捕らえた。</desc>
 	</programme>
 	<programme start="20210905020300 +0000" stop="20210905040000 +0000" channel="TBS2.jp">
 		<title lang="ja">カイモノラボ</title>
@@ -871,17 +878,17 @@
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210906023900 +0000" stop="20210906030000 +0000" channel="TBS2.jp">
+	<programme start="20210906023900 +0000" stop="20210906035900 +0000" channel="TBS2.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210905023500 +0000" stop="20210905030500 +0000" channel="TVTokyo.jp">
+	<programme start="20210906035900 +0000" stop="20210906040000 +0000" channel="TBS2.jp">
 		<title lang="ja"></title>
-		<desc lang="ja">生活に役立つ商品を紹介する通販番組。</desc>
+		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210905030500 +0000" stop="20210905031500 +0000" channel="TVTokyo.jp">
-		<title lang="ja">一夜づけ</title>
-		<desc lang="ja">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+	<programme start="20210906040000 +0000" stop="20210906042500 +0000" channel="TBS2.jp">
+		<title lang="ja">TBS NEWS</title>
+		<desc lang="ja">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 	</programme>
 	<programme start="20210905031500 +0000" stop="20210905050000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">サタ☆シネ</title>
@@ -1044,13 +1051,9 @@
 		<title lang="ja">闇芝居</title>
 		<desc lang="ja">夫の実家に初めて招待された亜美。義理の両親と弟たちに歓迎され、その日は家に泊めてもらうことに。眠りについた亜美は「これから誕生祝いをする」と夜中に起こされる…</desc>
 	</programme>
-	<programme start="20210906024000 +0000" stop="20210906030000 +0000" channel="TVTokyo.jp">
+	<programme start="20210906024000 +0000" stop="20210906040000 +0000" channel="TVTokyo.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
-	</programme>
-	<programme start="20210905025000 +0000" stop="20210905034500 +0000" channel="FujiTV.jp">
-		<title lang="ja">カウズ東京上陸!世界を席巻する人気現代アートの魅力!</title>
-		<desc lang="ja">日本初となる大型展覧会が絶賛開催中の現代アーティスト、カウズ。世界中を熱狂させるその魅力と人気の秘密を武井咲、天野ひろゆき（キャイ〜ン）らと徹底解剖！</desc>
 	</programme>
 	<programme start="20210905034500 +0000" stop="20210905040000 +0000" channel="FujiTV.jp">
 		<title lang="ja"></title>
@@ -1205,17 +1208,13 @@
 		<title lang="ja"></title>
 		<desc lang="ja">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
 	</programme>
-	<programme start="20210906022000 +0000" stop="20210906030000 +0000" channel="FujiTV.jp">
+	<programme start="20210906022000 +0000" stop="20210906040000 +0000" channel="FujiTV.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
-	<programme start="20210905023000 +0000" stop="20210905030000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210905030000 +0000" stop="20210905033000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210906040000 +0000" stop="20210906045500 +0000" channel="FujiTV.jp">
+		<title lang="ja">クイズ!脳ベルSHOW</title>
+		<desc lang="ja">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 	</programme>
 	<programme start="20210905033000 +0000" stop="20210905040000 +0000" channel="Tokyo MX">
 		<title lang="ja">真夜中のおバカ騒ぎ!</title>
@@ -1413,7 +1412,7 @@
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
-	<programme start="20210906023500 +0000" stop="20210906030000 +0000" channel="Tokyo MX">
+	<programme start="20210906023500 +0000" stop="20210906040000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
 	</programme>
