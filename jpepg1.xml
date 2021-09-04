@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904130500 +0000" stop="20210904145900 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　女子ダブルス・３位決定戦「上地結衣／大谷桃子×王紫瑩／朱珍珍」（中継）　【出演】石黒賢，増田明美，【アナウンサー】松田利仁亜，保里小百合ほか</desc>
-  </programme>
   <programme start="20210904145900 +0000" stop="20210904150000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
@@ -246,18 +242,14 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすバスケットボール　男子・決勝（中継）</desc>
   </programme>
-	<programme start="20210904120000 +0000" stop="20210904140000 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇ボッチャ　団体　ＢＣ１／２・３位決定戦「日本×ポルトガル」（中継）　【ボッチャ】解説…新井大基ほか</desc>
-	</programme>
-	<programme start="20210904140000 +0000" stop="20210904141500 +0000" channel="eTele.jp">
-		<title lang="ja">アニ×パラワールド</title>
-		<desc lang="ja">パラスポーツの魅力を描くアニ×パラをクリエーターたちの思いと共に楽しむ！ひうらの目線で描かれるボッチャの魅力。ホタルノヒカリの蛍も登場！武井と篠田が廣瀬選手に</desc>
-	</programme>
-	<programme start="20210904141500 +0000" stop="20210904145500 +0000" channel="eTele.jp">
-		<title lang="ja">アニメ・イン・ザ・ダーク</title>
-		<desc lang="ja">視覚障害のあるゴールボール選手や一般の視覚障害者たちは、どのように世界を認識しているのか。数々の賞を受賞するアニメクリエーターが、見えない世界のアニメ化に挑む</desc>
-	</programme>
+  <programme start="20210905141500 +0000" stop="20210905142000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210905142000 +0000" stop="20210905160000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇車いすバスケットボール　男子・３位決定戦（録画）</desc>
+  </programme>
 	<programme start="20210904145500 +0000" stop="20210904154500 +0000" channel="eTele.jp">
 		<title lang="ja">NHKスペシャル</title>
 		<desc lang="ja">東京パラリンピック。ここには私たちの社会を変えるかもしれない、大切なヒントが詰まっている。答えを探すのは香取慎吾さんと若者たち。パラ教室へようこそ</desc>
@@ -421,6 +413,14 @@
 	<programme start="20210905140000 +0000" stop="20210905143000 +0000" channel="eTele.jp">
 		<title lang="ja">日本の話芸</title>
 		<desc lang="ja">三遊亭圓歌さんの落語「やかん工事中」をお送りします（令和３年６月１１日（金）昭島市・ＫＯＴＯＲＩホールで収録）</desc>
+	</programme>
+	<programme start="20210905143000 +0000" stop="20210905150000 +0000" channel="eTele.jp">
+		<title lang="ja">ロッチと子羊〜迷えるあなたに哲学を〜</title>
+		<desc lang="ja">ロッチ中岡創一とコカドケンタロウが中学生、高校生３人の悩みに、経験をもとに必死に答えるが、そこには世界の哲学に通づる貴重なヒントが。若者と親世代におすすめです。</desc>
+	</programme>
+	<programme start="20210905150000 +0000" stop="20210905170000 +0000" channel="eTele.jp">
+		<title lang="ja">決定!こども将棋名人</title>
+		<desc lang="ja">今年の小学生の将棋日本一を決める、小学生名人戦！これまでも多くのトップ棋士を輩出してきた。今年の頂点に立つ小学生棋士はいったい誰か！？熱戦をごらんください！</desc>
 	</programme>
 	<programme start="20210904133000 +0000" stop="20210904151000 +0000" channel="NipponTV.jp">
 		<title lang="ja">日テレ系お笑いの祭典【ネタフェス3時間】みどころ大公開SP</title>
@@ -737,13 +737,11 @@
 …渡し舟で行く絶景
 ▼滋賀…民家の壁に謎のマークを入れる風習</desc>
 	</programme>
-	<programme start="20210904115900 +0000" stop="20210904140000 +0000" channel="TBS2.jp">
-		<title lang="ja">王様のブランチ</title>
-		<desc lang="ja">この秋必ず話題になる！新感覚の極上麺＆高級抹茶スイーツとは▽小松菜奈と宮沢氷魚が食べログ１位のかき氷に大興奮！▽次にくるマンガ大賞２０２１を大特集</desc>
-	</programme>
-	<programme start="20210904140000 +0000" stop="20210904145400 +0000" channel="TBS2.jp">
-		<title lang="ja">芸人鉄道!オワライナー</title>
-		<desc lang="ja">MCアンタッチャブルがローカル鉄道でゲストをおもてなし！群馬・上信電鉄を舞台に総勢２４名の芸人登場！各駅の停車時間内だけ新ネタ披露…おもてなし失敗で扉が閉まる！</desc>
+	<programme start="20210905145500 +0000" stop="20210905161500 +0000" channel="Asahi.jp">
+		<title lang="ja">マツコ&有吉 かりそめ天国</title>
+		<desc lang="ja">次回放送は10日（金）よる８時から！
+飯尾和樹のロケ２本立て！①ボウリング両手投げ選手を調査　②ラッピングの美技に感動
+＆マツコ有吉の独特すぎるスポーツ観戦</desc>
 	</programme>
 	<programme start="20210904145400 +0000" stop="20210904150000 +0000" channel="TBS2.jp">
 		<title lang="ja">ニュース</title>
@@ -896,16 +894,9 @@
 		<title lang="ja">東京2020パラリンピック ハイライト</title>
 		<desc lang="ja">☆届け、スポーツのチカラ☆前回リオ大会で銀メダル４個・銅メダル３個を獲得した日本陸上陣☆驚異の世界記録もたっぷりとお届けします！</desc>
 	</programme>
-	<programme start="20210904124500 +0000" stop="20210904142300 +0000" channel="TVTokyo.jp">
-		<title lang="ja">サンド軍VSナイツ軍!とっておき激推し芸人ネタバトル予習復習スペシャル</title>
-		<desc lang="ja">人気・実力ともに芸人界トップのサンドウィ
-ッチマンとナイツが今、最も面白いと思う激
-推し芸人を集めてネタバトルを開催！
-明日の放送の前に予習復習！</desc>
-	</programme>
-	<programme start="20210904142300 +0000" stop="20210904143000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
+	<programme start="20210905150000 +0000" stop="20210905162400 +0000" channel="TBS2.jp">
+		<title lang="ja">「TOKYO MER〜走る緊急救命室〜」ダイジェスト</title>
+		<desc lang="ja">今夜９時最終章前編！MERに最悪の結末が！その前に特別ダイジェストと９話のアンコールリピート！大使館で事故！突入すれば国際問題…命の危機と究極の選択！</desc>
 	</programme>
 	<programme start="20210904143000 +0000" stop="20210904150000 +0000" channel="TVTokyo.jp">
 		<title lang="ja"></title>
@@ -1089,18 +1080,6 @@
 		<title lang="ja">警視庁特命刑事☆二人2〜新宿・荒木町コールドケース〜</title>
 		<desc lang="ja">松重豊主演！孤高の刑事と鉄の女が挑む未解決事件シリーズ第２弾！荒木町で発生した20年前の殺人事件はまだ終わっていなかった…佐々木譲の小説『地層捜査』のドラマ化！</desc>
 	</programme>
-	<programme start="20210904133000 +0000" stop="20210904143000 +0000" channel="FujiTV.jp">
-		<title lang="ja">ワンピースバラエティ 海賊王におれはなるTV</title>
-		<desc lang="ja">かまいたち×マヂカルラブリー×オズワルド！ワンピースと共に歩んだ人生を徹底比較！ずん飯尾がついに単行本を読破！</desc>
-	</programme>
-	<programme start="20210904143000 +0000" stop="20210904143500 +0000" channel="FujiTV.jp">
-		<title lang="ja">ワタシ∞ウォーキング</title>
-		<desc lang="ja">今回ウォーキングするのは、お笑い芸人カミナリのたくみさん。相方のまなぶさんと共同生活をした思い出の街である江古田周辺をウォーキング。</desc>
-	</programme>
-	<programme start="20210904143500 +0000" stop="20210904144000 +0000" channel="FujiTV.jp">
-		<title lang="ja"></title>
-		<desc lang="ja"></desc>
-	</programme>
 	<programme start="20210904144000 +0000" stop="20210904155500 +0000" channel="FujiTV.jp">
 		<title lang="ja">49thフジサンケイクラシック</title>
 		<desc lang="ja">舞台は富士桜カントリー倶楽部　国内屈指のモンスターコースを攻略するのは果たして　日本代表・星野陸也　石川遼　金谷拓実ら実力者集結！激戦必至の富士桜決戦</desc>
@@ -1253,13 +1232,9 @@
 運命の最終日をお届けします！
 解説：丸山茂樹プロ</desc>
 	</programme>
-	<programme start="20210904133000 +0000" stop="20210904140000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210904140000 +0000" stop="20210904143000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210905150000 +0000" stop="20210905160000 +0000" channel="FujiTV.jp">
+		<title lang="ja">みんなのKEIBA</title>
+		<desc lang="ja">「新潟記念」重賞連勝を目指すザダルとトーセンスーリヤが激突▽「小倉２歳Ｓ」短距離王候補ショウナンマッハ登場▽ＤＡＩＧＯのワイド３週連続的中へ▽井森美幸</desc>
 	</programme>
 	<programme start="20210904143000 +0000" stop="20210904150000 +0000" channel="Tokyo MX">
 		<title lang="ja">世界の子どもの未来のために</title>
@@ -1462,6 +1437,14 @@
 		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210905140000 +0000" stop="20210905143000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905143000 +0000" stop="20210905150000 +0000" channel="Tokyo MX">
+		<title lang="ja">水曜どうでしょうClassic</title>
+		<desc lang="ja">ユーコン川１６０キロ　〜地獄の６日間〜③</desc>
+	</programme>
+	<programme start="20210905150000 +0000" stop="20210905153000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
