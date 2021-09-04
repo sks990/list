@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904205500 +0000" stop="20210904210000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210904210000 +0000" stop="20210904220000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja"></title>
     <desc lang="ja">◇車いすテニス　男子シングルス・決勝「国枝慎吾×トム・エフベリンク」（中継）　【出演】石黒賢，岸田奈美，大西瞳，【アナウンサー】中野淳，杉浦友紀ほか</desc>
@@ -250,18 +246,6 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">１３日間の日程を終えこの日幕を下ろす東京パラリンピック。閉会式の模様を国立競技場から中継でお伝えします。</desc>
   </programme>
-	<programme start="20210904205900 +0000" stop="20210904210000 +0000" channel="eTele.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-	</programme>
-	<programme start="20210904210000 +0000" stop="20210904213000 +0000" channel="eTele.jp">
-		<title lang="ja">すくすく子育て</title>
-		<desc lang="ja">今回は特別編！「なんでも質問スペシャル」。いつもとはちょっと違うスタイルでママ・パパからのさまざまな悩みや質問にどんどん答える！</desc>
-	</programme>
-	<programme start="20210904213000 +0000" stop="20210904215500 +0000" channel="eTele.jp">
-		<title lang="ja">ウワサの保護者会</title>
-		<desc lang="ja">尾木ママと小中学生の保護者が子育てや教育の悩みについて語り合い解決に導く教育情報番組。今回のテーマは「今だからこそのＰＴＡ！」。新たなＰＴＡのあり方を考える。</desc>
-	</programme>
 	<programme start="20210904215500 +0000" stop="20210904220000 +0000" channel="eTele.jp">
 		<title lang="ja">楽ラクワンポイント介護</title>
 		<desc lang="ja">認知症の家族の介護についてアドバイスする。今回は「汚れた下着を隠す」ことについて。講師は認知症ケアの第一人者の介護福祉士の和田行男さん。</desc>
@@ -410,14 +394,6 @@
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">１３日間の日程を終えこの日幕を下ろす東京パラリンピック。閉会式の模様を、聞こえない人も見えない人も一緒に楽しめるように手話・字幕・解説放送をつけてお伝えします。</desc>
 	</programme>
-	<programme start="20210904205400 +0000" stop="20210904210000 +0000" channel="NipponTV.jp">
-		<title lang="ja">ワーズハウスへようこそ</title>
-		<desc lang="ja">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
-	</programme>
-	<programme start="20210904210000 +0000" stop="20210904215400 +0000" channel="NipponTV.jp">
-		<title lang="ja">1億3000万人のSHOWチャンネル</title>
-		<desc lang="ja">長州＆武藤の秘湯旅！秘境・黒部峡谷の絶景温泉へ！▽桐谷健太の人生チャート！利きワインに挑戦▽菊池風磨の今こそバスケキャラを売りたい！バスケ大技チャレンジなるか！</desc>
-	</programme>
 	<programme start="20210904215400 +0000" stop="20210904220000 +0000" channel="NipponTV.jp">
 		<title lang="ja">ココロ通う街角</title>
 		<desc lang="ja">街角で出会える心と心のつながりや、人と人の助け合いを美しい情景とともに描きます。</desc>
@@ -559,9 +535,14 @@
 		<title lang="ja">行列のできる法律相談所</title>
 		<desc lang="ja">郷ひろみ人生初!自分のモノマネをモノマネ!銅メダリスト野口啓代があの決勝の裏側を語る!桐谷健太が俳優Nの母と2人でハワイ？佐久間由衣が憧れの芸人からギャグを伝授</desc>
 	</programme>
-	<programme start="20210904205400 +0000" stop="20210904215500 +0000" channel="Asahi.jp">
-		<title lang="ja">サタデーステーション</title>
-		<desc lang="ja">政界激震…菅総理が総裁選不出馬で今後は？誰に注目？▽自宅療養者と重症者を救うため…支援の現場▽大谷翔平が先発登板▽東京パラリンピック▽プロ野球(他)</desc>
+	<programme start="20210905215400 +0000" stop="20210905220000 +0000" channel="NipponTV.jp">
+		<title lang="ja">夢の通り道</title>
+		<desc lang="ja">東京ディズニーシー「２０周年」
+イタリア・フィレンツェ「ガリレオ・ガリレイ」編</desc>
+	</programme>
+	<programme start="20210905220000 +0000" stop="20210905223000 +0000" channel="NipponTV.jp">
+		<title lang="ja">おしゃれイズム</title>
+		<desc lang="ja">森星が素敵すぎる自宅リフォームを大公開！▽多趣味な彼女がプライベート写真を紹介！▽どハマりの染物で爆笑珍クイズ▽姉妹で能登へ絶景ドライブ！姉に見せたい景色とは？</desc>
 	</programme>
 	<programme start="20210904215500 +0000" stop="20210904222500 +0000" channel="Asahi.jp">
 		<title lang="ja">あざとくて何が悪いの?</title>
@@ -739,13 +720,10 @@
 		<title lang="ja">サンデーステーション</title>
 		<desc lang="ja">日曜よる９時。新しい明日へ「再起動」。次の一週間のヒントにつながる報道番組を目指します。ニュースは総力取材、時代が見える独自特集、スポーツ、天気もしっかりと！</desc>
 	</programme>
-	<programme start="20210904185100 +0000" stop="20210904210000 +0000" channel="TBS2.jp">
-		<title lang="ja">炎の体育会TV</title>
-		<desc lang="ja">金銀銅メダリストが五輪後初の超本気プレー▽３Ｐ女王バスケ林…超難関動くゴールに神技シュート！▽バド渡辺東野ペア…超豪華中華賭けシャトル３つ神技ラリーで奇跡！</desc>
-	</programme>
-	<programme start="20210904210000 +0000" stop="20210904215400 +0000" channel="TBS2.jp">
-		<title lang="ja">世界ふしぎ発見!</title>
-		<desc lang="ja">黒柳徹子の一言から始まった？イースター島のモアイ修復プロジェクトの全貌とは▽瓦礫の中から発見！？日本にあるモアイ感動の秘話▽復興を願うイースター島からの贈り物</desc>
+	<programme start="20210905215500 +0000" stop="20210905222500 +0000" channel="Asahi.jp">
+		<title lang="ja">爆笑問題&霜降り明星のシンパイ賞!!</title>
+		<desc lang="ja">上京間近⁉見取り図に、東京で芸人が住むのにオススメの街をプレゼン！
+トム・ブラウンみちお＆アルピー平子＆永野の独自目線…本当に役に立つ？</desc>
 	</programme>
 	<programme start="20210904215400 +0000" stop="20210904220000 +0000" channel="TBS2.jp">
 		<title lang="ja">和心百景</title>
@@ -895,13 +873,13 @@
 		<title lang="ja">TOKYO MER〜走る緊急救命室〜</title>
 		<desc lang="ja">とある大学の教室が爆破された。さらに別の爆弾を仕掛けたとテロ予告が！資材もない中で重傷者の治療に当たる喜多見と音羽、更に学生達が人質に…そして遂に、死者が―！？</desc>
 	</programme>
-	<programme start="20210904205400 +0000" stop="20210904210000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">生きるを伝える</title>
-		<desc lang="ja">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
+	<programme start="20210905215400 +0000" stop="20210905220000 +0000" channel="TBS2.jp">
+		<title lang="ja">まちづくり夢づくりPART2</title>
+		<desc lang="ja">まちづくり夢づくりＰＡＲＴ２</desc>
 	</programme>
-	<programme start="20210904210000 +0000" stop="20210904215400 +0000" channel="TVTokyo.jp">
-		<title lang="ja">出没!アド街ック天国</title>
-		<desc lang="ja">名水と絶景の楽園「千葉　君津」▼ハートに光差す話題の洞窟▼自然派アミューズメントと清流のアウトドアスポーツ▼名水育む美味の宝庫＆ご当地麺が九州ラーメンの謎!?</desc>
+	<programme start="20210905220000 +0000" stop="20210905225400 +0000" channel="TBS2.jp">
+		<title lang="ja">日曜日の初耳学</title>
+		<desc lang="ja">林修が『ぜひ話したい』と日体大へ出張インタビュー！“涙の銀メダル”の裏に父との感動秘話が！大親友女子バスケ・馬瓜エブリンがぶっちゃける▼『最新スマホ防犯術』公開</desc>
 	</programme>
 	<programme start="20210904215400 +0000" stop="20210904220000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">土曜名馬座</title>
@@ -1075,9 +1053,9 @@
 ▼日本一の田んぼアート▼水かけ戦争勃発
 ▼電車レストランで爆笑ドライな関係性</desc>
 	</programme>
-	<programme start="20210904190000 +0000" stop="20210904210000 +0000" channel="FujiTV.jp">
-		<title lang="ja">超超ベスト5 海上自衛隊をジャニーズ&人気芸人が限界調査SP</title>
-		<desc lang="ja">海上自衛隊の全てを徹底調査①衝撃訓練の全容！２ｔの浸水を防げ！火の海に突入！沈没船から脱出②超高性能な艦船の衝撃値段ランキング③女性自衛官の生活とは？</desc>
+	<programme start="20210905215400 +0000" stop="20210905224800 +0000" channel="TVTokyo.jp">
+		<title lang="ja">有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?</title>
+		<desc lang="ja">かつてマリオメーカーで伝説となったモト冬樹が帰ってきた▽「今回はオレの得意なヤツ」マリオゴルフでオンラインの戦場へ！高齢者マリオ汚名返上！モト伝説の幕が上がる</desc>
 	</programme>
 	<programme start="20210904210000 +0000" stop="20210904231000 +0000" channel="FujiTV.jp">
 		<title lang="ja">土曜プレミアム</title>
@@ -1235,13 +1213,13 @@
 		<title lang="ja">逃走中</title>
 		<desc lang="ja">コミックス第１００巻が発売となる国民的漫画『ＯＮＥ　ＰＩＥＣＥ』とのコラボＳＰ！ルフィら人気キャラクターが登場。３万人から選ばれた一般出場者にも注目！</desc>
 	</programme>
-	<programme start="20210904203000 +0000" stop="20210904210000 +0000" channel="Tokyo MX">
-		<title lang="ja">遊戯配信 e-Strangers</title>
-		<desc lang="ja">次世代の配信スターを発掘！今回はゲーム系動画配信者スペシャル★狩野英孝＆えなこのＭＣコンビと、土屋圭市と鈴木拓がゲーム系動画配信者をジャッジ！</desc>
+	<programme start="20210905215400 +0000" stop="20210905220000 +0000" channel="FujiTV.jp">
+		<title lang="ja">1Hセンス</title>
+		<desc lang="ja">いま輝いている人たちが自分を高める１時間の過ごし方。忙しい彼らの心を満たし活力を生み出す空間、味、絶景とは？自分磨きの達人たちのライフスタイルに迫る。</desc>
 	</programme>
-	<programme start="20210904210000 +0000" stop="20210904213000 +0000" channel="Tokyo MX">
-		<title lang="ja">斬波ZANMAI</title>
-		<desc lang="ja">音を鳴らしたらアウト？“全静オープン”！新コーナー斬波ライブニュースも！</desc>
+	<programme start="20210905220000 +0000" stop="20210905231500 +0000" channel="FujiTV.jp">
+		<title lang="ja">Mr.サンデー</title>
+		<desc lang="ja">「今何が！」日曜夜の情報ＬＩＶＥショー▽週イチ知りたいニュースを独自追跡▽ニュースの見方アップデート！生ゲスト▽役立ち情報×ヒューマン物語▽宮根＆三田</desc>
 	</programme>
 	<programme start="20210904213000 +0000" stop="20210904220000 +0000" channel="Tokyo MX">
 		<title lang="ja">音ボケPOPS</title>
@@ -1445,6 +1423,14 @@
 	</programme>
 	<programme start="20210905210000 +0000" stop="20210905213000 +0000" channel="Tokyo MX">
 		<title lang="ja">ぐらぶるTVちゃんねるっ!</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905213000 +0000" stop="20210905220000 +0000" channel="Tokyo MX">
+		<title lang="ja">天官賜福</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905220000 +0000" stop="20210905223000 +0000" channel="Tokyo MX">
+		<title lang="ja">死神坊ちゃんと黒メイド</title>
 		<desc lang="ja"> </desc>
 	</programme>
 </tv>
