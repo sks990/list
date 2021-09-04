@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904175900 +0000" stop="20210904180000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210904180000 +0000" stop="20210904180500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210904180500 +0000" stop="20210904184400 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇車いすテニス　男子シングルス・決勝「国枝慎吾×トム・エフベリンク」（中継）　【出演】石黒賢，岸田奈美，大西瞳，【アナウンサー】中野淳，杉浦友紀ほか</desc>
-  </programme>
-  <programme start="20210904184400 +0000" stop="20210904184500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
   <programme start="20210904184500 +0000" stop="20210904190000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
@@ -84,7 +68,7 @@
   </programme>
   <programme start="20210904210000 +0000" stop="20210904220000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">【出演】増田明美，岸田奈美，大西瞳，【アナウンサー】中野淳，杉浦友紀</desc>
+    <desc lang="ja">【出演】石黒賢，岸田奈美，大西瞳，後藤佑季，【アナウンサー】中野淳，杉浦友紀，中川安奈</desc>
   </programme>
   <programme start="20210904220000 +0000" stop="20210904231000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック ハイライト</title>
@@ -258,18 +242,18 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210904173500 +0000" stop="20210904180000 +0000" channel="eTele.jp">
-		<title lang="ja">魔入りました!入間くん2</title>
-		<desc lang="ja">ひょんなことから魔界に連れ去られたお人よしの少年・鈴木入間は人間であることを隠し悪魔学校に通うことに！？個性豊かな悪魔たちに囲まれ波乱万丈な学園生活が始まる！</desc>
-	</programme>
-	<programme start="20210904180000 +0000" stop="20210904182500 +0000" channel="eTele.jp">
-		<title lang="ja">スポンジ・ボブ</title>
-		<desc lang="ja">深い海の底にある海底都市・ビキニタウンに住むスポンジ・ボブとその仲間たちが繰り広げる、ユーモラスで楽しい日常を描いたハイテンション・アニメ！</desc>
-	</programme>
-	<programme start="20210904182500 +0000" stop="20210904185000 +0000" channel="eTele.jp">
-		<title lang="ja">ミルドレッドの魔女学校</title>
-		<desc lang="ja">ひょんなことから魔女学校に入学したミルドレッドの冒険ファンタジー。アガサとエイダ校長の争いで学校に最大の危機が！ミルドレッドはこの状況を救うことができるのか？</desc>
-	</programme>
+  <programme start="20210905180500 +0000" stop="20210905184500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">東京2020パラリンピック</title>
+    <desc lang="ja">◇陸上　男子マラソン　Ｔ５４、女子マラソン　Ｔ５４、男子マラソン　Ｔ４６、男子マラソン　Ｔ１２、女子マラソン　Ｔ１２（録画）　【アナウンサー】松田利仁亜ほか</desc>
+  </programme>
+  <programme start="20210905184500 +0000" stop="20210905190000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210905190000 +0000" stop="20210905193000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース7</title>
+    <desc lang="ja">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】青井実，【サブキャスター】池田伸子，深川仁志，【気象キャスター】向笠康二郎</desc>
+  </programme>
 	<programme start="20210904185000 +0000" stop="20210904195400 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇陸上　男子走り幅跳び　Ｔ２０・決勝、女子２００ｍ　Ｔ４７・決勝ほか（中継）　【出演】後藤佑季，【アナウンサー】中川安奈，大澤幹朗　ほか</desc>
@@ -422,13 +406,17 @@
 		<title lang="ja">猫のしっぽ カエルの手</title>
 		<desc lang="ja">沖縄の旅。栽培からばい煎まで手がけるコーヒー農家を訪ね、純沖縄産のコーヒーを味わう。サトウキビの搾り汁のみを使った昔ながらの方法で、純黒糖を作る職人との出会いも</desc>
 	</programme>
-	<programme start="20210904173000 +0000" stop="20210904180000 +0000" channel="NipponTV.jp">
-		<title lang="ja">僕のヒーローアカデミア</title>
-		<desc lang="ja">「努力・友情・勝利」週刊少年ジャンプの王道アニメ！総人口の約８割が何らかの超常能力「個性」を持つ世界で無個性だった緑谷出久が個性を受け継ぎヒーローを目指す物語。</desc>
+	<programme start="20210905183000 +0000" stop="20210905185500 +0000" channel="eTele.jp">
+		<title lang="ja">ネコメンタリー 猫も、杓子（しゃくし）も。</title>
+		<desc lang="ja">もの書く人の傍らにはいつも猫がいた。作家と愛猫の日常を描く異色ドキュメント。ミステリー作家、有栖川有栖編。猫をめぐる謎は解けるか？書下ろし短編も。朗読は吉田羊。</desc>
 	</programme>
-	<programme start="20210904180000 +0000" stop="20210904183000 +0000" channel="NipponTV.jp">
-		<title lang="ja">名探偵コナン</title>
-		<desc lang="ja">モノレールで起こった銃弾による傷害事件。犯人を追跡していたコナンと小五郎は、あるマンションに到着する。しかし、犯人は追跡を振り切り東都市場へと逃走してしまい…。</desc>
+	<programme start="20210905185500 +0000" stop="20210905190000 +0000" channel="eTele.jp">
+		<title lang="ja">ごちそんぐDJ</title>
+		<desc lang="ja">誰かといっしょに二人で作る“ふたりレシピ”。今日は手のひらサイズのミルクレープはいかが？二人で重ねるハーモニー、クレープとクリームの上にのせるものは何にする？</desc>
+	</programme>
+	<programme start="20210905190000 +0000" stop="20210905192500 +0000" channel="eTele.jp">
+		<title lang="ja">ラブライブ!スーパースター!!</title>
+		<desc lang="ja">東京の表参道と原宿と青山、３つの街のはざまにある新設校が舞台。澁谷（しぶや）かのんら５人の少女がスクールアイドルの祭典「ラブライブ！」出場を目指す青春学園物語。</desc>
 	</programme>
 	<programme start="20210904183000 +0000" stop="20210904190000 +0000" channel="NipponTV.jp">
 		<title lang="ja">満天☆青空レストラン</title>
@@ -570,17 +558,14 @@
 		<title lang="ja">真相報道 バンキシャ!</title>
 		<desc lang="ja">バンキシャ！は毎週、注目されている事件・出来事について、他にない切り口で検証を加える番組です。今週もご期待ください。</desc>
 	</programme>
-	<programme start="20210904173000 +0000" stop="20210904180000 +0000" channel="Asahi.jp">
-		<title lang="ja">ANNスーパーJチャンネル</title>
-		<desc lang="ja">若者接種…自衛隊きょうから開始(他)</desc>
+	<programme start="20210905185500 +0000" stop="20210905190000 +0000" channel="NipponTV.jp">
+		<title lang="ja">博士は今日も嫉妬する 人生が楽しくなる最新テクノロジー</title>
+		<desc lang="ja">最新技術の研究に没頭するがなかなかうまくいかない…そんな博士が思わず嫉妬する明日が楽しくなる最新テクノロジーをご紹介！！▽寝つきが良くなるぬいぐるみ</desc>
 	</programme>
-	<programme start="20210904180000 +0000" stop="20210904183000 +0000" channel="Asahi.jp">
-		<title lang="ja">人生の楽園</title>
-		<desc lang="ja">妻の実家のトマト農家を継ぎ、そのおいしさを知ってもらいたいとピザの移動販売を始めた佐藤智哉さん(４１歳)。小さく育てて糖度を高めた、フルティカトマトのピザとは!?</desc>
-	</programme>
-	<programme start="20210904183000 +0000" stop="20210904185600 +0000" channel="Asahi.jp">
-		<title lang="ja">ごはんジャパン</title>
-		<desc lang="ja">埼玉県・秩父を舞台に、スイーツの匠が清涼感たっぷりの天然氷と桃を使った極上パフェを作る！暑さが残るこの時期にぴったりのパフェにアイドルたちもビックリ！</desc>
+	<programme start="20210905190000 +0000" stop="20210905195800 +0000" channel="NipponTV.jp">
+		<title lang="ja">ザ!鉄腕!DASH!!</title>
+		<desc lang="ja">【新宿DASH】年に一度の夏祭りSP。今年も二宮和也が新宿にやってきた！
+太一＆岸と３人で新宿ビル屋上でスイカ割りを！動き出したのは１０２日前で…</desc>
 	</programme>
 	<programme start="20210904185600 +0000" stop="20210904195400 +0000" channel="Asahi.jp">
 		<title lang="ja">ドラえもん</title>
@@ -749,13 +734,13 @@
 		<desc lang="ja">千葉県山武郡で絶品塩むすびを作るため、海水から塩を作る伝統的な方法を学びます！
 難しい作業に一同大苦戦。完成した綺麗な塩に感動！豆腐作りや塩の絶品料理も！</desc>
 	</programme>
-	<programme start="20210904173000 +0000" stop="20210904185000 +0000" channel="TBS2.jp">
-		<title lang="ja">報道特集</title>
-		<desc lang="ja">▽緊急特集・菅総理が辞任へ！急転直下の舞台裏で何が起きた？総裁選の行方といま政治に求められるもの。コロナ禍、五輪、菅政権の１年を徹底検証する。</desc>
-	</programme>
-	<programme start="20210904185000 +0000" stop="20210904185100 +0000" channel="TBS2.jp">
-		<title lang="ja">ウィークエンドウェザー</title>
-		<desc lang="ja">日々の生活に役立つ天気を分かりやすく解説！防災情報もしっかりお伝えします。</desc>
+	<programme start="20210905190000 +0000" stop="20210905195800 +0000" channel="Asahi.jp">
+		<title lang="ja">ナニコレ珍百景</title>
+		<desc lang="ja">★日本全国で驚きの光景を発見
+▼仙台…道路案内標識裏に現れた伊達政宗公
+▼岐阜…「宇宙食を目指す餃子」自販機
+▼茨城…街路樹の目のような信号機
+▼栃木…紙の家</desc>
 	</programme>
 	<programme start="20210904185100 +0000" stop="20210904210000 +0000" channel="TBS2.jp">
 		<title lang="ja">炎の体育会TV</title>
@@ -901,13 +886,13 @@
 		<title lang="ja">世界遺産</title>
 		<desc lang="ja">亜熱帯の湿地として北米最大のエヴァグレーズ国立公園。壮大な景観は、巨大な湖と地下水脈によって生まれた。絶滅危惧種のパンサーやマナティなど希少な動物も見どころ。</desc>
 	</programme>
-	<programme start="20210904173000 +0000" stop="20210904180000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">THEフィッシング</title>
-		<desc lang="ja">今回は、世界自然遺産・知床半島を舞台に、シーズン真っ只中のカラフトマスを狙う。</desc>
+	<programme start="20210905183000 +0000" stop="20210905190000 +0000" channel="TBS2.jp">
+		<title lang="ja">週刊さんまとマツコ</title>
+		<desc lang="ja">１００万再生連発！マツコも注目のおばあちゃんユーチューバー・田舎そば川原▽そうめんは茹でるな!?５時間たっても出来立てのまま㊙テク伝授▽日本の夏の定番が変わる</desc>
 	</programme>
-	<programme start="20210904180000 +0000" stop="20210904183000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">知られざるガリバー〜エクセレントカンパニーファイル〜</title>
-		<desc lang="ja">プレート式熱交換器で国内シェアトップの産業機械メーカー、日阪製作所。プレート式熱交換器は、給湯器や空調、発電所、スーパー銭湯等幅広い製品・施設で使われる装置。</desc>
+	<programme start="20210905190000 +0000" stop="20210905210000 +0000" channel="TBS2.jp">
+		<title lang="ja">坂上&指原のつぶれない店</title>
+		<desc lang="ja">🈑　日本最大のチェーン店激戦区「国道１６号線」沿いチェーン店を徹底調査！回転寿司№１がってん寿司×急増中ネットカフェ快活クラブ×自転車界のユニクロ・あさひって？</desc>
 	</programme>
 	<programme start="20210904183000 +0000" stop="20210904205400 +0000" channel="TVTokyo.jp">
 		<title lang="ja">出川哲朗の充電させてもらえませんか?</title>
@@ -1082,13 +1067,9 @@
 		<title lang="ja">パズドラ</title>
 		<desc lang="ja">パズドラプロリーグで優勝を果たした明石タイガを待っていたのは華やかな日々…ではなく、トラブルばかり。さらにモンスターたちも暴れまくり！？花草は今日も大騒ぎ！(他)</desc>
 	</programme>
-	<programme start="20210904175500 +0000" stop="20210904180000 +0000" channel="FujiTV.jp">
-		<title lang="ja">FNNニュース</title>
-		<desc lang="ja">最新ニュースをお伝えします</desc>
-	</programme>
-	<programme start="20210904180000 +0000" stop="20210904183000 +0000" channel="FujiTV.jp">
-		<title lang="ja">MUSIC FAIR</title>
-		<desc lang="ja">豪華バンドコラボ！ＴＵＢＥ×緑黄色社会×松下洸平「さよならイエスタデイ」ＴＶ初披露の今届けたい名曲「Ｋｅｅｐ　Ｏｎ　Ｓａｉｌｉｎ’」松下洸平が音楽番組初登場！他</desc>
+	<programme start="20210905183000 +0000" stop="20210905210000 +0000" channel="TVTokyo.jp">
+		<title lang="ja">サンド軍VSナイツ軍!とっておき激推し芸人ネタバトル!総勢27組ガチ対決</title>
+		<desc lang="ja">サンドウィッチマンとナイツが総勢27組芸人とネタバトル！3時のヒロイン四千頭身ミルクボーイ錦鯉ハナコ土佐兄弟(他)サンドウィッチマン＆人気女優、ナイツ＆EXILEコラボも</desc>
 	</programme>
 	<programme start="20210904183000 +0000" stop="20210904190000 +0000" channel="FujiTV.jp">
 		<title lang="ja">もしもツアーズ</title>
@@ -1240,17 +1221,15 @@
 		<desc lang="ja">『ヒロシの忘れ物』の巻
 『憧れのわんこそば』の巻</desc>
 	</programme>
-	<programme start="20210904175500 +0000" stop="20210904180000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210905183000 +0000" stop="20210905190000 +0000" channel="FujiTV.jp">
+		<title lang="ja">サザエさん</title>
+		<desc lang="ja">▽カツオのゴミ箱
+▽おしゃべりな家系
+▽おわれて見たのは</desc>
 	</programme>
-	<programme start="20210904180000 +0000" stop="20210904181500 +0000" channel="Tokyo MX">
-		<title lang="ja">news FLAG サタデー</title>
-		<desc lang="ja">東京の、各地のニュース・天気情報など詳しくお伝えします。</desc>
-	</programme>
-	<programme start="20210904181500 +0000" stop="20210904183000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210905190000 +0000" stop="20210905200000 +0000" channel="FujiTV.jp">
+		<title lang="ja">ジャンクSPORTS</title>
+		<desc lang="ja">名門校の強さの秘密！羽生結弦・荒川静香・ダルビッシュ有…東北高校は設備がすごい！▽徳勝龍が通った明徳義塾は山奥で約千人が寮生活＆女子バスケ強さの原点！</desc>
 	</programme>
 	<programme start="20210904183000 +0000" stop="20210904190000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1451,5 +1430,13 @@
 	<programme start="20210905180000 +0000" stop="20210905183000 +0000" channel="Tokyo MX">
 		<title lang="ja">news FLAG サンデー</title>
 		<desc lang="ja">東京の感染状況は？新型コロナ最新情報！▼大江戸温泉が閉館へ惜しむ声も…▼パラリンピックいよいよ最終盤！日本勢のメダルは？▼ニューヨーク・ロンドンからもニュース</desc>
+	</programme>
+	<programme start="20210905183000 +0000" stop="20210905190000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905190000 +0000" stop="20210905193000 +0000" channel="Tokyo MX">
+		<title lang="ja">日本のチカラ</title>
+		<desc lang="ja">ペンターン女子〜半島で私らしく生きる！〜</desc>
 	</programme>
 </tv>
