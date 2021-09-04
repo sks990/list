@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904145900 +0000" stop="20210904150000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
-    <desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-  </programme>
-  <programme start="20210904150000 +0000" stop="20210904150500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース・気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210904150500 +0000" stop="20210904175900 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすテニス　男子シングルス・決勝「国枝慎吾×トム・エフベリンク」（中継）　【出演】石黒賢，増田明美，【アナウンサー】中野淳，杉浦友紀ほか</desc>
@@ -250,10 +242,10 @@
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすバスケットボール　男子・３位決定戦（録画）</desc>
   </programme>
-	<programme start="20210904145500 +0000" stop="20210904154500 +0000" channel="eTele.jp">
-		<title lang="ja">NHKスペシャル</title>
-		<desc lang="ja">東京パラリンピック。ここには私たちの社会を変えるかもしれない、大切なヒントが詰まっている。答えを探すのは香取慎吾さんと若者たち。パラ教室へようこそ</desc>
-	</programme>
+  <programme start="20210905160000 +0000" stop="20210905160500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210904154500 +0000" stop="20210904161500 +0000" channel="eTele.jp">
 		<title lang="ja">クラシックTV</title>
 		<desc lang="ja">ディズニー・アニメーションのプリンセスと音楽を大特集！▽ディズニー大好き浅倉大介が清塚信也と語る！時代とともに変化するプリンセスと音楽の魅力▽スペシャル共演も！</desc>
@@ -422,10 +414,6 @@
 		<title lang="ja">決定!こども将棋名人</title>
 		<desc lang="ja">今年の小学生の将棋日本一を決める、小学生名人戦！これまでも多くのトップ棋士を輩出してきた。今年の頂点に立つ小学生棋士はいったい誰か！？熱戦をごらんください！</desc>
 	</programme>
-	<programme start="20210904133000 +0000" stop="20210904151000 +0000" channel="NipponTV.jp">
-		<title lang="ja">日テレ系お笑いの祭典【ネタフェス3時間】みどころ大公開SP</title>
-		<desc lang="ja">9月8日水曜日は…今田&有吉のネタフェス3時間SP‼▽傑作ネタを厳選！霜降り＆千鳥＆チュート＆チョコプラ＆ノンスタ＆ロバート秋山(他)最強芸人27組の爆笑ネタ祭り</desc>
-	</programme>
 	<programme start="20210904151000 +0000" stop="20210904160500 +0000" channel="NipponTV.jp">
 		<title lang="ja">世界まる見え!テレビ特捜部</title>
 		<desc lang="ja">高さ５０mナイアガラの滝で男が立往生▼患者の奪い合い？メキシコ民間救急車の驚き実態▼「世界最悪」動物園から動物救出作戦▼竹内涼真＆日向坂46影山優佳からお知らせ</desc>
@@ -562,10 +550,13 @@
 		<title lang="ja">高校生クイズ今年はソウゾウ脳だ!直前SP</title>
 		<desc lang="ja">今年の高校生クイズは生まれ変わる！テーマはソウゾウ脳…想像力＆創造力を問う難問にかまいたち＆伊沢も熱狂！昨年の全国大会で予習せよ！日向坂46の応援ソング初披露！</desc>
 	</programme>
-	<programme start="20210904133000 +0000" stop="20210904153000 +0000" channel="Asahi.jp">
-		<title lang="ja">家事ヤロウ!!!</title>
-		<desc lang="ja">７日火曜よる家事ヤロウ２時間ＳＰ！木村拓哉が日頃家で食べているご飯を完全レシピ化！
-その放送に先駆けて、北川景子＆広末涼子＆松本まりか…が披露した料理姿を放送！</desc>
+	<programme start="20210905152500 +0000" stop="20210905155500 +0000" channel="NipponTV.jp">
+		<title lang="ja">「ハコヅメ〜たたかう!交番女子〜」クライマックス目前!見どころ総復習SP</title>
+		<desc lang="ja">9月8日(水)よる10時〜第8話放送！水曜ドラマ「ハコヅメ〜たたかう！交番女子〜」の撮影㊙裏話を公開！戸田恵梨香＆永野芽郁ら豪華キャストのインタビューをお届け！</desc>
+	</programme>
+	<programme start="20210905155500 +0000" stop="20210905162500 +0000" channel="NipponTV.jp">
+		<title lang="ja">I LOVE みんなのどうぶつ園</title>
+		<desc lang="ja">9月11日土曜の「みんなのどうぶつ園」は、2時間スペシャル！ロッチ中岡が、保護犬の預かりボランティアを！池崎と保護ネコ明日香に新展開⁉チョコプラのバズらせ動画</desc>
 	</programme>
 	<programme start="20210904153000 +0000" stop="20210904160000 +0000" channel="Asahi.jp">
 		<title lang="ja">まだアプデしてないの?</title>
@@ -743,10 +734,6 @@
 飯尾和樹のロケ２本立て！①ボウリング両手投げ選手を調査　②ラッピングの美技に感動
 ＆マツコ有吉の独特すぎるスポーツ観戦</desc>
 	</programme>
-	<programme start="20210904145400 +0000" stop="20210904150000 +0000" channel="TBS2.jp">
-		<title lang="ja">ニュース</title>
-		<desc lang="ja">最新のニュースをお伝えします。</desc>
-	</programme>
 	<programme start="20210904150000 +0000" stop="20210904160000 +0000" channel="TBS2.jp">
 		<title lang="ja">3日後 火曜よる7時〜オトラクション2時間SP!SixTONES×宮川大輔参戦</title>
 		<desc lang="ja">🈑☆梅沢＆ギャル曽根大コーフン＆卓球銅メダル張本智和TV初熱唱
@@ -897,10 +884,6 @@
 	<programme start="20210905150000 +0000" stop="20210905162400 +0000" channel="TBS2.jp">
 		<title lang="ja">「TOKYO MER〜走る緊急救命室〜」ダイジェスト</title>
 		<desc lang="ja">今夜９時最終章前編！MERに最悪の結末が！その前に特別ダイジェストと９話のアンコールリピート！大使館で事故！突入すれば国際問題…命の危機と究極の選択！</desc>
-	</programme>
-	<programme start="20210904143000 +0000" stop="20210904150000 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">月曜から金曜まで毎日生放送「快適！ショッピングスタジオ」が土曜日午後に拡大！土曜日午後も長崎・佐世保のスタジオより元気に生放送！</desc>
 	</programme>
 	<programme start="20210904150000 +0000" stop="20210904160000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">ウイニング競馬</title>
@@ -1080,9 +1063,9 @@
 		<title lang="ja">警視庁特命刑事☆二人2〜新宿・荒木町コールドケース〜</title>
 		<desc lang="ja">松重豊主演！孤高の刑事と鉄の女が挑む未解決事件シリーズ第２弾！荒木町で発生した20年前の殺人事件はまだ終わっていなかった…佐々木譲の小説『地層捜査』のドラマ化！</desc>
 	</programme>
-	<programme start="20210904144000 +0000" stop="20210904155500 +0000" channel="FujiTV.jp">
-		<title lang="ja">49thフジサンケイクラシック</title>
-		<desc lang="ja">舞台は富士桜カントリー倶楽部　国内屈指のモンスターコースを攻略するのは果たして　日本代表・星野陸也　石川遼　金谷拓実ら実力者集結！激戦必至の富士桜決戦</desc>
+	<programme start="20210905160000 +0000" stop="20210905171500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">孤独のグルメ Season5/孤独のグルメSeason8</title>
+		<desc lang="ja">松重豊主演！雑貨輸入商を営む井之頭五郎は仕事で訪れた町で、ふと店に立ち寄り自由に食事をする▼西巣鴨の「一人すき焼き」▼横浜中華街の中華釜飯と海老雲呑麺</desc>
 	</programme>
 	<programme start="20210904155500 +0000" stop="20210904160000 +0000" channel="FujiTV.jp">
 		<title lang="ja"></title>
@@ -1236,17 +1219,10 @@
 		<title lang="ja">みんなのKEIBA</title>
 		<desc lang="ja">「新潟記念」重賞連勝を目指すザダルとトーセンスーリヤが激突▽「小倉２歳Ｓ」短距離王候補ショウナンマッハ登場▽ＤＡＩＧＯのワイド３週連続的中へ▽井森美幸</desc>
 	</programme>
-	<programme start="20210904143000 +0000" stop="20210904150000 +0000" channel="Tokyo MX">
-		<title lang="ja">世界の子どもの未来のために</title>
-		<desc lang="ja">厳しい貧困に生きる子ども達の生活をドキュメンタリー形式で紹介。ワールド・ビジョンの「チャイルド・スポンサーシップ」による支援を紹介します。</desc>
-	</programme>
-	<programme start="20210904150000 +0000" stop="20210904153000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210904153000 +0000" stop="20210904155900 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
+	<programme start="20210905160000 +0000" stop="20210905172500 +0000" channel="FujiTV.jp">
+		<title lang="ja">新しいカギ</title>
+		<desc lang="ja">（予定変更の場合あり）
+過去の放送から話題の大人気コントを一挙放送！▽９月１０日金曜よる８時からは新しいカギ２時間スペシャル！</desc>
 	</programme>
 	<programme start="20210904155900 +0000" stop="20210904160000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1445,6 +1421,18 @@
 		<desc lang="ja">ユーコン川１６０キロ　〜地獄の６日間〜③</desc>
 	</programme>
 	<programme start="20210905150000 +0000" stop="20210905153000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905153000 +0000" stop="20210905155900 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905155900 +0000" stop="20210905160000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210905160000 +0000" stop="20210905163000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
