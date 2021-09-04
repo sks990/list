@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210905055000 +0000" stop="20210905060000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210905060000 +0000" stop="20210905061000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210905061000 +0000" stop="20210905065500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">◇陸上　男子マラソン　Ｔ５４、女子マラソン　Ｔ５４、男子マラソン　Ｔ４６、男子マラソン　Ｔ１２、女子マラソン　Ｔ１２（中継）　【アナウンサー】松田利仁亜ほか</desc>
-  </programme>
   <programme start="20210905065500 +0000" stop="20210905070000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
@@ -238,26 +226,14 @@
     <title lang="ja">NHKニュース おはよう日本</title>
     <desc lang="ja">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
-	<programme start="20210905050000 +0000" stop="20210905060000 +0000" channel="eTele.jp">
-		<title lang="ja">こころの時代〜宗教・人生〜</title>
-		<desc lang="ja">『ニュクスの角灯』の作者・高浜寛さんは、アルコール依存症、熊本地震で「死」に直面しながら、光に導く角灯を描き続けた。闇から光へ…異色の表現者の核心に迫る。</desc>
-	</programme>
-	<programme start="20210905060000 +0000" stop="20210905062500 +0000" channel="eTele.jp">
-		<title lang="ja">NHK短歌</title>
-		<desc lang="ja">選者：田村元、ゲスト：川村エミコ（お笑い芸人）。題「道」。ゲストがハマる７０体の「こけし」にびっくり。塚本邦雄が大好物だったエスプレッソの歌を紹介。</desc>
-	</programme>
-	<programme start="20210905062500 +0000" stop="20210905063500 +0000" channel="eTele.jp">
-		<title lang="ja">テレビ体操</title>
-		<desc lang="ja">【出演】多胡肇，清水沙希，原川愛，吉江晴菜，今井菜津美，矢作あかり，【ピアノ】能條貴大</desc>
-	</programme>
-	<programme start="20210905063500 +0000" stop="20210905064000 +0000" channel="eTele.jp">
-		<title lang="ja">あおきいろ</title>
-		<desc lang="ja">「あお」と「きいろ」２つは明らかに違うけど、重なりあうと同じ「みどり」になる。すべての生き物たちと共に生きていくためのヒントが詰まった５分番組。</desc>
-	</programme>
-	<programme start="20210905064000 +0000" stop="20210905065500 +0000" channel="eTele.jp">
-		<title lang="ja">アニ×パラワールド</title>
-		<desc lang="ja">パラスポーツの魅力を描くアニ×パラをクリエイターたちの思いと共に！視覚障がい者マラソンをましろ日の世界で。世界の道下美里を取材。中村アン主演。ＬｉＳＡも熱唱！</desc>
-	</programme>
+  <programme start="20210906063000 +0000" stop="20210906070000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">【６時半台】経済ニュースをまとめて伝える「おはＢｉｚ」。チェックしておきたい国内外の動き。世界の驚きニュース。気になる天気ほか</desc>
+  </programme>
+  <programme start="20210906070000 +0000" stop="20210906074500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">NHKニュース おはよう日本</title>
+    <desc lang="ja">【７時台】新着のニュースを分かりやすく。社会の深層に迫る特集。暮らしに役立つアイデアを紹介する「まちかど情報室」。気になる天気。スポーツなど</desc>
+  </programme>
 	<programme start="20210905065500 +0000" stop="20210905072000 +0000" channel="eTele.jp">
 		<title lang="ja">東京2020パラリンピック</title>
 		<desc lang="ja">◇男子マラソン　Ｔ５４、女子マラソン　Ｔ５４、男子マラソン　Ｔ４６、男子マラソン　Ｔ１２、女子マラソン　Ｔ１２（中継）【陸上】解説…増田明美ほか</desc>
@@ -398,13 +374,25 @@
 		<title lang="ja">旅するためのフランス語</title>
 		<desc lang="ja">いつか旅する日のために、旅先で役立つフランス語をシチュエーション別に学ぶ語学番組。南フランスへの旅に憧れる俳優の須藤温子さんと一緒に、楽しく学びましょう！</desc>
 	</programme>
-	<programme start="20210905055500 +0000" stop="20210905061500 +0000" channel="NipponTV.jp">
-		<title lang="ja">日テレアップDate!</title>
-		<desc lang="ja">日本テレビの「今」を様々に発信します。</desc>
+	<programme start="20210906062500 +0000" stop="20210906063500 +0000" channel="eTele.jp">
+		<title lang="ja">テレビ体操</title>
+		<desc lang="ja">【出演】多胡肇，清水沙希，原川愛，吉江晴菜，今井菜津美，戸塚寛子，【ピアノ】幅しげみ</desc>
 	</programme>
-	<programme start="20210905061500 +0000" stop="20210905063000 +0000" channel="NipponTV.jp">
-		<title lang="ja">NNNニュース・サンデー</title>
-		<desc lang="ja">最新のニュース、気になる気象情報をお伝えします。</desc>
+	<programme start="20210906063500 +0000" stop="20210906064000 +0000" channel="eTele.jp">
+		<title lang="ja">オトッペ</title>
+		<desc lang="ja">音から生まれた不思議な生き物・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
+	</programme>
+	<programme start="20210906064000 +0000" stop="20210906065500 +0000" channel="eTele.jp">
+		<title lang="ja">シャキーン!</title>
+		<desc lang="ja">心と体が“シャキーン！”と目覚めるクイズやアニメなどのコーナーが盛りだくさん。スーパージュモクさんと一緒に新しい一日を元気に始めよう！</desc>
+	</programme>
+	<programme start="20210906065500 +0000" stop="20210906070000 +0000" channel="eTele.jp">
+		<title lang="ja">Eテレ0655</title>
+		<desc lang="ja">１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します</desc>
+	</programme>
+	<programme start="20210906070000 +0000" stop="20210906071000 +0000" channel="eTele.jp">
+		<title lang="ja">ゴー!ゴー!キッチン戦隊クックルン</title>
+		<desc lang="ja">アニメ×実写の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！今週はアウトドアスペシャル。海の近くでいろいろな野外活動と料理に挑戦します！</desc>
 	</programme>
 	<programme start="20210905063000 +0000" stop="20210905070000 +0000" channel="NipponTV.jp">
 		<title lang="ja">遠くへ行きたい</title>
@@ -683,15 +671,6 @@
 		<title lang="ja">グッド!モーニング</title>
 		<desc lang="ja">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 	</programme>
-	<programme start="20210905050000 +0000" stop="20210905060000 +0000" channel="TBS2.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">通販番組（ＴＶショッピング）
-</desc>
-	</programme>
-	<programme start="20210905060000 +0000" stop="20210905064500 +0000" channel="TBS2.jp">
-		<title lang="ja">バナナマンの早起きせっかくグルメ</title>
-		<desc lang="ja">超魅力的に町中華をお届けする新コーナー「せっかく少林少女グルメ」！グルメ番組で中華料理店を紹介する時によく流れる、映画“少林少女”の曲にのせ、絶品町中華を大満喫</desc>
-	</programme>
 	<programme start="20210905064500 +0000" stop="20210905070000 +0000" channel="TBS2.jp">
 		<title lang="ja">JNNニュース</title>
 		<desc lang="ja">最新のニュースをお伝えします。</desc>
@@ -841,14 +820,6 @@
 	<programme start="20210906060000 +0000" stop="20210906080000 +0000" channel="TBS2.jp">
 		<title lang="ja">あさチャン!</title>
 		<desc lang="ja">メインキャスターは夏目三久。きのうからけさまでの注目ニュースを総ざらい。世界の今がライブでわかる。専門知識豊富なゲストが独自の視点でより深い情報をお届けする。</desc>
-	</programme>
-	<programme start="20210905053000 +0000" stop="20210905060000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">洋子の演歌一直線</title>
-		<desc lang="ja">演歌歌手の長山洋子が司会を務める歌謡番組。日本を代表する歌手から新人歌手まで幅広く紹介。</desc>
-	</programme>
-	<programme start="20210905060000 +0000" stop="20210905065400 +0000" channel="TVTokyo.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。</desc>
 	</programme>
 	<programme start="20210905065400 +0000" stop="20210905070000 +0000" channel="TVTokyo.jp">
 		<title lang="ja"></title>
@@ -1003,18 +974,6 @@
 		<title lang="ja">モーサテ</title>
 		<desc lang="ja">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 	</programme>
-	<programme start="20210905054500 +0000" stop="20210905060000 +0000" channel="FujiTV.jp">
-		<title lang="ja">皇室ご一家</title>
-		<desc lang="ja">天皇・皇后両陛下をはじめ天皇ご一家のみなさまのご公務や私的なご旅行、そしてご趣味などをくまなく取材。「皇室」の今をできる限り詳しく紹介します。</desc>
-	</programme>
-	<programme start="20210905060000 +0000" stop="20210905061500 +0000" channel="FujiTV.jp">
-		<title lang="ja">FNNニュース</title>
-		<desc lang="ja">日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。</desc>
-	</programme>
-	<programme start="20210905061500 +0000" stop="20210905063000 +0000" channel="FujiTV.jp">
-		<title lang="ja">GO!GO!チャギントン</title>
-		<desc lang="ja">世界で大人気の鉄道ＣＧアニメ「チャギントン」！ナビゲーター：つるの剛士・佐久間みなみアナ　他▽声：小林由美子　他▽＃４７２「チャグパトロールの助手」</desc>
-	</programme>
 	<programme start="20210905063000 +0000" stop="20210905070000 +0000" channel="FujiTV.jp">
 		<title lang="ja">はやく起きた朝は…</title>
 		<desc lang="ja">〈出演〉松居直美・磯野貴理子・森尾由美
@@ -1147,14 +1106,6 @@
 	<programme start="20210906052500 +0000" stop="20210906080000 +0000" channel="FujiTV.jp">
 		<title lang="ja">めざましテレビ</title>
 		<desc lang="ja">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
-	</programme>
-	<programme start="20210905053000 +0000" stop="20210905060000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210905060000 +0000" stop="20210905063000 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210905063000 +0000" stop="20210905070000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
@@ -1347,5 +1298,9 @@
 	<programme start="20210906060000 +0000" stop="20210906070000 +0000" channel="Tokyo MX">
 		<title lang="ja"></title>
 		<desc lang="ja">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+	</programme>
+	<programme start="20210906070000 +0000" stop="20210906080000 +0000" channel="Tokyo MX">
+		<title lang="ja">堀潤モーニングFLAG</title>
+		<desc lang="ja">ジャーナリスト堀潤がＺ世代を中心としたコメンテーターとお届けするカジュアルニュースショー▼職業・岸壁幼魚採集家の鈴木香里武が出演！▼特集はフカ堀ワード解説</desc>
 	</programme>
 </tv>
