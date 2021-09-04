@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210904235500 +0000" stop="20210905004000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">アナザーストーリーズ 運命の分岐点</title>
-    <desc lang="ja">戦後、落語界にすい星のごとく現れた天才！古今亭志ん朝。先輩落語家１９人抜きで真打ちに。その話芸は今も伝説！ライバル立川談志との逸話など落語家たちが語る笑撃の真実</desc>
-  </programme>
   <programme start="20210905004000 +0000" stop="20210905012500 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">アンという名の少女</title>
     <desc lang="ja">世界中で愛されているモンゴメリ作の不朽の名作『赤毛のアン』をドラマ化。不登校になったアンは、毎日学校へ行くふりをしてどこへ？ある夜、アンの同級生の家が火事に…。</desc>
@@ -254,14 +250,18 @@
     <title lang="ja">ニュース・気象情報</title>
     <desc lang="ja"></desc>
   </programme>
-	<programme start="20210904230000 +0000" stop="20210905000000 +0000" channel="eTele.jp">
-		<title lang="ja">ETV特集</title>
-		<desc lang="ja">朝ドラ「おかえりモネ」の世界から飛び出してきたような魅力的なカキ養殖家・畠山重篤。漁師でありながら森に木を植えて海を再生させてきた。長靴を履いた哲学者の半世紀。</desc>
-	</programme>
-	<programme start="20210905000000 +0000" stop="20210905003000 +0000" channel="eTele.jp">
-		<title lang="ja">バリバラ〜障害者情報バラエティー〜</title>
-		<desc lang="ja">車いすユーザー×アパレル企業でファッションをアップデート▽「立ち姿がふつう」のモデルがすわって写真を撮ると今まで気づかなかった発見が！▽語りは声優・古賀葵</desc>
-	</programme>
+  <programme start="20210906000500 +0000" stop="20210906003000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">キングダム 第3シリーズ</title>
+    <desc lang="ja">天下の大将軍を志す元・下僕の信と若き秦王・エイ政。運命的に出会い共に「中華統一」を成し遂げることを誓うが、この夢を阻むように突如秦国を国家存亡の危機が襲う。</desc>
+  </programme>
+  <programme start="20210906003000 +0000" stop="20210906003500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja"></title>
+    <desc lang="ja">９月６日（月）夜１０：４５から始まる「よるドラ『古見さんは、コミュ症です。』」の見どころをコンパクトにご案内します。</desc>
+  </programme>
+  <programme start="20210906003500 +0000" stop="20210906012000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">青天を衝（つ）け</title>
+    <desc lang="ja">パリの篤太夫は、証券取引所などを巡り、発見の連続に胸が高鳴る。しかし、突然、幕府から政権を返上したという知らせが届く。日本で何が起こっているのか？一行は戸惑う。</desc>
+  </programme>
 	<programme start="20210905003000 +0000" stop="20210905050000 +0000" channel="eTele.jp">
 		<title lang="ja"></title>
 		<desc lang="ja"></desc>
@@ -389,6 +389,22 @@
 	<programme start="20210905223000 +0000" stop="20210906003000 +0000" channel="eTele.jp">
 		<title lang="ja">クラシック音楽館</title>
 		<desc lang="ja">マエストロ井上道義が「今、聴いてほしい音楽」▽フィンランドの自然を思わせる雄大な交響曲７番▽エロイカ…ベートーベンとの真剣勝負▽レヴィットのベートーベン３１番</desc>
+	</programme>
+	<programme start="20210906003000 +0000" stop="20210906003500 +0000" channel="eTele.jp">
+		<title lang="ja">美の小壺</title>
+		<desc lang="ja">ＢＳプレミアムで毎週金曜夜７時３０分放送の「美の壺」を“小壺”サイズに仕立てたミニ番組。琥珀（こはく）色の神秘「はちみつ」の多彩な世界と魅力を味わう！</desc>
+	</programme>
+	<programme start="20210906003500 +0000" stop="20210906004000 +0000" channel="eTele.jp">
+		<title lang="ja">美の小壺</title>
+		<desc lang="ja">ＢＳプレミアムで毎週金曜夜７時３０分放送の「美の壺」を“小壺”サイズに仕立てたミニ番組。古来、日本人の足元を支えてきた「草履」の魅力を堪能する！</desc>
+	</programme>
+	<programme start="20210906004000 +0000" stop="20210906004500 +0000" channel="eTele.jp">
+		<title lang="ja">美の小壺</title>
+		<desc lang="ja">ＢＳプレミアムで毎週金曜夜７時３０分放送の「美の壺」を、“小壺”サイズに仕立てたミニ番組。　機能だけではなく、美や哲学に満ちた「階段」の魅力に迫る！</desc>
+	</programme>
+	<programme start="20210906004500 +0000" stop="20210906021500 +0000" channel="eTele.jp">
+		<title lang="ja">第71回 NHK杯テレビ将棋トーナメント</title>
+		<desc lang="ja">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。２回戦第５局は丸山忠久九段と糸谷哲郎八段の対戦。</desc>
 	</programme>
 	<programme start="20210904235500 +0000" stop="20210905010000 +0000" channel="NipponTV.jp">
 		<title lang="ja">Going! Sports&News</title>
@@ -528,21 +544,9 @@
 		<title lang="ja">東京2020パラリンピック ハイライト</title>
 		<desc lang="ja">６週間に及んだ東京２０２０オリンピック・パラリンピックがついに閉幕！　忘れられない激闘、感動のシーン、メダリストの秘話をたっぷりお届けするこの夏最後の総集編!!</desc>
 	</programme>
-	<programme start="20210904230000 +0000" stop="20210905000000 +0000" channel="Asahi.jp">
-		<title lang="ja">ザ・ハイスクール ヒーローズ</title>
-		<desc lang="ja">美 少年がヒーローに変身！「友情と団結」をテーマに、学園の平和を守る前代未聞の戦隊ヒーロードラマが新たに誕生！秘密戦隊ゴレンジャーよりアカレンジャーも登場‼</desc>
-	</programme>
-	<programme start="20210905000000 +0000" stop="20210905000500 +0000" channel="Asahi.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">テレビ朝日のおすすめ番組をご紹介！</desc>
-	</programme>
-	<programme start="20210905000500 +0000" stop="20210905001000 +0000" channel="Asahi.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">松岡修造、寺川綾、内田篤人らテレビ朝日スポーツキャスターが、注目の選手をご紹介！競技の見どころをお伝えします。</desc>
-	</programme>
-	<programme start="20210905001000 +0000" stop="20210905003500 +0000" channel="Asahi.jp">
-		<title lang="ja">超人女子戦士 ガリベンガーV</title>
-		<desc lang="ja">地球にはびこる超難解な現象を、解き続ける女子たちを養成する組織…それが「ガリベンガーＶ」今夜は「ダイヤモンドＳＰ」！話題Ｖチューバーが頭脳を徹底的に鍛えます！</desc>
+	<programme start="20210906002500 +0000" stop="20210906013000 +0000" channel="NipponTV.jp">
+		<title lang="ja">Going! Sports&News</title>
+		<desc lang="ja">豪華メダリスト“メダル獲得の秘密”▼結婚５日後に失った右腕…トライアスロン宇田の妻が明かす“奇跡”舞台ウラ▼競泳"金"木村＆"銀"富田を支えた大人気モデルＳ!?</desc>
 	</programme>
 	<programme start="20210905003500 +0000" stop="20210905010500 +0000" channel="Asahi.jp">
 		<title lang="ja">アニマルエレジー</title>
@@ -716,14 +720,18 @@
 		<title lang="ja">声優パーク建設計画 VR部</title>
 		<desc lang="ja">「ワールドトリガー」声優ラフレコＳＰ！「梶裕貴vsコロチキ」「島﨑信長vs永野」爆笑の異色コラボ▽中尾＆古川＆千葉レジェンド声優が国民的アニメ裏話を密談！</desc>
 	</programme>
-	<programme start="20210904233000 +0000" stop="20210905000000 +0000" channel="TBS2.jp">
-		<title lang="ja">人生最高レストラン</title>
-		<desc lang="ja">▼日本一おいしい！地元福岡の名物もつ鍋▼下積み時代のご褒美！焼き鳥▼歯磨き粉にしてほしい！人生最高のカレー▼家はほとんど瓦礫みたい！？母の反対を押して…上京㊙話</desc>
+	<programme start="20210906002500 +0000" stop="20210906003000 +0000" channel="Asahi.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">松岡修造、寺川綾、内田篤人らテレビ朝日スポーツキャスターが、注目の選手をご紹介！競技の見どころをお伝えします。</desc>
 	</programme>
-	<programme start="20210905000000 +0000" stop="20210905003000 +0000" channel="TBS2.jp">
-		<title lang="ja">7つの海を楽しもう!世界さまぁ〜リゾート</title>
-		<desc lang="ja">世界ビーチウォーカーinフロリダ　クリアウォーターSP
-ビーチ、国内旅行に人気なホテル、スリル満点アクティビティ、グルメなどローカルで賑わうスポットをご紹介！</desc>
+	<programme start="20210906003000 +0000" stop="20210906010000 +0000" channel="Asahi.jp">
+		<title lang="ja">ReAL eSports News</title>
+		<desc lang="ja">山里亮太のｅスポーツ情報番組『ＲｅＡＬｅ』（りあるいー）！ダイアン・津田参戦＆高校№１決定＆親子大会など最新ｅスポーツ情報もりだくさん！パンサー・菅も大興奮‼</desc>
+	</programme>
+	<programme start="20210906010000 +0000" stop="20210906013000 +0000" channel="Asahi.jp">
+		<title lang="ja">熱闘!Mリーグ</title>
+		<desc lang="ja">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
+雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
 	</programme>
 	<programme start="20210905003000 +0000" stop="20210905010300 +0000" channel="TBS2.jp">
 		<title lang="ja">S☆1</title>
@@ -879,14 +887,6 @@
 ▽サッカー日本代表森保ＪＡＰＡＮ最新情報
 ▽サッカー林大地
 ▽プロ野球</desc>
-	</programme>
-	<programme start="20210904235500 +0000" stop="20210905002000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">そろそろ にちようチャップリン</title>
-		<desc lang="ja">【次に来るかもしれないお初芸人大集合！はじめてチャップリン】号泣復活！後輩前にド緊張!?▼インポッシブルの秘蔵っ子ほか注目若手続々登場▼千鳥・アンガールズ田中</desc>
-	</programme>
-	<programme start="20210905002000 +0000" stop="20210905005000 +0000" channel="TVTokyo.jp">
-		<title lang="ja">FOOT×BRAIN</title>
-		<desc lang="ja">９月１２日に日本初の女子プロサッカーリーグＷＥリーグが開幕！しかし、開幕間近でも世間で話題になっているとは言えない…そこで今夜はＷＥリーグの現在地を考える。</desc>
 	</programme>
 	<programme start="20210905005000 +0000" stop="20210905012000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">二軒目どうする?〜ツマミのハナシ〜</title>
@@ -1050,9 +1050,14 @@
 		<title lang="ja">乃木坂工事中</title>
 		<desc lang="ja">今週の乃木坂工事中は「３期生１２人でラスト晩餐会！」</desc>
 	</programme>
-	<programme start="20210904234000 +0000" stop="20210905003500 +0000" channel="FujiTV.jp">
-		<title lang="ja">准教授・高槻彰良の推察 season1</title>
-		<desc lang="ja">声優志望の桂木奈々子（鞘師里保）が一人暮らしをしている部屋で、怪異現象が連続して発生しているという。依頼を受けた高槻（伊野尾慧）が件の部屋に泊まってみると…</desc>
+	<programme start="20210906003000 +0000" stop="20210906003500 +0000" channel="TVTokyo.jp">
+		<title lang="ja"></title>
+		<desc lang="ja">世界中の「なんじゃこりゃ!?」と言いたくなるような不思議を大調査！“スペインの泡地獄”“メキシコの４色の湖”“イエメンの地獄の井戸”など絶景と謎を解明する２時間</desc>
+	</programme>
+	<programme start="20210906003500 +0000" stop="20210906010500 +0000" channel="TVTokyo.jp">
+		<title lang="ja">そこ曲がったら、櫻坂?</title>
+		<desc lang="ja">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
+見逃せないパフォーマンスが続々と登場します。</desc>
 	</programme>
 	<programme start="20210905003500 +0000" stop="20210905012000 +0000" channel="FujiTV.jp">
 		<title lang="ja">S-PARK</title>
@@ -1210,17 +1215,9 @@
 		<title lang="ja">S-PARK</title>
 		<desc lang="ja">スポーツ・パーク「Ｓ－ＰＡＲＫ」▼佳境！大谷翔平ＨＲ王争い▼パラ最終日！マラソン・道下美里悲願の金は▼五輪連覇・大野将平×三連覇・野村忠宏▼阪神×巨人</desc>
 	</programme>
-	<programme start="20210904233000 +0000" stop="20210905000000 +0000" channel="Tokyo MX">
-		<title lang="ja">魔法科高校の優等生</title>
-		<desc lang="ja"> </desc>
-	</programme>
-	<programme start="20210905000000 +0000" stop="20210905003000 +0000" channel="Tokyo MX">
-		<title lang="ja">マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-</title>
-		<desc lang="ja">＃６</desc>
-	</programme>
-	<programme start="20210905003000 +0000" stop="20210905005700 +0000" channel="Tokyo MX">
-		<title lang="ja">抱かれたい男1位に脅されています。</title>
-		<desc lang="ja"> </desc>
+	<programme start="20210906003500 +0000" stop="20210906013000 +0000" channel="FujiTV.jp">
+		<title lang="ja">Love music</title>
+		<desc lang="ja">川谷絵音、小籔千豊、くっきー！、中嶋イッキュウ、新垣隆、異色５人組のジェニーハイそれぞれが語る“〇〇な１曲”で個性爆発！▽ＮＡＭＢＡ６９ライブ＆舞台裏</desc>
 	</programme>
 	<programme start="20210905005700 +0000" stop="20210905010000 +0000" channel="Tokyo MX">
 		<title lang="ja">ダイナ荘びより</title>
@@ -1421,5 +1418,13 @@
 	<programme start="20210906000000 +0000" stop="20210906003000 +0000" channel="Tokyo MX">
 		<title lang="ja">無職転生 〜異世界行ったら本気だす〜</title>
 		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210906003000 +0000" stop="20210906010000 +0000" channel="Tokyo MX">
+		<title lang="ja">探偵はもう、死んでいる。</title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210906010000 +0000" stop="20210906010500 +0000" channel="Tokyo MX">
+		<title lang="ja">じょしおちっ!〜2階から女の子が…降ってきた!?〜</title>
+		<desc lang="ja">「あの子へとつながる、穴。」</desc>
 	</programme>
 </tv>
