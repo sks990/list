@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="epg2xml 1.5.2">
@@ -278,6 +278,18 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja"></desc>
   </programme>
+  <programme start="20210906130500 +0900" stop="20210906135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ja">列島ニュース</title>
+    <desc lang="ja">ＮＨＫ各放送局のお昼のニュースを集めて、キーステーションの大阪拠点放送局からお届け。地域の最新ニュース、新型コロナ関連の情報などをダイジェストでお伝えします。</desc>
+  </programme>
+  <programme start="20210906135500 +0900" stop="20210906140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ja">テレビ体操</title>
+    <desc lang="ja">岡本美佳、幅しげみ、清水沙希、今井菜津美、戸塚寛子</desc>
+  </programme>
+  <programme start="20210906140000 +0900" stop="20210906140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース・気象情報</title>
+    <desc lang="ja"></desc>
+  </programme>
   <programme start="20210905123000 +0900" stop="20210905140000 +0900" channel="eTele.jp">
     <title lang="ja">第69回 NHK杯テレビ囲碁トーナメント</title>
     <desc lang="ja">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。２回戦第５局は清成哲也九段と富士田明彦七段の対戦。</desc>
@@ -522,9 +534,21 @@
     <title lang="ja">NHK手話ニュース</title>
     <desc lang="ja">【キャスター】工藤咲子</desc>
   </programme>
-  <programme start="20210905124500 +0900" stop="20210905134500 +0900" channel="NipponTV.jp">
-    <title lang="ja">サンバリュ</title>
-    <desc lang="ja">チョコプラＭＣ！令和の最新ヒット曲から昭和歌謡まで！高得点を出すのが難しい「難曲」に王林、島太星、松本明子が挑む！完全クリアで１００万円獲得なるか？</desc>
+  <programme start="20210906130500 +0900" stop="20210906133500 +0900" channel="eTele.jp">
+    <title lang="ja">ハートネットTV</title>
+    <desc lang="ja">たんの吸引など、日常的なケアが必要な医療的ケア児は、全国に約２万人。子どもと家族が直面する居場所問題と、今年から運用が始まった新制度をドキュメントでお届け。</desc>
+  </programme>
+  <programme start="20210906133500 +0900" stop="20210906135000 +0900" channel="eTele.jp">
+    <title lang="ja">きょうの健康</title>
+    <desc lang="ja">女性がかかるがんで最も多いのが、乳がん。最新の調査で、日本人女性の９人に１人がかかることがわかっています。命を守るために必要なのは、「早期発見」することです。</desc>
+  </programme>
+  <programme start="20210906135000 +0900" stop="20210906140000 +0900" channel="eTele.jp">
+    <title lang="ja">視点・論点</title>
+    <desc lang="ja">「積乱雲を知って防災を」荒木健太郎（雲研究者）</desc>
+  </programme>
+  <programme start="20210906140000 +0900" stop="20210906141000 +0900" channel="eTele.jp">
+    <title lang="ja">NHK高校講座 ベーシック数学</title>
+    <desc lang="ja">方程式なんて将来使わないじゃん、という人がときどきいます。いえいえそんなことはありません。身近な題材を２次方程式で解いてみましょう。</desc>
   </programme>
   <programme start="20210905134500 +0900" stop="20210905152500 +0900" channel="NipponTV.jp">
     <title lang="ja">高校生クイズ今年はソウゾウ脳だ!直前SP</title>
@@ -640,9 +664,9 @@
     <title lang="ja">ヒルナンデス!</title>
     <desc lang="ja">榊原郁恵が感動！絶景箱根で親孝行の旅！女性に人気の映えるホテルとは？▽３名の女芸人が〇〇するだけダイエットに挑戦！大豆ミート＆糖質オフ…話題の方法が続々！</desc>
   </programme>
-  <programme start="20210905125500 +0900" stop="20210905135500 +0900" channel="Asahi.jp">
-    <title lang="ja">東京2020パラリンピック</title>
-    <desc lang="ja">大会終盤に行われる注目種目「車いすテニス」！世界ランク１位“レジェンド”の国枝慎吾や、リオパラ銅メダリスト・上地結衣が見せた激戦を松岡修造が特別解説！</desc>
+  <programme start="20210906135500 +0900" stop="20210906155000 +0900" channel="NipponTV.jp">
+    <title lang="ja">情報ライブ ミヤネ屋</title>
+    <desc lang="ja">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
   <programme start="20210905135500 +0900" stop="20210905145500 +0900" channel="Asahi.jp">
     <title lang="ja">ナニコレ珍百景</title>
@@ -772,18 +796,18 @@
     <title lang="ja">徹子の部屋</title>
     <desc lang="ja">〜同世代の歌手仲間が次々と逝き…〜田辺靖雄さん＆九重佑三子さん夫妻が今日のゲストです。</desc>
   </programme>
-  <programme start="20210905125400 +0900" stop="20210905130000 +0900" channel="TBS2.jp">
-    <title lang="ja">dai-docoro☆ベジタ</title>
-    <desc lang="ja">白菜は塩もみで細胞が壊れ、酵素が働きうま味ＵＰ★白菜のビタミンＣ×明太子のビタミンＢ１で疲労を和らげる効果が期待★白菜＆リンゴＷの食物繊維で腸内環境に嬉し〜い♪</desc>
+  <programme start="20210906133000 +0900" stop="20210906134500 +0900" channel="Asahi.jp">
+    <title lang="ja">上沼恵美子のおしゃべりクッキング</title>
+    <desc lang="ja">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理は、旨みたっぷりでご飯がすすむ一品！</desc>
   </programme>
-  <programme start="20210905130000 +0900" stop="20210905133000 +0900" channel="TBS2.jp">
-    <title lang="ja">それSnow Manにやらせて下さい</title>
-    <desc lang="ja">Snow Manはアイドル以外の職業だったら給料はいくら？実際にメンバーが面接＆ガチ査定！▽【ラウール×フードファイター】＆【佐久間×？？】まさかの高額査定が…</desc>
+  <programme start="20210906134500 +0900" stop="20210906134900 +0900" channel="Asahi.jp">
+    <title lang="ja">東京サイト</title>
+    <desc lang="ja">現在、地下24ｍに建設中の巨大下水道管を取材。大雨の時、街に降った雨水を集めて流す浸水対策専用の下水道管です。25ｍプール100杯分の水を流し込むことができます。</desc>
   </programme>
-  <programme start="20210905133000 +0900" stop="20210905135700 +0900" channel="TBS2.jp">
-    <title lang="ja">ウッチャン式</title>
-    <desc lang="ja">߈ᣀ즻⣂룃죃プクイズ番組」滝沢カレンがかつてない“緊張感ゼロ”のクイズ番組をプロデュース！
-滝沢カレン式クイズ番組に東京五輪金メダリスト、日本語学者も困惑⁉</desc>
+  <programme start="20210906134900 +0900" stop="20210906154300 +0900" channel="Asahi.jp">
+    <title lang="ja">科捜研の女13</title>
+    <desc lang="ja">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
   </programme>
   <programme start="20210905135700 +0900" stop="20210905140000 +0900" channel="TBS2.jp">
     <title lang="ja">四季折々の贈り物</title>
@@ -823,7 +847,7 @@
   </programme>
   <programme start="20210905190000 +0900" stop="20210905210000 +0900" channel="TBS2.jp">
     <title lang="ja">坂上&指原のつぶれない店</title>
-    <desc lang="ja">߈ᣀগ妜즜।磁ᣂ磃죃㥺禿ঈ楌ꣀ쥛㯼᯼楏秷ꣀ䣃ᣂ磃죃㥺磂⥾饺娪烈민ᥛ⥯累袄毼ᣁ죁㣁棂㥯累胗急増中ネットカフェ快活クラブ×自転車界のユニクロ・あさひって？</desc>
+    <desc lang="ja">🈑　日本最大のチェーン店激戦区「国道１６号線」沿いチェーン店を徹底調査！回転寿司№１がってん寿司×急増中ネットカフェ快活クラブ×自転車界のユニクロ・あさひって？</desc>
   </programme>
   <programme start="20210905210000 +0900" stop="20210905215400 +0900" channel="TBS2.jp">
     <title lang="ja">TOKYO MER〜走る緊急救命室〜</title>
@@ -901,6 +925,10 @@
   <programme start="20210906102500 +0900" stop="20210906135500 +0900" channel="TBS2.jp">
     <title lang="ja">ひるおび!</title>
     <desc lang="ja">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
+  </programme>
+  <programme start="20210906135500 +0900" stop="20210906154900 +0900" channel="TBS2.jp">
+    <title lang="ja">ゴゴスマ〜GOGO!Smile!〜</title>
+    <desc lang="ja">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」をやさしくお伝えします！</desc>
   </programme>
   <programme start="20210905125400 +0900" stop="20210905140000 +0900" channel="TVTokyo.jp">
     <title lang="ja">開運!なんでも鑑定団</title>
@@ -1050,13 +1078,9 @@
     <title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
     <desc lang="ja">あなたのご飯見せて下さい▽三重県答志島…海女の島のうどん＆ウタセエビのかき揚げ▽高知県土佐市…かつお炊き込みご飯▽東京都中野区…チリ料理店の辛いパスタ</desc>
   </programme>
-  <programme start="20210905120000 +0900" stop="20210905130000 +0900" channel="FujiTV.jp">
-    <title lang="ja">東京2020パラリンピック ハイライト</title>
-    <desc lang="ja">パラリンピック初出場ながら、メダル獲得を目指した日本代表の戦いの軌跡…選手たちの人生や素顔、さらにチームを支える意外な人たちの「超越」もお伝えします！</desc>
-  </programme>
-  <programme start="20210905130000 +0900" stop="20210905133000 +0900" channel="FujiTV.jp">
-    <title lang="ja">49thフジサンケイクラシック</title>
-    <desc lang="ja">石川遼１年９カ月ぶりＶ＆大会３勝目へ！ディフェンディングチャンピオン星野陸也の猛チャージは？男子の迫力のプレーと白熱の激闘を生中継でお届けします！</desc>
+  <programme start="20210906134000 +0900" stop="20210906154000 +0900" channel="TVTokyo.jp">
+    <title lang="ja">午後のロードショー</title>
+    <desc lang="ja">新発明を駆使してアメリカ乗っ取りをたくらむ天才科学者に、破天荒な２人の連邦特別捜査官が立ち向かう！ウィル・スミス×ケビン・クライン競演のアクション大作！</desc>
   </programme>
   <programme start="20210905133000 +0900" stop="20210905150000 +0900" channel="FujiTV.jp">
     <title lang="ja">49thフジサンケイクラシック</title>
@@ -1161,14 +1185,6 @@
   <programme start="20210906115500 +0900" stop="20210906144500 +0900" channel="FujiTV.jp">
     <title lang="ja">バイキングMORE</title>
     <desc lang="ja">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-  </programme>
-  <programme start="20210905125500 +0900" stop="20210905130000 +0900" channel="Tokyo MX">
-    <title lang="ja">MX news FLAG</title>
-    <desc lang="ja">東京の様々なニュースをお伝えします。</desc>
-  </programme>
-  <programme start="20210905130000 +0900" stop="20210905133000 +0900" channel="Tokyo MX">
-    <title lang="ja"></title>
-    <desc lang="ja"> </desc>
   </programme>
   <programme start="20210905133000 +0900" stop="20210905140000 +0900" channel="Tokyo MX">
     <title lang="ja"></title>
@@ -1353,5 +1369,13 @@
   <programme start="20210906130000 +0900" stop="20210906135500 +0900" channel="Tokyo MX">
     <title lang="ja">キム秘書はいったい、なぜ?</title>
     <desc lang="ja">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
+  </programme>
+  <programme start="20210906135500 +0900" stop="20210906140000 +0900" channel="Tokyo MX">
+    <title lang="ja">MX news FLAG</title>
+    <desc lang="ja">東京の様々なニュースをお伝えします。</desc>
+  </programme>
+  <programme start="20210906140000 +0900" stop="20210906143000 +0900" channel="Tokyo MX">
+    <title lang="ja"></title>
+    <desc lang="ja"> </desc>
   </programme>
 </tv>
