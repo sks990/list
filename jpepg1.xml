@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210906025000 +0900" stop="20210906033500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">アンという名の少女</title>
-    <desc lang="en">世界中で愛されているモンゴメリ作の不朽の名作『赤毛のアン』をドラマ化。最終回。マシューが倒れ、農場が危機に。家族と生活を守るために、アンとマリラは奔走する。</desc>
-  </programme>
-  <programme start="20210906033500 +0900" stop="20210906034000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">＜豪華キャスト編＞ドラマの魅力でもある池松壮亮をはじめとする豪華キャスト。撮影に密着することで見えた俳優たちの姿。彼らは果たして演出家・オダギリをどう見たのか。</desc>
-  </programme>
   <programme start="20210906034000 +0900" stop="20210906043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
@@ -329,6 +321,10 @@
   <programme start="20210907021400 +0900" stop="20210907030200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">スポーツ×ヒューマン</title>
     <desc lang="en">レスリング女子日本代表、向田真優は２年前コーチの志土地翔大と婚約した。「五輪を前に恋愛している場合か」―批判の声にも負けず、金メダルを目指す２人の姿を追った。</desc>
+  </programme>
+  <programme start="20210907030200 +0900" stop="20210907040200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北海道・かわいい動物たち〜さわやか自然百景から〜</title>
+    <desc lang="en">日本各地の自然や風景、そこに暮らす生きものたちの姿を紹介してきた「さわやか自然百景」。北海道で撮影した映像の中から、動物たちの愛らしい姿をたっぷりお届けします！</desc>
   </programme>
   <programme start="20210906021500 +0900" stop="20210906053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -682,7 +678,7 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210906030000 +0900" stop="20210906042800 +0900" channel="NipponTV.jp">
+  <programme start="20210906040000 +0900" stop="20210906042800 +0900" channel="NipponTV.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
@@ -775,10 +771,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
   </programme>
-<programme start="20210906030000 +0900" stop="20210906035900 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
-</programme>
+  <programme start="20210907035400 +0900" stop="20210907042400 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
+  </programme>
 <programme start="20210906035900 +0900" stop="20210906040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
@@ -895,9 +891,13 @@ by.Shankar / Jaikishan</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20210906030000 +0900" stop="20210906035900 +0900" channel="TBS2.jp">
+<programme start="20210907033000 +0900" stop="20210907040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en"></desc>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20210907040000 +0900" stop="20210907045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「大奥の女」松平健(他)▽このところ、大奥出入りの商人たちが奥女中に派手にワイロをばらまいているらしいとの噂が流れていた。そんな中、病弱な旗本と偶然出会った吉宗は…</desc>
 </programme>
 <programme start="20210906035900 +0900" stop="20210906040000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -995,7 +995,11 @@ by.Shankar / Jaikishan</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20210906030000 +0900" stop="20210906051000 +0900" channel="TVTokyo.jp">
+<programme start="20210907034500 +0900" stop="20210907042500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+</programme>
+<programme start="20210906040000 +0900" stop="20210906051000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1144,9 +1148,17 @@ by.Shankar / Jaikishan</desc>
   <desc lang="en">【ゲスト】TEAM　SHACHI、竹内唯人、武藤彩未
 【ナビゲーター】南海キャンディーズ</desc>
 </programme>
-<programme start="20210906030000 +0900" stop="20210906040000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20210907032000 +0900" stop="20210907035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">あにレコTV</title>
+  <desc lang="en">MCはノンスタ井上裕介と美山加恋！▽「オッドタクシー」特集！ヤノ役・ラッパーMETEORがスタジオに！▽「ペッパピッグ」特集！世界中から愛される作品の魅力を深掘り！</desc>
+</programme>
+<programme start="20210907035000 +0900" stop="20210907035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+</programme>
+<programme start="20210907035500 +0900" stop="20210907041000 +0900" channel="TVTokyo.jp">
+  <title lang="en">家、ついて行ってイイですか?(明け方)</title>
+  <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
 </programme>
 <programme start="20210906040000 +0900" stop="20210906045500 +0900" channel="FujiTV.jp">
   <title lang="en">クイズ!脳ベルSHOW</title>
@@ -1236,7 +1248,19 @@ by.Shankar / Jaikishan</desc>
   <title lang="en">偶然見つけたハル</title>
   <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
 </programme>
-<programme start="20210906030000 +0900" stop="20210906050000 +0900" channel="Tokyo MX">
+<programme start="20210907031500 +0900" stop="20210907034500 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+</programme>
+<programme start="20210907034500 +0900" stop="20210907040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+</programme>
+<programme start="20210907040000 +0900" stop="20210907045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+</programme>
+<programme start="20210906040000 +0900" stop="20210906050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1423,5 +1447,17 @@ by.Shankar / Jaikishan</desc>
 <programme start="20210907023500 +0900" stop="20210907030500 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
   <desc lang="en">そいそ〜すとショユモンＧＯ　前編</desc>
+</programme>
+<programme start="20210907030500 +0900" stop="20210907033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210907033500 +0900" stop="20210907040000 +0900" channel="Tokyo MX">
+  <title lang="en">洋上の楽園クルーズ</title>
+  <desc lang="en">「絶景の氷河を巡る　魅惑のアラスカクルーズ」</desc>
+</programme>
+<programme start="20210907040000 +0900" stop="20210907043000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 </tv>
