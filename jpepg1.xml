@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210906003500 +0900" stop="20210906012000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">パリの篤太夫は、証券取引所などを巡り、発見の連続に胸が高鳴る。しかし、突然、幕府から政権を返上したという知らせが届く。日本で何が起こっているのか？一行は戸惑う。</desc>
-  </programme>
   <programme start="20210906012000 +0900" stop="20210906020500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">青天を衝（つ）け</title>
     <desc lang="en">帰国した篤太夫が知る幕府崩壊のてんまつ。慶喜の動向や成一郎、惇忠、平九郎たちのその後を聞きどうこくする。頭の整理がつかない中篤太夫は６年ぶりに故郷・血洗島へ戻る</desc>
@@ -333,6 +329,10 @@
   <programme start="20210907004800 +0900" stop="20210907013400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">SONGS</title>
     <desc lang="en">布施明がＳＯＮＧＳ初登場！布施の歌をカラオケで愛唱するという大泉洋が初対談！「シクラメンのかほり」「君は薔薇より美しい」「マイ・ウェイ」など代表曲を披露！</desc>
+  </programme>
+  <programme start="20210907013400 +0900" stop="20210907021400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽人道支援に立ちはだかるタリバンの脅威▽マンデービズ　ダイムラーが自動車電動化を宣言▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20210906004500 +0900" stop="20210906021500 +0900" channel="eTele.jp">
     <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
@@ -690,10 +690,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210906002500 +0900" stop="20210906013000 +0900" channel="NipponTV.jp">
-    <title lang="en">Going! SportsNews</title>
-    <desc lang="en">豪華メダリスト“メダル獲得の秘密”▼結婚５日後に失った右腕…トライアスロン宇田の妻が明かす“奇跡”舞台ウラ▼競泳金木村＆銀富田を支えた大人気モデルＳ!?</desc>
-  </programme>
   <programme start="20210906013000 +0900" stop="20210906020000 +0900" channel="NipponTV.jp">
     <title lang="en">NNNドキュメント</title>
     <desc lang="en">両足がない長谷川奨くん（１３）。障がいは自分を強くしてくれるー車いすバスケ、マラソン、やりたい事はなんでも挑戦します。できないこともあるけど、いつも明るく前へ！</desc>
@@ -783,15 +779,14 @@
     <title lang="en">武士スタント逢坂くん!</title>
     <desc lang="en">武士が漫画家のアシスタント（＝武士スタント）に！？漫画に出会った逢坂くんが時代を超えて「エロ」と「恋」を追求するコメディ＃7　「エロ禁止で逢坂くんが学んだこと」</desc>
   </programme>
-<programme start="20210906003000 +0900" stop="20210906010000 +0900" channel="Asahi.jp">
-  <title lang="en">ReAL eSports News</title>
-  <desc lang="en">山里亮太のｅスポーツ情報番組『ＲｅＡＬｅ』（りあるいー）！ダイアン・津田参戦＆高校№１決定＆親子大会など最新ｅスポーツ情報もりだくさん！パンサー・菅も大興奮‼</desc>
-</programme>
-<programme start="20210906010000 +0900" stop="20210906013000 +0900" channel="Asahi.jp">
-  <title lang="en">熱闘!Mリーグ</title>
-  <desc lang="en">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
-雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
-</programme>
+  <programme start="20210907012900 +0900" stop="20210907015900 +0900" channel="NipponTV.jp">
+    <title lang="en">乃木坂スター誕生!</title>
+    <desc lang="en">乃木坂４６が熱唱！80年代アニソンメドレー▽ラムちゃん遠藤「うる星やつら」▽賀喜＆金川＆松尾セクシー三姉妹「キャッツ・アイ」▽筒井が岩崎良美ご本人と「タッチ」</desc>
+  </programme>
+  <programme start="20210907015900 +0900" stop="20210907025400 +0900" channel="NipponTV.jp">
+    <title lang="en">news zero×映画「竜とそばかすの姫」〜誰も見たことのない世界を〜</title>
+    <desc lang="en">佐藤健、常田大希から「アナ雪」デザイナーまで世界の才能が細田守最新作に集結▽チャート席巻歌姫「ベル」の正体は圧倒的才能シンガー▽声優初挑戦ＹＯＡＳＯＢＩ幾田りら</desc>
+  </programme>
 <programme start="20210906013000 +0900" stop="20210906024000 +0900" channel="Asahi.jp">
   <title lang="en">バラバラフェス</title>
   <desc lang="en">テレビ朝日で深夜に放送中の「バラバラ大作戦」の豪華ＭＣ陣が大集結！８月１２日に開催されたバラバラ大作戦初のオンラインイベント『バラバラフェス』の特別編を放送！</desc>
@@ -890,14 +885,17 @@ by.Shankar / Jaikishan</desc>
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
 </programme>
-<programme start="20210906000000 +0900" stop="20210906010300 +0900" channel="TBS2.jp">
-  <title lang="en">S☆1</title>
-  <desc lang="en">▽ＭＬＢ大谷ホームラン王へ
-▽全米オープン大坂
-▽パラ女子マラソン、バドミントン
-▽サッカールヴァン杯＆特集！林大地
-▽次は北京へ！平野歩夢
-▽プロ野球</desc>
+<programme start="20210907012000 +0900" stop="20210907012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+</programme>
+<programme start="20210907012600 +0900" stop="20210907015600 +0900" channel="Asahi.jp">
+  <title lang="en">musicる TV</title>
+  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
+</programme>
+<programme start="20210907015600 +0900" stop="20210907021600 +0900" channel="Asahi.jp">
+  <title lang="en">さまぁ〜ず論</title>
+  <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
 </programme>
 <programme start="20210906010300 +0900" stop="20210906020300 +0900" channel="TBS2.jp">
   <title lang="en">ドキュメンタリー「解放区」</title>
@@ -994,14 +992,13 @@ by.Shankar / Jaikishan</desc>
   <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
   <desc lang="en">漫才、コント、何でもありの“賞金奪い合い”総合お笑いトーナメント！▼芸歴15年以上集結！無冠の実力派漫才師バトル！【囲碁将棋vs学天即vsタイムマシーン3号】</desc>
 </programme>
-<programme start="20210906003500 +0900" stop="20210906010500 +0900" channel="TVTokyo.jp">
-  <title lang="en">そこ曲がったら、櫻坂?</title>
-  <desc lang="en">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
-見逃せないパフォーマンスが続々と登場します。</desc>
+<programme start="20210907012800 +0900" stop="20210907015800 +0900" channel="TBS2.jp">
+  <title lang="en">週刊EXILE</title>
+  <desc lang="en">岩田剛典の歌手デビューシングル 『korekara』ミュージックビデオ撮影に密着！！</desc>
 </programme>
-<programme start="20210906010500 +0900" stop="20210906013500 +0900" channel="TVTokyo.jp">
-  <title lang="en">日向坂で会いましょう</title>
-  <desc lang="en">日向坂４６が、みんなを笑顔に変えるハッピー全開のバラエティ番組！様々なことに挑戦し、苦難を乗り越えトップアイドルへと成長していく姿を追いかけます!!</desc>
+<programme start="20210907015800 +0900" stop="20210907022800 +0900" channel="TBS2.jp">
+  <title lang="en">イコノイ、どーですか?</title>
+  <desc lang="en">指原莉乃がプロデュースするアイドル、＝ＬＯＶＥ（イコールラブ）と≠ＭＥ（ノットイコールミー）の冠番組。ＭＣニューヨークがメンバーたちの魅力を売り込みます！</desc>
 </programme>
 <programme start="20210906013500 +0900" stop="20210906020500 +0900" channel="TVTokyo.jp">
   <title lang="en">東京リベンジャーズ</title>
@@ -1143,9 +1140,13 @@ by.Shankar / Jaikishan</desc>
   <title lang="en">ハロドリ。</title>
   <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼横浜アリーナで開催された大型イベントに出演した新グループ８人の舞台裏▼新曲ライブパフォーマンスをＴＶ初公開</desc>
 </programme>
-<programme start="20210906003500 +0900" stop="20210906013000 +0900" channel="FujiTV.jp">
-  <title lang="en">Love music</title>
-  <desc lang="en">川谷絵音、小籔千豊、くっきー！、中嶋イッキュウ、新垣隆、異色５人組のジェニーハイそれぞれが語る“〇〇な１曲”で個性爆発！▽ＮＡＭＢＡ６９ライブ＆舞台裏</desc>
+<programme start="20210907013000 +0900" stop="20210907020000 +0900" channel="TVTokyo.jp">
+  <title lang="en">うらみちお兄さん</title>
+  <desc lang="en">今度は猛暑の中、冬用ミュージックビデオの撮影が行われる。暑苦しいわりに要領を得ない出木田の指示に出演者の精神力が削られていく。普段クールな熊谷の様子もおかしく…</desc>
+</programme>
+<programme start="20210907020000 +0900" stop="20210907023000 +0900" channel="TVTokyo.jp">
+  <title lang="en">精霊幻想記</title>
+  <desc lang="en">精霊の民の里に帰ってきたリオ。翌朝目を覚ますと隣には裸で眠っている見知らぬ美少女が！？色めき立つラティーファと里の少女達だが、その美少女は契約精霊であるという。</desc>
 </programme>
 <programme start="20210906013000 +0900" stop="20210906020000 +0900" channel="FujiTV.jp">
   <title lang="en">おかべろ</title>
@@ -1239,17 +1240,13 @@ by.Shankar / Jaikishan</desc>
   <title lang="en">百合だのかんだの</title>
   <desc lang="en">第七話「共依存からの生還」</desc>
 </programme>
-<programme start="20210906003000 +0900" stop="20210906010000 +0900" channel="Tokyo MX">
-  <title lang="en">探偵はもう、死んでいる。</title>
-  <desc lang="en"> </desc>
+<programme start="20210907012500 +0900" stop="20210907015000 +0900" channel="FujiTV.jp">
+  <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
+  <desc lang="en">魔女たちがリニューアル！川島明＆ＧＥＮＫＩＮＧがお届けするリアルトーク通販バラエティ！美容・健康・ファッションなどを徹底的に品定め＆本音トーク！！</desc>
 </programme>
-<programme start="20210906010000 +0900" stop="20210906010500 +0900" channel="Tokyo MX">
-  <title lang="en">じょしおちっ!〜2階から女の子が…降ってきた!?〜</title>
-  <desc lang="en">「あの子へとつながる、穴。」</desc>
-</programme>
-<programme start="20210906010500 +0900" stop="20210906013500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210907015000 +0900" stop="20210907021500 +0900" channel="FujiTV.jp">
+  <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
+  <desc lang="en">ＴＩＦ２０２１に出演するハロプロ研修生がスタジオに登場！それぞれへの不満を暴露も可愛すぎる展開に赤面！初々しい特技披露も！お見逃しなく！</desc>
 </programme>
 <programme start="20210906013500 +0900" stop="20210906020500 +0900" channel="Tokyo MX">
   <title lang="en">ええじゃない課Biz</title>
@@ -1424,6 +1421,14 @@ by.Shankar / Jaikishan</desc>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210907010000 +0900" stop="20210907010500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210907010500 +0900" stop="20210907013500 +0900" channel="Tokyo MX">
+  <title lang="en">U字工事の旅!発見</title>
+  <desc lang="en">八方ヶ原</desc>
+</programme>
+<programme start="20210907013500 +0900" stop="20210907020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
