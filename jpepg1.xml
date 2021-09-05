@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210905115400 +0000" stop="20210905120000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">気象情報</title>
-    <desc lang="ja"></desc>
-  </programme>
-  <programme start="20210905120000 +0000" stop="20210905121000 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja">【キャスター】佐藤誠太</desc>
-  </programme>
-  <programme start="20210905121000 +0000" stop="20210905121500 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja">ニュース</title>
-    <desc lang="ja"></desc>
-  </programme>
   <programme start="20210905121500 +0000" stop="20210905142000 +0000" channel="NHK1Tokyo.jp">
     <title lang="ja">東京2020パラリンピック</title>
     <desc lang="ja">◇車いすバスケットボール　男子・決勝「日本×アメリカ」（中継）【出演】武井壮，岸田奈美，根木慎志，【アナウンサー】松田利仁亜，保里小百合ほか</desc>
@@ -75,7 +63,7 @@
     <desc lang="ja"></desc>
   </programme>
   <programme start="20210905160500 +0000" stop="20210905160700 +0000" channel="NHK1Tokyo.jp">
-    <title lang="ja"></title>
+    <title lang="ja">新型コロナ 命を守る行動を</title>
     <desc lang="ja">接種後の副反応や体調不良はどの程度の割合で起きるのか？先行接種した医療従事者２万人の調査データをもとに、発熱や消化器系の症状、リンパ節の腫れなどの頻度を紹介する</desc>
   </programme>
   <programme start="20210905160700 +0000" stop="20210905175900 +0000" channel="NHK1Tokyo.jp">
@@ -270,14 +258,26 @@
     <title lang="ja">ニュース</title>
     <desc lang="ja">【キャスター】三條雅幸</desc>
   </programme>
-	<programme start="20210905115400 +0000" stop="20210905122900 +0000" channel="eTele.jp">
-		<title lang="ja">東京2020パラリンピック</title>
-		<desc lang="ja">◇バドミントン　男子ダブルス　ＷＨ１−２・３位決定戦「梶原大暉／村山浩」戦（中継）</desc>
-	</programme>
-	<programme start="20210905122900 +0000" stop="20210905123000 +0000" channel="eTele.jp">
-		<title lang="ja"></title>
-		<desc lang="ja">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
-	</programme>
+  <programme start="20210906121500 +0000" stop="20210906122000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
+  <programme start="20210906122000 +0000" stop="20210906124300 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">うまいッ!</title>
+    <desc lang="ja">アフリカ原産のダチョウは“赤身肉の女王”と呼ばれるほど美味！コロナ禍にあってもネットを通じてファン急増中！話題性とおいしさを備えたダチョウ肉の新レシピをご紹介！</desc>
+  </programme>
+  <programme start="20210906124300 +0000" stop="20210906124500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">新型コロナ 命を守る行動を</title>
+    <desc lang="ja">新型コロナに感染した場合、自宅療養で気づかないうちに症状が悪化するケースがある。顔色を見る。頻呼吸になっていないかなどに、自分だけでなく周りの人も注意を。</desc>
+  </programme>
+  <programme start="20210906124500 +0000" stop="20210906130000 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">連続テレビ小説 おかえりモネ</title>
+    <desc lang="ja">ようやく気持ちが通じ合った百音（清原果耶）と菅波（坂口健太郎）は、登米のみんなに祝福される。同じころ莉子（今田美桜）は、番組の視聴率が原因で悩んでいた。</desc>
+  </programme>
+  <programme start="20210906130000 +0000" stop="20210906130500 +0000" channel="NHK1Tokyo.jp">
+    <title lang="ja">ニュース</title>
+    <desc lang="ja"></desc>
+  </programme>
 	<programme start="20210905123000 +0000" stop="20210905140000 +0000" channel="eTele.jp">
 		<title lang="ja">第69回 NHK杯テレビ囲碁トーナメント</title>
 		<desc lang="ja">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。２回戦第５局は清成哲也九段と富士田明彦七段の対戦。</desc>
@@ -514,9 +514,13 @@
 		<title lang="ja">にっぽんの芸能</title>
 		<desc lang="ja">八岐大蛇伝説を元にした舞踊「日本振袖始」。主演の尾上紫と振付の尾上墨雪親子がトークゲスト。後半は新作舞踊「門司春秋」の話題と、今回から始まる着物の新コーナーを。</desc>
 	</programme>
-	<programme start="20210905115500 +0000" stop="20210905124500 +0000" channel="NipponTV.jp">
-		<title lang="ja">土曜ドラマ「ボイスII」第8話に間に合うSP</title>
-		<desc lang="ja">唐沢寿明主演！真木よう子・増田貴久！１１０番通報を受ける緊急指令室（ECU）を舞台に「声」「音」を頼りに制限時間内に人々を救い出すタイムリミットサスペンス第２弾</desc>
+	<programme start="20210906125500 +0000" stop="20210906130000 +0000" channel="eTele.jp">
+		<title lang="ja">みんなのうた</title>
+		<desc lang="ja">「クマのぬいぐるみ」／「アフターマン」／「ユア　ハンド　マイ　ハート　〜Ｙｏｕｒ　Ｈａｎｄ，Ｍｙ　Ｈｅａｒｔ〜」／「恋するニワトリ」</desc>
+	</programme>
+	<programme start="20210906130000 +0000" stop="20210906130500 +0000" channel="eTele.jp">
+		<title lang="ja">NHK手話ニュース</title>
+		<desc lang="ja">【キャスター】工藤咲子</desc>
 	</programme>
 	<programme start="20210905124500 +0000" stop="20210905134500 +0000" channel="NipponTV.jp">
 		<title lang="ja">サンバリュ</title>
@@ -635,14 +639,6 @@
 	<programme start="20210906115500 +0000" stop="20210906135500 +0000" channel="NipponTV.jp">
 		<title lang="ja">ヒルナンデス!</title>
 		<desc lang="ja">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
-	</programme>
-	<programme start="20210905115000 +0000" stop="20210905120000 +0000" channel="Asahi.jp">
-		<title lang="ja">ANNニュース</title>
-		<desc lang="ja">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-	</programme>
-	<programme start="20210905120000 +0000" stop="20210905125500 +0000" channel="Asahi.jp">
-		<title lang="ja">ビートたけしのTVタックル</title>
-		<desc lang="ja">総裁選をめぐる混乱でコロナ対策は大丈夫⁉緊急事態宣言はいつ解除⁉日本とは違う世界のコロナ対応を緊急取材…指導者の強い権限は？ワクチンが十分な国での３回目接種は？</desc>
 	</programme>
 	<programme start="20210905125500 +0000" stop="20210905135500 +0000" channel="Asahi.jp">
 		<title lang="ja">東京2020パラリンピック</title>
@@ -772,9 +768,9 @@
 		<title lang="ja">大下容子ワイド!スクランブル</title>
 		<desc lang="ja">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
 	</programme>
-	<programme start="20210905114500 +0000" stop="20210905125400 +0000" channel="TBS2.jp">
-		<title lang="ja">アッコにおまかせ!</title>
-		<desc lang="ja">眞子さま結婚後はアメリカへ？生活どうなる？▼綾瀬はるか新型コロナによる肺炎で入院▼ワクチン接種してもコロナ感染？抗体量の変化を検証▼尾身会長「行動制限緩和」言及</desc>
+	<programme start="20210906130000 +0000" stop="20210906133000 +0000" channel="Asahi.jp">
+		<title lang="ja">徹子の部屋</title>
+		<desc lang="ja">〜同世代の歌手仲間が次々と逝き…〜田辺靖雄さん＆九重佑三子さん夫妻が今日のゲストです。</desc>
 	</programme>
 	<programme start="20210905125400 +0000" stop="20210905130000 +0000" channel="TBS2.jp">
 		<title lang="ja">dai-docoro☆ベジタ</title>
@@ -905,10 +901,6 @@
 	<programme start="20210906102500 +0000" stop="20210906135500 +0000" channel="TBS2.jp">
 		<title lang="ja">ひるおび!</title>
 		<desc lang="ja">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
-	</programme>
-	<programme start="20210905115500 +0000" stop="20210905125400 +0000" channel="TVTokyo.jp">
-		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
-		<desc lang="ja">茨城県稲敷市でご飯調査！マッシュルームの農家さん直伝…マッシュルームのチーズ焼きとパン粉焼き▽ブランド豚カツとトトロ焼き▽和歌山じねんじょ焼き▽柿農家さんご飯</desc>
 	</programme>
 	<programme start="20210905125400 +0000" stop="20210905140000 +0000" channel="TVTokyo.jp">
 		<title lang="ja">開運!なんでも鑑定団</title>
@@ -1056,10 +1048,6 @@
 		<title lang="ja">昼めし旅〜あなたのご飯見せてください!〜</title>
 		<desc lang="ja">あなたのご飯見せて下さい▽三重県答志島…海女の島のうどん＆ウタセエビのかき揚げ▽高知県土佐市…かつお炊き込みご飯▽東京都中野区…チリ料理店の辛いパスタ</desc>
 	</programme>
-	<programme start="20210905115000 +0000" stop="20210905120000 +0000" channel="FujiTV.jp">
-		<title lang="ja">FNN Live News days</title>
-		<desc lang="ja">週末の昼も「ライブニュース　デイズ」をお見逃しなく。民放で最大級の全国ネットワークを持つＦＮＮの記者が取材したニュースをお届けします。</desc>
-	</programme>
 	<programme start="20210905120000 +0000" stop="20210905130000 +0000" channel="FujiTV.jp">
 		<title lang="ja">東京2020パラリンピック ハイライト</title>
 		<desc lang="ja">パラリンピック初出場ながら、メダル獲得を目指した日本代表の戦いの軌跡…選手たちの人生や素顔、さらにチームを支える意外な人たちの「超越」もお伝えします！</desc>
@@ -1171,14 +1159,6 @@
 	<programme start="20210906115500 +0000" stop="20210906144500 +0000" channel="FujiTV.jp">
 		<title lang="ja">バイキングMORE</title>
 		<desc lang="ja">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-	</programme>
-	<programme start="20210905115500 +0000" stop="20210905125000 +0000" channel="Tokyo MX">
-		<title lang="ja">日曜はカラフル!!!</title>
-		<desc lang="ja">フワちゃん＆りゅうちぇる登場！▼女性が熱中するオンライン語学教室の魅力とは？▼東京の珍しい自動販売機を調査▼不倫映画出演柄本佑＆金子大地を直撃▼アンミカ＆内博貴</desc>
-	</programme>
-	<programme start="20210905125000 +0000" stop="20210905125500 +0000" channel="Tokyo MX">
-		<title lang="ja"></title>
-		<desc lang="ja"> </desc>
 	</programme>
 	<programme start="20210905125500 +0000" stop="20210905130000 +0000" channel="Tokyo MX">
 		<title lang="ja">MX news FLAG</title>
@@ -1364,4 +1344,13 @@
 		<title lang="ja"></title>
 		<desc lang="ja"> </desc>
 	</programme>
+	<programme start="20210906123000 +0000" stop="20210906130000 +0000" channel="Tokyo MX">
+		<title lang="ja"></title>
+		<desc lang="ja"> </desc>
+	</programme>
+	<programme start="20210906130000 +0000" stop="20210906135500 +0000" channel="Tokyo MX">
+		<title lang="ja">キム秘書はいったい、なぜ?</title>
+		<desc lang="ja">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
+	</programme>
+
 </tv>
