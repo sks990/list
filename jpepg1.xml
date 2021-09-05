@@ -50,11 +50,7 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210905140000 +0900" stop="20210905142000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210905142000 +0900" stop="20210905160000 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20210905145200 +0900" stop="20210905160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">東京2020パラリンピック</title>
     <desc lang="en">◇車いすバスケットボール　男子・３位決定戦「スペイン×イギリス」（録画）　【出演】武井壮，岸田奈美，根木慎志，【アナウンサー】松田利仁亜，保里小百合，中野淳ほか</desc>
   </programme>
@@ -290,13 +286,25 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210905123000 +0900" stop="20210905140000 +0900" channel="eTele.jp">
-    <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
-    <desc lang="en">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。２回戦第５局は清成哲也九段と富士田明彦七段の対戦。</desc>
+  <programme start="20210906140500 +0900" stop="20210906144700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">鶴瓶の家族に乾杯</title>
+    <desc lang="en">日本全国でぶっつけ本番の旅を繰り広げる「鶴瓶の家族に乾杯」。２０２０年特別編都道府県ＳＰの中から、笑福亭鶴瓶の笑いと涙の一人旅の名場面をえりすぐってお届けする。</desc>
   </programme>
-  <programme start="20210905140000 +0900" stop="20210905143000 +0900" channel="eTele.jp">
-    <title lang="en">日本の話芸</title>
-    <desc lang="en">三遊亭圓歌さんの落語「やかん工事中」をお送りします（令和３年６月１１日（金）昭島市・ＫＯＴＯＲＩホールで収録）</desc>
+  <programme start="20210906144700 +0900" stop="20210906144800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">明日へ1min．「みちのくモノがたり」</title>
+    <desc lang="en">東北のモノ作りを伝える「みちのくモノがたり」▼仙台のオルゴール作家熊野聡▼父から受け継いだ「仙台箪笥（たんす）」１４０年の技▼高度な技術が生み出す“進化の音色”</desc>
+  </programme>
+  <programme start="20210906144800 +0900" stop="20210906145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">デルタ株の広がりによる感染の急拡大。医療現場はかつてない事態に直面。若い世代でも重症患者が急増し、症状の進行も早くなっている。</desc>
+  </programme>
+  <programme start="20210906145000 +0900" stop="20210906150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ダーウィンが来た!10min.</title>
+    <desc lang="en">全身トゲトゲ、オーストラリアのかわいい珍獣ハリモグラ。まるで列車のように、何匹もが数珠つなぎで進む姿が目撃されている。その目的とは？大密着で謎の解明に挑む！</desc>
+  </programme>
+  <programme start="20210906150000 +0900" stop="20210906150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210905143000 +0900" stop="20210905150000 +0900" channel="eTele.jp">
     <title lang="en">ロッチと子羊〜迷えるあなたに哲学を〜</title>
@@ -550,6 +558,22 @@
     <title lang="en">NHK高校講座 ベーシック数学</title>
     <desc lang="en">方程式なんて将来使わないじゃん、という人がときどきいます。いえいえそんなことはありません。身近な題材を２次方程式で解いてみましょう。</desc>
   </programme>
+  <programme start="20210906141000 +0900" stop="20210906143000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 数学I</title>
+    <desc lang="en">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
+  </programme>
+  <programme start="20210906143000 +0900" stop="20210906144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 苦手を克服! ベーシック英語</title>
+    <desc lang="en">「高校の英語がわからない…」そんなキミのための基礎力ＵＰ講座。中１から中３までの英語のつまずきポイントを中心に文法の基礎を解りやすく説明するぞ！</desc>
+  </programme>
+  <programme start="20210906144000 +0900" stop="20210906150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 コミュニケーション英語I</title>
+    <desc lang="en">外国からのお客様に喜んでもらう「おもてなしの英語」ってどんなの？ホテルを舞台にトレンディエンジェルと一緒にすぐに使える実践的な英語を学んでいきます。</desc>
+  </programme>
+  <programme start="20210906150000 +0900" stop="20210906153000 +0900" channel="eTele.jp">
+    <title lang="en">日本の話芸</title>
+    <desc lang="en">三遊亭圓歌さんの落語「やかん工事中」をお送りします（令和３年６月１１日（金）昭島市・ＫＯＴＯＲＩホールで収録）</desc>
+  </programme>
   <programme start="20210905134500 +0900" stop="20210905152500 +0900" channel="NipponTV.jp">
     <title lang="en">高校生クイズ今年はソウゾウ脳だ!直前SP</title>
     <desc lang="en">今年の高校生クイズは生まれ変わる！テーマはソウゾウ脳…想像力＆創造力を問う難問にかまいたち＆伊沢も熱狂！昨年の全国大会で予習せよ！日向坂46の応援ソング初披露！</desc>
@@ -668,13 +692,6 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20210905135500 +0900" stop="20210905145500 +0900" channel="Asahi.jp">
-  <title lang="en">ナニコレ珍百景</title>
-  <desc lang="en">★日本全国の田舎で驚きの光景を発見
-▼福島・只見川沿いの山奥に消滅から50年後に復活した集落発見
-…渡し舟で行く絶景
-▼滋賀…民家の壁に謎のマークを入れる風習</desc>
-</programme>
 <programme start="20210905145500 +0900" stop="20210905161500 +0900" channel="Asahi.jp">
   <title lang="en">マツコ有吉 かりそめ天国</title>
   <desc lang="en">次回放送は10日（金）よる８時から！
@@ -809,10 +826,6 @@
   <title lang="en">科捜研の女13</title>
   <desc lang="en">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
 </programme>
-<programme start="20210905135700 +0900" stop="20210905140000 +0900" channel="TBS2.jp">
-  <title lang="en">四季折々の贈り物</title>
-  <desc lang="en">今回の贈り物は「梨」。和梨の魅力と言えば、そのシャリシャリ感。実は、この食感、実を守るためのものなんだそう。梨の収穫をして、コンポート作りにも挑戦しました。</desc>
-</programme>
 <programme start="20210905140000 +0900" stop="20210905150000 +0900" channel="TBS2.jp">
   <title lang="en">東京2020パラリンピック ハイライト</title>
   <desc lang="en">☆視覚障がいマラソン道下美里選手の金メダルなど日本陸上陣のここまでの活躍を一挙放送！☆驚異の世界記録もたっぷりとお届けします！</desc>
@@ -929,10 +942,6 @@
 <programme start="20210906135500 +0900" stop="20210906154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」をやさしくお伝えします！</desc>
-</programme>
-<programme start="20210905125400 +0900" stop="20210905140000 +0900" channel="TVTokyo.jp">
-  <title lang="en">開運!なんでも鑑定団</title>
-  <desc lang="en">■家康が残した…秀吉＜天下統一の戦い＞超貴重お宝か！？驚き値■美食陶芸家＜魯山人＞…織部焼６点に仰天鑑定額■＜サッカー秘宝＞に衝撃値…青春の思い出鑑定大会■</desc>
 </programme>
 <programme start="20210905140000 +0900" stop="20210905160000 +0900" channel="TVTokyo.jp">
   <title lang="en">警視庁特命刑事☆二人2〜新宿・荒木町コールドケース〜</title>
@@ -1186,13 +1195,9 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20210905133000 +0900" stop="20210905140000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210905140000 +0900" stop="20210905143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210906144500 +0900" stop="20210906154500 +0900" channel="FujiTV.jp">
+  <title lang="en">HERO</title>
+  <desc lang="en">鬼と呼ばれた検事・川尻部長の決断！秘密を知る少女の涙…置き引き事件の証人の心を開かせることができるのか！？検事の信念とプライドをかけた久利生と千佳のお勉強とは！</desc>
 </programme>
 <programme start="20210905143000 +0900" stop="20210905150000 +0900" channel="Tokyo MX">
   <title lang="en">水曜どうでしょうClassic</title>
@@ -1375,6 +1380,18 @@
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20210906140000 +0900" stop="20210906143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210906143000 +0900" stop="20210906145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210906145900 +0900" stop="20210906150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210906150000 +0900" stop="20210906153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
