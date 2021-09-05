@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210906050000 +0900" stop="20210906060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">▼自民党総裁選の動き本格化へ▼震度７の北海道胆振東部地震から３年▼アフガニスタン情勢▼パラリンピックが伝えたもの</desc>
-  </programme>
-  <programme start="20210906060000 +0900" stop="20210906063000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">▼自民党総裁選の動き本格化へ▼震度７の北海道胆振東部地震３年▼アフガニスタン情勢・武装勢力タリバンとロシア▼パラリンピック・車いすバスケットボールの選手が出演</desc>
-  </programme>
   <programme start="20210906063000 +0900" stop="20210906070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼レジのないスーパーがオープン▼おはＢｉｚ“世界を変える！？量子コンピューターの可能性”▼パラリンピック・マラソン選手が活躍・閉会式</desc>
@@ -330,25 +322,13 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
-  <programme start="20210906055500 +0900" stop="20210906060000 +0900" channel="eTele.jp">
-    <title lang="en">ワンポイント手話</title>
-    <desc lang="en">初歩的な手話の単語や会話を２５回に分けて紹介します。最終的には手話で簡単な自己紹介ができるようになるのが目標です。北海道、宮城、イギリスなどの単語を学びます。</desc>
+  <programme start="20210907063000 +0900" stop="20210907070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時半台】経済ニュースをまとめて伝える「おはＢｉｚ」。チェックしておきたい国内外の動き。世界の驚きニュース。気になる天気ほか</desc>
   </programme>
-  <programme start="20210906060000 +0900" stop="20210906062500 +0900" channel="eTele.jp">
-    <title lang="en">旅するためのフランス語</title>
-    <desc lang="en">いつか旅する日のために、旅先で役立つフランス語をシチュエーション別に学ぶ語学番組。南フランスへの旅に憧れる俳優の須藤温子さんと一緒に、楽しく学びましょう！</desc>
-  </programme>
-  <programme start="20210906062500 +0900" stop="20210906063500 +0900" channel="eTele.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">【出演】多胡肇，清水沙希，原川愛，吉江晴菜，今井菜津美，戸塚寛子，【ピアノ】幅しげみ</desc>
-  </programme>
-  <programme start="20210906063500 +0900" stop="20210906064000 +0900" channel="eTele.jp">
-    <title lang="en">オトッペ</title>
-    <desc lang="en">音から生まれた不思議な生き物・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
-  </programme>
-  <programme start="20210906064000 +0900" stop="20210906065500 +0900" channel="eTele.jp">
-    <title lang="en">シャキーン!</title>
-    <desc lang="en">心と体が“シャキーン！”と目覚めるクイズやアニメなどのコーナーが盛りだくさん。スーパージュモクさんと一緒に新しい一日を元気に始めよう！</desc>
+  <programme start="20210907070000 +0900" stop="20210907074500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に迫る特集。暮らしに役立つアイデアを紹介する「まちかど情報室」。気になる天気。スポーツなど</desc>
   </programme>
   <programme start="20210906065500 +0900" stop="20210906070000 +0900" channel="eTele.jp">
     <title lang="en">Eテレ0655</title>
@@ -682,6 +662,26 @@
     <title lang="en">旅するためのスペイン語</title>
     <desc lang="en">いつか旅する日のために、旅先で役立つスペイン語をシチュエーション別に学ぶ語学番組。フラメンコを本場で習いたいと語学習得に励む伊原六花さんと一緒に勉強しましょう！</desc>
   </programme>
+  <programme start="20210907062500 +0900" stop="20210907063500 +0900" channel="eTele.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">鈴木大輔、能條貴大、清水沙希、原川愛、舘野伶奈、吉江晴菜、戸塚寛子</desc>
+  </programme>
+  <programme start="20210907063500 +0900" stop="20210907064000 +0900" channel="eTele.jp">
+    <title lang="en">オトッペ</title>
+    <desc lang="en">音から生まれた不思議な生き物・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
+  </programme>
+  <programme start="20210907064000 +0900" stop="20210907065500 +0900" channel="eTele.jp">
+    <title lang="en">シャキーン!</title>
+    <desc lang="en">心と体が“シャキーン！”と目覚めるクイズやアニメなどのコーナーが盛りだくさん。スーパージュモクさんと一緒に新しい一日を元気に始めよう！</desc>
+  </programme>
+  <programme start="20210907065500 +0900" stop="20210907070000 +0900" channel="eTele.jp">
+    <title lang="en">Eテレ0655</title>
+    <desc lang="en">１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します</desc>
+  </programme>
+  <programme start="20210907070000 +0900" stop="20210907071000 +0900" channel="eTele.jp">
+    <title lang="en">ゴー!ゴー!キッチン戦隊クックルン</title>
+    <desc lang="en">アニメ×実写の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！今週はアウトドアスペシャル。いつものキッチンを飛び出し色々な野外活動と料理に挑戦します！</desc>
+  </programme>
   <programme start="20210906055000 +0900" stop="20210906080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
     <desc lang="en">月曜ＺＩＰ！は風間俊介▼動き加速 ポスト菅は？徹底解説▼パラ閉会式注目演出 マラソン道下悲願の金▼自宅療養…不安の声▼配信ＴＧＣに吉沢亮▼岸優太が調味料保存</desc>
@@ -902,10 +902,6 @@ by.Shankar / Jaikishan</desc>
 <programme start="20210907045500 +0900" stop="20210907080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
-</programme>
-<programme start="20210906042500 +0900" stop="20210906060000 +0900" channel="TBS2.jp">
-  <title lang="en">はやドキ!</title>
-  <desc lang="en">東京パラリンピック閉幕▽自民党総裁選で動きが活発化▽速報！大谷翔平▽KingPrince▽HiHiJetsと美少年を直撃取材！▽TGC東京ガールズコレクション</desc>
 </programme>
 <programme start="20210906060000 +0900" stop="20210906080000 +0900" channel="TBS2.jp">
   <title lang="en">あさチャン!</title>
@@ -1272,10 +1268,6 @@ by.Shankar / Jaikishan</desc>
   <title lang="en">めざましテレビ</title>
   <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
-<programme start="20210906053000 +0900" stop="20210906060000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20210906060000 +0900" stop="20210906070000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
@@ -1475,5 +1467,9 @@ by.Shankar / Jaikishan</desc>
 <programme start="20210907060000 +0900" stop="20210907070000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+</programme>
+<programme start="20210907070000 +0900" stop="20210907080000 +0900" channel="Tokyo MX">
+  <title lang="en">堀潤モーニングFLAG</title>
+  <desc lang="en">ジャーナリスト堀潤がＺ世代を中心としたコメンテーターとお届けするカジュアルニュースショー▼アフリカ紛争問題を研究する阿部将貴が出演▼特集は週刊ニューズピックス！</desc>
 </programme>
 </tv>
