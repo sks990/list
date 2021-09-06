@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210907021400 +0900" stop="20210907030200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">スポーツ×ヒューマン</title>
-    <desc lang="en">レスリング女子日本代表、向田真優は２年前コーチの志土地翔大と婚約した。「五輪を前に恋愛している場合か」―批判の声にも負けず、金メダルを目指す２人の姿を追った。</desc>
-  </programme>
   <programme start="20210907030200 +0900" stop="20210907040200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北海道・かわいい動物たち〜さわやか自然百景から〜</title>
     <desc lang="en">日本各地の自然や風景、そこに暮らす生きものたちの姿を紹介してきた「さわやか自然百景」。北海道で撮影した映像の中から、動物たちの愛らしい姿をたっぷりお届けします！</desc>
@@ -317,6 +313,10 @@
   <programme start="20210908025900 +0900" stop="20210908035900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
+  </programme>
+  <programme start="20210908035900 +0900" stop="20210908043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパに残る、知られざる遺跡の数々を紹介する。</desc>
   </programme>
   <programme start="20210907005000 +0900" stop="20210907053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -674,10 +674,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210907025400 +0900" stop="20210907035400 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
-  </programme>
   <programme start="20210907035400 +0900" stop="20210907042400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
@@ -775,15 +771,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
   </programme>
-<programme start="20210907025600 +0900" stop="20210907030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20210907030000 +0900" stop="20210907033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20210907033000 +0900" stop="20210907040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -909,10 +896,13 @@ by.The Kinks</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20210907023500 +0900" stop="20210907034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20210908033000 +0900" stop="20210908040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20210908040000 +0900" stop="20210908045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「吉宗を狙う女剣士」松平健(他)▽伊達藩江戸屋敷で抜け荷を扱っているらしいとの報告を受けた吉宗。“伊達藩ほどの名家がそんな事をするはずがない”と孫兵衛は言い張るが…</desc>
 </programme>
 <programme start="20210907034500 +0900" stop="20210907042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -998,18 +988,9 @@ by.The Kinks</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20210907025000 +0900" stop="20210907032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】TEAM　SHACHI、竹内唯人、武藤彩未
-【ナビゲーター】南海キャンディーズ</desc>
-</programme>
-<programme start="20210907032000 +0900" stop="20210907035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あにレコTV</title>
-  <desc lang="en">MCはノンスタ井上裕介と美山加恋！▽「オッドタクシー」特集！ヤノ役・ラッパーMETEORがスタジオに！▽「ペッパピッグ」特集！世界中から愛される作品の魅力を深掘り！</desc>
-</programme>
-<programme start="20210907035000 +0900" stop="20210907035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+<programme start="20210908034500 +0900" stop="20210908042500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20210907035500 +0900" stop="20210907041000 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
@@ -1168,13 +1149,13 @@ by.The Kinks</desc>
   <title lang="en">きのう何食べた?</title>
   <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ◆シロさんとケンジのほろ苦くも温かい毎日と日々の美味しい食卓を描いた男２人暮らし物語！</desc>
 </programme>
-<programme start="20210907021500 +0900" stop="20210907031500 +0900" channel="FujiTV.jp">
-  <title lang="en">偶然見つけたハル</title>
-  <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
+<programme start="20210908032000 +0900" stop="20210908035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">高嶺のハナさん</title>
+  <desc lang="en">互いの想いを交わした華(泉里香)と弱木(小越勇輝)は役員プレゼンで大成功を収めるが弱木は華に意外な覚悟を伝える。苺(香音)は、社長に転属を直訴して…。</desc>
 </programme>
-<programme start="20210907031500 +0900" stop="20210907034500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+<programme start="20210908035000 +0900" stop="20210908040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">不倫の修羅場がもたらす戦慄の展開を描く、テレビ東京史上最も恐ろしい不倫サスペンスとして、話題沸騰中のドラマ！「ただ離婚してないだけ」をご紹介！！</desc>
 </programme>
 <programme start="20210907034500 +0900" stop="20210907040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1264,13 +1245,9 @@ by.The Kinks</desc>
   <title lang="en">ミッドナイト・スペシャル</title>
   <desc lang="en">絶え間なく続く緊張感と、見事な演技に魅せられる、超常現象スリラー！</desc>
 </programme>
-<programme start="20210907023500 +0900" stop="20210907030500 +0900" channel="Tokyo MX">
-  <title lang="en">JOYnt! JOYのASOBU-TV</title>
-  <desc lang="en">そいそ〜すとショユモンＧＯ　前編</desc>
-</programme>
-<programme start="20210907030500 +0900" stop="20210907033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210908040000 +0900" stop="20210908045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20210907033500 +0900" stop="20210907040000 +0900" channel="Tokyo MX">
   <title lang="en">洋上の楽園クルーズ</title>
@@ -1455,5 +1432,17 @@ by.The Kinks</desc>
 <programme start="20210908023500 +0900" stop="20210908030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210908030500 +0900" stop="20210908033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210908033500 +0900" stop="20210908040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20210908040000 +0900" stop="20210908043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
 </tv>
