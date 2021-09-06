@@ -50,26 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210906115900 +0900" stop="20210906120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210906120000 +0900" stop="20210906121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース</title>
-    <desc lang="en">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20210906121500 +0900" stop="20210906122000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210906122000 +0900" stop="20210906124300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">うまいッ!</title>
-    <desc lang="en">アフリカ原産のダチョウは“赤身肉の女王”と呼ばれるほど美味！コロナ禍にあってもネットを通じてファン急増中！話題性とおいしさを備えたダチョウ肉の新レシピをご紹介！</desc>
-  </programme>
-  <programme start="20210906124300 +0900" stop="20210906124500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">新型コロナ 命を守る行動を</title>
-    <desc lang="en">新型コロナに感染した場合、自宅療養で気づかないうちに症状が悪化するケースがある。顔色を見る。頻呼吸になっていないかなどに、自分だけでなく周りの人も注意を。</desc>
-  </programme>
   <programme start="20210906124500 +0900" stop="20210906130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">連続テレビ小説 おかえりモネ</title>
     <desc lang="en">ようやく気持ちが通じ合った百音（清原果耶）と菅波（坂口健太郎）は、登米のみんなに祝福される。同じころ莉子（今田美桜）は、番組の視聴率が原因で悩んでいた。</desc>
@@ -322,13 +302,25 @@
     <title lang="en">ニュース</title>
     <desc lang="en">【キャスター】三條雅幸</desc>
   </programme>
-  <programme start="20210906115500 +0900" stop="20210906120000 +0900" channel="eTele.jp">
-    <title lang="en">まる得マガジン</title>
-    <desc lang="en">暑い夏。料理でコンロを使えば汗だくに。そこで電子レンジだけで手軽に作れるのに、しっかりがっつり食べられるレシピを紹介。</desc>
+  <programme start="20210907121500 +0900" stop="20210907122000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース</title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20210906120000 +0900" stop="20210906125500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">八岐大蛇伝説を元にした舞踊「日本振袖始」。主演の尾上紫と振付の尾上墨雪親子がトークゲスト。後半は新作舞踊「門司春秋」の話題と、今回から始まる着物の新コーナーを。</desc>
+  <programme start="20210907122000 +0900" stop="20210907124300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">BENTO EXPO</title>
+    <desc lang="en">アメリカからセロリとピーナッツバターのフクロウ弁当、フィリピンから野菜のカラフル木琴弁当、フランスからハムやパプリカのムーランルージュ弁当等世界のキャラ弁を紹介</desc>
+  </programme>
+  <programme start="20210907124300 +0900" stop="20210907124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">接種後の副反応や体調不良はどの程度の割合で起きるのか？先行接種した医療従事者２万人の調査データをもとに、発熱や消化器系の症状、リンパ節の腫れなどの頻度を紹介する</desc>
+  </programme>
+  <programme start="20210907124500 +0900" stop="20210907130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 おかえりモネ</title>
+    <desc lang="en">自分には“説得力がない”と落ち込む莉子（今田美桜）。自信を失っていく莉子を立ち直らせるにはどうしたらいいのか、百音（清原果耶）は思い悩むが…。</desc>
+  </programme>
+  <programme start="20210907130000 +0900" stop="20210907130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース</title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210906125500 +0900" stop="20210906130000 +0900" channel="eTele.jp">
     <title lang="en">みんなのうた</title>
@@ -674,6 +666,18 @@
     <title lang="en">先人たちの底力 知恵泉</title>
     <desc lang="en">古代より特別な生地として珍重された絹。優美さとゴージャス感は“金のなる布”として、この国の困難を救ってきた。絹を見つめると働き方や地域活性、今に繋がる知恵が！</desc>
   </programme>
+  <programme start="20210907124500 +0900" stop="20210907125500 +0900" channel="eTele.jp">
+    <title lang="en">365日の献立日記</title>
+    <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+  </programme>
+  <programme start="20210907125500 +0900" stop="20210907130000 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「わらいかわせみに話すなよ」楠トシエ／「今でも船長と呼ばれている船長の夜」菅原洋一／「気球にのって」東京放送児童合唱団／「ひげなしゴゲジャバル」ペギー葉山</desc>
+  </programme>
+  <programme start="20210907130000 +0900" stop="20210907130500 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース</title>
+    <desc lang="en">【キャスター】小野寺善子</desc>
+  </programme>
   <programme start="20210906115500 +0900" stop="20210906135500 +0900" channel="NipponTV.jp">
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">榊原郁恵が感動！絶景箱根で親孝行の旅！女性に人気の映えるホテルとは？▽３名の女芸人が○○するだけダイエットに挑戦！大豆ミート＆糖質オフ…話題の方法が続々！</desc>
@@ -893,6 +897,10 @@ by.Shankar / Jaikishan</desc>
 <programme start="20210907102500 +0900" stop="20210907130000 +0900" channel="Asahi.jp">
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
+</programme>
+<programme start="20210907130000 +0900" stop="20210907133000 +0900" channel="Asahi.jp">
+  <title lang="en">徹子の部屋</title>
+  <desc lang="en">〜早世した父・妹…人生の転機に〜登坂淳一さんが今日のゲストです。</desc>
 </programme>
 <programme start="20210906102500 +0900" stop="20210906135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
@@ -1259,14 +1267,6 @@ by.Shankar / Jaikishan</desc>
   <title lang="en">バイキングMORE</title>
   <desc lang="en">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
 </programme>
-<programme start="20210906115500 +0900" stop="20210906120000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20210906120000 +0900" stop="20210906123000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20210906123000 +0900" stop="20210906130000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
@@ -1458,5 +1458,13 @@ by.Shankar / Jaikishan</desc>
 <programme start="20210907120000 +0900" stop="20210907123000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210907123000 +0900" stop="20210907130000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210907130000 +0900" stop="20210907135500 +0900" channel="Tokyo MX">
+  <title lang="en">太陽の末裔</title>
+  <desc lang="en">第６話「離れてから気づく想い」</desc>
 </programme>
 </tv>
