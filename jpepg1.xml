@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210907004800 +0900" stop="20210907013400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SONGS</title>
-    <desc lang="en">布施明がＳＯＮＧＳ初登場！布施の歌をカラオケで愛唱するという大泉洋が初対談！「シクラメンのかほり」「君は薔薇より美しい」「マイ・ウェイ」など代表曲を披露！</desc>
-  </programme>
   <programme start="20210907013400 +0900" stop="20210907021400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽アフガン　抵抗勢力によるパンジシール渓谷での攻防は▽人道支援に立ちはだかるタリバンの脅威▽ギニア　軍がクーデターで大統領拘束か▽欧州自動車メーカーのＥＶシフト</desc>
@@ -305,6 +301,14 @@
   <programme start="20210908002000 +0900" stop="20210908011000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">マグニチュード９の巨大地震はなぜ起きたのか、各地で捉えられた膨大なデータから巨大化の謎を解き明す。未知の状況に入った日本でこの先、何が起きるのか最新科学で迫る。</desc>
+  </programme>
+  <programme start="20210908011000 +0900" stop="20210908020000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">Ｍ９の巨大地震が想定される南海トラフで、人が身体に感じない謎の揺れ「スロー・クエイク」が観測されている。巨大地震の予兆の可能性が指摘されるこの揺れに迫る。</desc>
+  </programme>
+  <programme start="20210908020000 +0900" stop="20210908024000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽ビンラディンを知る男　サウジアラビア諜報機関元トップ　トルキ・ファイサル王子インタ▽アメリカでマスク論争再燃▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20210907005000 +0900" stop="20210907053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,13 +658,13 @@
     <title lang="en">日曜美術館</title>
     <desc lang="en">人形師・ホリヒロシ。等身大の人形を一から作り、その人形と一緒に舞う舞台芸術「人形舞」を創設。人形舞をともに作り上げてきた妻の死を乗り越え挑む、３年ぶりの新作。</desc>
   </programme>
-  <programme start="20210907005900 +0900" stop="20210907012900 +0900" channel="NipponTV.jp">
-    <title lang="en">武士スタント逢坂くん!</title>
-    <desc lang="en">武士が漫画家のアシスタント（＝武士スタント）に！？漫画に出会った逢坂くんが時代を超えて「エロ」と「恋」を追求するコメディ＃7　「エロ禁止で逢坂くんが学んだこと」</desc>
+  <programme start="20210908011000 +0900" stop="20210908012400 +0900" channel="eTele.jp">
+    <title lang="en">日曜美術館 アートシーン</title>
+    <desc lang="en">「平木コレクションによる　前川千帆展」（千葉市美術館　７月１３日〜９月２０日）ほか、展覧会情報</desc>
   </programme>
-  <programme start="20210907012900 +0900" stop="20210907015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!</title>
-    <desc lang="en">乃木坂４６が熱唱！80年代アニソンメドレー▽ラムちゃん遠藤「うる星やつら」▽賀喜＆金川＆松尾セクシー三姉妹「キャッツ・アイ」▽筒井が岩崎良美ご本人と「タッチ」</desc>
+  <programme start="20210908012400 +0900" stop="20210908053000 +0900" channel="eTele.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210907015900 +0900" stop="20210907025400 +0900" channel="NipponTV.jp">
     <title lang="en">news zero×映画「竜とそばかすの姫」〜誰も見たことのない世界を〜</title>
@@ -759,18 +763,6 @@
     <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
     <desc lang="en">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
   </programme>
-<programme start="20210907005000 +0900" stop="20210907012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">人気企画「声優×芸人」！声優と芸人がお互いの良さを引き出していくコラボ企画！芸人さんの大喜利回答を声優さんがアテレコしたらどうなるのか！？</desc>
-</programme>
-<programme start="20210907012000 +0900" stop="20210907012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20210907012600 +0900" stop="20210907015600 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
 <programme start="20210907015600 +0900" stop="20210907021600 +0900" channel="Asahi.jp">
   <title lang="en">さまぁ〜ず論</title>
   <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
@@ -888,13 +880,18 @@ by.The Kinks</desc>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！
 今夜は、ベテラン声優 三ツ矢雄二と浪川大輔の「声優コレクション」</desc>
 </programme>
-<programme start="20210907005800 +0900" stop="20210907012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">漫才、コント、何でもありの“賞金奪い合い”総合お笑いトーナメント！▼芸歴15年以上集結！無冠の実力派漫才師バトル！【囲碁将棋vs学天即vsタイムマシーン3号】</desc>
+<programme start="20210908012000 +0900" stop="20210908012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20210907012800 +0900" stop="20210907015800 +0900" channel="TBS2.jp">
-  <title lang="en">週刊EXILE</title>
-  <desc lang="en">岩田剛典の歌手デビューシングル 『korekara』ミュージックビデオ撮影に密着！！</desc>
+<programme start="20210908012600 +0900" stop="20210908015600 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
+</programme>
+<programme start="20210908015600 +0900" stop="20210908021600 +0900" channel="Asahi.jp">
+  <title lang="en">にゅーくりぃむ</title>
+  <desc lang="en">この秋に新番組「くりぃむナンタラ」爆誕！過去にやった「単語だけでネタ予想するクイズ」を楽屋のダイアン津田とドッキリ再検証！上田のムチャブリに津田が覚醒?!</desc>
 </programme>
 <programme start="20210907015800 +0900" stop="20210907022800 +0900" channel="TBS2.jp">
   <title lang="en">イコノイ、どーですか?</title>
@@ -976,13 +973,13 @@ by.The Kinks</desc>
   <title lang="en">アメージパング!</title>
   <desc lang="en">神秘の国カンボジアと中継を繋ぎクイズを出題！▼バスケットボール日本代表八村塁選手と対戦した男が現地リポート！寺院の前でよく売っているスズメ。買うとどうなる！？</desc>
 </programme>
-<programme start="20210907003000 +0900" stop="20210907010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">巨大企業の日本改革3.0</title>
-  <desc lang="en">クリークアンドリバー×商工組合中央金庫…遠隔で伝わる「力触覚」技術で、淡路島がにぎわう？▼交通機関で支払いをしなくなる？MaaS技術って何？▼荏原製作所の社長登場</desc>
+<programme start="20210908012800 +0900" stop="20210908015800 +0900" channel="TBS2.jp">
+  <title lang="en">トーキョー製麺所</title>
+  <desc lang="en">第壱話「ぶっ革命うどん」▼“安い・早い・美味い”の３拍子で賑わう、うどんチェーン店。だが実は物凄くピンチである…！そこに謎の男・赤松幸太郎（吉野北人）が現れ――</desc>
 </programme>
-<programme start="20210907010000 +0900" stop="20210907013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼横浜アリーナで開催された大型イベントに出演した新グループ８人の舞台裏▼新曲ライブパフォーマンスをＴＶ初公開</desc>
+<programme start="20210908015800 +0900" stop="20210908023800 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">キンプリ平野紫耀×橋本環奈「かぐや様は告らせたい」原作・赤坂アカ先生が映画グッドポイントを発表！成田凌×黒木華話題の朗読劇！キスマイ藤ヶ谷太輔主演ミュージカル！</desc>
 </programme>
 <programme start="20210907013000 +0900" stop="20210907020000 +0900" channel="TVTokyo.jp">
   <title lang="en">うらみちお兄さん</title>
@@ -1150,13 +1147,13 @@ by.The Kinks</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20210907005500 +0900" stop="20210907012500 +0900" channel="FujiTV.jp">
-  <title lang="en">百合だのかんだの</title>
-  <desc lang="en">第七話「共依存からの生還」</desc>
+<programme start="20210908013000 +0900" stop="20210908013500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">世界中の「なんじゃこりゃ!?」と言いたくなるような不思議を大調査！“スペインの泡地獄”“メキシコの４色の湖”“イエメンの地獄の井戸”など絶景と謎を解明する２時間</desc>
 </programme>
-<programme start="20210907012500 +0900" stop="20210907015000 +0900" channel="FujiTV.jp">
-  <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
-  <desc lang="en">魔女たちがリニューアル！川島明＆ＧＥＮＫＩＮＧがお届けするリアルトーク通販バラエティ！美容・健康・ファッションなどを徹底的に品定め＆本音トーク！！</desc>
+<programme start="20210908013500 +0900" stop="20210908020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
+  <desc lang="en">「私をブッキングしてください！０円で！」山内瑞葵がテレ東Pに力技直接交渉！テレ東にブレイクダンス部発足！？▽生配信企画！メンバーがNGなしで何でも答えます！</desc>
 </programme>
 <programme start="20210907015000 +0900" stop="20210907021500 +0900" channel="FujiTV.jp">
   <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
@@ -1250,17 +1247,13 @@ by.The Kinks</desc>
   <title lang="en">あらあらかしこpresents 圭祐裕太 ふたり旅in宮城</title>
   <desc lang="en">宮城県仙台市出身の俳優・渡邊圭祐が、親友で俳優の小関裕太と地元宮城を巡る旅に出ます。「あらあらかしこ」の人気シリーズ企画が特別番組に！未公開シーンも！</desc>
 </programme>
-<programme start="20210907005600 +0900" stop="20210907010000 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210908012500 +0900" stop="20210908015500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「ベジータから隠れろ！」</desc>
 </programme>
-<programme start="20210907010000 +0900" stop="20210907010500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210907010500 +0900" stop="20210907013500 +0900" channel="Tokyo MX">
-  <title lang="en">U字工事の旅!発見</title>
-  <desc lang="en">八方ヶ原</desc>
+<programme start="20210908015500 +0900" stop="20210908040000 +0900" channel="FujiTV.jp">
+  <title lang="en">ミッドナイト・スペシャル</title>
+  <desc lang="en">絶え間なく続く緊張感と、見事な演技に魅せられる、超常現象スリラー！</desc>
 </programme>
 <programme start="20210907013500 +0900" stop="20210907020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1445,5 +1438,13 @@ by.The Kinks</desc>
 <programme start="20210908010000 +0900" stop="20210908010500 +0900" channel="Tokyo MX">
   <title lang="en">りばあす</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210908010500 +0900" stop="20210908013500 +0900" channel="Tokyo MX">
+  <title lang="en">BLACK LAGOON The Second Barrage</title>
+  <desc lang="en">＃２４「Ｔｈｅ　Ｇｕｎｓｌｉｎｇｅｒｓ」</desc>
+</programme>
+<programme start="20210908013500 +0900" stop="20210908020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">ニューシングル「囮囚（ばけもの）」をリリースするＢＬＵＥ　ＥＮＣＯＵＮＴがメンバー全員で登場！近況から今作の制作秘話、そして個性がぶつかり合う４人の素顔に迫る！</desc>
 </programme>
 </tv>
