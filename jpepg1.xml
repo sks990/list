@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210907013400 +0900" stop="20210907021400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽アフガン　抵抗勢力によるパンジシール渓谷での攻防は▽人道支援に立ちはだかるタリバンの脅威▽ギニア　軍がクーデターで大統領拘束か▽欧州自動車メーカーのＥＶシフト</desc>
-  </programme>
   <programme start="20210907021400 +0900" stop="20210907030200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">スポーツ×ヒューマン</title>
     <desc lang="en">レスリング女子日本代表、向田真優は２年前コーチの志土地翔大と婚約した。「五輪を前に恋愛している場合か」―批判の声にも負けず、金メダルを目指す２人の姿を追った。</desc>
@@ -309,6 +305,18 @@
   <programme start="20210908020000 +0900" stop="20210908024000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽ビンラディンを知る男　サウジアラビア諜報機関元トップ　トルキ・ファイサル王子インタ▽アメリカでマスク論争再燃▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210908024000 +0900" stop="20210908024500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">LIFE!5ミニッツ</title>
+    <desc lang="en">１０日２２時放送前に傑作コントをお送りする「ＬＩＦＥ！５ミニッツ」。今回はシソンヌじろう＆風間俊介による「一見、悪徳」シリーズ最新作をお楽しみください！</desc>
+  </programme>
+  <programme start="20210908024500 +0900" stop="20210908025900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん縦断 こころ旅 リクエストアワー</title>
+    <desc lang="en">火野正平さんの「こころ旅」。秋の旅が１３日からスタート！　その直前、これまでの放送から「もう一度見たい！」名場面を大特集！今回のテーマは「ちいさな秋みつけた！」</desc>
+  </programme>
+  <programme start="20210908025900 +0900" stop="20210908035900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
   </programme>
   <programme start="20210907005000 +0900" stop="20210907053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -666,10 +674,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210907015900 +0900" stop="20210907025400 +0900" channel="NipponTV.jp">
-    <title lang="en">news zero×映画「竜とそばかすの姫」〜誰も見たことのない世界を〜</title>
-    <desc lang="en">佐藤健、常田大希から「アナ雪」デザイナーまで世界の才能が細田守最新作に集結▽チャート席巻歌姫「ベル」の正体は圧倒的才能シンガー▽声優初挑戦ＹＯＡＳＯＢＩ幾田りら</desc>
-  </programme>
   <programme start="20210907025400 +0900" stop="20210907035400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
@@ -763,19 +767,14 @@
     <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
     <desc lang="en">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
   </programme>
-<programme start="20210907015600 +0900" stop="20210907021600 +0900" channel="Asahi.jp">
-  <title lang="en">さまぁ〜ず論</title>
-  <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
-</programme>
-<programme start="20210907021600 +0900" stop="20210907023600 +0900" channel="Asahi.jp">
-  <title lang="en">トゲアリトゲナシトゲトゲ</title>
-  <desc lang="en">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
-令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
-</programme>
-<programme start="20210907023600 +0900" stop="20210907025600 +0900" channel="Asahi.jp">
-  <title lang="en">あのちゃんねる</title>
-  <desc lang="en">若い男女を中心にカリスマ的人気を誇る「あのちゃん」の初・冠番組‼▽出川哲朗参戦‼あのちゃんのリアクションにマジダメだし!?▽「箱の中身は何だろな」でまさかの展開!?</desc>
-</programme>
+  <programme start="20210908020400 +0900" stop="20210908023400 +0900" channel="NipponTV.jp">
+    <title lang="en">HUNTER×HUNTER</title>
+    <desc lang="en">＃１３１「イカリ×ト×ヒカリ」</desc>
+  </programme>
+  <programme start="20210908023400 +0900" stop="20210908041900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
+  </programme>
 <programme start="20210907025600 +0900" stop="20210907030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -893,13 +892,22 @@ by.The Kinks</desc>
   <title lang="en">にゅーくりぃむ</title>
   <desc lang="en">この秋に新番組「くりぃむナンタラ」爆誕！過去にやった「単語だけでネタ予想するクイズ」を楽屋のダイアン津田とドッキリ再検証！上田のムチャブリに津田が覚醒?!</desc>
 </programme>
-<programme start="20210907015800 +0900" stop="20210907022800 +0900" channel="TBS2.jp">
-  <title lang="en">イコノイ、どーですか?</title>
-  <desc lang="en">指原莉乃がプロデュースするアイドル、＝ＬＯＶＥ（イコールラブ）と≠ＭＥ（ノットイコールミー）の冠番組。ＭＣニューヨークがメンバーたちの魅力を売り込みます！</desc>
+<programme start="20210908021600 +0900" stop="20210908023600 +0900" channel="Asahi.jp">
+  <title lang="en">ぼる塾の煩悩ごはん</title>
+  <desc lang="en">シェフのあんりが考案したハイカロリー“煩悩ごはん”をむさぼり食べる深夜の飯テロバラエティ！ぼる塾とゲストのここでしか聞けない真剣トークも！</desc>
 </programme>
-<programme start="20210907022800 +0900" stop="20210907023500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20210908023600 +0900" stop="20210908025600 +0900" channel="Asahi.jp">
+  <title lang="en">イグナッツ!!</title>
+  <desc lang="en">EXITとCreepy Nutsの同世代４人が、お題「お酒」をそれぞれ自分の言葉10文字で表現‼お酒への意外な価値観が明らかに…⁉</desc>
+</programme>
+<programme start="20210908025600 +0900" stop="20210908030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20210908030000 +0900" stop="20210908033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20210907023500 +0900" stop="20210907034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -981,21 +989,14 @@ by.The Kinks</desc>
   <title lang="en">アカデミーナイトG</title>
   <desc lang="en">キンプリ平野紫耀×橋本環奈「かぐや様は告らせたい」原作・赤坂アカ先生が映画グッドポイントを発表！成田凌×黒木華話題の朗読劇！キスマイ藤ヶ谷太輔主演ミュージカル！</desc>
 </programme>
-<programme start="20210907013000 +0900" stop="20210907020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">うらみちお兄さん</title>
-  <desc lang="en">今度は猛暑の中、冬用ミュージックビデオの撮影が行われる。暑苦しいわりに要領を得ない出木田の指示に出演者の精神力が削られていく。普段クールな熊谷の様子もおかしく…</desc>
+<programme start="20210908023800 +0900" stop="20210908024500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210907020000 +0900" stop="20210907023000 +0900" channel="TVTokyo.jp">
-  <title lang="en">精霊幻想記</title>
-  <desc lang="en">精霊の民の里に帰ってきたリオ。翌朝目を覚ますと隣には裸で眠っている見知らぬ美少女が！？色めき立つラティーファと里の少女達だが、その美少女は契約精霊であるという。</desc>
-</programme>
-<programme start="20210907023000 +0900" stop="20210907023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">世界中の「なんじゃこりゃ!?」と言いたくなるような不思議を大調査！“スペインの泡地獄”“メキシコの４色の湖”“イエメンの地獄の井戸”など絶景と謎を解明する２時間</desc>
-</programme>
-<programme start="20210907023500 +0900" stop="20210907025000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">“不倫”を深く、恐ろしく、切なく描いた、未だかつてない不倫ドラマ！「ただ離婚してないだけ」をご紹介。今夜は、気になる本編をちょっとだけお見せしちゃいます！</desc>
+<programme start="20210908024500 +0900" stop="20210908034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20210907025000 +0900" stop="20210907032000 +0900" channel="TVTokyo.jp">
   <title lang="en">プレミアMelodiX!</title>
@@ -1155,9 +1156,17 @@ by.The Kinks</desc>
   <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
   <desc lang="en">「私をブッキングしてください！０円で！」山内瑞葵がテレ東Pに力技直接交渉！テレ東にブレイクダンス部発足！？▽生配信企画！メンバーがNGなしで何でも答えます！</desc>
 </programme>
-<programme start="20210907015000 +0900" stop="20210907021500 +0900" channel="FujiTV.jp">
-  <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
-  <desc lang="en">ＴＩＦ２０２１に出演するハロプロ研修生がスタジオに登場！それぞれへの不満を暴露も可愛すぎる展開に赤面！初々しい特技披露も！お見逃しなく！</desc>
+<programme start="20210908020500 +0900" stop="20210908023500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
+</programme>
+<programme start="20210908023500 +0900" stop="20210908024000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+</programme>
+<programme start="20210908024000 +0900" stop="20210908032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">きのう何食べた?</title>
+  <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ◆シロさんとケンジのほろ苦くも温かい毎日と日々の美味しい食卓を描いた男２人暮らし物語！</desc>
 </programme>
 <programme start="20210907021500 +0900" stop="20210907031500 +0900" channel="FujiTV.jp">
   <title lang="en">偶然見つけたハル</title>
@@ -1254,18 +1263,6 @@ by.The Kinks</desc>
 <programme start="20210908015500 +0900" stop="20210908040000 +0900" channel="FujiTV.jp">
   <title lang="en">ミッドナイト・スペシャル</title>
   <desc lang="en">絶え間なく続く緊張感と、見事な演技に魅せられる、超常現象スリラー！</desc>
-</programme>
-<programme start="20210907013500 +0900" stop="20210907020500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210907020500 +0900" stop="20210907023400 +0900" channel="Tokyo MX">
-  <title lang="en">夏菜のWAZAARI〜日本e-sports応援宣言〜</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210907023400 +0900" stop="20210907023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20210907023500 +0900" stop="20210907030500 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1446,5 +1443,17 @@ by.The Kinks</desc>
 <programme start="20210908013500 +0900" stop="20210908020500 +0900" channel="Tokyo MX">
   <title lang="en">69号室の住人</title>
   <desc lang="en">ニューシングル「囮囚（ばけもの）」をリリースするＢＬＵＥ　ＥＮＣＯＵＮＴがメンバー全員で登場！近況から今作の制作秘話、そして個性がぶつかり合う４人の素顔に迫る！</desc>
+</programme>
+<programme start="20210908020500 +0900" stop="20210908023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210908023400 +0900" stop="20210908023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210908023500 +0900" stop="20210908030500 +0900" channel="Tokyo MX">
+  <title lang="en">キラ×バズTV!?</title>
+  <desc lang="en"> </desc>
 </programme>
 </tv>
