@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210907045000 +0900" stop="20210907050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">来年度の予算編成に向けた動きが本格化。新型コロナ対策や安全保障などで予算要求が膨らむ一方で、国が財源と頼る国債発行総額もさらに膨らむ。財政の現状と課題とは。</desc>
-  </programme>
   <programme start="20210907050000 +0900" stop="20210907060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼ミャンマーで人気の日本人シンガーソングライター　▼まちかど情報室　簡単おしゃれな“リユース術”</desc>
@@ -318,13 +314,9 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20210907005000 +0900" stop="20210907053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210907053000 +0900" stop="20210907055500 +0900" channel="eTele.jp">
-    <title lang="en">ロシアゴスキー</title>
-    <desc lang="en">現地リポーターの案内による街歩きと、楽しいアニメーションで学ぶスタイリッシュな講座。サンクトペテルブルクの風景を楽しみながら、旅で役立つロシア語を覚えましょう！</desc>
+  <programme start="20210908060000 +0900" stop="20210908063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20210907055500 +0900" stop="20210907060000 +0900" channel="eTele.jp">
     <title lang="en">楽ラクワンポイント介護</title>
@@ -674,10 +666,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210907043000 +0900" stop="20210907055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽自民党総裁選　石破氏の動向は？▽緊急事態宣言延長へ▽東京で新たに968人感染
-▽</desc>
+  <programme start="20210908053000 +0900" stop="20210908055500 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">人は群衆の中にいるとき「暗示」を受けやすくなり、その「暗示」が次々に「感染」し、やがて「衝動」の奴隷になっていく。これが「群衆心理」のメカニズムだ。</desc>
+  </programme>
+  <programme start="20210908055500 +0900" stop="20210908060000 +0900" channel="eTele.jp">
+    <title lang="en">浮世絵EDO-LIFE</title>
+    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！夏の夜、安眠するために欠かせない、虫刺され対策！江戸の、驚きの蚊退治法とは？</desc>
+  </programme>
+  <programme start="20210908060000 +0900" stop="20210908062500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのイタリア語</title>
+    <desc lang="en">イタリアへ旅ができるようになったら、グルメや買い物を思いっきり楽しみたい！そんな場面で役立つフレーズを楽しく学ぶシリーズ。料理や映画などミニコーナーも充実。</desc>
   </programme>
   <programme start="20210907055000 +0900" stop="20210907080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -774,6 +773,10 @@
   <programme start="20210908043000 +0900" stop="20210908055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20210908055000 +0900" stop="20210908080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20210907045500 +0900" stop="20210907080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -992,12 +995,9 @@ by.The Kinks</desc>
   <title lang="en">はやドキ!</title>
   <desc lang="en">最新のニュース・情報・関心事をどこよりも早くお伝えします！お楽しみに！</desc>
 </programme>
-<programme start="20210907042300 +0900" stop="20210907054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20210908060000 +0900" stop="20210908080000 +0900" channel="TBS2.jp">
+  <title lang="en">あさチャン!</title>
+  <desc lang="en">メインキャスターは夏目三久。きのうからけさまでの注目ニュースを総ざらい。世界の今がライブでわかる。専門知識豊富なゲストが独自の視点でより深い情報をお届けする。</desc>
 </programme>
 <programme start="20210907054500 +0900" stop="20210907070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1156,9 +1156,9 @@ by.The Kinks</desc>
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20210907045500 +0900" stop="20210907052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20210908054500 +0900" stop="20210908070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20210907052500 +0900" stop="20210907080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1244,13 +1244,9 @@ by.The Kinks</desc>
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20210907043000 +0900" stop="20210907050000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210907050000 +0900" stop="20210907053000 +0900" channel="Tokyo MX">
-  <title lang="en">あんぎゃでござる!!</title>
-  <desc lang="en">一乗寺あんぎゃ‼　後編</desc>
+<programme start="20210908052500 +0900" stop="20210908080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20210907053000 +0900" stop="20210907060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1439,5 +1435,13 @@ by.The Kinks</desc>
 <programme start="20210908050000 +0900" stop="20210908053000 +0900" channel="Tokyo MX">
   <title lang="en">手づくり花づくりプラス〜目指せ花メン!園芸男子〜</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210908053000 +0900" stop="20210908060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210908060000 +0900" stop="20210908070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
 </programme>
 </tv>
