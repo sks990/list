@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210908025900 +0900" stop="20210908035900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">空からクルージング特別編</title>
-    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
-  </programme>
   <programme start="20210908035900 +0900" stop="20210908043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパに残る、知られざる遺跡の数々を紹介する。</desc>
@@ -317,6 +313,10 @@
   <programme start="20210909025200 +0900" stop="20210909035200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">雪の魔法</title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20210909035200 +0900" stop="20210909043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した奈良県・明日香村。四季の移ろいと、歴史の時空が交錯する「飛鳥」を描き出す。</desc>
   </programme>
   <programme start="20210908012400 +0900" stop="20210908053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -765,15 +765,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
   </programme>
-<programme start="20210908025600 +0900" stop="20210908030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20210908030000 +0900" stop="20210908033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20210908033000 +0900" stop="20210908040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -893,10 +884,13 @@
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20210908024500 +0900" stop="20210908034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20210909033000 +0900" stop="20210909040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20210909040000 +0900" stop="20210909045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「女大学！亭主を男にする法」松平健(他)▽小間物問屋・泉屋と用心棒の浪人が南蛮剣法を使う侍に殺された。忠相が泉屋の内情を調べた結果、抜け荷を扱っていたことが判明し…</desc>
 </programme>
 <programme start="20210908034500 +0900" stop="20210908042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -978,13 +972,9 @@
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20210908024000 +0900" stop="20210908032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">きのう何食べた?</title>
-  <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ◆シロさんとケンジのほろ苦くも温かい毎日と日々の美味しい食卓を描いた男２人暮らし物語！</desc>
-</programme>
-<programme start="20210908032000 +0900" stop="20210908035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">高嶺のハナさん</title>
-  <desc lang="en">互いの想いを交わした華(泉里香)と弱木(小越勇輝)は役員プレゼンで大成功を収めるが弱木は華に意外な覚悟を伝える。苺(香音)は、社長に転属を直訴して…。</desc>
+<programme start="20210909034500 +0900" stop="20210909042500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20210908035000 +0900" stop="20210908040500 +0900" channel="TVTokyo.jp">
   <title lang="en">一夜づけ</title>
@@ -1133,6 +1123,22 @@
   <title lang="en">ドラゴンクエスト ダイの大冒険</title>
   <desc lang="en">魔王軍との決戦に向け特訓を終えた仲間たちが続々と集結、作戦の要衝となる亡き師アバンの故郷カール王国を目指すが、眼前の決戦の地“死の大地”には異変が起きていた…‼</desc>
 </programme>
+<programme start="20210909030500 +0900" stop="20210909032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">冷え切った夫婦が共犯者となることで夫婦のあるべき姿を取り戻す、“不倫”を深く、恐ろしく、切なく描く未だかつてない不倫ドラマ！「ただ離婚してないだけ」をご紹介！</desc>
+</programme>
+<programme start="20210909032000 +0900" stop="20210909035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">お耳に合いましたら。</title>
+  <desc lang="en">伊藤万理華主演！ポッドキャスト×グルメ愛▼広告塔らっきょう子ちゃんの存続のため、企画会議をする美園たち。奮闘しながらも、夜食をきっかけに良いアイデアが浮かぶ！</desc>
+</programme>
+<programme start="20210909035000 +0900" stop="20210909035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+</programme>
+<programme start="20210909035500 +0900" stop="20210909040500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">実験的蓋番組</desc>
+</programme>
 <programme start="20210908015500 +0900" stop="20210908040000 +0900" channel="FujiTV.jp">
   <title lang="en">ミッドナイト・スペシャル</title>
   <desc lang="en">絶え間なく続く緊張感と、見事な演技に魅せられる、超常現象スリラー！</desc>
@@ -1225,13 +1231,13 @@
   <title lang="en">遊び方改革</title>
   <desc lang="en">ずん飯尾×ノートを使った究極の暇つぶし▽ロッチ中岡×美女と最新キャンプ▽とにかく明るい安村×最先端ドローンサッカー！大人が本気になれる「遊び方改革」バラエティ！</desc>
 </programme>
-<programme start="20210908023500 +0900" stop="20210908030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210908030500 +0900" stop="20210908033500 +0900" channel="Tokyo MX">
+<programme start="20210909034500 +0900" stop="20210909040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+</programme>
+<programme start="20210909040000 +0900" stop="20210909045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20210908033500 +0900" stop="20210908040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1420,5 +1426,13 @@
 <programme start="20210909030000 +0900" stop="20210909033000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210909033000 +0900" stop="20210909040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210909040000 +0900" stop="20210909043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
 </programme>
 </tv>
