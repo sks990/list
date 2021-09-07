@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210908011000 +0900" stop="20210908020000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">Ｍ９の巨大地震が想定される南海トラフで、人が身体に感じない謎の揺れ「スロー・クエイク」が観測されている。巨大地震の予兆の可能性が指摘されるこの揺れに迫る。</desc>
-  </programme>
-  <programme start="20210908020000 +0900" stop="20210908024000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽大学では男女分離の教室も　米軍撤退一週間のアフガニスタン▽ブラジルでワクチン３回目接種開始　米ではマスク論争再燃▽ビンラディンを知るサウジアラビア王子　インタ</desc>
-  </programme>
-  <programme start="20210908024000 +0900" stop="20210908024500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">LIFE!5ミニッツ</title>
-    <desc lang="en">１０日２２時放送前に傑作コントをお送りする「ＬＩＦＥ！５ミニッツ」。今回はシソンヌじろう＆風間俊介による「一見、悪徳」シリーズ最新作をお楽しみください！</desc>
-  </programme>
-  <programme start="20210908024500 +0900" stop="20210908025900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">にっぽん縦断 こころ旅 リクエストアワー</title>
-    <desc lang="en">火野正平さんの「こころ旅」。秋の旅が１３日からスタート！　その直前、これまでの放送から「もう一度見たい！」名場面を大特集！今回のテーマは「ちいさな秋みつけた！」</desc>
-  </programme>
   <programme start="20210908025900 +0900" stop="20210908035900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
@@ -325,6 +309,14 @@
   <programme start="20210909012200 +0900" stop="20210909021200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">地震学の“常識”をくつがえす発見が加速している。巨大地震によって日本列島の地下のバランスがくずれ、各地で地震リスクが高まっているのだ。地下で何が起きているのか。</desc>
+  </programme>
+  <programme start="20210909021200 +0900" stop="20210909025200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽世界はアフガニスタンを置き去りにしないで〜脱出した女性映画監督の訴え〜※ＳＤＧｓ企画▽一斉避難から４年　過酷極めるロヒンギャ難民　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210909025200 +0900" stop="20210909035200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">雪の魔法</title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210908012400 +0900" stop="20210908053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -674,14 +666,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210908005900 +0900" stop="20210908020400 +0900" channel="NipponTV.jp">
-    <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
-    <desc lang="en">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
-  </programme>
-  <programme start="20210908020400 +0900" stop="20210908023400 +0900" channel="NipponTV.jp">
-    <title lang="en">HUNTER×HUNTER</title>
-    <desc lang="en">＃１３１「イカリ×ト×ヒカリ」</desc>
-  </programme>
   <programme start="20210908023400 +0900" stop="20210908041900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -773,18 +757,14 @@
     <title lang="en">東野・岡村の旅猿19</title>
     <desc lang="en">「山梨県で軽キャンピングカーの旅」第２話　お腹いっぱいになった一行はとあるアクティビティに挑戦。そしてキャンプへ向けて買い出しへと行くのだが波乱の展開に・・・</desc>
   </programme>
-<programme start="20210908015600 +0900" stop="20210908021600 +0900" channel="Asahi.jp">
-  <title lang="en">にゅーくりぃむ</title>
-  <desc lang="en">この秋に新番組「くりぃむナンタラ」爆誕！過去にやった「単語だけでネタ予想するクイズ」を楽屋のダイアン津田とドッキリ再検証！上田のムチャブリに津田が覚醒?!</desc>
-</programme>
-<programme start="20210908021600 +0900" stop="20210908023600 +0900" channel="Asahi.jp">
-  <title lang="en">ぼる塾の煩悩ごはん</title>
-  <desc lang="en">シェフのあんりが考案したハイカロリー“煩悩ごはん”をむさぼり食べる深夜の飯テロバラエティ！ぼる塾とゲストのここでしか聞けない真剣トークも！</desc>
-</programme>
-<programme start="20210908023600 +0900" stop="20210908025600 +0900" channel="Asahi.jp">
-  <title lang="en">イグナッツ!!</title>
-  <desc lang="en">EXITとCreepy Nutsの同世代４人が、お題「お酒」をそれぞれ自分の言葉10文字で表現‼お酒への意外な価値観が明らかに…⁉</desc>
-</programme>
+  <programme start="20210909020400 +0900" stop="20210909023400 +0900" channel="NipponTV.jp">
+    <title lang="en">浜ちゃんが!</title>
+    <desc lang="en">今週も芸能人が愛用している「お取り寄せ」を披露し合う「芸能人お取り寄せグルメ編」あの人は一体、どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
+  </programme>
+  <programme start="20210909023400 +0900" stop="20210909041900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
+  </programme>
 <programme start="20210908025600 +0900" stop="20210908030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -896,13 +876,22 @@
   <title lang="en">まんが未知</title>
   <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◇柔道と異世界転生が合体してできたトム・ブラウン原作の漫画が誕生！</desc>
 </programme>
-<programme start="20210908015800 +0900" stop="20210908023800 +0900" channel="TBS2.jp">
-  <title lang="en">アカデミーナイトG</title>
-  <desc lang="en">キンプリ平野紫耀×橋本環奈「かぐや様は告らせたい」原作・赤坂アカ先生が映画グッドポイントを発表！成田凌×黒木華話題の朗読劇！キスマイ藤ヶ谷太輔主演ミュージカル！</desc>
+<programme start="20210909021600 +0900" stop="20210909023600 +0900" channel="Asahi.jp">
+  <title lang="en">あるある土佐カンパニー</title>
+  <desc lang="en">土佐兄弟が“新しいあるあるを見つける会社”を遂に設立『高校生あるある』で話題！動画アプリ５億回再生を記録した土佐兄弟の初冠番組。毎週愉快なあるあるをお届けします</desc>
 </programme>
-<programme start="20210908023800 +0900" stop="20210908024500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20210909023600 +0900" stop="20210909025600 +0900" channel="Asahi.jp">
+  <title lang="en">キョコロヒー</title>
+  <desc lang="en">日向坂46の齊藤京子と芸人のヒコロヒー。京子とヒコロヒーで「キョコロヒー」。ダンスの新たな魅力と可能性を追求する、トーン低めのダンスバラエティー番組です。</desc>
+</programme>
+<programme start="20210909025600 +0900" stop="20210909030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20210909030000 +0900" stop="20210909033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20210908024500 +0900" stop="20210908034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -984,17 +973,10 @@
   <title lang="en">イベントGO!</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210908013500 +0900" stop="20210908020500 +0900" channel="TVTokyo.jp">
-  <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
-  <desc lang="en">「私をブッキングしてください！０円で！」山内瑞葵がテレ東Pに力技直接交渉！テレ東にブレイクダンス部発足！？▽生配信企画！メンバーがNGなしで何でも答えます！</desc>
-</programme>
-<programme start="20210908020500 +0900" stop="20210908023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
-</programme>
-<programme start="20210908023500 +0900" stop="20210908024000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+<programme start="20210909020500 +0900" stop="20210909034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20210908024000 +0900" stop="20210908032000 +0900" channel="TVTokyo.jp">
   <title lang="en">きのう何食べた?</title>
@@ -1143,6 +1125,14 @@
   <desc lang="en">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！
 今回はこれまでに泣く泣くカットした未公開の面白トークばかり！一気にお見せします！</desc>
 </programme>
+<programme start="20210909020500 +0900" stop="20210909023500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
+<programme start="20210909023500 +0900" stop="20210909030500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ドラゴンクエスト ダイの大冒険</title>
+  <desc lang="en">魔王軍との決戦に向け特訓を終えた仲間たちが続々と集結、作戦の要衝となる亡き師アバンの故郷カール王国を目指すが、眼前の決戦の地“死の大地”には異変が起きていた…‼</desc>
+</programme>
 <programme start="20210908015500 +0900" stop="20210908040000 +0900" channel="FujiTV.jp">
   <title lang="en">ミッドナイト・スペシャル</title>
   <desc lang="en">絶え間なく続く緊張感と、見事な演技に魅せられる、超常現象スリラー！</desc>
@@ -1231,17 +1221,9 @@
   <title lang="en">CITY POP CRUISING</title>
   <desc lang="en">今、世界から熱い注目を集めるＣＩＴＹ　ＰＯＰ。海外ファンの生の声を通して、ＣＩＴＹ　ＰＯＰの魅力を再発見するシリーズ番組がスタート！</desc>
 </programme>
-<programme start="20210908013500 +0900" stop="20210908020500 +0900" channel="Tokyo MX">
-  <title lang="en">69号室の住人</title>
-  <desc lang="en">ニューシングル「囮囚（ばけもの）」をリリースするＢＬＵＥ　ＥＮＣＯＵＮＴがメンバー全員で登場！近況から今作の制作秘話、そして個性がぶつかり合う４人の素顔に迫る！</desc>
-</programme>
-<programme start="20210908020500 +0900" stop="20210908023400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210908023400 +0900" stop="20210908023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210909025000 +0900" stop="20210909034500 +0900" channel="FujiTV.jp">
+  <title lang="en">遊び方改革</title>
+  <desc lang="en">ずん飯尾×ノートを使った究極の暇つぶし▽ロッチ中岡×美女と最新キャンプ▽とにかく明るい安村×最先端ドローンサッカー！大人が本気になれる「遊び方改革」バラエティ！</desc>
 </programme>
 <programme start="20210908023500 +0900" stop="20210908030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
@@ -1421,6 +1403,22 @@
 </programme>
 <programme start="20210909013500 +0900" stop="20210909020500 +0900" channel="Tokyo MX">
   <title lang="en">ノーゲーム・ノーライフ</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210909020500 +0900" stop="20210909023400 +0900" channel="Tokyo MX">
+  <title lang="en">MIRAI系アイドルTV</title>
+  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
+</programme>
+<programme start="20210909023400 +0900" stop="20210909023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210909023500 +0900" stop="20210909030000 +0900" channel="Tokyo MX">
+  <title lang="en">せとチャレ!STU48</title>
+  <desc lang="en">ゆみりん＆ほのたんがゲストの学天即と愛媛ロケ！▼松山発祥！野球拳‼▼瀬戸内唯一といわれるモノマネパブを訪問！▼愛媛のエンタメを学び、全力でチャレンジします！</desc>
+</programme>
+<programme start="20210909030000 +0900" stop="20210909033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 </tv>
