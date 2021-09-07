@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210907135500 +0900" stop="20210907140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">多胡肇、加藤由美子、原川愛、吉江晴菜、矢作あかり</desc>
-  </programme>
-  <programme start="20210907140000 +0900" stop="20210907140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース・気象情報</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210907140500 +0900" stop="20210907145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">うたコン</title>
-    <desc lang="en">２０２１年上半期に放送した歌の名場面をお届けします▽視聴者の皆様のリクエストにもたっぷりお答えします！</desc>
-  </programme>
   <programme start="20210907145000 +0900" stop="20210907150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">来年度の予算編成に向けた動きが本格化。新型コロナ対策や安全保障などで予算要求が膨らむ一方で、国が財源と頼る国債発行総額もさらに膨らむ。財政の現状と課題とは。</desc>
@@ -318,21 +306,25 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210907135000 +0900" stop="20210907140000 +0900" channel="eTele.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「イスラム世界と西欧の２０年」内藤正典（同志社大学教授）</desc>
+  <programme start="20210908140500 +0900" stop="20210908143300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">所さん!大変ですよ</title>
+    <desc lang="en">「介護」が必要な高齢ペットが増えている。おむつに流動食、老人ホームならぬ老犬ホームまで、ペット介護の最前線を取材。命を全うさせたいと奮闘する人々の思いとは。</desc>
   </programme>
-  <programme start="20210907140000 +0900" stop="20210907141000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 あらためまして ベーシック国語</title>
-    <desc lang="en">国語の基本を学ぶ講座バラエティー。滝沢カレンと金田一秀穂先生、謎のオウムが国語の授業を行う。今回は「ことわざ・慣用句」。慣用句クイズにカレンさんの回答はいかに？</desc>
+  <programme start="20210908143300 +0900" stop="20210908144700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん縦断 こころ旅 リクエストアワー</title>
+    <desc lang="en">火野正平さんの「こころ旅」。秋の旅が１３日からスタート！　その直前、これまでの放送から「もう一度見たい！」名場面を大特集！今回のテーマは「ちいさな秋みつけた！」</desc>
   </programme>
-  <programme start="20210907141000 +0900" stop="20210907143000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 国語表現</title>
-    <desc lang="en">「国語表現」は「話す」、「聞く」、「書く」など言語感覚を磨いて、表現する能力の向上をめざす教科です。今回のテーマは「川柳を作る」です。</desc>
+  <programme start="20210908144700 +0900" stop="20210908145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">第５波の感染拡大をもたらしているデルタ株。なぜ重症化しやすいのか？最新研究によって、そのメカニズムが見えてきた。</desc>
   </programme>
-  <programme start="20210907143000 +0900" stop="20210907144000 +0900" channel="eTele.jp">
-    <title lang="en">ロンリのちから</title>
-    <desc lang="en">論理的思考力を養う番組です。毎回、簡単な例文を題材に、論理的に考えるとはどういうことかを学んでいきます。今回は「類比論法」について学びます。</desc>
+  <programme start="20210908145000 +0900" stop="20210908150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">高齢化が急速に進む中、運転ミスによる事故をどう防ぐかが大きな課題に。自動車メーカーが進める技術的な対策は？免許更新制度をどう変え、免許返納後の足をどう確保する？</desc>
+  </programme>
+  <programme start="20210908150000 +0900" stop="20210908150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210907144000 +0900" stop="20210907150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 生物基礎</title>
@@ -682,6 +674,18 @@
     <title lang="en">NHK高校講座 化学基礎</title>
     <desc lang="en">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
   </programme>
+  <programme start="20210908142000 +0900" stop="20210908144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 物理基礎</title>
+    <desc lang="en">流しそうめんでそうめんが流れるのも、射的銃でコルクを飛ばせるのも、どちらも「位置エネルギー」によるもの。位置エネルギーって何だろう？実験で解き明かしていこう。</desc>
+  </programme>
+  <programme start="20210908144000 +0900" stop="20210908150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地学基礎</title>
+    <desc lang="en">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は、地球の大きさと形について調べていきます。</desc>
+  </programme>
+  <programme start="20210908150000 +0900" stop="20210908152500 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">選者は片山由美子さん。ゲストは明治大学教授の齋藤孝さん。題は秋彼岸。「声に出して読みたい日本語」で知られる齋藤さんに曽根崎心中の道行を朗読してもらう。武井壮</desc>
+  </programme>
   <programme start="20210907135500 +0900" stop="20210907155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">▽ポスト菅…水面下「派閥」の動き▽新型コロナ、ブレークスルー感染実態▽肌寒さ体調管理注意</desc>
@@ -782,10 +786,6 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20210907134900 +0900" stop="20210907144700 +0900" channel="Asahi.jp">
-  <title lang="en">科捜研の女14</title>
-  <desc lang="en">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
-</programme>
 <programme start="20210907144700 +0900" stop="20210907154300 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女14</title>
   <desc lang="en">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
@@ -910,6 +910,10 @@ by.The Kinks</desc>
 <programme start="20210908134900 +0900" stop="20210908144600 +0900" channel="Asahi.jp">
   <title lang="en">刑事7人7</title>
   <desc lang="en">「ｖｓ真夏の完全犯罪計画…富豪の死と騙し合いゲーム」東山紀之(他)▽家政婦と共謀し、遺産目的で資産家の母を毒殺した息子。自殺を偽装する計画を進めていたところ、突然…</desc>
+</programme>
+<programme start="20210908144600 +0900" stop="20210908154300 +0900" channel="Asahi.jp">
+  <title lang="en">科捜研の女12</title>
+  <desc lang="en">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
 </programme>
 <programme start="20210907135500 +0900" stop="20210907154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1159,10 +1163,6 @@ by.The Kinks</desc>
   <title lang="en">午後のロードショー</title>
   <desc lang="en">シンングルマザーのカーラは、最愛の息子が何者かに連れ去られる瞬間を目撃。慌てて犯人の車を追うが振り切られてしまう…。ハル・ベリー主演ノンストップアクション！</desc>
 </programme>
-<programme start="20210907115500 +0900" stop="20210907144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">どうなる自民党総裁選？高市早苗議員が生出演…安倍前首相からの支援は▽「下品な娯楽排除」中国が美少年アイドル“排除”進めるワケ▽京都市が財政破綻の危機に</desc>
-</programme>
 <programme start="20210907144500 +0900" stop="20210907154500 +0900" channel="FujiTV.jp">
   <title lang="en">HERO</title>
   <desc lang="en">合コン三昧の遠藤が人を刺した！？仲間の逮捕に揺らぐ城西支部に、東京地検特捜部の捜査のメスが入る！身内の不祥事の影でうごめく黒い陰謀とは！？赤い服の男を追え！</desc>
@@ -1247,17 +1247,9 @@ by.The Kinks</desc>
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナがおぎやはぎと豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！３時間生放送</desc>
 </programme>
-<programme start="20210907135500 +0900" stop="20210907140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20210907140000 +0900" stop="20210907143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210907143000 +0900" stop="20210907145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210908144500 +0900" stop="20210908154500 +0900" channel="FujiTV.jp">
+  <title lang="en">HERO</title>
+  <desc lang="en">久利生と麻木、１泊２日の熱海出張…恋路の果てに起きた事件の、意外すぎる結末とは？馬場検事の元夫の登場に動揺する男たち。城西支部に愛憎の嵐が吹き荒れる！？</desc>
 </programme>
 <programme start="20210907145900 +0900" stop="20210907150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1440,6 +1432,18 @@ by.The Kinks</desc>
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20210908140000 +0900" stop="20210908143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210908143000 +0900" stop="20210908145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210908145900 +0900" stop="20210908150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210908150000 +0900" stop="20210908153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
