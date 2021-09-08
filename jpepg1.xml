@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210908193000 +0900" stop="20210908201500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ガッテン!</title>
-    <desc lang="en">２０代から５０代という比較的若い年齢で発症する人が多い「関節が痛むある病気」。患者である人気ユーチューバーがその病気の実態を告白！早期発見法や最新治療もご紹介！</desc>
-  </programme>
-  <programme start="20210908201500 +0900" stop="20210908201700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210908201700 +0900" stop="20210908204400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">サンドのお風呂いただきます</title>
-    <desc lang="en">純烈ＳＰ第４弾。後上翔太はいかにしてギャル男から純烈に欠かせない存在になったのか？舞台は熱海。息子を見守り続けた父がいま明かす秘話！２０年ぶりに親子で温泉へ！</desc>
-  </programme>
-  <programme start="20210908204400 +0900" stop="20210908204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">オシばん</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20210908204500 +0900" stop="20210908210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -330,17 +314,21 @@
     <title lang="en">日本人のおなまえ</title>
     <desc lang="en">乃木坂４６・櫻坂４６・日向坂４６。多くのファンから支持を集める３組。そのグループ名の由来となった、東京都内に実在する「乃木坂」「櫻坂」「日向坂」を総力取材！</desc>
   </programme>
-  <programme start="20210908195500 +0900" stop="20210908200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20210909204200 +0900" stop="20210909204400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">第５波の感染拡大をもたらしているデルタ株。なぜ重症化しやすいのか？最新研究によって、そのメカニズムが見えてきた。</desc>
   </programme>
-  <programme start="20210908200000 +0900" stop="20210908203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">建設現場など非正規で働く者たちの野外芝居集団「水族館劇場」▽巨大な仮設劇場・大量の水が降り注ぐ舞台に観客騒然▽突然の病や身内の死・開幕出来るか！？▽語り三上博史</desc>
+  <programme start="20210909204400 +0900" stop="20210909204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">オシばん</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20210908203000 +0900" stop="20210908204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">肩が激しく痛む、腕が上がらない、症状は五十肩と似ているが腱板断裂の可能性も。腱板断裂は五十肩のようには自然と治らない。見分け方と治療法を特集する</desc>
+  <programme start="20210909204500 +0900" stop="20210909210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20210909210000 +0900" stop="20210909220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽コロナ治療薬の“現在地”自宅療養向けの開発は？最新状況をまとめて伝えます▽緊急事態宣言延長？解除に向けて必要なのは▽混戦自民総裁選どうなる野党の動きもくわしく</desc>
   </programme>
   <programme start="20210908204500 +0900" stop="20210908210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -674,6 +662,18 @@
     <title lang="en">バリバラ〜障害者情報バラエティー〜</title>
     <desc lang="en">“ネットでバズる”ファッション誌の「着回し企画」に車いすのモデルが売りこみ！座り時間が増えたのに誌面を飾るモデルは立ち姿ばかり。編集部が明かす意外な理由とは？</desc>
   </programme>
+  <programme start="20210909203000 +0900" stop="20210909204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">肩のこりや痛みについて、視聴者からの質問にお答えする。テニス後に痛む原因は？五十肩と腱板断裂の見分け方。首の不快感と関係ある？など役立つ情報がたくさん！</desc>
+  </programme>
+  <programme start="20210909204500 +0900" stop="20210909210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20210909210000 +0900" stop="20210909212500 +0900" channel="eTele.jp">
+    <title lang="en">パリジェンヌの田舎暮らし</title>
+    <desc lang="en">女性誌などで活躍するイラストレーターのイザベル・ボワノがフランスの職人たちによる味わい深い手仕事の世界をご紹介。今回はヤナギを編んだかごの魅力に迫る。</desc>
+  </programme>
   <programme start="20210908190000 +0900" stop="20210908215400 +0900" channel="NipponTV.jp">
     <title lang="en">ネタフェス</title>
     <desc lang="en">今田有吉も爆笑‼秒殺ショートネタ44連発▽かまいたちM-1王者フット後藤”後輩のつい笑っちゃうネタ”大発表▽今、劇場でバカウケ中の”ハコ沸かせ芸人”頂上決戦</desc>
@@ -777,10 +777,15 @@
     <title lang="en">ぐるぐるナインティナイン</title>
     <desc lang="en">超メイク術が話題！超人気ジャニーズ㊙メンバーいきなりバク転⁉元国民的アイドルＳがゴスロリ悲鳴⁉まさかの俳優Ｋがハリポタ熱演⁉元五輪選手怪演⁉カレンが鼻で見破る⁉</desc>
   </programme>
-<programme start="20210908184500 +0900" stop="20210908205400 +0900" channel="Asahi.jp">
-  <title lang="en">くりぃむクイズ ミラクル9</title>
-  <desc lang="en">女子バスケ髙田真希が初登場！キャプテン柳葉敏郎との意外な関係は？フェンシング協会会長 武井壮・ジャニーズ宮近ら今をときめく人気者が集結し奇跡と波乱の２時間ＳＰ！</desc>
-</programme>
+  <programme start="20210909205400 +0900" stop="20210909210000 +0900" channel="NipponTV.jp">
+    <title lang="en">このあと秘密のケンミンSHOW極ダウンタウンDX</title>
+    <desc lang="en">ケンミン…日本一の浜松餃子！大量野菜で超ヘルシー＆愛知衝撃！焦げ焦げみたらし団子
+ＤＸ…ぺこぱ＆マヂラブが告発！ウチの事務所のウラ側丸裸ＳＰ…ギャラ事情＆鬼営業</desc>
+  </programme>
+  <programme start="20210909210000 +0900" stop="20210909215400 +0900" channel="NipponTV.jp">
+    <title lang="en">秘密のケンミンSHOW極</title>
+    <desc lang="en">日本一の餃子帝国・浜松餃子の底力！野菜たっぷり＆つけ合わせはもやし！衝撃ヘルシーの秘密▽愛知のみたらし団子は焦げ焦げ！？▽秘密のＯＳＡＫＡ「爆笑！大阪弁講座」</desc>
+  </programme>
 <programme start="20210908205400 +0900" stop="20210908210000 +0900" channel="Asahi.jp">
   <title lang="en">世界の街道をゆく</title>
   <desc lang="en">今に受け継ぐニューディール政策の道・アメリカ</desc>
@@ -904,9 +909,13 @@
   <title lang="en">IP〜サイバー捜査班</title>
   <desc lang="en">最終章！佐々木蔵之介がサイバー捜査のスペシャリストに！ソーシャルハッキング、ディープフェイク…あなたの身近に迫る＜姿なき犯罪＞に最先端のサイバー技術で挑む！</desc>
 </programme>
-<programme start="20210908190000 +0900" stop="20210908200000 +0900" channel="TBS2.jp">
-  <title lang="en">東大王</title>
-  <desc lang="en">鶴崎＆伊沢興奮の新ステージ！ヒット曲の歌詞の中に超難問！曲が終わるまでに５問正解は？▽絶好調の東大王がピンチ！？伊沢大将芸能人軍が覚醒！２軍落ちを阻止できる？</desc>
+<programme start="20210909205400 +0900" stop="20210909210000 +0900" channel="Asahi.jp">
+  <title lang="en">世界の街道をゆく</title>
+  <desc lang="en">今に受け継ぐニューディール政策の道・アメリカ</desc>
+</programme>
+<programme start="20210909210000 +0900" stop="20210909220400 +0900" channel="Asahi.jp">
+  <title lang="en">緊急取調室</title>
+  <desc lang="en">＜キントリ、終わりの始まり―＞天海祐希vsキントリそっくりな女たち⁉物流センターで起きた殺人事件が嵐を呼ぶ！キントリメンバーの菱本が逮捕される⁉</desc>
 </programme>
 <programme start="20210908200000 +0900" stop="20210908215700 +0900" channel="TBS2.jp">
   <title lang="en">ワールド極限ミステリー</title>
@@ -1260,10 +1269,6 @@
   <title lang="en">奇跡体験!アンビリバボー</title>
   <desc lang="en">家族が揃うと奇跡が起きる！世界中の家族が巻き起こす爆笑・仰天・感動の瞬間！面白＆ハプニング映像から驚愕のミステリー、心温まるストーリーまで！</desc>
 </programme>
-<programme start="20210908193000 +0900" stop="20210908200000 +0900" channel="Tokyo MX">
-  <title lang="en">スター☆トゥインクルプリキュア</title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20210908200000 +0900" stop="20210908210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">スタジオゲストは政府の新型コロナ対策分科会の小林慶一郎氏。▼緊急事態宣言の今後や経済との両立について小林氏に聞く。</desc>
@@ -1459,5 +1464,9 @@
 <programme start="20210909200000 +0900" stop="20210909210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">政府が東京の緊急事態宣言の延長を決定か？最新情報！▼感染収束後を見すえた政府の規制緩和策の中身は？なぜ今？</desc>
+</programme>
+<programme start="20210909210000 +0900" stop="20210909215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">ＮＥＷＳ小山慶一郎＆ナジャ・グランディーバが大暴走！ＭＣは「新・東京　夜の顔」ふかわりょう＆大島由香里。人生をダンディに語らう１時間。数少ない活版印刷職人に迫る</desc>
 </programme>
 </tv>
