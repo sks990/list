@@ -50,22 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210908155500 +0900" stop="20210908160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「パプリカ　あしたにたねをまこう！バージョンＢ」うた：Ｆｏｏｒｉｎ／「パプリカ　みんなとダンスⅡ」うた：パプリカ　こども＆おとな合唱団</desc>
-  </programme>
-  <programme start="20210908160000 +0900" stop="20210908162000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210908162000 +0900" stop="20210908163500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 花子とアン</title>
-    <desc lang="en">門倉（茂木健一郎）は『アン・オブ・グリン・ゲイブルズ』の出版に取りかかるため急いで帰ってゆく。花子（吉高由里子）は英治（鈴木亮平）から祝福されるも早々に推こうへ</desc>
-  </programme>
-  <programme start="20210908163500 +0900" stop="20210908165000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 花子とアン</title>
-    <desc lang="en">花子（吉高由里子）は宇田川（山田真歩）から、『赤毛のアン』を読んでまた書けそうな気がする、と初めてお礼を言われる。花子の家族や友人たちもそれぞれの場所で…</desc>
-  </programme>
   <programme start="20210908165000 +0900" stop="20210908180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュース シブ5時</title>
     <desc lang="en">▽緊急事態宣言１２日期限へ扱いどうなる　▽クレイジーケンバンド横山剣さんの宝物は少年時代の憧れが原点</desc>
@@ -76,11 +60,11 @@
   </programme>
   <programme start="20210908181000 +0900" stop="20210908183000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ネットワーク</title>
-    <desc lang="en">首都圏１都６県で注目のニュース、生活に役立つ情報を高井正智・林田理沙が現場を駆け抜け、街を訪ね歩いた経験を基にいち早く、より深くお伝えします。</desc>
+    <desc lang="en">東京新型コロナ感染者きょうは１８３４人▽緊急事態宣言の行方は▽埼玉県で深刻な状況・在宅診療医師の奮闘▽台風１５号からあすで２年・停電対策はどこまで進んだか</desc>
   </programme>
   <programme start="20210908183000 +0900" stop="20210908190000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ネットワーク</title>
-    <desc lang="en">もっと身近に、さらにきめ細かく！あなたに近い街・首都圏各地域のニュースや話題をとことん掘り起こします。気象情報は関東各県くわしくお伝えします。</desc>
+    <desc lang="en">半世紀あまり親しまれた神奈川県三浦市にある「京急油壺マリンパーク」が今月末に閉館へ・４０年以上飼育などを担当してきたベテラン職員の思いは…</desc>
   </programme>
   <programme start="20210908190000 +0900" stop="20210908193000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース7</title>
@@ -322,25 +306,41 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210908154500 +0900" stop="20210908160000 +0900" channel="eTele.jp">
-    <title lang="en">ノージーのひらめき工房</title>
-    <desc lang="en">４〜５歳児からの子どもたちに向けた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
+  <programme start="20210909160500 +0900" stop="20210909161500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ダーウィンが来た!10min.</title>
+    <desc lang="en">２本足で立ち、全身毛むくじゃら。南米の村で“獣人”と恐れられてきた伝説の生物に遭遇。巨体で大ジャンプしたり、断崖絶壁で子育てしたり。正体は謎だらけのクマだった！</desc>
   </programme>
-  <programme start="20210908160000 +0900" stop="20210908160500 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「素敵な夜」うた：Ｖ６／「スナビキソウ」うた：遥海</desc>
+  <programme start="20210909161500 +0900" stop="20210909162000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">パリから帰国した栄一は、静岡で再スタートを決意。そこに舞い込んだ新政府への誘い…。持ち前の才覚で、どう時代を切り開くのか？新時代・明治の栄一の活躍をたっぷり紹介</desc>
   </programme>
-  <programme start="20210908160500 +0900" stop="20210908162000 +0900" channel="eTele.jp">
-    <title lang="en">いないいないばあっ!</title>
-    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+  <programme start="20210909162000 +0900" stop="20210909162500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大家さんと僕</title>
+    <desc lang="en">「大家さんと僕」が帰ってきました。あの大ヒット漫画がアニメ化。芸人の僕と大家のおばあさんの、ちょっぴりおかしくて、じんと心温まる交流を描きます。</desc>
   </programme>
-  <programme start="20210908162000 +0900" stop="20210908164400 +0900" channel="eTele.jp">
-    <title lang="en">おかあさんといっしょ</title>
-    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+  <programme start="20210909162500 +0900" stop="20210909163000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大家さんと僕</title>
+    <desc lang="en">大ヒット漫画をアニメ化。「大家さんと僕」ふたたび。３９歳の僕と８７歳のおばあさんの大家さんの、不思議な交流を描く。そこにはいつも、やさしい時間が流れている…</desc>
   </programme>
-  <programme start="20210908164400 +0900" stop="20210908164500 +0900" channel="eTele.jp">
-    <title lang="en">パプリカ</title>
-    <desc lang="en">米津玄師が作詞・作曲した＜ＮＨＫ＞２０２０応援ソング「パプリカ」をＦｏｏｒｉｎやこども番組の人気キャラクターたちが歌い踊りつないでいく１分。</desc>
+  <programme start="20210909163000 +0900" stop="20210909163500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大家さんと僕</title>
+    <desc lang="en">大ヒット漫画がアニメ化。３９歳の僕と８７歳の大家さんが織りなす、泣いて笑える「二人暮らし」。何気ない日常がドラマティック。今夜は、誕生日のサプライズ…</desc>
+  </programme>
+  <programme start="20210909163500 +0900" stop="20210909164000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大家さんと僕</title>
+    <desc lang="en">３９歳の「僕」と８７歳、おばあさんの大家さんが織りなす、泣いて笑える、不思議な二人暮らし。大ヒット漫画をアニメ化。今夜も、５分間、癒やされてみませんか。</desc>
+  </programme>
+  <programme start="20210909164000 +0900" stop="20210909164500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大家さんと僕</title>
+    <desc lang="en">トホホな芸人の「僕」３９歳、チャーミングな８７歳のおばあちゃんの大家さん。二人の交流は絶妙な距離感で、ちょっぴり泣けてちょっぴりユーモラス。癒やされる５分間を。</desc>
+  </programme>
+  <programme start="20210909164500 +0900" stop="20210909165000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">＜豪華キャスト編＞ドラマの魅力でもある池松壮亮をはじめとする豪華キャスト。撮影に密着することで見えた俳優たちの姿。彼らは果たして演出家・オダギリをどう見たのか。</desc>
+  </programme>
+  <programme start="20210909165000 +0900" stop="20210909180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース シブ5時</title>
+    <desc lang="en">▽緊急事態宣言　東京など都市部中心に延長決定の方針　▽能町みね子さんが秋場所の見どころ紹介　相撲部注目は横綱照ノ富士と異色経歴力士</desc>
   </programme>
   <programme start="20210908164500 +0900" stop="20210908170000 +0900" channel="eTele.jp">
     <title lang="en">みいつけた!</title>
@@ -670,6 +670,26 @@
     <title lang="en">みんなのうた</title>
     <desc lang="en">「わらいかわせみに話すなよ」楠トシエ／「今でも船長と呼ばれている船長の夜」菅原洋一／「気球にのって」東京放送児童合唱団／「ひげなしゴゲジャバル」ペギー葉山</desc>
   </programme>
+  <programme start="20210909160500 +0900" stop="20210909162000 +0900" channel="eTele.jp">
+    <title lang="en">いないいないばあっ!</title>
+    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+  </programme>
+  <programme start="20210909162000 +0900" stop="20210909164400 +0900" channel="eTele.jp">
+    <title lang="en">おかあさんといっしょ</title>
+    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+  </programme>
+  <programme start="20210909164400 +0900" stop="20210909164500 +0900" channel="eTele.jp">
+    <title lang="en">パプリカ</title>
+    <desc lang="en">Ｆｏｏｒｉｎ楽団の１５人がリモート演奏でつながる「パプリカ」スペシャル版！君もおうちで作ったお花を持って、元気におどろう！がんばっている人たちにエールを送ろう！</desc>
+  </programme>
+  <programme start="20210909164500 +0900" stop="20210909170000 +0900" channel="eTele.jp">
+    <title lang="en">みいつけた!</title>
+    <desc lang="en">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
+  </programme>
+  <programme start="20210909170000 +0900" stop="20210909171000 +0900" channel="eTele.jp">
+    <title lang="en">にほんごであそぼ</title>
+    <desc lang="en">今週は、日本全国いいとこコンサート。今日も奈良の魅力を楽しくお届します！曲「どすこい！すもうの決まり手」「すまいのせちえ」</desc>
+  </programme>
   <programme start="20210908155000 +0900" stop="20210908190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
     <desc lang="en">混迷深める自民総裁選“河野・石破”連携は水面下の駆け引き行方▽接種予約ガラガラ？東京で広がる接種格差▽せばまる中国包囲網日本と欧米連携の現場</desc>
@@ -769,10 +789,6 @@
     <title lang="en">news every.</title>
     <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
   </programme>
-<programme start="20210908154300 +0900" stop="20210908164000 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season4</title>
-  <desc lang="en">「最後の着信」水谷豊、寺脇康文(他)▽公園で男性の転落死体が発見される。所持品は白、赤、黒の３台の携帯電話。手に握られていた白い携帯電話には着信履歴が残されていた…</desc>
-</programme>
 <programme start="20210908164000 +0900" stop="20210908184500 +0900" channel="Asahi.jp">
   <title lang="en">スーパーJチャンネル</title>
   <desc lang="en">都の感染は減少傾向か“宣言”延長？不安も…シルバーウィーク波紋▽自民総裁選どうなる▽警戒‼台風の進路は▽まさかの無人販売店…１万円台で大型家電が(他)</desc>
@@ -892,6 +908,10 @@
   <title lang="en">緊急取調室4</title>
   <desc lang="en">「大嘘つきか…本物か？霊能力者と頭脳戦‼」天海祐希(他)▽失踪した医師の霊から助けを求められたと霊能力者が警視庁を訪れた直後、失踪中の美容外科医のバッグが見つかり…</desc>
 </programme>
+<programme start="20210909164000 +0900" stop="20210909184500 +0900" channel="Asahi.jp">
+  <title lang="en">スーパーJチャンネル</title>
+  <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+</programme>
 <programme start="20210908154900 +0900" stop="20210908190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">感染ピークまだ見えず　もう何度目？宣言延長　政府方針まもなく決定▽経済まわす段階へ？ワクチン“接種証明”民間は自衛で先行活用　接種義務化の議論も？ほか</desc>
@@ -974,10 +994,6 @@
 <programme start="20210909154900 +0900" stop="20210909190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！「ＮｅｗｓＣｌｉｐ」でニュースからエンタメ・カルチャーまで！６時１５分からはグルメ情報も！</desc>
-</programme>
-<programme start="20210908154000 +0900" stop="20210908165400 +0900" channel="TVTokyo.jp">
-  <title lang="en">よじごじDays</title>
-  <desc lang="en">みちのく盛岡の旬グルメをご紹介▽岩手が誇る短角牛の赤身ステーキ▽麺王国の王道わんこそば＆盛岡冷麺▽三陸産魚介で掟破りの刺身×天ぷらコラボ▽極上の桃パンナコッタ</desc>
 </programme>
 <programme start="20210908165400 +0900" stop="20210908170000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゆうがたサテライト</title>
@@ -1138,6 +1154,14 @@
   <title lang="en">よじごじDays</title>
   <desc lang="en">人気観光地の一歩先の魅力を、全国各地のプロカメラマンが激撮！日光東照宮の三猿に秘められた物語とは!?長崎県の料亭では、坂本龍馬直筆の書を発見！…など見どころ満載！</desc>
 </programme>
+<programme start="20210909165400 +0900" stop="20210909170000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ゆうがたサテライト</title>
+  <desc lang="en">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
+</programme>
+<programme start="20210909170000 +0900" stop="20210909171000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
 <programme start="20210908154500 +0900" stop="20210908190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">“Ｗ台風”最新進路は？▽河野＆高市氏いつ表明▽医療現場の危機は今▽今年のレシピ本大賞▽学び直しで収入ＵＰ▽成田空港で“没収”海外から禁止品が続々ほか</desc>
@@ -1233,14 +1257,6 @@
 <programme start="20210909154500 +0900" stop="20210909190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-</programme>
-<programme start="20210908153000 +0900" stop="20210908160000 +0900" channel="Tokyo MX">
-  <title lang="en">花道だけ歩きましょう〜恋の花が咲きました〜</title>
-  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
-</programme>
-<programme start="20210908160000 +0900" stop="20210908163000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20210908163000 +0900" stop="20210908170000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1429,5 +1445,13 @@
 <programme start="20210909160000 +0900" stop="20210909163000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210909163000 +0900" stop="20210909170000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210909170000 +0900" stop="20210909180000 +0900" channel="Tokyo MX">
+  <title lang="en">5時に夢中!</title>
+  <desc lang="en">木曜日は文壇ガールズ…岩井志麻子＆中瀬ゆかり！▼話題の注目記事で激論！井戸端報道！▼前半は【追跡・スナックの名前の意図を調査】▼後半は【新漢字クリエイト開催】</desc>
 </programme>
 </tv>
