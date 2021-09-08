@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210908124500 +0900" stop="20210908130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 おかえりモネ</title>
-    <desc lang="en">「あさキラッ」視聴率低迷を打破するため、朝岡（西島秀俊）は高村（高岡早紀）にある提案を持ちかける。その提案で莉子は、ますます追いつめられることに。</desc>
-  </programme>
-  <programme start="20210908130000 +0900" stop="20210908130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210908130500 +0900" stop="20210908135500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">列島ニュース</title>
-    <desc lang="en">ＮＨＫ各放送局のお昼のニュースを集めて、キーステーションの大阪拠点放送局からお届け。地域の最新ニュース、新型コロナ関連の情報などをダイジェストでお伝えします。</desc>
-  </programme>
   <programme start="20210908135500 +0900" stop="20210908140000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">テレビ体操</title>
     <desc lang="en">鈴木大輔、加藤由美子、今井菜津美、矢作あかり、戸塚寛子</desc>
@@ -318,21 +306,17 @@
     <title lang="en">ニュース</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210908125500 +0900" stop="20210908130000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ヨルガオ」ｎａｎｏ．ＲＩＰＥ／「世界はハーモニー」サーカス／「ダンディーひつじ執事」藤澤ノリマサ／「ｍｏｏｎｆｅｓｔａ　〜ムーンフェスタ〜」Ｋａｌａｆｉｎａ</desc>
+  <programme start="20210909130500 +0900" stop="20210909135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">列島ニュース</title>
+    <desc lang="en">ＮＨＫ各放送局のお昼のニュースを集めて、キーステーションの大阪拠点放送局からお届け。地域の最新ニュース、新型コロナ関連の情報などをダイジェストでお伝えします。</desc>
   </programme>
-  <programme start="20210908130000 +0900" stop="20210908130500 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】工藤咲子</desc>
+  <programme start="20210909135500 +0900" stop="20210909140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">岡本美佳、能條貴大、舘野伶奈、今井菜津美、矢作あかり</desc>
   </programme>
-  <programme start="20210908130500 +0900" stop="20210908133500 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">凍傷になりながらも自宅にこだわる認知症のお年寄り、コロナ下で最期が近づく母のために何が出来るか葛藤する息子。さまざまな思いが交差する鹿児島県の介護事業所の日々。</desc>
-  </programme>
-  <programme start="20210908133500 +0900" stop="20210908135000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">乳がんの治療をしている人の多くを悩ませるのが、体重。なんと患者の７割は体重が増えています。しかも肥満度が上昇すると、再発や死亡のリスクが高くなることも明らかに。</desc>
+  <programme start="20210909140000 +0900" stop="20210909140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210908135000 +0900" stop="20210908140000 +0900" channel="eTele.jp">
     <title lang="en">視点・論点</title>
@@ -662,9 +646,25 @@
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】小野寺善子</desc>
   </programme>
-  <programme start="20210908115500 +0900" stop="20210908135500 +0900" channel="NipponTV.jp">
-    <title lang="en">ヒルナンデス!</title>
-    <desc lang="en">料理のプロが真剣プレゼン！トマト味噌、豚こまとちくわで作るピーマンの肉詰めetc栄養満点時短レシピを大公開▼フリマ代行、家事代行、料理代行・・・注目のサービス</desc>
+  <programme start="20210909130500 +0900" stop="20210909133500 +0900" channel="eTele.jp">
+    <title lang="en">猫のしっぽ カエルの手</title>
+    <desc lang="en">沖縄の旅。栽培からばい煎まで手がけるコーヒー農家を訪ね、純沖縄産のコーヒーを味わう。サトウキビの搾り汁のみを使った昔ながらの方法で、純黒糖を作る職人との出会いも</desc>
+  </programme>
+  <programme start="20210909133500 +0900" stop="20210909135000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">日本人女性の９人に１人がかかる、乳がん。多くの人が乳がんと闘っています。ＮＨＫホームページ「健康チャンネル」に寄せられた乳がんに関する質問に専門家が答えます。</desc>
+  </programme>
+  <programme start="20210909135000 +0900" stop="20210909135500 +0900" channel="eTele.jp">
+    <title lang="en">名曲アルバム</title>
+    <desc lang="en">【ピアノ】横山幸雄　〜ドイツ・ワイマール〜</desc>
+  </programme>
+  <programme start="20210909135500 +0900" stop="20210909140000 +0900" channel="eTele.jp">
+    <title lang="en">やまと尼寺 献立帳</title>
+    <desc lang="en">「やまと尼寺」の料理自慢３人がつくる季節の献立。今回は「菊の酢のもの」。紫と黄色の食用菊をゆでて、甘酢にあえる。秋にだけ楽しめる、美しい一皿。</desc>
+  </programme>
+  <programme start="20210909140000 +0900" stop="20210909142000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 社会と情報</title>
+    <desc lang="en">「社会と情報」はプログラミングなど情報社会において不可欠な「情報活用能力」を身につけていく科目です。今回のテーマは「検索テクニック」です。</desc>
   </programme>
   <programme start="20210908135500 +0900" stop="20210908155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
@@ -761,23 +761,10 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">注目スポット二子玉の楽しみ方☆ネットでも買える珍しい観葉植物＆美味！ミルク出しコーヒー▼この夏撮った全国の美しい日本…ドローンだから見られる北海道＆長野の絶景</desc>
   </programme>
-<programme start="20210908102500 +0900" stop="20210908130000 +0900" channel="Asahi.jp">
-  <title lang="en">大下容子ワイド!スクランブル</title>
-  <desc lang="en">総裁選…高市氏“出馬表明”か？河野氏週内に立候補へ…岸田氏戦略練り直し？▽“習おじさん”学校教科書に…習近平主席“思想教育”変化は？▽武装勢力６人が脱獄(他)</desc>
-</programme>
-<programme start="20210908130000 +0900" stop="20210908133000 +0900" channel="Asahi.jp">
-  <title lang="en">徹子の部屋</title>
-  <desc lang="en">〜長男が証言…両親のイチャイチャ現場⁉〜渡辺徹さん＆渡辺裕太さん親子が今日のゲストです。</desc>
-</programme>
-<programme start="20210908133000 +0900" stop="20210908134500 +0900" channel="Asahi.jp">
-  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
-  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
-今日の料理は、ヨーグルトで軽く楽しめるグラタン</desc>
-</programme>
-<programme start="20210908134500 +0900" stop="20210908134900 +0900" channel="Asahi.jp">
-  <title lang="en">東京サイト</title>
-  <desc lang="en">下水道に集まった雨水を吸い上げ、川や海に放流する事で街を浸水から守る雨水ポンプ施設。建設中の新しいポンプ施設は、25ｍプール１杯分の水をわずか30秒で吸い上げます！</desc>
-</programme>
+  <programme start="20210909135500 +0900" stop="20210909155000 +0900" channel="NipponTV.jp">
+    <title lang="en">情報ライブ ミヤネ屋</title>
+    <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+  </programme>
 <programme start="20210908134900 +0900" stop="20210908144600 +0900" channel="Asahi.jp">
   <title lang="en">刑事7人7</title>
   <desc lang="en">「ｖｓ真夏の完全犯罪計画…富豪の死と騙し合いゲーム」東山紀之(他)▽家政婦と共謀し、遺産目的で資産家の母を毒殺した息子。自殺を偽装する計画を進めていたところ、突然…</desc>
@@ -888,9 +875,18 @@
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜９５歳で逝った盟友…“家族のようだった”橋田壽賀子さんとの６０年〜石井ふく子さんが今日のゲストです。</desc>
 </programme>
-<programme start="20210908102500 +0900" stop="20210908135500 +0900" channel="TBS2.jp">
-  <title lang="en">ひるおび!</title>
-  <desc lang="en">石破氏“結論先送り”派閥会合で「出馬見送り」意見も▽自民若手が“派閥横断”会合「派閥にとらわれず自主投票を」▽調査報道「コロナ補助金不正受給」疑惑を追及</desc>
+<programme start="20210909133000 +0900" stop="20210909134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理はみそと納豆の旨みで野菜がすすむ一品</desc>
+</programme>
+<programme start="20210909134500 +0900" stop="20210909134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">局地的な大雨によって起こる浸水被害。もし自分が遭遇したらどうすればいいのか？備えが必要です。大雨で地下室に水が流れ込むと、膝くらいの水深でも脱出できないことも…</desc>
+</programme>
+<programme start="20210909134900 +0900" stop="20210909144500 +0900" channel="Asahi.jp">
+  <title lang="en">IP〜サイバー捜査班</title>
+  <desc lang="en">「最先端マンション密室殺人‼セレブ妻とママ友５人裏の顔⁉」佐々木蔵之介(他)▽超高級マンションで有名漫画家の妻が自殺に見せかけて殺された。だが、現場は完璧な密室で…</desc>
 </programme>
 <programme start="20210908135500 +0900" stop="20210908154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -971,9 +967,9 @@
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
-<programme start="20210908114000 +0900" stop="20210908134000 +0900" channel="TVTokyo.jp">
-  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
-  <desc lang="en">▽千葉県市原市…イチジク農家直伝！生ハムイチジク▽埼玉県川口市…名物焼うどん▽マグロあら焼き＆豪快カンパチかぶと焼き▽オカワカメ㊙チャンプルー</desc>
+<programme start="20210909135500 +0900" stop="20210909154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」をやさしくお伝えします！</desc>
 </programme>
 <programme start="20210908134000 +0900" stop="20210908154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -1134,6 +1130,10 @@
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">▽千葉県白井市…名物の梨をつかった絶品ご飯▽甘辛モツ丼＆イタリアン!?いか焼き▽埼玉県秩父市…ワイン醸造所まかないポークソテー▽味噌ポテトそば</desc>
 </programme>
+<programme start="20210909134000 +0900" stop="20210909154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">大切なものを奪われ平穏な日々が一転、復讐のために一人マフィアに挑んでいく復讐劇。キアヌ・リーブス主演！カンフーと銃撃戦を融合させた迫力のアクション作品！</desc>
+</programme>
 <programme start="20210908115500 +0900" stop="20210908144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">“密フェス”の波紋広がる…「マスクしろ」叫びも１４人感染クラスター▽自民党総裁選石破氏は結論持ち越し＆河野氏出馬表明は？▽マツケン＆美川憲一動画話題</desc>
@@ -1229,14 +1229,6 @@
 <programme start="20210909115500 +0900" stop="20210909144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-</programme>
-<programme start="20210908123000 +0900" stop="20210908130000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210908130000 +0900" stop="20210908135500 +0900" channel="Tokyo MX">
-  <title lang="en">太陽の末裔</title>
-  <desc lang="en">「ヴィンチェンツォ」ソン・ジュンギ×「ボーイフレンド」ソン・ヘギョのドリームカップル誕生！あらゆる女性を虜にする、トキメキラブロマンス！〔字幕スーパー〕</desc>
 </programme>
 <programme start="20210908135500 +0900" stop="20210908140000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -1425,5 +1417,13 @@
 <programme start="20210909130000 +0900" stop="20210909135500 +0900" channel="Tokyo MX">
   <title lang="en">2gether</title>
   <desc lang="en">Twitter世界トレンド入りの超話題作！偽装彼氏が本物に？イケメン同級生とのピュアで甘い恋の駆け引きが始まる…</desc>
+</programme>
+<programme start="20210909135500 +0900" stop="20210909140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20210909140000 +0900" stop="20210909143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 </tv>
