@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210910045000 +0900" stop="20210910050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">新型コロナの緊急事態宣言を１９都道府県で延長へ。新規感染者数は減少傾向も、医療のひっ迫が続く中、医療提供体制をどう立て直すのか考える。</desc>
-  </programme>
   <programme start="20210910050000 +0900" stop="20210910060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼首相「社会経済活動の正常化　道筋つける」　▼抗体カクテル療法　受け入れ態勢に課題も　▼世界のメディアザッピング　▼リポート「消えゆく”看板建築”を記録する」</desc>
@@ -326,9 +322,25 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210910003000 +0900" stop="20210910053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
+  <programme start="20210911051000 +0900" stop="20210911051500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">5分でわかる青天を衝(つ)け〜これまでの栄一の軌跡、そして明治へ〜</title>
+    <desc lang="en">“栄一の人生”を５分にギュッと凝縮したスペシャルムービー！激動の幕末を駆け抜けた軌跡から、静岡から新政府、そして民間で活躍する明治の栄一までを描いた再編集版。</desc>
+  </programme>
+  <programme start="20210911051500 +0900" stop="20210911054000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うまいッ!</title>
+    <desc lang="en">アフリカ原産のダチョウは“赤身肉の女王”と呼ばれるほど美味！コロナ禍にあってもネットを通じてファン急増中！話題性とおいしさを備えたダチョウ肉の新レシピをご紹介！</desc>
+  </programme>
+  <programme start="20210911054000 +0900" stop="20210911055000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK映像ファイル あの人に会いたい</title>
+    <desc lang="en">今年５月に亡くなった霊長類学者・河合雅雄さん。徹底したフィールドワークでサルの群れの中に飛び込み、サルたちの社会と文化を調査。「サル学」に新境地を開いた。</desc>
+  </programme>
+  <programme start="20210911055000 +0900" stop="20210911060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">気象情報</title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20210911060000 +0900" stop="20210911063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20210910053000 +0900" stop="20210910060000 +0900" channel="eTele.jp">
     <title lang="en">アラビーヤ・シャベリーヤ!</title>
@@ -654,9 +666,13 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210910043000 +0900" stop="20210910055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽「宣言」延長決定。菅首相は会見で…▽千葉市が音楽フェスの後援取り消し▽今年のトレンド鍋は？</desc>
+  <programme start="20210911053000 +0900" stop="20210911055500 +0900" channel="eTele.jp">
+    <title lang="en">レイチェルのおうちごはん</title>
+    <desc lang="en">料理人、レイチェル・クーのシンプルだけど一味違う！ひとくち食べればみんな笑顔のおうちごはん。スウェーデンからレイチェル流の家庭料理を紹介する全８回のシリーズ。</desc>
+  </programme>
+  <programme start="20210911055500 +0900" stop="20210911062500 +0900" channel="eTele.jp">
+    <title lang="en">猫のしっぽ カエルの手</title>
+    <desc lang="en">沖縄の旅。栽培からばい煎まで手がけるコーヒー農家を訪ね、純沖縄産のコーヒーを味わう。サトウキビの搾り汁のみを使った昔ながらの方法で、純黒糖を作る職人との出会いも</desc>
   </programme>
   <programme start="20210910055000 +0900" stop="20210910080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -744,6 +760,26 @@
   <programme start="20210911024400 +0900" stop="20210911051400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
+  </programme>
+  <programme start="20210911051400 +0900" stop="20210911051900 +0900" channel="NipponTV.jp">
+    <title lang="en">映画『竜とそばかすの姫』</title>
+    <desc lang="en">大ヒット上映中「竜とそばかすの姫」。カンヌ国際映画祭でのワールドプレミア、長時間の拍手喝采の密着映像!!必見㊙アフレコ舞台裏・中村佳穂×幾田りらＳＰ対談!!</desc>
+  </programme>
+  <programme start="20210911051900 +0900" stop="20210911052400 +0900" channel="NipponTV.jp">
+    <title lang="en">「バンクシーって誰?展」</title>
+    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
+  </programme>
+  <programme start="20210911052400 +0900" stop="20210911052900 +0900" channel="NipponTV.jp">
+    <title lang="en">5分で分かる!映画ヒロアカ</title>
+    <desc lang="en">『僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション』の劇場公開を記念して、僕のヒーローアカデミアシリーズを一挙おさらい！</desc>
+  </programme>
+  <programme start="20210911052900 +0900" stop="20210911053000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210911053000 +0900" stop="20210911080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ズームイン!!サタデー</title>
+    <desc lang="en">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタいち押し！</desc>
   </programme>
 <programme start="20210910045500 +0900" stop="20210910080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -865,6 +901,19 @@
   <title lang="en">おかずのクッキング</title>
   <desc lang="en">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
 </programme>
+<programme start="20210911052000 +0900" stop="20210911055000 +0900" channel="Asahi.jp">
+  <title lang="en">日本のチカラ</title>
+  <desc lang="en">長崎県の小浜で、温泉パワーの魅力を伝える元気女性の物語。温泉蒸しの野菜ジャムや、絶景カフェで、魅力を発信し続ける日常を見つめます。</desc>
+</programme>
+<programme start="20210911055000 +0900" stop="20210911060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20210911060000 +0900" stop="20210911080000 +0900" channel="Asahi.jp">
+  <title lang="en">週刊ニュースリーダー</title>
+  <desc lang="en">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
+城島茂が各界のリーダーを現場取材します！</desc>
+</programme>
 <programme start="20210910042500 +0900" stop="20210910060000 +0900" channel="TBS2.jp">
   <title lang="en">はやドキ!</title>
   <desc lang="en">菅首相「医療体制確保できなかった」▽自民党総裁選河野太郎氏も出馬表明へ▽大谷翔平103年ぶり偉業達成なるか週末登板▽タモリ▽岡田准一▽柴咲コウ▽鈴木亮平</desc>
@@ -978,12 +1027,13 @@
   <desc lang="en">通販番組（ＴＶショッピング）
 </desc>
 </programme>
-<programme start="20210910042300 +0900" stop="20210910054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20210911051500 +0900" stop="20210911053000 +0900" channel="TBS2.jp">
+  <title lang="en">皇室アルバム</title>
+  <desc lang="en">『悠仁さま　１５歳に』</desc>
+</programme>
+<programme start="20210911053000 +0900" stop="20210911070000 +0900" channel="TBS2.jp">
+  <title lang="en">まるっと!サタデー</title>
+  <desc lang="en">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
 </programme>
 <programme start="20210910054500 +0900" stop="20210910070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1161,9 +1211,13 @@
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20210910045500 +0900" stop="20210910052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20210911054500 +0900" stop="20210911060000 +0900" channel="TVTokyo.jp">
+  <title lang="en">Eネ!</title>
+  <desc lang="en">テレビ東京お薦めのエンタメ情報をお届け！映画・イベント・ＤＶＤなどを紹介します！</desc>
+</programme>
+<programme start="20210911060000 +0900" stop="20210911065400 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
 </programme>
 <programme start="20210910052500 +0900" stop="20210910080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1254,13 +1308,18 @@
   <desc lang="en">「センスの磨き方」
 樹原涼子（作曲家・ピアニスト）</desc>
 </programme>
-<programme start="20210910043000 +0900" stop="20210910050000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210911052200 +0900" stop="20210911053000 +0900" channel="FujiTV.jp">
+  <title lang="en">ぼのぼの</title>
+  <desc lang="en">「いろいろな相撲」
+登場キャラクター：ぼのぼの　シマリスくん　アライグマくん　フェネギーくん　クズリくん　他</desc>
 </programme>
-<programme start="20210910050000 +0900" stop="20210910053000 +0900" channel="Tokyo MX">
-  <title lang="en">うたなび!</title>
-  <desc lang="en"> </desc>
+<programme start="20210911053000 +0900" stop="20210911060000 +0900" channel="FujiTV.jp">
+  <title lang="en">週刊フジテレビ批評</title>
+  <desc lang="en">世界の新型コロナウイルス報道を検証！後編英・中・韓特派員と討論①政権の支持率は？スキャンダルも②キスシーン減った？テレビ番組の変化③ここが変？日本のコロナ報道</desc>
+</programme>
+<programme start="20210911060000 +0900" stop="20210911083000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましどようび</title>
+  <desc lang="en">めざましどようびニュース＆スポーツを１週間まとめチェック▽今週のエンタメ全見せ未公開＆舞台裏映像▽週末おすすめスポット▽出演者が挑戦！じゃんけん２回＆占い</desc>
 </programme>
 <programme start="20210910053000 +0900" stop="20210910060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1451,6 +1510,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210911050000 +0900" stop="20210911053000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210911053000 +0900" stop="20210911060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210911060000 +0900" stop="20210911063000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
