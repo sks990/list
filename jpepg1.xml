@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210910004700 +0900" stop="20210910013300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">歴史探偵</title>
-    <desc lang="en">奇跡の大逆転劇として知られる桶狭間の戦い。実は織田信長が今川義元を誘い出していた！？信長には味方がいた！？新説が続々登場！桶狭間の戦いの新たな姿を紹介します。</desc>
-  </programme>
   <programme start="20210910013300 +0900" stop="20210910022300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">熊本地震以降、全国各地で相次ぐ地震。日本はいよいよ地震活動期に入ったのか？次の大地震を予測する研究者たちの挑戦が、新たな展開を見せている。その最前線に迫る。</desc>
@@ -317,6 +313,14 @@
   <programme start="20210911005000 +0900" stop="20210911012000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ストーリーズ</title>
     <desc lang="en">去年、東京・渋谷のバス停で男に殴られて死亡したホームレスの女性に大勢の女性たちが自身を重ね、声を上げている。事件が社会に問いかけるものとは何か、明らかにする。</desc>
+  </programme>
+  <programme start="20210911012000 +0900" stop="20210911014800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">サンドのお風呂いただきます</title>
+    <desc lang="en">純烈ＳＰ第４弾。後上翔太はいかにしてギャル男から純烈に欠かせない存在になったのか？舞台は熱海。息子を見守り続けた父がいま明かす秘話！２０年ぶりに親子で温泉へ！</desc>
+  </programme>
+  <programme start="20210911014800 +0900" stop="20210911023800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">東日本大震災をも上回る被害が想定される「南海トラフ巨大地震」。そのＸデーがより一層切迫している可能性が明らかに。そのとき命を守るための重要な鍵を最新科学で探る。</desc>
   </programme>
   <programme start="20210910003000 +0900" stop="20210910053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,14 +650,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210910005900 +0900" stop="20210910012900 +0900" channel="NipponTV.jp">
-    <title lang="en">アナザースカイ</title>
-    <desc lang="en">「夢の数だけ空がある」神田愛花がアナウンサー時代に勤務した福岡へ。どん底状態を支えてくれた町中華と唯一無二の親友に再会。さらに人生を変えた会心のレポートも再現！</desc>
-  </programme>
-  <programme start="20210910012900 +0900" stop="20210910013400 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210910013400 +0900" stop="20210910023400 +0900" channel="NipponTV.jp">
     <title lang="en">サッカー★アース</title>
     <desc lang="en">日本初の女子プロサッカーリーグ、WEリーグ開幕直前特集！ぺこぱがなでしこジャパンメンバーをリモート直撃▽日本代表アジア最終予選▽高校サッカーインターハイ青森山田</desc>
@@ -765,18 +761,10 @@
     <title lang="en">バズリズム02</title>
     <desc lang="en">名曲揃い！マンウィズの超アガるライブ鉄板メドレーを披露！スマホに眠る秘蔵写真で遊び心あるプライベートの素顔が続々！ドラゴンアッシュKｊ㊙告白！新企画も始動！！</desc>
   </programme>
-<programme start="20210910005500 +0900" stop="20210910010000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
-</programme>
-<programme start="20210910010000 +0900" stop="20210910013000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">３時のヒロインが激ウマ餃子専門店の人気ランキングを大予想！</desc>
-</programme>
-<programme start="20210910013000 +0900" stop="20210910013600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
+  <programme start="20210911015900 +0900" stop="20210911024400 +0900" channel="NipponTV.jp">
+    <title lang="en">夜バゲット</title>
+    <desc lang="en">イチ押しの映画、イベント、アニメ情報を日テレアナウンサー陣が徹底紹介。</desc>
+  </programme>
 <programme start="20210910013600 +0900" stop="20210910020600 +0900" channel="Asahi.jp">
   <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
   <desc lang="en">▽たった１５分で骨盤周りを整え美しいスタイルを目指せる爆売れ椅子▽水に溶かしてつけるだけ！家中の汚れを簡単に落とすマルチ洗浄剤など…超人気グッズが今夜も勢揃い！</desc>
@@ -897,14 +885,14 @@
   <title lang="en">ナスD大冒険TV</title>
   <desc lang="en">テレビ朝日の社員・ナスＤが殆どの日本人が踏み入れた事のない世界の僻地に命懸けで向かい、知られざる文化・住む人々の暮らしをレポートする超本気紀行ドキュメント番組！</desc>
 </programme>
-<programme start="20210910005800 +0900" stop="20210910012800 +0900" channel="TBS2.jp">
-  <title lang="en">KAT-TUNの食宝ゲッットゥーン</title>
-  <desc lang="en">食宝探し第4弾開始！中丸はキロ３万円以上激旨天然うなぎ…上田は市場で１番人気の日本一きゅうり…亀梨はイチゴ並の甘さのジャガイモを目指し出発！大先輩のモノマネも⁉</desc>
+<programme start="20210911012000 +0900" stop="20210911015000 +0900" channel="Asahi.jp">
+  <title lang="en">ラストアイドル</title>
+  <desc lang="en">秋元康がプロデュースする究極のアイドルグループ「ラストアイドル」が誕生。様々な試練に挑む！</desc>
 </programme>
-<programme start="20210910012800 +0900" stop="20210910015800 +0900" channel="TBS2.jp">
-  <title lang="en">まちカドまぞく</title>
-  <desc lang="en">ある朝突然闇の力に目覚めた優子は一族にかけられた呪いをとくため魔法少女を倒すことになってしまった!!
-</desc>
+<programme start="20210911015000 +0900" stop="20210911022000 +0900" channel="Asahi.jp">
+  <title lang="en">BeauTV 〜VOCE ビューティーヴィー</title>
+  <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
+【テーマ】欲しいのは“キレイ”を叶えるテクニック！</desc>
 </programme>
 <programme start="20210910015800 +0900" stop="20210910020500 +0900" channel="TBS2.jp">
   <title lang="en">イベントGO!</title>
@@ -990,13 +978,17 @@
   <title lang="en">NEWSの全力!!メイキング</title>
   <desc lang="en">ガレージをブルックリンスタイルの理想部屋へ！【壁紙＆床編】たった３万円＆わずか４時間！超お手軽な壁紙活用術</desc>
 </programme>
-<programme start="20210910003000 +0900" stop="20210910010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">お耳に合いましたら。</title>
-  <desc lang="en">今夜は味変回！▼美園のリスナー・ひきこもりお嬢様のヒナミがどうしても食べたいチェンメシ…それはピザ！食に厳しい母に内緒で無事にピザを購入する事ができるのか！？</desc>
+<programme start="20210911012000 +0900" stop="20210911012500 +0900" channel="TBS2.jp">
+  <title lang="en">ジョシとドラゴン</title>
+  <desc lang="en">【日常系ゆるふわゲーム番組】　ジョシの家に住み着くゲーム大好きドラゴンがいた！ドラゴンはゲームに興味がないジョシたちにその魅力を伝えようと大奮闘！</desc>
 </programme>
-<programme start="20210910010000 +0900" stop="20210910013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">大学お笑いMONSTERS〜お笑いのプロが選ぶ本当に面白い学生芸人No.1〜</title>
-  <desc lang="en">▼ＭＣフワちゃん＆トンツカタン森本▼審査ネタ数５３０本！全国の大学生の中から、“いま一番面白い”学生をプロ芸人＆業界人が選抜！▼今回は漫才部門＆スゴ芸部門</desc>
+<programme start="20210911012500 +0900" stop="20210911015500 +0900" channel="TBS2.jp">
+  <title lang="en">乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X/俺、つしま</title>
+  <desc lang="en">EPISODE11「キースがいなくなってしまった…（後編）」キースを助け出すためカタリナは…⁉▼『はめふらＸ』は豪華キャスト陣のコメンタリー副音声放送も★</desc>
+</programme>
+<programme start="20210911015500 +0900" stop="20210911022500 +0900" channel="TBS2.jp">
+  <title lang="en">BLUE REFLECTION RAY/澪</title>
+  <desc lang="en">【アニメイズム】聖イネス学園を訪れていた陽桜莉は、そこで紫乃と瓜二つの少女に出会う。彼女は紫乃が捨てた“想い”そのものだった。その想いに触れた陽桜莉たちは……</desc>
 </programme>
 <programme start="20210910013000 +0900" stop="20210910020000 +0900" channel="TVTokyo.jp">
   <title lang="en">みんなでBINGOLF</title>
@@ -1166,9 +1158,20 @@
   <title lang="en">サ道2021</title>
   <desc lang="en">サウナブームを巻き起こした「サ道」が新シリーズ突入！原田×三宅×磯村が再集結▼偶然さん念願の娘とのサウナ旅へ！しかし雰囲気は最悪…さらに偶然さんの目に涙が…</desc>
 </programme>
-<programme start="20210910005500 +0900" stop="20210910012500 +0900" channel="FujiTV.jp">
-  <title lang="en">平穏世代の韋駄天達</title>
-  <desc lang="en">かつて世界は魔族に蹂躙されていた。韋駄天と呼ばれる戦いの神々が魔族を封印し、世界に平和をもたらしてから８００年――。ルール無用の最凶バトルが今始まる！</desc>
+<programme start="20210911012300 +0900" stop="20210911015300 +0900" channel="TVTokyo.jp">
+  <title lang="en">八月のシンデレラナイン2021</title>
+  <desc lang="en">市立里ヶ浜高校に通う有原翼は、野球部のないこの学校に女子硬式野球部を立ち上げる。時にぶつかりながら少女たちは青春を駆け抜ける！▽豪華ゲストによる副音声つき！</desc>
+</programme>
+<programme start="20210911015300 +0900" stop="20210911020000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">9/12（日）夜10時放送！番組の見どころを紹介します！
+▼国内最大級“全国高校対抗eスポーツ大会”高校生日本一の王座に輝くのは？</desc>
+</programme>
+<programme start="20210911020000 +0900" stop="20210911023000 +0900" channel="TVTokyo.jp">
+  <title lang="en">流派-R since2001</title>
+  <desc lang="en">▼R-Feature:SANABAGUN.
+▼VIEWS:BMX
+▼MY　CLASSICS　new　特別編:サイプレス上野　Rei🄫hi　高木“JET”晋一郎</desc>
 </programme>
 <programme start="20210910012500 +0900" stop="20210910022500 +0900" channel="FujiTV.jp">
   <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
@@ -1262,17 +1265,9 @@
   <title lang="en">ナイト・ドクター</title>
   <desc lang="en">［最後に知らされる衝撃の言葉！！］突如襲う、停電！限られた電力・医療機器の中、無事に朝を迎えられるのか！？そして、本郷が彼らに告げる最後の言葉とは！？</desc>
 </programme>
-<programme start="20210910003000 +0900" stop="20210910010000 +0900" channel="Tokyo MX">
-  <title lang="en">Sonny Boy</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210910010000 +0900" stop="20210910010500 +0900" channel="Tokyo MX">
-  <title lang="en">Artist#18File</title>
-  <desc lang="en">今月のアーティストはａｃａｎｅ。今回は歌手を目指したきっかけ、忘れられない路上ライブについて語ります。</desc>
-</programme>
-<programme start="20210910010500 +0900" stop="20210910013500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210911015500 +0900" stop="20210911022500 +0900" channel="FujiTV.jp">
+  <title lang="en">次ナルTV-S</title>
+  <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＴＷＯでレギュラー放送中の「キミは＝ＬＯＶＥを愛せるか！！！」ダイジェスト</desc>
 </programme>
 <programme start="20210910013500 +0900" stop="20210910020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1457,5 +1452,13 @@
 <programme start="20210911010000 +0900" stop="20210911010500 +0900" channel="Tokyo MX">
   <title lang="en">ぷっちみく♪ D4DJ Petit Mix</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210911010500 +0900" stop="20210911013500 +0900" channel="Tokyo MX">
+  <title lang="en">ぶらどらぶ</title>
+  <desc lang="en">押井守がシリーズアニメに帰ってきた！　献血マニアの女子高生・絆播貢と、美少女吸血鬼・マイが織りなすドタバタコメディ！　第１１夜は、やっぱり水着回でしょ！</desc>
+</programme>
+<programme start="20210911013500 +0900" stop="20210911020500 +0900" channel="Tokyo MX">
+  <title lang="en">WONDER WHEEL</title>
+  <desc lang="en">３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！</desc>
 </programme>
 </tv>
