@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210910022300 +0900" stop="20210910030300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽ミャンマー民主派勢力が軍施設を攻撃▽パリ同時テロ裁判　実行犯の発言で波紋▽アフガン情勢めぐり国際会議　参加しなかった中国は▽世界のテロ組織　２０年でどう変質？</desc>
-  </programme>
   <programme start="20210910030300 +0900" stop="20210910040300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、オーストリア・ウィーンを旅する。</desc>
@@ -321,6 +317,10 @@
   <programme start="20210911023800 +0900" stop="20210911031800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽“グラウンドゼロに一番近い高校”　の２０年▽日本の外交▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210911031800 +0900" stop="20210911040800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
   </programme>
   <programme start="20210910003000 +0900" stop="20210910053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -650,14 +650,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210910023400 +0900" stop="20210910030400 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">パワポカラオケ全国大会準優勝の山本さんが、オドぜひ構成作家山口トンボに挑戦状！頂上決戦の結末は？鼻で割りばしを折る石川さんがアイドルプロデューサーに！？</desc>
-  </programme>
-  <programme start="20210910030400 +0900" stop="20210910033400 +0900" channel="NipponTV.jp">
-    <title lang="en">川島・山内のマンガ沼</title>
-    <desc lang="en">「アイアムアヒーロー」「アンダーニンジャ」の花沢健吾先生がぶっちゃけ連発！川島激推し「たかが黄昏れ」続編問題に決着が…！？</desc>
-  </programme>
   <programme start="20210910033400 +0900" stop="20210910041900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ史上最も売れてる振動マシーン、20年度ポシュレ№1枕、お顔のしわ対策60セカンズ、激安の高機能シャワーヘッド、人気掃除機ダイソンV７などお得情報満載！</desc>
@@ -765,19 +757,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
   </programme>
-<programme start="20210910024600 +0900" stop="20210910030600 +0900" channel="Asahi.jp">
-  <title lang="en">会心の1ゲー</title>
-  <desc lang="en">芸人×ゲーム＝伝説のバカゲー誕生⁉▽トム・ブラウン布川が人生で１番ハマったゲーム▽企画会議…みちお案！別の世界で第２の人生を送るゲーム！？</desc>
-</programme>
-<programme start="20210910030600 +0900" stop="20210910031000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20210910031000 +0900" stop="20210910033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20210910033000 +0900" stop="20210910040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
@@ -894,9 +873,9 @@
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
 </programme>
-<programme start="20210910020500 +0900" stop="20210910034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20210911033000 +0900" stop="20210911043000 +0900" channel="Asahi.jp">
+  <title lang="en">坂上くんが試してみた!!通販☆家事スクール</title>
+  <desc lang="en">坂上忍VS大ヒット商品‼一流アスリートも愛用のあのエアウィーヴが２万円台‼お家で全身エステ⁉大人気シャワーヘッドを緊急確保＆汚れをこすらず落とす次世代㊙業務用洗剤</desc>
 </programme>
 <programme start="20210910034500 +0900" stop="20210910042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -994,23 +973,19 @@
   <title lang="en">With☆ベイスターズ2021</title>
   <desc lang="en">横浜DeNAベイスターズ応援番組。番組MC今井翼さんが23年ぶりの日本一を目指す、三浦大輔新監督率いる新生ベイスターズに熱く迫ります！</desc>
 </programme>
-<programme start="20210910023500 +0900" stop="20210910030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20210911030500 +0900" stop="20210911031700 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210910030500 +0900" stop="20210910032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">放送1周年を迎える大人気アニメ！「ドラゴンクエスト　ダイの大冒険」をご紹介。今夜は、地上最強の剣「ダイの剣」の威力がわかる映像をちょっとだけお見せしちゃいます！</desc>
+<programme start="20210911031700 +0900" stop="20210911040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20210910032000 +0900" stop="20210910032500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+<programme start="20210911040000 +0900" stop="20210911041500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20210910032500 +0900" stop="20210910033500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ラビッツ インベージョン</title>
-  <desc lang="en">ロケットに乗せてもらえなかったラビッツが仲間を恨んで“闇落ち”し、月の爆破を企てる。それを阻止しようとするラビッツを待ち受けるのは凶暴な猫と巨大ミサイル!?</desc>
-</programme>
-<programme start="20210910033500 +0900" stop="20210910042300 +0900" channel="TVTokyo.jp">
+<programme start="20210910040000 +0900" stop="20210910042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1173,13 +1148,22 @@
   <desc lang="en">▼スタジオゲストは、the　satellitesが登場！
 ▼「酒場サーキット」今回のゲストは、パリッコ　前編！</desc>
 </programme>
-<programme start="20210910025500 +0900" stop="20210910032500 +0900" channel="FujiTV.jp">
-  <title lang="en">Tune</title>
-  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
+<programme start="20210911031500 +0900" stop="20210911032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
 </programme>
-<programme start="20210910032500 +0900" stop="20210910035500 +0900" channel="FujiTV.jp">
+<programme start="20210911032000 +0900" stop="20210911033500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+  <desc lang="en">あなたの生活をより楽しく！より快適に！
+ワクワクする商品を厳選して紹介するショッピング番組。</desc>
+</programme>
+<programme start="20210911033500 +0900" stop="20210911034500 +0900" channel="TVTokyo.jp">
+  <title lang="en">蓋</title>
+  <desc lang="en">実験的蓋番組</desc>
+</programme>
+<programme start="20210911034500 +0900" stop="20210911040000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20210910035500 +0900" stop="20210910040000 +0900" channel="FujiTV.jp">
   <title lang="en">天気予報</title>
@@ -1265,13 +1249,9 @@
   <title lang="en">SDGSクリエイターズグランプリ</title>
   <desc lang="en">１分で世界を変えろ！めざまし８×ＴｉｋＴｏｋがタッグ　ＳＤＧｓをテーマに動画グランプリを開催　最も心を動かした作品は何？</desc>
 </programme>
-<programme start="20210910023500 +0900" stop="20210910030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210910030500 +0900" stop="20210910033400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210911032500 +0900" stop="20210911042000 +0900" channel="FujiTV.jp">
+  <title lang="en">FNSドキュメンタリー大賞</title>
+  <desc lang="en">２０１１年３月１１日仙台市内で被災した男性は、秋田に移住しアウトドアを使った防災を伝えている。その裏にはふるさとへの強い思いと決意があった。</desc>
 </programme>
 <programme start="20210910033400 +0900" stop="20210910040000 +0900" channel="Tokyo MX">
   <title lang="en">白黒アンジャッシュ</title>
@@ -1454,6 +1434,22 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210911023500 +0900" stop="20210911030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210911030500 +0900" stop="20210911033500 +0900" channel="Tokyo MX">
+  <title lang="en">バズッchuLaTV</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210911033500 +0900" stop="20210911035000 +0900" channel="Tokyo MX">
+  <title lang="en">ふるさと百景 路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210911035000 +0900" stop="20210911040000 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210911040000 +0900" stop="20210911043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
