@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210909135800 +0900" stop="20210909140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">感染者の多くを占め、重症化のリスクが懸念される若い世代。体力に自信があったものの感染して「命の危険を感じた」という２０代男性が体験を語り、同世代に警鐘を鳴らす</desc>
-  </programme>
-  <programme start="20210909140000 +0900" stop="20210909145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース・気象情報</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210909145000 +0900" stop="20210909150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">東京パラリンピックが閉幕。コロナ禍での異例の大会も、アスリートには多くの声援が送られた。この経験を“共生社会”に進むためのきっかけにするには何が求められるのか。</desc>
@@ -322,17 +314,17 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210909135500 +0900" stop="20210909140000 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 献立帳</title>
-    <desc lang="en">「やまと尼寺」の料理自慢３人がつくる季節の献立。今回は「菊の酢のもの」。紫と黄色の食用菊をゆでて、甘酢にあえる。秋にだけ楽しめる、美しい一皿。</desc>
+  <programme start="20210910140500 +0900" stop="20210910145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">京コトはじめ</title>
+    <desc lang="en">緻密な美を生み出す職人技の競演！仏像装飾「截金（きりかね）」、計算された輝き「螺鈿」、糸で描く「京繍」（きょうぬい）。うっとり見とれる品々をご覧に入れます！</desc>
   </programme>
-  <programme start="20210909140000 +0900" stop="20210909142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 社会と情報</title>
-    <desc lang="en">「社会と情報」はプログラミングなど情報社会において不可欠な「情報活用能力」を身につけていく科目です。今回のテーマは「検索テクニック」です。</desc>
+  <programme start="20210910145000 +0900" stop="20210910150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">新型コロナの緊急事態宣言を１９都道府県で延長へ。新規感染者数は減少傾向も、医療のひっ迫が続く中、医療提供体制をどう立て直すのか考える。</desc>
   </programme>
-  <programme start="20210909142000 +0900" stop="20210909144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 芸術</title>
-    <desc lang="en">王羲之は在世中から書の名手、書聖として仰がれました。その筆跡は唐の太宗にも大変愛されました。代表作「蘭亭序」は古来より行書の手本として高く評価されています。</desc>
+  <programme start="20210910150000 +0900" stop="20210910150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210909144000 +0900" stop="20210909150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 家庭総合</title>
@@ -670,6 +662,18 @@
     <title lang="en">NHK高校講座 日本史</title>
     <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
   </programme>
+  <programme start="20210910142000 +0900" stop="20210910144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 世界史</title>
+    <desc lang="en">１４世紀後半、朝鮮半島の王朝が高麗から朝鮮へと変わると、統治の基本となる考えも仏教から儒教へと変わります。この儒教は後に日本と朝鮮の橋渡しをすることになります。</desc>
+  </programme>
+  <programme start="20210910144000 +0900" stop="20210910150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地理</title>
+    <desc lang="en">地球上で起きているあらゆる事柄は、「地理」の知識で理解することができます。さぁ一緒に「地理」の知識を深め、世の中の謎を調査・分析！新たな発見をしていきましょう。</desc>
+  </programme>
+  <programme start="20210910150000 +0900" stop="20210910153000 +0900" channel="eTele.jp">
+    <title lang="en">囲碁フォーカス</title>
+    <desc lang="en">下島陽平八段の講座は「屋根を正しくかける」。「黒嘉嘉のＧＯビギナーズ」は「対局（前編）」。「フォーカス・オン」は「第７６期本因坊戦を振り返る」。</desc>
+  </programme>
   <programme start="20210909135500 +0900" stop="20210909155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">▽激しい雨に警戒＆台風１４号進路は？▽宣言延長へ…行動制限緩和どうなる？▽総裁選最新情報…田﨑史郎が解説▽すい臓がん早期発見カギは！？</desc>
@@ -794,10 +798,6 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20210909134900 +0900" stop="20210909144500 +0900" channel="Asahi.jp">
-  <title lang="en">IP〜サイバー捜査班</title>
-  <desc lang="en">「最先端マンション密室殺人‼セレブ妻とママ友５人裏の顔⁉」佐々木蔵之介(他)▽超高級マンションで有名漫画家の妻が自殺に見せかけて殺された。だが、現場は完璧な密室で…</desc>
-</programme>
 <programme start="20210909144500 +0900" stop="20210909154300 +0900" channel="Asahi.jp">
   <title lang="en">新・科捜研の女2</title>
   <desc lang="en">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
@@ -919,6 +919,10 @@
 <programme start="20210910134900 +0900" stop="20210910144900 +0900" channel="Asahi.jp">
   <title lang="en">漂着者</title>
   <desc lang="en">「テロリストは隣にいる‼内閣総理大臣死す…⁉初めて共にした一夜」斎藤工(他)▽琴音とローゼン岸本が繋がっていた。柴田はローゼンを重要参考人として手配しようとするが…</desc>
+</programme>
+<programme start="20210910144900 +0900" stop="20210910154300 +0900" channel="Asahi.jp">
+  <title lang="en">科捜研の女16</title>
+  <desc lang="en">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
 </programme>
 <programme start="20210909135500 +0900" stop="20210909154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1174,10 +1178,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">ケビン・コスナー×クリント・イーストウッド競演！脱獄囚と親の愛を知らない少年の逃避行と絆。そして２人を追う警察署長の苦悩を描いたヒューマン・ドラマ。</desc>
 </programme>
-<programme start="20210909115500 +0900" stop="20210909144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">国内初！大阪で１０代後半の感染者が死亡…ワクチン未接種だった▽岸田文雄氏が生出演▽河野氏“悩みの種”？石破氏めぐり板挟み麻生氏の支援は？▽中尾彬の終活</desc>
-</programme>
 <programme start="20210909144500 +0900" stop="20210909154500 +0900" channel="FujiTV.jp">
   <title lang="en">HERO</title>
   <desc lang="en">暴力団の抗争事件、送検された被疑者は身代わりだった！？顧問弁護士は宇野検事の恩師…検事は杓子定規な役人だ！正義を追及する久利生の身に及ぶ危険…城西支部パニック！</desc>
@@ -1274,17 +1274,9 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20210909135500 +0900" stop="20210909140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20210909140000 +0900" stop="20210909143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210909143000 +0900" stop="20210909145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210910144500 +0900" stop="20210910154500 +0900" channel="FujiTV.jp">
+  <title lang="en">HERO</title>
+  <desc lang="en">４人の検事ＶＳ４人の被疑者、史上初のチーム対決！口裏を合わせる学生たちのグループ犯罪を、城西支部は暴くことができるのか！？許されざる嘘…熾烈なチーム戦の行方とは</desc>
 </programme>
 <programme start="20210909145900 +0900" stop="20210909150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1476,6 +1468,10 @@
 </programme>
 <programme start="20210910135900 +0900" stop="20210910150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210910150000 +0900" stop="20210910153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 </tv>
