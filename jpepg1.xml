@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210911055000 +0900" stop="20210911060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">気象情報</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210911060000 +0900" stop="20210911063000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">▼自民党総裁選の行方は▼新型コロナ・宣言延長の一方で制限緩和の方針も　最新情報▼東日本大震災　体験紹介した動画に大きな反響・夫を亡くした女性の思いとは</desc>
-  </programme>
   <programme start="20210911063000 +0900" stop="20210911070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼米同時多発テロから２０年　犠牲者を悼む絵画に反響・日本人画家が込めた思いとは▼激しく揺れる「内陸地震」　ＧＰＳデータから発生確率を算出・その結果は？</desc>
@@ -290,21 +282,29 @@
     <title lang="en">ニュース</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210911055500 +0900" stop="20210911062500 +0900" channel="eTele.jp">
-    <title lang="en">猫のしっぽ カエルの手</title>
-    <desc lang="en">沖縄の旅。栽培からばい煎まで手がけるコーヒー農家を訪ね、純沖縄産のコーヒーを味わう。サトウキビの搾り汁のみを使った昔ながらの方法で、純黒糖を作る職人との出会いも</desc>
+  <programme start="20210912061000 +0900" stop="20210912064000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">目撃!にっぽん</title>
+    <desc lang="en">新型コロナの“第５波”。重症患者の治療にあたる集中治療室に密着取材。若い世代での重症化、デルタ株の脅威、満床状態になる集中治療室、スタッフの疲弊はピークに…。</desc>
   </programme>
-  <programme start="20210911062500 +0900" stop="20210911063500 +0900" channel="eTele.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、幅しげみ、清水沙希、舘野伶奈、吉江晴菜、今井菜津美、戸塚寛子</desc>
+  <programme start="20210912064000 +0900" stop="20210912065000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">10分で巡る にっぽんの廃線</title>
+    <desc lang="en">「１０分で巡る　にっぽんの廃線」関東甲信越。都電、東急玉川線、東武日光軌道線　、茨城交通水浜線、九十九里鉄道、東野鉄道、鹿島鉄道など、８路線を紹介します。</desc>
   </programme>
-  <programme start="20210911063500 +0900" stop="20210911064500 +0900" channel="eTele.jp">
-    <title lang="en">リトル・チャロ</title>
-    <desc lang="en">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。４月からの半年は、ニューヨークで迷子になった子犬・チャロが日本に帰るまでの物語を描く。▽声：純名里沙</desc>
+  <programme start="20210912065000 +0900" stop="20210912065300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん百名山ミニ 3min</title>
+    <desc lang="en">朝日岳（１８７０ｍ）をめざす山旅！東北を代表する錦繍の稜線歩きは感動の連続！案内するガイドが「言葉にならない、最高の日」と絶賛する紅葉！そのドローン映像は秀逸！</desc>
   </programme>
-  <programme start="20210911064500 +0900" stop="20210911065500 +0900" channel="eTele.jp">
-    <title lang="en">えいごであそぼ with Orton</title>
-    <desc lang="en">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+  <programme start="20210912065300 +0900" stop="20210912065500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">気象情報</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210912065500 +0900" stop="20210912070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210912070000 +0900" stop="20210912074000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、日曜の名物・南さんの気象解説！</desc>
   </programme>
   <programme start="20210911065500 +0900" stop="20210911070000 +0900" channel="eTele.jp">
     <title lang="en">あそビーバー</title>
@@ -510,6 +510,18 @@
     <title lang="en">NHK短歌</title>
     <desc lang="en">選者：佐佐木頼綱、ゲスト：大林素子（元バレーボール選手）、題「負ける」。バレーボールを始めたきっかけ。ソウル五輪の負けから得られたバカになれる強さとは。</desc>
   </programme>
+  <programme start="20210912062500 +0900" stop="20210912063500 +0900" channel="eTele.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">【出演】多胡肇，清水沙希，原川愛，吉江晴菜，今井菜津美，矢作あかり，【ピアノ】能條貴大</desc>
+  </programme>
+  <programme start="20210912063500 +0900" stop="20210912070000 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">選者は鴇田智哉さん。ゲストは日本初の宇宙飛行士・毛利衛さん。題は「ざくろ」。地球に帰還したとき、毛利さんは水や空気のおいしさに感動したという。司会　岸本葉子</desc>
+  </programme>
+  <programme start="20210912070000 +0900" stop="20210912070900 +0900" channel="eTele.jp">
+    <title lang="en">わらたまドッカ〜ン</title>
+    <desc lang="en">和牛とＧＡＧという１年前と同じ先輩後輩対決が再び！今回も９人の子どもたちがＶＴＲでネタを見て判定。前回は９−０で和牛の勝利！今回ドッカ〜ンと笑わせるのはどっち！</desc>
+  </programme>
   <programme start="20210911053000 +0900" stop="20210911080000 +0900" channel="NipponTV.jp">
     <title lang="en">ズームイン!!サタデー</title>
     <desc lang="en">▽都内1242人感染▽河野氏出馬…改革強調▽愛される大谷翔平の人柄を深掘り▽相葉雅紀流の動物愛▽異色のジャニーズ“ふぉ〜ゆ〜”とは▽G高梨絶賛フルーツ</desc>
@@ -639,10 +651,18 @@
     <title lang="en">日テレアップDate!</title>
     <desc lang="en">日本テレビの「今」を様々に発信します。</desc>
   </programme>
-<programme start="20210911055000 +0900" stop="20210911060000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20210912061500 +0900" stop="20210912063000 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNニュース・サンデー</title>
+    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  </programme>
+  <programme start="20210912063000 +0900" stop="20210912070000 +0900" channel="NipponTV.jp">
+    <title lang="en">遠くへ行きたい</title>
+    <desc lang="en">今回は女優の酒井美紀が愛知県三河でまんぷく旅！▽名物！超巨大な岩ガキ▽糖度抜群の天空メロン▽美人になる鉱物とは！？▽最高級の赤身肉「段戸牛」▽清流で鮎の友釣り！</desc>
+  </programme>
+  <programme start="20210912070000 +0900" stop="20210912073000 +0900" channel="NipponTV.jp">
+    <title lang="en">所さんの目がテン!</title>
+    <desc lang="en">美しく丈夫な輪島塗の秘密をコネオが体を張って解き明かす▽国内の漆産地で漆の採取に挑戦▽輪島塗職人の技術と漆が丈夫な秘密に迫る！▽漆器作りに挑戦！その出来栄えは？</desc>
+  </programme>
 <programme start="20210911060000 +0900" stop="20210911080000 +0900" channel="Asahi.jp">
   <title lang="en">週刊ニュースリーダー</title>
   <desc lang="en">「今週のニュース気になる人物１０」①混沌とする自民党総裁選…スタジオ徹底解説 ②２位と１本差…大谷翔平いよいよ正念場！“混戦”本塁打王の行方は!? ③オレオレ詐欺男</desc>
@@ -952,13 +972,13 @@
   <title lang="en">バナナマンの早起きせっかくグルメ</title>
   <desc lang="en">バナナマン設楽さんに自慢の宿の朝ごはんをアピールする「せっかく宿の朝ごはん」！栃木・鬼怒川温泉屈指の人気宿の「極上の宿の朝ごはん」が登場！固形燃料グルメに大興奮</desc>
 </programme>
-<programme start="20210911054500 +0900" stop="20210911060000 +0900" channel="TVTokyo.jp">
-  <title lang="en">Eネ!</title>
-  <desc lang="en">テレビ東京お薦めのエンタメ情報をお届け！映画・イベント・ＤＶＤなどを紹介します！</desc>
+<programme start="20210912064500 +0900" stop="20210912070000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20210911060000 +0900" stop="20210911065400 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
+<programme start="20210912070000 +0900" stop="20210912073000 +0900" channel="TBS2.jp">
+  <title lang="en">健康カプセル!ゲンキの時間</title>
+  <desc lang="en">チーズには、驚くべき健康効果がいっぱい！チーズを食べるとダイエットにつながる⁉チーズは虫歯予防にもおすすめ⁉そんなチーズのパワーを、今回は徹底リサーチします！</desc>
 </programme>
 <programme start="20210911065400 +0900" stop="20210911070000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1134,9 +1154,14 @@
   <title lang="en"></title>
   <desc lang="en">日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。</desc>
 </programme>
-<programme start="20210911053000 +0900" stop="20210911060000 +0900" channel="FujiTV.jp">
-  <title lang="en">週刊フジテレビ批評</title>
-  <desc lang="en">世界の新型コロナウイルス報道を検証！後編英・中・韓特派員と討論①政権の支持率は？スキャンダルも②キスシーン減った？テレビ番組の変化③ここが変？日本のコロナ報道</desc>
+<programme start="20210912065400 +0900" stop="20210912070000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">今夜10時放送！番組の見どころを紹介します！
+▼国内最大級“全国高校対抗eスポーツ大会”高校生日本一の王座に輝くのは？</desc>
+</programme>
+<programme start="20210912070000 +0900" stop="20210912073000 +0900" channel="TVTokyo.jp">
+  <title lang="en">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+  <desc lang="en">殻のアジトにて果心居士とジゲンの戦いが始まった。木ノ葉隠れの里でナルトたちが戦いを見守る中、居士の策が功を奏し、ついに最悪の敵・大筒木イッシキが姿を現した！</desc>
 </programme>
 <programme start="20210911060000 +0900" stop="20210911083000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましどようび</title>
@@ -1260,13 +1285,18 @@
   <title lang="en">FNNニュース</title>
   <desc lang="en">日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。</desc>
 </programme>
-<programme start="20210911053000 +0900" stop="20210911060000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210912061500 +0900" stop="20210912063000 +0900" channel="FujiTV.jp">
+  <title lang="en">GO!GO!チャギントン</title>
+  <desc lang="en">世界で大人気の鉄道ＣＧアニメ「チャギントン」！ナビゲーター：つるの剛士・佐久間みなみアナ　他▽声：小林由美子　他▽＃４７３「ホッジ、空を飛ぶ」</desc>
 </programme>
-<programme start="20210911060000 +0900" stop="20210911063000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210912063000 +0900" stop="20210912070000 +0900" channel="FujiTV.jp">
+  <title lang="en">はやく起きた朝は…</title>
+  <desc lang="en">今回のお耳拝借は大好きな石がテーマ！石のスゴイところを紹介！▽ママはなんでも捨ててしまう▽私達の曲で踊って欲しい！
+〈出演〉松居直美・磯野貴理子・森尾由美</desc>
+</programme>
+<programme start="20210912070000 +0900" stop="20210912073000 +0900" channel="FujiTV.jp">
+  <title lang="en">ボクらの時代</title>
+  <desc lang="en">長澤まさみ×木村佳乃×麻生久美子</desc>
 </programme>
 <programme start="20210911063000 +0900" stop="20210911070000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1476,5 +1506,13 @@
 <programme start="20210912060000 +0900" stop="20210912063000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210912063000 +0900" stop="20210912070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210912070000 +0900" stop="20210912073000 +0900" channel="Tokyo MX">
+  <title lang="en">TAKARAZUKA CAFEBREAK</title>
+  <desc lang="en">東京宝塚劇場宙組公演「シャーロック・ホームズ-The Game Is Afoot!-」「Delicieux(デリシュー)!-甘美なる巴里-」に出演中の宙組男役「桜木みなとさん」がご来店！</desc>
 </programme>
 </tv>
