@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210911023800 +0900" stop="20210911031800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽アフガン　ジャーナリストの拘束・暴行相次ぐ　日本人・現地スタッフの待避は▽米　１００人以上の企業ワクチン接種等義務化へ▽“グラウンドゼロに一番近い高校”は今</desc>
-  </programme>
   <programme start="20210911031800 +0900" stop="20210911040800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像詩</title>
     <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
@@ -273,6 +269,14 @@
   <programme start="20210912024500 +0900" stop="20210912033600 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">東京パラリンピック女子マラソン（視覚障害のクラス）で金メダルを獲得した道下美里選手。快挙の裏に究極の信頼関係で結ばれた“伴走者”との絆があった。二人三脚に密着。</desc>
+  </programme>
+  <programme start="20210912033600 +0900" stop="20210912034500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
+  </programme>
+  <programme start="20210912034500 +0900" stop="20210912041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ハンガリー・ブダペストを旅する。</desc>
   </programme>
   <programme start="20210911005000 +0900" stop="20210911053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -623,14 +627,10 @@
     <title lang="en">WBO世界フライ級タイトルマッチ「中谷潤人×アンヘル・アコスタ」</title>
     <desc lang="en">アメリカで中谷潤人が挑むＷＢＯ世界フライ級初防衛戦、さらに東京・後楽園で行われる俳優・赤井英和さんの長男、英五郎のデビュー戦など注目の試合を、日米即日２元中継！</desc>
   </programme>
-<programme start="20210911024000 +0900" stop="20210911030000 +0900" channel="Asahi.jp">
-  <title lang="en">ももクロちゃんと!</title>
-  <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
-</programme>
-<programme start="20210911030000 +0900" stop="20210911033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-</programme>
+  <programme start="20210912033000 +0900" stop="20210912051500 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
+  </programme>
 <programme start="20210911033000 +0900" stop="20210911043000 +0900" channel="Asahi.jp">
   <title lang="en">坂上くんが試してみた!!通販☆家事スクール</title>
   <desc lang="en">坂上忍VS大ヒット商品‼一流アスリートも愛用のあのエアウィーヴが２万円台‼お家で全身エステ⁉大人気シャワーヘッドを緊急確保＆汚れをこすらず落とす次世代㊙業務用洗剤</desc>
@@ -803,13 +803,9 @@
   <desc lang="en">タイ発！大ヒットラブストーリー「Still 2gether」を地上波初放送！「2gether」から1年、2人は…
 ドラマ・映画が放題の動画配信サービス『TELASA（テラサ）』特別編！</desc>
 </programme>
-<programme start="20210911025500 +0900" stop="20210911030500 +0900" channel="TBS2.jp">
-  <title lang="en">With☆ベイスターズ2021</title>
-  <desc lang="en">横浜DeNAベイスターズ応援番組。番組MC今井翼さんが23年ぶりの日本一を目指す、三浦大輔新監督率いる新生ベイスターズに熱く迫ります！</desc>
-</programme>
-<programme start="20210911030500 +0900" stop="20210911031700 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!プラス</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20210912040000 +0900" stop="20210912040500 +0900" channel="Asahi.jp">
+  <title lang="en">CSテレ朝ナビ!!</title>
+  <desc lang="en">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
 </programme>
 <programme start="20210911031700 +0900" stop="20210911040000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -945,25 +941,11 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20210911024500 +0900" stop="20210911031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">音流〜ONRYU〜</title>
-  <desc lang="en">▼スタジオゲストは、the　satellitesが登場！
-▼「酒場サーキット」今回のゲストは、パリッコ　前編！</desc>
+<programme start="20210912040000 +0900" stop="20210912044000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20210911031500 +0900" stop="20210911032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
-</programme>
-<programme start="20210911032000 +0900" stop="20210911033500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">あなたの生活をより楽しく！より快適に！
-ワクワクする商品を厳選して紹介するショッピング番組。</desc>
-</programme>
-<programme start="20210911033500 +0900" stop="20210911034500 +0900" channel="TVTokyo.jp">
-  <title lang="en">蓋</title>
-  <desc lang="en">実験的蓋番組</desc>
-</programme>
-<programme start="20210911034500 +0900" stop="20210911042300 +0900" channel="TVTokyo.jp">
+<programme start="20210911040000 +0900" stop="20210911042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1129,9 +1111,13 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
 </programme>
-<programme start="20210911022500 +0900" stop="20210911032500 +0900" channel="FujiTV.jp">
-  <title lang="en">SDGSクリエイターズグランプリ</title>
-  <desc lang="en">１分で世界を変えろ！めざまし８×ＴｉｋＴｏｋがタッグ　ＳＤＧｓをテーマに動画グランプリを開催　最も心を動かした作品は何？</desc>
+<programme start="20210912030500 +0900" stop="20210912031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+</programme>
+<programme start="20210912031500 +0900" stop="20210912050000 +0900" channel="TVTokyo.jp">
+  <title lang="en">サタ☆シネ</title>
+  <desc lang="en">ジャパニーズホラーの金字塔「リング」をハリウッドリメイク！呪いのビデオ・７日後の死・井戸…貞子は“サマラ”となり…。伝染する恐怖は海を越えやって来る…きっと来る</desc>
 </programme>
 <programme start="20210911032500 +0900" stop="20210911042000 +0900" channel="FujiTV.jp">
   <title lang="en">FNSドキュメンタリー大賞</title>
@@ -1253,17 +1239,9 @@
   <title lang="en">世界で一番怖い答え</title>
   <desc lang="en">有田哲平が贈る恐怖の禁断クイズ番組第３弾▽「放送禁止」の監督・長江俊和が監修…映像に隠された怖い「真実」を見抜くことができるか？都市ボーイズも問題作成</desc>
 </programme>
-<programme start="20210911023500 +0900" stop="20210911030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210911030500 +0900" stop="20210911033500 +0900" channel="Tokyo MX">
-  <title lang="en">バズッchuLaTV</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210911033500 +0900" stop="20210911035000 +0900" channel="Tokyo MX">
-  <title lang="en">ふるさと百景 路面電車のある風景</title>
-  <desc lang="en"> </desc>
+<programme start="20210912033500 +0900" stop="20210912043500 +0900" channel="FujiTV.jp">
+  <title lang="en">FIFAビーチサッカーワールドカップ ロシア2021</title>
+  <desc lang="en">ワールドカップの頂点へあと一歩及ばずも過去最高成績の２位の快挙を達成した茂怜羅ジャパン。ビーチサッカーの未来を切り開いた彼らの戦いの軌跡を振り返ります。</desc>
 </programme>
 <programme start="20210911035000 +0900" stop="20210911040000 +0900" channel="Tokyo MX">
   <title lang="en">路面電車のある風景</title>
@@ -1471,6 +1449,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210912030000 +0900" stop="20210912033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210912033000 +0900" stop="20210912040000 +0900" channel="Tokyo MX">
+  <title lang="en">真夜中のおバカ騒ぎ!</title>
+  <desc lang="en">ＰＲさせてください！けん玉チャレンジ！（後編）</desc>
+</programme>
+<programme start="20210912040000 +0900" stop="20210912043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
