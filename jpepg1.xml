@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210910135500 +0900" stop="20210910140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">多胡肇、幅しげみ、清水沙希、舘野伶奈、吉江晴菜</desc>
-  </programme>
-  <programme start="20210910140000 +0900" stop="20210910140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース・気象情報</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210910140500 +0900" stop="20210910145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">京コトはじめ</title>
-    <desc lang="en">緻密な美を生み出す職人技の競演！仏像装飾「截金（きりかね）」、計算された輝き「螺鈿」、糸で描く「京繍」（きょうぬい）。うっとり見とれる品々をご覧に入れます！</desc>
-  </programme>
   <programme start="20210910145000 +0900" stop="20210910150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">新型コロナの緊急事態宣言を１９都道府県で延長へ。新規感染者数は減少傾向も、医療のひっ迫が続く中、医療提供体制をどう立て直すのか考える。</desc>
@@ -314,17 +302,13 @@
     <title lang="en">土曜スタジオパーク</title>
     <desc lang="en">いよいよ、栄一が血洗島に戻ってきます。そこで、血洗島帰郷ＳＰをお届け。ゲストの小林薫さんが、「とっさま」の気持ちを語ります。家族や仲間への思い、撮影秘話も。</desc>
   </programme>
-  <programme start="20210910135000 +0900" stop="20210910140000 +0900" channel="eTele.jp">
-    <title lang="en">ピタゴラスイッチ</title>
-    <desc lang="en">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
+  <programme start="20210911145000 +0900" stop="20210911145500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20210910140000 +0900" stop="20210910142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 日本史</title>
-    <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
-  </programme>
-  <programme start="20210910142000 +0900" stop="20210910144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 世界史</title>
-    <desc lang="en">１４世紀後半、朝鮮半島の王朝が高麗から朝鮮へと変わると、統治の基本となる考えも仏教から儒教へと変わります。この儒教は後に日本と朝鮮の橋渡しをすることになります。</desc>
+  <programme start="20210911145500 +0900" stop="20210911180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">カーリング 北京オリンピック女子日本代表決定戦</title>
+    <desc lang="en">今年の日本選手権優勝、吉村紗也香率いる北海道銀行と、ピョンチャン五輪銅メダル、藤澤五月のロコ・ソラーレが激突。５試合を戦い先に３勝したチームが日本代表に決定！</desc>
   </programme>
   <programme start="20210910144000 +0900" stop="20210910150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 地理</title>
@@ -606,6 +590,10 @@
     <title lang="en">ワタシの見たニッポン 第62回外国人による日本語弁論大会</title>
     <desc lang="en">今年５月、外国人による日本語弁論大会が佐賀市で開かれ、１２名が日本について熱く語った。出場者のスピーチと日本での暮らしを紹介しながら、彼らの思いに迫る。</desc>
   </programme>
+  <programme start="20210911150000 +0900" stop="20210911170000 +0900" channel="eTele.jp">
+    <title lang="en">クラシック音楽館</title>
+    <desc lang="en">アンコール放送▽「小さな空」「うたうだけ」「死んだ男の残したものは」…▽大友良英が敬愛する武満徹の「うた」をプロデュース▽後半は「無言館」から平和への祈りの音楽</desc>
+  </programme>
   <programme start="20210910135500 +0900" stop="20210910155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">緊急事態宣言延長決定　菅首相が語ったこと▽ノババックスワクチン副反応・交差接種は？ワクチン専門家解説▽中国芸能界に規制ナゼ？</desc>
@@ -707,10 +695,14 @@
     <title lang="en">「ハコヅメ〜たたかう!交番女子〜」最終回直前!見どころ徹底解剖SP</title>
     <desc lang="en"></desc>
   </programme>
-<programme start="20210910134900 +0900" stop="20210910144900 +0900" channel="Asahi.jp">
-  <title lang="en">漂着者</title>
-  <desc lang="en">「テロリストは隣にいる‼内閣総理大臣死す…⁉初めて共にした一夜」斎藤工(他)▽琴音とローゼン岸本が繋がっていた。柴田はローゼンを重要参考人として手配しようとするが…</desc>
-</programme>
+  <programme start="20210911142500 +0900" stop="20210911150000 +0900" channel="NipponTV.jp">
+    <title lang="en">土曜ドラマ「ボイスII」第8話今夜から追いつけるSP</title>
+    <desc lang="en">「重藤雄二は生きていた！」狙撃された石川透（増田貴久）の生死は!?　逃走した久遠（安藤政信）と重藤雄二（増田昇太）の目的は!?有名声優も毎話出演今回は三宅健太！</desc>
+  </programme>
+  <programme start="20210911150000 +0900" stop="20210911170000 +0900" channel="NipponTV.jp">
+    <title lang="en">DRAMATIC BASEBALL 2021</title>
+    <desc lang="en">歴史的激戦セ・リーグ！HR＆打点トップの巨人四番・岡本和真が防御率リーグトップの中日投手陣と対決！卓球金メダリスト伊藤美誠選手が始球式登場！Goingデー開催！</desc>
+  </programme>
 <programme start="20210910144900 +0900" stop="20210910154300 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女16</title>
   <desc lang="en">まだ間に合う！＜シリーズ２０年を総ざらい！夏の短期集中講座！＞今週は【映画が２倍楽しめる！特別傑作選】をお届け！映画は大ヒット上映中！これを見てぜひ劇場へ！</desc>
@@ -862,6 +854,10 @@
   <title lang="en">林修の今でしょ!講座</title>
   <desc lang="en">なぜ安い!?超話題の激安店、大ヒットの裏に隠された常識破りの秘密を徹底解明　▽業務用スーパーに潜入！工場で驚きマシンを発見!?＆そこには品質管理の鬼がいた。</desc>
 </programme>
+<programme start="20210911150000 +0900" stop="20210911162500 +0900" channel="Asahi.jp">
+  <title lang="en">第54回 日本女子プロゴルフ選手権大会 コニカミノルタ杯</title>
+  <desc lang="en">国内最高峰のメジャー大会で、女子プロゴルファーＮｏ.１の称号を手にするのは果たして誰か⁉緊迫感溢れる“華やかな戦い”を生中継！</desc>
+</programme>
 <programme start="20210910135500 +0900" stop="20210910154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">▼河野太郎氏きょう出馬表明へ　意外な？素顔を徹底解剖▼え？牛なのに…馬と生活、仲が良すぎて馬のようになった牛！？河合郁人＆ナジャもビックリ　ほか(予定)</desc>
@@ -986,6 +982,14 @@
   <title lang="en">令和の正解リアクション</title>
   <desc lang="en">🈑　田村淳MC…河合郁人＆もう中＆渋谷凪咲＆四千頭身後藤＆３時福田が挑戦…自慢話が長い先輩から逃げる方法は？嫌いな先輩から告白された時どう断る？</desc>
 </programme>
+<programme start="20210911145400 +0900" stop="20210911150000 +0900" channel="TBS2.jp">
+  <title lang="en">ニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20210911150000 +0900" stop="20210911163000 +0900" channel="TBS2.jp">
+  <title lang="en">快答!50面SHOW</title>
+  <desc lang="en">🈑様々なジャンルのプロ５０人に緊急アンケート！串カツが熱い大阪！ツウ５０人が選ぶ№１串カツは？北海道十勝のツウが選ぶ№１チーズ料理は？</desc>
+</programme>
 <programme start="20210910134000 +0900" stop="20210910154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
   <desc lang="en">ケビン・コスナー×クリント・イーストウッド競演！脱獄囚と親の愛を知らない少年の逃避行と絆。そして２人を追う警察署長の苦悩を描いたヒューマン・ドラマ。</desc>
@@ -996,7 +1000,7 @@
 </programme>
 <programme start="20210910165400 +0900" stop="20210910170000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゆうがたサテライト</title>
-  <desc lang="en">河野氏も出馬を正式に表明して自民総裁選に向けての各陣営の動きがさらに加速▼東京の新規感染者を速報</desc>
+  <desc lang="en">自民総裁選に河野氏も出馬を正式表明その政策は▼東京の新規感染者を速報▼改造拳銃所持の疑いで元教諭逮捕</desc>
 </programme>
 <programme start="20210910170000 +0900" stop="20210910171000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1168,9 +1172,18 @@
   <title lang="en">ハーフタイムツアーズ</title>
   <desc lang="en">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
 </programme>
-<programme start="20210910115500 +0900" stop="20210910144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">“反社とつながり…”元ＡＫＢのラーメン店事実無根の中傷に怒り…本人直撃▽ワクチン２回接種で制限緩和…食酒類提供はどこまで▽河野氏出馬へ麻生氏と“調整”</desc>
+<programme start="20210911142300 +0900" stop="20210911143000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
+</programme>
+<programme start="20210911143000 +0900" stop="20210911150000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">月曜から金曜まで毎日生放送「快適！ショッピングスタジオ」が土曜日午後に拡大！土曜日午後も長崎・佐世保のスタジオより元気に生放送！</desc>
+</programme>
+<programme start="20210911150000 +0900" stop="20210911160000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ウイニング競馬</title>
+  <desc lang="en">【中山】10Ｒ汐留特別、11Ｒ紫苑Ｓ（ＧⅢ）
+【中京】10ＲムーンライトＨＣ、11ＲエニフＳ（Ｌ）</desc>
 </programme>
 <programme start="20210910144500 +0900" stop="20210910154500 +0900" channel="FujiTV.jp">
   <title lang="en">HERO</title>
@@ -1277,6 +1290,10 @@
 <programme start="20210911133000 +0900" stop="20210911143000 +0900" channel="FujiTV.jp">
   <title lang="en">今夜!ものまね紅白歌合戦 放送直前見どころギュギュッと先取りスペシャル</title>
   <desc lang="en">今夜９時２０分から放送のものまね紅白の見どころ＆惜しくも合格出来なかった顔だけそっくりさんを一部公開＆裏側密着映像＆楽屋ゆるゆるものまねをお届け！</desc>
+</programme>
+<programme start="20210911143000 +0900" stop="20210911152500 +0900" channel="FujiTV.jp">
+  <title lang="en">ヒロミの集結!スゴ腕カリスマバイヤーズ</title>
+  <desc lang="en">次々にヒット商品を生み出している“カリスマバイヤーズ”たち。彼らだからこそ知る美容や健康の秘訣を伝授！さらに、確かな目利きを持つ彼らイチ押しの商品が続々と登場！</desc>
 </programme>
 <programme start="20210910135900 +0900" stop="20210910150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
@@ -1479,6 +1496,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210911140000 +0900" stop="20210911143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210911143000 +0900" stop="20210911150000 +0900" channel="Tokyo MX">
+  <title lang="en">熱烈!ホットサンド!</title>
+  <desc lang="en">熱烈！ホット永野＆ダビッドソン②</desc>
+</programme>
+<programme start="20210911150000 +0900" stop="20210911153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
