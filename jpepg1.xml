@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210910193000 +0900" stop="20210910204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏情報 ネタドリ!</title>
-    <desc lang="en">緊急事態宣言下での開催となった東京五輪・パラは私たちの暮らしに何を残したのか。医療現場、ホストタウン、フードデリバリー配達員などの舞台裏から探る７２分拡大版。</desc>
-  </programme>
-  <programme start="20210910204200 +0900" stop="20210910204400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">新型コロナ 命を守る行動を</title>
-    <desc lang="en">新型コロナの感染予防や肺炎による重症化を減らすのに、歯磨きなどで歯周病の原因となる細菌を減らすことが有効であることが分かってきた。専門医からのメッセージ。</desc>
-  </programme>
-  <programme start="20210910204400 +0900" stop="20210910204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">オシばん</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20210910204500 +0900" stop="20210910210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -266,13 +254,21 @@
     <title lang="en">ブラタモリ</title>
     <desc lang="en">武田・豊臣・徳川…武将たちに松本城が愛された理由をタモリさんがブラブラ歩いて解き明かす！▽古地図をもとに城の東西南北を町歩き。豊かな湧き水の町・松本の魅力を探る</desc>
   </programme>
-  <programme start="20210910195500 +0900" stop="20210910200000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「空へ」うた：岡本知高</desc>
+  <programme start="20210911201500 +0900" stop="20210911204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">マジカルナンバー その数字（かず）にはワケがある</title>
+    <desc lang="en">世の中にあふれているさまざまな「数字」に隠された知られざるワケを徹底調査！回転ずしのレーンの速さはあの動物と同じ！？競泳用プールの長さは実は５０ｍではなかった？</desc>
   </programme>
-  <programme start="20210910200000 +0900" stop="20210910204500 +0900" channel="eTele.jp">
-    <title lang="en">あしたも晴れ!人生レシピ</title>
-    <desc lang="en">外出を控える暮らしが続く中、オンラインで人や地域とのつながりを楽しむシニアを紹介。趣味の発信や、仲間との企画作りなど、新たな居場所、オンラインの魅力を伝えます。</desc>
+  <programme start="20210911204500 +0900" stop="20210911205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210911205500 +0900" stop="20210911210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210911210000 +0900" stop="20210911215000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">２０年前、２９７７人が犠牲となったアメリカ同時多発テロ事件。背後に何があったのか。真相を知りたいと、政府に対し情報の開示を求め続けてきた遺族らの姿を伝える。</desc>
   </programme>
   <programme start="20210910204500 +0900" stop="20210910210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -494,9 +490,13 @@
     <title lang="en">チョイス＠病気になったとき</title>
     <desc lang="en">胸や背中、腹などの体の片側に、赤い発疹が帯のように広がる「帯状疱疹」。新しい治療薬やその場で分かる最新の検査キット、予防効果の高いワクチンなど、最新情報を紹介。</desc>
   </programme>
-  <programme start="20210910195600 +0900" stop="20210910205400 +0900" channel="NipponTV.jp">
-    <title lang="en">沸騰ワード10</title>
-    <desc lang="en">ＡＮＡ全面協力！取り憑かれた風間俊介が自前のダイヤモンドカードで羽田空港の秘密部屋＆最新の空港ラウンジに初潜入▼連日大行列！竹内涼真が茨城の焼き芋仙人に弟子入り</desc>
+  <programme start="20210911204500 +0900" stop="20210911210000 +0900" channel="eTele.jp">
+    <title lang="en">ろうを生きる 難聴を生きる</title>
+    <desc lang="en">「聞こえないセンパイの課外授業」医師、弁護士、ＩＴ企業で活躍するセンパイが　ろう学校の生徒たちに夢実現のヒントを伝授！大学生活からコミュニケーション術まで！</desc>
+  </programme>
+  <programme start="20210911210000 +0900" stop="20210911213000 +0900" channel="eTele.jp">
+    <title lang="en">すくすく子育て</title>
+    <desc lang="en">０歳児ママの６割が「ママ友がいない」というデータ。ママ友・パパ友って必要なの？つきあい方は？新型コロナの影響でママ友・パパ友がつくれず悩む人も。</desc>
   </programme>
   <programme start="20210910205400 +0900" stop="20210910210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなく高校生クイズ</title>
@@ -611,14 +611,14 @@
     <title lang="en">I LOVE みんなのどうぶつ園</title>
     <desc lang="en">大の犬好きロッチ中岡が自宅で保護犬を飼う▽池崎が預かる保護猫の元に来客が…▽土屋太鳳のひとりじめ動物園！激カワ動物まみれ▽マヂラブ野田ハムスターを溺愛しすぎて…</desc>
   </programme>
-<programme start="20210910184500 +0900" stop="20210910200000 +0900" channel="Asahi.jp">
-  <title lang="en">ザワつく!金曜日</title>
-  <desc lang="en">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
-</programme>
-<programme start="20210910200000 +0900" stop="20210910205400 +0900" channel="Asahi.jp">
-  <title lang="en">マツコ有吉 かりそめ天国</title>
-  <desc lang="en">◇ずん飯尾和樹のロケＶＴＲ２本立て！　両手投げボウリング＆ラッピング職人の超絶美技◇付け合わせのスープはどこまで必要？　チャーハンに天津飯、餃子、ラーメンは？</desc>
-</programme>
+  <programme start="20210911205400 +0900" stop="20210911210000 +0900" channel="NipponTV.jp">
+    <title lang="en">ワーズハウスへようこそ</title>
+    <desc lang="en">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
+  </programme>
+  <programme start="20210911210000 +0900" stop="20210911215400 +0900" channel="NipponTV.jp">
+    <title lang="en">1億3000万人のSHOWチャンネル</title>
+    <desc lang="en">長嶋一茂の人生を秘蔵映像と共に振り返る人生チャート！幼少期に住んでいた３４０坪の大豪邸＆プロ野球のエラー集＆奥様からのタレコミ情報▽ムロツヨシ最新映像技術を学ぶ</desc>
+  </programme>
 <programme start="20210910205400 +0900" stop="20210910210000 +0900" channel="Asahi.jp">
   <title lang="en">世界の街道をゆく</title>
   <desc lang="en">今に受け継ぐニューディール政策の道・アメリカ</desc>
@@ -790,9 +790,9 @@
   <title lang="en">池上彰のニュースそうだったのか!!</title>
   <desc lang="en">猛威を振るうデルタ株。これまでのウイルスと何が違うから感染が広がりやすい？治療薬はいつできる？…池上彰が気になる新型コロナ最新情報を徹底解説!!</desc>
 </programme>
-<programme start="20210910190000 +0900" stop="20210910205700 +0900" channel="TBS2.jp">
-  <title lang="en">オオカミ少年</title>
-  <desc lang="en">🈑人気ドラマ豪華俳優陣が大集結・豪華２時間ＳＰ！初出しＮＧシーン続々…演じたＮＧを見破れ！SixTONESジェシー硝子の少年熱唱！話題の赤井英和夫妻のウソ見破れ</desc>
+<programme start="20210911205400 +0900" stop="20210911215500 +0900" channel="Asahi.jp">
+  <title lang="en">サタデーステーション</title>
+  <desc lang="en">“緊急事態”再び延長…重症化防ぐ治療の現場▽“ワクチン後”緩和策…酒提供・旅行など今後は？▽総裁選レースの行方▽大谷翔平…１０３年ぶり快挙達成は？</desc>
 </programme>
 <programme start="20210910205700 +0900" stop="20210910220000 +0900" channel="TBS2.jp">
   <title lang="en">中居正広の金曜日のスマイルたちへ</title>
@@ -934,6 +934,10 @@
 <programme start="20210911185100 +0900" stop="20210911210000 +0900" channel="TBS2.jp">
   <title lang="en">ジョブチューン〜アノ職業のヒミツぶっちゃけます!</title>
   <desc lang="en">▼ジャッジ企画初のジャンル、冷凍食品業界から「マルハニチロ」が参戦！▼炒飯の名店店主が集結！市販の冷凍炒飯を使った超簡単アレンジ炒飯バトル！</desc>
+</programme>
+<programme start="20210911210000 +0900" stop="20210911215400 +0900" channel="TBS2.jp">
+  <title lang="en">世界ふしぎ発見!</title>
+  <desc lang="en">TBSアナウンサー国山ハセンがミステリーハンターで登場！▽メディア初潜入！日本最大級の巨大洞窟▽ニホンオオカミは生きている？！秩父山中で衝撃の新事実発見！</desc>
 </programme>
 <programme start="20210910195500 +0900" stop="20210910214800 +0900" channel="TVTokyo.jp">
   <title lang="en">所でナンじゃこりゃ!?</title>
@@ -1117,9 +1121,13 @@
   <title lang="en">出川哲朗の充電させてもらえませんか?</title>
   <desc lang="en">行くぞ“絶景”出雲崎！日本海沿いをズズッと北国街道110キロ！海の幸がウマすぎるッ！ですが…ずん飯尾もアンジャ児島も運が悪すぎでヤバいよヤバいよSP　前編</desc>
 </programme>
-<programme start="20210910190000 +0900" stop="20210910200000 +0900" channel="FujiTV.jp">
-  <title lang="en">坂上どうぶつ王国</title>
-  <desc lang="en">子猫４匹が坂上家の新たな家族に！？保護猫を一時的に預かる「預かりさん」に坂上忍が初挑戦！慣れない世話にてんやわんや…一家トラブルも続出で…坂上崩壊寸前</desc>
+<programme start="20210911205400 +0900" stop="20210911210000 +0900" channel="TVTokyo.jp">
+  <title lang="en">生きるを伝える</title>
+  <desc lang="en">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
+</programme>
+<programme start="20210911210000 +0900" stop="20210911215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">出没!アド街ック天国</title>
+  <desc lang="en">武蔵小山のお隣「西小山」に初出没！▼ゆる〜い営業の下町商店街▼女性シェフこだわりのエジプト塩＆手打ち生パスタ▼遊べるリノベ銭湯▼濃厚オムライス＆極上闇豚とんかつ</desc>
 </programme>
 <programme start="20210910200000 +0900" stop="20210910215800 +0900" channel="FujiTV.jp">
   <title lang="en">新しいカギ</title>
@@ -1246,10 +1254,6 @@
 <programme start="20210911190000 +0900" stop="20210911211400 +0900" channel="FujiTV.jp">
   <title lang="en">鬼滅の刃</title>
   <desc lang="en">［竈門炭治郎　立志編］特別編集版を全五夜・全集中放送！少年は刃を握る、妹を救うため―心優しき少年・炭治郎と鬼になった妹・禰豆子の長い旅の始まりの物語</desc>
-</programme>
-<programme start="20210910195700 +0900" stop="20210910200000 +0900" channel="Tokyo MX">
-  <title lang="en">ダイナ荘びより</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20210910200000 +0900" stop="20210910210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1467,5 +1471,13 @@
 <programme start="20210911200000 +0900" stop="20210911203000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210911203000 +0900" stop="20210911210000 +0900" channel="Tokyo MX">
+  <title lang="en">遊戯配信 e-Strangers</title>
+  <desc lang="en">次世代の配信スターを発掘！今回はゲーム系動画配信者スペシャル★狩野英孝＆えなこのＭＣコンビと、土屋圭市と鈴木拓がゲーム系動画配信者をジャッジ！</desc>
+</programme>
+<programme start="20210911210000 +0900" stop="20210911213000 +0900" channel="Tokyo MX">
+  <title lang="en">斬波ZANMAI</title>
+  <desc lang="en">斬波メンバーが十八番を披露！負けたらカラオケ代自腹？二度手間カラオケバトル！</desc>
 </programme>
 </tv>
