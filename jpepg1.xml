@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210911014800 +0900" stop="20210911023800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">東日本大震災をも上回る被害が想定される「南海トラフ巨大地震」。そのＸデーがより一層切迫している可能性が明らかに。そのとき命を守るための重要な鍵を最新科学で探る。</desc>
-  </programme>
   <programme start="20210911023800 +0900" stop="20210911031800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽アフガン　ジャーナリストの拘束・暴行相次ぐ　日本人・現地スタッフの待避は▽米　１００人以上の企業ワクチン接種等義務化へ▽“グラウンドゼロに一番近い高校”は今</desc>
@@ -265,6 +261,18 @@
   <programme start="20210912013000 +0900" stop="20210912023500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">おげんさんといっしょ</title>
     <desc lang="en">おげんさんといっしょ第２弾！ＳＮＳで話題騒然となった星野源の冠音楽番組が新たなファミリーを迎えて更にパワーアップ！高畑充希・藤井隆・宮野真守、ゲストは三浦大知！</desc>
+  </programme>
+  <programme start="20210912023500 +0900" stop="20210912024000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">5分でわかる青天を衝(つ)け〜これまでの栄一の軌跡、そして明治へ〜</title>
+    <desc lang="en">“栄一の人生”を５分にギュッと凝縮したスペシャルムービー！激動の幕末を駆け抜けた軌跡から、静岡から新政府、そして民間で活躍する明治の栄一までを描いた再編集版。</desc>
+  </programme>
+  <programme start="20210912024000 +0900" stop="20210912024500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">＜豪華キャスト編＞ドラマの魅力でもある池松壮亮をはじめとする豪華キャスト。撮影に密着することで見えた俳優たちの姿。彼らは果たして演出家・オダギリをどう見たのか。</desc>
+  </programme>
+  <programme start="20210912024500 +0900" stop="20210912033600 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">東京パラリンピック女子マラソン（視覚障害のクラス）で金メダルを獲得した道下美里選手。快挙の裏に究極の信頼関係で結ばれた“伴走者”との絆があった。二人三脚に密着。</desc>
   </programme>
   <programme start="20210911005000 +0900" stop="20210911053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -486,10 +494,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210911015900 +0900" stop="20210911024400 +0900" channel="NipponTV.jp">
-    <title lang="en">夜バゲット</title>
-    <desc lang="en">イチ押しの映画、イベント、アニメ情報を日テレアナウンサー陣が徹底紹介。</desc>
-  </programme>
   <programme start="20210911024400 +0900" stop="20210911051400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -615,15 +619,10 @@
     <title lang="en">Hulu傑作シアター</title>
     <desc lang="en">大人気シンガーソングライター・優里。彼の2曲の歌の世界をドラマ化した作品からバンドセット初のツアー映像まで優里の音楽世界を特集！▼韓国発人気Webドラマを放送！</desc>
   </programme>
-<programme start="20210911015000 +0900" stop="20210911022000 +0900" channel="Asahi.jp">
-  <title lang="en">BeauTV 〜VOCE ビューティーヴィー</title>
-  <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
-【テーマ】欲しいのは“キレイ”を叶えるテクニック！</desc>
-</programme>
-<programme start="20210911022000 +0900" stop="20210911024000 +0900" channel="Asahi.jp">
-  <title lang="en">新日ちゃん。</title>
-  <desc lang="en">SeasonⅣ第８試合 俺たち昔ワルかった！真壁・矢野・本間のヒール時代の映像をプレイバック！さらにその時代の懺悔を各選手にしてもらい発表！</desc>
-</programme>
+  <programme start="20210912023000 +0900" stop="20210912033000 +0900" channel="NipponTV.jp">
+    <title lang="en">WBO世界フライ級タイトルマッチ「中谷潤人×アンヘル・アコスタ」</title>
+    <desc lang="en">アメリカで中谷潤人が挑むＷＢＯ世界フライ級初防衛戦、さらに東京・後楽園で行われる俳優・赤井英和さんの長男、英五郎のデビュー戦など注目の試合を、日米即日２元中継！</desc>
+  </programme>
 <programme start="20210911024000 +0900" stop="20210911030000 +0900" channel="Asahi.jp">
   <title lang="en">ももクロちゃんと!</title>
   <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
@@ -794,13 +793,15 @@
   <title lang="en">ジャヒー様はくじけない!</title>
   <desc lang="en">くじけちゃダメだっ！残念カワイイ魔界復興コメディ☆</desc>
 </programme>
-<programme start="20210911015500 +0900" stop="20210911022500 +0900" channel="TBS2.jp">
-  <title lang="en">BLUE REFLECTION RAY/澪</title>
-  <desc lang="en">【アニメイズム】聖イネス学園を訪れていた陽桜莉は、そこで紫乃と瓜二つの少女に出会う。彼女は紫乃が捨てた“想い”そのものだった。その想いに触れた陽桜莉たちは……</desc>
+<programme start="20210912023000 +0900" stop="20210912030000 +0900" channel="Asahi.jp">
+  <title lang="en">痴情の接吻</title>
+  <desc lang="en">橋本良亮×中村ゆりか▽大人気コミックが原作…ちょっとＨで美しい恋物語！
+突然、高校時代の同級生と同居することに⁉“接吻”から始まる危険な偏愛同居ラブストーリー！</desc>
 </programme>
-<programme start="20210911022500 +0900" stop="20210911025500 +0900" channel="TBS2.jp">
-  <title lang="en">カノジョも彼女</title>
-  <desc lang="en">▽彼女がいるのに、他の女の子に告白されたら……どうする？話題沸騰中のネオスタンダードラブコメ♥</desc>
+<programme start="20210912030000 +0900" stop="20210912040000 +0900" channel="Asahi.jp">
+  <title lang="en">Still　2gether</title>
+  <desc lang="en">タイ発！大ヒットラブストーリー「Still 2gether」を地上波初放送！「2gether」から1年、2人は…
+ドラマ・映画が放題の動画配信サービス『TELASA（テラサ）』特別編！</desc>
 </programme>
 <programme start="20210911025500 +0900" stop="20210911030500 +0900" channel="TBS2.jp">
   <title lang="en">With☆ベイスターズ2021</title>
@@ -940,20 +941,9 @@
 徳川家康の「不自由を常と思えば不足なし」を胸に、２年間で日本記録を９回更新
 高校１年生の素顔に松田丈志が迫る</desc>
 </programme>
-<programme start="20210911015300 +0900" stop="20210911020000 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">9/12（日）夜10時放送！番組の見どころを紹介します！
-▼国内最大級“全国高校対抗eスポーツ大会”高校生日本一の王座に輝くのは？</desc>
-</programme>
-<programme start="20210911020000 +0900" stop="20210911023000 +0900" channel="TVTokyo.jp">
-  <title lang="en">流派-R since2001</title>
-  <desc lang="en">▼R-Feature:SANABAGUN.
-▼VIEWS:BMX
-▼MY　CLASSICS　new　特別編:サイプレス上野　Rei🄫hi　高木“JET”晋一郎</desc>
-</programme>
-<programme start="20210911023000 +0900" stop="20210911024500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">勇者に憧れる少年と仲間たちの活躍を描く大人気アニメ！「ドラゴンクエスト　ダイの大冒険」をご紹介。今夜は、パワーアップした魔王軍の司令官ハドラーをちょい見せ！！</desc>
+<programme start="20210912022800 +0900" stop="20210912040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20210911024500 +0900" stop="20210911031500 +0900" channel="TVTokyo.jp">
   <title lang="en">音流〜ONRYU〜</title>
@@ -1131,9 +1121,13 @@
   <title lang="en">ゴッドタン</title>
   <desc lang="en">悪ふざけの最高峰「ゴッドタン」。その時面白いと思った企画をやり続ける「お笑い番組」です。芸人の本気の悪ふざけは、一見の価値あり！</desc>
 </programme>
-<programme start="20210911015500 +0900" stop="20210911022500 +0900" channel="FujiTV.jp">
-  <title lang="en">次ナルTV-S</title>
-  <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＴＷＯでレギュラー放送中の「キミは＝ＬＯＶＥを愛せるか！！！」ダイジェスト</desc>
+<programme start="20210912021000 +0900" stop="20210912023500 +0900" channel="TVTokyo.jp">
+  <title lang="en">今日からやる会議</title>
+  <desc lang="en">さらば青春の光、カミナリＭＣ！ガチのビジネス会議やビジネス賢人へのインタビューをヒントに、ビジネスプロジェクト立ち上げに挑む新感覚ドキュメント・バラエティ番組！</desc>
+</programme>
+<programme start="20210912023500 +0900" stop="20210912030500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
 </programme>
 <programme start="20210911022500 +0900" stop="20210911032500 +0900" channel="FujiTV.jp">
   <title lang="en">SDGSクリエイターズグランプリ</title>
@@ -1255,17 +1249,9 @@
   <title lang="en">馬好王国〜UmazuKingdom〜</title>
   <desc lang="en">競馬にまつわる初めての出来事をクイズ形式にして「王国チーム」と「正義の味方チーム」が対決する第２弾！難問に挑戦！果たして勝利するのはどちらのチームか？</desc>
 </programme>
-<programme start="20210911013500 +0900" stop="20210911020500 +0900" channel="Tokyo MX">
-  <title lang="en">WONDER WHEEL</title>
-  <desc lang="en">３ＤＣＧのバーチャルステージによる音楽ライブ番組。ＭＣは、サイプレス上野と奥津マリリ（フィロソフィーのダンス）が担当し、毎回様々なゲストアーティストが登場！</desc>
-</programme>
-<programme start="20210911020500 +0900" stop="20210911023400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210911023400 +0900" stop="20210911023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210912020500 +0900" stop="20210912033500 +0900" channel="FujiTV.jp">
+  <title lang="en">世界で一番怖い答え</title>
+  <desc lang="en">有田哲平が贈る恐怖の禁断クイズ番組第３弾▽「放送禁止」の監督・長江俊和が監修…映像に隠された怖い「真実」を見抜くことができるか？都市ボーイズも問題作成</desc>
 </programme>
 <programme start="20210911023500 +0900" stop="20210911030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1477,6 +1463,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210912020000 +0900" stop="20210912023000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210912023000 +0900" stop="20210912030000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210912030000 +0900" stop="20210912033000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
