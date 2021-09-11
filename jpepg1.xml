@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210911124500 +0900" stop="20210911130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">【連続テレビ小説】おかえりモネ</title>
-    <desc lang="en">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
-  </programme>
-  <programme start="20210911130000 +0900" stop="20210911130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース・気象情報</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210911130500 +0900" stop="20210911135000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">帰国した篤太夫が知る幕府崩壊のてんまつ。慶喜の動向や成一郎、惇忠、平九郎たちのその後を聞きどうこくする。頭の整理がつかない中篤太夫は６年ぶりに故郷・血洗島へ戻る</desc>
-  </programme>
   <programme start="20210911135000 +0900" stop="20210911145000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">土曜スタジオパーク</title>
     <desc lang="en">いよいよ、栄一が血洗島に戻ってきます。そこで、血洗島帰郷ＳＰをお届け。ゲストの小林薫さんが、「とっさま」の気持ちを語ります。家族や仲間への思い、撮影秘話も。</desc>
@@ -314,9 +302,25 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210911125500 +0900" stop="20210911130000 +0900" channel="eTele.jp">
-    <title lang="en">楽ラクワンポイント介護</title>
-    <desc lang="en">認知症の家族の介護についてアドバイスする。今回は「トイレ以外の場所で排せつする」ことについて。講師は認知症ケアの第一人者の介護福祉士の和田行男さん。</desc>
+  <programme start="20210912130500 +0900" stop="20210912133200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">サンドのお風呂いただきます</title>
+    <desc lang="en">純烈ＳＰ第４弾。後上翔太はいかにしてギャル男から純烈に欠かせない存在になったのか？舞台は熱海。息子を見守り続けた父がいま明かす秘話！２０年ぶりに親子で温泉へ！</desc>
+  </programme>
+  <programme start="20210912133200 +0900" stop="20210912133500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん百名山ミニ 3min</title>
+    <desc lang="en">東北有数の紅葉の山・栗駒山（１６２６ｍ）、山麓は錦繍の森だが、山頂部は白い花が咲いたような霧氷に覆われる。ブナなど広葉樹に囲まれた草紅葉！コントラストが鮮やか！</desc>
+  </programme>
+  <programme start="20210912133500 +0900" stop="20210912134500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニッポンの里山 ふるさとの絶景に出会う旅</title>
+    <desc lang="en">静岡の茶畑では、チャノキの下に草を敷いて肥料にし、土の乾燥も防いできた。その草を刈る、茶草場（チャグサバ）は、日本古来の貴重な植物の宝庫。生きものも集まる。</desc>
+  </programme>
+  <programme start="20210912134500 +0900" stop="20210912135000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">5分でわかる青天を衝(つ)け〜これまでの栄一の軌跡、そして明治へ〜</title>
+    <desc lang="en">“栄一の人生”を５分にギュッと凝縮したスペシャルムービー！激動の幕末を駆け抜けた軌跡から、静岡から新政府、そして民間で活躍する明治の栄一までを描いた再編集版。</desc>
+  </programme>
+  <programme start="20210912135000 +0900" stop="20210912150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">あの日 あのとき あの番組</title>
+    <desc lang="en">過去の名作から今を見つめる「あの日あのときあの番組〜ＮＨＫアーカイブス〜」。今回は『はらぺこあおむし』の作者エリック・カールさんの特別授業「未来への教室」です。</desc>
   </programme>
   <programme start="20210911130000 +0900" stop="20210911140000 +0900" channel="eTele.jp">
     <title lang="en">こころの時代〜宗教・人生〜</title>
@@ -490,14 +494,9 @@
     <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
     <desc lang="en">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。２回戦第６局は山下敬吾九段と瀬戸大樹八段の対戦。</desc>
   </programme>
-  <programme start="20210911115500 +0900" stop="20210911132500 +0900" channel="NipponTV.jp">
-    <title lang="en">ゼロイチ</title>
-    <desc lang="en">2000万円超えのベンツAMGゲレンデヴァーゲンで登場の美人爆買いさん‼いきなり家具店で460万円の家具購入‼カミナリがポカーン・・・</desc>
-  </programme>
-  <programme start="20210911132500 +0900" stop="20210911133000 +0900" channel="NipponTV.jp">
-    <title lang="en">天才!!カンパニー</title>
-    <desc lang="en">話題の気になる新商品や企業のイチオシ商品を毎週クローズアップ！
-おぎやはぎがその魅力を楽しくお伝えします！</desc>
+  <programme start="20210912140000 +0900" stop="20210912143000 +0900" channel="eTele.jp">
+    <title lang="en">日本の話芸</title>
+    <desc lang="en">桂米助さんの落語「沢村栄治物語」をお送りします（令和３年６月２５日（金）収録）</desc>
   </programme>
   <programme start="20210911133000 +0900" stop="20210911142500 +0900" channel="NipponTV.jp">
     <title lang="en">「ハコヅメ〜たたかう!交番女子〜」最終回直前!見どころ徹底解剖SP</title>
@@ -635,15 +634,14 @@
     <title lang="en">「死神さん」徹底解剖SP</title>
     <desc lang="en">9月17日（金）よりHuluにて配信が開始される連続ドラマ「死神さん」の見どころを、メイキング映像や田中圭さん、前田敦子さんなどのインタビューを交えて紹介します</desc>
   </programme>
-<programme start="20210911120000 +0900" stop="20210911132600 +0900" channel="Asahi.jp">
-  <title lang="en">中居正広のニュースな会</title>
-  <desc lang="en">中居正広が“土曜・お昼の顔”になり、話題の出来事を独自の目線で解説する新感覚ニュース番組です。
-より分かりやすく興味深く。「ニュースって見方が分かると面白い！」</desc>
-</programme>
-<programme start="20210911132600 +0900" stop="20210911133000 +0900" channel="Asahi.jp">
-  <title lang="en">TVクリップ</title>
-  <desc lang="en">人気番組の最新情報をギュッと凝縮してお届けします！</desc>
-</programme>
+  <programme start="20210912131500 +0900" stop="20210912132500 +0900" channel="NipponTV.jp">
+    <title lang="en"></title>
+    <desc lang="en">日本初の女子サッカープロリーグが開幕する歴史的瞬間を生中継！そしてWEリーグの注目は？</desc>
+  </programme>
+  <programme start="20210912132500 +0900" stop="20210912153000 +0900" channel="NipponTV.jp">
+    <title lang="en">女子プロサッカーWEリーグプレシーズンマッチ</title>
+    <desc lang="en">歴史に残るWEリーグ開幕戦！前身のなでしこリーグで最多17回の優勝を誇る日テレ・東京ヴェルディベレーザと昨年王者の浦和レッズレディースが対戦</desc>
+  </programme>
 <programme start="20210911133000 +0900" stop="20210911150000 +0900" channel="Asahi.jp">
   <title lang="en">林修の今でしょ!講座</title>
   <desc lang="en">なぜ安い!?超話題の激安店、大ヒットの裏に隠された常識破りの秘密を徹底解明　▽業務用スーパーに潜入！工場で驚きマシンを発見!?＆そこには品質管理の鬼がいた。</desc>
@@ -813,6 +811,14 @@
   <desc lang="en">▽長野県・永澄夫妻〜大町市在住のご夫妻。北アルプスをのぞむ絶景が広がる夫の家で…
 ▽長野県・永井夫妻〜妻の実家はリンゴ農家…婿探しのため、川でお色気作戦を実行！</desc>
 </programme>
+<programme start="20210912132500 +0900" stop="20210912135500 +0900" channel="Asahi.jp">
+  <title lang="en">パネルクイズ アタック25</title>
+  <desc lang="en">今回は高校生大会！２５枚のパネルを取り合う、視聴者参加型クイズ番組！優勝者は沖縄・宮古島ペア旅行をかけて、最後のＶＴＲクイズに挑戦。司会は谷原章介！</desc>
+</programme>
+<programme start="20210912135500 +0900" stop="20210912155500 +0900" channel="Asahi.jp">
+  <title lang="en">第54回 日本女子プロゴルフ選手権大会 コニカミノルタ杯</title>
+  <desc lang="en">国内最高峰のメジャー大会で、女子プロゴルファーＮｏ.１の称号を手にするのは果たして誰か⁉緊迫感溢れる“華やかな戦い”を生中継！</desc>
+</programme>
 <programme start="20210911115900 +0900" stop="20210911140000 +0900" channel="TBS2.jp">
   <title lang="en">王様のブランチ</title>
   <desc lang="en">秋注目！新感覚焼き芋＆老舗卵店の絶品プリン▽成田凌が注目の新スポーツに挑戦！▽人気料理家リュウジオススメ！のっけめし▽大泉洋直撃！あの番組で起きた珍事件語る</desc>
@@ -960,9 +966,19 @@
   <title lang="en">それSnow Manにやらせて下さい</title>
   <desc lang="en">開会式のピクトグラムが超話題！が〜まるちょばvs Snow Man！“ネットにあげたらバズっちゃう動画”でガチ対決▼バズリ芸人・丸山礼も爆笑した最強動画とは！？</desc>
 </programme>
-<programme start="20210911110300 +0900" stop="20210911132800 +0900" channel="TVTokyo.jp">
-  <title lang="en">かまいたちの名所名物先取り旅</title>
-  <desc lang="en">山内＆高橋克実vs濱家＆坂井真紀の対決旅！絶景の房総半島で、相方の行動を先読みし、名所名物を“先取り”していく！絶品グルメ盛りだくさん！最後に笑うのはどっち！？</desc>
+<programme start="20210912133000 +0900" stop="20210912135700 +0900" channel="TBS2.jp">
+  <title lang="en">ウッチャン式</title>
+  <desc lang="en">今回の式は…滝沢カレン×クイズ番組
+無類の映画好き、滝沢Pがどうしてもやりたかった「映画クイズ」をプロデュース！
+感想を聞いただけで映画タイトルを当てられる⁉</desc>
+</programme>
+<programme start="20210912135700 +0900" stop="20210912140000 +0900" channel="TBS2.jp">
+  <title lang="en">四季折々の贈り物</title>
+  <desc lang="en">今回の贈り物は「トンボ」。秋によく見かけるトンボ、実は暑い夏の間は山の上で過ごし、涼しくなると産卵のため平地に降りてくるんだそう。トンボ獲りにも挑戦！</desc>
+</programme>
+<programme start="20210912140000 +0900" stop="20210912145400 +0900" channel="TBS2.jp">
+  <title lang="en">「クイズ!倍買」ナビ</title>
+  <desc lang="en">🈑MCバナナマンvs山里亮太＆中条あやみの究極バトル▽正解すると賞金が倍に！最終10択クリアで夢の高額賞金が…所持金でアイテムを買って攻略せよ！とんでない奇跡が</desc>
 </programme>
 <programme start="20210911132800 +0900" stop="20210911142300 +0900" channel="TVTokyo.jp">
   <title lang="en">ハーフタイムツアーズ</title>
@@ -1150,9 +1166,9 @@
   <title lang="en">開運!なんでも鑑定団</title>
   <desc lang="en">■奇跡の大発見…世界史登場＜幻の本＞がナゼ古書店に？超ド級鑑定額■西郷隆盛＆徳川慶喜の秘宝…番組初＜幕末お宝大会＞■＜海のユニコーン＞お宝に衝撃値</desc>
 </programme>
-<programme start="20210911120000 +0900" stop="20210911133000 +0900" channel="FujiTV.jp">
-  <title lang="en">ぶらぶらサタデー</title>
-  <desc lang="en">「裏川越の新しい魅力がいっぱい！お花のとろとろチーズオムライス＆古民家洋食からし牛タンシチュー！川越氷川神社で揺れる縁結び江戸風鈴２０００個は圧巻！」</desc>
+<programme start="20210912140000 +0900" stop="20210912160000 +0900" channel="TVTokyo.jp">
+  <title lang="en">北海道警事件ファイル 警部補五条聖子5</title>
+  <desc lang="en">旭川・美瑛・知床が舞台の五条聖子シリーズ！女性カメラマンの殺人事件を追ううちに聖子(若村麻由美)は、いつしか絶滅したエゾオオカミ復活プロジェクトに行きつくのだが…</desc>
 </programme>
 <programme start="20210911133000 +0900" stop="20210911143000 +0900" channel="FujiTV.jp">
   <title lang="en">今夜!ものまね紅白歌合戦 放送直前見どころギュギュッと先取りスペシャル</title>
@@ -1297,13 +1313,9 @@
   <title lang="en">なりゆき街道旅</title>
   <desc lang="en">黒谷友香と行く新橋の旅！最高級ホテル・コンラッド東京で今話題のヌン活体験！最新アンテナショップでご当地食材爆買いで奈良気分！松阪牛の絶品チーズバーガー</desc>
 </programme>
-<programme start="20210911125500 +0900" stop="20210911130000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20210911130000 +0900" stop="20210911133000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210912140000 +0900" stop="20210912145500 +0900" channel="FujiTV.jp">
+  <title lang="en">ザ・ノンフィクション</title>
+  <desc lang="en">自称・ダメ人間のパチスロライター・マエダは末期がんで「３カ月から半年」と余命宣告を受ける…最後まで自分らしく人生を楽しみたい…マエダと仲間たちの終活が始まった</desc>
 </programme>
 <programme start="20210911133000 +0900" stop="20210911140000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1511,6 +1523,10 @@
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20210912130000 +0900" stop="20210912133000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210912133000 +0900" stop="20210912143000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
