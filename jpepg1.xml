@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210911234500 +0900" stop="20210912000000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース・気象情報</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210912000000 +0900" stop="20210912003000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">クローズアップ現代+</title>
-    <desc lang="en">武装勢力タリバンが再び実権を握ったアフガニスタン。戦慄の渦中にあるのが女性たちだ。実業家や人権活動家といった女性たちを独自取材。最前線から緊急報告する。</desc>
-  </programme>
   <programme start="20210912003000 +0900" stop="20210912013000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">おげんさんといっしょ</title>
     <desc lang="en">星野源扮する“おげんさん”と愉快な家族たちが音楽をかたり、うたう伝説の番組第１弾！リクエストに応えて弾き語りも！家族と一緒に生ライブ！最後には話題のあの曲も！</desc>
@@ -330,13 +322,17 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210911230000 +0900" stop="20210912000000 +0900" channel="eTele.jp">
-    <title lang="en">ETV特集</title>
-    <desc lang="en">８月、アフガニスタンの首都カブールをタリバンが制圧、政権を奪取した。現地の人々は今、いかなる状況で日々を生きているのか？緊迫のインタビューによる最新報告。</desc>
+  <programme start="20210913000500 +0900" stop="20210913003000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">キングダム 第3シリーズ</title>
+    <desc lang="en">天下の大将軍を志す元・下僕の信と若き秦王・エイ政。運命的に出会い共に「中華統一」を成し遂げることを誓うが、この夢を阻むように突如秦国を国家存亡の危機が襲う。</desc>
   </programme>
-  <programme start="20210912000000 +0900" stop="20210912003000 +0900" channel="eTele.jp">
-    <title lang="en">バリバラ〜障害者情報バラエティー〜</title>
-    <desc lang="en">“ネットでバズる”ファッション誌の「着回し企画」に車いすのモデルが売りこみ！座り時間が増えたのに誌面を飾るモデルは立ち姿ばかり。編集部が明かす意外な理由とは？</desc>
+  <programme start="20210913003000 +0900" stop="20210913003500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">5分でわかる青天を衝(つ)け〜これまでの栄一の軌跡、そして明治へ〜</title>
+    <desc lang="en">“栄一の人生”を５分にギュッと凝縮したスペシャルムービー！激動の幕末を駆け抜けた軌跡から、静岡から新政府、そして民間で活躍する明治の栄一までを描いた再編集版。</desc>
+  </programme>
+  <programme start="20210913003500 +0900" stop="20210913020500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">おげんさんといっしょ</title>
+    <desc lang="en">おげんさんといっしょ第３弾！９０分でお届け！どこまでゆる〜くなっちゃうのか？おげんさんのお友達ビヨンセ！？渡辺直美が初登場！今回おげんさん一家は何を歌うのか？</desc>
   </programme>
   <programme start="20210912003000 +0900" stop="20210912050000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -502,9 +498,9 @@
     <title lang="en">地球ドラマチック</title>
     <desc lang="en">およそ６６００万年前、隕石の衝突によって、恐竜や多くの生物が地球上から絶滅。その危機を乗り越え、繁栄したのが人類の祖先、哺乳類。どうやって生き延び躍進したのか？</desc>
   </programme>
-  <programme start="20210911235500 +0900" stop="20210912005500 +0900" channel="NipponTV.jp">
-    <title lang="en">Going! SportsNews</title>
-    <desc lang="en">カーリング北京五輪へ大一番！ロコ・ソラーレｖｓ北海道銀行の日本代表決定戦▼プロ野球全試合！東京五輪・卓球金メダル伊藤美誠始球式の舞台裏▼金メダリスト感動のシーン</desc>
+  <programme start="20210913004500 +0900" stop="20210913053000 +0900" channel="eTele.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210912005500 +0900" stop="20210912012500 +0900" channel="NipponTV.jp">
     <title lang="en">EDENSZERO/エデンズ ゼロ</title>
@@ -653,18 +649,10 @@
     <title lang="en">Going! SportsNews</title>
     <desc lang="en">亀梨魔球プロジェクト巨人・菅野編！カーブとフォークの極意！レジェンド桑田コーチから教わった衝撃の握りも大公開▼バレー石川祐希、五輪ベストプレー＆アジア選手権</desc>
   </programme>
-<programme start="20210911230000 +0900" stop="20210912000000 +0900" channel="Asahi.jp">
-  <title lang="en">ザ・ハイスクール ヒーローズ</title>
-  <desc lang="en">残り２話！ついに最終章！美 少年がヒーローに変身！「友情と団結」をテーマに学園の平和を守る前代未聞の戦隊ヒーロードラマ！秘密戦隊ゴレンジャーも登場‼</desc>
-</programme>
-<programme start="20210912000000 +0900" stop="20210912000500 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
-</programme>
-<programme start="20210912000500 +0900" stop="20210912003000 +0900" channel="Asahi.jp">
-  <title lang="en">超人女子戦士 ガリベンガーV</title>
-  <desc lang="en">地球にはびこる超難解な現象を、解き続ける女子たちを養成する組織…それが「ガリベンガーＶ」今夜は「パンダSP」！話題Ｖチューバーが頭脳を徹底的に鍛えます！</desc>
-</programme>
+  <programme start="20210913005500 +0900" stop="20210913012500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNドキュメント</title>
+    <desc lang="en">コロナ禍で存在意義を見失った富山の大道芸人たちがご当地ヒーロー作りを始動。不要不急とされたエンターテインメントの力を信じ、子供たちに笑顔を届ける挑戦が始まった。</desc>
+  </programme>
 <programme start="20210912003000 +0900" stop="20210912010000 +0900" channel="Asahi.jp">
   <title lang="en">アニマルエレジー</title>
   <desc lang="en">地球上に生きるあらゆる「生き物」の、哀しいけれどちょっと笑ってしまう…おかしい生態を覗き見する異色の動物番組。</desc>
@@ -833,21 +821,14 @@
   <title lang="en">声優パーク建設計画 VR部</title>
   <desc lang="en">土岐隼一＆古賀葵＆笠間淳…人気若手声優大集合ＳＰ！怒号が飛びかう！？東リベ㊙アフレコ現場＆脱サラ声優リアルな実情…とっておき裏話を暴露▽三四郎に爆笑生ラフレコ！</desc>
 </programme>
-<programme start="20210911233000 +0900" stop="20210912000000 +0900" channel="TBS2.jp">
-  <title lang="en">人生最高レストラン</title>
-  <desc lang="en">▼辛うま！タイ国政府認定ラーメン▼衝撃！とろける豚バラとんかつ▼あざとかわいい女子の乙女な素顔▼苦節１８年…下積み時代の苦悩▼スタジオで突然の涙…そのワケとは？</desc>
+<programme start="20210913002500 +0900" stop="20210913005500 +0900" channel="Asahi.jp">
+  <title lang="en">ReAL eSports News</title>
+  <desc lang="en">山里亮太のｅスポーツ情報番組『ＲｅＡＬｅ』（りあるいー）！超名作レトロゲームＳＰ‼パンサー・菅と伝説の激ムズソフトに挑戦‼懐かしすぎて山里、童心に帰る…</desc>
 </programme>
-<programme start="20210912000000 +0900" stop="20210912003000 +0900" channel="TBS2.jp">
-  <title lang="en">7つの海を楽しもう!世界さまぁ〜リゾート</title>
-  <desc lang="en">世界ビーチウォーカーinシンガポール
-ビーチ、５つ星ホテル、超有名絶品グルメ、ストリート、絶対行くべきアクティビティーなどをご紹介！</desc>
-</programme>
-<programme start="20210912003000 +0900" stop="20210912005800 +0900" channel="TBS2.jp">
-  <title lang="en">S☆1</title>
-  <desc lang="en">▽大谷翔平現地取材！地元花巻温泉に大谷メーターが！？
-▽カーリング女子日本代表決定戦
-▽卓球男子水谷の枠を埋めるのは！？
-▽日本女子プロゴルフ選手権稲見</desc>
+<programme start="20210913005500 +0900" stop="20210913012500 +0900" channel="Asahi.jp">
+  <title lang="en">熱闘!Mリーグ</title>
+  <desc lang="en">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
+雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
 </programme>
 <programme start="20210912005800 +0900" stop="20210912012800 +0900" channel="TBS2.jp">
   <title lang="en">私が女優になる日_</title>
@@ -988,13 +969,14 @@
   <title lang="en">BACKSTAGE</title>
   <desc lang="en">危険なハチの巣駆除を２人で行う“夫婦ハチハンター”に密着！取りにくい場所にできた超巨大なハチの巣駆除に挑む！危険なハチに夫婦で立ち向かう、その理由とは？ </desc>
 </programme>
-<programme start="20210911235500 +0900" stop="20210912002000 +0900" channel="TVTokyo.jp">
-  <title lang="en">そろそろ にちようチャップリン</title>
-  <desc lang="en">【サスティナブル芸人大集合ＳＰ】フォーリンラブ＆レギュラー＆大西ライオン＆スギちゃん＆ピスタチオ！何年経っても色あせない持続可能な芸人たちの演芸祭り▼内村光良</desc>
-</programme>
-<programme start="20210912002000 +0900" stop="20210912005000 +0900" channel="TVTokyo.jp">
-  <title lang="en">FOOT×BRAIN</title>
-  <desc lang="en">日本初の女子プロサッカーリーグＷＥリーグが明日開幕！そこで今夜はＷＥリーグ特別ＳＰとして新旧なでしこジャパンメンバーが大集合。ＷＥリーグを語り尽くす３０分。</desc>
+<programme start="20210913001500 +0900" stop="20210913011300 +0900" channel="TBS2.jp">
+  <title lang="en">S☆1</title>
+  <desc lang="en">▽大谷翔平
+▽久保建英スペイン現地取材マークカメラ
+▽カーリング女子日本代表決定戦
+▽サッカー田中碧＆ＷＥリーグ開幕
+▽ゴルフ渋野稲見
+▽プロ野球</desc>
 </programme>
 <programme start="20210912005000 +0900" stop="20210912012000 +0900" channel="TVTokyo.jp">
   <title lang="en">二軒目どうする?〜ツマミのハナシ〜</title>
@@ -1149,13 +1131,13 @@
   <title lang="en">追跡 LIVE! SPORTS ウォッチャー</title>
   <desc lang="en">ＨＲ王争い佳境！大谷キング到達へのカギは抜け出すのはどのチームか？混戦セパＶ争いカーリング北京五輪代表争い大詰め勝つのは</desc>
 </programme>
-<programme start="20210911233000 +0900" stop="20210912000000 +0900" channel="FujiTV.jp">
-  <title lang="en">さんまのお笑い向上委員会</title>
-  <desc lang="en">向上長＆今田が雨上がり解散について初議論！安村が独自の解散理論を語る！ザ・マミィ緊張ＭＡＸ極限状態で参戦！ギャル荒川＆自衛隊やす子がメンタル強化法伝授</desc>
+<programme start="20210913000600 +0900" stop="20210913003600 +0900" channel="TVTokyo.jp">
+  <title lang="en">SUPER GT+</title>
+  <desc lang="en">レースの勝敗を左右するピット戦略を無線から紐解く！そこには驚きの真実が！▽ＧＴマシンのエンジン始動で熱狂！▽車業界の注目トピックスを伝える「ＧＴプラスＮＥＷＳ」</desc>
 </programme>
-<programme start="20210912000000 +0900" stop="20210912005500 +0900" channel="FujiTV.jp">
-  <title lang="en">准教授・高槻彰良の推察 season1</title>
-  <desc lang="en">“図書館のマリエさん”に呪われると三日以内に暗号を解かなければ殺されてしまう！？調査を進めるうちに、高槻（伊野尾慧）らは呪いが生まれた悲しい背景に辿り着いて…</desc>
+<programme start="20210913003600 +0900" stop="20210913010600 +0900" channel="TVTokyo.jp">
+  <title lang="en">乃木坂工事中</title>
+  <desc lang="en">今週の乃木坂工事中は「２８枚目シングルヒット祈願！」</desc>
 </programme>
 <programme start="20210912005500 +0900" stop="20210912013500 +0900" channel="FujiTV.jp">
   <title lang="en">S-PARK</title>
@@ -1307,17 +1289,9 @@
   <title lang="en">S-PARK</title>
   <desc lang="en">スポーツ・パーク「Ｓ－ＰＡＲＫ」▼大谷翔平ＨＲ王争いを予想！▼北京へ！カーリング日本代表決定戦▼パリへ！男子バレー日本代表始動！▼白熱！セ・パ首位争い</desc>
 </programme>
-<programme start="20210911233000 +0900" stop="20210912000000 +0900" channel="Tokyo MX">
-  <title lang="en">魔法科高校の優等生</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210912000000 +0900" stop="20210912003000 +0900" channel="Tokyo MX">
-  <title lang="en">マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-</title>
-  <desc lang="en">＃７</desc>
-</programme>
-<programme start="20210912003000 +0900" stop="20210912005700 +0900" channel="Tokyo MX">
-  <title lang="en">抱かれたい男1位に脅されています。</title>
-  <desc lang="en"> </desc>
+<programme start="20210913003000 +0900" stop="20210913012500 +0900" channel="FujiTV.jp">
+  <title lang="en">Love music</title>
+  <desc lang="en">ＢＬＵＥ　ＥＮＣＯＵＮＴがトーク初登場！音楽ルーツや転機となった自身の曲を熱弁＆話題のドラマ主題歌披露▽ＴＨＥ　ＢＡＷＤＩＥＳ＆ＭＯＳＨＩＭＯ最新曲</desc>
 </programme>
 <programme start="20210912005700 +0900" stop="20210912010000 +0900" channel="Tokyo MX">
   <title lang="en">ダイナ荘びより</title>
@@ -1502,5 +1476,13 @@
 <programme start="20210913000000 +0900" stop="20210913003000 +0900" channel="Tokyo MX">
   <title lang="en">無職転生 〜異世界行ったら本気だす〜</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210913003000 +0900" stop="20210913010000 +0900" channel="Tokyo MX">
+  <title lang="en">探偵はもう、死んでいる。</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210913010000 +0900" stop="20210913010500 +0900" channel="Tokyo MX">
+  <title lang="en">おーばーふろぉ</title>
+  <desc lang="en">「やわらか姉妹と入浴中」</desc>
 </programme>
 </tv>
