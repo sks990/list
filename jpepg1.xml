@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210911193000 +0900" stop="20210911201500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ブラタモリ</title>
-    <desc lang="en">武田・豊臣・徳川…武将たちに松本城が愛された理由をタモリさんがブラブラ歩いて解き明かす！▽古地図をもとに城の東西南北を町歩き。豊かな湧き水の町・松本の魅力を探る</desc>
-  </programme>
-  <programme start="20210911201500 +0900" stop="20210911204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">マジカルナンバー その数字（かず）にはワケがある</title>
-    <desc lang="en">世の中にあふれているさまざまな「数字」に隠された知られざるワケを徹底調査！回転ずしのレーンの速さはあの動物と同じ！？競泳用プールの長さは実は５０ｍではなかった？</desc>
-  </programme>
-  <programme start="20210911204500 +0900" stop="20210911205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210911205500 +0900" stop="20210911210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
@@ -330,13 +318,17 @@
     <title lang="en">青天を衝（つ）け</title>
     <desc lang="en">故郷に戻った篤太夫は、千代、市郎右衛門、ゑいたち家族と再会を喜びあうが、尾高家の悲しい出来事を知り衝撃を受ける。その後、篤太夫は慶喜に会うために駿府へと向かう。</desc>
   </programme>
-  <programme start="20210911195500 +0900" stop="20210911200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20210912204500 +0900" stop="20210912205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース</title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20210911200000 +0900" stop="20210911204500 +0900" channel="eTele.jp">
-    <title lang="en">チョイス＠病気になったとき</title>
-    <desc lang="en">胸や背中、腹などの体の片側に、赤い発疹が帯のように広がる「帯状疱疹」。新しい治療薬やその場で分かる最新の検査キット、予防効果の高いワクチンなど、最新情報を紹介。</desc>
+  <programme start="20210912205500 +0900" stop="20210912210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース・気象情報</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210912210000 +0900" stop="20210912221500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">次はいつ、どんな巨大地震が起きるのか？東日本大震災から１０年、危機を予測し命を守る研究に新展開が。人工知能なども駆使した科学の到達点に迫る。　ゲスト：鈴木京香</desc>
   </programme>
   <programme start="20210911204500 +0900" stop="20210911210000 +0900" channel="eTele.jp">
     <title lang="en">ろうを生きる 難聴を生きる</title>
@@ -514,9 +506,13 @@
     <title lang="en">日曜美術館</title>
     <desc lang="en">人形師・ホリヒロシ。等身大の人形を一から作り、その人形と一緒に舞う舞台芸術「人形舞」を創設。人形舞をともに作り上げてきた妻の死を乗り越え挑む、３年ぶりの新作。</desc>
   </programme>
-  <programme start="20210911190000 +0900" stop="20210911205400 +0900" channel="NipponTV.jp">
-    <title lang="en">I LOVE みんなのどうぶつ園</title>
-    <desc lang="en">大の犬好きロッチ中岡が自宅で保護犬を飼う▽池崎が預かる保護猫の元に来客が…▽土屋太鳳のひとりじめ動物園！激カワ動物まみれ▽マヂラブ野田ハムスターを溺愛しすぎて…</desc>
+  <programme start="20210912204500 +0900" stop="20210912210000 +0900" channel="eTele.jp">
+    <title lang="en">日曜美術館 アートシーン</title>
+    <desc lang="en">「木彫り熊の申し子　藤戸竹喜　アイヌであればこそ」（東京ステーションギャラリー　７月１７日〜９月２６日）ほか、展覧会情報</desc>
+  </programme>
+  <programme start="20210912210000 +0900" stop="20210912230000 +0900" channel="eTele.jp">
+    <title lang="en">クラシック音楽館</title>
+    <desc lang="en">指揮者・下野竜也が贈る「祈りの音楽」▽不協和音が美しいフィンジの「前奏曲」▽ブリテンが亡き両親にささげた祈りの音楽とは？▽「癒やし」を聞くブルックナー「０番」他</desc>
   </programme>
   <programme start="20210911205400 +0900" stop="20210911210000 +0900" channel="NipponTV.jp">
     <title lang="en">ワーズハウスへようこそ</title>
@@ -668,16 +664,14 @@
     <title lang="en">世界の果てまでイッテQ!</title>
     <desc lang="en">マジシャン出川哲朗＆谷まりあ！日本古来のマジック和妻ショーに挑戦！▼ガンバレルーヤ憧れの新体操に挑戦！名門大学と夢のコラボ！華麗な団体演技成功なるか？</desc>
   </programme>
-<programme start="20210911185600 +0900" stop="20210911200000 +0900" channel="Asahi.jp">
-  <title lang="en">サンドウィッチマン芦田愛菜の博士ちゃん</title>
-  <desc lang="en">子供博士こと“博士ちゃん”がサンドウィッチマン＆芦田愛菜に最強授業！
-天海祐希参戦で天然石博士と目利きバトル！
-さらに初登場！働くスーパー重機博士９歳が登場！</desc>
-</programme>
-<programme start="20210911200000 +0900" stop="20210911205400 +0900" channel="Asahi.jp">
-  <title lang="en">池上彰のニュースそうだったのか!!</title>
-  <desc lang="en">猛威を振るうデルタ株。これまでのウイルスと何が違うから感染が広がりやすい？治療薬はいつできる？…池上彰が気になる新型コロナ最新情報を徹底解説!!</desc>
-</programme>
+  <programme start="20210912205400 +0900" stop="20210912210000 +0900" channel="NipponTV.jp">
+    <title lang="en">音のソノリティ</title>
+    <desc lang="en">環境で変化する自然や天然の音、各地に根付く情緒溢れる文化の音、地球や生命の息遣いや生物の奏でる音楽など、様々なサウンドの世界を紹介。音の原風景を届けます。</desc>
+  </programme>
+  <programme start="20210912210000 +0900" stop="20210912215400 +0900" channel="NipponTV.jp">
+    <title lang="en">行列のできる法律相談所</title>
+    <desc lang="en">メダリストのワガママ叶えます！バスケ・エブリン超新塾とネタ披露！レスリング川井姉妹は一切れ4千円超ケーキ＆柔道ウルフ予約取れない焼肉店！水谷あいみょんに会いたい</desc>
+  </programme>
 <programme start="20210911205400 +0900" stop="20210911215500 +0900" channel="Asahi.jp">
   <title lang="en">サタデーステーション</title>
   <desc lang="en">“緊急事態”再び延長…重症化防ぐ治療の現場▽“ワクチン後”緩和策…酒提供・旅行など今後は？▽総裁選レースの行方▽大谷翔平…１０３年ぶり快挙達成は？</desc>
@@ -842,6 +836,15 @@
   <title lang="en">ポツンと一軒家</title>
   <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
 </programme>
+<programme start="20210912205600 +0900" stop="20210912210000 +0900" channel="Asahi.jp">
+  <title lang="en">食ノ音色</title>
+  <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
+今回の“食ノ音色”を奏でる主役は『マカロニグラタン』です。</desc>
+</programme>
+<programme start="20210912210000 +0900" stop="20210912215500 +0900" channel="Asahi.jp">
+  <title lang="en">サンデーステーション</title>
+  <desc lang="en">日曜よる９時。新しい明日へ「再起動」。次の一週間のヒントにつながる報道番組を目指します。ニュースは総力取材、時代が見える独自特集、スポーツ、天気もしっかりと！</desc>
+</programme>
 <programme start="20210911185100 +0900" stop="20210911210000 +0900" channel="TBS2.jp">
   <title lang="en">ジョブチューン〜アノ職業のヒミツぶっちゃけます!</title>
   <desc lang="en">▼ジャッジ企画初のジャンル、冷凍食品業界から「マルハニチロ」が参戦！▼炒飯の名店店主が集結！市販の冷凍炒飯を使った超簡単アレンジ炒飯バトル！</desc>
@@ -995,9 +998,9 @@
   <title lang="en">バナナマンのせっかくグルメ</title>
   <desc lang="en">日村は那須高原へ！誰でも泊まれる㊙貸別荘で絶品テイクアウト爆食！超柔らか和牛の丼＆森の中の人気パン屋さん★メンディーは徳島市！コク旨ご当地ラーメン＆絶品地鶏焼肉</desc>
 </programme>
-<programme start="20210911195400 +0900" stop="20210911205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">出川哲朗の充電させてもらえませんか?</title>
-  <desc lang="en">行くぞ“絶景”出雲崎！日本海沿いをズズッと北国街道110キロ！海の幸がウマすぎるッ！ですが…ずん飯尾もアンジャ児島も運が悪すぎでヤバいよヤバいよSP　前編</desc>
+<programme start="20210912210000 +0900" stop="20210912220900 +0900" channel="TBS2.jp">
+  <title lang="en">TOKYO MER〜走る緊急救命室〜</title>
+  <desc lang="en">🈑🈓妹を亡くし失意の喜多見は、ＭＥＲ脱退を決意。爆破テロにより多くの負傷者が出るが、立ち上がれない…そんな彼が耳にした「言葉」とは―号泣必至！ＭＥＲ最後の戦い！</desc>
 </programme>
 <programme start="20210911205400 +0900" stop="20210911210000 +0900" channel="TVTokyo.jp">
   <title lang="en">生きるを伝える</title>
@@ -1169,6 +1172,13 @@
   <title lang="en">緊急SOS!池の水ぜんぶ抜く大作戦</title>
   <desc lang="en">埼玉トンボの里に絶滅危惧種!眼が赤く光る怪魚・幻アカメ48時間死闘…超巨大１ｍ超が出た!東京の川の生物探せ江戸城お堀に歴史遺産“百万石の石垣”日本橋川に中国産エビ</desc>
 </programme>
+<programme start="20210912210000 +0900" stop="20210912215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">モヤモヤさまぁ〜ず2</title>
+  <desc lang="en">▼哀愁漂うワンちゃんが首の角度で表情激変
+▼お茶店の元浅草芸人店主が鋭いツッコミ！
+▼白熱！駄菓子クレーンゲーム「モナコ」？
+▼ふかわりょうが番組の重大発表？</desc>
+</programme>
 <programme start="20210911190000 +0900" stop="20210911211400 +0900" channel="FujiTV.jp">
   <title lang="en">鬼滅の刃</title>
   <desc lang="en">［竈門炭治郎　立志編］特別編集版を全五夜・全集中放送！少年は刃を握る、妹を救うため―心優しき少年・炭治郎と鬼になった妹・禰豆子の長い旅の始まりの物語</desc>
@@ -1326,14 +1336,6 @@
 <programme start="20210912190000 +0900" stop="20210912211500 +0900" channel="FujiTV.jp">
   <title lang="en">鬼滅の刃</title>
   <desc lang="en">［竈門炭治郎　立志編］特別編集版を全五夜・全集中放送！鬼殺隊としての初任務に挑む炭治郎、そして現れた宿敵とは…！</desc>
-</programme>
-<programme start="20210911193000 +0900" stop="20210911200000 +0900" channel="Tokyo MX">
-  <title lang="en">世界の子どもの未来のために</title>
-  <desc lang="en">厳しい貧困に生きる子ども達の生活をドキュメンタリー形式で紹介。ワールド・ビジョンの「チャイルド・スポンサーシップ」による支援を紹介します。</desc>
-</programme>
-<programme start="20210911200000 +0900" stop="20210911203000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20210911203000 +0900" stop="20210911210000 +0900" channel="Tokyo MX">
   <title lang="en">遊戯配信 e-Strangers</title>
@@ -1526,5 +1528,9 @@
 <programme start="20210912190000 +0900" stop="20210912210000 +0900" channel="Tokyo MX">
   <title lang="en">サッカー Jリーグ</title>
   <desc lang="en">２０２１明治安田生命Ｊ１リーグ第２８節　ＦＣ東京ｖｓ柏レイソル戦▼ＦＣ東京クラブスポンサー冠マッチ「大矢運送Ｄａｙ」</desc>
+</programme>
+<programme start="20210912210000 +0900" stop="20210912213000 +0900" channel="Tokyo MX">
+  <title lang="en">ぐらぶるTVちゃんねるっ!</title>
+  <desc lang="en"> </desc>
 </programme>
 </tv>
