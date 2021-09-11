@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210911100500 +0900" stop="20210911111700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏情報 ネタドリ!</title>
-    <desc lang="en">緊急事態宣言下での開催となった東京五輪・パラは私たちの暮らしに何を残したのか。医療現場、ホストタウン、フードデリバリー配達員などの舞台裏から探る７２分拡大版。</desc>
-  </programme>
-  <programme start="20210911111700 +0900" stop="20210911112400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">時代は明治、栄一は新政府に出仕し、その後銀行を立ち上げ、活躍の場を民間へ。大隈重信、伊藤博文、三野村利左衛門、岩崎弥太郎…栄一と交わる偉人が登場、その魅力を紹介</desc>
-  </programme>
-  <programme start="20210911112400 +0900" stop="20210911115400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ドキュメント72時間</title>
-    <desc lang="en">国内屈指の巨大熱帯魚店。水槽にはベタやディスカス、メダカやアロワナなどが４００種類と、まるで水族館のよう。自宅で小さな魚をいとしむ人たちに３日間、耳を傾ける。</desc>
-  </programme>
   <programme start="20210911115400 +0900" stop="20210911120000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">気象情報</title>
     <desc lang="en"></desc>
@@ -318,17 +306,21 @@
     <title lang="en">【連続テレビ小説】おかえりモネ</title>
     <desc lang="en">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
   </programme>
-  <programme start="20210911105500 +0900" stop="20210911110000 +0900" channel="eTele.jp">
-    <title lang="en">ごちそんぐDJ</title>
-    <desc lang="en">日本の食文化を支えてきた豊かな水の恵み！おいしいお水をそのまま食べたい！そんな夢をかなえてくれるのが今日のお菓子、“水玉のまんま餅”！トゥルンと食べて！</desc>
+  <programme start="20210912111500 +0900" stop="20210912112000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">5分でわかる青天を衝(つ)け〜これまでの栄一の軌跡、そして明治へ〜</title>
+    <desc lang="en">“栄一の人生”を５分にギュッと凝縮したスペシャルムービー！激動の幕末を駆け抜けた軌跡から、静岡から新政府、そして民間で活躍する明治の栄一までを描いた再編集版。</desc>
   </programme>
-  <programme start="20210911110000 +0900" stop="20210911113000 +0900" channel="eTele.jp">
-    <title lang="en">サイエンスZERO</title>
-    <desc lang="en">新型コロナのワクチン接種で使われているｍＲＮＡワクチン。２０年以上にわたる開発の裏側から副反応、変異株への効果まで。ｍＲＮＡワクチン研究の第一人者が徹底解説。</desc>
+  <programme start="20210912112000 +0900" stop="20210912115400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">どーも、NHK</title>
+    <desc lang="en">▽１週間のおすすめ番組を紹介▽「命と暮らしを守る」防災・減災報道を特集。地域ごとにきめ細かく情報発信し、インターネットも活用して、あまねく伝えていきます。</desc>
   </programme>
-  <programme start="20210911113000 +0900" stop="20210911114000 +0900" channel="eTele.jp">
-    <title lang="en">いじめをノックアウト</title>
-    <desc lang="en">ＮＨＫいじめを考えるキャンペーンＨＰで行われている、誰にも相談できない悩みを“マダ見ぬ友だち＝マダ友”に相談しようというプロジェクトを紹介する回をアンコール放送</desc>
+  <programme start="20210912115400 +0900" stop="20210912120000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">気象情報</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210912120000 +0900" stop="20210912121000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース</title>
+    <desc lang="en">【キャスター】佐藤誠太</desc>
   </programme>
   <programme start="20210911114000 +0900" stop="20210911120000 +0900" channel="eTele.jp">
     <title lang="en">週間手話ニュース</title>
@@ -510,13 +502,9 @@
     <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
     <desc lang="en">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。２回戦第６局は永瀬拓矢王座と日浦市郎八段の対戦。</desc>
   </programme>
-  <programme start="20210911103000 +0900" stop="20210911114500 +0900" channel="NipponTV.jp">
-    <title lang="en">ゼロイチ</title>
-    <desc lang="en">白洲迅のカッコ良さにぼる塾メロメロ‼シーカヤック体験に田辺さんのドンくささが炸裂‼海苔職人のお父さんから嫁に来ないかと言われテンション爆上がり‼</desc>
-  </programme>
-  <programme start="20210911114500 +0900" stop="20210911115500 +0900" channel="NipponTV.jp">
-    <title lang="en">キユーピー3分クッキング</title>
-    <desc lang="en">ゆでだこは炊き込みごはんにすると固くなりやすいので、別にさっと煮て、煮汁ごとごはんに混ぜました。どちらも熱いうちに合わせるのがポイント。</desc>
+  <programme start="20210912120000 +0900" stop="20210912123000 +0900" channel="eTele.jp">
+    <title lang="en">囲碁フォーカス</title>
+    <desc lang="en">下島陽平八段の講座は「土地を広げる攻防」。「黒嘉嘉のＧＯビギナーズ」は「対局（中編）」。「フォーカス・オン」は「囲碁が分かればドラマはもっと楽しい！」。</desc>
   </programme>
   <programme start="20210911115500 +0900" stop="20210911132500 +0900" channel="NipponTV.jp">
     <title lang="en">ゼロイチ</title>
@@ -647,23 +635,18 @@
     <title lang="en">ニノさん</title>
     <desc lang="en">吉岡里帆が気になる…予約がとれない話題の最新サウナをアインシュタインが大調査！１０の技をもつ天才猫が登場！▽私物捜査官は日本レコード大賞受賞のミュージカル女優！</desc>
   </programme>
-<programme start="20210911103000 +0900" stop="20210911110000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">佐世保のスタジオから生放送だからできる旬な商品をお届けするテレビショッピング！期間限定商品を手にする大チャンス！是非お見逃しなく！</desc>
-</programme>
-<programme start="20210911110000 +0900" stop="20210911114000 +0900" channel="Asahi.jp">
-  <title lang="en">サンドウィッチマン芦田愛菜の博士ちゃん 特別編</title>
-  <desc lang="en">子供博士こと“博士ちゃん”がサンドウィッチマン＆芦田愛菜に最強授業！
-今回は「働く巨大船」博士が登場！
-破壊船＆病院船＆軍艦＆南極観測船まで…爆笑徹底解説!!</desc>
-</programme>
-<programme start="20210911114000 +0900" stop="20210911114500 +0900" channel="Asahi.jp">
-  <title lang="en">日本全国 ごちそう散歩</title>
-  <desc lang="en">一歩。いっぷく。今日もどこかで、ごちそうさん！
-豊かな気候が育んだ四季折々の食材…
-地元の人たちが愛してやまない逸品…
-今回の「ごちそう」は【梅干し】</desc>
-</programme>
+  <programme start="20210912112500 +0900" stop="20210912113000 +0900" channel="NipponTV.jp">
+    <title lang="en">biz search</title>
+    <desc lang="en">話題の企業の新商品、キャンペーン、イベントなどを日本テレビアナウンサーが徹底調査！</desc>
+  </programme>
+  <programme start="20210912113000 +0900" stop="20210912114500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNN ストレイトニュース</title>
+    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  </programme>
+  <programme start="20210912114500 +0900" stop="20210912124500 +0900" channel="NipponTV.jp">
+    <title lang="en">スクール革命!</title>
+    <desc lang="en">Ｊ組で一番イラストをうまく描けるのは誰？絵心ランキング！▽すぐに似顔絵が上手に描ける！？簡単テクニックを大公開！▽うますぎるイラストを描いているのは誰？</desc>
+  </programme>
 <programme start="20210911114500 +0900" stop="20210911120000 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
@@ -829,13 +812,17 @@
   <desc lang="en">明日夜８時３０分は夏の宝くじ当せん発表！まさかのメダリスト参戦で高額当せん出た！
 それに先駆け宝くじ名場面を公開！キスマイVSサンドVSＥＸＩＴVS四千頭身VSメイプル</desc>
 </programme>
-<programme start="20210911093000 +0900" stop="20210911114500 +0900" channel="TBS2.jp">
-  <title lang="en">王様のブランチ</title>
-  <desc lang="en">鈴木亮平＆賀来賢人！TOKYOMER最終回のみどころを直撃▽レシピ大賞滝沢カレン▽純烈が生出演！銭湯アイドルヒーロー!?▽家で遊びたいアナログゲーム</desc>
+<programme start="20210912114500 +0900" stop="20210912115000 +0900" channel="Asahi.jp">
+  <title lang="en">発進!ミライクリエイター</title>
+  <desc lang="en">世界や日本の未来を変えるかもしれない「研究」「活動」「提案」「起業」「挑戦」に奮闘している若きミライクリエイターをご紹介！</desc>
 </programme>
-<programme start="20210911114500 +0900" stop="20210911115900 +0900" channel="TBS2.jp">
-  <title lang="en">JNNニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
+<programme start="20210912115000 +0900" stop="20210912120000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20210912120000 +0900" stop="20210912125500 +0900" channel="Asahi.jp">
+  <title lang="en">ビートたけしのTVタックル</title>
+  <desc lang="en">コロナ禍でも待ってはくれない…近年頻発する豪雨被害、土砂災害、懸念される巨大地震。地球環境の変化なのか？世界各地でも深刻な自然災害が…命を守る為にどうするべきか</desc>
 </programme>
 <programme start="20210911115900 +0900" stop="20210911140000 +0900" channel="TBS2.jp">
   <title lang="en">王様のブランチ</title>
@@ -963,13 +950,18 @@
   <title lang="en">サンデー・ジャポン</title>
   <desc lang="en">１週間のニュースを総まとめ！爆笑問題＆超辛口パネラーに旬なゲスト加え、独自取材と激アツトークでお送りする嵐のような９０分！唯一無二のジャーナリズムバラエティ！</desc>
 </programme>
-<programme start="20210911103000 +0900" stop="20210911110000 +0900" channel="TVTokyo.jp">
-  <title lang="en">パズドラ</title>
-  <desc lang="en">神崎シンとの対決に敗れた龍二は、自分の実力不足を素直に認めていた。決勝の前におこなわれる三位決定戦で、龍二は王城つかさと対決する。龍二の心境に変化が出始め…。</desc>
+<programme start="20210912113000 +0900" stop="20210912114000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20210911110000 +0900" stop="20210911110300 +0900" channel="TVTokyo.jp">
-  <title lang="en">TXNニュース</title>
-  <desc lang="en">日本や世界の最新ニュースをコンパクトにお伝えする。</desc>
+<programme start="20210912114000 +0900" stop="20210912114500 +0900" channel="TBS2.jp">
+  <title lang="en">デジタル一番星+</title>
+  <desc lang="en">食事の準備、もっと楽したい…そんなお悩みに家事アドバイザー・矢野きくのさんが今話題の「簡単調理法」や、「時短調理術」について紹介します。</desc>
+</programme>
+<programme start="20210912114500 +0900" stop="20210912125400 +0900" channel="TBS2.jp">
+  <title lang="en">アッコにおまかせ!</title>
+  <desc lang="en">「芸能情報バラエティ」　
+幅広いジャンルの話題・時事ネタを 笑いとともにお届けします！！</desc>
 </programme>
 <programme start="20210911110300 +0900" stop="20210911132800 +0900" channel="TVTokyo.jp">
   <title lang="en">かまいたちの名所名物先取り旅</title>
@@ -1146,13 +1138,16 @@
   <title lang="en">ゴルフのキズナ</title>
   <desc lang="en">夢に向かって挑戦するゴルファーを名コーチが成功に導く。二人三脚で奮闘する本音や葛藤をリアルに描く！今回は野村コーチと双子姉妹久保プロのキズナ。</desc>
 </programme>
-<programme start="20210911102500 +0900" stop="20210911110500 +0900" channel="FujiTV.jp">
-  <title lang="en">いただきハイジャンプ</title>
-  <desc lang="en">足立梨花を迎えてオリジナル対決！「スマホ写真センス対決」では秘蔵写真連発！しかし…山田が犠牲に！？ハイレベル「イケメンボイス対決」真剣伊野尾に足立爆笑</desc>
+<programme start="20210912112500 +0900" stop="20210912115500 +0900" channel="TVTokyo.jp">
+  <title lang="en">男子ごはん</title>
+  <desc lang="en">太一くん待望の福島県！
+福島県郡山市発祥！キャベツ餅
+名物料理！いかにんじん
+会津のソウルフード！会津カレー焼きそば</desc>
 </programme>
-<programme start="20210911110500 +0900" stop="20210911115000 +0900" channel="FujiTV.jp">
-  <title lang="en">KinKi Kidsのブンブブーン</title>
-  <desc lang="en">名物囲碁ボール対決で木村がキンキに熱血指導！？ヤバい演技に大興奮！罰ゲームでにゃー？先輩からのダメ出しにタジタジ！？▽若者のお悩み相談に真剣に答えます</desc>
+<programme start="20210912115500 +0900" stop="20210912125400 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
+  <desc lang="en">▽南千住…江戸手描提灯職人さんの㊙和風パスタ＆プリン▽蔵前…銀器を作る銀師さんの大盛り㊙牛丼▽八王子市…キテレツ農家さんの野菜ごはん</desc>
 </programme>
 <programme start="20210911115000 +0900" stop="20210911120000 +0900" channel="FujiTV.jp">
   <title lang="en">FNN Live News days</title>
@@ -1289,13 +1284,21 @@
   <title lang="en">ワイドナショー</title>
   <desc lang="en">松本人志と東野幸治が送るワイドショー。今話題の芸能ニュースや社会問題に熱い持論を展開！</desc>
 </programme>
-<programme start="20210911103000 +0900" stop="20210911113000 +0900" channel="Tokyo MX">
-  <title lang="en">東京ホンマもん教室</title>
-  <desc lang="en">中華未来主義を徹底解説！世界はなぜ“中国化”するのか？中国の脅威に無頓着な日本の危険性を藤井聡が炙り出す！対談ゲストは東浩紀、コロナ禍の欺瞞を論じる。</desc>
+<programme start="20210912111500 +0900" stop="20210912114500 +0900" channel="FujiTV.jp">
+  <title lang="en">ミライ☆モンスター</title>
+  <desc lang="en">ミライに羽ばたく金のタマゴ応援番組。写真・湯川紗愛（高３）高校日本一を目指し全国４７９校がエントリーした写真甲子園で４連覇を目指す高校最後の夏に密着！</desc>
 </programme>
-<programme start="20210911113000 +0900" stop="20210911115500 +0900" channel="Tokyo MX">
-  <title lang="en">わたしの芸術劇場</title>
-  <desc lang="en">「琳派」と呼ばれる江戸時代に栄えた装飾画の流派を系統立てて紹介。俵屋宗達、尾形光琳、酒井抱一。同傾向の表現方法を継承した琳派の画家たちに大きな拍手を！</desc>
+<programme start="20210912114500 +0900" stop="20210912115000 +0900" channel="FujiTV.jp">
+  <title lang="en">くいしん坊!万才</title>
+  <desc lang="en">くいしん坊松岡修造が全国各地の名物料理や郷土の味・珍味に挑戦！その土地の歴史や文化、人々の暮らしにふれ、食べることの喜びや出会いの楽しさを伝えます。</desc>
+</programme>
+<programme start="20210912115000 +0900" stop="20210912120000 +0900" channel="FujiTV.jp">
+  <title lang="en">FNN Live News days</title>
+  <desc lang="en">週末の昼も「ライブニュース　デイズ」をお見逃しなく。民放で最大級の全国ネットワークを持つＦＮＮの記者が取材したニュースをお届けします。</desc>
+</programme>
+<programme start="20210912120000 +0900" stop="20210912140000 +0900" channel="FujiTV.jp">
+  <title lang="en">なりゆき街道旅</title>
+  <desc lang="en">黒谷友香と行く新橋の旅！最高級ホテル・コンラッド東京で今話題のヌン活体験！最新アンテナショップでご当地食材爆買いで奈良気分！松阪牛の絶品チーズバーガー</desc>
 </programme>
 <programme start="20210911115500 +0900" stop="20210911120000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1505,5 +1508,9 @@
 <programme start="20210912110000 +0900" stop="20210912115500 +0900" channel="Tokyo MX">
   <title lang="en">京都画報</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210912115500 +0900" stop="20210912125000 +0900" channel="Tokyo MX">
+  <title lang="en">日曜はカラフル!!!</title>
+  <desc lang="en">ＭＣアンミカ▼ツイッター世界トレンド１位獲得のタイドラマ「２ｇｅｔｈｅｒ」！挿入歌を歌うスクラブを直撃！▼自宅で世界を楽しむサブスク特集！サブスクの今がわかる！</desc>
 </programme>
 </tv>
