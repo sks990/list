@@ -50,30 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210912034500 +0900" stop="20210912041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ハンガリー・ブダペストを旅する。</desc>
-  </programme>
-  <programme start="20210912041000 +0900" stop="20210912041300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">音紀行</title>
-    <desc lang="en">「山間を“貴婦人”が駈ける〜山口線」</desc>
-  </programme>
-  <programme start="20210912041300 +0900" stop="20210912041500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">インターミッション</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210912041500 +0900" stop="20210912042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ピタゴラスイッチ ミニ</title>
-    <desc lang="en">私たちのまわりにある不思議な構造、面白い考え方を、多彩なコーナーで紹介。今回は「ウソだと思うなら、やってみな。」「ぼてじん」「ビーバーのダム」など。</desc>
-  </programme>
-  <programme start="20210912042000 +0900" stop="20210912042500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">名曲アルバム</title>
-    <desc lang="en">「マラゲーニャ」（バイオリン）アナスタシア・チェボタリョーワ，（ピアノ）伊賀あゆみ　〜スペイン・マラガ〜</desc>
-  </programme>
-  <programme start="20210912042500 +0900" stop="20210912043000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「わたしの紙風船」うた：紙ふうせん／「天下無敵のゴーヤーマン★」うた：ガレッジセール</desc>
-  </programme>
   <programme start="20210912043000 +0900" stop="20210912050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">はやウタ</title>
     <desc lang="en">▽盟友！光一＆芳雄の赤裸々トーク！萌音の意外な趣味？自称〇〇ジェンヌ音月！話題ミュージカルＳＰステージ▽氷川おすすめ美容法▽松崎しげる健康法▽期待の新星！白雪</desc>
@@ -317,6 +293,30 @@
   <programme start="20210913033000 +0900" stop="20210913040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影したシチリアの海岸沿いの美しい映像を再編集してシチリア島一周の旅を紹介する</desc>
+  </programme>
+  <programme start="20210913040500 +0900" stop="20210913043200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲（2021年） 秋場所</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210913043200 +0900" stop="20210913043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ピタゴラスイッチ ミニミニ</title>
+    <desc lang="en">考え方を育てる番組「ピタゴラスイッチ」。その１分版「ピタゴラスイッチミニミニ」をお届けします。</desc>
+  </programme>
+  <programme start="20210913043500 +0900" stop="20210913044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「わたしの紙風船」うた：紙ふうせん／「天下無敵のゴーヤーマン★」うた：ガレッジセール</desc>
+  </programme>
+  <programme start="20210913044000 +0900" stop="20210913044500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
+    <desc lang="en">「Ａｎｉｍｅ　Ｓｕｐｅｒｎｏｖａ」より、ストップモーション・アニメ作家の八代健志さんの回を取り上げ、創作の原点や意欲を紹介した番組の魅力と見どころを伝える。</desc>
+  </programme>
+  <programme start="20210913044500 +0900" stop="20210913050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">アメリカ同時多発テロから１１日で２０年。「テロとの戦い」に乗り出したアメリカは先月、アフガニスタンからの完全撤退に追い込まれた。戦いは世界に何をもたらしたのか。</desc>
+  </programme>
+  <programme start="20210913050000 +0900" stop="20210913060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20210912003000 +0900" stop="20210912050000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -641,20 +641,18 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
   </programme>
-<programme start="20210912030000 +0900" stop="20210912040000 +0900" channel="Asahi.jp">
-  <title lang="en">Still　2gether</title>
-  <desc lang="en">タイ発！大ヒットラブストーリー「Still 2gether」を地上波初放送！「2gether」から1年、2人は…
-ドラマ・映画が放題の動画配信サービス『TELASA（テラサ）』特別編！</desc>
-</programme>
-<programme start="20210912040000 +0900" stop="20210912040500 +0900" channel="Asahi.jp">
-  <title lang="en">CSテレ朝ナビ!!</title>
-  <desc lang="en">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
-</programme>
-<programme start="20210912040500 +0900" stop="20210912043000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20210913042000 +0900" stop="20210913042500 +0900" channel="NipponTV.jp">
+    <title lang="en">「バンクシーって誰?展」</title>
+    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
+  </programme>
+  <programme start="20210913042500 +0900" stop="20210913043000 +0900" channel="NipponTV.jp">
+    <title lang="en">映画『竜とそばかすの姫』</title>
+    <desc lang="en">大ヒット上映中「竜とそばかすの姫」。カンヌ国際映画祭でのワールドプレミア、長時間の拍手喝采の密着映像!!必見㊙アフレコ舞台裏・中村佳穂×幾田りらＳＰ対談!!</desc>
+  </programme>
+  <programme start="20210913043000 +0900" stop="20210913055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20210912043000 +0900" stop="20210912050000 +0900" channel="Asahi.jp">
   <title lang="en">テレメンタリー2021</title>
   <desc lang="en">看護師を目指す学生たちの学校で、多くの学生が中退や退学、自殺未遂まで起きています。教師からの暴言やいじめと呼んでもおかしくない行動。学校でいったい何が？</desc>
@@ -806,13 +804,9 @@
   <title lang="en">暴れん坊将軍IV</title>
   <desc lang="en">「お役者新さん花の回り舞台」松平健(他)▽旅回り一座の花形役者・坂東竹之助が数人の侍に襲われているのを目撃し助けた吉宗。竹之助は襲われた理由はわからないというが…</desc>
 </programme>
-<programme start="20210912022800 +0900" stop="20210912040000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
-</programme>
-<programme start="20210912040000 +0900" stop="20210912044000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20210913045500 +0900" stop="20210913080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20210912044000 +0900" stop="20210912054000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -945,6 +939,10 @@
 <programme start="20210913034500 +0900" stop="20210913042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+</programme>
+<programme start="20210913042500 +0900" stop="20210913060000 +0900" channel="TBS2.jp">
+  <title lang="en">はやドキ!</title>
+  <desc lang="en">最新のニュース・情報・関心事をどこよりも早くお伝えします！お楽しみに！</desc>
 </programme>
 <programme start="20210912031500 +0900" stop="20210912050000 +0900" channel="TVTokyo.jp">
   <title lang="en">サタ☆シネ</title>
@@ -1115,13 +1113,9 @@
   <title lang="en">蓋</title>
   <desc lang="en">実験的蓋番組</desc>
 </programme>
-<programme start="20210913035600 +0900" stop="20210913040000 +0900" channel="TVTokyo.jp">
+<programme start="20210913035600 +0900" stop="20210913050000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
-</programme>
-<programme start="20210912033500 +0900" stop="20210912043500 +0900" channel="FujiTV.jp">
-  <title lang="en">FIFAビーチサッカーワールドカップ ロシア2021</title>
-  <desc lang="en">ワールドカップの頂点へあと一歩及ばずも過去最高成績の２位の快挙を達成した茂怜羅ジャパン。ビーチサッカーの未来を切り開いた彼らの戦いの軌跡を振り返ります。</desc>
 </programme>
 <programme start="20210912043500 +0900" stop="20210912050500 +0900" channel="FujiTV.jp">
   <title lang="en">ミミヨリ!</title>
@@ -1287,13 +1281,9 @@
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20210912033000 +0900" stop="20210912040000 +0900" channel="Tokyo MX">
-  <title lang="en">真夜中のおバカ騒ぎ!</title>
-  <desc lang="en">ＰＲさせてください！けん玉チャレンジ！（後編）</desc>
-</programme>
-<programme start="20210912040000 +0900" stop="20210912043000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210913045500 +0900" stop="20210913052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20210912043000 +0900" stop="20210912050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1467,8 +1457,12 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
-<programme start="20210913023500 +0900" stop="20210913040000 +0900" channel="Tokyo MX">
+<programme start="20210913023500 +0900" stop="20210913050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
+</programme>
+<programme start="20210913050000 +0900" stop="20210913051500 +0900" channel="Tokyo MX">
+  <title lang="en">ふるさと百景</title>
+  <desc lang="en"> </desc>
 </programme>
 </tv>
