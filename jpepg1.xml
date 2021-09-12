@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210913020500 +0900" stop="20210913033000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">おげんさんといっしょ</title>
-    <desc lang="en">コロナ下で放送した「おげんさん」第４弾。みんなでいっしょに、音楽を奏でます！星野源・高畑充希・藤井隆・宮野真守・松重豊ほか</desc>
-  </programme>
   <programme start="20210913033000 +0900" stop="20210913040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影したシチリアの海岸沿いの美しい映像を再編集してシチリア島一周の旅を紹介する</desc>
@@ -301,6 +297,10 @@
   <programme start="20210914025800 +0900" stop="20210914035800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ブルガリア・ソフィアを旅する。</desc>
+  </programme>
+  <programme start="20210914035800 +0900" stop="20210914040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、フランス・ロワール川流域にある城の数々を紹介。</desc>
   </programme>
   <programme start="20210913004500 +0900" stop="20210913053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -638,10 +638,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210913025000 +0900" stop="20210913035000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
-  </programme>
   <programme start="20210913035000 +0900" stop="20210913042000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
@@ -734,6 +730,14 @@
   <programme start="20210914015900 +0900" stop="20210914034400 +0900" channel="NipponTV.jp">
     <title lang="en">あなたの番です</title>
     <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！懐かしのあのキャラクターの大暴走や恐怖に震えた衝撃シーンをおさらいしよう！</desc>
+  </programme>
+  <programme start="20210914034400 +0900" stop="20210914034500 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210914034500 +0900" stop="20210914043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレ史上最も売れてる振動マシーン、20年度ポシュレ№1枕、お顔のしわ対策60セカンズ、激安の高機能シャワーヘッド、人気掃除機ダイソンV７などお得情報満載！</desc>
   </programme>
 <programme start="20210913012500 +0900" stop="20210913040000 +0900" channel="Asahi.jp">
   <title lang="en">Get Sports</title>
@@ -857,9 +861,13 @@ by.Raul Seixas</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20210913011300 +0900" stop="20210913034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20210914033000 +0900" stop="20210914040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20210914040000 +0900" stop="20210914045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「将軍暗殺、女豹が飛んだ」松平健(他)▽吉宗の日光参拝が近づいたある日、お庭番二人が殺された。二人は天下を覆す不穏な動きがあるとの噂を耳にし真偽を探っていたのだが…</desc>
 </programme>
 <programme start="20210913034500 +0900" stop="20210913042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -952,23 +960,11 @@ by.Raul Seixas</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20210913024100 +0900" stop="20210913031100 +0900" channel="TVTokyo.jp">
-  <title lang="en">Mixalive presents 田村淳が豊島区池袋</title>
-  <desc lang="en">田村淳×Mixalive×池袋。最新スポットMixaliveにビジネス、カルチャーの最先端の方々が集結。田村淳とともに、池袋発の最新ムーブメントを生み出す！</desc>
+<programme start="20210914034500 +0900" stop="20210914042500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20210913031100 +0900" stop="20210913034100 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">サウナ好きはもちろん、そうでない人も必見のドラマの新シリーズ！「サ道2021」。今夜は「一夜づけ」女子の一押しみどころポイントをご紹介します！！</desc>
-</programme>
-<programme start="20210913034100 +0900" stop="20210913034600 +0900" channel="TVTokyo.jp">
-  <title lang="en">闇芝居</title>
-  <desc lang="en">東京からとある田舎の小学校に転校してきた、内気な性格の奈緒。クラスに馴染むことが出来ず、一人寂しく、自宅の庭で冬牡丹の苗を植えていると、見知らぬ少女が…</desc>
-</programme>
-<programme start="20210913034600 +0900" stop="20210913035600 +0900" channel="TVTokyo.jp">
-  <title lang="en">蓋</title>
-  <desc lang="en">実験的蓋番組</desc>
-</programme>
-<programme start="20210913035600 +0900" stop="20210913051000 +0900" channel="TVTokyo.jp">
+<programme start="20210913040000 +0900" stop="20210913051000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1119,17 +1115,17 @@ by.Raul Seixas</desc>
   <desc lang="en">【ゲスト】BE:FIRST、Panorama　Panama　Town、甘党男子、acane
 【ナビゲーター】南海キャンディーズ</desc>
 </programme>
-<programme start="20210913025500 +0900" stop="20210913030500 +0900" channel="FujiTV.jp">
-  <title lang="en">中央競馬ダイジェスト</title>
-  <desc lang="en">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
+<programme start="20210914032000 +0900" stop="20210914035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">あにレコTV</title>
+  <desc lang="en">MCはノンスタ井上と美山加恋！▽「アイカツプラネット！」特集！小椋梨央、長尾寧音がスタジオに！▽22年放送の新アニメ「オリエント」特集！内田雄馬がVTRで登場！</desc>
 </programme>
-<programme start="20210913030500 +0900" stop="20210913033500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+<programme start="20210914035000 +0900" stop="20210914035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
 </programme>
-<programme start="20210913033500 +0900" stop="20210913035500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+<programme start="20210914035500 +0900" stop="20210914041000 +0900" channel="TVTokyo.jp">
+  <title lang="en">家、ついて行ってイイですか?(明け方)</title>
+  <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
 </programme>
 <programme start="20210913035500 +0900" stop="20210913040000 +0900" channel="FujiTV.jp">
   <title lang="en">天気予報</title>
@@ -1231,7 +1227,19 @@ by.Raul Seixas</desc>
   <title lang="en">偶然見つけたハル</title>
   <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
 </programme>
-<programme start="20210913030000 +0900" stop="20210913050000 +0900" channel="Tokyo MX">
+<programme start="20210914032500 +0900" stop="20210914035500 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+</programme>
+<programme start="20210914035500 +0900" stop="20210914040000 +0900" channel="FujiTV.jp">
+  <title lang="en">天気予報</title>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20210914040000 +0900" stop="20210914045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+</programme>
+<programme start="20210913040000 +0900" stop="20210913050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1414,5 +1422,17 @@ by.Raul Seixas</desc>
 <programme start="20210914023500 +0900" stop="20210914030500 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
   <desc lang="en">そいそ〜すとショユモンＧＯ　後編</desc>
+</programme>
+<programme start="20210914030500 +0900" stop="20210914033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210914033500 +0900" stop="20210914040000 +0900" channel="Tokyo MX">
+  <title lang="en">洋上の楽園クルーズ</title>
+  <desc lang="en">「ポール・ゴーギャンの愛した島々　フレンチポリネシア」</desc>
+</programme>
+<programme start="20210914040000 +0900" stop="20210914043000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 </tv>
