@@ -50,18 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210912193000 +0900" stop="20210912200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">夏から秋の夜、美しい音を奏でるスズムシやコオロギなどの“鳴く虫”。その数なんと日本に２３０種。身近だけど意外と知らない鳴き声の秘密を探りに虫たちの演奏会に潜入！</desc>
-  </programme>
-  <programme start="20210912200000 +0900" stop="20210912204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">故郷に戻った篤太夫は、千代、市郎右衛門、ゑいたち家族と再会を喜びあうが、尾高家の悲しい出来事を知り衝撃を受ける。その後、篤太夫は慶喜に会うために駿府へと向かう。</desc>
-  </programme>
-  <programme start="20210912204500 +0900" stop="20210912205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210912205500 +0900" stop="20210912210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
@@ -302,13 +290,21 @@
     <title lang="en">鶴瓶の家族に乾杯</title>
     <desc lang="en">水泳界のレジェンドが、自然豊かな奥多摩町でぶっつけ本番旅！この番組でしか見られない、世界を相手に戦ってきた北島康介の素顔満載の旅を、特別に２週にわたってお届け！</desc>
   </programme>
-  <programme start="20210912195500 +0900" stop="20210912200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20210913204200 +0900" stop="20210913204400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">東京大田区では地域のかかりつけ医が保健所に代わって自宅療養者をケアする取り組みを開始。訪問看護師の人材確保のためのオンライン研修会など地域医師会独自の活動も紹介</desc>
   </programme>
-  <programme start="20210912200000 +0900" stop="20210912204500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">人形師・ホリヒロシ。等身大の人形を一から作り、その人形と一緒に舞う舞台芸術「人形舞」を創設。人形舞をともに作り上げてきた妻の死を乗り越え挑む、３年ぶりの新作。</desc>
+  <programme start="20210913204400 +0900" stop="20210913204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">オシばん</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
+  </programme>
+  <programme start="20210913204500 +0900" stop="20210913210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20210913210000 +0900" stop="20210913220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">新型コロナ自宅療養に限界・病床が増えない理由は▽９・１１から２０年アメリカが失ったものは？あの日高層階レストランで働いていた青年は今▽ＭＬＢ大谷ホームラン王争い</desc>
   </programme>
   <programme start="20210912204500 +0900" stop="20210912210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -606,9 +602,17 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">千原ジュニアと“濃すぎる”面々が、時事のあれこれをざっくばらんに語るトークバラエティー！今回はパラスポーツ、暑すぎ問題、選挙で困る“アレ”をぶっちゃけます！</desc>
   </programme>
-  <programme start="20210912195800 +0900" stop="20210912205400 +0900" channel="NipponTV.jp">
-    <title lang="en">世界の果てまでイッテQ!</title>
-    <desc lang="en">マジシャン出川哲朗＆谷まりあ！日本古来のマジック和妻ショーに挑戦！▼ガンバレルーヤ憧れの新体操に挑戦！名門大学と夢のコラボ！華麗な団体演技成功なるか？</desc>
+  <programme start="20210913203000 +0900" stop="20210913204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">感染対策のために新しい生活様式になってから、なぜか頭が痛くなることが多くなった…という人いませんか？それ、もしかしたら「ステイホーム」が原因の頭痛かも！？</desc>
+  </programme>
+  <programme start="20210913204500 +0900" stop="20210913210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20210913210000 +0900" stop="20210913212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">準備や片づけがおっくうな「ひとり分ごはん」。今回は２日間にわたり、ひとりごはんを楽しく実践している料理研究家に、とっておきの技とレシピを伝授してもらいます！</desc>
   </programme>
   <programme start="20210912205400 +0900" stop="20210912210000 +0900" channel="NipponTV.jp">
     <title lang="en">音のソノリティ</title>
@@ -715,10 +719,10 @@
     <title lang="en">世界まる見え!テレビ特捜部</title>
     <desc lang="en">田中圭あ然！密輸船をやっつけるためヘリで空から銃ぶっぱなしまくるチーム密着▼もう中爆笑パンツ一丁消防員▼南米「地獄の入り口」工事現場で5人の子ども育てる女性密着</desc>
   </programme>
-<programme start="20210912195800 +0900" stop="20210912205600 +0900" channel="Asahi.jp">
-  <title lang="en">ポツンと一軒家</title>
-  <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
-</programme>
+  <programme start="20210913210000 +0900" stop="20210913215400 +0900" channel="NipponTV.jp">
+    <title lang="en">人生が変わる1分間の深イイ話</title>
+    <desc lang="en">今田が号泣…がんで顔の半分ちかくを失った少年の今！家族の絆にスタジオが涙▼天才プロデューサーつんく私生活を公開密着！長男も登場！日本ハワイの往復超多忙生活とは！</desc>
+  </programme>
 <programme start="20210912205600 +0900" stop="20210912210000 +0900" channel="Asahi.jp">
   <title lang="en">食ノ音色</title>
   <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
@@ -812,6 +816,11 @@
   <title lang="en">帰れマンデー見っけ隊!!</title>
   <desc lang="en">今グルメタウンの大人気店の味が自宅で楽しめる美味しすぎるグルメ自販機が急増中！築地の海鮮＆月島もんじゃ＆本格韓国料理…これが本当に自販機？グルメ自販機へゴー！</desc>
 </programme>
+<programme start="20210913203000 +0900" stop="20210913214800 +0900" channel="Asahi.jp">
+  <title lang="en">10万円でできるかな</title>
+  <desc lang="en">一番強運なのは誰！？オリンピックメダリストがまさかの参戦！夏の宝くじで高額当せん出た！
+長澤まさみ＆石川恋が１０００円ガチャに挑戦！ビリビリ地獄でサンドも大爆笑</desc>
+</programme>
 <programme start="20210912190000 +0900" stop="20210912210000 +0900" channel="TBS2.jp">
   <title lang="en">バナナマンのせっかくグルメ</title>
   <desc lang="en">日村は那須高原へ！誰でも泊まれる㊙貸別荘で絶品テイクアウト爆食！超柔らか和牛の丼＆森の中の人気パン屋さん★メンディーは徳島市！コク旨ご当地ラーメン＆絶品地鶏焼肉</desc>
@@ -892,6 +901,14 @@
 <programme start="20210913200000 +0900" stop="20210913205700 +0900" channel="TBS2.jp">
   <title lang="en">クイズ!THE違和感</title>
   <desc lang="en">なにわ男子＆DJKOO＆日本代表・馬淵優佳が水上フライボード挑戦！成功者見抜け！国民食・丸美屋ふりかけ２０種本物見抜け！千鳥松本まりか熱狂！奇跡の１００万円…？</desc>
+</programme>
+<programme start="20210913205700 +0900" stop="20210913210000 +0900" channel="TBS2.jp">
+  <title lang="en">フラッシュニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20210913210000 +0900" stop="20210913220000 +0900" channel="TBS2.jp">
+  <title lang="en">CDTVライブ!ライブ!</title>
+  <desc lang="en">Kis-My-Ft2、Creepy Nuts、平井大、緑黄色社会が最新曲を【フルサイズ】でＴＶ初披露＆こだわりステージ</desc>
 </programme>
 <programme start="20210912183000 +0900" stop="20210912210000 +0900" channel="TVTokyo.jp">
   <title lang="en">緊急SOS!池の水ぜんぶ抜く大作戦</title>
@@ -1147,6 +1164,10 @@
   <title lang="en">痛快TV スカッとジャパン</title>
   <desc lang="en">独自取材で発見！帝国ホテルのスカッとする実話特集ＳＰジャニーズ中島健人＆小芝風花＆赤楚衛二＆ＨｉＨｉ　Ｊｅｔｓ髙橋優斗＆宇垣美里…火９ドラマ俳優が総登場！</desc>
 </programme>
+<programme start="20210913210000 +0900" stop="20210913215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ナイト・ドクター</title>
+  <desc lang="en">［ついに最終回！］突然の解散宣言！？災害現場に赴くナイト・ドクターたち！バラバラな医療現場で、それぞれが闘う夜！そして、彼らが出した最後の答えとは！？</desc>
+</programme>
 <programme start="20210912190000 +0900" stop="20210912210000 +0900" channel="Tokyo MX">
   <title lang="en">サッカー Jリーグ</title>
   <desc lang="en">２０２１明治安田生命Ｊ１リーグ第２８節　ＦＣ東京ｖｓ柏レイソル戦▼ＦＣ東京クラブスポンサー冠マッチ「大矢運送Ｄａｙ」</desc>
@@ -1322,5 +1343,9 @@
 <programme start="20210913200000 +0900" stop="20210913210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">東京の新規感染者数…減少傾向は続くのか？都内の新型コロナウイルス最新情報▼パラ閉幕から１週間…都内では？▼“負のレガシー”今後の課題は？</desc>
+</programme>
+<programme start="20210913210000 +0900" stop="20210913215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">遠野なぎこ×杉村太蔵！毎週月曜は「ビジネス・マネー」をテーマにお届け。【DANDY Salon】大人が知っておくべき世の中の話題をトーク＆【DANDY Academy】就活塾に潜入！</desc>
 </programme>
 </tv>
