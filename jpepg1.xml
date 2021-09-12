@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210912210000 +0900" stop="20210912221500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">次はいつ、どんな巨大地震が起きるのか？東日本大震災から１０年、危機を予測し命を守る研究に新展開が。人工知能なども駆使した科学の到達点に迫る。　ゲスト：鈴木京香</desc>
-  </programme>
   <programme start="20210912221500 +0900" stop="20210912230000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">サンデースポーツ</title>
     <desc lang="en">カーリング女子代表決定戦優勝チームインタ▽秋場所初日荒磯親方▽プロ野球首位争い上原解説▽中澤分析は日本代表＆女子ＷＥリーグ開幕▽“ここからがスタート”パラ総集編</desc>
@@ -305,6 +301,10 @@
   <programme start="20210913220000 +0900" stop="20210913224500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">逆転人生</title>
     <desc lang="en">高齢者などをサポートするセラピードッグ。殺処分寸前の犬たちを育成するのはアメリカで人気だったブルースシンガー。歌のパワーと犬たちのパワーで人々を勇気づけたい！</desc>
+  </programme>
+  <programme start="20210913224500 +0900" stop="20210913231500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">古見さんは、コミュ症です。</title>
+    <desc lang="en">只野（増田貴久）は旧友のなじみ（ゆうたろう）からの告げ口で、校内の生徒たちが古見（池田エライザ）と親密なことを理由に只野を敵視していることを知ってがく然とする。</desc>
   </programme>
   <programme start="20210912210000 +0900" stop="20210912230000 +0900" channel="eTele.jp">
     <title lang="en">クラシック音楽館</title>
@@ -626,14 +626,13 @@
     <title lang="en">グレーテルのかまど</title>
     <desc lang="en">ふんわりやわらか！懐かしい味わいのコッペパン。日本を代表する漫画家の一人、石ノ森章太郎の青春時代思い出の味です。“漫画の王様”の若き日を支えた味。その物語とは？</desc>
   </programme>
-  <programme start="20210912215400 +0900" stop="20210912220000 +0900" channel="NipponTV.jp">
-    <title lang="en">夢の通り道</title>
-    <desc lang="en">東京ディズニーシー「ＴＤＳ２０周年」
-イタリア・カモーリ「イタリアの港町」編</desc>
+  <programme start="20210913222500 +0900" stop="20210913225000 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">群衆の中で席捲し始めるのは「イメージ」とそれを喚起する「標語」。たとえ誤びゅうであっても鮮やかで魅力的なら群衆はそれを信じるようになる。単純化が社会を覆うのだ。</desc>
   </programme>
-  <programme start="20210912220000 +0900" stop="20210912223000 +0900" channel="NipponTV.jp">
-    <title lang="en">おしゃれイズム</title>
-    <desc lang="en">体操女子個人初のメダルを獲得した瞬間の本心とは？ずっと支えてきた母が娘に最大のジョーク！？ドラマ女優の経験も？名演技を披露していた▽低カロリー絶品バーガー登場</desc>
+  <programme start="20210913225000 +0900" stop="20210913231500 +0900" channel="eTele.jp">
+    <title lang="en">ロッチと子羊〜迷えるあなたに哲学を〜</title>
+    <desc lang="en">ロッチのお二人が悩める人々を救う相談番組・世界の有名な哲学者の言葉があなたを救う▽「親友を作るには？」「素の自分が出せない」…中高生の切実な悩みを解決</desc>
   </programme>
   <programme start="20210912223000 +0900" stop="20210912232500 +0900" channel="NipponTV.jp">
     <title lang="en">ボクの殺意が恋をした</title>
@@ -735,14 +734,10 @@
     <title lang="en">しゃべくり007</title>
     <desc lang="en">金メダリスト四十住さくらが語る…ライバルとも超仲良し！自由過ぎるスケボーの世界／堤真一デレデレ…大好きな愛娘の魅力を今夜語り尽くす▽超大物俳優の㊙イクメン生活</desc>
   </programme>
-<programme start="20210912215500 +0900" stop="20210912222500 +0900" channel="Asahi.jp">
-  <title lang="en">爆笑問題霜降り明星のシンパイ賞!!</title>
-  <desc lang="en">今まで番組が取り上げてきたどの芸人よりもMCが一番シンパイだった？親交の深い友人,後輩,関係者たちからの暴露ニュースも続々！スタジオトークは５人だけで大盛り上がり！</desc>
-</programme>
-<programme start="20210912222500 +0900" stop="20210912225500 +0900" channel="Asahi.jp">
-  <title lang="en">テレビ千鳥</title>
-  <desc lang="en">大悟曰く「歌が下手でも心を込めて本気で歌えば感動させられる！」歌ヘタ界のＢＩＧ３大吉＆飯尾＆ノブを招集。それぞれ自ら選んできた曲を心を込めて真剣に歌う！</desc>
-</programme>
+  <programme start="20210913230000 +0900" stop="20210913235900 +0900" channel="NipponTV.jp">
+    <title lang="en">news zero</title>
+    <desc lang="en">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
+  </programme>
 <programme start="20210912225500 +0900" stop="20210912230000 +0900" channel="Asahi.jp">
   <title lang="en">EXITのラリージャパン応援宣言</title>
   <desc lang="en">世界の一般道を舞台に繰り広げられる世界ラリー。11月には11年ぶりにラリージャパンが開催！世界ラリーの魅力と、ラリージャパンの見どころをＥＸＩＴが全開で紹介します。</desc>
@@ -832,14 +827,6 @@
   <title lang="en">報道ステーション</title>
   <desc lang="en">「きょう、色々。」こだわりのトップニュースに、ダイナミックなスタジオ展開！きょう知りたいニュースを“もっと深く、もっとカラフル”にお伝えします！</desc>
 </programme>
-<programme start="20210912210000 +0900" stop="20210912220900 +0900" channel="TBS2.jp">
-  <title lang="en">TOKYO MER〜走る緊急救命室〜</title>
-  <desc lang="en">🈑🈓妹を亡くし失意の喜多見は、ＭＥＲ脱退を決意。爆破テロにより多くの負傷者が出るが、立ち上がれない…そんな彼が耳にした「言葉」とは―号泣必至！ＭＥＲ最後の戦い！</desc>
-</programme>
-<programme start="20210912220900 +0900" stop="20210912221500 +0900" channel="TBS2.jp">
-  <title lang="en">まちづくり夢づくりPART2</title>
-  <desc lang="en">まちづくり夢づくりＰＡＲＴ２</desc>
-</programme>
 <programme start="20210912221500 +0900" stop="20210912230900 +0900" channel="TBS2.jp">
   <title lang="en">日曜日の初耳学</title>
   <desc lang="en">明るさ裏にあった…両親離婚の幼少期＆役者をやめようと思った過去＆奇跡の朝ドラ抜擢の舞台裏まで全てを語り尽くす▼松丸亮吾がコロナ禍に役立つ『最新映像技術』を調査</desc>
@@ -920,6 +907,14 @@
 <programme start="20210913220000 +0900" stop="20210913225700 +0900" channel="TBS2.jp">
   <title lang="en">教えてもらう前と後</title>
   <desc lang="en">🈑Ｍ－１王者が…！有名キャスターも…‼人気モノマネ芸人…⁉才能は１つじゃなーい▼「実は●●が出来ました」「●●も得意なんです」イメージが変わる！スゴ技が続々登場</desc>
+</programme>
+<programme start="20210913225700 +0900" stop="20210913230000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">きょうのｎｅｗｓ２３。みどころを、いち早くお伝えします！最新情報、満載です！</desc>
+</programme>
+<programme start="20210913230000 +0900" stop="20210913235600 +0900" channel="TBS2.jp">
+  <title lang="en">news23</title>
+  <desc lang="en">国山ハセンアナウンサーが新たに加入！小川彩佳と共に番組独自の調査報道からＺ世代に刺さるカルチャーまで　明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
 </programme>
 <programme start="20210912215400 +0900" stop="20210912232400 +0900" channel="TVTokyo.jp">
   <title lang="en">高校生ぃぃeeeee!STAGE:0 2021 eスポーツ甲子園</title>
@@ -1080,6 +1075,10 @@
   <title lang="en">WBS</title>
   <desc lang="en">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 </programme>
+<programme start="20210913225800 +0900" stop="20210913230600 +0900" channel="TVTokyo.jp">
+  <title lang="en">夢遺産〜リーダーの夢の先〜</title>
+  <desc lang="en">今回の夢追人はピップエレキバン等のメーカーで医療品・健康食品等の卸業者でもあるピップ社長　松浦由治。赤字会社の大改革で大事にした事は？そして未来に遺したい夢とは</desc>
+</programme>
 <programme start="20210912211500 +0900" stop="20210912230900 +0900" channel="FujiTV.jp">
   <title lang="en">Mr.サンデー</title>
   <desc lang="en">▽鬼滅の刃新作放送へ声優が語る作品の魅力▽大谷翔平１０３年ぶり偉業へ”やめたこと”▽河野大臣に生直撃！総裁選への覚悟と勝算▽ブレイクスルー感染の実際</desc>
@@ -1180,13 +1179,13 @@
   <title lang="en">所JAPAN</title>
   <desc lang="en">芸能人が正体を隠して私物をメルカリ出品＆購入者に連絡してサプライズ！所ジョージ手作りオモチャに仕掛けた秘密＆三代目ＪＳＢ山下の激レアグッズ購入者は仰天〇〇マニア</desc>
 </programme>
-<programme start="20210912213000 +0900" stop="20210912220000 +0900" channel="Tokyo MX">
-  <title lang="en">天官賜福</title>
-  <desc lang="en"> </desc>
+<programme start="20210913225400 +0900" stop="20210913230000 +0900" channel="FujiTV.jp">
+  <title lang="en">My Routine〜太陽と星空の時間〜</title>
+  <desc lang="en">１００歳まで健康に！各界で活躍するあの有名人の独自の健康法〜マイ・ルーティーンをこっそり教えます！▽元たいそうのおにいさん・佐藤弘道</desc>
 </programme>
-<programme start="20210912220000 +0900" stop="20210912223000 +0900" channel="Tokyo MX">
-  <title lang="en">死神坊ちゃんと黒メイド</title>
-  <desc lang="en"> </desc>
+<programme start="20210913230000 +0900" stop="20210913234000 +0900" channel="FujiTV.jp">
+  <title lang="en">関ジャニ∞クロニクルF</title>
+  <desc lang="en">今年フラれた女性３０人の失恋理由を当てろ！新企画『全日本それなオープン』予想外…４股＆ＧＰＳ＆結婚詐欺！？超衝撃失恋話続出で関ジャニ仰天！滝沢カレン㊙実体験告白</desc>
 </programme>
 <programme start="20210912223000 +0900" stop="20210912230000 +0900" channel="Tokyo MX">
   <title lang="en">アイドリッシュセブン Third BEAT!</title>
@@ -1359,5 +1358,13 @@
 <programme start="20210913220000 +0900" stop="20210913223000 +0900" channel="Tokyo MX">
   <title lang="en">SHOW BY ROCK!!ましゅまいれっしゅ!!</title>
   <desc lang="en">＃１１「キミのラプソディー」</desc>
+</programme>
+<programme start="20210913223000 +0900" stop="20210913230000 +0900" channel="Tokyo MX">
+  <title lang="en">月が導く異世界道中</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210913230000 +0900" stop="20210913233000 +0900" channel="Tokyo MX">
+  <title lang="en">Free!-Dive to the Future-</title>
+  <desc lang="en">＃１０「希望のグラブスタート！」</desc>
 </programme>
 </tv>
