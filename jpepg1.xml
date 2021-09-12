@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210913044500 +0900" stop="20210913050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">アメリカ同時多発テロから１１日で２０年。「テロとの戦い」に乗り出したアメリカは先月、アフガニスタンからの完全撤退に追い込まれた。戦いは世界に何をもたらしたのか。</desc>
-  </programme>
   <programme start="20210913050000 +0900" stop="20210913060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼自民党総裁選挙が今週告示・政策など発信▼藤井二冠・叡王戦へ▼日本のＮＧＯ・アフガニスタン支援再開難しく▼三重県知事選挙結果▼石川・摂食障害の当事者が支え合い</desc>
@@ -306,17 +302,9 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20210913004500 +0900" stop="20210913053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210913053000 +0900" stop="20210913055000 +0900" channel="eTele.jp">
-    <title lang="en">知りたガールと学ボーイ</title>
-    <desc lang="en">ゆりやんレトリィバァとミキが、気になることを英語で調査する“新感覚英会話番組”。今回のお題は「効果音（オノマトペ）」。英語には、どんな効果音があるのか？！</desc>
-  </programme>
-  <programme start="20210913055000 +0900" stop="20210913055500 +0900" channel="eTele.jp">
-    <title lang="en">びじゅチューン!</title>
-    <desc lang="en">ジャン＝フランソワ・ミレー「落穂拾い」の人物たちはどんな生涯を送ったのか。中央の人物「ひろこ」（落穂を拾うエキスパート）を中心に、３人の人生を駆け足でめぐる。</desc>
+  <programme start="20210914060000 +0900" stop="20210914063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20210913055500 +0900" stop="20210913060000 +0900" channel="eTele.jp">
     <title lang="en">ワンポイント手話</title>
@@ -642,10 +630,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210913043000 +0900" stop="20210913055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽感染者は減少傾向も…「自宅療養中
-の死亡」後を絶たず▽自民党総裁選・立候補表明の３人は…</desc>
+  <programme start="20210914053000 +0900" stop="20210914055500 +0900" channel="eTele.jp">
+    <title lang="en">ロシアゴスキー</title>
+    <desc lang="en">現地リポーターの案内による街歩きと、楽しいアニメーションで学ぶスタイリッシュな講座。サンクトペテルブルクの風景を楽しみながら、旅で役立つロシア語を覚えましょう！</desc>
+  </programme>
+  <programme start="20210914055500 +0900" stop="20210914060000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする。今回は「ご飯を食べようとしない」とき。講師は認知症ケアの第一人者の介護福祉士の和田行男さん。</desc>
+  </programme>
+  <programme start="20210914060000 +0900" stop="20210914062500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのスペイン語</title>
+    <desc lang="en">スペインでフラメンコを習いたいと語学に励む伊原六花さんと一緒に勉強しましょう！日本を旅するスペイン人とキューバ人のアニメを見ながら、旅に役立つ表現を学びます。</desc>
   </programme>
   <programme start="20210913055000 +0900" stop="20210913080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -734,6 +729,10 @@
   <programme start="20210914043000 +0900" stop="20210914055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20210914055000 +0900" stop="20210914080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20210913045500 +0900" stop="20210913080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -954,16 +953,9 @@ by.Raul Seixas</desc>
   <title lang="en">はやドキ!</title>
   <desc lang="en">最新のニュース・情報・関心事をどこよりも早くお伝えします！お楽しみに！</desc>
 </programme>
-<programme start="20210913050000 +0900" stop="20210913051000 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
-</programme>
-<programme start="20210913051000 +0900" stop="20210913054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20210914060000 +0900" stop="20210914080000 +0900" channel="TBS2.jp">
+  <title lang="en">あさチャン!</title>
+  <desc lang="en">メインキャスターは夏目三久。きのうからけさまでの注目ニュースを総ざらい。世界の今がライブでわかる。専門知識豊富なゲストが独自の視点でより深い情報をお届けする。</desc>
 </programme>
 <programme start="20210913054500 +0900" stop="20210913070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1132,9 +1124,9 @@ by.Raul Seixas</desc>
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20210913045500 +0900" stop="20210913052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20210914054500 +0900" stop="20210914070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20210913052500 +0900" stop="20210913080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1240,13 +1232,9 @@ by.Raul Seixas</desc>
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20210913050000 +0900" stop="20210913051500 +0900" channel="Tokyo MX">
-  <title lang="en">ふるさと百景</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210913051500 +0900" stop="20210913053000 +0900" channel="Tokyo MX">
-  <title lang="en">童謡コーラス♪名曲大合唱</title>
-  <desc lang="en"> </desc>
+<programme start="20210914052500 +0900" stop="20210914080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20210913053000 +0900" stop="20210913060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1439,5 +1427,13 @@ by.Raul Seixas</desc>
 <programme start="20210914050000 +0900" stop="20210914053000 +0900" channel="Tokyo MX">
   <title lang="en">あんぎゃでござる!!</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210914053000 +0900" stop="20210914060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210914060000 +0900" stop="20210914070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
 </programme>
 </tv>
