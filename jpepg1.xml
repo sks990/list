@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210912135000 +0900" stop="20210912150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あの日 あのとき あの番組</title>
-    <desc lang="en">過去の名作から今を見つめる「あの日あのときあの番組〜ＮＨＫアーカイブス〜」。今回は『はらぺこあおむし』の作者エリック・カールさんの特別授業「未来への教室」です。</desc>
-  </programme>
-  <programme start="20210912150000 +0900" stop="20210912150500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュース・気象情報</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210912150500 +0900" stop="20210912160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大相撲（2021年） 秋場所</title>
     <desc lang="en">【解説】正面（十両）…押尾川（元豪風），【アナウンサー】正面（十両）…大坂敏久　〜国技館から中継〜</desc>
@@ -306,9 +298,17 @@
     <title lang="en">ニュース・気象情報</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210912143000 +0900" stop="20210912154200 +0900" channel="eTele.jp">
-    <title lang="en">劇場版 ダーウィンが来た!アフリカ新伝説</title>
-    <desc lang="en">劇場版ダーウィンが来た！第１弾・アフリカ新伝説。王を目指す若きオスライオンの挑戦、片腕を失ったゴリラの子どもを見守る家族の思いやり。動物たちの感動の物語。</desc>
+  <programme start="20210913150700 +0900" stop="20210913151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210913151000 +0900" stop="20210913155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲（2021年） 秋場所</title>
+    <desc lang="en">【解説】正面（十両）…立田山（元薩洲洋），【アナウンサー】正面（十両）…酒井良彦　〜国技館から中継〜</desc>
+  </programme>
+  <programme start="20210913155500 +0900" stop="20210913180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲（2021年） 秋場所</title>
+    <desc lang="en">（４：１０）「幕内取組」　【解説】正面（幕内）…鳴戸（元琴欧洲），向正面（幕内）…稲川（元普天王），【アナウンサー】正面（幕内）…船岡久嗣ほか</desc>
   </programme>
   <programme start="20210912154200 +0900" stop="20210912165400 +0900" channel="eTele.jp">
     <title lang="en">恐竜超伝説 劇場版ダーウィンが来た!</title>
@@ -566,9 +566,25 @@
     <title lang="en">日本の話芸</title>
     <desc lang="en">桂米助さんの落語「沢村栄治物語」をお送りします（令和３年６月２５日（金）収録）</desc>
   </programme>
-  <programme start="20210912132500 +0900" stop="20210912153000 +0900" channel="NipponTV.jp">
-    <title lang="en">女子プロサッカーWEリーグプレシーズンマッチ</title>
-    <desc lang="en">歴史に残るWEリーグ開幕戦！前身のなでしこリーグで最多17回の優勝を誇る日テレ・東京ヴェルディベレーザと昨季王者の浦和レッズレディースが対戦</desc>
+  <programme start="20210913153000 +0900" stop="20210913154000 +0900" channel="eTele.jp">
+    <title lang="en">Why!?プログラミング</title>
+    <desc lang="en">今回のテーマは「うさぎとかめのＣＭを作れ」。スクラッチワールドの本屋で童話「うさぎとかめ」フェアをやっていますが、売れていません。みんなでＣＭを作ります。</desc>
+  </programme>
+  <programme start="20210913154000 +0900" stop="20210913154500 +0900" channel="eTele.jp">
+    <title lang="en">プチプチ・アニメ</title>
+    <desc lang="en">ボーシタウンに住んでいる元気な男の子キャッピとニッティは遊ぶことが大好き。でも大人の人たちはいつもいそがしそう。今日あったあの人は何のお仕事をしてるのかな？</desc>
+  </programme>
+  <programme start="20210913154500 +0900" stop="20210913155500 +0900" channel="eTele.jp">
+    <title lang="en">ピタゴラスイッチ</title>
+    <desc lang="en">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
+  </programme>
+  <programme start="20210913155500 +0900" stop="20210913160000 +0900" channel="eTele.jp">
+    <title lang="en">ブレイクッ!</title>
+    <desc lang="en">まじめな学習サイト「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ」で一緒に楽しく学ぼう！面白い動画を、体操や歌などさらに面白い企画でアレンジするぞ！今回はたいそうと歌だ。</desc>
+  </programme>
+  <programme start="20210913160000 +0900" stop="20210913160500 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「素敵な夜」うた：Ｖ６／「スナビキソウ」うた：遥海</desc>
   </programme>
   <programme start="20210912153000 +0900" stop="20210912165500 +0900" channel="NipponTV.jp">
     <title lang="en">この人でしか買い付けられないモノがある 冒険!ヤバイヤー</title>
@@ -701,10 +717,10 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20210912135500 +0900" stop="20210912155500 +0900" channel="Asahi.jp">
-  <title lang="en">第54回 日本女子プロゴルフ選手権大会 コニカミノルタ杯</title>
-  <desc lang="en">国内最高峰のメジャー大会で、女子プロゴルファーＮｏ.１の称号を手にするのは果たして誰か⁉緊迫感溢れる“華やかな戦い”を生中継！</desc>
-</programme>
+  <programme start="20210913155000 +0900" stop="20210913190000 +0900" channel="NipponTV.jp">
+    <title lang="en">news every.</title>
+    <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+  </programme>
 <programme start="20210912155500 +0900" stop="20210912172500 +0900" channel="Asahi.jp">
   <title lang="en">路線バスで寄り道の旅</title>
   <desc lang="en">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回、目指すのは、涼を求めて小田原〜湯河原を巡る旅！</desc>
@@ -818,9 +834,9 @@
   <title lang="en">庶務行員・多加賀主水5</title>
   <desc lang="en">「狙われた美人ナース⁉病院を襲うメガバンクの陰謀！」高橋克典(他)▽銀行員をかたり入院患者から貯金をだまし取る詐欺師が出現。病院では次々不審な事件が起き、ついには…</desc>
 </programme>
-<programme start="20210912145400 +0900" stop="20210912150000 +0900" channel="TBS2.jp">
-  <title lang="en">ニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
+<programme start="20210913154300 +0900" stop="20210913164000 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season18</title>
+  <desc lang="en">「ご縁」水谷豊、反町隆史(他)▽高級住宅街で現金２０００万円が奪われるアポ電強盗が発生。詐欺のターゲットに関する情報が代理婚活パーティーから流れたと推理した右京は…</desc>
 </programme>
 <programme start="20210912150000 +0900" stop="20210912170000 +0900" channel="TBS2.jp">
   <title lang="en">TOKYO MER〜走る緊急救命室〜</title>
@@ -906,6 +922,10 @@
 <programme start="20210913135500 +0900" stop="20210913154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」をやさしくお伝えします！</desc>
+</programme>
+<programme start="20210913154900 +0900" stop="20210913190000 +0900" channel="TBS2.jp">
+  <title lang="en">Nスタ</title>
+  <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！「ＮｅｗｓＣｌｉｐ」でニュースからエンタメ・カルチャーまで！６時１５分からはグルメ情報も！</desc>
 </programme>
 <programme start="20210912140000 +0900" stop="20210912160000 +0900" channel="TVTokyo.jp">
   <title lang="en">北海道警事件ファイル 警部補五条聖子5</title>
@@ -1060,9 +1080,9 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">このチーム、史上最強にして最凶！爆破、破壊、そして暴力！過激すぎる事件解決スタイルの屈強タフ野郎共が、犯罪組織をぶっ潰す！問答無用サバイバル・アクション！！</desc>
 </programme>
-<programme start="20210912145500 +0900" stop="20210912150000 +0900" channel="FujiTV.jp">
-  <title lang="en">ビジネスStyle</title>
-  <desc lang="en">時代を切り拓く企業のトップへのインタビューを始め、商品やサービスなどを多面的に紹介。その理念や哲学からみえてくるビジネスＳｔｙｌｅとは？</desc>
+<programme start="20210913154000 +0900" stop="20210913165400 +0900" channel="TVTokyo.jp">
+  <title lang="en">よじごじDays</title>
+  <desc lang="en">収納・掃除・食材…各ジャンルのプロ達の買い物に密着！衣替えシーズンに収納のプロは１００円ショップで何を選ぶ？掃除のプロはホームセンターで何を見る？役立つ情報満載</desc>
 </programme>
 <programme start="20210912150000 +0900" stop="20210912160000 +0900" channel="FujiTV.jp">
   <title lang="en">みんなのKEIBA</title>
@@ -1179,17 +1199,9 @@
   <title lang="en">ナイト・ドクター</title>
   <desc lang="en">［最後に知らされる衝撃の言葉！！］突如襲う、停電！限られた電力・医療機器の中、無事に朝を迎えられるのか！？そして、本郷が彼らに告げる最後の言葉とは！？</desc>
 </programme>
-<programme start="20210912143000 +0900" stop="20210912150000 +0900" channel="Tokyo MX">
-  <title lang="en">水曜どうでしょうClassic</title>
-  <desc lang="en">ユーコン川１６０キロ　〜地獄の６日間〜④</desc>
-</programme>
-<programme start="20210912150000 +0900" stop="20210912153000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210912153000 +0900" stop="20210912155900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210913154500 +0900" stop="20210913190000 +0900" channel="FujiTV.jp">
+  <title lang="en">Live News イット!</title>
+  <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
 <programme start="20210912155900 +0900" stop="20210912160000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1356,6 +1368,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210913150000 +0900" stop="20210913153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210913153000 +0900" stop="20210913160000 +0900" channel="Tokyo MX">
+  <title lang="en">花道だけ歩きましょう〜恋の花が咲きました〜</title>
+  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+</programme>
+<programme start="20210913160000 +0900" stop="20210913163000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
