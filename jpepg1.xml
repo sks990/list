@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210914004800 +0900" stop="20210914013400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SONGS</title>
-    <desc lang="en">Ｏｆｆｉｃｉａｌ髭男ｄｉｓｍがＳＯＮＧＳに登場！責任者・大泉洋との初対談は大盛り上がり。「ＳｔａｎｄＢｙＹｏｕ」「ＣｒｙＢａｂｙ」「アポトーシス」を披露！</desc>
-  </programme>
   <programme start="20210914013400 +0900" stop="20210914021400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽北朝鮮　巡行ミサイルを発射▽タリバン　大学で男女共学を認めず▽イラン　核監視カメラのデータ記録で合意▽９１１から２０年　日本人遺族の思い▽ブロードウェイ再開へ</desc>
@@ -297,6 +293,14 @@
   <programme start="20210915002000 +0900" stop="20210915013400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">次はいつ、どんな巨大地震が起きるのか？東日本大震災から１０年、危機を予測し命を守る研究に新展開が。人工知能なども駆使した科学の到達点に迫る。　ゲスト：鈴木京香</desc>
+  </programme>
+  <programme start="20210915013400 +0900" stop="20210915020000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">天然素材NHK</title>
+    <desc lang="en">ＮＨＫアーカイブスが鎖を解き放ち、とっておきの映像素材を一挙お蔵出し！天衣無縫の平野レミにサラリーマン謎の運動会。数学教師がみた白昼夢に、一晩中眠れない奇祭！</desc>
+  </programme>
+  <programme start="20210915020000 +0900" stop="20210915024200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽米巨大テック企業が最も恐れる女性、リナ・カーン氏▽父は横浜中華街の紅衛兵だった▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20210914002500 +0900" stop="20210914053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,14 +650,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210914005900 +0900" stop="20210914012900 +0900" channel="NipponTV.jp">
-    <title lang="en">武士スタント逢坂くん!</title>
-    <desc lang="en">武士が漫画家のアシスタント（＝武士スタント）に！漫画に出会った逢坂くんが時代を超えて「エロ」と「恋」を追求するコメディ＃8　「ラブコメ大作戦でひと肌脱ぎまする」</desc>
-  </programme>
-  <programme start="20210914012900 +0900" stop="20210914015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!</title>
-    <desc lang="en">乃木坂４６が昭和・平成の名曲を熱唱！MCぺこぱ▽柴田がZARD「揺れる想い」▽林が山口百恵「プレイバックpart2」▽賀喜遥香が西田ひかると爆笑ジェスチャー対決</desc>
-  </programme>
   <programme start="20210914015900 +0900" stop="20210914034400 +0900" channel="NipponTV.jp">
     <title lang="en">あなたの番です</title>
     <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！懐かしのあのキャラクターの大暴走や恐怖に震えた衝撃シーンをおさらいしよう！</desc>
@@ -742,18 +738,6 @@
     <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
     <desc lang="en">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
   </programme>
-<programme start="20210914005000 +0900" stop="20210914012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">人気企画「声優×芸人」声優と芸人がお互いの良さを引き出していくコラボ企画！森三中黒沢とたんぽぽ川村の二人が考えた理想のシチュエーションを声優近藤孝行がアテレコ！</desc>
-</programme>
-<programme start="20210914012000 +0900" stop="20210914012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20210914012600 +0900" stop="20210914015600 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
 <programme start="20210914015600 +0900" stop="20210914021600 +0900" channel="Asahi.jp">
   <title lang="en">さまぁ〜ず論</title>
   <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
@@ -866,14 +850,18 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
 </programme>
-<programme start="20210914005800 +0900" stop="20210914012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">笑いの偏差値NO.1は誰だ！？大学お笑いサークル出身芸人バトル！【サスペンダーズvsフランスピアノvsママタルトvsまんぷくユナイテッド】MC有田哲平</desc>
+<programme start="20210915012000 +0900" stop="20210915012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20210914012800 +0900" stop="20210914015800 +0900" channel="TBS2.jp">
-  <title lang="en">週刊EXILE</title>
-  <desc lang="en">9月27日に20周年を迎えるEXILE
-それを記念して“EXILE20周年三週連続スペシャル!”をお届け!</desc>
+<programme start="20210915012600 +0900" stop="20210915015600 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
+</programme>
+<programme start="20210915015600 +0900" stop="20210915021600 +0900" channel="Asahi.jp">
+  <title lang="en">にゅーくりぃむ</title>
+  <desc lang="en">10月から日曜よる10時台に新番組「くりぃむナンタラ」爆誕！過去の企画を現代版にアップデート第３弾！今回はナンバーワン破天荒芸人を決める「ジャスティン選手権」</desc>
 </programme>
 <programme start="20210914015800 +0900" stop="20210914022800 +0900" channel="TBS2.jp">
   <title lang="en">イコノイ、どーですか?</title>
@@ -955,13 +943,13 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">アメージパング!</title>
   <desc lang="en">スヌーピー、ムーミン、バーバパパなどが登場する世界の名作本初版ランキング６！古いのはどれ？▼世界の重量ランキング６！金メダルと500万円の札束、どっちが重い！？</desc>
 </programme>
-<programme start="20210914003000 +0900" stop="20210914010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">巨大企業の日本改革3.0</title>
-  <desc lang="en">日鉄ソリューションズ×高知県北川村「農村の“不”をDXで解消せよ！」企業×経営者×農民議論▼ゼロエネルギーで地球を冷やせ！セイノー×注目ベンチャー・スペースクール</desc>
+<programme start="20210915012800 +0900" stop="20210915015800 +0900" channel="TBS2.jp">
+  <title lang="en">トーキョー製麺所</title>
+  <desc lang="en">第弍話「もとカレーうどん」▼新店長・赤松（吉野北人）が来た本当の目的とは…？そんな中、ダメンズ元カレを持つ桃田（秋田汐梨）が開店時間になっても現れず店は大混乱！</desc>
 </programme>
-<programme start="20210914010000 +0900" stop="20210914013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼研修生発表会で初ステージとなる新人研修生の２人が奮闘！▼新グループに加わった４人であの曲を披露することに！</desc>
+<programme start="20210915015800 +0900" stop="20210915023800 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">「かぐや様は告らせたい」原作者・赤坂アカ先生が映画のグッドシーンを表彰！ミュージカル「オリバー！」市村正親＆武田真治直撃！指原Pアイドル＝LOVE＆たんぽぽ川村</desc>
 </programme>
 <programme start="20210914013000 +0900" stop="20210914020000 +0900" channel="TVTokyo.jp">
   <title lang="en">うらみちお兄さん</title>
@@ -1128,13 +1116,13 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20210914003500 +0900" stop="20210914010500 +0900" channel="FujiTV.jp">
-  <title lang="en">スイートリベンジ</title>
-  <desc lang="en">年上女をカモにするバーテンダー前編</desc>
+<programme start="20210915013000 +0900" stop="20210915013500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">９／１８(土)放送「エンドロールで見っけ！このＮＩＨＯＮＪＩＮって誰？」の見どころをご紹介します！</desc>
 </programme>
-<programme start="20210914010500 +0900" stop="20210914013500 +0900" channel="FujiTV.jp">
-  <title lang="en">百合だのかんだの</title>
-  <desc lang="en">第八話「愛と宿命のフェティシズム」</desc>
+<programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
+  <desc lang="en">大西桃香＆久保怜音は温泉ＯＫ！？「うなじじゃんじゃん見せます」で旅番組出演権ゲット！？▽目指せ１００万回再生！１分間見つめます＆ひろゆきに珍キャッチコピー</desc>
 </programme>
 <programme start="20210914013500 +0900" stop="20210914020000 +0900" channel="FujiTV.jp">
   <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
@@ -1236,17 +1224,9 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">好きな人がいること</title>
   <desc lang="en">恋の三角関係、今夜激変！？急激に距離が縮まる美咲と夏向。そんな２人を見ていた千秋の抑えきれない感情が爆発する！？胸キュン必至の第８話！！</desc>
 </programme>
-<programme start="20210914005600 +0900" stop="20210914010000 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210914010000 +0900" stop="20210914010500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210914010500 +0900" stop="20210914013500 +0900" channel="Tokyo MX">
-  <title lang="en">U字工事の旅!発見</title>
-  <desc lang="en">寺山観音寺</desc>
+<programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「美戦士ザーボンの変身」</desc>
 </programme>
 <programme start="20210914013500 +0900" stop="20210914020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1431,5 +1411,13 @@ by.Antonio Carlos Jobim</desc>
 <programme start="20210915010000 +0900" stop="20210915010500 +0900" channel="Tokyo MX">
   <title lang="en">りばあす</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210915010500 +0900" stop="20210915013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+</programme>
+<programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">シンガーソングライターのビッケブランカが約２年ぶりに登場！ニューアルバム「ＦＡＴＥ」の制作エピソードはもちろん、音楽にも通づるこだわりの江戸前　握り寿司を披露！</desc>
 </programme>
 </tv>
