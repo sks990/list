@@ -50,10 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210914025800 +0900" stop="20210914035800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ブルガリア・ソフィアを旅する。</desc>
-  </programme>
   <programme start="20210914035800 +0900" stop="20210914040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、フランス・ロワール川流域にある城の数々を紹介。</desc>
@@ -297,6 +293,10 @@
   <programme start="20210915024200 +0900" stop="20210915034000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス 美の点描</title>
     <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
+  </programme>
+  <programme start="20210915034000 +0900" stop="20210915040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
   </programme>
   <programme start="20210914002500 +0900" stop="20210914053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,14 +646,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210914015900 +0900" stop="20210914034400 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です</title>
-    <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！懐かしのあのキャラクターの大暴走や恐怖に震えた衝撃シーンをおさらいしよう！</desc>
-  </programme>
-  <programme start="20210914034400 +0900" stop="20210914034500 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210914034500 +0900" stop="20210914043000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ史上最も売れてる振動マシーン、20年度ポシュレ№1枕、お顔のしわ対策60セカンズ、激安の高機能シャワーヘッド、人気掃除機ダイソンV７などお得情報満載！</desc>
@@ -742,15 +734,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
   </programme>
-<programme start="20210914025600 +0900" stop="20210914030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20210914030000 +0900" stop="20210914033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20210914033000 +0900" stop="20210914040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -871,10 +854,13 @@ by.Antonio Carlos Jobim</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20210914023500 +0900" stop="20210914034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20210915033000 +0900" stop="20210915040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20210915040000 +0900" stop="20210915045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「ガンバレ登城拒否侍」松平健(他)▽勘定奉行から天候不順で天領の年貢米が減少しているとの報告を受けた吉宗。だが、この話に不審を抱き、孫兵衛に実情を調べるよう命じる。</desc>
 </programme>
 <programme start="20210914034500 +0900" stop="20210914042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -960,18 +946,9 @@ by.Antonio Carlos Jobim</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20210914025000 +0900" stop="20210914032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】BE:FIRST、Panorama　Panama　Town、甘党男子、acane
-【ナビゲーター】南海キャンディーズ</desc>
-</programme>
-<programme start="20210914032000 +0900" stop="20210914035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あにレコTV</title>
-  <desc lang="en">MCはノンスタ井上と美山加恋！▽「アイカツプラネット！」特集！小椋梨央、長尾寧音がスタジオに！▽22年放送の新アニメ「オリエント」特集！内田雄馬がVTRで登場！</desc>
-</programme>
-<programme start="20210914035000 +0900" stop="20210914035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+<programme start="20210915034500 +0900" stop="20210915042500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20210914035500 +0900" stop="20210914041000 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
@@ -1129,13 +1106,13 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">きのう何食べた?</title>
   <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ▼史朗（西島）のスマホに女性からメッセージが！まさか…動揺する賢二（内野）がとった行動は…？</desc>
 </programme>
-<programme start="20210914022500 +0900" stop="20210914032500 +0900" channel="FujiTV.jp">
-  <title lang="en">偶然見つけたハル</title>
-  <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
+<programme start="20210915032000 +0900" stop="20210915035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">高嶺のハナさん</title>
+  <desc lang="en">苺(香音)が商品企画部に配属されて弱木(小越勇輝)が指導係になる。華(泉里香)は苺に負けじと弱木とライン交換をし、休日に弱木の家で漫画本を見る約束をする。</desc>
 </programme>
-<programme start="20210914032500 +0900" stop="20210914035500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+<programme start="20210915035000 +0900" stop="20210915040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">芸人たちが恥ずかしいけど熱く語る！オンラインイベント！「ゴッドタン　オンラインライブ　お笑いを存分に語りまくれるBAR〜俺のお笑い青春事件ベスト3〜」をご紹介！！</desc>
 </programme>
 <programme start="20210914035500 +0900" stop="20210914040000 +0900" channel="FujiTV.jp">
   <title lang="en">天気予報</title>
@@ -1229,13 +1206,9 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">脳ベルヒットスタジオSP 昭和スターが一挙集結!名曲が蘇るスペシャルステージ!</title>
   <desc lang="en">クイズ！脳ベルＳＨＯＷ特別編▽昭和歌謡スターが集結し懐かしのヒット曲を熱唱＆歌手人生で起きた仰天エピソードを続々披露！伝説のアイドルが再結成＆㊙ゲストも！！</desc>
 </programme>
-<programme start="20210914023500 +0900" stop="20210914030500 +0900" channel="Tokyo MX">
-  <title lang="en">JOYnt! JOYのASOBU-TV</title>
-  <desc lang="en">そいそ〜すとショユモンＧＯ　後編</desc>
-</programme>
-<programme start="20210914030500 +0900" stop="20210914033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210915040000 +0900" stop="20210915045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20210914033500 +0900" stop="20210914040000 +0900" channel="Tokyo MX">
   <title lang="en">洋上の楽園クルーズ</title>
@@ -1420,5 +1393,17 @@ by.Antonio Carlos Jobim</desc>
 <programme start="20210915023500 +0900" stop="20210915030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210915030500 +0900" stop="20210915033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210915033500 +0900" stop="20210915040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20210915040000 +0900" stop="20210915043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
 </tv>
