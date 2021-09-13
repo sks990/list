@@ -50,14 +50,6 @@
     <display-name>Fuji Two JP</display-name>
     <icon src="https://static.epg.best/jp/FujiTwo.jp.png" />
   </channel>
-  <programme start="20210914013400 +0900" stop="20210914021400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽北朝鮮　巡行ミサイルを発射▽タリバン　大学で男女共学を認めず▽イラン　核監視カメラのデータ記録で合意▽９１１から２０年　日本人遺族の思い▽ブロードウェイ再開へ</desc>
-  </programme>
-  <programme start="20210914021400 +0900" stop="20210914025800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">スポーツ×ヒューマン</title>
-    <desc lang="en">バドミントン女子ダブルスのフクヒロペア。廣田選手が五輪直前にけがをし、福島選手と戦い抜いたが金メダルには届かなかった。最大の試練の先にふたりは何を手にしたのか？</desc>
-  </programme>
   <programme start="20210914025800 +0900" stop="20210914035800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ブルガリア・ソフィアを旅する。</desc>
@@ -301,6 +293,10 @@
   <programme start="20210915020000 +0900" stop="20210915024200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽米巨大テック企業が最も恐れる女性、リナ・カーン氏▽父は横浜中華街の紅衛兵だった▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210915024200 +0900" stop="20210915034000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北アルプス 美の点描</title>
+    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
   </programme>
   <programme start="20210914002500 +0900" stop="20210914053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -738,19 +734,14 @@
     <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
     <desc lang="en">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
   </programme>
-<programme start="20210914015600 +0900" stop="20210914021600 +0900" channel="Asahi.jp">
-  <title lang="en">さまぁ〜ず論</title>
-  <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
-</programme>
-<programme start="20210914021600 +0900" stop="20210914023600 +0900" channel="Asahi.jp">
-  <title lang="en">トゲアリトゲナシトゲトゲ</title>
-  <desc lang="en">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
-令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
-</programme>
-<programme start="20210914023600 +0900" stop="20210914025600 +0900" channel="Asahi.jp">
-  <title lang="en">あのちゃんねる</title>
-  <desc lang="en">若い男女を中心にカリスマ的人気を誇る「あのちゃん」の初・冠番組‼▽バラエティの王道企画にチャレンジ‼あのちゃんが考えたビックリ箱に出川困惑…!?</desc>
-</programme>
+  <programme start="20210915020400 +0900" stop="20210915023400 +0900" channel="NipponTV.jp">
+    <title lang="en">HUNTER×HUNTER</title>
+    <desc lang="en">＃１３２「センコウ×ト×ハツドウ」</desc>
+  </programme>
+  <programme start="20210915023400 +0900" stop="20210915041900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
+  </programme>
 <programme start="20210914025600 +0900" stop="20210914030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -863,13 +854,22 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">にゅーくりぃむ</title>
   <desc lang="en">10月から日曜よる10時台に新番組「くりぃむナンタラ」爆誕！過去の企画を現代版にアップデート第３弾！今回はナンバーワン破天荒芸人を決める「ジャスティン選手権」</desc>
 </programme>
-<programme start="20210914015800 +0900" stop="20210914022800 +0900" channel="TBS2.jp">
-  <title lang="en">イコノイ、どーですか?</title>
-  <desc lang="en">指原莉乃がプロデュースするアイドル、＝ＬＯＶＥ（イコールラブ）と≠ＭＥ（ノットイコールミー）の冠番組。ＭＣニューヨークがメンバーたちの魅力を売り込みます！</desc>
+<programme start="20210915021600 +0900" stop="20210915023600 +0900" channel="Asahi.jp">
+  <title lang="en">ぼる塾の煩悩ごはん</title>
+  <desc lang="en">シェフのあんりが考案したハイカロリー“煩悩ごはん”をむさぼり食べる深夜の飯テロバラエティ！ぼる塾とゲストのここでしか聞けない真剣トークも！</desc>
 </programme>
-<programme start="20210914022800 +0900" stop="20210914023500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20210915023600 +0900" stop="20210915025600 +0900" channel="Asahi.jp">
+  <title lang="en">イグナッツ!!</title>
+  <desc lang="en">番組の放送開始１周年間近を記念し、１年間を振り返りながらフリートーク‼</desc>
+</programme>
+<programme start="20210915025600 +0900" stop="20210915030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20210915030000 +0900" stop="20210915033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20210914023500 +0900" stop="20210914034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -951,21 +951,14 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">アカデミーナイトG</title>
   <desc lang="en">「かぐや様は告らせたい」原作者・赤坂アカ先生が映画のグッドシーンを表彰！ミュージカル「オリバー！」市村正親＆武田真治直撃！指原Pアイドル＝LOVE＆たんぽぽ川村</desc>
 </programme>
-<programme start="20210914013000 +0900" stop="20210914020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">うらみちお兄さん</title>
-  <desc lang="en">寝違えて首を痛めた裏道。寄る年波を噛みしめながら収録を終えると、衝撃の事実が耳に入る。この日、「左右確認」の大切さを教える交通安全の映像を録り直すことになった…</desc>
+<programme start="20210915023800 +0900" stop="20210915024500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210914020000 +0900" stop="20210914023000 +0900" channel="TVTokyo.jp">
-  <title lang="en">精霊幻想記</title>
-  <desc lang="en">セリアの政略結婚を知り愕然とするリオ。結婚式は明日。アイシアの力を借りて迎賓館に忍び込み、リオはセリアとの再会を果たす。リオを見て喜びがあふれるセリアだが…。</desc>
-</programme>
-<programme start="20210914023000 +0900" stop="20210914023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">９／１８(土)放送「エンドロールで見っけ！このＮＩＨＯＮＪＩＮって誰？」の見どころをご紹介します！</desc>
-</programme>
-<programme start="20210914023500 +0900" stop="20210914025000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">芸人たちが熱く語りあかすオンラインイベント！「ゴッドタン　オンラインライブ　お笑いを存分に語りまくれるBAR〜俺のお笑い青春事件ベスト3〜」をご紹介！！</desc>
+<programme start="20210915024500 +0900" stop="20210915034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20210914025000 +0900" stop="20210914032000 +0900" channel="TVTokyo.jp">
   <title lang="en">プレミアMelodiX!</title>
@@ -1124,13 +1117,17 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
   <desc lang="en">大西桃香＆久保怜音は温泉ＯＫ！？「うなじじゃんじゃん見せます」で旅番組出演権ゲット！？▽目指せ１００万回再生！１分間見つめます＆ひろゆきに珍キャッチコピー</desc>
 </programme>
-<programme start="20210914013500 +0900" stop="20210914020000 +0900" channel="FujiTV.jp">
-  <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
-  <desc lang="en">魔女たちがリニューアル！川島明＆ＧＥＮＫＩＮＧがお届けするリアルトーク通販バラエティ！美容・健康・ファッションなどを徹底的に品定め＆本音トーク！！</desc>
+<programme start="20210915020500 +0900" stop="20210915023500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
 </programme>
-<programme start="20210914020000 +0900" stop="20210914022500 +0900" channel="FujiTV.jp">
-  <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
-  <desc lang="en">「ＴＩＦ２０２１」に出演するアップアップガールズ（仮）から関根梓、鈴木芽生菜がスタジオに登場！こじるり直伝のセクシーポーズを披露！？</desc>
+<programme start="20210915023500 +0900" stop="20210915024000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+</programme>
+<programme start="20210915024000 +0900" stop="20210915032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">きのう何食べた?</title>
+  <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ▼史朗（西島）のスマホに女性からメッセージが！まさか…動揺する賢二（内野）がとった行動は…？</desc>
 </programme>
 <programme start="20210914022500 +0900" stop="20210914032500 +0900" channel="FujiTV.jp">
   <title lang="en">偶然見つけたハル</title>
@@ -1228,17 +1225,9 @@ by.Antonio Carlos Jobim</desc>
   <title lang="en">ドラゴンボール改</title>
   <desc lang="en">「美戦士ザーボンの変身」</desc>
 </programme>
-<programme start="20210914013500 +0900" stop="20210914020500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210914020500 +0900" stop="20210914023400 +0900" channel="Tokyo MX">
-  <title lang="en">夏菜のWAZAARI〜日本e-sports応援宣言〜</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210914023400 +0900" stop="20210914023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210915020500 +0900" stop="20210915040000 +0900" channel="FujiTV.jp">
+  <title lang="en">脳ベルヒットスタジオSP 昭和スターが一挙集結!名曲が蘇るスペシャルステージ!</title>
+  <desc lang="en">クイズ！脳ベルＳＨＯＷ特別編▽昭和歌謡スターが集結し懐かしのヒット曲を熱唱＆歌手人生で起きた仰天エピソードを続々披露！伝説のアイドルが再結成＆㊙ゲストも！！</desc>
 </programme>
 <programme start="20210914023500 +0900" stop="20210914030500 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1419,5 +1408,17 @@ by.Antonio Carlos Jobim</desc>
 <programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="Tokyo MX">
   <title lang="en">69号室の住人</title>
   <desc lang="en">シンガーソングライターのビッケブランカが約２年ぶりに登場！ニューアルバム「ＦＡＴＥ」の制作エピソードはもちろん、音楽にも通づるこだわりの江戸前　握り寿司を披露！</desc>
+</programme>
+<programme start="20210915020500 +0900" stop="20210915023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210915023400 +0900" stop="20210915023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210915023500 +0900" stop="20210915030500 +0900" channel="Tokyo MX">
+  <title lang="en">キラ×バズTV!?</title>
+  <desc lang="en"> </desc>
 </programme>
 </tv>
