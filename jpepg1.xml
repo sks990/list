@@ -54,14 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210915013400 +0900" stop="20210915020000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">天然素材NHK</title>
-    <desc lang="en">ＮＨＫアーカイブスが鎖を解き放ち、とっておきの映像素材を一挙お蔵出し！天衣無縫の平野レミにサラリーマン謎の運動会。数学教師がみた白昼夢に、一晩中眠れない奇祭！</desc>
-  </programme>
-  <programme start="20210915020000 +0900" stop="20210915024200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽タリバンが民間人殺害か▽英１２〜１５歳にワクチン接種へ▽日米韓　北ミサイル発射で連携確認▽米巨大テック企業が恐れるリナ・カーン氏▽父は横浜中華街の紅衛兵だった</desc>
-  </programme>
   <programme start="20210915024200 +0900" stop="20210915034000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス 美の点描</title>
     <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
@@ -301,6 +293,10 @@
   <programme start="20210916012200 +0900" stop="20210916020400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽香港　空前の地元アイドル「ミラー」ブーム、背景にはやはり…▽フィリピン　「三方良し」日本のバイオベンチャー※ＳＤＧｓ企画▽最新の国際ニュース※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210916020400 +0900" stop="20210916030400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北海道・かわいい動物たち〜さわやか自然百景から〜</title>
+    <desc lang="en">日本各地の自然や風景、そこに暮らす生きものたちの姿を紹介してきた「さわやか自然百景」。北海道で撮影した映像の中から、動物たちの愛らしい姿をたっぷりお届けします！</desc>
   </programme>
   <programme start="20210915002500 +0900" stop="20210915053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,14 +642,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210915005900 +0900" stop="20210915020400 +0900" channel="NipponTV.jp">
-    <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
-    <desc lang="en">毎週水曜よる10時〜放送中のドラマ「ハコヅメ〜たたかう！交番女子〜」のリピート放送。戸田恵梨香永野芽郁の最強ペアがW主演！笑いあり涙ありの交番女子物語！！</desc>
-  </programme>
-  <programme start="20210915020400 +0900" stop="20210915023400 +0900" channel="NipponTV.jp">
-    <title lang="en">HUNTER×HUNTER</title>
-    <desc lang="en">＃１３２「センコウ×ト×ハツドウ」</desc>
-  </programme>
   <programme start="20210915023400 +0900" stop="20210915041900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
@@ -757,18 +745,14 @@
     <title lang="en">東野・岡村の旅猿19</title>
     <desc lang="en">「山梨県で軽キャンピングカーの旅」最終話　なんとかキャンプ場に到着し、バーベキューを満喫する一行。春日さんの「フィジカルサラダ」は実行されるのか？</desc>
   </programme>
-<programme start="20210915015600 +0900" stop="20210915021600 +0900" channel="Asahi.jp">
-  <title lang="en">にゅーくりぃむ</title>
-  <desc lang="en">10月から日曜よる10時台に新番組「くりぃむナンタラ」爆誕！過去の企画を現代版にアップデート第３弾！今回はナンバーワン破天荒芸人を決める「ジャスティン選手権」</desc>
-</programme>
-<programme start="20210915021600 +0900" stop="20210915023600 +0900" channel="Asahi.jp">
-  <title lang="en">ぼる塾の煩悩ごはん</title>
-  <desc lang="en">シェフのあんりが考案したハイカロリー“煩悩ごはん”をむさぼり食べる深夜の飯テロバラエティ！ぼる塾とゲストのここでしか聞けない真剣トークも！</desc>
-</programme>
-<programme start="20210915023600 +0900" stop="20210915025600 +0900" channel="Asahi.jp">
-  <title lang="en">イグナッツ!!</title>
-  <desc lang="en">番組の放送開始１周年間近を記念し、１年間を振り返りながらフリートーク‼</desc>
-</programme>
+  <programme start="20210916021400 +0900" stop="20210916024400 +0900" channel="NipponTV.jp">
+    <title lang="en">浜ちゃんが!</title>
+    <desc lang="en">芸能人が愛用している「お取り寄せ」を披露し合う「お取り寄せグルメチャンピオン大会」あの人は一体どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
+  </programme>
+  <programme start="20210916024400 +0900" stop="20210916042900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
+  </programme>
 <programme start="20210915025600 +0900" stop="20210915030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -880,13 +864,17 @@
   <title lang="en">Break Out</title>
   <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
 </programme>
-<programme start="20210915015800 +0900" stop="20210915023800 +0900" channel="TBS2.jp">
-  <title lang="en">アカデミーナイトG</title>
-  <desc lang="en">「かぐや様は告らせたい」原作者・赤坂アカ先生が映画のグッドシーンを表彰！ミュージカル「オリバー！」市村正親＆武田真治直撃！指原Pアイドル＝LOVE＆たんぽぽ川村</desc>
+<programme start="20210916020600 +0900" stop="20210916022600 +0900" channel="Asahi.jp">
+  <title lang="en">まんが未知</title>
+  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◆番組初ミュージシャンが漫画原作を担当！ビッケブランカが考えた最後に“仕掛け”のある物語とは？</desc>
 </programme>
-<programme start="20210915023800 +0900" stop="20210915024500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20210916022600 +0900" stop="20210916024600 +0900" channel="Asahi.jp">
+  <title lang="en">あるある土佐カンパニー</title>
+  <desc lang="en">土佐兄弟が“新しいあるあるを見つける会社”を遂に設立『高校生あるある』で話題！動画アプリ５億回再生を記録した土佐兄弟の初冠番組。毎週愉快なあるあるをお届けします</desc>
+</programme>
+<programme start="20210916024600 +0900" stop="20210916030600 +0900" channel="Asahi.jp">
+  <title lang="en">キョコロヒー</title>
+  <desc lang="en">日向坂46の齊藤京子と芸人のヒコロヒー。京子とヒコロヒーで「キョコロヒー」。ダンスの新たな魅力と可能性を追求する、トーン低めのダンスバラエティー番組です。</desc>
 </programme>
 <programme start="20210915024500 +0900" stop="20210915034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -967,17 +955,10 @@
   <title lang="en">イベントGO!</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="TVTokyo.jp">
-  <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
-  <desc lang="en">大西桃香＆久保怜音は温泉ＯＫ！？「うなじじゃんじゃん見せます」で旅番組出演権ゲット！？▽目指せ１００万回再生！１分間見つめます＆ひろゆきに珍キャッチコピー</desc>
-</programme>
-<programme start="20210915020500 +0900" stop="20210915023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
-</programme>
-<programme start="20210915023500 +0900" stop="20210915024000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+<programme start="20210916020500 +0900" stop="20210916034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20210915024000 +0900" stop="20210915032000 +0900" channel="TVTokyo.jp">
   <title lang="en">きのう何食べた?</title>
@@ -1127,9 +1108,13 @@
   <title lang="en">お仕事search!それってグッジョブ</title>
   <desc lang="en">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！今回はこの時期でもお酒を楽しめる都内のスポットへ！宅飲みをワンランクアップさせるグッズも</desc>
 </programme>
-<programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="FujiTV.jp">
-  <title lang="en">ドラゴンボール改</title>
-  <desc lang="en">「美戦士ザーボンの変身」</desc>
+<programme start="20210916020500 +0900" stop="20210916023500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
+<programme start="20210916023500 +0900" stop="20210916030500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ドラゴンクエスト ダイの大冒険</title>
+  <desc lang="en">北の勇者ノヴァ登場！我こそが真の勇者であると豪語し、ハドラー親衛騎団のヒムと激突！必殺技を繰り出し善戦するが、オリハルコン戦士の真の恐ろしさを知ることになる！</desc>
 </programme>
 <programme start="20210915020500 +0900" stop="20210915040000 +0900" channel="FujiTV.jp">
   <title lang="en">脳ベルヒットスタジオSP 昭和スターが一挙集結!名曲が蘇るスペシャルステージ!</title>
@@ -1219,17 +1204,13 @@
   <title lang="en">村上マヨネーズのツッコませて頂きます!</title>
   <desc lang="en">ダイアン津田の日常に密着！▽悪態・嫌味・不機嫌・悪口・激怒…愛すべき津田の全てをお届け♪▽「１番その質問嫌いやねん！」津田を苦しめる禁断の質問とは？</desc>
 </programme>
-<programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="Tokyo MX">
-  <title lang="en">69号室の住人</title>
-  <desc lang="en">シンガーソングライターのビッケブランカが約２年ぶりに登場！ニューアルバム「ＦＡＴＥ」の制作エピソードはもちろん、音楽にも通づるこだわりの江戸前　握り寿司を披露！</desc>
+<programme start="20210916020500 +0900" stop="20210916030000 +0900" channel="FujiTV.jp">
+  <title lang="en">リモートシェフ</title>
+  <desc lang="en">料理の腕前ではなく、伝える力を競う新時代の料理番組！トップシェフ達は言葉による指示だけでどんな料理を完成させるのか！？</desc>
 </programme>
-<programme start="20210915020500 +0900" stop="20210915023400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210915023400 +0900" stop="20210915023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210916030000 +0900" stop="20210916035500 +0900" channel="FujiTV.jp">
+  <title lang="en">FNSドキュメンタリー大賞</title>
+  <desc lang="en">自分らしく最期まで安心して暮らせるように…。患者の「ものがたり」を大切にしながら、その生を支える佐藤伸彦医師の日々を追った。</desc>
 </programme>
 <programme start="20210915023500 +0900" stop="20210915030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
@@ -1409,6 +1390,22 @@
 </programme>
 <programme start="20210916013500 +0900" stop="20210916020500 +0900" channel="Tokyo MX">
   <title lang="en">ノーゲーム・ノーライフ</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210916020500 +0900" stop="20210916023400 +0900" channel="Tokyo MX">
+  <title lang="en">MIRAI系アイドルTV</title>
+  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
+</programme>
+<programme start="20210916023400 +0900" stop="20210916023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210916023500 +0900" stop="20210916030000 +0900" channel="Tokyo MX">
+  <title lang="en">せとチャレ!STU48</title>
+  <desc lang="en">舞台は瀬戸内！感動と興奮を生み出す育成型挑戦バラエティ！過酷なチャレンジから、ゆる〜いチャレンジまでSTU48が全力で挑みます！</desc>
+</programme>
+<programme start="20210916030000 +0900" stop="20210916033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210915050000 +0900" stop="20210915070000 +0900" channel="mnet.jp">
