@@ -54,10 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210915024200 +0900" stop="20210915034000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北アルプス 美の点描</title>
-    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
-  </programme>
   <programme start="20210915034000 +0900" stop="20210915040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
@@ -297,6 +293,10 @@
   <programme start="20210916020400 +0900" stop="20210916030400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北海道・かわいい動物たち〜さわやか自然百景から〜</title>
     <desc lang="en">日本各地の自然や風景、そこに暮らす生きものたちの姿を紹介してきた「さわやか自然百景」。北海道で撮影した映像の中から、動物たちの愛らしい姿をたっぷりお届けします！</desc>
+  </programme>
+  <programme start="20210916030400 +0900" stop="20210916040400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">海底の花園 サンゴの美〜沖縄 慶良間諸島〜</title>
+    <desc lang="en">〜沖縄県・慶良間諸島〜</desc>
   </programme>
   <programme start="20210915002500 +0900" stop="20210915053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -753,15 +753,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは残暑に負けないセールを展開！高機能シャワーヘッド、口コミヒット中インナーマスク、顔もできる脱毛器、伊皮革財布、美顔ローラー、ブルブル、決算寝具まで！</desc>
   </programme>
-<programme start="20210915025600 +0900" stop="20210915030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20210915030000 +0900" stop="20210915033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20210915033000 +0900" stop="20210915040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -876,10 +867,22 @@
   <title lang="en">キョコロヒー</title>
   <desc lang="en">日向坂46の齊藤京子と芸人のヒコロヒー。京子とヒコロヒーで「キョコロヒー」。ダンスの新たな魅力と可能性を追求する、トーン低めのダンスバラエティー番組です。</desc>
 </programme>
-<programme start="20210915024500 +0900" stop="20210915034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20210916030600 +0900" stop="20210916031000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20210916031000 +0900" stop="20210916033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
+</programme>
+<programme start="20210916033000 +0900" stop="20210916040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20210916040000 +0900" stop="20210916045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「命無用おやこ十手」松平健(他)▽岡っ引きの左平次に協力して、侍を斬殺した浪人を捕らえた吉宗。浪人は些細なことで侍と口論になり、やむを得ず斬り捨てたというのだが…</desc>
 </programme>
 <programme start="20210915034500 +0900" stop="20210915042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -960,13 +963,9 @@
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20210915024000 +0900" stop="20210915032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">きのう何食べた?</title>
-  <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ▼史朗（西島）のスマホに女性からメッセージが！まさか…動揺する賢二（内野）がとった行動は…？</desc>
-</programme>
-<programme start="20210915032000 +0900" stop="20210915035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">高嶺のハナさん</title>
-  <desc lang="en">苺(香音)が商品企画部に配属されて弱木(小越勇輝)が指導係になる。華(泉里香)は苺に負けじと弱木とライン交換をし、休日に弱木の家で漫画本を見る約束をする。</desc>
+<programme start="20210916034500 +0900" stop="20210916042500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20210915035000 +0900" stop="20210915040500 +0900" channel="TVTokyo.jp">
   <title lang="en">一夜づけ</title>
@@ -1116,6 +1115,22 @@
   <title lang="en">ドラゴンクエスト ダイの大冒険</title>
   <desc lang="en">北の勇者ノヴァ登場！我こそが真の勇者であると豪語し、ハドラー親衛騎団のヒムと激突！必殺技を繰り出し善戦するが、オリハルコン戦士の真の恐ろしさを知ることになる！</desc>
 </programme>
+<programme start="20210916030500 +0900" stop="20210916032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">サウナに夢中になっている男3人のドラマ！「サ道2021」をご紹介。今夜は特別に池袋にある「タイムズスパ・レスタ」を訪れた回をちょっとだけお見せしちゃいます！</desc>
+</programme>
+<programme start="20210916032000 +0900" stop="20210916035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">お耳に合いましたら。</title>
+  <desc lang="en">今夜は味変回！▼美園のリスナー・ひきこもりお嬢様のヒナミがどうしても食べたいチェンメシ…それはピザ！食に厳しい母に内緒で無事にピザを購入する事ができるのか！？</desc>
+</programme>
+<programme start="20210916035000 +0900" stop="20210916035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+</programme>
+<programme start="20210916035500 +0900" stop="20210916040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">蓋</title>
+  <desc lang="en">実験的蓋番組</desc>
+</programme>
 <programme start="20210915020500 +0900" stop="20210915040000 +0900" channel="FujiTV.jp">
   <title lang="en">脳ベルヒットスタジオSP 昭和スターが一挙集結!名曲が蘇るスペシャルステージ!</title>
   <desc lang="en">クイズ！脳ベルＳＨＯＷ特別編▽昭和歌謡スターが集結し懐かしのヒット曲を熱唱＆歌手人生で起きた仰天エピソードを続々披露！伝説のアイドルが再結成＆㊙ゲストも！！</desc>
@@ -1212,13 +1227,13 @@
   <title lang="en">FNSドキュメンタリー大賞</title>
   <desc lang="en">自分らしく最期まで安心して暮らせるように…。患者の「ものがたり」を大切にしながら、その生を支える佐藤伸彦医師の日々を追った。</desc>
 </programme>
-<programme start="20210915023500 +0900" stop="20210915030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
+<programme start="20210916035500 +0900" stop="20210916040000 +0900" channel="FujiTV.jp">
+  <title lang="en">天気予報</title>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
 </programme>
-<programme start="20210915030500 +0900" stop="20210915033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210916040000 +0900" stop="20210916045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20210915033500 +0900" stop="20210915040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1407,6 +1422,14 @@
 <programme start="20210916030000 +0900" stop="20210916033000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210916033000 +0900" stop="20210916040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210916040000 +0900" stop="20210916043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
 </programme>
 <programme start="20210915050000 +0900" stop="20210915070000 +0900" channel="mnet.jp">
 <title lang="en">休止</title>
