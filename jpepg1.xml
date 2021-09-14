@@ -54,10 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210915002000 +0900" stop="20210915013400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">次はいつ、どんな巨大地震が起きるのか？東日本大震災から１０年、危機を予測し命を守る研究に新展開が。人工知能なども駆使した科学の到達点に迫る。　ゲスト：鈴木京香</desc>
-  </programme>
   <programme start="20210915013400 +0900" stop="20210915020000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">天然素材NHK</title>
     <desc lang="en">ＮＨＫアーカイブスが鎖を解き放ち、とっておきの映像素材を一挙お蔵出し！天衣無縫の平野レミにサラリーマン謎の運動会。数学教師がみた白昼夢に、一晩中眠れない奇祭！</desc>
@@ -301,6 +297,10 @@
   <programme start="20210916005100 +0900" stop="20210916012200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">有田P おもてなす</title>
     <desc lang="en">さかなクンのためにくりぃむしちゅー有田哲平がお笑いライブを開催。ダイアンのネタがお魚てんこ盛りに？！３時のヒロイン、トム・ブラウン、コットン、ダンディ坂野も登場</desc>
+  </programme>
+  <programme start="20210916012200 +0900" stop="20210916020400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽香港　空前の地元アイドル「ミラー」ブーム、背景にはやはり…▽フィリピン　「三方良し」日本のバイオベンチャー※ＳＤＧｓ企画▽最新の国際ニュース※変更の可能性あり</desc>
   </programme>
   <programme start="20210915002500 +0900" stop="20210915053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -741,19 +741,22 @@
 今夜、ごはん界の常識が覆る⁉
 【大盛りごはんを食べても太らないって、実際どうなのか！？】</desc>
   </programme>
-<programme start="20210915005000 +0900" stop="20210915012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
-</programme>
-<programme start="20210915012000 +0900" stop="20210915012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20210915012600 +0900" stop="20210915015600 +0900" channel="Asahi.jp">
-  <title lang="en">フリースタイルティーチャー</title>
-  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
-ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
-</programme>
+  <programme start="20210916010400 +0900" stop="20210916010900 +0900" channel="NipponTV.jp">
+    <title lang="en">イントロ</title>
+    <desc lang="en">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
+  </programme>
+  <programme start="20210916010900 +0900" stop="20210916013900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレプッシュ</title>
+    <desc lang="en">唐沢寿明主演！真木よう子・増田貴久！１１０番通報を受ける緊急指令室（ECU）を舞台に「声」「音」を頼りに制限時間内に人々を救い出すタイムリミットサスペンス第２弾</desc>
+  </programme>
+  <programme start="20210916013900 +0900" stop="20210916014400 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210916014400 +0900" stop="20210916021400 +0900" channel="NipponTV.jp">
+    <title lang="en">東野・岡村の旅猿19</title>
+    <desc lang="en">「山梨県で軽キャンピングカーの旅」最終話　なんとかキャンプ場に到着し、バーベキューを満喫する一行。春日さんの「フィジカルサラダ」は実行されるのか？</desc>
+  </programme>
 <programme start="20210915015600 +0900" stop="20210915021600 +0900" channel="Asahi.jp">
   <title lang="en">にゅーくりぃむ</title>
   <desc lang="en">10月から日曜よる10時台に新番組「くりぃむナンタラ」爆誕！過去の企画を現代版にアップデート第３弾！今回はナンバーワン破天荒芸人を決める「ジャスティン選手権」</desc>
@@ -869,13 +872,13 @@
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">「太田伯山ウイカのはなつまみ」世の中の厄介者・通称「はなつまみ」たちの対処法をビシっと解決！</desc>
 </programme>
-<programme start="20210915005800 +0900" stop="20210915012800 +0900" channel="TBS2.jp">
-  <title lang="en">アメージパング!</title>
-  <desc lang="en">スヌーピー、ムーミン、バーバパパなどが登場する世界の名作本初版ランキング６！古いのはどれ？▼世界の重量ランキング６！金メダルと500万円の札束、どっちが重い！？</desc>
+<programme start="20210916013000 +0900" stop="20210916013600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20210915012800 +0900" stop="20210915015800 +0900" channel="TBS2.jp">
-  <title lang="en">トーキョー製麺所</title>
-  <desc lang="en">第弍話「もとカレーうどん」▼新店長・赤松（吉野北人）が来た本当の目的とは…？そんな中、ダメンズ元カレを持つ桃田（秋田汐梨）が開店時間になっても現れず店は大混乱！</desc>
+<programme start="20210916013600 +0900" stop="20210916020600 +0900" channel="Asahi.jp">
+  <title lang="en">Break Out</title>
+  <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
 </programme>
 <programme start="20210915015800 +0900" stop="20210915023800 +0900" channel="TBS2.jp">
   <title lang="en">アカデミーナイトG</title>
@@ -956,17 +959,13 @@
   <title lang="en">ふるさとの未来</title>
   <desc lang="en">電動キックスケーターを新しい交通インフラにするべく奮闘中！話題の成長企業「Ｌｕｕｐ」</desc>
 </programme>
-<programme start="20210915003000 +0900" stop="20210915010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">芸人動画チューズデー</title>
-  <desc lang="en">かまいたち濱家がMC！新たなお笑い番組が始動！今アツい芸人５組が同じテーマで様々な企画VTRを制作！上位３組だけがOAされる動画バトルを展開します！</desc>
-</programme>
-<programme start="20210915010000 +0900" stop="20210915013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">激!今夜もドル箱</title>
-  <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
-</programme>
-<programme start="20210915013000 +0900" stop="20210915013500 +0900" channel="TVTokyo.jp">
+<programme start="20210916012800 +0900" stop="20210916015800 +0900" channel="TBS2.jp">
   <title lang="en"></title>
-  <desc lang="en">９／１８(土)放送「エンドロールで見っけ！このＮＩＨＯＮＪＩＮって誰？」の見どころをご紹介します！</desc>
+  <desc lang="en">市村正親、武田真治、濱田めぐみ、ソニンほか豪華キャストによる『メリー・ポピンズ』『レ・ミゼラブル』のプロデューサーが贈る2021年最高の話題作！</desc>
+</programme>
+<programme start="20210916015800 +0900" stop="20210916020500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
 <programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="TVTokyo.jp">
   <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
@@ -1120,9 +1119,13 @@
   <title lang="en">来世ではちゃんとします2</title>
   <desc lang="en">内田理央主演！ＳＮＳで話題沸騰の人気漫画原作！性をこじらせた男女の赤裸々エロラブコメディドラマ待望の続編▼梅が遭難！そして桃江、禁断の社内恋愛は三角関係に⁉</desc>
 </programme>
-<programme start="20210915003500 +0900" stop="20210915013500 +0900" channel="FujiTV.jp">
-  <title lang="en">好きな人がいること</title>
-  <desc lang="en">恋の三角関係、今夜激変！？急激に距離が縮まる美咲と夏向。そんな２人を見ていた千秋の抑えきれない感情が爆発する！？胸キュン必至の第８話！！</desc>
+<programme start="20210916011000 +0900" stop="20210916014000 +0900" channel="TVTokyo.jp">
+  <title lang="en">東京放置食堂</title>
+  <desc lang="en">片桐はいり主演！本土から120キロ離れた東京都内「大島」にある居酒屋「風待屋」が舞台！島の大自然や時間の流れから生まれる、優しい時間と人間模様・島グルメが満載！</desc>
+</programme>
+<programme start="20210916014000 +0900" stop="20210916020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">お仕事search!それってグッジョブ</title>
+  <desc lang="en">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！今回はこの時期でもお酒を楽しめる都内のスポットへ！宅飲みをワンランクアップさせるグッズも</desc>
 </programme>
 <programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="FujiTV.jp">
   <title lang="en">ドラゴンボール改</title>
@@ -1208,17 +1211,13 @@
   <title lang="en">エモろん 〜この論文、エモくない!?〜</title>
   <desc lang="en">男女の友情ってホントにあるの！？総フォロワー数１５００万人超の若手インフルエンサー１０人が世界のオモシロ論文で爆裂トーク！この論文めっちゃエモいんですけど！</desc>
 </programme>
-<programme start="20210915004500 +0900" stop="20210915010000 +0900" channel="Tokyo MX">
-  <title lang="en">異世界かるてっと2</title>
-  <desc lang="en"> </desc>
+<programme start="20210916010500 +0900" stop="20210916013500 +0900" channel="FujiTV.jp">
+  <title lang="en">NIGHT HEAD 2041</title>
+  <desc lang="en">窮地の直人と直也は正幸の力の瞬間移動によりロシアへ逃げ延び、そこで御厨の古い友人たちに助けられる。彼らの施設に御厨がいることを知り、面会を願い出るが…</desc>
 </programme>
-<programme start="20210915010000 +0900" stop="20210915010500 +0900" channel="Tokyo MX">
-  <title lang="en">りばあす</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210915010500 +0900" stop="20210915013500 +0900" channel="Tokyo MX">
-  <title lang="en">ゴルゴ13</title>
-  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+<programme start="20210916013500 +0900" stop="20210916020500 +0900" channel="FujiTV.jp">
+  <title lang="en">村上マヨネーズのツッコませて頂きます!</title>
+  <desc lang="en">ダイアン津田の日常に密着！▽悪態・嫌味・不機嫌・悪口・激怒…愛すべき津田の全てをお届け♪▽「１番その質問嫌いやねん！」津田を苦しめる禁断の質問とは？</desc>
 </programme>
 <programme start="20210915013500 +0900" stop="20210915020500 +0900" channel="Tokyo MX">
   <title lang="en">69号室の住人</title>
@@ -1403,6 +1402,14 @@
 <programme start="20210916010000 +0900" stop="20210916010500 +0900" channel="Tokyo MX">
   <title lang="en">コミックBAR Renta!</title>
   <desc lang="en">街角にひっそりと佇む「コミックＢＡＲ　Ｒｅｎｔａ！」マンガ好きのマスター森嶋秀太が毎週男性声優ゲストに話題のマンガを紹介！</desc>
+</programme>
+<programme start="20210916010500 +0900" stop="20210916013500 +0900" channel="Tokyo MX">
+  <title lang="en">女神寮の寮母くん。</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210916013500 +0900" stop="20210916020500 +0900" channel="Tokyo MX">
+  <title lang="en">ノーゲーム・ノーライフ</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20210915050000 +0900" stop="20210915070000 +0900" channel="mnet.jp">
 <title lang="en">休止</title>
