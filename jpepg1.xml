@@ -54,10 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210917045000 +0900" stop="20210917050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">性犯罪をめぐる法制審議会の議論が始まる。最大の論点は処罰の要件を変えるべきか。今の刑法は要件が厳しすぎ、加害者が処罰を免れているという声も。議論の行方を考える。</desc>
-  </programme>
   <programme start="20210917050000 +0900" stop="20210917060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼西日本中心　大雨に警戒を　▼自民党総裁選　きょう告示／野田氏　立候補を表明　４人で争う構図に　▼“ヤングケアラー”　国がモデル事業で支援へ</desc>
@@ -290,9 +286,25 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210917003000 +0900" stop="20210917053000 +0900" channel="eTele.jp">
+  <programme start="20210918051000 +0900" stop="20210918051500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Nスペ5min．</title>
+    <desc lang="en">ＮＨＫスペシャルの魅力を５分間に凝縮した「Ｎスペ５ｍｉｎ．」。今回は『ＭＥＧＡＱＵＡＫＥ　巨大地震　２０２１』のダイジェストをご紹介する。</desc>
+  </programme>
+  <programme start="20210918051500 +0900" stop="20210918054000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うまいッ!</title>
+    <desc lang="en">大粒でジューシー！ほどよい酸味と濃厚な甘さが特徴！ピオーネ▽葉っぱに日を当てる細かな約束事▽見分け方やおいしく食べる新常識▽栄養価が高い皮も生かした料理も伝授！</desc>
+  </programme>
+  <programme start="20210918054000 +0900" stop="20210918055000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK映像ファイル あの人に会いたい</title>
+    <desc lang="en">去年１２月に亡くなった鈴木登紀子さん。長年にわたって料理番組の講師を務め、「ばぁば」の愛称で親しまれた。昔ながらの家庭の味を次の世代に伝え、生涯現役を貫いた。</desc>
+  </programme>
+  <programme start="20210918055000 +0900" stop="20210918060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20210918060000 +0900" stop="20210918063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20210917053000 +0900" stop="20210917060000 +0900" channel="eTele.jp">
     <title lang="en">アラビーヤ・シャベリーヤ!</title>
@@ -630,9 +642,13 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210917043000 +0900" stop="20210917055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽東京831人感染確認▽台風は九州に上陸へ▽北朝鮮がミサイル発射映像公開▽石川遼、石原さとみ</desc>
+  <programme start="20210918053000 +0900" stop="20210918055500 +0900" channel="eTele.jp">
+    <title lang="en">レイチェルのおうちごはん</title>
+    <desc lang="en">料理人、レイチェル・クーのシンプルだけど一味違う！ひとくち食べればみんな笑顔のおうちごはん。スウェーデンからレイチェル流の家庭料理を紹介する全８回のシリーズ。</desc>
+  </programme>
+  <programme start="20210918055500 +0900" stop="20210918062500 +0900" channel="eTele.jp">
+    <title lang="en">猫のしっぽ カエルの手</title>
+    <desc lang="en">京都大原で暮らして２５年。最近のベニシアさんの楽しみは、夫婦の散歩や友人と出かけるジムでの運動、海外の家族とリモートで話すこと。家族や仲間の支えに感謝している。</desc>
   </programme>
   <programme start="20210917055000 +0900" stop="20210917080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -718,6 +734,18 @@
   <programme start="20210918043900 +0900" stop="20210918052400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ人気商品上半期御礼最終セール！人気美顔器アクアリーボーテ、伊高級皮革財布、脱毛器シャインエステ2、ブルブル振動マシーン、ダイソンV７掃除機を決算大放出！</desc>
+  </programme>
+  <programme start="20210918052400 +0900" stop="20210918052900 +0900" channel="NipponTV.jp">
+    <title lang="en">「バンクシーって誰?展」</title>
+    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
+  </programme>
+  <programme start="20210918052900 +0900" stop="20210918053000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210918053000 +0900" stop="20210918080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ズームイン!!サタデー</title>
+    <desc lang="en">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタいち押し！</desc>
   </programme>
 <programme start="20210917045500 +0900" stop="20210917080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -839,6 +867,19 @@
   <title lang="en">おかずのクッキング</title>
   <desc lang="en">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
 </programme>
+<programme start="20210918052000 +0900" stop="20210918055000 +0900" channel="Asahi.jp">
+  <title lang="en">日本のチカラ</title>
+  <desc lang="en">里山の原風景が残る南三陸町で、夢を追いながら果樹を育てる、若き女性の物語。水色の軽トラックとともに走り続ける、笑顔の日々を描きます。</desc>
+</programme>
+<programme start="20210918055000 +0900" stop="20210918060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20210918060000 +0900" stop="20210918080000 +0900" channel="Asahi.jp">
+  <title lang="en">週刊ニュースリーダー</title>
+  <desc lang="en">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
+城島茂が各界のリーダーを現場取材します！</desc>
+</programme>
 <programme start="20210917042500 +0900" stop="20210917060000 +0900" channel="TBS2.jp">
   <title lang="en">はやドキ!</title>
   <desc lang="en">自民党総裁選きょう告示、４氏による戦いへ▽コロナ東京851人25日連続前週同日比で減少▽大谷翔平出るか45号▽平野紫耀▽橋本環奈▽長谷川博己▽染谷将太</desc>
@@ -951,12 +992,13 @@
   <desc lang="en">通販番組（ＴＶショッピング）
 </desc>
 </programme>
-<programme start="20210917042300 +0900" stop="20210917054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20210918051500 +0900" stop="20210918053000 +0900" channel="TBS2.jp">
+  <title lang="en">皇室アルバム</title>
+  <desc lang="en">『天皇ご一家　障がい者スポーツへの思い』</desc>
+</programme>
+<programme start="20210918053000 +0900" stop="20210918070000 +0900" channel="TBS2.jp">
+  <title lang="en">まるっと!サタデー</title>
+  <desc lang="en">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
 </programme>
 <programme start="20210917054500 +0900" stop="20210917070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1133,9 +1175,13 @@
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20210917045500 +0900" stop="20210917052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20210918054500 +0900" stop="20210918060000 +0900" channel="TVTokyo.jp">
+  <title lang="en">Eネ!</title>
+  <desc lang="en">テレビ東京お薦めのエンタメ情報をお届け！映画・イベント・ＤＶＤなどを紹介します！</desc>
+</programme>
+<programme start="20210918060000 +0900" stop="20210918065400 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
 </programme>
 <programme start="20210917052500 +0900" stop="20210917080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1231,13 +1277,18 @@
   <desc lang="en">「いまから　ここから」
 相田一人（相田みつを美術館館長）</desc>
 </programme>
-<programme start="20210917043000 +0900" stop="20210917050000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210918052200 +0900" stop="20210918053000 +0900" channel="FujiTV.jp">
+  <title lang="en">ぼのぼの</title>
+  <desc lang="en">「おとうさんのウッペ」
+登場キャラクター：ぼのぼの　シマリスくん　アライグマくん　クズリくん　スナドリネコさん　他</desc>
 </programme>
-<programme start="20210917050000 +0900" stop="20210917053000 +0900" channel="Tokyo MX">
-  <title lang="en">うたなび!</title>
-  <desc lang="en"> </desc>
+<programme start="20210918053000 +0900" stop="20210918060000 +0900" channel="FujiTV.jp">
+  <title lang="en">週刊フジテレビ批評</title>
+  <desc lang="en">個性派ぞろい衛星放送番組の魅力とは？▽選手のトレーニングを生中継！▽ミステリー小説と料理のコラボ？▽おもちゃの犬が競走！仰天番組の発想と衛星放送の今後を検証</desc>
+</programme>
+<programme start="20210918060000 +0900" stop="20210918083000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましどようび</title>
+  <desc lang="en">めざましどようびニュース＆スポーツを１週間まとめチェック▽今週のエンタメ全見せ未公開＆舞台裏映像▽週末おすすめスポット▽出演者が挑戦！じゃんけん２回＆占い</desc>
 </programme>
 <programme start="20210917053000 +0900" stop="20210917060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1428,6 +1479,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210918050000 +0900" stop="20210918053000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918053000 +0900" stop="20210918060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918060000 +0900" stop="20210918063000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
