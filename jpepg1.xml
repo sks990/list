@@ -54,10 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210917024730 +0900" stop="20210917031700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
-  </programme>
   <programme start="20210917031700 +0900" stop="20210917040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像詩</title>
     <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した奈良県・明日香村。四季の移ろいと、歴史の時空が交錯する「飛鳥」を描き出す。</desc>
@@ -289,6 +285,14 @@
   <programme start="20210918023000 +0900" stop="20210918033000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスの山々の四季</desc>
+  </programme>
+  <programme start="20210918033000 +0900" stop="20210918035000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">瀬戸内 ふるさとの絶景</title>
+    <desc lang="en">穏やかな海と無数の島々が美しい風景を織りなす瀬戸内海。空や海の「青」。渓谷の「緑」。夕日が染める「赤」。四季折々に変化する瀬戸内の「色」をつづる映像詩。</desc>
+  </programme>
+  <programme start="20210918035000 +0900" stop="20210918040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">先どり きょうの健康</title>
+    <desc lang="en">高血圧のふたつのタイプ、「血管収縮タイプ」と「血液増加タイプ」、それぞれ異なる原因と対策、そして気になるメタボと血圧の関係、注意したい血圧の変動について伝える</desc>
   </programme>
   <programme start="20210917003000 +0900" stop="20210917053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -630,10 +634,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210917023400 +0900" stop="20210917030400 +0900" channel="NipponTV.jp">
-    <title lang="en">NFL倶楽部</title>
-    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
-  </programme>
   <programme start="20210917030400 +0900" stop="20210917040400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
@@ -743,19 +743,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">上半期最終セール！ポシュレ人気商品が史上最安値連発！振動マシーン＆美顔器＆脱毛器＆マッサージチェア！人気の高機能シャワーヘッド、大粒ダイヤなども決算大放出！</desc>
   </programme>
-<programme start="20210917024600 +0900" stop="20210917030600 +0900" channel="Asahi.jp">
-  <title lang="en">会心の1ゲー</title>
-  <desc lang="en">芸人×ゲーム＝伝説のバカゲー誕生⁉▼ゲームプログラマーの生態を学ぼう！▽プログラマーが日常で使ってしまう専門用語とは？▽プログラマーにとって辛いこととは？</desc>
-</programme>
-<programme start="20210917030600 +0900" stop="20210917031000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20210917031000 +0900" stop="20210917033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20210917033000 +0900" stop="20210917040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
@@ -872,9 +859,9 @@
   <title lang="en">ザ・ハイスクール ヒーローズ 最終回直前SP</title>
   <desc lang="en">ついに完結！美 少年がヒーローに変身！「友情と団結」をテーマに学園の平和を守る前代未聞の戦隊ヒーロードラマ！秘密戦隊ゴレンジャーも登場‼</desc>
 </programme>
-<programme start="20210917020500 +0900" stop="20210917034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20210918040000 +0900" stop="20210918043000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
 </programme>
 <programme start="20210917034500 +0900" stop="20210917042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -971,23 +958,19 @@
   <title lang="en">With☆ベイスターズ2021</title>
   <desc lang="en">横浜DeNAベイスターズ応援番組。番組MC今井翼さんが23年ぶりの日本一を目指す、三浦大輔新監督率いる新生ベイスターズに熱く迫ります！</desc>
 </programme>
-<programme start="20210917023500 +0900" stop="20210917030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20210918030500 +0900" stop="20210918031700 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210917030500 +0900" stop="20210917032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">2019年に大反響を巻き起こした、サウナでつながった3人の男のドラマの新シリーズ！「サ道2021」をご紹介。今夜は特別に“サウナがあるラブホテル”をちょい見せします！</desc>
+<programme start="20210918031700 +0900" stop="20210918040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20210917032000 +0900" stop="20210917032500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+<programme start="20210918040000 +0900" stop="20210918041500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20210917032500 +0900" stop="20210917033500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ラビッツ インベージョン</title>
-  <desc lang="en">自分そっくりのクローンを作りだした研究員ラビッツ。新たな仲間とともにラグビーの試合に挑み、ニュージーランド代表ばりのパフォーマンスを披露！？</desc>
-</programme>
-<programme start="20210917033500 +0900" stop="20210917042300 +0900" channel="TVTokyo.jp">
+<programme start="20210917040000 +0900" stop="20210917042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1149,17 +1132,22 @@
   <desc lang="en">▼「さいきん　どう？」今回のゲストは、好き好きロンちゃん(前編)！
 ▼「酒場サーキット」には、パリッコ(前編)！</desc>
 </programme>
-<programme start="20210917023500 +0900" stop="20210917030500 +0900" channel="FujiTV.jp">
-  <title lang="en">いいすぽ!</title>
-  <desc lang="en">今話題のｅ－Ｓｐｏｒｔｓ専門番組！大人気パズルゲームの元祖！「ぷよぷよｅスポーツ」トーナメント最終決戦！！ＭＣ：バカリズム</desc>
+<programme start="20210918031500 +0900" stop="20210918032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
 </programme>
-<programme start="20210917030500 +0900" stop="20210917033500 +0900" channel="FujiTV.jp">
-  <title lang="en">Tune</title>
-  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
-</programme>
-<programme start="20210917033500 +0900" stop="20210917035500 +0900" channel="FujiTV.jp">
+<programme start="20210918032000 +0900" stop="20210918033500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+  <desc lang="en">あなたの生活をより楽しく！より快適に！
+ワクワクする商品を厳選して紹介するショッピング番組。</desc>
+</programme>
+<programme start="20210918033500 +0900" stop="20210918034500 +0900" channel="TVTokyo.jp">
+  <title lang="en">蓋</title>
+  <desc lang="en">実験的蓋番組</desc>
+</programme>
+<programme start="20210918034500 +0900" stop="20210918040000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20210917035500 +0900" stop="20210917040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1245,13 +1233,9 @@
   <title lang="en">久保みねヒャダ こじらせナイト</title>
   <desc lang="en">解散…五輪…話題の市長…今年流行語はどうなる？世の中にこじらせ▽３人の人生の羅針盤…いとうあさこ登場無限に食べられるベスト３発表で無限に盛り上がるトーク</desc>
 </programme>
-<programme start="20210917023500 +0900" stop="20210917030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210917030500 +0900" stop="20210917033400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210918033500 +0900" stop="20210918043000 +0900" channel="FujiTV.jp">
+  <title lang="en">准教授・高槻彰良の推察 season1</title>
+  <desc lang="en">“図書館のマリエさん”に呪われると三日以内に暗号を解かなければ殺されてしまう！？調査を進めるうちに、高槻（伊野尾慧）らは呪いが生まれた悲しい背景に辿り着いて…</desc>
 </programme>
 <programme start="20210917033400 +0900" stop="20210917040000 +0900" channel="Tokyo MX">
   <title lang="en">白黒アンジャッシュ</title>
@@ -1434,6 +1418,22 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210918023500 +0900" stop="20210918030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918030500 +0900" stop="20210918033500 +0900" channel="Tokyo MX">
+  <title lang="en">日本グレートスポット紀行 season2</title>
+  <desc lang="en">阿蘇カラクリ研究所</desc>
+</programme>
+<programme start="20210918033500 +0900" stop="20210918035000 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918035000 +0900" stop="20210918040000 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918040000 +0900" stop="20210918043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
