@@ -54,10 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210917013500 +0900" stop="20210917021700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽北朝鮮「鉄道からミサイル発射」▽米英豪が連携　豪に原子力潜水艦配備へ▽中国不動産大手・恒大グループが経営難で波紋▽英「世界遺産」取り消されたリバプールの行方は</desc>
-  </programme>
   <programme start="20210917021700 +0900" stop="20210917031700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
@@ -289,6 +285,10 @@
   <programme start="20210918014800 +0900" stop="20210918023000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽中国・ロシアはアフガン情勢にどう挑む〜上海協力機構で首脳たちは〜▽ＮＹが待ちわびたブロードウェイ再開▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210918023000 +0900" stop="20210918033000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北アルプス</title>
+    <desc lang="en">北アルプスの山々の四季</desc>
   </programme>
   <programme start="20210917003000 +0900" stop="20210917053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -630,14 +630,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210917013400 +0900" stop="20210917020400 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">何でも野球に例えられるという大学生。友人たちは就活をしているさなかに、収録にやってきたその理由にオードリー衝撃！以前「友達がいない」川越さんは今どうしてる？</desc>
-  </programme>
-  <programme start="20210917020400 +0900" stop="20210917023400 +0900" channel="NipponTV.jp">
-    <title lang="en">川島・山内のマンガ沼</title>
-    <desc lang="en">ついに実現！「カラオケ行こ！」「女の園の星」話題沸騰中のマンガ家・和山やま先生にガチアンケート！超人気作の裏側から先生の素顔まで！謎多きマンガ家に迫りまくる！</desc>
-  </programme>
   <programme start="20210917023400 +0900" stop="20210917030400 +0900" channel="NipponTV.jp">
     <title lang="en">NFL倶楽部</title>
     <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
@@ -747,18 +739,10 @@
     <title lang="en">夜バゲット</title>
     <desc lang="en">イチ押しの映画、イベント、アニメ情報を日テレアナウンサー陣が徹底紹介。</desc>
   </programme>
-<programme start="20210917013600 +0900" stop="20210917020600 +0900" channel="Asahi.jp">
-  <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
-  <desc lang="en">①つかみもみを再現！自宅で簡単に出来る大人気ヘッドスパ②着るだけで美バスト・くびれボディを目指せるキャミソール③爆売れ！クッション型トランポリンが登場！</desc>
-</programme>
-<programme start="20210917020600 +0900" stop="20210917022600 +0900" channel="Asahi.jp">
-  <title lang="en">NEWニューヨーク</title>
-  <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
-</programme>
-<programme start="20210917022600 +0900" stop="20210917024600 +0900" channel="Asahi.jp">
-  <title lang="en">そんな食べ方あったのか!</title>
-  <desc lang="en">ミキ亜生とフワちゃんが「そんな食べ方あったのか」と言ってしまうアレンジ料理を発掘する番組▼人気ポテトチップスを一流シェフが本気アレンジ▼亜生フワちゃんが喧嘩⁉</desc>
-</programme>
+  <programme start="20210918024400 +0900" stop="20210918043900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">上半期最終セール！ポシュレ人気商品が史上最安値連発！振動マシーン＆美顔器＆脱毛器＆マッサージチェア！人気の高機能シャワーヘッド、大粒ダイヤなども決算大放出！</desc>
+  </programme>
 <programme start="20210917024600 +0900" stop="20210917030600 +0900" channel="Asahi.jp">
   <title lang="en">会心の1ゲー</title>
   <desc lang="en">芸人×ゲーム＝伝説のバカゲー誕生⁉▼ゲームプログラマーの生態を学ぼう！▽プログラマーが日常で使ってしまう専門用語とは？▽プログラマーにとって辛いこととは？</desc>
@@ -876,9 +860,17 @@
   <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
 【テーマ】キレイを味方に！目指せオシャレ上級者！</desc>
 </programme>
-<programme start="20210917015800 +0900" stop="20210917020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20210918022000 +0900" stop="20210918024000 +0900" channel="Asahi.jp">
+  <title lang="en">新日ちゃん。</title>
+  <desc lang="en">SeasonⅣ第９試合となる今夜は…BULLET CLUBが初登場！ファン待望の石森太ニがついに新日ちゃん。に！ファンアンケートによってベストバウト・好きな技・仕草など大連発！</desc>
+</programme>
+<programme start="20210918024000 +0900" stop="20210918030000 +0900" channel="Asahi.jp">
+  <title lang="en">ももクロちゃんと!</title>
+  <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
+</programme>
+<programme start="20210918030000 +0900" stop="20210918040000 +0900" channel="Asahi.jp">
+  <title lang="en">ザ・ハイスクール ヒーローズ 最終回直前SP</title>
+  <desc lang="en">ついに完結！美 少年がヒーローに変身！「友情と団結」をテーマに学園の平和を守る前代未聞の戦隊ヒーロードラマ！秘密戦隊ゴレンジャーも登場‼</desc>
 </programme>
 <programme start="20210917020500 +0900" stop="20210917034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -971,18 +963,13 @@
   <title lang="en">BLUE REFLECTION RAY/澪</title>
   <desc lang="en">【アニメイズム】想いが高まりあった陽桜莉たちは、より強い絆でもってコモンへ向かう！――すべての想いが集う世界、コモン。辿り着いた陽桜莉たちを待っていたのは……</desc>
 </programme>
-<programme start="20210917013000 +0900" stop="20210917020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">みんなでBINGOLF</title>
-  <desc lang="en">全９ホールを『ゴルフ×ビンゴ』のルールでプレー！様々なミッションに挑みながら、全員でビンゴ達成を目指す！達成したビンゴの数により豪華賞品が!?</desc>
+<programme start="20210918022500 +0900" stop="20210918025500 +0900" channel="TBS2.jp">
+  <title lang="en">カノジョも彼女</title>
+  <desc lang="en">▽彼女がいるのに、他の女の子に告白されたら……どうする？話題沸騰中のネオスタンダードラブコメ♥</desc>
 </programme>
-<programme start="20210917020000 +0900" stop="20210917020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">９／１８(土)放送「エンドロールで見っけ！このＮＩＨＯＮＪＩＮって誰？」の見どころをご紹介します！</desc>
-</programme>
-<programme start="20210917020500 +0900" stop="20210917023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">きらきらアフロTM</title>
-  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
-【出演】笑福亭鶴瓶、松嶋尚美</desc>
+<programme start="20210918025500 +0900" stop="20210918030500 +0900" channel="TBS2.jp">
+  <title lang="en">With☆ベイスターズ2021</title>
+  <desc lang="en">横浜DeNAベイスターズ応援番組。番組MC今井翼さんが23年ぶりの日本一を目指す、三浦大輔新監督率いる新生ベイスターズに熱く迫ります！</desc>
 </programme>
 <programme start="20210917023500 +0900" stop="20210917030500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1153,9 +1140,14 @@
 ▼VIEWSONE　in　a　Billion
 ▼MY　CLASSICS　new　特別編MOOMIN　サイプレス上野　Rei🄫hi</desc>
 </programme>
-<programme start="20210917013500 +0900" stop="20210917023500 +0900" channel="FujiTV.jp">
-  <title lang="en">ガチャムクってなんだ?</title>
-  <desc lang="en">まもなくチャンネル登録５０万人！ガチャピンちゃんねるＳＰ！</desc>
+<programme start="20210918023000 +0900" stop="20210918024500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">キャンプブームを牽引！女子高生たちのまったりキャンプに癒されるドラマ！「ゆるキャン△2」のBlu-ray＆DVD　BOXをご紹介。特別に特典映像をちょい見せしちゃいます！</desc>
+</programme>
+<programme start="20210918024500 +0900" stop="20210918031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">音流〜ONRYU〜</title>
+  <desc lang="en">▼「さいきん　どう？」今回のゲストは、好き好きロンちゃん(前編)！
+▼「酒場サーキット」には、パリッコ(前編)！</desc>
 </programme>
 <programme start="20210917023500 +0900" stop="20210917030500 +0900" channel="FujiTV.jp">
   <title lang="en">いいすぽ!</title>
@@ -1245,17 +1237,13 @@
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20210917013500 +0900" stop="20210917020500 +0900" channel="Tokyo MX">
-  <title lang="en">バリふり!!!</title>
-  <desc lang="en"> </desc>
+<programme start="20210918020500 +0900" stop="20210918023500 +0900" channel="FujiTV.jp">
+  <title lang="en">次ナルTV-S</title>
+  <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＮＥＸＴで放送する「私立恵比寿中学　バンドのみんなと大学芸会２０２０エビ中とニューガムラッド」</desc>
 </programme>
-<programme start="20210917020500 +0900" stop="20210917023400 +0900" channel="Tokyo MX">
-  <title lang="en">らいコレTV</title>
-  <desc lang="en">総合アーティストライバー“渡辺あゆ香”登場！ライバーの最新情報も！</desc>
-</programme>
-<programme start="20210917023400 +0900" stop="20210917023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210918023500 +0900" stop="20210918033500 +0900" channel="FujiTV.jp">
+  <title lang="en">久保みねヒャダ こじらせナイト</title>
+  <desc lang="en">解散…五輪…話題の市長…今年流行語はどうなる？世の中にこじらせ▽３人の人生の羅針盤…いとうあさこ登場無限に食べられるベスト３発表で無限に盛り上がるトーク</desc>
 </programme>
 <programme start="20210917023500 +0900" stop="20210917030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1436,6 +1424,18 @@
 <programme start="20210918013500 +0900" stop="20210918020500 +0900" channel="Tokyo MX">
   <title lang="en">TALKIN’ABOUT</title>
   <desc lang="en">ＭＣのニューヨークが、アイドルグループや声優、アニソン、Ｙｏｕｔｕｂｅｒなど、カルチャーシーンで活躍するアーティストを迎えトークする音楽番組</desc>
+</programme>
+<programme start="20210918020500 +0900" stop="20210918023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918023400 +0900" stop="20210918023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918023500 +0900" stop="20210918030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20210917050000 +0900" stop="20210917070000 +0900" channel="mnet.jp">
 <title lang="en">ユンステイ#5アンコール再放送</title>
