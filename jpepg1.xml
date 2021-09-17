@@ -54,14 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210917150000 +0900" stop="20210917160200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210917160200 +0900" stop="20210917161200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210917161200 +0900" stop="20210917180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大相撲（2021年） 秋場所</title>
     <desc lang="en">初日から５連勝の新横綱・照ノ富士は若隆景と　大関・正代は霧馬山　大関・貴景勝は玉鷲　新関脇・明生は大栄翔　関脇・御嶽海は琴ノ若　５連勝の千代の国は十両・佐田の海</desc>
@@ -76,7 +68,7 @@
   </programme>
   <programme start="20210917183000 +0900" stop="20210917190000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ネットワーク</title>
-    <desc lang="en">もっと身近に、さらにきめ細かく！あなたに近い街・首都圏各地域のニュースや話題をとことん掘り起こします。気象情報は関東各県くわしくお伝えします。</desc>
+    <desc lang="en">▽コロナ禍「孤」育てを防ぐ▽セルフ家作りは森林整備にも</desc>
   </programme>
   <programme start="20210917190000 +0900" stop="20210917201500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース7</title>
@@ -285,26 +277,6 @@
   <programme start="20210918160000 +0900" stop="20210918180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大相撲（2021年） 秋場所</title>
     <desc lang="en">（４：１０）「幕内取組」　【解説】正面（幕内）…北の富士勝昭，向正面（幕内）…富士ヶ根（元大善），【アナウンサー】正面（幕内）…藤井康生ほか</desc>
-  </programme>
-  <programme start="20210917155500 +0900" stop="20210917160000 +0900" channel="eTele.jp">
-    <title lang="en">びじゅチューン!</title>
-    <desc lang="en">ルノワール「ムーラン・ド・ラ・ギャレット」がテーマ。ライバル店の姉妹が潜入し、そのキラキラした魅力に屈してゆく様子を歌う。「ごちそんぐＤＪ」とのコラボ第三弾。</desc>
-  </programme>
-  <programme start="20210917160000 +0900" stop="20210917160500 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「素敵な夜」うた：Ｖ６／「スナビキソウ」うた：遥海</desc>
-  </programme>
-  <programme start="20210917160500 +0900" stop="20210917162000 +0900" channel="eTele.jp">
-    <title lang="en">いないいないばあっ!</title>
-    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-  </programme>
-  <programme start="20210917162000 +0900" stop="20210917164400 +0900" channel="eTele.jp">
-    <title lang="en">おかあさんといっしょ</title>
-    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
-  </programme>
-  <programme start="20210917164400 +0900" stop="20210917164500 +0900" channel="eTele.jp">
-    <title lang="en">おかあさんといっしょ体操</title>
-    <desc lang="en">「おかあさんといっしょ」の体操「からだ☆ダンダン」の１分バージョン！すわったまま体操できるユニバーサル版。</desc>
   </programme>
   <programme start="20210917164500 +0900" stop="20210917170000 +0900" channel="eTele.jp">
     <title lang="en">みいつけた!</title>
@@ -554,6 +526,10 @@
     <title lang="en">第33回全日本高校・大学ダンスフェスティバル</title>
     <desc lang="en">創作ダンスの全国大会。コロナ禍で２年ぶりの開催となった今回、高校生・大学生が思いを込めて披露した情熱あふれる演技は必見！自身も出場経験がある土屋太鳳が案内する。</desc>
   </programme>
+  <programme start="20210918170000 +0900" stop="20210918172400 +0900" channel="eTele.jp">
+    <title lang="en">おかあさんといっしょ</title>
+    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+  </programme>
   <programme start="20210917155000 +0900" stop="20210917190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
     <desc lang="en">台風14号３連休直撃へ暴風と激しい雨に警戒▽総裁選ついに告示日４人での決戦に火ぶた▽“第６波”懸念の中またも“音楽フェス”“３回目接種”議論へ</desc>
@@ -656,10 +632,14 @@
     <title lang="en">2021ANAオープンゴルフトーナメント</title>
     <desc lang="en">ホストプロの石川遼、池田勇太が特別な思いで参戦▼前回は男子ツアー初５人プレーオフの激闘▼順位変動が大きい３日目にスコアを伸ばして優勝争いへ名乗り挙げるのは誰か？</desc>
   </programme>
-<programme start="20210917154300 +0900" stop="20210917164000 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season17</title>
-  <desc lang="en">「９９％の女」水谷豊、反町隆史(他)▽経産省のキャリア官僚が殺された。容疑者はかつて機密情報漏洩で有罪判決を受けた女。しかも彼女を起訴した元検事が弁護人として現れ…</desc>
-</programme>
+  <programme start="20210918165500 +0900" stop="20210918170000 +0900" channel="NipponTV.jp">
+    <title lang="en">一行ポップ</title>
+    <desc lang="en">言葉のプロが一行のコピーで番組の魅力を表現。</desc>
+  </programme>
+  <programme start="20210918170000 +0900" stop="20210918173000 +0900" channel="NipponTV.jp">
+    <title lang="en">news every.サタデー</title>
+    <desc lang="en">最新のニュース、気になる気象情報を詳しく分かりやすくお伝えします。</desc>
+  </programme>
 <programme start="20210917164000 +0900" stop="20210917184500 +0900" channel="Asahi.jp">
   <title lang="en">スーパーJチャンネル</title>
   <desc lang="en">自民総裁選きょう告示…各候補訴え水面下では▽週末厳戒！台風接近▽謎の渋滞に謎の減速…切実「０時待ち」事情▽人気駅弁が通販解禁“幻”を行かず堪能‼(他)</desc>
@@ -820,6 +800,14 @@
   <desc lang="en">HiHi Jetsと美 少年の真剣勝負、〜バトるHiHi少年〜
 今回のミッションは…『全員成功バトル！！』</desc>
 </programme>
+<programme start="20210918163000 +0900" stop="20210918170000 +0900" channel="Asahi.jp">
+  <title lang="en">クレヨンしんちゃん</title>
+  <desc lang="en">おベンジャーズ、集ケツせよ！みさえの平和は防衛隊に託された…みさえのお腹にいるジャンボベンを倒すため送り込まれたしんのすけ。そこでヒーローチームを結成する</desc>
+</programme>
+<programme start="20210918170000 +0900" stop="20210918173000 +0900" channel="Asahi.jp">
+  <title lang="en">ドラえもん</title>
+  <desc lang="en">タイムマシンでスズムシを探そう！！『月の光と虫の声』夢の中でやったつもりになれる！？『ツモリガン』</desc>
+</programme>
 <programme start="20210917154900 +0900" stop="20210917190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">総裁候補の公約深掘り　コロナ対策は？経済は▽警戒！勢力保ち上陸　台風１４号最新情報は▽入院患者の約半数がブレイクスルー感染…▽宣言下のシルバーＷ</desc>
@@ -948,9 +936,13 @@
   <title lang="en">「坂上指原のつぶれない店」ダイジェスト</title>
   <desc lang="en">明日よる７時！焼肉ライク代表が立て直した「白いメンチカツ店」などが今どうなってるかをリサーチ！今回はかつや社長の京都の「カレー店」への立て直しの一部始終を追う。</desc>
 </programme>
-<programme start="20210917154000 +0900" stop="20210917165400 +0900" channel="TVTokyo.jp">
-  <title lang="en">よじごじDays</title>
-  <desc lang="en">鎌倉〜江の島を絶景サイクリング▽長谷寺から望む湘南の海岸▽鎌倉山の広大な庭園で豪華ランチ会席▽海一望のテラス席で優雅なティータイム▽江の島の夕日は見られるのか？</desc>
+<programme start="20210918163000 +0900" stop="20210918170000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">佐世保のスタジオから生放送だからできる旬な商品をお届けするテレビショッピング！期間限定商品を手にする大チャンス！是非お見逃しなく！</desc>
+</programme>
+<programme start="20210918170000 +0900" stop="20210918173000 +0900" channel="TBS2.jp">
+  <title lang="en">バース・デイ</title>
+  <desc lang="en">テレビでは初共演となった桑田親子に東山紀之が自宅に直撃取材の後編。桑田家の自宅に飾ってあったのは桑田真澄の野球人生を表したあるコレクション。知られざる秘話が…</desc>
 </programme>
 <programme start="20210917165400 +0900" stop="20210917170000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゆうがたサテライト</title>
@@ -1279,14 +1271,6 @@
   <title lang="en">ツギクル芸人グランプリ2021</title>
   <desc lang="en">新人から実力派中堅まで、熾烈な予選を勝ち抜いたお笑い界の次世代を担う１５組による勝ち抜き戦！１５組の中から見事栄冠を勝ち取るのはいったい誰なのか！？</desc>
 </programme>
-<programme start="20210917153000 +0900" stop="20210917160000 +0900" channel="Tokyo MX">
-  <title lang="en">花道だけ歩きましょう〜恋の花が咲きました〜</title>
-  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
-</programme>
-<programme start="20210917160000 +0900" stop="20210917163000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20210917163000 +0900" stop="20210917170000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
@@ -1502,6 +1486,14 @@
 <programme start="20210918160000 +0900" stop="20210918163000 +0900" channel="Tokyo MX">
   <title lang="en">おにぎりあたためますか</title>
   <desc lang="en">新シリーズ「山形の旅」に、山形出身の石沢綾子アナが初参戦！まず訪れたのは、石沢アナも大好きなソウルフードのお店。こんなの食べたことない！初体験のおいしさに感激！</desc>
+</programme>
+<programme start="20210918163000 +0900" stop="20210918170000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918170000 +0900" stop="20210918175500 +0900" channel="Tokyo MX">
+  <title lang="en">田村淳の訊きたい放題!</title>
+  <desc lang="en">都議会主要５会派討論会　東京のコロナ対策の課題は？▼ゲスト：都議会主要５会派議員／ジャーナリスト・鈴木哲夫▼田村淳／中村仁美</desc>
 </programme>
 <programme start="20210917050000 +0900" stop="20210917070000 +0900" channel="mnet.jp">
 <title lang="en">ユンステイ#5アンコール再放送</title>
