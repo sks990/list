@@ -54,18 +54,6 @@
     <display-name>Mnet JP</display-name>
     <icon src="https://asianwiki.com/images/6/63/Mnet-p1.png" />
   </channel>
-  <programme start="20210917130000 +0900" stop="20210917142800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210917142800 +0900" stop="20210917143800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210917143800 +0900" stop="20210917145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210917145000 +0900" stop="20210917150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">性犯罪をめぐる法制審議会の議論が始まる。最大の論点は処罰の要件を変えるべきか。今の刑法は要件が厳しすぎ、加害者が処罰を免れているという声も。議論の行方を考える。</desc>
@@ -297,18 +285,6 @@
   <programme start="20210918140000 +0900" stop="20210918160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20210917135000 +0900" stop="20210917140000 +0900" channel="eTele.jp">
-    <title lang="en">ピタゴラスイッチ</title>
-    <desc lang="en">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
-  </programme>
-  <programme start="20210917140000 +0900" stop="20210917142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 日本史</title>
-    <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
-  </programme>
-  <programme start="20210917142000 +0900" stop="20210917144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 世界史</title>
-    <desc lang="en">１５世紀、ポルトガルはアフリカの西岸を南下しアジアへ至る新航路を開拓します。目的のひとつはアジアのある物を直接取り引きすることでした。それは…。</desc>
   </programme>
   <programme start="20210917144000 +0900" stop="20210917150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 地理</title>
@@ -692,10 +668,14 @@
     <desc lang="en">新感覚報道バラエティ誕生。フカボリ記者が今、本当に知っておくべきニュースをお伝え。有働由美
 子が大興奮！バカリズムも仰天㊙取材裏側！SNSで40億円荒稼ぎ</desc>
   </programme>
-<programme start="20210917134900 +0900" stop="20210917144900 +0900" channel="Asahi.jp">
-  <title lang="en">漂着者</title>
-  <desc lang="en">「聖徳太子が１４００年前古文書に遺したこの国の巨大秘密⁉女性総理大臣が誕生」斎藤工(他)▽シャンデリアの落下によって総理大臣が死亡すると予言したヘミングウェイだが…</desc>
-</programme>
+  <programme start="20210918143000 +0900" stop="20210918150000 +0900" channel="NipponTV.jp">
+    <title lang="en">世界一受けたい授業</title>
+    <desc lang="en">今夜からよく眠れる！スタンフォード式睡眠法を紹介！寝る前にスプーン１杯のはちみつ▽パジャマを着るだけで睡眠の質が上がる▽寝る前にイメージするといいあるものとは？</desc>
+  </programme>
+  <programme start="20210918150000 +0900" stop="20210918160000 +0900" channel="NipponTV.jp">
+    <title lang="en">フレンズオンアイス2021〜今だから伝えられるスケーターの想い〜</title>
+    <desc lang="en">金メダリスト荒川静香プロデュースのアイスショー「フレンズオンアイス」が2年ぶりに開催！半年後に北京五輪を迎える宇野昌磨のプログラムをノーカットでお届け！</desc>
+  </programme>
 <programme start="20210917144900 +0900" stop="20210917154300 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女19</title>
   <desc lang="en">「凶器は花束⁉マリコｖｓ体内で宝石を作れる殺人犯の謎」沢口靖子(他)▽殺人未遂現場に残された謎の記号“ＹＹＹ”と、手帳に記された“赤い宝石”が示す驚きの意味とは…</desc>
@@ -850,6 +830,11 @@
 今夜６時56分からは豪華２時間ＳＰ！エジプト文明博士＆生物の進化博士が登場！
 お楽しみに！</desc>
 </programme>
+<programme start="20210918143000 +0900" stop="20210918153000 +0900" channel="Asahi.jp">
+  <title lang="en">かまいたちのいただきハウス</title>
+  <desc lang="en">ＭＣかまいたち×王林が「悩み」を抱えた依頼者の家を豪邸からのいただきモノで大変身させる新・お助けバラエティー！
+元プロ野球選手やセレブお嬢様宅で超高級品ゲット!?</desc>
+</programme>
 <programme start="20210917135500 +0900" stop="20210917154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">▼台風１４号あす上陸へ…日本列島を横断か　雨風ピークは？徹底解説▼自民党総裁選きょう告示　各候補の第一声アピールは　次の総裁は？最新情勢を専門家分析　(他)(予定)</desc>
@@ -968,6 +953,15 @@
 <programme start="20210918140000 +0900" stop="20210918145400 +0900" channel="TBS2.jp">
   <title lang="en">「再現できたら100万円!THE神業チャレンジ」ナビ</title>
   <desc lang="en">世界でバスっている“神業動画”を再現できたら１００万円！明日２１時〜ジェシー＆チョコプラも挑戦！時速160キロの豪速球を真剣で真っ二つ！神業抜刀▼目隠しピアノ</desc>
+</programme>
+<programme start="20210918145400 +0900" stop="20210918150000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20210918150000 +0900" stop="20210918153000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">安住香川両司会へ各局アナが熱血プレゼン「ウチのまちに中継来てよ！」。
+10月1日スタートの新番組での目玉企画「列島中継」も大盛り上がりの予感…。</desc>
 </programme>
 <programme start="20210917134000 +0900" stop="20210917154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -1156,9 +1150,20 @@
   <title lang="en"></title>
   <desc lang="en">前代未聞の裁判風通販が本日開廷！熱い男、虎ノ門勝男が商品の真の魅力を追求して、あらゆる疑惑に打ち勝つ逆転裁判劇！今回は話題のフィットネス商品で大論争！</desc>
 </programme>
-<programme start="20210917115500 +0900" stop="20210917144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">小室圭さんが一時帰国へ…眞子さまと会見か佳代さん元婚約者語る苦悩「解決とは何か」▽「恥ずべきこと」小山田圭吾ザンゲ告白▽日大背任事件…“ドン”関与否定</desc>
+<programme start="20210918142300 +0900" stop="20210918143000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
+</programme>
+<programme start="20210918143000 +0900" stop="20210918150000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">月曜から金曜まで毎日生放送「快適！ショッピングスタジオ」が土曜日午後に拡大！土曜日午後も長崎・佐世保のスタジオより元気に生放送！</desc>
+</programme>
+<programme start="20210918150000 +0900" stop="20210918160000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ウイニング競馬</title>
+  <desc lang="en">【中山】10Ｒ御宿特別
+　11Ｒ初風ステークス
+【中京】10Ｒ大府特別
+　11Ｒケフェウスステークス</desc>
 </programme>
 <programme start="20210917144500 +0900" stop="20210917154500 +0900" channel="FujiTV.jp">
   <title lang="en">ラジエーションハウス〜放射線科の診断レポート〜</title>
@@ -1275,6 +1280,15 @@
 <programme start="20210918133500 +0900" stop="20210918143000 +0900" channel="FujiTV.jp">
   <title lang="en">来週月曜よる7時〜お笑いオムニバスGPスペシャル</title>
   <desc lang="en">来週月曜よる７時〜「お笑いオムニバスＧＰ」を前に前回のバク速－１ＧＰを川島千鳥と復習▼チョコプラ＆マヂラブ＆カミナリ＆おいでやす＆ムール貝酒蒸しにして〜</desc>
+</programme>
+<programme start="20210918143000 +0900" stop="20210918143500 +0900" channel="FujiTV.jp">
+  <title lang="en">フジナビ!</title>
+  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
+見逃せない番組の見どころを紹介しちゃいます！</desc>
+</programme>
+<programme start="20210918143500 +0900" stop="20210918152500 +0900" channel="FujiTV.jp">
+  <title lang="en">潜入!リアルスコープ</title>
+  <desc lang="en">令和の進化に大潜入！超人気社会科見学バラエティーの第２弾の放送を記念して、前回の内容から一部を厳選してお届けします。</desc>
 </programme>
 <programme start="20210917135900 +0900" stop="20210917150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
@@ -1485,6 +1499,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210918140000 +0900" stop="20210918143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210918143000 +0900" stop="20210918150000 +0900" channel="Tokyo MX">
+  <title lang="en">熱烈!ホットサンド!</title>
+  <desc lang="en">熱烈！ＮＥＷジェネレーション</desc>
+</programme>
+<programme start="20210918150000 +0900" stop="20210918153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
