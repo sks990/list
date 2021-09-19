@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210920003500 +0900" stop="20210920022800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ライブ・エール 2021</title>
-    <desc lang="en">今こそ歌でエールを！コロナ禍に立ち向かう全ての人へ贈る。オープニングは東京五輪開会式で国歌斉唱で話題のＭＩＳＩＡ！司会の内村光良は今年もピアノ演奏に挑戦</desc>
-  </programme>
-  <programme start="20210920022800 +0900" stop="20210920023000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">おかえりモネ×未来へ17action</title>
-    <desc lang="en">「おかえりモネ」と「未来へ１７ａｃｔｉｏｎ」がコラボ！長濱ねるとサンドウィッチマンがドラマのさまざまなシーンからＳＤＧｓを見つけていくバラエティー豊かな２分間！</desc>
-  </programme>
   <programme start="20210920023000 +0900" stop="20210920032900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ザ少年倶楽部</title>
     <desc lang="en">年に一度の「ザ少年倶楽部ｉｎ大阪」！関西ジャニーズＪｒ．のパフォーマンスと彼らの意外な素顔をお届け。なにわ男子は新曲「夢わたし」を披露！Ｂｏｙｓ　ｂｅも初登場！</desc>
@@ -329,6 +321,14 @@
   <programme start="20210921013400 +0900" stop="20210921020900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">パラ×ドキュ</title>
     <desc lang="en">東京パラ、競泳の視覚障害クラス。１００ｍバタフライで日本選手がワンツーフィニッシュを決めた。暗闇を泳ぐ選手たち。メダルをつかむまでの知られざるストーリーに迫る。</desc>
+  </programme>
+  <programme start="20210921020900 +0900" stop="20210921021400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">２７日（月）午後４時２０分から再放送される連続テレビ小説「純ちゃんの応援歌」。主演の山口智子のインタビューなどを通じてドラマの魅力に迫る！</desc>
+  </programme>
+  <programme start="20210921021400 +0900" stop="20210921030300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">スポーツ×ヒューマン</title>
+    <desc lang="en">女性選手の「無月経」の問題を発信する陸上・新谷仁美選手。人種差別に苦しんだサッカー鈴木武蔵選手。心の傷と向き合い社会を変えようと行動するアスリートの決意に迫る。</desc>
   </programme>
   <programme start="20210920004500 +0900" stop="20210920053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -674,10 +674,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210920015000 +0900" stop="20210920022000 +0900" channel="NipponTV.jp">
-    <title lang="en">にけつッ!!</title>
-    <desc lang="en">千原ジュニアとケンドーコバヤシによる二人だけの喋り番組。打ち合わせや、台本は一切ありません。</desc>
-  </programme>
   <programme start="20210920022000 +0900" stop="20210920041500 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">上半期最終セール！ポシュレ人気商品が史上最安値連発！振動マシーン＆美顔器＆脱毛器＆マッサージチェア！人気の高機能シャワーヘッド、大粒ダイヤなども決算大放出！</desc>
@@ -875,6 +871,24 @@ by.Tiggs Da Author</desc>
   <title lang="en">さまぁ〜ず論</title>
   <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
 </programme>
+<programme start="20210921021600 +0900" stop="20210921023600 +0900" channel="Asahi.jp">
+  <title lang="en">トゲアリトゲナシトゲトゲ</title>
+  <desc lang="en">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
+令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
+</programme>
+<programme start="20210921023600 +0900" stop="20210921025600 +0900" channel="Asahi.jp">
+  <title lang="en">あのちゃんねる</title>
+  <desc lang="en">若い男女を中心にカリスマ的人気を誇る「あの」の初・冠番組‼▽出川哲朗からリアクション芸を学ぼうFINAL!!▽ザリガニチャレンジ、そしてサプライズバースデーケーキ!!</desc>
+</programme>
+<programme start="20210921025600 +0900" stop="20210921030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20210921030000 +0900" stop="20210921033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
+</programme>
 <programme start="20210920015800 +0900" stop="20210920040000 +0900" channel="TBS2.jp">
   <title lang="en">世界陸上 THE BEST</title>
   <desc lang="en">2019年カタールの首都ドーハで行われた世界陸上をプレイバック。男子4×100mリレーの日本の躍動をはじめ、世界の若き超人のパフォーマンスが蘇る。</desc>
@@ -959,13 +973,14 @@ by.Tiggs Da Author</desc>
   <title lang="en">イコノイ、どーですか?</title>
   <desc lang="en">指原莉乃がプロデュースするアイドル、＝ＬＯＶＥ（イコールラブ）と≠ＭＥ（ノットイコールミー）の冠番組。ＭＣニューヨークがメンバーたちの魅力を売り込みます！</desc>
 </programme>
-<programme start="20210920013500 +0900" stop="20210920020500 +0900" channel="TVTokyo.jp">
-  <title lang="en">東京リベンジャーズ</title>
-  <desc lang="en">初めて東卍の特攻服を着て集会へと参加したタケミチだったが、芭流覇羅が東卍の傘下にくだることを告げられ、愕然とする…。</desc>
+<programme start="20210921022800 +0900" stop="20210921023500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210920020500 +0900" stop="20210920023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">Mixalive presents 田村淳が豊島区池袋</title>
-  <desc lang="en">田村淳×Mixalive×池袋。最新スポットMixaliveにビジネス、カルチャーの最先端の方々が集結。田村淳とともに、池袋発の最新ムーブメントを生み出す！</desc>
+<programme start="20210921023500 +0900" stop="20210921034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20210920023500 +0900" stop="20210920030500 +0900" channel="TVTokyo.jp">
   <title lang="en">一夜づけ</title>
@@ -1112,9 +1127,17 @@ by.Tiggs Da Author</desc>
   <title lang="en">精霊幻想記</title>
   <desc lang="en">セリアを乗せた馬車が結婚式場の大神殿前に到着した時、パレードの人垣を縫って接近してくる黒い人影。護衛の騎士をねじ伏せ、セリアを連れて逃げるその人影はリオだった。</desc>
 </programme>
-<programme start="20210920015500 +0900" stop="20210920025500 +0900" channel="FujiTV.jp">
-  <title lang="en">ウワサのお客さま 次回9月24日(金)よる7時スタート</title>
-  <desc lang="en">サンドウィッチマン・麒麟川島ＭＣ。店員さんの間でウワサになっているお客さまにディープに密着！謎すぎる生態をウォッチング。消費者密着バラエティ。</desc>
+<programme start="20210921023000 +0900" stop="20210921023500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">９／２６(日)放送「タクシー運転手さん、一番うまい店に連れてって！」の見どころをご紹介します！</desc>
+</programme>
+<programme start="20210921023500 +0900" stop="20210921025000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">東京を舞台にした、女性たちの恋愛群像劇！パラビオリジナルドラマ「東京、愛だの、恋だの」をご紹介。今夜は気になる内容をちょっとだけお見せしちゃいます！</desc>
+</programme>
+<programme start="20210921025000 +0900" stop="20210921032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">プレミアMelodiX!</title>
+  <desc lang="en">【ゲスト】DA　PUMP、Da-iCE、WATWING　【ナビゲーター】南海キャンディーズ</desc>
 </programme>
 <programme start="20210920025500 +0900" stop="20210920030500 +0900" channel="FujiTV.jp">
   <title lang="en">中央競馬ダイジェスト</title>
@@ -1208,15 +1231,11 @@ by.Tiggs Da Author</desc>
   <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
   <desc lang="en">「錦秋特別公演２０２１」に中村鶴松が登場！中村勘九郎、中村七之助から愛のあるメッセージにタジタジ！？さらにハマっているスニーカー、サウナについても熱弁</desc>
 </programme>
-<programme start="20210920013500 +0900" stop="20210920020500 +0900" channel="Tokyo MX">
-  <title lang="en">ええじゃない課Biz</title>
-  <desc lang="en"> </desc>
+<programme start="20210921021500 +0900" stop="20210921031500 +0900" channel="FujiTV.jp">
+  <title lang="en">偶然見つけたハル</title>
+  <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
 </programme>
-<programme start="20210920020500 +0900" stop="20210920023500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210920023500 +0900" stop="20210920050000 +0900" channel="Tokyo MX">
+<programme start="20210920030000 +0900" stop="20210920050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1391,6 +1410,18 @@ by.Tiggs Da Author</desc>
 <programme start="20210921013500 +0900" stop="20210921020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210921020500 +0900" stop="20210921023400 +0900" channel="Tokyo MX">
+  <title lang="en">夏菜のWAZAARI〜日本e-sports応援宣言〜</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210921023400 +0900" stop="20210921023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210921023500 +0900" stop="20210921030500 +0900" channel="Tokyo MX">
+  <title lang="en">JOYnt! JOYのASOBU-TV</title>
+  <desc lang="en">入間国際宣言の改名宣言⁉　前編</desc>
 </programme>
 <programme start="20210919233000 +0900" stop="20210920020000 +0900" channel="FujiNext.jp">
 <title lang="en">SATANIC CARNIVAL 2021　＜DAY2＞</title>
@@ -1731,7 +1762,7 @@ by.Tiggs Da Author</desc>
 <desc>第13話「暮らしに潜む危機」
 ＜出演＞パク・ジニ　ポン・テギュ　イ・ギウ　ほか
 ▽企業の不正を暴き出す医師たちの姿を描いた医療捜査ドラマ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210919/6647066/image/f50b56a977bf278ad4ed347607c4b13f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210920030000 +0900" stop="20210920040000 +0900" channel="FujiTwo.jp">
