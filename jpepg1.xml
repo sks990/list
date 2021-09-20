@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210921004800 +0900" stop="20210921013400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SONGS</title>
-    <desc lang="en">桑田佳祐がＳＯＮＧＳに４年ぶりに登場！大泉洋と爆笑トーク▽新曲を中心に５曲をスタジオでスペシャルパフォーマンス▽番組史上初の特別企画も…！</desc>
-  </programme>
   <programme start="20210921013400 +0900" stop="20210921020900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">パラ×ドキュ</title>
     <desc lang="en">東京パラ、競泳の視覚障害クラス。１００ｍバタフライで日本選手がワンツーフィニッシュを決めた。暗闇を泳ぐ選手たち。メダルをつかむまでの知られざるストーリーに迫る。</desc>
@@ -309,6 +305,14 @@
   <programme start="20210922002000 +0900" stop="20210922010900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">２０２０年に放送し反響を呼んだＮＨＫスペシャルのアンコール。自らも認知症であることを公表した認知症医療の第一人者、長谷川和夫さん。その姿を一年に渡って記録した。</desc>
+  </programme>
+  <programme start="20210922010900 +0900" stop="20210922015400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">オリバーな犬、（Gosh!!）このヤロウ</title>
+    <desc lang="en">警察犬係の一平（池松壮亮）。ある日、詐欺事件のために出動すると相棒の警察犬オリバーがとんでもないものを見つけてしまい、想像を絶する事態に巻き込まれていく…。</desc>
+  </programme>
+  <programme start="20210922015400 +0900" stop="20210922023400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽ロシア　改革進むシベリア鉄道▽ブラジル　コーヒー産地の異変※ＳＤＧｓ企画▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20210921002500 +0900" stop="20210921053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -658,14 +662,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210921005900 +0900" stop="20210921012900 +0900" channel="NipponTV.jp">
-    <title lang="en">武士スタント逢坂くん!</title>
-    <desc lang="en">武士が漫画家のアシスタント（＝武士スタント）に！漫画に出会った逢坂くんが時代を超えて「エロ」と「恋」を追求するコメディ＃9「男を魅せるには相撲で勝負」</desc>
-  </programme>
-  <programme start="20210921012900 +0900" stop="20210921015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!</title>
-    <desc lang="en">乃木坂４６が昭和・平成の名曲を熱唱…今夜は「ラブソングSP」▽ドリカム「大阪LOVER」▽TEE「ベイビー・アイラブユー」▽掛橋が「なごり雪」弾き語り▽方言告白</desc>
-  </programme>
   <programme start="20210921015900 +0900" stop="20210921034400 +0900" channel="NipponTV.jp">
     <title lang="en">あなたの番です</title>
     <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！懐かしのあのキャラクターの大暴走や恐怖に震えた衝撃シーンをおさらいしよう！</desc>
@@ -763,18 +759,14 @@
     <desc lang="en">ｅスポーツ応援番組「ｅＧＧ」
 番組とコラボした中高生のシャドウバース日本一を決める「シャドバ甲子園２０２１」ＳＰ！決勝大会で見せた選手たちの泣き笑いに密着！</desc>
   </programme>
-<programme start="20210921005000 +0900" stop="20210921012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">人気企画「声優×芸人」！声優と芸人がお互いの良さを引き出していくコラボ企画！しずるの二人が考えた理想のシチュエーションを人気声優 井口裕香がアテレコ！</desc>
-</programme>
-<programme start="20210921012000 +0900" stop="20210921012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20210921012600 +0900" stop="20210921015600 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
+  <programme start="20210922014900 +0900" stop="20210922015500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210922015500 +0900" stop="20210922022500 +0900" channel="NipponTV.jp">
+    <title lang="en">HUNTER×HUNTER</title>
+    <desc lang="en">＃１３３「セイゾン×ノ×キゲン」</desc>
+  </programme>
 <programme start="20210921015600 +0900" stop="20210921021600 +0900" channel="Asahi.jp">
   <title lang="en">さまぁ〜ず論</title>
   <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
@@ -886,14 +878,18 @@ by.村治佳織</desc>
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
 </programme>
-<programme start="20210921005800 +0900" stop="20210921012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">シーズン4・決勝戦！“笑い”と“賞金”をソウドリするのは誰だ！？【男性ブランコvsなすなかにしvs学天即vsまんぷくユナイテッド】▼シーズン5の出場者も大発表！</desc>
+<programme start="20210922012000 +0900" stop="20210922012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20210921012800 +0900" stop="20210921015800 +0900" channel="TBS2.jp">
-  <title lang="en">週刊EXILE</title>
-  <desc lang="en">９月２７日にデビュー２０周年を迎えるEXILE。
-三週連続でEXILEメンバーがスタジオに登場！</desc>
+<programme start="20210922012600 +0900" stop="20210922015600 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
+</programme>
+<programme start="20210922015600 +0900" stop="20210922021600 +0900" channel="Asahi.jp">
+  <title lang="en">にゅーくりぃむ</title>
+  <desc lang="en">「○○に似てる！」額縁に入ったおいでやす小田＆錦鯉・長谷川が似てると言われたことがある人を当てろ！MCはアインシュタイン稲田！有田のツッコミで企画が始まらない…？</desc>
 </programme>
 <programme start="20210921015800 +0900" stop="20210921022800 +0900" channel="TBS2.jp">
   <title lang="en">イコノイ、どーですか?</title>
@@ -976,13 +972,13 @@ by.村治佳織</desc>
   <title lang="en">アメージパング!</title>
   <desc lang="en">過去7年間の放送の中からＶ６がとにかくはしゃいでいたシーンをピックアップ！</desc>
 </programme>
-<programme start="20210921000000 +0900" stop="20210921010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">田村淳が池袋Innovation Council</title>
-  <desc lang="en">池袋の街をバーチャル上に完全再現した「池袋ミラーワールド」。それを「リアルの池袋」と連動させ、新たな文化圏や経済圏を生み出す！様々なアイデアを徹底討論！</desc>
+<programme start="20210922012800 +0900" stop="20210922015800 +0900" channel="TBS2.jp">
+  <title lang="en">トーキョー製麺所</title>
+  <desc lang="en">第参話「メンチ勝つうどん」▼自らホールをやりたいと緑川（奥野壮）は店長・赤松（吉野北人）に提案をする。にぎわう店内には釜玉うどんを注文する常連客が来店。すると…</desc>
 </programme>
-<programme start="20210921010000 +0900" stop="20210921013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼ついに初ステージを迎えた新人研修生の舞台裏と本番のパフォーマンス！▼新たなサプライズに研修生たち喜び爆発</desc>
+<programme start="20210922015800 +0900" stop="20210922023800 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">大ヒット公開中！平野紫耀×橋本環奈 映画「かぐや様は告らせたい-ファイナル-」＆「サンリオ展」納言・薄幸が会場でカワイイを体感！ディノアライブ稽古場に田中が潜入</desc>
 </programme>
 <programme start="20210921013000 +0900" stop="20210921020000 +0900" channel="TVTokyo.jp">
   <title lang="en">うらみちお兄さん</title>
@@ -1148,13 +1144,13 @@ by.村治佳織</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20210921005500 +0900" stop="20210921012500 +0900" channel="FujiTV.jp">
-  <title lang="en">何するカトゥーン?</title>
-  <desc lang="en">ＫＡＴ－ＴＵＮデビュー１５周年を迎えたことを記念したアニバーサリー番組。ＫＡＴ－ＴＵＮ１５周年アニバーサリーイヤーの上半期集大成回！</desc>
+<programme start="20210922013000 +0900" stop="20210922013500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">９／２６(日)放送「タクシー運転手さん、一番うまい店に連れてって！」の見どころをご紹介します！</desc>
 </programme>
-<programme start="20210921012500 +0900" stop="20210921015000 +0900" channel="FujiTV.jp">
-  <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
-  <desc lang="en">魔女たちがリニューアル！川島明＆ＧＥＮＫＩＮＧがお届けするリアルトーク通販バラエティ！美容・健康・ファッションなどを徹底的に品定め＆本音トーク！！</desc>
+<programme start="20210922013500 +0900" stop="20210922020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
+  <desc lang="en">私たちをブッキングしてください！０円で！大盛真歩がまさかの出演決定連発！▽奇跡のコラボ！ナイツ塙×AKB４８で爆笑漫才誕生▽番組から重大発表</desc>
 </programme>
 <programme start="20210921015000 +0900" stop="20210921021500 +0900" channel="FujiTV.jp">
   <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
@@ -1244,17 +1240,13 @@ by.村治佳織</desc>
   <title lang="en">好きな人がいること</title>
   <desc lang="en">美咲を巡ってついに千秋が夏向に恋の宣戦布告！！美咲が選ぶのは果たして夏向か！？千秋か！？悩んだ結果、今夜遂に美咲が告白！！衝撃のラストに瞬き厳禁！！</desc>
 </programme>
-<programme start="20210921005600 +0900" stop="20210921010000 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210922012500 +0900" stop="20210922015500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「クリリンパワーアップ」</desc>
 </programme>
-<programme start="20210921010000 +0900" stop="20210921010500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210921010500 +0900" stop="20210921013500 +0900" channel="Tokyo MX">
-  <title lang="en">U字工事の旅!発見</title>
-  <desc lang="en">日光指物</desc>
+<programme start="20210922015500 +0900" stop="20210922035500 +0900" channel="FujiTV.jp">
+  <title lang="en">小泉孝太郎ムロツヨシ明日夜7時から放送第3弾は空自戦闘機で超絶体験直前SP</title>
+  <desc lang="en">第３弾はムロが航空自衛隊のＦ－１５戦闘機に乗って超絶体験！孝太郎は知られざるルーツの旅で涙。ムロ因縁の人気女優と２人の恩人俳優もサプライズで登場！</desc>
 </programme>
 <programme start="20210921013500 +0900" stop="20210921020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1440,10 +1432,18 @@ by.村治佳織</desc>
   <title lang="en">りばあす</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20210922010500 +0900" stop="20210922013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210922013500 +0900" stop="20210922020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">シンガーソングライターのキタニタツヤが登場！バンドやボカロＰとしての活動を経て、ベーシストとしても活動する彼の音楽バックボーンや、楽曲へ込めた想いに迫る！</desc>
+</programme>
 <programme start="20210921000000 +0900" stop="20210921020000 +0900" channel="FujiNext.jp">
 <title lang="en">TOKYO IDOL FESTIVAL 2020　密着！ドキュメンタリー</title>
 <desc>「TOKYO IDOL FESTIVAL 2020　密着!!スペシャルドキュメンタリー」　出演アイドルたちに密着したドキュメンタリーを特別放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210920/6654669/image/6c7023be89b676f4da9a0c491854b5f1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210921020000 +0900" stop="20210921050000 +0900" channel="FujiNext.jp">
@@ -1618,7 +1618,7 @@ https://otn.fujitv.co.jp
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210920/6654223/image/ac76255e3f703ea4d954247c06c0b7ed.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210921020000 +0900" stop="20210921023000 +0900" channel="FujiOne.jp">
@@ -2046,7 +2046,7 @@ https://otn.fujitv.co.jp
 <programme start="20210921003000 +0900" stop="20210921020000 +0900" channel="kbsworld.jp">
 <title lang="en">ユ・ヒヨルのスケッチブック　[字]</title>
 <desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210920/6652946/image/c3215e550be5b897d513f1b14ff1faf5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210921020000 +0900" stop="20210921031000 +0900" channel="kbsworld.jp">
