@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210921013400 +0900" stop="20210921020900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">パラ×ドキュ</title>
-    <desc lang="en">東京パラ、競泳の視覚障害クラス。１００ｍバタフライで日本選手がワンツーフィニッシュを決めた。暗闇を泳ぐ選手たち。メダルをつかむまでの知られざるストーリーに迫る。</desc>
-  </programme>
-  <programme start="20210921020900 +0900" stop="20210921021400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">２７日（月）午後４時２０分から再放送される連続テレビ小説「純ちゃんの応援歌」。主演の山口智子のインタビューなどを通じてドラマの魅力に迫る！</desc>
-  </programme>
   <programme start="20210921021400 +0900" stop="20210921030300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">スポーツ×ヒューマン</title>
     <desc lang="en">女性選手の「無月経」の問題を発信する陸上・新谷仁美選手。人種差別に苦しんだサッカー鈴木武蔵選手。心の傷と向き合い社会を変えようと行動するアスリートの決意に迫る。</desc>
@@ -313,6 +305,10 @@
   <programme start="20210922015400 +0900" stop="20210922023400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽ロシア　改革進むシベリア鉄道▽ブラジル　コーヒー産地の異変※ＳＤＧｓ企画▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210922023400 +0900" stop="20210922033400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。</desc>
   </programme>
   <programme start="20210921002500 +0900" stop="20210921053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -767,19 +763,10 @@
     <title lang="en">HUNTER×HUNTER</title>
     <desc lang="en">＃１３３「セイゾン×ノ×キゲン」</desc>
   </programme>
-<programme start="20210921015600 +0900" stop="20210921021600 +0900" channel="Asahi.jp">
-  <title lang="en">さまぁ〜ず論</title>
-  <desc lang="en">ゲストがさまぁ〜ずに「聞きたいこと・話したいこと」のトークテーマを持ってきて、これまで語られなかった“論”をぶつけ合う唯一無二のトーク番組</desc>
-</programme>
-<programme start="20210921021600 +0900" stop="20210921023600 +0900" channel="Asahi.jp">
-  <title lang="en">トゲアリトゲナシトゲトゲ</title>
-  <desc lang="en">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
-令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
-</programme>
-<programme start="20210921023600 +0900" stop="20210921025600 +0900" channel="Asahi.jp">
-  <title lang="en">あのちゃんねる</title>
-  <desc lang="en">若い男女を中心にカリスマ的人気を誇る「あの」の初・冠番組‼▽出川哲朗からリアクション芸を学ぼうFINAL!!▽ザリガニチャレンジ、そしてサプライズバースデーケーキ!!</desc>
-</programme>
+  <programme start="20210922022500 +0900" stop="20210922032000 +0900" channel="NipponTV.jp">
+    <title lang="en">news zero×映画「竜とそばかすの姫」〜誰も見たことのない世界を〜</title>
+    <desc lang="en">佐藤健、常田大希から「アナ雪」デザイナーまで世界の才能が細田守最新作に集結▽チャート席巻歌姫「ベル」の正体は圧倒的才能シンガー▽声優初挑戦ＹＯＡＳＯＢＩ幾田りら</desc>
+  </programme>
 <programme start="20210921025600 +0900" stop="20210921030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -891,13 +878,22 @@ by.村治佳織</desc>
   <title lang="en">にゅーくりぃむ</title>
   <desc lang="en">「○○に似てる！」額縁に入ったおいでやす小田＆錦鯉・長谷川が似てると言われたことがある人を当てろ！MCはアインシュタイン稲田！有田のツッコミで企画が始まらない…？</desc>
 </programme>
-<programme start="20210921015800 +0900" stop="20210921022800 +0900" channel="TBS2.jp">
-  <title lang="en">イコノイ、どーですか?</title>
-  <desc lang="en">指原莉乃がプロデュースするアイドル、＝ＬＯＶＥ（イコールラブ）と≠ＭＥ（ノットイコールミー）の冠番組。ＭＣニューヨークがメンバーたちの魅力を売り込みます！</desc>
+<programme start="20210922021600 +0900" stop="20210922023600 +0900" channel="Asahi.jp">
+  <title lang="en">ぼる塾の煩悩ごはん</title>
+  <desc lang="en">シェフのあんりが考案したハイカロリー“煩悩ごはん”をむさぼり食べる深夜の飯テロバラエティ！ぼる塾とゲストのここでしか聞けない真剣トークも！</desc>
 </programme>
-<programme start="20210921022800 +0900" stop="20210921023500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20210922023600 +0900" stop="20210922025600 +0900" channel="Asahi.jp">
+  <title lang="en">イグナッツ!!</title>
+  <desc lang="en">DJ松永のオリンピック閉会式出演＆EXITのＭステ出演を記念してフリートークをお届け‼</desc>
+</programme>
+<programme start="20210922025600 +0900" stop="20210922030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20210922030000 +0900" stop="20210922033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20210921023500 +0900" stop="20210921034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -980,21 +976,14 @@ by.村治佳織</desc>
   <title lang="en">アカデミーナイトG</title>
   <desc lang="en">大ヒット公開中！平野紫耀×橋本環奈 映画「かぐや様は告らせたい-ファイナル-」＆「サンリオ展」納言・薄幸が会場でカワイイを体感！ディノアライブ稽古場に田中が潜入</desc>
 </programme>
-<programme start="20210921013000 +0900" stop="20210921020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">うらみちお兄さん</title>
-  <desc lang="en">裏道のある言葉を聞いて、兎原と熊谷は彼との出会いを振り返る。それは体育大時代。体操のスター選手だった裏道が、2人の相部屋にたまたま居候してきたのが始まりだった…</desc>
+<programme start="20210922023800 +0900" stop="20210922024500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210921020000 +0900" stop="20210921023000 +0900" channel="TVTokyo.jp">
-  <title lang="en">精霊幻想記</title>
-  <desc lang="en">セリアを乗せた馬車が結婚式場の大神殿前に到着した時、パレードの人垣を縫って接近してくる黒い人影。護衛の騎士をねじ伏せ、セリアを連れて逃げるその人影はリオだった。</desc>
-</programme>
-<programme start="20210921023000 +0900" stop="20210921023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">９／２６(日)放送「タクシー運転手さん、一番うまい店に連れてって！」の見どころをご紹介します！</desc>
-</programme>
-<programme start="20210921023500 +0900" stop="20210921025000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">東京を舞台にした、女性たちの恋愛群像劇！パラビオリジナルドラマ「東京、愛だの、恋だの」をご紹介。今夜は気になる内容をちょっとだけお見せしちゃいます！</desc>
+<programme start="20210922024500 +0900" stop="20210922034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20210921025000 +0900" stop="20210921032000 +0900" channel="TVTokyo.jp">
   <title lang="en">プレミアMelodiX!</title>
@@ -1152,9 +1141,17 @@ by.村治佳織</desc>
   <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
   <desc lang="en">私たちをブッキングしてください！０円で！大盛真歩がまさかの出演決定連発！▽奇跡のコラボ！ナイツ塙×AKB４８で爆笑漫才誕生▽番組から重大発表</desc>
 </programme>
-<programme start="20210921015000 +0900" stop="20210921021500 +0900" channel="FujiTV.jp">
-  <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
-  <desc lang="en">「錦秋特別公演２０２１」に中村鶴松が登場！中村勘九郎、中村七之助から愛のあるメッセージにタジタジ！？さらにハマっているスニーカー、サウナについても熱弁</desc>
+<programme start="20210922020500 +0900" stop="20210922023500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
+</programme>
+<programme start="20210922023500 +0900" stop="20210922024000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">この番組では、「TOKYO　CALLING　presents　Live！Livee！Liveee！」の様子を中心に、イベントと連動した最新情報をお届けします！</desc>
+</programme>
+<programme start="20210922024000 +0900" stop="20210922032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">きのう何食べた?</title>
+  <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ▼両親との会話で心がモヤモヤしてしまった史朗（西島秀俊）。そんな本音を打ち明けた相手とは…。</desc>
 </programme>
 <programme start="20210921021500 +0900" stop="20210921031500 +0900" channel="FujiTV.jp">
   <title lang="en">偶然見つけたハル</title>
@@ -1247,18 +1244,6 @@ by.村治佳織</desc>
 <programme start="20210922015500 +0900" stop="20210922035500 +0900" channel="FujiTV.jp">
   <title lang="en">小泉孝太郎ムロツヨシ明日夜7時から放送第3弾は空自戦闘機で超絶体験直前SP</title>
   <desc lang="en">第３弾はムロが航空自衛隊のＦ－１５戦闘機に乗って超絶体験！孝太郎は知られざるルーツの旅で涙。ムロ因縁の人気女優と２人の恩人俳優もサプライズで登場！</desc>
-</programme>
-<programme start="20210921013500 +0900" stop="20210921020500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210921020500 +0900" stop="20210921023400 +0900" channel="Tokyo MX">
-  <title lang="en">夏菜のWAZAARI〜日本e-sports応援宣言〜</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210921023400 +0900" stop="20210921023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20210921023500 +0900" stop="20210921030500 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1439,6 +1424,18 @@ by.村治佳織</desc>
 <programme start="20210922013500 +0900" stop="20210922020500 +0900" channel="Tokyo MX">
   <title lang="en">69号室の住人</title>
   <desc lang="en">シンガーソングライターのキタニタツヤが登場！バンドやボカロＰとしての活動を経て、ベーシストとしても活動する彼の音楽バックボーンや、楽曲へ込めた想いに迫る！</desc>
+</programme>
+<programme start="20210922020500 +0900" stop="20210922023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210922023400 +0900" stop="20210922023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210922023500 +0900" stop="20210922030500 +0900" channel="Tokyo MX">
+  <title lang="en">キラ×バズTV!?</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20210921000000 +0900" stop="20210921020000 +0900" channel="FujiNext.jp">
 <title lang="en">TOKYO IDOL FESTIVAL 2020　密着！ドキュメンタリー</title>
