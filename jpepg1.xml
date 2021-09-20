@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210920124500 +0900" stop="20210920130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 おかえりモネ</title>
-    <desc lang="en">登米から東京に菅波（坂口健太郎）がやって来る。２人が話していると、明日美（恒松祐里）から「龍己（藤竜也）のカキ棚が突風で、大きな被害を受けている」と連絡が入る。</desc>
-  </programme>
-  <programme start="20210920130000 +0900" stop="20210920130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210920130500 +0900" stop="20210920143500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">松本清張ドラマ「黒い画集〜証言〜」</title>
     <desc lang="en">良き夫であり誠実な医師と評判の貞一郎（谷原章介）には不倫相手の智久（浅香航大）がいた。この秘密を守るため、貞一郎はある殺人事件について偽証をするはめになる。</desc>
@@ -298,21 +290,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210920125500 +0900" stop="20210920130000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「クマのぬいぐるみ」／「アフターマン」／「ユア　ハンド　マイ　ハート　〜Ｙｏｕｒ　Ｈａｎｄ，Ｍｙ　Ｈｅａｒｔ〜」／「恋するニワトリ」</desc>
+  <programme start="20210921130500 +0900" stop="20210921135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">列島ニュース</title>
+    <desc lang="en">ＮＨＫ各放送局のお昼のニュースを集めて、キーステーションの大阪拠点放送局からお届け。地域の最新ニュース、新型コロナ関連の情報などをダイジェストでお伝えします。</desc>
   </programme>
-  <programme start="20210920130000 +0900" stop="20210920130500 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】工藤咲子</desc>
+  <programme start="20210921135500 +0900" stop="20210921140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">多胡肇、加藤由美子、原川愛、吉江晴菜、矢作あかり</desc>
   </programme>
-  <programme start="20210920130500 +0900" stop="20210920133500 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">千原ジュニアと“濃すぎる”面々が、時事のあれこれをざっくばらんに語るトークバラエティー！今回はパラスポーツ、暑すぎ問題、選挙で困る“アレ”をぶっちゃけます！</desc>
-  </programme>
-  <programme start="20210920133500 +0900" stop="20210920135000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">感染対策のために新しい生活様式になってから、なぜか頭が痛くなることが多くなった…という人いませんか？それ、もしかしたら「ステイホーム」が原因の頭痛かも！？</desc>
+  <programme start="20210921140000 +0900" stop="20210921140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210920135000 +0900" stop="20210920140000 +0900" channel="eTele.jp">
     <title lang="en">視点・論点</title>
@@ -658,9 +646,21 @@
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】小野寺善子</desc>
   </programme>
-  <programme start="20210920115500 +0900" stop="20210920135500 +0900" channel="NipponTV.jp">
-    <title lang="en">ヒルナンデス!</title>
-    <desc lang="en">バスケットボール女子日本代表が集結！にこるんがエブリンの私服を大変身！▽マイナス12°Cの空間で作る氷彫刻アート！日本代表ＶＳナンチャンフリースロー対決も！</desc>
+  <programme start="20210921130500 +0900" stop="20210921133500 +0900" channel="eTele.jp">
+    <title lang="en">ハートネットTV</title>
+    <desc lang="en">コロナで分断された世界を歌でつなぐプロジェクト。日本の歌「アイタイ！」でつながりあう世界の人々を通し、コロナ禍で抱える思いや多様な生き方を見つめる。ダンスも！</desc>
+  </programme>
+  <programme start="20210921133500 +0900" stop="20210921135000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">新しい生活様式になってから頭が痛くなることが多くなった…その原因、実はマスクかも？「酸素不足」「蒸し暑い」「耳が痛い」。そんなストレスが頭痛につながります。</desc>
+  </programme>
+  <programme start="20210921135000 +0900" stop="20210921140000 +0900" channel="eTele.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「思うは招く」植松努（ロケット開発者）</desc>
+  </programme>
+  <programme start="20210921140000 +0900" stop="20210921141000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 あらためまして ベーシック国語</title>
+    <desc lang="en">国語の基本をあらためて学ぶ講座バラエティー。滝沢カレンと金田一秀穂先生、そして謎のオウムが授業を行う。テーマは「適切な表現」カレンさんが感嘆した文章とは！？</desc>
   </programme>
   <programme start="20210920135500 +0900" stop="20210920155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
@@ -758,23 +758,10 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">▼山崎まさよしとカインズで便利グッズ探し▼秋の大北海道展特集！一度は食べてみたい歴代随一の贅沢弁当▼家事が楽になる“ストレスフリーハウス”見学</desc>
   </programme>
-<programme start="20210920102500 +0900" stop="20210920130000 +0900" channel="Asahi.jp">
-  <title lang="en">大下容子ワイド!スクランブル</title>
-  <desc lang="en">議員・党員票の情勢は？総裁選序盤戦を分析▽イラン新大統領が初の外遊…米と対立鮮明▽新安保「米英豪」多難の船出▽北海道荒らすヒグマ恐怖生態▽新宇宙旅行</desc>
-</programme>
-<programme start="20210920130000 +0900" stop="20210920133000 +0900" channel="Asahi.jp">
-  <title lang="en">徹子の部屋</title>
-  <desc lang="en">〜“小脳出血”と“脳梗塞”…衝撃の瞬間を〜加山雄三さんが今日のゲストです。</desc>
-</programme>
-<programme start="20210920133000 +0900" stop="20210920134500 +0900" channel="Asahi.jp">
-  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
-  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え、上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
-今日の料理は、甘辛味でご飯がすすむ和の一品！</desc>
-</programme>
-<programme start="20210920134500 +0900" stop="20210920134900 +0900" channel="Asahi.jp">
-  <title lang="en">東京サイト</title>
-  <desc lang="en">東京都では「シン・トセイ」と銘打ち、様々なサービスの質を向上させるため都政の構造改革を進めています。そのキーワードはデジタル化。新設された未来型オフィスとは？</desc>
-</programme>
+  <programme start="20210921135500 +0900" stop="20210921155000 +0900" channel="NipponTV.jp">
+    <title lang="en">情報ライブ ミヤネ屋</title>
+    <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+  </programme>
 <programme start="20210920134900 +0900" stop="20210920144900 +0900" channel="Asahi.jp">
   <title lang="en">都市伝説の女1</title>
   <desc lang="en">「人気パワースポット首塚の祟り⁉玉の輿で死んだ女」長澤まさみ(他)▽美しすぎる新米刑事・音無月子は大の都市伝説オタク。どんな事件も都市伝説が絡むと信じる彼女は…</desc>
@@ -886,9 +873,18 @@ by.Tiggs Da Author</desc>
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜樹木希林さんが逝き３年…最愛の母との“共通点”に驚き〜浅田美代子さんが今日のゲストです。</desc>
 </programme>
-<programme start="20210920110000 +0900" stop="20210920135500 +0900" channel="TBS2.jp">
-  <title lang="en">ひるおび!</title>
-  <desc lang="en">▽大混戦！自民党総裁選の争点は？情勢を左右する討論会を徹底分析！▽ワクチン３回目接種へ…効果は？接種時期は？各国で分かれる対応▽世界初！民間人だけの宇宙旅行とは</desc>
+<programme start="20210921133000 +0900" stop="20210921134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理はいつもの素材が新しい味わいに変身！</desc>
+</programme>
+<programme start="20210921134500 +0900" stop="20210921134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">東京都が「シン・トセイ」と銘打ち、進めている都政の構造改革。その一つとして都庁周辺の歩道に「スマートポール」という機械を設置。混雑緩和に向けた驚きの機能とは？</desc>
+</programme>
+<programme start="20210921134900 +0900" stop="20210921144500 +0900" channel="Asahi.jp">
+  <title lang="en">女帝 薫子</title>
+  <desc lang="en">「銀座の№１ホステスｖｓ復讐の秋田美人‼」桐谷美玲(他)▽“薫子”という女性を巡り、２人の女が夜の銀座にやってきた。紗也と美樹、銀座の街で激しいバトルを繰り広げる…</desc>
 </programme>
 <programme start="20210920135500 +0900" stop="20210920154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -974,9 +970,9 @@ by.Tiggs Da Author</desc>
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
-<programme start="20210920120000 +0900" stop="20210920130000 +0900" channel="TVTokyo.jp">
-  <title lang="en">伝統から未来へ -アイヌ文化の担い手たち-</title>
-  <desc lang="en">アイヌ文化の継承、発展をテーマに今を生きるアイヌの人々、そしてアイヌ文化を未来へつなぐ姿などを伝えます。</desc>
+<programme start="20210921135500 +0900" stop="20210921154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」をやさしくお伝えします！</desc>
 </programme>
 <programme start="20210920130000 +0900" stop="20210920150000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -1143,6 +1139,10 @@ by.Tiggs Da Author</desc>
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽千葉県香取市…さつま芋農家の焼きいもポテトサラダ▽里芋農家の唐揚げ＆ヨーグルトデザート▽岩手県宮古市…新鮮ホヤ＆スルメイカの酢漬け</desc>
 </programme>
+<programme start="20210921134000 +0900" stop="20210921154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">楽しいはずの川釣りツアーが一変、襲いかかる巨大人食いワニの恐怖！あなたの知らない最も残酷な実話…叫び声すら噛み砕かれる！絶体絶命…戦慄のサバイバル！</desc>
+</programme>
 <programme start="20210920115500 +0900" stop="20210920144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">「純烈」リーダーを脅迫…包丁送りつけた女の素顔▽台風影響も“観客行列”千葉・音楽フェス開催▽３回目接種実施へ…２回目終え８カ月以上“異なるワクチン”も</desc>
@@ -1234,14 +1234,6 @@ by.Tiggs Da Author</desc>
 <programme start="20210921115500 +0900" stop="20210921144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
-</programme>
-<programme start="20210920123000 +0900" stop="20210920130000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210920130000 +0900" stop="20210920135500 +0900" channel="Tokyo MX">
-  <title lang="en">キム秘書はいったい、なぜ?</title>
-  <desc lang="en">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
 </programme>
 <programme start="20210920135500 +0900" stop="20210920140000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -1434,6 +1426,14 @@ by.Tiggs Da Author</desc>
 <programme start="20210921130000 +0900" stop="20210921135500 +0900" channel="Tokyo MX">
   <title lang="en">太陽の末裔</title>
   <desc lang="en">第１０話「結ばれた想い」〔字幕スーパー〕</desc>
+</programme>
+<programme start="20210921135500 +0900" stop="20210921140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20210921140000 +0900" stop="20210921143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20210919233000 +0900" stop="20210920020000 +0900" channel="FujiNext.jp">
 <title lang="en">SATANIC CARNIVAL 2021　＜DAY2＞</title>
@@ -1898,7 +1898,7 @@ https://otn.fujitv.co.jp
 <title lang="en">番組PR【9月】</title>
 <desc>＜番組に関する情報は・・・＞
 https://otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210920/6654726/image/4360380c28e48a6dce3ac1172a96ebc2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210920140000 +0900" stop="20210920151000 +0900" channel="FujiTwo.jp">
