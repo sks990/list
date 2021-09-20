@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210921021400 +0900" stop="20210921030300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">スポーツ×ヒューマン</title>
-    <desc lang="en">女性選手の「無月経」の問題を発信する陸上・新谷仁美選手。人種差別に苦しんだサッカー鈴木武蔵選手。心の傷と向き合い社会を変えようと行動するアスリートの決意に迫る。</desc>
-  </programme>
   <programme start="20210921030300 +0900" stop="20210921040300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパの様々（さまざま）な教会を紹介する。</desc>
@@ -309,6 +305,10 @@
   <programme start="20210922023400 +0900" stop="20210922033400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。</desc>
+  </programme>
+  <programme start="20210922033400 +0900" stop="20210922040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
   </programme>
   <programme start="20210921002500 +0900" stop="20210921053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -658,22 +658,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210921015900 +0900" stop="20210921034400 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です</title>
-    <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！懐かしのあのキャラクターの大暴走や恐怖に震えた衝撃シーンをおさらいしよう！</desc>
-  </programme>
-  <programme start="20210921034400 +0900" stop="20210921034900 +0900" channel="NipponTV.jp">
-    <title lang="en">映画『竜とそばかすの姫』</title>
-    <desc lang="en">大ヒット上映中「竜とそばかすの姫」。カンヌ国際映画祭でのワールドプレミア、長時間の拍手喝采の密着映像!!必見㊙アフレコ舞台裏・中村佳穂×幾田りらＳＰ対談!!</desc>
-  </programme>
-  <programme start="20210921034900 +0900" stop="20210921035400 +0900" channel="NipponTV.jp">
-    <title lang="en">「バンクシーって誰?展」</title>
-    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
-  </programme>
-  <programme start="20210921035400 +0900" stop="20210921035900 +0900" channel="NipponTV.jp">
-    <title lang="en">5分で分かる!映画ヒロアカ</title>
-    <desc lang="en">『僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション』の劇場公開を記念して、僕のヒーローアカデミアシリーズを一挙おさらい！</desc>
-  </programme>
   <programme start="20210921035900 +0900" stop="20210921040000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレみどころ</title>
     <desc lang="en"></desc>
@@ -767,15 +751,10 @@
     <title lang="en">news zero×映画「竜とそばかすの姫」〜誰も見たことのない世界を〜</title>
     <desc lang="en">佐藤健、常田大希から「アナ雪」デザイナーまで世界の才能が細田守最新作に集結▽チャート席巻歌姫「ベル」の正体は圧倒的才能シンガー▽声優初挑戦ＹＯＡＳＯＢＩ幾田りら</desc>
   </programme>
-<programme start="20210921025600 +0900" stop="20210921030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20210921030000 +0900" stop="20210921033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20210922032000 +0900" stop="20210922042000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
+  </programme>
 <programme start="20210921033000 +0900" stop="20210921040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -895,10 +874,13 @@ by.村治佳織</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20210921023500 +0900" stop="20210921034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20210922033000 +0900" stop="20210922040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20210922040000 +0900" stop="20210922045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「乙女の祈り、お手つき志願⁉」松平健(他)▽女衒(ぜげん)に追われていた二人の娘を助け、め組に連れ帰った吉宗。だが後日、その女衒が侍に殺されるという騒ぎが持ち上がる。</desc>
 </programme>
 <programme start="20210921034500 +0900" stop="20210921042500 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -985,17 +967,9 @@ by.村治佳織</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20210921025000 +0900" stop="20210921032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】DA　PUMP、Da-iCE、WATWING　【ナビゲーター】南海キャンディーズ</desc>
-</programme>
-<programme start="20210921032000 +0900" stop="20210921035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あにレコTV</title>
-  <desc lang="en">▽新アニメ「進化の実〜知らないうちに勝ち組人生〜」特集！下野紘、花澤香菜がVTRで登場！▽「ドラゴンクエスト　ダイの大冒険」特集！ポップの成長をピックアップ！</desc>
-</programme>
-<programme start="20210921035000 +0900" stop="20210921035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+<programme start="20210922034500 +0900" stop="20210922042500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20210921035500 +0900" stop="20210921041000 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
@@ -1153,13 +1127,13 @@ by.村治佳織</desc>
   <title lang="en">きのう何食べた?</title>
   <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ▼両親との会話で心がモヤモヤしてしまった史朗（西島秀俊）。そんな本音を打ち明けた相手とは…。</desc>
 </programme>
-<programme start="20210921021500 +0900" stop="20210921031500 +0900" channel="FujiTV.jp">
-  <title lang="en">偶然見つけたハル</title>
-  <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
+<programme start="20210922032000 +0900" stop="20210922035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">高嶺のハナさん</title>
+  <desc lang="en">華(泉里香)は、弱木(小越勇輝)の自宅で炭酸飲料でズブ濡れに。更田(猪塚健太)は弱木に、華を諦めろという。弱木は自信を無くし、華に別れを告げようとするが。</desc>
 </programme>
-<programme start="20210921031500 +0900" stop="20210921034500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+<programme start="20210922035000 +0900" stop="20210922040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">東京で生きる女性たちのリアルな悩みを描く、パラビオリジナルドラマ！「東京、愛だの、恋だの」をご紹介。今夜も気になる内容をちょっとだけお見せします！！</desc>
 </programme>
 <programme start="20210921034500 +0900" stop="20210921040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1245,13 +1219,13 @@ by.村治佳織</desc>
   <title lang="en">小泉孝太郎ムロツヨシ明日夜7時から放送第3弾は空自戦闘機で超絶体験直前SP</title>
   <desc lang="en">第３弾はムロが航空自衛隊のＦ－１５戦闘機に乗って超絶体験！孝太郎は知られざるルーツの旅で涙。ムロ因縁の人気女優と２人の恩人俳優もサプライズで登場！</desc>
 </programme>
-<programme start="20210921023500 +0900" stop="20210921030500 +0900" channel="Tokyo MX">
-  <title lang="en">JOYnt! JOYのASOBU-TV</title>
-  <desc lang="en">入間国際宣言の改名宣言⁉　前編</desc>
-</programme>
-<programme start="20210921030500 +0900" stop="20210921033500 +0900" channel="Tokyo MX">
+<programme start="20210922035500 +0900" stop="20210922040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20210922040000 +0900" stop="20210922045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20210921033500 +0900" stop="20210921040000 +0900" channel="Tokyo MX">
   <title lang="en">洋上の楽園クルーズ</title>
@@ -1436,6 +1410,18 @@ by.村治佳織</desc>
 <programme start="20210922023500 +0900" stop="20210922030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20210922030500 +0900" stop="20210922033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210922033500 +0900" stop="20210922040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20210922040000 +0900" stop="20210922043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
 <programme start="20210921000000 +0900" stop="20210921020000 +0900" channel="FujiNext.jp">
 <title lang="en">TOKYO IDOL FESTIVAL 2020　密着！ドキュメンタリー</title>
