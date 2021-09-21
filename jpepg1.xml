@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210922002000 +0900" stop="20210922010900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">２０２０年に放送し反響を呼んだＮＨＫスペシャルのアンコール。自らも認知症であることを公表した認知症医療の第一人者、長谷川和夫さん。その姿を一年に渡って記録した。</desc>
-  </programme>
-  <programme start="20210922010900 +0900" stop="20210922015400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">オリバーな犬、（Gosh!!）このヤロウ</title>
-    <desc lang="en">警察犬係の一平（池松壮亮）。ある日、詐欺事件のために出動すると相棒の警察犬オリバーがとんでもないものを見つけてしまい、想像を絶する事態に巻き込まれていく…。</desc>
-  </programme>
   <programme start="20210922015400 +0900" stop="20210922023400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽中国「恒大グループ」経営悪化で世界株価下落▽米ファイザー５〜１１歳も接種対象申請へ▽国連総会首脳演説始まる▽改革進むシベリア鉄道▽ブラジル　コーヒー産地の異変</desc>
@@ -301,6 +293,14 @@
   <programme start="20210923003400 +0900" stop="20210923010100 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">所さん!大変ですよ</title>
     <desc lang="en">「介護」が必要な高齢ペットが増えている。おむつに流動食、老人ホームならぬ老犬ホームまで、ペット介護の最前線を取材。命を全うさせたいと奮闘する人々の思いとは。</desc>
+  </programme>
+  <programme start="20210923010100 +0900" stop="20210923013200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">有田P おもてなす</title>
+    <desc lang="en">ホラン千秋のために有田哲平がお笑いライブを開催。今夜、伝説のお笑い番組「爆笑オンエアバトル」が復活！おもてなす芸人磁石は見事オンエアを勝ち取ることができるか？！</desc>
+  </programme>
+  <programme start="20210923013200 +0900" stop="20210923021200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽スペイン　不法移民の若者に一流レストランで働く機会を※ＳＤＧｓ企画▽ベトナム　工場で寝泊まりも…曲がり角を向かえたベトナムの感染対策　※変更の可能性あり</desc>
   </programme>
   <programme start="20210922002500 +0900" stop="20210922053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,15 +646,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210922005900 +0900" stop="20210922014900 +0900" channel="NipponTV.jp">
-    <title lang="en">eGG</title>
-    <desc lang="en">ｅスポーツ応援番組「ｅＧＧ」
-番組とコラボした中高生のシャドウバース日本一を決める「シャドバ甲子園２０２１」ＳＰ！決勝大会で見せた選手たちの泣き笑いに密着！</desc>
-  </programme>
-  <programme start="20210922014900 +0900" stop="20210922015500 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210922015500 +0900" stop="20210922022500 +0900" channel="NipponTV.jp">
     <title lang="en">HUNTER×HUNTER</title>
     <desc lang="en">＃１３３「セイゾン×ノ×キゲン」</desc>
@@ -746,19 +737,14 @@
     <title lang="en">ラグビー応援TV ONEラグビー</title>
     <desc lang="en">五郎丸歩がその魅力をプレゼン！来年１月７日開幕「リーグワン」はココが変わる！最新施設潜入＆大補強の舞台裏＆異色コラボ＆リーグ参戦海外スター最新試合も！</desc>
   </programme>
-<programme start="20210922005000 +0900" stop="20210922012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
-</programme>
-<programme start="20210922012000 +0900" stop="20210922012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20210922012600 +0900" stop="20210922015600 +0900" channel="Asahi.jp">
-  <title lang="en">フリースタイルティーチャー</title>
-  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
-ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
-</programme>
+  <programme start="20210923012900 +0900" stop="20210923013500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210923013500 +0900" stop="20210923020500 +0900" channel="NipponTV.jp">
+    <title lang="en">浜ちゃんが!</title>
+    <desc lang="en">芸能人が愛用している「お取り寄せ」を披露し合う「お取り寄せグルメチャンピオン大会」あの人は一体どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
+  </programme>
 <programme start="20210922015600 +0900" stop="20210922021600 +0900" channel="Asahi.jp">
   <title lang="en">にゅーくりぃむ</title>
   <desc lang="en">「○○に似てる！」額縁に入ったおいでやす小田＆錦鯉・長谷川が似てると言われたことがある人を当てろ！MCはアインシュタイン稲田！有田のツッコミで企画が始まらない…？</desc>
@@ -867,13 +853,17 @@
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">「太田伯山ウイカのはなつまみ」世の中の厄介者・通称「はなつまみ」たちの対処法をビシっと解決！</desc>
 </programme>
-<programme start="20210922005800 +0900" stop="20210922012800 +0900" channel="TBS2.jp">
-  <title lang="en">アメージパング!</title>
-  <desc lang="en">過去7年間の放送の中からＶ６がとにかくはしゃいでいたシーンをピックアップ！</desc>
+<programme start="20210923012000 +0900" stop="20210923012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20210922012800 +0900" stop="20210922015800 +0900" channel="TBS2.jp">
-  <title lang="en">トーキョー製麺所</title>
-  <desc lang="en">第参話「メンチ勝つうどん」▼自らホールをやりたいと緑川（奥野壮）は店長・赤松（吉野北人）に提案をする。にぎわう店内には釜玉うどんを注文する常連客が来店。すると…</desc>
+<programme start="20210923012600 +0900" stop="20210923015600 +0900" channel="Asahi.jp">
+  <title lang="en">Break Out</title>
+  <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
+</programme>
+<programme start="20210923015600 +0900" stop="20210923021600 +0900" channel="Asahi.jp">
+  <title lang="en">まんが未知</title>
+  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◆人気ミュージシャン原作…ファンタジーとリアルが融合した「ゆさぶり系漫画」とは？</desc>
 </programme>
 <programme start="20210922015800 +0900" stop="20210922023800 +0900" channel="TBS2.jp">
   <title lang="en">アカデミーナイトG</title>
@@ -950,17 +940,13 @@
   <desc lang="en">埼玉県川口市が誇る町工場の技術力をご紹介！
 開発期間12年…ガラスを超える新素材プラスチックが凄い！</desc>
 </programme>
-<programme start="20210922003000 +0900" stop="20210922010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">芸人動画チューズデー</title>
-  <desc lang="en">かまいたち濱家がMC！新たなお笑い番組が始動！今アツい芸人５組が同じテーマで様々な企画VTRを制作！上位３組だけがOAされる動画バトルを展開します！</desc>
+<programme start="20210923012800 +0900" stop="20210923015800 +0900" channel="TBS2.jp">
+  <title lang="en">S☆1PLUS</title>
+  <desc lang="en">アスリートの知られざる熱きドラマを秘蔵映像満載でお送りします。Ｓ☆１と連動したスポーツ情報番組。</desc>
 </programme>
-<programme start="20210922010000 +0900" stop="20210922013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">激!今夜もドル箱</title>
-  <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
-</programme>
-<programme start="20210922013000 +0900" stop="20210922013500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">９／２６(日)放送「タクシー運転手さん、一番うまい店に連れてって！」の見どころをご紹介します！</desc>
+<programme start="20210923015800 +0900" stop="20210923020500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
 <programme start="20210922013500 +0900" stop="20210922020500 +0900" channel="TVTokyo.jp">
   <title lang="en">乃木坂に、越されました〜AKB48色々あってテレ東からの大逆襲!〜</title>
@@ -1115,13 +1101,13 @@
   <title lang="en">来世ではちゃんとします2</title>
   <desc lang="en">内田理央主演！ＳＮＳで話題沸騰の人気漫画原作！性をこじらせた男女の赤裸々エロラブコメディドラマ待望の続編▼Aくんの事情…松田に嫉妬⁉そして梅、突然のプロポーズ</desc>
 </programme>
-<programme start="20210922002500 +0900" stop="20210922012500 +0900" channel="FujiTV.jp">
-  <title lang="en">好きな人がいること</title>
-  <desc lang="en">美咲を巡ってついに千秋が夏向に恋の宣戦布告！！美咲が選ぶのは果たして夏向か！？千秋か！？悩んだ結果、今夜遂に美咲が告白！！衝撃のラストに瞬き厳禁！！</desc>
+<programme start="20210923011000 +0900" stop="20210923014000 +0900" channel="TVTokyo.jp">
+  <title lang="en">東京放置食堂</title>
+  <desc lang="en">片桐はいり主演！本土から120キロ離れた東京都内「大島」にある居酒屋「風待屋」が舞台！島の大自然や時間の流れから生まれる、優しい時間と人間模様・島グルメが満載！</desc>
 </programme>
-<programme start="20210922012500 +0900" stop="20210922015500 +0900" channel="FujiTV.jp">
-  <title lang="en">ドラゴンボール改</title>
-  <desc lang="en">「クリリンパワーアップ」</desc>
+<programme start="20210923014000 +0900" stop="20210923020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">お仕事search!それってグッジョブ</title>
+  <desc lang="en">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！今回は人気カプセルトイを作り続けるメーカーへ！ヒットの裏には独自の企画書術があった⁉</desc>
 </programme>
 <programme start="20210922015500 +0900" stop="20210922035500 +0900" channel="FujiTV.jp">
   <title lang="en">小泉孝太郎ムロツヨシ明日夜7時から放送第3弾は空自戦闘機で超絶体験直前SP</title>
@@ -1203,17 +1189,13 @@
   <title lang="en">NIGHT HEAD 2041</title>
   <desc lang="en">翔子の力によって渋谷に転送された霧原兄弟と黒木兄弟。ユウヤと直也はそれぞれの能力を使って繋がることで、互いを理解し、全てを救う方法を模索する。</desc>
 </programme>
-<programme start="20210922004500 +0900" stop="20210922010000 +0900" channel="Tokyo MX">
-  <title lang="en">異世界かるてっと2</title>
-  <desc lang="en"> </desc>
+<programme start="20210923012500 +0900" stop="20210923015500 +0900" channel="FujiTV.jp">
+  <title lang="en">村上マヨネーズのツッコませて頂きます!</title>
+  <desc lang="en">ウソ発見器、お貸しします！▽ウソ発見器を使って男女のウソを炙り出す人気企画▽新婚夫婦の奥様は、ぶっちゃけがお好き⁉▽奔放過ぎる⁉女子４人組▽交際３カ月カップル</desc>
 </programme>
-<programme start="20210922010000 +0900" stop="20210922010500 +0900" channel="Tokyo MX">
-  <title lang="en">りばあす</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210922010500 +0900" stop="20210922013500 +0900" channel="Tokyo MX">
-  <title lang="en">ゴルゴ13</title>
-  <desc lang="en"> </desc>
+<programme start="20210923015500 +0900" stop="20210923025000 +0900" channel="FujiTV.jp">
+  <title lang="en">東京03in UNDERDOGS-今日は負けたけど、明日は絶対勝つ</title>
+  <desc lang="en">東京０３による［負け］エピソードを実写やアニメでお届けするコント番組！</desc>
 </programme>
 <programme start="20210922013500 +0900" stop="20210922020500 +0900" channel="Tokyo MX">
   <title lang="en">69号室の住人</title>
@@ -1398,6 +1380,14 @@
 <programme start="20210923010000 +0900" stop="20210923010500 +0900" channel="Tokyo MX">
   <title lang="en">コミックBAR Renta!</title>
   <desc lang="en">街角にひっそりと佇む「コミックＢＡＲ　Ｒｅｎｔａ！」マンガ好きのマスター森嶋秀太が毎週男性声優ゲストに話題のマンガを紹介！</desc>
+</programme>
+<programme start="20210923010500 +0900" stop="20210923013500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210923013500 +0900" stop="20210923020500 +0900" channel="Tokyo MX">
+  <title lang="en">ノーゲーム・ノーライフ</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20210921233000 +0900" stop="20210922013000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「東京スカパラダイスオーケストラ」</title>
@@ -1605,7 +1595,7 @@ https://otn.fujitv.co.jp
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210921/6654239/image/a50443cb80e0e9484275e07a77e78c1d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210922020000 +0900" stop="20210922023000 +0900" channel="FujiOne.jp">
@@ -2089,7 +2079,7 @@ https://otn.fujitv.co.jp
 <programme start="20210922003000 +0900" stop="20210922020000 +0900" channel="kbsworld.jp">
 <title lang="en">社長の耳はロバの耳　[字]</title>
 <desc>日本初放送！最新バラエティ！トップクラスの各界のボスたちと職員たちの日常に密着する考察バラエティ！2019年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210921/6652970/image/b2e7fedbf185ab081ea5288af8506f5f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210922020000 +0900" stop="20210922031000 +0900" channel="kbsworld.jp">
