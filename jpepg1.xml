@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210921195700 +0900" stop="20210921204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">うたコン</title>
-    <desc lang="en">▽２５周年！ＰＵＦＦＹ▽初登場！超人気声優花澤香菜▽乃木坂４６高山ラストうたコン▽伝説バンドＳＨＯＷ−ＹＡ▽坂本冬美サザン名曲カバー▽長山洋子・ＤＡＰＵＭＰ</desc>
-  </programme>
-  <programme start="20210921204200 +0900" stop="20210921204400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">新型コロナ 命を守る行動を</title>
-    <desc lang="en">一人暮らしでの自宅療養を余儀なくされたら何に注意すれば良いのか。症状悪化を早めに気づき、命を守るためのポイントを感染症対策に詳しい専門家がアドバイスする。</desc>
-  </programme>
-  <programme start="20210921204400 +0900" stop="20210921204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">オシばん</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20210921204500 +0900" stop="20210921210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -298,17 +286,25 @@
     <title lang="en">ガッテン!</title>
     <desc lang="en">スリムボディーを手に入れたい！そんなあなたに最新研究でわかってきた「スリムへの道」をお教えします！カギを握るのは「うま味（み）」。味覚と肥満の意外な関係を大解明</desc>
   </programme>
-  <programme start="20210921195500 +0900" stop="20210921200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20210922201500 +0900" stop="20210922204200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">サンドのお風呂いただきます</title>
+    <desc lang="en">デビュー５０周年！郷ひろみさんが登場！思い出の地・渋谷で、伝説のデビュー秘話とストイックすぎる日常に迫ります。郷さんが永遠のスターであり続ける理由が明らかに！</desc>
   </programme>
-  <programme start="20210921200000 +0900" stop="20210921203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">シリーズ「バリフリ・タウン」！認知症の人が暮らしやすいバリアフリーな町ってどんな町！？東京・町田市の竹林が素敵な場所に生まれ変わる！当事者たちの力で地域が輝く！</desc>
+  <programme start="20210922204200 +0900" stop="20210922204400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">ワクチン未接種のまま中等症で入院した妊婦。不安を感じる妊婦の重症化や胎児の異常、流産や早産のリスクなどについて、日本産科婦人科学会などが出している提言を紹介する</desc>
   </programme>
-  <programme start="20210921203000 +0900" stop="20210921204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">ＡＩ（人工知能）が高血圧による病気の発症を予測、予防法の分析に活躍し、アプリが生活習慣の改善方法を教えてくれるなど、実用化されつつある治療法を紹介。</desc>
+  <programme start="20210922204400 +0900" stop="20210922204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">オシばん</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
+  </programme>
+  <programme start="20210922204500 +0900" stop="20210922210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20210922210000 +0900" stop="20210922220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽コロナ感染状況と対策専門家は▽障害者サポートの鉄道アナウンスを悪用！対策は▽自民総裁選▽ポスト・メルケルは？ドイツ連邦議会選挙「環境問題」と「経済」の両立</desc>
   </programme>
   <programme start="20210921204500 +0900" stop="20210921210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -646,9 +642,17 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">命に期限があることを知らされたとき、人は何を思うか…。「レジリエンス外来」とよばれるがん患者専門の精神科医の診察室に密着。心が再起する過程を見つめる。</desc>
   </programme>
-  <programme start="20210921195600 +0900" stop="20210921205400 +0900" channel="NipponTV.jp">
-    <title lang="en">踊る!さんま御殿!!</title>
-    <desc lang="en">京本政樹＆哀川翔はイケオジ⁉イマドキ女子が先輩に言いたい放題！好きな人の席にこっそり座る⁉昭和世代の恋愛観に若者ドン引き！金メダリストが恋愛の悩みを赤裸々告白⁉</desc>
+  <programme start="20210922203000 +0900" stop="20210922204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">高血圧の人を減らそうと、日本高血圧学会が始めた「高血圧ゼロのまち」プロジェクト。全市民の血圧測定や、減塩しょうゆの開発などさまざまな取り組みを紹介。</desc>
+  </programme>
+  <programme start="20210922204500 +0900" stop="20210922210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20210922210000 +0900" stop="20210922212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">大原千鶴「９月の食卓」は、名月を小粋に楽しむ料理をご紹介。満月に見立てた「里芋まんじゅう」、黄色が鮮やかな「しめじの菊花あえ」など、秋の食材を満喫しましょう！</desc>
   </programme>
   <programme start="20210921205400 +0900" stop="20210921210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなくグローバルスター</title>
@@ -742,6 +746,14 @@
   <programme start="20210922190000 +0900" stop="20210922205400 +0900" channel="NipponTV.jp">
     <title lang="en">1億人の大質問!?笑ってコラえて!</title>
     <desc lang="en">フワちゃんが糸電話で街ゆく人のお悩みを解決▽SPゲスト金メダリスト水谷隼▽新庄剛志＆アンジャ児嶋がダーツ旅▽格闘ゲーム世界一！東大卒プロゲーマー「ときど」の人生</desc>
+  </programme>
+  <programme start="20210922205400 +0900" stop="20210922210000 +0900" channel="NipponTV.jp">
+    <title lang="en">まもなく今夜くらべてみました</title>
+    <desc lang="en">やり投げ日本代表に梨園の妻、ぼる塾田辺に負けず劣らずの各界のスイーツマニアが大集結！37歳SHELLYが90日間ガチ特訓！愛娘の前で高さ5ｍの空中ダンスを披露！</desc>
+  </programme>
+  <programme start="20210922210000 +0900" stop="20210922225400 +0900" channel="NipponTV.jp">
+    <title lang="en">今夜くらべてみました</title>
+    <desc lang="en">やり投げ日本代表に梨園の妻、ぼる塾田辺に負けず劣らずの各界のスイーツマニアが大集結！37歳SHELLYが90日間ガチ特訓！愛娘の前で高さ5ｍの空中ダンスを披露！</desc>
   </programme>
 <programme start="20210921184500 +0900" stop="20210921214800 +0900" channel="Asahi.jp">
   <title lang="en">家事ヤロウ!!!</title>
@@ -868,12 +880,6 @@ by.村治佳織</desc>
   <desc lang="en">前代未聞のミステリー最新作！！推理力は天才的！でも、非常識で傲慢で、人間嫌いで、神経質、自己中心的で、潔癖！？
 そんな超変わり者刑事が、強盗殺人の謎に挑む！！！</desc>
 </programme>
-<programme start="20210921190000 +0900" stop="20210921205700 +0900" channel="TBS2.jp">
-  <title lang="en">オトラクション</title>
-  <desc lang="en">🈑☆爆笑問題参戦！妻・太田光代サプライズ登場
-☆人気芸人大熱唱！さまぁ〜ず・ネプチューン・チョコプラ・かまいたち
-☆ジャニーズ同期対決！リズム感No.1決定戦</desc>
-</programme>
 <programme start="20210921205700 +0900" stop="20210921220000 +0900" channel="TBS2.jp">
   <title lang="en">マツコの知らない世界</title>
   <desc lang="en">🈑１０年以上食べ歩いたゴスペラーズ酒井雄二が登場！大福×パン！食パンinスポンジケーキ？次々登場する究極のご当地パンに、マツコ食欲が止まらない！お取り寄せも！</desc>
@@ -956,10 +962,6 @@ by.村治佳織</desc>
 <programme start="20210922190000 +0900" stop="20210922215700 +0900" channel="TBS2.jp">
   <title lang="en">世界くらべてみたら</title>
   <desc lang="en">世界の丸亀製麺くらべたら？ロンドン1号店開店に密着！★ハワイ巨大スーパーで豪快肉＆ドイツはソーセージとビール天国！ウルフアロン奈緒ジェシー驚がく！激辛ペヤング</desc>
-</programme>
-<programme start="20210921182500 +0900" stop="20210921205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">デカ盛りハンター</title>
-  <desc lang="en">東京五輪金メダリスト・ウルフアロン軍vsもえあず軍大食いドリームマッチ▼絶品デカ盛り！秋の味覚てんこ盛り釜飯＆こぼれイクラ丼▼かこあこ姉妹がお腹いっぱい食べたら？</desc>
 </programme>
 <programme start="20210921205400 +0900" stop="20210921215400 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -1121,6 +1123,11 @@ by.村治佳織</desc>
   <title lang="en">ソレダメ!〜あなたの常識は非常識!?〜</title>
   <desc lang="en">▼お米の達人が教える、おいしくなる洗い方・炊き方▼十条商店街の「絶対行くべき」激安店▼コストコマニアが買っている商品▼お弁当がなんと○円！？ロヂャースの新常識</desc>
 </programme>
+<programme start="20210922210000 +0900" stop="20210922215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">家、ついて行ってイイですか?</title>
+  <desc lang="en">挫折を乗り越え…キッチンカーを開業した２２歳美女▽節約めし命！折り紙マスター妻と
+名言連発夫の衝撃商売とは！？▽寿司職人の冷凍庫に眠る“母が残した最期の料理”</desc>
+</programme>
 <programme start="20210921190000 +0900" stop="20210921210000 +0900" channel="FujiTV.jp">
   <title lang="en">潜入!リアルスコープ</title>
   <desc lang="en">令和の進化！初解禁ＳＰ▽まもなく開業！リニア新幹線▽鬼滅の刃最新ゲーム開発▽大人気冷凍食品ハンバーグ＆ラーメン工場▽Ｎｏ．１ヒットお菓子！チョコまみれ</desc>
@@ -1208,10 +1215,6 @@ by.村治佳織</desc>
 <programme start="20210922190000 +0900" stop="20210922215400 +0900" channel="FujiTV.jp">
   <title lang="en">小泉孝太郎ムロツヨシ 自由気ままに2人旅</title>
   <desc lang="en">芸能界きっての仲良し大親友２人旅の第３弾！ムロが航空自衛隊Ｆ－１５戦闘機に搭乗！音速＆重力そして宇宙に近づく超絶体験！孝太郎は知られざるルーツの旅で涙</desc>
-</programme>
-<programme start="20210921190000 +0900" stop="20210921200000 +0900" channel="Tokyo MX">
-  <title lang="en">空手バカ一代</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20210921200000 +0900" stop="20210921210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1409,6 +1412,10 @@ by.村治佳織</desc>
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">新型コロナの新規感染者が激減中の都内。きょうの感染者数は？▼都内各地の基準地価を発表！新型コロナの影響は？変動は？</desc>
 </programme>
+<programme start="20210922210000 +0900" stop="20210922215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">日本人初の8000M峰14座登頂！プロ登山家・竹内洋岳登場！！ふかわ＆大島＆内山と「美と健康」を語らう1時間。「DANDY Academy」では竹内洋岳が登山と健康について語る</desc>
+</programme>
 <programme start="20210921000000 +0900" stop="20210921020000 +0900" channel="FujiNext.jp">
 <title lang="en">TOKYO IDOL FESTIVAL 2020　密着！ドキュメンタリー</title>
 <desc>「TOKYO IDOL FESTIVAL 2020　密着!!スペシャルドキュメンタリー」　出演アイドルたちに密着したドキュメンタリーを特別放送！
@@ -1535,7 +1542,7 @@ by.村治佳織</desc>
 <desc>2014 Jリーグ ヤマザキナビスコカップ 決勝「サンフレッチェ広島 vs ガンバ大阪」
 ＜開催＞2014年11月8日【再放送】
 ＜解説＞清水秀彦　宮本恒靖
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210921/6654686/image/94004fd90fe3b19566174acd61f8b518.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210921210000 +0900" stop="20210921233000 +0900" channel="FujiNext.jp">
@@ -2135,7 +2142,7 @@ https://otn.fujitv.co.jp
 <programme start="20210921201500 +0900" stop="20210921210000 +0900" channel="kbsworld.jp">
 <title lang="en">だまされても夢心地（原題） #76　[字]</title>
 <desc>日本初放送！熟年再婚を巡って正反対の家族観を持つ２つの家族が次第に心を通わせていく最新ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210921/6652966/image/2fd2087352eaf6448bc475bb607bfc1a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210921210000 +0900" stop="20210921220000 +0900" channel="kbsworld.jp">
