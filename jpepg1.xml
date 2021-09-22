@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210922135500 +0900" stop="20210922140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">鈴木大輔、加藤由美子、今井菜津美、矢作あかり、戸塚寛子</desc>
-  </programme>
-  <programme start="20210922140000 +0900" stop="20210922140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210922140500 +0900" stop="20210922145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">世界ふれあい街歩き</title>
-    <desc lang="en">ニュージーランド南島の東海岸、オアマルは１９世紀に作られた白亜の街並みと、ペンギンのコロニーが人気の街。レトロな街並みを歩き、ペンギンを愛する人々と出会う。</desc>
-  </programme>
   <programme start="20210922145000 +0900" stop="20210922150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">中国政府は、ＴＰＰ＝環太平洋パートナーシップ協定への加入を正式に申請したと発表した。背景と実現性、この問題への日本について考える。</desc>
@@ -337,18 +325,6 @@
   <programme start="20210923140000 +0900" stop="20210923151200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">チコちゃんに叱られる!</title>
     <desc lang="en">７２分拡大版スペシャル！ゲストは郷ひろみさん、石原さとみさん、奥田民生さん。３人はチコちゃんの素朴な疑問に答えられるのか！？ご家族みんなでお楽しみください。</desc>
-  </programme>
-  <programme start="20210922135000 +0900" stop="20210922140000 +0900" channel="eTele.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「モルフォチョウに学ぶ『窓の採光』」齋藤彰（大阪大学准教授）</desc>
-  </programme>
-  <programme start="20210922140000 +0900" stop="20210922142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 化学基礎</title>
-    <desc lang="en">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
-  </programme>
-  <programme start="20210922142000 +0900" stop="20210922144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 物理基礎</title>
-    <desc lang="en">「熱」と「温度」。その違いはなんだろう？ものり家では洗濯物が乾く理由を考えながら、熱と温度について学ぶことになった。</desc>
   </programme>
   <programme start="20210922144000 +0900" stop="20210922150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 地学基礎</title>
@@ -686,6 +662,18 @@
     <title lang="en">NHK高校講座 社会と情報</title>
     <desc lang="en">「社会と情報」はプログラミングなど情報社会において不可欠な「情報活用能力」を身につけていく科目です。今回のテーマは「メディアの発達」です。</desc>
   </programme>
+  <programme start="20210923142000 +0900" stop="20210923144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 芸術</title>
+    <desc lang="en">「風信帖」は空海（弘法大師）が最澄に宛てて書いた手紙のことです。重厚さと軽妙さを巧みに調和させているといわれる「風信帖」を鑑賞し、臨書に挑戦します。</desc>
+  </programme>
+  <programme start="20210923144000 +0900" stop="20210923150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 家庭総合</title>
+    <desc lang="en">これからの生活に必要な知識や技術を学ぶ「家庭総合」。身近な問題について、地域・社会・歴史など、さまざまな視点でとらえ、りゅうちぇるさんと一緒に考えましょう！</desc>
+  </programme>
+  <programme start="20210923150000 +0900" stop="20210923153000 +0900" channel="eTele.jp">
+    <title lang="en">将棋フォーカス</title>
+    <desc lang="en">将棋の総合情報番組。講座は木村一基九段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
+  </programme>
   <programme start="20210922135500 +0900" stop="20210922155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">最新情報！「緊急事態」今月末で解除なるか？“制限緩和”来月に実証実験方法は？埼玉県知事に生直撃！▽自民党総裁選の行方▽大気の状態不安定に</desc>
@@ -787,10 +775,6 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20210922134900 +0900" stop="20210922144600 +0900" channel="Asahi.jp">
-  <title lang="en">アスコーマーチ</title>
-  <desc lang="en">「女子１人ｖｓイケメン男子２７人‼工業高校の奇跡はじまる」武井咲(他)▽憧れの女子高に落ち、男ばかりの工業高校に入学した直。戸惑いながら高校生活をスタートさせるが…</desc>
-</programme>
 <programme start="20210922144600 +0900" stop="20210922164000 +0900" channel="Asahi.jp">
   <title lang="en">欠点だらけの刑事</title>
   <desc lang="en">「百の弱点に悩む男⁉百野冬美男ｖｓカリスマ女社長…美しすぎる殺人現場‼」小日向文世(他)▽洋菓子のプロデュース会社を営む天野陶子のセミナー会場で殺人事件が発生し…</desc>
@@ -907,6 +891,10 @@
   <title lang="en">アタックNo.1</title>
   <desc lang="en">「苦しくったって悲しくったって…負けない、地獄の鬼特訓始まる」上戸彩(他)▽高校のバレー部に所属する鮎原こずえ。県大会決勝戦、仲間の活躍で試合は優勢に進んでいたが…</desc>
 </programme>
+<programme start="20210923144700 +0900" stop="20210923154300 +0900" channel="Asahi.jp">
+  <title lang="en">科捜研の女16</title>
+  <desc lang="en">「夫婦問題カウンセラー殺人！死体が破いた離婚届の謎」沢口靖子(他)▽離婚を選択せず、夫婦愛の修復を目指すセミナーの講師・下川真帆が自宅で毒殺された。</desc>
+</programme>
 <programme start="20210922135500 +0900" stop="20210922154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">▼トマトが高騰！？夏の天候不順で食卓への影響は▼ダチョウの変わった“求愛”が話題！動物たちの不思議な求愛行動とは　ほか(予定)</desc>
@@ -1020,8 +1008,7 @@
 </programme>
 <programme start="20210922210000 +0900" stop="20210922215400 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?</title>
-  <desc lang="en">挫折を乗り越え…キッチンカーを開業した２２歳美女▽節約めし命！折り紙マスター妻と
-名言連発夫の衝撃商売とは！？▽寿司職人の冷凍庫に眠る“母が残した最期の料理”</desc>
+  <desc lang="en">節約めし食べる無職夫と明るい妻…手を出した衝撃商売!五輪の舞台へ▽寿司職人の冷凍庫に眠る…母の最期の料理▽たこ焼きで人生転落!?キッチンカーで奮闘する２２歳美女</desc>
 </programme>
 <programme start="20210922215400 +0900" stop="20210922220000 +0900" channel="TVTokyo.jp">
   <title lang="en">Ｄの旋律〜ダンスと映画と音楽と〜</title>
@@ -1144,10 +1131,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">市川崑監督×横溝正史原作！名探偵・金田一耕助が名門・犬神家の怨念渦巻く謎に挑む！犬神家の当主が遺産と不可解な遺言状を残して永眠。やがて犬神家で次々と殺人が…。</desc>
 </programme>
-<programme start="20210922115500 +0900" stop="20210922144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">契約解除で木久蔵ラーメン提訴「商標切れ」対価争い▽熱海土石流提訴へ…住民が抱える今の不安▽子供のワクチン接種巡る対応は？学校で「挙手」確認も</desc>
-</programme>
 <programme start="20210922144500 +0900" stop="20210922154500 +0900" channel="FujiTV.jp">
   <title lang="en">ラジエーションハウス〜放射線科の診断レポート〜</title>
   <desc lang="en">仲間が乳がんの危機！？神の目からの涙！？縁の下のヒーロー達の結束が強まる中、仲間に病の疑いが！！果たして、天才技師の唯織は仲間を救うことが出来るのか？</desc>
@@ -1236,17 +1219,9 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20210922135500 +0900" stop="20210922140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20210922140000 +0900" stop="20210922143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210922143000 +0900" stop="20210922145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210923144500 +0900" stop="20210923154500 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウス〜放射線科の診断レポート〜</title>
+  <desc lang="en">夢を追いかける患者を救え！！神の目を持つ天才技師と縁の下のヒーロー達が大活躍！『ＦＬＹ　ＡＧＡＩＮ』高く高く跳び上がれ！</desc>
 </programme>
 <programme start="20210922145900 +0900" stop="20210922150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1429,6 +1404,18 @@
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20210923140000 +0900" stop="20210923143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210923143000 +0900" stop="20210923145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210923145900 +0900" stop="20210923150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210923150000 +0900" stop="20210923153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
