@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210922204500 +0900" stop="20210922210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20210922210000 +0900" stop="20210922220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽コロナ感染状況と対策▽障害者サポートの鉄道アナウンスを悪用！対策は▽自民総裁選▽町田市小６いじめ問題</desc>
@@ -334,21 +330,9 @@
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽コロナ禍で急増「雇われない働き方」課題も▽感染対策は経済政策は自民党総裁選４候補が討論▽ポスト・メルケルはドイツ連邦議会選挙「環境」と「経済」めぐり有権者は</desc>
   </programme>
-  <programme start="20210922204500 +0900" stop="20210922210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20210922210000 +0900" stop="20210922212500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理</title>
-    <desc lang="en">大原千鶴「９月の食卓」は、名月を小粋に楽しむ料理をご紹介。満月に見立てた「里芋まんじゅう」、黄色が鮮やかな「しめじの菊花あえ」など、秋の食材を満喫しましょう！</desc>
-  </programme>
-  <programme start="20210922212500 +0900" stop="20210922213000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理ビギナーズ</title>
-    <desc lang="en">甘辛味やチーズ味など濃厚な味つけがくせになる魅惑の鶏肉料理が流行中。家でつくれば、油を減らしたり、野菜を添えたりとヘルシーに楽しめます。そんな工夫をご紹介。</desc>
-  </programme>
-  <programme start="20210922213000 +0900" stop="20210922215500 +0900" channel="eTele.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">台所、それは人の胃袋と心を満たす、食が生まれる大切な場所。暮らしの達人たちの知恵と工夫を美しい映像と珠玉の言葉で紡ぐ。待望の新シリーズ！あなたにとって台所とは？</desc>
+  <programme start="20210923220000 +0900" stop="20210923223000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">99Q</title>
+    <desc lang="en">９９個の質問をぶつけ、著名人の本音や素顔に迫るインタビュー・ドキュメンタリー。芸人・ゆりやんレトリィバァが、ボケの先に語ったエンターテイナーとしての思いや夢。</desc>
   </programme>
   <programme start="20210922215500 +0900" stop="20210922220000 +0900" channel="eTele.jp">
     <title lang="en">まる得マガジン</title>
@@ -694,9 +678,21 @@
     <title lang="en">パリジェンヌの田舎暮らし</title>
     <desc lang="en">女性誌などで活躍するイラストレーターのイザベル・ボワノがフランスの職人たちによる味わい深い手仕事の世界をご紹介。今回は毎日使うのが楽しくなる器の魅力に迫る。</desc>
   </programme>
-  <programme start="20210922205400 +0900" stop="20210922210000 +0900" channel="NipponTV.jp">
-    <title lang="en">まもなく今夜くらべてみました</title>
-    <desc lang="en">やり投げ日本代表に梨園の妻、ぼる塾田辺に負けず劣らずの各界のスイーツマニアが大集結！37歳SHELLYが90日間ガチ特訓！愛娘の前で高さ5ｍの空中ダンスを披露！</desc>
+  <programme start="20210923212500 +0900" stop="20210923213000 +0900" channel="eTele.jp">
+    <title lang="en">空からクルージングmini</title>
+    <desc lang="en">世界遺産「フランスのサンティアゴ・デ・コンポステーラの巡礼路」の一部として登録されたル・ピュイ・アン・ヴレイの大聖堂を紹介する。空から眺めるル・ピュイの街は圧巻</desc>
+  </programme>
+  <programme start="20210923213000 +0900" stop="20210923215500 +0900" channel="eTele.jp">
+    <title lang="en">すてきにハンドメイド</title>
+    <desc lang="en">洋服作りを通してミシンを楽しむシリーズが杉浦太陽さんをゲストに迎えて始動！初心者の杉浦さんが本格的なシャツ作りに挑戦します。果たして初めてのシャツの出来ばえは？</desc>
+  </programme>
+  <programme start="20210923215500 +0900" stop="20210923220000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">スポーツ料理研究家と公認スポーツ栄養士がタッグを組み、アスリートの食事を参考にした健康ごはんを伝授する。第４回は骨の健康に役立つ料理。おいしく食べて骨を丈夫に！</desc>
+  </programme>
+  <programme start="20210923220000 +0900" stop="20210923223000 +0900" channel="eTele.jp">
+    <title lang="en">クラシックTV</title>
+    <desc lang="en">名曲いっぱいモーツァルトの魅力＆ミステリアスな人物像に迫る。ゲストは１２年にわたってミュージカルでモーツァルト役を演じた井上芳雄。清塚信也との豪華コラボも必見！</desc>
   </programme>
   <programme start="20210922210000 +0900" stop="20210922225400 +0900" channel="NipponTV.jp">
     <title lang="en">今夜くらべてみました</title>
@@ -799,15 +795,6 @@
     <title lang="en">秘密のケンミンSHOW極/ダウンタウンDX</title>
     <desc lang="en">ケンミン…愛知きしめん絶滅危機！？沖縄衝撃名字事情＆ケンミン刑事「靴下がカギ」▽東京㊙ＤＸ…竹中直人も絶賛もえ最新浅草愛＆ケンコバ穴場五反田＆カレン渋谷が遊び場</desc>
   </programme>
-<programme start="20210922200000 +0900" stop="20210922214800 +0900" channel="Asahi.jp">
-  <title lang="en">欠点だらけの刑事</title>
-  <desc lang="en">前代未聞のミステリー最新作！！推理力は天才的！でも、非常識で傲慢で、人間嫌いで、神経質、自己中心的で、潔癖！？
-そんな超変わり者刑事が、強盗殺人の謎に挑む！！！</desc>
-</programme>
-<programme start="20210922214800 +0900" stop="20210922215400 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">今に受け継ぐニューディール政策の道・アメリカ</desc>
-</programme>
 <programme start="20210922215400 +0900" stop="20210922231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">“第６波”への備え…「自宅療養」中の死をどう防ぐ？▽コロナ禍の国連総会…トップが語る「出口の選択」▽ＨＲ王争い！大谷翔平</desc>
@@ -919,9 +906,13 @@
   <title lang="en">ウラ撮れちゃいました</title>
   <desc lang="en">２年ぶりに山開きとなった富士山に驚きの変化が！不思議な登山客たちのウラにあった様々なドラマ…さらに一般人立ち入り禁止施設にも特別潜入！新幹線のウラ側も！</desc>
 </programme>
-<programme start="20210922190000 +0900" stop="20210922215700 +0900" channel="TBS2.jp">
-  <title lang="en">世界くらべてみたら</title>
-  <desc lang="en">世界の丸亀製麺くらべたら？ロンドン1号店開店に密着！★ハワイ巨大スーパーで豪快肉＆ドイツはソーセージとビール天国！ウルフアロン奈緒ジェシー驚がく！激辛ペヤング</desc>
+<programme start="20210923214800 +0900" stop="20210923215400 +0900" channel="Asahi.jp">
+  <title lang="en">世界の街道をゆく</title>
+  <desc lang="en">今に受け継ぐニューディール政策の道・アメリカ</desc>
+</programme>
+<programme start="20210923215400 +0900" stop="20210923231000 +0900" channel="Asahi.jp">
+  <title lang="en">報道ステーション</title>
+  <desc lang="en">「きょう、色々。」こだわりのトップニュースに、ダイナミックなスタジオ展開！きょう知りたいニュースを“もっと深く、もっとカラフル”にお伝えします！</desc>
 </programme>
 <programme start="20210922215700 +0900" stop="20210922220000 +0900" channel="TBS2.jp">
   <title lang="en">フラッシュニュース</title>
@@ -1004,13 +995,9 @@
   <title lang="en">笑える!泣ける!動物スクープ100連発</title>
   <desc lang="en">🈑激カワ！チャウチャウ下手すぎる水飲み▽衝撃…ワニ＆馬に強烈ネコパンチ▽犬はお世話するご主人に甘えないって本当？▽簡単…犬の利き脚わかる方法▽豹変！爪切りVS猫</desc>
 </programme>
-<programme start="20210922182500 +0900" stop="20210922210000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ソレダメ!〜あなたの常識は非常識!?〜</title>
-  <desc lang="en">▼お米の達人が教える、おいしくなる洗い方・炊き方▼十条商店街の「絶対行くべき」激安店▼コストコマニアが買っている商品▼お弁当がなんと○円！？ロヂャースの新常識</desc>
-</programme>
-<programme start="20210922210000 +0900" stop="20210922215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">家、ついて行ってイイですか?</title>
-  <desc lang="en">節約めし食べる無職夫と明るい妻…手を出した衝撃商売!五輪の舞台へ▽寿司職人の冷凍庫に眠る…母の最期の料理▽たこ焼きで人生転落!?キッチンカーで奮闘する２２歳美女</desc>
+<programme start="20210923220000 +0900" stop="20210923225700 +0900" channel="TBS2.jp">
+  <title lang="en">櫻井・有吉THE夜会</title>
+  <desc lang="en">🈑🈓　ムロツヨシが大親友・四千頭身後藤と夜会ハウスへ。２人で家で黙って飲む、奇妙な関係を初告白。長澤まさみが手土産に超高額陶器を持参。木村も驚く幻の器とは！？</desc>
 </programme>
 <programme start="20210922215400 +0900" stop="20210922220000 +0900" channel="TVTokyo.jp">
   <title lang="en">Ｄの旋律〜ダンスと映画と音楽と〜</title>
@@ -1167,9 +1154,17 @@
   <title lang="en">世界が騒然!本当にあった(秘)衝撃ファイル</title>
   <desc lang="en">稀代の名刑事vs前代未聞の連続殺人鬼！22歳母未解決殺人ミステリー▼母の執念が真犯人を追いつめる！シングルマザー失踪殺人ミステリー▼バイク窃盗犯追跡＆空港警察密着！</desc>
 </programme>
-<programme start="20210922190000 +0900" stop="20210922215400 +0900" channel="FujiTV.jp">
-  <title lang="en">小泉孝太郎ムロツヨシ 自由気ままに2人旅</title>
-  <desc lang="en">芸能界きっての仲良し大親友２人旅の第３弾！ムロが航空自衛隊Ｆ－１５戦闘機に搭乗！音速＆重力そして宇宙に近づく超絶体験！孝太郎は知られざるルーツの旅で涙</desc>
+<programme start="20210923214800 +0900" stop="20210923215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">Beeワールド</title>
+  <desc lang="en">キルギス篇　「ホーリークローバー蜂蜜」</desc>
+</programme>
+<programme start="20210923215400 +0900" stop="20210923220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">モノづくりニッポン</title>
+  <desc lang="en">日本社会が抱える様々な課題に対してデジタル技術を駆使、あるいはユニークな発想で躍進を続ける「新時代のニッポンのモノづくり企業」を取材した…</desc>
+</programme>
+<programme start="20210923220000 +0900" stop="20210923225800 +0900" channel="TVTokyo.jp">
+  <title lang="en">WBS</title>
+  <desc lang="en">中国政府どう動く？期日迎えた中国恒大集団▼生産量が3年間で3倍に？コロナ禍で店舗拡大のワケ▼FOMCの結果に注目</desc>
 </programme>
 <programme start="20210922215400 +0900" stop="20210922220000 +0900" channel="FujiTV.jp">
   <title lang="en">おふくろ、もう一杯</title>
@@ -1259,13 +1254,9 @@
   <title lang="en">鬼滅の刃</title>
   <desc lang="en">［竈門炭治郎　立志編］特別編集版を全五夜・全集中放送！鬼殺隊の最強剣士“柱”が集結！柱合会議にかけられる炭治郎…そして蝶屋敷での機能回復訓練へ</desc>
 </programme>
-<programme start="20210922200000 +0900" stop="20210922210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">新型コロナの新規感染者が激減中の都内。きょうの感染者数は？▼都内各地の基準地価を発表！新型コロナの影響は？変動は？</desc>
-</programme>
-<programme start="20210922210000 +0900" stop="20210922215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">日本人初の8000M峰14座登頂！プロ登山家・竹内洋岳登場！！ふかわ＆大島＆内山と「美と健康」を語らう1時間。「DANDY Academy」では竹内洋岳が登山と健康について語る</desc>
+<programme start="20210923212000 +0900" stop="20210923221400 +0900" channel="FujiTV.jp">
+  <title lang="en">千鳥のクセがスゴいネタGP</title>
+  <desc lang="en">ジャルジャルかが屋とろサーずんロッチ中岡レインボー新ネタ続々！土佐兄弟は注目俳優コラボ＆大御所芸能人のＳＰコメントも！？本間天山に最強芸人ラッパー参戦</desc>
 </programme>
 <programme start="20210922215400 +0900" stop="20210922220000 +0900" channel="Tokyo MX">
   <title lang="en">別冊オリンピア・キュクロス</title>
@@ -1459,6 +1450,14 @@
   <title lang="en">バラいろダンディ</title>
   <desc lang="en">梅沢富美男＆NEWS小山慶一郎が大暴走！MCは「新・東京　夜の顔」ふかわりょう＆大島由香里。人生をダンディに語らう１時間。ダンディのカタログ　タップダンス界の異端児</desc>
 </programme>
+<programme start="20210923215400 +0900" stop="20210923220000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210923220000 +0900" stop="20210923223000 +0900" channel="Tokyo MX">
+  <title lang="en">We are STARDOM!!〜世界が注目!女子プロレス〜</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20210921233000 +0900" stop="20210922013000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「東京スカパラダイスオーケストラ」</title>
 <desc>1998年〜2016年に放送していた、伝説のスタジオライブ番組「FACTORY」のライブ映像から『東京スカパラダイスオーケストラ』の出演映像を選りすぐってお届け
@@ -1604,7 +1603,7 @@ https://otn.fujitv.co.jp
 <programme start="20210922210000 +0900" stop="20210922220000 +0900" channel="FujiNext.jp">
 <title lang="en">渡辺貞夫 70thアニバーサリープレゼンツ　至宝のスペシャルライブベスト10</title>
 <desc>日本を代表するトップミュージシャン、渡辺貞夫の50th・60th・65thコンサートから厳選した10曲を放送！　〜渋谷・文化村オーチャードホール
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210922/6654707/image/f18db900acdb4a0eded0b3632ecda7af.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210922220000 +0900" stop="20210923000000 +0900" channel="FujiNext.jp">
@@ -1832,7 +1831,7 @@ https://otn.fujitv.co.jp
 <title lang="en">寺門ジモンの肉専門チャンネル　#82「焼肉ケニヤ」</title>
 <desc>「焼肉ケニヤ」
 ▽芸能界一食に詳しく、肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210922/6705783/image/2c7d2a7b21040606b1c372471677800c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210922220000 +0900" stop="20210922230000 +0900" channel="FujiOne.jp">
@@ -2269,7 +2268,7 @@ https://otn.fujitv.co.jp
 <programme start="20210922210000 +0900" stop="20210922220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210922/6652990/image/841e615cabcb994dac2a7dff8d1d5418.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210922220000 +0900" stop="20210922232000 +0900" channel="kbsworld.jp">
