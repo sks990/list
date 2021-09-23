@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210924013300 +0900" stop="20210924020300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKだめ自慢〜みんながでるテレビ〜</title>
-    <desc lang="en">司会は村上信五と東野幸治！ゲストＳＨＥＬＬＹと生見愛瑠（めるる）。カワイイを追求しすぎただめメニュー！友達の友達はみな友達！盛大すぎる結婚式！ほっこり赤ちゃん！</desc>
-  </programme>
-  <programme start="20210924020300 +0900" stop="20210924021800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">【連続テレビ小説】おかえりモネ</title>
-    <desc lang="en">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
-  </programme>
-  <programme start="20210924021800 +0900" stop="20210924023300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">【連続テレビ小説】おかえりモネ</title>
-    <desc lang="en">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
-  </programme>
-  <programme start="20210924023300 +0900" stop="20210924024800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">【連続テレビ小説】おかえりモネ</title>
-    <desc lang="en">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
-  </programme>
   <programme start="20210924024800 +0900" stop="20210924030300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">【連続テレビ小説】おかえりモネ</title>
     <desc lang="en">連続テレビ小説「おかえりモネ」の土曜版。サンドウィッチマンの二人が一週間の内容を振り返ってナビゲート。視聴者と一緒に優しい目線でドラマとヒロインを見守っていく。</desc>
@@ -321,6 +305,14 @@
   <programme start="20210925014800 +0900" stop="20210925022800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽初の対面「日米豪印首脳会議・クアッド」開催へ　インドの思惑▽ロシア産スパークリングワインが「シャンパン」に？ワインが映し出すロシアのいま　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20210925022800 +0900" stop="20210925023300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">▼サンドウィッチマンＭＣ＜地元愛バラエティー＞がスタート！▼地元を愛する人・ロコだけが知っているとっておき情報が続々▼ナレーションはＰｅｒｆｕｍｅのあ〜ちゃん！</desc>
+  </programme>
+  <programme start="20210925023300 +0900" stop="20210925033300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">沖縄 慶良間諸島</title>
+    <desc lang="en">〜沖縄県・慶良間諸島〜</desc>
   </programme>
   <programme start="20210924003000 +0900" stop="20210924053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,14 +646,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210924013500 +0900" stop="20210924020500 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">車好き＆バドミントンが趣味という日本海テレビ中尾真亜理アナ。バドミントンの３連覇を目指し、鍛えまくった結果がスゴすぎた！占いが好きすぎる女子アナが５０万課金！？</desc>
-  </programme>
-  <programme start="20210924020500 +0900" stop="20210924023500 +0900" channel="NipponTV.jp">
-    <title lang="en">川島・山内のマンガ沼</title>
-    <desc lang="en">大人気！和山やま先生を掘って掘って掘りまくるガチアンケート！「女の園の星」で一番好きなキャラは？和山先生の超貴重な仕事場にも潜入！川島感涙の直筆イラストとは？</desc>
-  </programme>
   <programme start="20210924023500 +0900" stop="20210924030500 +0900" channel="NipponTV.jp">
     <title lang="en">NFL倶楽部</title>
     <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
@@ -765,18 +749,10 @@
     <title lang="en">バズリズム02</title>
     <desc lang="en">メダリストが試合前に聴いた音楽を独自取材▼何度聴いても感動を呼ぶ「栄光の架橋」をはじめ名曲＆勝利の瞬間名場面をもう一度！</desc>
   </programme>
-<programme start="20210924015600 +0900" stop="20210924021600 +0900" channel="Asahi.jp">
-  <title lang="en">NEWニューヨーク</title>
-  <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
-</programme>
-<programme start="20210924021600 +0900" stop="20210924023600 +0900" channel="Asahi.jp">
-  <title lang="en">そんな食べ方あったのか!</title>
-  <desc lang="en">ミキ亜生＆フワちゃんが「そんな食べ方あったのか!」と言ってしまうような絶品レシピを発掘していく番組▼和食料理人がハンバーガーを大胆アレンジ▼番組から重大発表</desc>
-</programme>
-<programme start="20210924023600 +0900" stop="20210924025600 +0900" channel="Asahi.jp">
-  <title lang="en">会心の1ゲー</title>
-  <desc lang="en">芸人×ゲーム＝伝説のバカゲー誕生⁉▼トム・ブラウンみちおが一番ハマった「俺のゲーム」はあの人気アクションゲーム▼企画会議…布川考案！欲望を連打で抑え込むゲーム⁉</desc>
-</programme>
+  <programme start="20210925022400 +0900" stop="20210925030900 +0900" channel="NipponTV.jp">
+    <title lang="en">夜バゲット</title>
+    <desc lang="en">イチ押しの映画、イベント、アニメ情報を日テレアナウンサー陣が徹底紹介。</desc>
+  </programme>
 <programme start="20210924025600 +0900" stop="20210924030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -885,10 +861,6 @@
   <title lang="en">朝まで生テレビ!</title>
   <desc lang="en">1987年スタートの深夜討論番組。今月は『激論！コロナ禍の総裁選とニッポンの課題』をテーマにお送りします。</desc>
 </programme>
-<programme start="20210924015800 +0900" stop="20210924025800 +0900" channel="TBS2.jp">
-  <title lang="en">氷川きよし〜ボーカリスト★ズンドコから限界突破まで!スペシャルインタビューも</title>
-  <desc lang="en">演歌からポップスまで、音楽のジャンルを越えて進化し続ける氷川きよしが名曲の数々を披露！天海祐希が出演するPVも話題の新曲「Happy!」も歌います！</desc>
-</programme>
 <programme start="20210924025800 +0900" stop="20210924030500 +0900" channel="TBS2.jp">
   <title lang="en">イベントGO!</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
@@ -979,18 +951,17 @@
   <title lang="en">BLUE REFLECTION RAY/澪</title>
   <desc lang="en">【アニメイズム】紫乃の想いを守りきり、コモンの深淵に辿り着いた陽桜莉たち。一同を出迎えたのは、その姿を異形化させた紫乃だった――想いを巡る少女たちの戦いは…</desc>
 </programme>
-<programme start="20210924013000 +0900" stop="20210924020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">みんなでBINGOLF</title>
-  <desc lang="en">全９ホールを『ゴルフ×ビンゴ』のルールでプレー！様々なミッションに挑みながら、全員でビンゴ達成を目指す！達成したビンゴの数により豪華賞品が!?</desc>
+<programme start="20210925022500 +0900" stop="20210925023500 +0900" channel="TBS2.jp">
+  <title lang="en">With☆ベイスターズ2021</title>
+  <desc lang="en">横浜DeNAベイスターズ応援番組。番組MC今井翼さんが23年ぶりの日本一を目指す、三浦大輔新監督率いる新生ベイスターズに熱く迫ります！</desc>
 </programme>
-<programme start="20210924020000 +0900" stop="20210924020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">９／２６(日)放送「タクシー運転手さん、一番うまい店に連れてって！」の見どころをご紹介します！</desc>
+<programme start="20210925023500 +0900" stop="20210925024700 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210924020500 +0900" stop="20210924023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">きらきらアフロTM</title>
-  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
-【出演】笑福亭鶴瓶、松嶋尚美</desc>
+<programme start="20210925024700 +0900" stop="20210925040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20210924023500 +0900" stop="20210924030500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1152,9 +1123,14 @@
   <desc lang="en">▼R-Feature:TWIGY
 ▼VIEWS①:OZworld　VIEWS②:SOUNDALLY</desc>
 </programme>
-<programme start="20210924014500 +0900" stop="20210924024500 +0900" channel="FujiTV.jp">
-  <title lang="en">キャラダチナイトミュージアム〜MoCA〜</title>
-  <desc lang="en">キュレーター和田彩花がお届けする大人も子供も楽しめるＰＯＰな情操教育番組です。様々な「もの、こと、ひと」をキュレーションします。</desc>
+<programme start="20210925023000 +0900" stop="20210925024500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">ゲームに関する様々な最新情報を知ることができる番組！「eSports　high　TV」をご紹介。今夜は気になる番組内容をちょっとだけお見せしちゃいます！！</desc>
+</programme>
+<programme start="20210925024500 +0900" stop="20210925031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">音流〜ONRYU〜</title>
+  <desc lang="en">▼スタジオゲストは、Newspeak！
+▼「さいきん　どう？」には好き好きロンちゃん(後編)！</desc>
 </programme>
 <programme start="20210924024500 +0900" stop="20210924031500 +0900" channel="FujiTV.jp">
   <title lang="en">いいすぽ!</title>
@@ -1240,17 +1216,13 @@
   <title lang="en">RIZIN.30</title>
   <desc lang="en">注目のバンタム級トーナメント２回戦！朝倉海ｖｓボンサイ柔術のアラン“ヒロ”ヤマニハ…井上直樹、扇久保博正、元谷友貴、浜崎朱加など激闘をお届けします！</desc>
 </programme>
-<programme start="20210924013500 +0900" stop="20210924020500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210925022500 +0900" stop="20210925025500 +0900" channel="FujiTV.jp">
+  <title lang="en">突然ですがマスカレード・ナイト占ってみました</title>
+  <desc lang="en">木村拓哉・長澤まさみ・沢村一樹がＭＣ！大ヒット公開中映画「マスカレード・ナイト」と人気番組がコラボ！映画スタッフと超豪華俳優をゲッターズ飯田が丸裸に！</desc>
 </programme>
-<programme start="20210924020500 +0900" stop="20210924023400 +0900" channel="Tokyo MX">
-  <title lang="en">らいコレTV</title>
-  <desc lang="en">女優＆トップオブトップライバーの“水城ななえ”が登場！ライバーの最新情報も！</desc>
-</programme>
-<programme start="20210924023400 +0900" stop="20210924023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20210925025500 +0900" stop="20210925032500 +0900" channel="FujiTV.jp">
+  <title lang="en">次ナルTV-S</title>
+  <desc lang="en">ＣＳ放送フジテレビＴＷＯでの「宇野実彩子　ライブ“Ｓｗｅｅｔ　Ｈｕｇ”」の放送を記念した２０１９年のツアー「Ｈｏｎｅｙ　Ｓｔｏｒｙ」のダイジェスト</desc>
 </programme>
 <programme start="20210924023500 +0900" stop="20210924030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1432,6 +1404,18 @@
   <title lang="en">TALKIN’ABOUT</title>
   <desc lang="en">ＭＣのニューヨークが、アイドルグループや声優、アニソン、Ｙｏｕｔｕｂｅｒなど、カルチャーシーンで活躍するアーティストを迎えトークする音楽番組</desc>
 </programme>
+<programme start="20210925020500 +0900" stop="20210925023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210925023400 +0900" stop="20210925023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210925023500 +0900" stop="20210925030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20210923230000 +0900" stop="20210924010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORYアーカイブス　ミッシェル・ガン・エレファント</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『THEE MICHELLE GUN ELEPHANT』の出演映像を選りすぐってお届け！
@@ -1441,7 +1425,7 @@
 <programme start="20210924010000 +0900" stop="20210924030000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「ZAZEN BOYS」</title>
 <desc>1998年〜2016年に放送していた、伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『ZAZEN BOYS』の出演映像を選りすぐってお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210923/6666554/image/d42a85b2a4b5b9272b419103b8b84b4c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210924030000 +0900" stop="20210924052000 +0900" channel="FujiNext.jp">
@@ -1642,7 +1626,7 @@ https://otn.fujitv.co.jp
 <desc>『湯西川温泉編 後篇』
 撮影地：湯西川館本館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210923/6666635/image/6ad47c93513dac4130fd26e3078cf045.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210924030000 +0900" stop="20210924040000 +0900" channel="FujiOne.jp">
