@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210923151700 +0900" stop="20210923160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲（2021年） 秋場所</title>
-    <desc lang="en">【解説】正面（十両）…高崎（元金開山），【アナウンサー】正面（十両）…佐藤洋之　〜国技館から中継〜</desc>
-  </programme>
   <programme start="20210923160000 +0900" stop="20210923180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大相撲（2021年） 秋場所</title>
     <desc lang="en">一敗の新横綱・照ノ富士は新関脇・明生と同期同士の対戦　御嶽海と阿武咲は三敗同士の好取組　正代（三敗）は逸ノ城　遠藤（三敗）は隆の勝　ただ一人二敗の妙義龍は輝</desc>
@@ -329,26 +325,6 @@
   <programme start="20210924155500 +0900" stop="20210924180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大相撲（2021年） 秋場所</title>
     <desc lang="en">（４：１０）「幕内取組」　【解説】正面（幕内）…北の富士勝昭，向正面（幕内）…錣山（元寺尾），【アナウンサー】正面（幕内）…大坂敏久ほか</desc>
-  </programme>
-  <programme start="20210923154500 +0900" stop="20210923160000 +0900" channel="eTele.jp">
-    <title lang="en">なりきり! むーにゃん生きもの学園</title>
-    <desc lang="en">みんなご存知「ツバメ」東南アジアからはるばる５０００キロも飛んで来る渡り鳥です。今回、小学生と一緒に近所のツバメを大調査。なぜ日本に来るのか？探っちゃいますよ！</desc>
-  </programme>
-  <programme start="20210923160000 +0900" stop="20210923160500 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「わらいかわせみに話すなよ」楠トシエ／「今でも船長と呼ばれている船長の夜」菅原洋一／「気球にのって」東京放送児童合唱団／「ひげなしゴゲジャバル」ペギー葉山</desc>
-  </programme>
-  <programme start="20210923160500 +0900" stop="20210923162000 +0900" channel="eTele.jp">
-    <title lang="en">いないいないばあっ!</title>
-    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-  </programme>
-  <programme start="20210923162000 +0900" stop="20210923164400 +0900" channel="eTele.jp">
-    <title lang="en">おかあさんといっしょ</title>
-    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
-  </programme>
-  <programme start="20210923164400 +0900" stop="20210923164500 +0900" channel="eTele.jp">
-    <title lang="en">パプリカ</title>
-    <desc lang="en">９月末で「パプリカ」を卒業するＦｏｏｒｉｎから、全国のみなさんに向けた「ありがとうメッセージ」をお届けします！今日は「Ｆｏｏｒｉｎ楽団」編。出演：Ｆｏｏｒｉｎ</desc>
   </programme>
   <programme start="20210923164500 +0900" stop="20210923170000 +0900" channel="eTele.jp">
     <title lang="en">みいつけた!</title>
@@ -702,6 +678,26 @@
     <title lang="en">みんなのうた</title>
     <desc lang="en">「素敵な夜」うた：Ｖ６／「スナビキソウ」うた：遥海</desc>
   </programme>
+  <programme start="20210924160500 +0900" stop="20210924162000 +0900" channel="eTele.jp">
+    <title lang="en">いないいないばあっ!</title>
+    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+  </programme>
+  <programme start="20210924162000 +0900" stop="20210924164400 +0900" channel="eTele.jp">
+    <title lang="en">おかあさんといっしょ</title>
+    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+  </programme>
+  <programme start="20210924164400 +0900" stop="20210924164500 +0900" channel="eTele.jp">
+    <title lang="en">シャシャっと!オハヨッシャ!</title>
+    <desc lang="en">動きがシンプルでわかりやすくて、カッコいいダンス体操です！あなたもよしおにいさんと一緒に、体を動かして楽しんでね！</desc>
+  </programme>
+  <programme start="20210924164500 +0900" stop="20210924170000 +0900" channel="eTele.jp">
+    <title lang="en">みいつけた!</title>
+    <desc lang="en">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+  </programme>
+  <programme start="20210924170000 +0900" stop="20210924171000 +0900" channel="eTele.jp">
+    <title lang="en">にほんごであそぼ</title>
+    <desc lang="en">日本全国いいとこコンサートから。曲「うなりやベベンの平家物語」「私と小鳥と鈴と」「平城遷都１３００年祭のうた」「みんなにいいとこ教えたい　〜奈良バージョン〜」</desc>
+  </programme>
   <programme start="20210923155000 +0900" stop="20210923190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
     <desc lang="en">“宣言”全面解除は？秋の行楽に期待と不安感染者増の離島で困惑▽自民党総裁選４候補ＳＮＳや発信力を点検▽関東は真夏日の予想▽華の都パリに駅弁が</desc>
@@ -821,10 +817,6 @@
     <title lang="en">news every.</title>
     <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
   </programme>
-<programme start="20210923154300 +0900" stop="20210923164000 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season10</title>
-  <desc lang="en">「藍よりも青し」水谷豊、及川光博(他)▽鑑識に残された些細なことから事件を見つけ出してしまった右京。産廃工場社長の自殺事件に疑惑を抱き、尊と共に捜査を開始する。</desc>
-</programme>
 <programme start="20210923164000 +0900" stop="20210923184500 +0900" channel="Asahi.jp">
   <title lang="en">スーパーJチャンネル</title>
   <desc lang="en">シルバーウィーク後半…感染減少傾向で人出は▽次の波に警戒解けず…自宅療養の厳しい現実▽コロナ禍で意外余波▽「ペットガチャ」⁉大量廃棄で命が犠牲に(他)</desc>
@@ -939,6 +931,10 @@
   <title lang="en">相棒season18</title>
   <desc lang="en">「青木年男の受難」水谷豊、反町隆史(他)▽青木年男が何者かに拉致された。警察情報をめぐり、犯人と究極の頭脳戦を開始した特命係は、犯人を見つけ出し青木救出を試みるが…</desc>
 </programme>
+<programme start="20210924164000 +0900" stop="20210924184500 +0900" channel="Asahi.jp">
+  <title lang="en">スーパーJチャンネル</title>
+  <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+</programme>
 <programme start="20210923154900 +0900" stop="20210923190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">第６波対策は十分か？酸素ステーションは…子どもの感染割合増加▽大谷ＨＲ王争い続く　ＭＬＢ珍・好プレー集▽語る！山崎まさよし２５周年＆趣味のＤＩＹ　ほか</desc>
@@ -1025,10 +1021,6 @@
 <programme start="20210924154900 +0900" stop="20210924190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！「ＮｅｗｓＣｌｉｐ」でニュースからエンタメ・カルチャーまで！６時１５分からはグルメ情報も！</desc>
-</programme>
-<programme start="20210923155500 +0900" stop="20210923165400 +0900" channel="TVTokyo.jp">
-  <title lang="en">よじごじDays</title>
-  <desc lang="en">津軽半島の先端にある岬から見渡す津軽海峡の大パノラマ！今なお高い人気を誇る武将・源義経の“空飛ぶ”伝説が残る岩とは？さらに、義経も食べた!?絶品の馬肉料理も登場！</desc>
 </programme>
 <programme start="20210923165400 +0900" stop="20210923170000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゆうがたサテライト</title>
@@ -1189,6 +1181,14 @@
   <title lang="en">よじごじDays</title>
   <desc lang="en">香川県うどんタクシーで行く絶景＆讃岐うどんツアー▽茅葺き古民家で本場の釜揚げうどん▽瀬戸内海一望！金比羅さん＆参道カフェ▽３度美味しい㊙うどん▽コスモスの花絶景</desc>
 </programme>
+<programme start="20210924165400 +0900" stop="20210924170000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ゆうがたサテライト</title>
+  <desc lang="en">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
+</programme>
+<programme start="20210924170000 +0900" stop="20210924171000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
 <programme start="20210923154500 +0900" stop="20210923190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">秋分の日に真夏の暑さ関東各地で３０℃超え？行楽地混雑＆渋滞は▽眞子さま“結婚報道”後初のお姿小室さん２７日帰国で新展開は▽大谷トップまで１本なるか初のＨＲ王</desc>
@@ -1288,14 +1288,6 @@
 <programme start="20210924154500 +0900" stop="20210924190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">ソレ！知りたかった！加藤綾子と木村拓也が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-</programme>
-<programme start="20210923153000 +0900" stop="20210923160000 +0900" channel="Tokyo MX">
-  <title lang="en">花道だけ歩きましょう〜恋の花が咲きました〜</title>
-  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
-</programme>
-<programme start="20210923160000 +0900" stop="20210923165500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en">佐世保発ショッピング　期間限定商品がお得</desc>
 </programme>
 <programme start="20210923165500 +0900" stop="20210923170000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1485,6 +1477,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20210924163000 +0900" stop="20210924170000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210924170000 +0900" stop="20210924180000 +0900" channel="Tokyo MX">
+  <title lang="en">5時に夢中!</title>
+  <desc lang="en">女性のストレスを解消する“本音マル出し”ぶっちゃけワイドショー！金曜はゲストデー！松重豊さん！▼「大きなお世話ですが」ではゲストおもてなし企画も</desc>
+</programme>
 <programme start="20210923000000 +0900" stop="20210923015000 +0900" channel="FujiNext.jp">
 <title lang="en">存在理由 〜Raison d'etre〜 さだまさしコンサートツアー 2020</title>
 <desc>日本が誇るシンガーソングライター、さだまさしの2020年コンサートツアーから、東京国際フォーラムでの公演を独占放送！
@@ -1593,7 +1593,7 @@
 <programme start="20210923160000 +0900" stop="20210923170000 +0900" channel="FujiNext.jp">
 <title lang="en">みんなの鉄道　#25「くりはら田園鉄道」</title>
 <desc>#25『くりはら田園鉄道』　JR東北本線との接続駅「石越」から「細倉マインパーク前」へと至る、駅数16、営業キロ25.7kmの路線。　＜ナレーション＞堺正幸アナ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210923/6666546/image/871127c80526125c42c4a3256d22fa54.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210923170000 +0900" stop="20210923180000 +0900" channel="FujiNext.jp">
@@ -1811,7 +1811,7 @@
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210923/6666626/image/4d0bebfb22030e66b3295ab6870b9ea7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210923170000 +0900" stop="20210923223500 +0900" channel="FujiOne.jp">
