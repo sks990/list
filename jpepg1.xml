@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210924004700 +0900" stop="20210924013300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">歴史探偵</title>
-    <desc lang="en">新選組副長・土方歳三が奇跡の勝利を収めた「二股口の戦い」。最新デジタル技術で浮かび上がったのは銃を駆使した緻密な戦術。剣豪のイメージを覆す指揮官・土方の姿とは？</desc>
-  </programme>
   <programme start="20210924013300 +0900" stop="20210924020300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKだめ自慢〜みんながでるテレビ〜</title>
     <desc lang="en">司会は村上信五と東野幸治！ゲストＳＨＥＬＬＹと生見愛瑠（めるる）。カワイイを追求しすぎただめメニュー！友達の友達はみな友達！盛大すぎる結婚式！ほっこり赤ちゃん！</desc>
@@ -317,6 +313,14 @@
   <programme start="20210925005000 +0900" stop="20210925012000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ストーリーズ</title>
     <desc lang="en">ナレーションのないドキュメンタリー「ノーナレ」。去年史上初めて中止となった青森ねぶた祭。開催の準備に奔走する父とその姿を見つめる小学４年生の娘、半年間の物語</desc>
+  </programme>
+  <programme start="20210925012000 +0900" stop="20210925014800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">サンドのお風呂いただきます</title>
+    <desc lang="en">デビュー５０周年！郷ひろみさんが登場！思い出の地・渋谷で、伝説のデビュー秘話とストイックすぎる日常に迫ります。郷さんが永遠のスターであり続ける理由が明らかに！</desc>
+  </programme>
+  <programme start="20210925014800 +0900" stop="20210925022800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽初の対面「日米豪印首脳会議・クアッド」開催へ　インドの思惑▽ロシア産スパークリングワインが「シャンパン」に？ワインが映し出すロシアのいま　※変更の可能性あり</desc>
   </programme>
   <programme start="20210924003000 +0900" stop="20210924053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -650,14 +654,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210924005900 +0900" stop="20210924012900 +0900" channel="NipponTV.jp">
-    <title lang="en">アナザースカイ</title>
-    <desc lang="en">「夢の数だけ空がある」ロッチ中岡創一が愛知県豊田市へ。芸人を諦め彼女と結婚すべく町工場で働いた先に待っていたまさかの結末！相方コカドとの運命的な出会いとは？</desc>
-  </programme>
-  <programme start="20210924012900 +0900" stop="20210924013500 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210924013500 +0900" stop="20210924020500 +0900" channel="NipponTV.jp">
     <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <desc lang="en">車好き＆バドミントンが趣味という日本海テレビ中尾真亜理アナ。バドミントンの３連覇を目指し、鍛えまくった結果がスゴすぎた！占いが好きすぎる女子アナが５０万課金！？</desc>
@@ -765,18 +761,10 @@
     <title lang="en">がむしゃら屋</title>
     <desc lang="en">ぺこぱ四千頭身後藤須田亜香里が体当たり開発！日本の技術力を支える下町工場がガチ対決！夢のおたまを作ってみた！</desc>
   </programme>
-<programme start="20210924005000 +0900" stop="20210924012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">今夜はバズった動画を一挙公開！「月刊動はじランキング」＆大人気コンビニのコールドスイーツランキング！</desc>
-</programme>
-<programme start="20210924012000 +0900" stop="20210924012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20210924012600 +0900" stop="20210924015600 +0900" channel="Asahi.jp">
-  <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
-  <desc lang="en">自宅でエステサロンの話題ケアを実現…簡単スタイルアップ美容グッズ＆１台８役！料理時間が大幅短縮出来る超便利マルチブレンダー＆敷くだけで快適睡眠マットレスが登場！</desc>
-</programme>
+  <programme start="20210925012400 +0900" stop="20210925022400 +0900" channel="NipponTV.jp">
+    <title lang="en">バズリズム02</title>
+    <desc lang="en">メダリストが試合前に聴いた音楽を独自取材▼何度聴いても感動を呼ぶ「栄光の架橋」をはじめ名曲＆勝利の瞬間名場面をもう一度！</desc>
+  </programme>
 <programme start="20210924015600 +0900" stop="20210924021600 +0900" channel="Asahi.jp">
   <title lang="en">NEWニューヨーク</title>
   <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
@@ -889,14 +877,13 @@
   <title lang="en">川柳居酒屋なつみ</title>
   <desc lang="en">２年半続いた川柳居酒屋も今夜で閉店。最後は松也の大親友・中村七之助さんがご来店。２人の奇妙なスニーカー愛に女将が絶句「なんで何足も買うの？」その訳とは</desc>
 </programme>
-<programme start="20210924005800 +0900" stop="20210924012800 +0900" channel="TBS2.jp">
-  <title lang="en">KAT-TUNの食宝ゲッットゥーン</title>
-  <desc lang="en">チーム中丸…超過酷な天然ウナギ漁開始！激流の中１kg３万円超え天然ウナギを狙う！上田は日本一のきゅうり「羽後ブラック」を使った絶品料理連発にご飯おかわり＆もん絶</desc>
+<programme start="20210925012000 +0900" stop="20210925012500 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたばかりのゴーちゃん。今夜の注目はなにかな？</desc>
 </programme>
-<programme start="20210924012800 +0900" stop="20210924015800 +0900" channel="TBS2.jp">
-  <title lang="en">まちカドまぞく</title>
-  <desc lang="en">ある朝突然闇の力に目覚めた優子は一族にかけられた呪いをとくため魔法少女を倒すことになってしまった!!
-</desc>
+<programme start="20210925012500 +0900" stop="20210925042500 +0900" channel="Asahi.jp">
+  <title lang="en">朝まで生テレビ!</title>
+  <desc lang="en">1987年スタートの深夜討論番組。今月は『激論！コロナ禍の総裁選とニッポンの課題』をテーマにお送りします。</desc>
 </programme>
 <programme start="20210924015800 +0900" stop="20210924025800 +0900" channel="TBS2.jp">
   <title lang="en">氷川きよし〜ボーカリスト★ズンドコから限界突破まで!スペシャルインタビューも</title>
@@ -980,13 +967,17 @@
   <title lang="en">NEWSの全力!!メイキング</title>
   <desc lang="en">「ジャニーズと初共演…何かが変わった」ウエンツ瑛士が本音連発！老後資金／理想の女性／留学裏側／「アイツがドラマ決まったら悔しかった」ベッドになる２ＷＡＹソファ！</desc>
 </programme>
-<programme start="20210924003000 +0900" stop="20210924010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">お耳に合いましたら。</title>
-  <desc lang="en">伊藤万理華主演！ポッドキャスト×グルメ愛▼亜里沙に運命の人！？突然亜里沙から避けられるようになった美園はモヤモヤが止まらない。亜里沙の行動の真意とは…？</desc>
+<programme start="20210925012000 +0900" stop="20210925012500 +0900" channel="TBS2.jp">
+  <title lang="en">ジョシとドラゴン</title>
+  <desc lang="en">【日常系ゆるふわゲーム番組】　ジョシの家に住み着くゲーム大好きドラゴンがいた！ドラゴンはゲームに興味がないジョシたちにその魅力を伝えようと大奮闘！</desc>
 </programme>
-<programme start="20210924010000 +0900" stop="20210924013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">さまぁ〜ず東京</title>
-  <desc lang="en">さまぁ〜ずが、テレビ東京とまたまたタッグを組みます！▼Mixalive　TOKYOでのトークライブを一部お届け！▼唯一無二の二人のトークを体感してください！▼</desc>
+<programme start="20210925012500 +0900" stop="20210925015500 +0900" channel="TBS2.jp">
+  <title lang="en">アニメ放送直前!「ブルーピリオド」大解剖SP</title>
+  <desc lang="en">来週からスタートするアニメ『ブルーピリオド』…原作の魅力や美術の面白さを深堀りする３０分！★矢口八虎役・峯田大夢さん、桑名マキ役・宮本侑芽さんも登場します</desc>
+</programme>
+<programme start="20210925015500 +0900" stop="20210925022500 +0900" channel="TBS2.jp">
+  <title lang="en">BLUE REFLECTION RAY/澪</title>
+  <desc lang="en">【アニメイズム】紫乃の想いを守りきり、コモンの深淵に辿り着いた陽桜莉たち。一同を出迎えたのは、その姿を異形化させた紫乃だった――想いを巡る少女たちの戦いは…</desc>
 </programme>
 <programme start="20210924013000 +0900" stop="20210924020000 +0900" channel="TVTokyo.jp">
   <title lang="en">みんなでBINGOLF</title>
@@ -1148,13 +1139,18 @@
   <title lang="en">サ道2021</title>
   <desc lang="en">サウナブームを巻き起こした「サ道」が新シリーズ突入！原田×三宅×磯村が再集結▼サウナー憧れの地で今までにない体験をする事に！さらに、あの人物と予期せぬ再会！？</desc>
 </programme>
-<programme start="20210924004500 +0900" stop="20210924011500 +0900" channel="FujiTV.jp">
-  <title lang="en">キスマイ超BUSAIKU!?</title>
-  <desc lang="en">抜き打ちテスト…大好評「ＳＮＳでバズる動画」第２弾！ラブライブキャスト飯田里穂に宮田大興奮！連覇なるか？玉森に若槻千夏が大説教？フワちゃん絶賛のダンス</desc>
+<programme start="20210925012300 +0900" stop="20210925015300 +0900" channel="TVTokyo.jp">
+  <title lang="en">八月のシンデレラナイン2021</title>
+  <desc lang="en">世界で一番あつい夏が帰ってきた！時にぶつかりながら少女たちは青春を駆け抜ける！▽アニメ「ハチナイ」待望の新作エピソード！キャストによる副音声つき。</desc>
 </programme>
-<programme start="20210924011500 +0900" stop="20210924014500 +0900" channel="FujiTV.jp">
-  <title lang="en">平穏世代の韋駄天達</title>
-  <desc lang="en">かつて世界は魔族に蹂躙されていた。韋駄天と呼ばれる戦いの神々が魔族を封印し、世界に平和をもたらしてから８００年――。ルール無用の最凶バトルが今始まる！</desc>
+<programme start="20210925015300 +0900" stop="20210925020000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">９／２６(日)放送「タクシー運転手さん、一番うまい店に連れてって！」の見どころをご紹介します！</desc>
+</programme>
+<programme start="20210925020000 +0900" stop="20210925023000 +0900" channel="TVTokyo.jp">
+  <title lang="en">流派-R since2001</title>
+  <desc lang="en">▼R-Feature:TWIGY
+▼VIEWS①:OZworld　VIEWS②:SOUNDALLY</desc>
 </programme>
 <programme start="20210924014500 +0900" stop="20210924024500 +0900" channel="FujiTV.jp">
   <title lang="en">キャラダチナイトミュージアム〜MoCA〜</title>
@@ -1243,18 +1239,6 @@
 <programme start="20210925005500 +0900" stop="20210925022500 +0900" channel="FujiTV.jp">
   <title lang="en">RIZIN.30</title>
   <desc lang="en">注目のバンタム級トーナメント２回戦！朝倉海ｖｓボンサイ柔術のアラン“ヒロ”ヤマニハ…井上直樹、扇久保博正、元谷友貴、浜崎朱加など激闘をお届けします！</desc>
-</programme>
-<programme start="20210924003000 +0900" stop="20210924010000 +0900" channel="Tokyo MX">
-  <title lang="en">Sonny Boy</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210924010000 +0900" stop="20210924010500 +0900" channel="Tokyo MX">
-  <title lang="en">Artist#18File</title>
-  <desc lang="en">今月のアーティストはａｃａｎｅ。今回は曲を書くときのエピソードを語ります。過去の恋愛話が赤裸々に⁉今後コラボしたいアーティストにも迫ります。</desc>
-</programme>
-<programme start="20210924010500 +0900" stop="20210924013500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20210924013500 +0900" stop="20210924020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1439,6 +1423,14 @@
 <programme start="20210925010000 +0900" stop="20210925010500 +0900" channel="Tokyo MX">
   <title lang="en">ぷっちみく♪ D4DJ Petit Mix</title>
   <desc lang="en">＃２６「永遠なれ、愛しきディグラーたち」</desc>
+</programme>
+<programme start="20210925010500 +0900" stop="20210925013500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210925013500 +0900" stop="20210925020500 +0900" channel="Tokyo MX">
+  <title lang="en">TALKIN’ABOUT</title>
+  <desc lang="en">ＭＣのニューヨークが、アイドルグループや声優、アニソン、Ｙｏｕｔｕｂｅｒなど、カルチャーシーンで活躍するアーティストを迎えトークする音楽番組</desc>
 </programme>
 <programme start="20210923230000 +0900" stop="20210924010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORYアーカイブス　ミッシェル・ガン・エレファント</title>
@@ -1627,7 +1619,7 @@ https://otn.fujitv.co.jp
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210923/6666632/image/7c489663b4a33d27d1bd9ec35ec5d3b2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210924020000 +0900" stop="20210924023000 +0900" channel="FujiOne.jp">
@@ -2108,7 +2100,7 @@ https://otn.fujitv.co.jp
 <programme start="20210924003000 +0900" stop="20210924020000 +0900" channel="kbsworld.jp">
 <title lang="en">私たちが愛したあの歌、新歌手　[字]</title>
 <desc>日本初放送！1970〜1990年代の韓国の名曲を2021年の感性で届ける新しいスターを探す最新オーディション番組！韓国放送開始日：2021年7月15日〜　全10回
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210923/6654837/image/65d081b7bcf8edd9d200d5c5655092c5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210924020000 +0900" stop="20210924031000 +0900" channel="kbsworld.jp">
