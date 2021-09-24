@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210924204500 +0900" stop="20210924210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20210924210000 +0900" stop="20210924220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽日米豪印の首脳が会合へ各国のねらいは？▽自民党総裁選エネルギー問題など討論▽ドリカムに聞く！いま音楽にできることは</desc>
@@ -302,13 +298,9 @@
     <title lang="en">正義の天秤</title>
     <desc lang="en">「元外科医」の肩書を持つ天才弁護士が、えん罪の悲劇に苦しみながら、戦力外チームを率いて数々の難事件の真相を暴き、事件に関わる人々の魂を救う法廷推理ミステリー。</desc>
   </programme>
-  <programme start="20210924204500 +0900" stop="20210924210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20210924210000 +0900" stop="20210924215500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">蔵出し！名舞台・歌舞伎の求道者・坂東三津五郎。究極の型と台詞で魅せた名人芸。蘭平物狂・魚屋宗五郎・娘道成寺・傀儡師ほか。長男・坂東巳之助が語る、父・三津五郎。</desc>
+  <programme start="20210925215000 +0900" stop="20210925222000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKだめ自慢〜みんながでるテレビ〜</title>
+    <desc lang="en">あさイチ鈴木アナが「めんどくさい」発言を連発！手話キャスターが「縄跳びダンス」をやりすぎた？チコちゃん５歳の暴走！シャイで真面目すぎるヤバＴが起こした珍事件…</desc>
   </programme>
   <programme start="20210924215500 +0900" stop="20210924220000 +0900" channel="eTele.jp">
     <title lang="en">365日の献立日記</title>
@@ -546,9 +538,17 @@
     <title lang="en">すくすく子育て</title>
     <desc lang="en">「ホントにできるの」「汚さないで」「危ないからやめて」などつい先回りして子どもに声をかけてしまうことはないですか？今回は過干渉の悩みについて専門家と考えます。</desc>
   </programme>
-  <programme start="20210924205400 +0900" stop="20210924210000 +0900" channel="NipponTV.jp">
-    <title lang="en">まもなく金曜ロードショー</title>
-    <desc lang="en">アドベンチャー映画の最高峰！「インディ・ジョーンズ／魔宮の伝説」の見どころを映画大好き芸人・こがけんがお届け★“映画モノマネ”を交えて、意外な注目場面もご紹介！</desc>
+  <programme start="20210925213000 +0900" stop="20210925215500 +0900" channel="eTele.jp">
+    <title lang="en">ウワサの保護者会</title>
+    <desc lang="en">尾木ママが、子育てや教育の悩み・疑問について、保護者と本音で語り合う。今回のテーマは「子どもの習い事」。保護者が抱える“もやもや”について、いっしょに考える。</desc>
+  </programme>
+  <programme start="20210925215500 +0900" stop="20210925220000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする「認知症ワンポイント介護」の１回目は「財布がない」などの被害妄想について。一緒に探して本人に「見つけてもらう」事が秘けつ</desc>
+  </programme>
+  <programme start="20210925220000 +0900" stop="20210925225000 +0900" channel="eTele.jp">
+    <title lang="en">SWITCHインタビュー 達人達(たち)</title>
+    <desc lang="en">新作歌舞伎「風の谷のナウシカ」振り付けを担当した日本舞踊家・尾上菊之丞。奇想天外な発想が武器の和紙作家・堀木エリ子。伝統に新風を吹き込む２人が大いに語る。</desc>
   </programme>
   <programme start="20210924210000 +0900" stop="20210924231900 +0900" channel="NipponTV.jp">
     <title lang="en">金曜ロードショー</title>
@@ -668,14 +668,18 @@
     <title lang="en">はじめてのおつかい</title>
     <desc lang="en">今晩は、潮田玲子の息子と娘がはじめてのおつかい。山道でのおつかいには、藤ヶ谷太輔がカメラマンとして参加。誰かのために頑張る子どもたちの元気と笑顔をお届けします！</desc>
   </programme>
-<programme start="20210924200000 +0900" stop="20210924214800 +0900" channel="Asahi.jp">
-  <title lang="en">ミュージックステーション</title>
-  <desc lang="en">今夜は最強恋うたSP！キンプリ・Snow Man登場▽ビリー・アイリッシュ新曲初披露▽ゴスペラーズ×リトグリ恋うたSPメドレー▽ファンモン８年ぶり▽平井大・aiko・乃木坂46</desc>
-</programme>
-<programme start="20210924214800 +0900" stop="20210924215400 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">今に受け継ぐニューディール政策の道・アメリカ</desc>
-</programme>
+  <programme start="20210925215400 +0900" stop="20210925215700 +0900" channel="NipponTV.jp">
+    <title lang="en">ワーズハウスへようこそ</title>
+    <desc lang="en">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
+  </programme>
+  <programme start="20210925215700 +0900" stop="20210925220000 +0900" channel="NipponTV.jp">
+    <title lang="en">ココロ通う街角</title>
+    <desc lang="en">街角で出会える心と心のつながりや、人と人の助け合いを美しい情景とともに描きます。</desc>
+  </programme>
+  <programme start="20210925220000 +0900" stop="20210925225400 +0900" channel="NipponTV.jp">
+    <title lang="en">ボイスII 110緊急指令室</title>
+    <desc lang="en">ついに最終回!!「樋口と久遠の最終決戦！」久遠（安藤政信）が最後に仕掛ける最凶最悪の事件！樋口（唐沢寿明）の選択とは！？有名声優も毎話出演！最終回は三ツ矢雄二！</desc>
+  </programme>
 <programme start="20210924215400 +0900" stop="20210924231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">行動制限緩和どうなる？“宣言”解除後の出口戦略を探る▽菅総理が最後の外遊…なぜ今？▽中国とどう向き合う…「外交」で見る総裁選▽プロ野球</desc>
@@ -826,6 +830,10 @@
   <title lang="en">サタデーステーション</title>
   <desc lang="en">週末に知りたいニュースを高島彩がわかりやすくお伝えします。土曜の夜は「立ち止まって、再発見。」今週の注目ニュースは、独自の取材で新しい角度からお届けします。</desc>
 </programme>
+<programme start="20210925215500 +0900" stop="20210925222500 +0900" channel="Asahi.jp">
+  <title lang="en">あざとくて何が悪いの?</title>
+  <desc lang="en">猛毒注意！！山里亮太×田中みな実×弘中綾香という危険すぎる３人が“あざとい男女”の言動について徹底トーク！！</desc>
+</programme>
 <programme start="20210924190000 +0900" stop="20210924220000 +0900" channel="TBS2.jp">
   <title lang="en">ぴったんこカン・カン</title>
   <desc lang="en">こんばんは安住紳一郎です！最終回の今夜は男性で出演回数１位２位の香川照之さんと大泉洋さんが初共演！そして米倉涼子さんと15回目のロケ…それでは、スタートです！！</desc>
@@ -962,13 +970,14 @@
   <title lang="en">世界ふしぎ発見!</title>
   <desc lang="en">10円玉でおなじみ！平等院を徹底取材！伝統と革新の街、京都の名所へ！レトロな洋館やリノベホテルも▽サムライも愛した藍染技法の秘密＆コロナ終息を願う鳳凰の卵とは？</desc>
 </programme>
-<programme start="20210924185500 +0900" stop="20210924214800 +0900" channel="TVTokyo.jp">
-  <title lang="en">ウソかホントかわからない やりすぎ都市伝説</title>
-  <desc lang="en">ミキ・ラランド・日向坂46加藤史帆が初登場…！さらにかまいたち！ニューヨーク！ずん飯尾も参戦！そしてMr.都市伝説　関暁夫と巡る【人類の新たな進化の旅】とは！？</desc>
+<programme start="20210925215400 +0900" stop="20210925220000 +0900" channel="TBS2.jp">
+  <title lang="en">和心百景</title>
+  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
+今回は、青森『津軽塗』　笛木優子</desc>
 </programme>
-<programme start="20210924214800 +0900" stop="20210924215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">インテリア日和</title>
-  <desc lang="en">毎回テーマをもってプロのインテリアコーディネーターがその部屋を魅力ある空間に大改造します。</desc>
+<programme start="20210925220000 +0900" stop="20210925232400 +0900" channel="TBS2.jp">
+  <title lang="en">新・情報7daysニュースキャスター</title>
+  <desc lang="en">ビートたけし＆安住紳一郎アナが１週間の事件・事故・政治・経済・芸能・スポーツを生放送で総まとめ！▽独自潜入取材〜感動の密着まで…いま見つめます</desc>
 </programme>
 <programme start="20210924215400 +0900" stop="20210924220000 +0900" channel="TVTokyo.jp">
   <title lang="en">わたしのヒュッゲ</title>
@@ -1149,10 +1158,6 @@
   <title lang="en">出没!アド街ック天国</title>
   <desc lang="en">拡大版「うま〜い！さいたま市」▼幸福度全国１位のさいたま市民が愛する地元メシ▼イクラかけ放題＆満腹まごころ定食▼溶けないアイス＆新感覚プリン▼個性派うどん王国</desc>
 </programme>
-<programme start="20210924190000 +0900" stop="20210924215800 +0900" channel="FujiTV.jp">
-  <title lang="en">ウワサのお客さま</title>
-  <desc lang="en">ゴリラ兄弟！真夏の大冒険▽から揚げ王２０２１年から揚げ最新トレンド▽原宿でスイーツ１００皿食べる美人母娘▽スーパーで食材爆買い美女モデル▽謎の美容男子</desc>
-</programme>
 <programme start="20210924215800 +0900" stop="20210924225200 +0900" channel="FujiTV.jp">
   <title lang="en">人志松本の酒のツマミになる話</title>
   <desc lang="en">勝地涼の小栗旬に指摘された癖…芸人は結婚すると面白くなくなる？に松本＆さまぁ〜ずが答える＆「結婚の良さ」を真剣に考える…黒谷友香テンションが上がるモノ</desc>
@@ -1284,14 +1289,6 @@
 <programme start="20210925210000 +0900" stop="20210925234000 +0900" channel="FujiTV.jp">
   <title lang="en">土曜プレミアム</title>
   <desc lang="en">歴代興行収入Ｎｏ．１映画を完全ノーカットで世界最速・ＴＶ初放送！果てしなく続く無限の夢の中へ―炭治郎たちと炎柱・煉獄杏寿郎が無限列車での任務に挑む</desc>
-</programme>
-<programme start="20210924200000 +0900" stop="20210924210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">減少傾向が続いている新型コロナ　東京の感染状況は？最新情報▼今月末で宣言解除も？小池知事は定例会見で何を…</desc>
-</programme>
-<programme start="20210924210000 +0900" stop="20210924215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">ＭＣ原田龍二！ライムスター宇多丸と芸人玉袋筋太郎がオトナに大騒ぎ！映画監督「森田芳光」に関する緊急企画発動</desc>
 </programme>
 <programme start="20210924215400 +0900" stop="20210924220000 +0900" channel="Tokyo MX">
   <title lang="en">別冊オリンピア・キュクロス</title>
@@ -1507,6 +1504,14 @@
 </programme>
 <programme start="20210925210000 +0900" stop="20210925213000 +0900" channel="Tokyo MX">
   <title lang="en">斬波ZANMAI</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210925213000 +0900" stop="20210925220000 +0900" channel="Tokyo MX">
+  <title lang="en">音ボケPOPS</title>
+  <desc lang="en">今回は、ＭＣの中川翔子と庄司智春（品川庄司）が、スタジオを飛び出し江の島唯一のリゾートホテル江の島ホテルを満喫する特別編！トークゲストは、Ｌｅａｄ。</desc>
+</programme>
+<programme start="20210925220000 +0900" stop="20210925223000 +0900" channel="Tokyo MX">
+  <title lang="en">ぼくたちのリメイク</title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210923230000 +0900" stop="20210924010000 +0900" channel="FujiNext.jp">
@@ -2309,7 +2314,7 @@ https://otn.fujitv.co.jp
 <programme start="20210924210000 +0900" stop="20210924220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210924/6654859/image/f6ffb1cc2ac7f3277230d42cacb2076e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210924220000 +0900" stop="20210924234000 +0900" channel="kbsworld.jp">
