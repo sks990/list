@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210925035000 +0900" stop="20210925040500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">先どり きょうの健康</title>
-    <desc lang="en">関節に炎症がおき、放置すると骨などが破壊されて関節が変形してしまう関節リウマチ。早期発見して治療を始めれば、症状の進行を抑え、上手に病気とつきあうことができる。</desc>
-  </programme>
-  <programme start="20210925040500 +0900" stop="20210925043000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲（2021年） 秋場所</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20210925043000 +0900" stop="20210925045900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">日本の話芸</title>
-    <desc lang="en">第４１７回ＮＨＫ上方落語の会から笑福亭枝鶴さんの口演で落語「遊山船」をお送りします（２０２１年７月１日（木）ＮＨＫ大阪ホールで収録）。</desc>
-  </programme>
   <programme start="20210925045900 +0900" stop="20210925050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">明日へ1min.</title>
     <desc lang="en">たまねぎの皮をむき十字に切れ目をいれる▽アルミホイルに包みフライパンへ▽蓋をして弱火で２５分蒸し焼きに▽ポン酢と鰹節をつけてよりおいしく▽ほかの野菜でも試せます</desc>
@@ -301,6 +289,18 @@
   <programme start="20210926040000 +0900" stop="20210926040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">みんなのうた</title>
     <desc lang="en">「わたしの紙風船」うた：紙ふうせん／「天下無敵のゴーヤーマン★」うた：ガレッジセール</desc>
+  </programme>
+  <programme start="20210926040500 +0900" stop="20210926043000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲（2021年） 秋場所</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210926043000 +0900" stop="20210926050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">はやウタ</title>
+    <desc lang="en">ブロードウェイ発青春ミュージカルＳＰメドレー▽真田ナオキが師匠・吉幾三からもらったプレゼント▽作曲家・浜口庫之助遺作▽さゆり・大江・美貴の話題曲▽司会・井上芳雄</desc>
+  </programme>
+  <programme start="20210926050000 +0900" stop="20210926051000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210925005000 +0900" stop="20210925053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -554,6 +554,10 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
+  <programme start="20210926050000 +0900" stop="20210926060000 +0900" channel="eTele.jp">
+    <title lang="en">こころの時代〜宗教・人生〜</title>
+    <desc lang="en">横浜市にある信愛塾は、４０年以上、外国にルーツを持つ子どもたちの支援を行い、その居場所となってきた。センター長の竹川真理子さんにこれまでのあゆみとその思いを伺う</desc>
+  </programme>
   <programme start="20210925030900 +0900" stop="20210925050400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">上半期最終セール！ポシュレ人気商品が史上最安値連発！振動マシーン＆美顔器＆脱毛器＆マッサージチェア！人気の高機能シャワーヘッド、大粒ダイヤなども決算大放出！</desc>
@@ -688,18 +692,14 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">上半期最終セール！ポシュレ人気商品が史上最安値連発！振動マシーン＆美顔器＆脱毛器＆マッサージチェア！人気の高機能シャワーヘッド、大粒ダイヤなども決算大放出！</desc>
   </programme>
-<programme start="20210925012500 +0900" stop="20210925042500 +0900" channel="Asahi.jp">
-  <title lang="en">朝まで生テレビ!</title>
-  <desc lang="en">1987年スタートの深夜討論番組。今月は『激論！コロナ禍の総裁選とニッポンの課題』をテーマにお送りします。</desc>
-</programme>
-<programme start="20210925042500 +0900" stop="20210925043000 +0900" channel="Asahi.jp">
-  <title lang="en">おはようゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？</desc>
-</programme>
-<programme start="20210925043000 +0900" stop="20210925045500 +0900" channel="Asahi.jp">
-  <title lang="en">渡辺篤史の建もの探訪</title>
-  <desc lang="en">「緑に包まれて暮らす七角形の家」千葉県松戸市・白石邸</desc>
-</programme>
+  <programme start="20210926042600 +0900" stop="20210926045600 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
+  </programme>
+  <programme start="20210926045600 +0900" stop="20210926050100 +0900" channel="NipponTV.jp">
+    <title lang="en">そしてバトンは渡された秘密編</title>
+    <desc lang="en">本屋大賞受賞のベストセラー「そして、バトンは渡された」ついに映画化！永野芽郁、田中圭、石原さとみ超豪華キャストの㊙トーク！驚きと感動が詰まった物語の秘密に迫る！</desc>
+  </programme>
 <programme start="20210925045500 +0900" stop="20210925052000 +0900" channel="Asahi.jp">
   <title lang="en">おかずのクッキング</title>
   <desc lang="en">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
@@ -860,17 +860,10 @@
   <title lang="en">Get Sports 特別編</title>
   <desc lang="en">水泳〜クラブ世界一決定戦“ＩＳＬ”</desc>
 </programme>
-<programme start="20210925024700 +0900" stop="20210925040000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
-</programme>
-<programme start="20210925040000 +0900" stop="20210925041500 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
-</programme>
-<programme start="20210925041500 +0900" stop="20210925044500 +0900" channel="TBS2.jp">
-  <title lang="en">開運音楽堂</title>
-  <desc lang="en">伊藤かりん、開運スタジオ初登場!!藤江れいなからミュージック・プレゼンターを引き継ぎ!!▽曲の方は他愛もなくない仕上がり▽「ちゃんぽん」みたいな内容のEPとは?</desc>
+<programme start="20210926050000 +0900" stop="20210926052000 +0900" channel="Asahi.jp">
+  <title lang="en">はい!テレビ朝日です</title>
+  <desc lang="en">戦争の記憶と記録を語り継ぐ映画祭
+テレメンタリー「史実を刻む〜語り継ぐ“戦争と性暴力”〜」が上映され、高校生と関係者がインターネット回線で語り合いました。</desc>
 </programme>
 <programme start="20210925044500 +0900" stop="20210925051500 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -993,9 +986,10 @@
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20210925040000 +0900" stop="20210925042300 +0900" channel="TVTokyo.jp">
+<programme start="20210926044000 +0900" stop="20210926054000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
-  <desc lang="en"></desc>
+  <desc lang="en">通販番組（ＴＶショッピング）
+</desc>
 </programme>
 <programme start="20210925042300 +0900" stop="20210925054500 +0900" channel="TVTokyo.jp">
   <title lang="en">ものスタ サタデー</title>
@@ -1162,17 +1156,16 @@
   <title lang="en">一夜づけ</title>
   <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
 </programme>
-<programme start="20210926033000 +0900" stop="20210926040000 +0900" channel="TVTokyo.jp">
+<programme start="20210926033000 +0900" stop="20210926041500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20210925035500 +0900" stop="20210925045000 +0900" channel="FujiTV.jp">
-  <title lang="en">ヒロミの集結!スゴ腕カリスマバイヤーズ</title>
-  <desc lang="en">次々にヒット商品を生み出している“カリスマバイヤーズ”たち。彼らだからこそ知る美容や健康の秘訣を伝授！さらに、確かな目利きを持つ彼らイチ押しの商品が続々と登場！</desc>
-</programme>
-<programme start="20210925045000 +0900" stop="20210925045200 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+<programme start="20210926041500 +0900" stop="20210926052000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ サンデー</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20210925045200 +0900" stop="20210925052200 +0900" channel="FujiTV.jp">
   <title lang="en">テレビ寺子屋</title>
@@ -1291,13 +1284,13 @@
   <title lang="en">ミミヨリ!</title>
   <desc lang="en">耳より情報をお届けします！</desc>
 </programme>
-<programme start="20210925035000 +0900" stop="20210925040000 +0900" channel="Tokyo MX">
-  <title lang="en">路面電車のある風景</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210925040000 +0900" stop="20210925043000 +0900" channel="Tokyo MX">
+<programme start="20210926043000 +0900" stop="20210926045500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+</programme>
+<programme start="20210926045500 +0900" stop="20210926050500 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
 </programme>
 <programme start="20210925043000 +0900" stop="20210925050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1504,6 +1497,14 @@
   <desc lang="en">彼氏の胃袋落としメシ！（後編）</desc>
 </programme>
 <programme start="20210926040000 +0900" stop="20210926043000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210926043000 +0900" stop="20210926045500 +0900" channel="Tokyo MX">
+  <title lang="en">ヒーリングタイムヘッドラインニュース</title>
+  <desc lang="en">ねこの足跡＆看板猫</desc>
+</programme>
+<programme start="20210926045500 +0900" stop="20210926052500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1731,7 +1732,7 @@ https://otn.fujitv.co.jp
 ＜MC＞バカリズム
 ＜出演＞e-Sportsプレイヤー
 ※第2音声：ゲーム音のみ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210924/6666659/image/509eb7b0405d63f6a0e298ca1a17f5eb.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210925050000 +0900" stop="20210925053000 +0900" channel="FujiOne.jp">
