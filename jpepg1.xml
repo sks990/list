@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210925135000 +0900" stop="20210925145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">土曜スタジオパーク</title>
-    <desc lang="en">ゲストは、主演の増田貴久さん。ドラマの舞台裏、友達づくりのコツ、高校生の頃の思い出を伺います。共演者の池田エライザさんらが素顔を証言！後半は、秋の新番組特集。</desc>
-  </programme>
-  <programme start="20210925145000 +0900" stop="20210925145500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">名曲アルバム</title>
-    <desc lang="en">「幻想即興曲」（ピアノ）清水和音　〜フランス・パリ〜</desc>
-  </programme>
   <programme start="20210925145500 +0900" stop="20210925150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">キャラとおたまじゃくし島</title>
     <desc lang="en">まっすぐで愛にあふれた少女戦士キャラが、不思議なガッキアニマルたちと出会い心を通わせる中で、音楽を奪われた島の謎を次々と解き明かす冒険ファンタジー第３７話。</desc>
@@ -338,9 +330,21 @@
     <title lang="en">ファミリーヒストリー</title>
     <desc lang="en">伊達みきおさんは芸人になる時、「伊達の名は使うな」と父から言われた。伊達政宗につながる家系。伊達の名を背負う重み、誇りが明らかになる。そして、震災で誓った覚悟。</desc>
   </programme>
-  <programme start="20210925130000 +0900" stop="20210925140000 +0900" channel="eTele.jp">
-    <title lang="en">こころの時代〜宗教・人生〜</title>
-    <desc lang="en">仏教の原点となった「心身を観察する」瞑想は、心を静める一方で「病」ともいえる負の側面も持っていた。瞑想中に煩悩や辛い記憶に悩まされたときの対処法を仏典からみる。</desc>
+  <programme start="20210926144800 +0900" stop="20210926145300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">▼サンドウィッチマンＭＣ＜地元愛バラエティー＞がスタート！▼地元を愛する人・ロコだけが知っているとっておき情報が続々▼ナレーションはＰｅｒｆｕｍｅのあ〜ちゃん！</desc>
+  </programme>
+  <programme start="20210926145300 +0900" stop="20210926145800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">２７日（月）午後４時２０分から再放送される連続テレビ小説「純ちゃんの応援歌」。主演の山口智子のインタビューなどを通じてドラマの魅力に迫る！</desc>
+  </programme>
+  <programme start="20210926145800 +0900" stop="20210926150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">重い副反応が出た時にどう備えるのか？家事や子育てへの影響を心配して事前に対策を講じた夫婦の事例を紹介。食材の買い置きや幼稚園の送迎など、家庭でできる工夫を紹介</desc>
+  </programme>
+  <programme start="20210926150000 +0900" stop="20210926150500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20210925140000 +0900" stop="20210925150000 +0900" channel="eTele.jp">
     <title lang="en">TVシンポジウム</title>
@@ -546,13 +550,9 @@
     <title lang="en">日本の話芸</title>
     <desc lang="en">林家正蔵さんの落語「心眼」をお送りします（令和３年６月２５日（金）収録）</desc>
   </programme>
-  <programme start="20210925133000 +0900" stop="20210925143000 +0900" channel="NipponTV.jp">
-    <title lang="en">はじめてのおつかい</title>
-    <desc lang="en">25（土）夜７時から3時間スペシャルをお送りします！</desc>
-  </programme>
-  <programme start="20210925143000 +0900" stop="20210925145500 +0900" channel="NipponTV.jp">
-    <title lang="en">土曜ドラマ「ボイスII」今夜最終話に間に合うSP</title>
-    <desc lang="en">唐沢寿明主演！真木よう子・増田貴久！１１０番通報を受ける緊急指令室（ECU）を舞台に「声」「音」を頼りに制限時間内に人々を救い出すタイムリミットサスペンス第２弾</desc>
+  <programme start="20210926143000 +0900" stop="20210926160000 +0900" channel="eTele.jp">
+    <title lang="en">第37回全国小学生陸上競技交流大会</title>
+    <desc lang="en">第３７回全国小学生陸上競技交流大会。多くのオリンピック代表選手が出場経験のある大会が今年、２年ぶりの開催。各都道府県を代表する小学生が日産スタジアムで競い合う。</desc>
   </programme>
   <programme start="20210925145500 +0900" stop="20210925150000 +0900" channel="NipponTV.jp">
     <title lang="en">一行ポップ</title>
@@ -695,10 +695,14 @@
     <title lang="en">千鳥VSかまいたち</title>
     <desc lang="en">10月2日、土曜よる11時30分…レギュラースタート！毎週、旬のゲストの魅力を4人が根掘り葉掘り炙り出します！！その初回ゲストを先行公開！一体誰！？</desc>
   </programme>
-<programme start="20210925133000 +0900" stop="20210925143000 +0900" channel="Asahi.jp">
-  <title lang="en">家事ヤロウ!!!</title>
-  <desc lang="en">２８日よるリアル家事２４時ＳＰ！バカリズム・中丸雄一・カズレーザーの家事初心者３人が「余らせがち食材大量消費レシピ」＆イケメン社長のお悩み家事をグッズで解決！</desc>
-</programme>
+  <programme start="20210926141500 +0900" stop="20210926150000 +0900" channel="NipponTV.jp">
+    <title lang="en">ものまねグランプリ 28日(火)放送直前スペシャル</title>
+    <desc lang="en">あさって２８日（火）１９時５６分〜放送！ものまねＧＰは「新世代ものまね歌姫」「最強の新ネタ」No.1決定戦！その前に大会の裏側過去の傑作ネタを公開！</desc>
+  </programme>
+  <programme start="20210926150000 +0900" stop="20210926162500 +0900" channel="NipponTV.jp">
+    <title lang="en">第48回ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント</title>
+    <desc lang="en">初の賞金女王を狙う小祝さくら。渋野日向子。プラチナ世代・古江彩佳＆西村優菜。有村智恵、菊地絵理香、山路晶ら東北高校出身選手。実力者が揃う秋の陣、女王決定最終日。</desc>
+  </programme>
 <programme start="20210925143000 +0900" stop="20210925153000 +0900" channel="Asahi.jp">
   <title lang="en">世界何位だ!? ジャパンドラ</title>
   <desc lang="en">日本の世界ランキングを様々なテーマでアプローチ！一体、日本は何位なのか？パンドラの箱を開けるバラエティ。世界第１位の国から学び、未来を切り開く可能性を探ります。</desc>
@@ -849,9 +853,10 @@
   <title lang="en">ザワつく!金曜日</title>
   <desc lang="en">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
 </programme>
-<programme start="20210925115900 +0900" stop="20210925140000 +0900" channel="TBS2.jp">
-  <title lang="en">王様のブランチ</title>
-  <desc lang="en">買い物の達人！人気タレント10万円で何を買う？▽芸能人とグルメめぐり▽旬のタレントと気になるトレンド探し▽物件リサーチ▽佐藤栞里</desc>
+<programme start="20210926145500 +0900" stop="20210926161500 +0900" channel="Asahi.jp">
+  <title lang="en">こんな入口→まさかの出口!!</title>
+  <desc lang="en">衝撃ギャップバラエティ！真面目な警察官がプロ格闘家に⁉スマホが一瞬でミニチュアに⁉
+気になる入口と出口…その間にあったのは意外すぎる「発想の方向転換」だった！</desc>
 </programme>
 <programme start="20210925140000 +0900" stop="20210925155400 +0900" channel="TBS2.jp">
   <title lang="en">あと1週間!キングオブコント</title>
@@ -1009,13 +1014,14 @@
   <title lang="en">バナナサンド</title>
   <desc lang="en">秋のテンション爆上がりキャンプは緊張感ＭＡＸのバトル連発！負ければ川の水でビショビショ＆泥まみれ！勝てば絶品キャンプ飯▼香川照之も参戦で悶絶罰ゲームの餌食に！？</desc>
 </programme>
-<programme start="20210925132800 +0900" stop="20210925142300 +0900" channel="TVTokyo.jp">
-  <title lang="en">虎ノ門市場 〜毎日、幸せごはん。〜</title>
-  <desc lang="en">最北の地の海鮮で究極のご飯のおかずを求めて！激レア…島ウニの贅沢海鮮セットに国分佐智子＆食いしん坊が仰天！日本一の米農家遠藤五一が作る極上の新米！</desc>
-</programme>
-<programme start="20210925142300 +0900" stop="20210925143000 +0900" channel="TVTokyo.jp">
+<programme start="20210926145400 +0900" stop="20210926150000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
-  <desc lang="en">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20210926150000 +0900" stop="20210926153000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME,#0</title>
+  <desc lang="en">安住香川両司会に各局アナが熱血プレゼン「ウチのまちに中継来てよ！」
+10月1日スタートの新番組の目玉企画「列島中継」も大盛り上がりの予感…。</desc>
 </programme>
 <programme start="20210925143000 +0900" stop="20210925150000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1197,15 +1203,6 @@
   <title lang="en">さすらい署長 風間昭平13 ほくと函館湾殺人事件</title>
   <desc lang="en">北大路欣也主演の人気シリーズのスペシャル版！さすらい署長が函館で起きた事件の闇に迫る！不審死、詐欺集団の追跡、突然の失踪ーー数々の事件を繋ぐ哀しき復讐とは!?</desc>
 </programme>
-<programme start="20210925133000 +0900" stop="20210925143000 +0900" channel="FujiTV.jp">
-  <title lang="en">小倉ベース</title>
-  <desc lang="en">小倉智昭が仕事部屋「小倉ベース」にゲストを招くトーク番組特別版。ゲスト：池田エライザ・上戸彩・カズレーザー（五十音順）</desc>
-</programme>
-<programme start="20210925143000 +0900" stop="20210925143500 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
-</programme>
 <programme start="20210925143500 +0900" stop="20210925152500 +0900" channel="FujiTV.jp">
   <title lang="en">10月1日金曜夜放送!さんまのまんま</title>
   <desc lang="en">鬼滅声優“花澤香菜”とさんまが２２年ぶり再会！赤面新婚トーク▽吉岡里帆“かまいたち大好き”発言に山内がイキリ連発？▽北村匠海＆今田美桜に共通の弱点発覚</desc>
@@ -1357,13 +1354,13 @@
   <title lang="en">ザ・ノンフィクション</title>
   <desc lang="en">実家の母に借金のお願いをする４４歳の姉と資産家の息子である夫…夫婦の預金残高はわずか４８７３円…親から譲り受けた家を売却し姉は人生初の職探しを始めるのだが…</desc>
 </programme>
-<programme start="20210925133000 +0900" stop="20210925140000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210926145500 +0900" stop="20210926150000 +0900" channel="FujiTV.jp">
+  <title lang="en">ビジネスStyle</title>
+  <desc lang="en">時代を切り拓く企業のトップへのインタビューを始め、商品やサービスなどを多面的に紹介。その理念や哲学からみえてくるビジネスＳｔｙｌｅとは？</desc>
 </programme>
-<programme start="20210925140000 +0900" stop="20210925143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20210926150000 +0900" stop="20210926160000 +0900" channel="FujiTV.jp">
+  <title lang="en">みんなのKEIBA</title>
+  <desc lang="en">「神戸新聞杯」今年のダービーを制した世代王者シャフリヤールが秋ＧⅠを見据え本格始動▽「オールカマー」天皇賞・秋へのトライアルレース▽凱旋門賞の最新情報</desc>
 </programme>
 <programme start="20210925143000 +0900" stop="20210925150000 +0900" channel="Tokyo MX">
   <title lang="en">杉村太蔵の情熱先生TV</title>
@@ -1577,6 +1574,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20210926143000 +0900" stop="20210926150000 +0900" channel="Tokyo MX">
+  <title lang="en">水曜どうでしょうClassic</title>
+  <desc lang="en">ユーコン川１６０キロ　〜地獄の６日間〜⑥</desc>
+</programme>
+<programme start="20210926150000 +0900" stop="20210926153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20210924235000 +0900" stop="20210925005000 +0900" channel="FujiNext.jp">
 <title lang="en">コールドプレイ Live at La Cigale 2012</title>
 <desc>イギリスの超人気ロックバンド「コールドプレイ」が、2012年にパリの劇場ラ・シガールで行ったライブを放送！
@@ -1664,7 +1669,7 @@
 <desc>10th フジサンケイクラシック（1982年）
 「激闘！中島常幸vsマーシュ」
 ▽フジサンケイクラシックの激闘の歴史をプレイバック！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210925/6666579/image/034a2e816debc13ec510f0e8b7b9fb5f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210925150000 +0900" stop="20210925162000 +0900" channel="FujiNext.jp">
@@ -2325,7 +2330,7 @@ https://otn.fujitv.co.jp
 <programme start="20210925132000 +0900" stop="20210925150000 +0900" channel="kbsworld.jp">
 <title lang="en">ミュージックバンク【字幕なし】</title>
 <desc>大人気Ｋ−ＰＯＰアイドルが最近のヒットソングを届ける人気音楽放送！韓国放送日から２４時間以内に放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210925/6656989/image/410073e913fb840652a27303a2488a89.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210925150000 +0900" stop="20210925171500 +0900" channel="kbsworld.jp">
