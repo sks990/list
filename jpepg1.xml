@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210925193000 +0900" stop="20210925201500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ブラタモリ</title>
-    <desc lang="en">神話では日本列島のなかで神が最初にうんだ島だとされている淡路島。その秘密をタモリさんがブラブラ歩いて解き明かす▽北から南まで５０キロ以上！淡路島をめぐりつくす旅</desc>
-  </programme>
-  <programme start="20210925201500 +0900" stop="20210925204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">有吉のお金発見 突撃!カネオくん</title>
-    <desc lang="en">ふだん聞けないお金の秘密をカネオくんが可視化で解明！みんな大好きアイスクリームを徹底調査！あの大ヒットアイスの開発秘話にＭＣ有吉弘行と田牧そらちゃんもビックリ</desc>
-  </programme>
-  <programme start="20210925204500 +0900" stop="20210925205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20210925205500 +0900" stop="20210925210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -346,13 +334,17 @@
     <title lang="en">青天を衝（つ）け</title>
     <desc lang="en">明治政府から出仕を求められた篤太夫。一度は固辞するも、大隈重信の熱い説得に胸が高鳴り、完全に言い負かされる。そして謹慎が解かれた慶喜は、篤太夫に最後の命を下す。</desc>
   </programme>
-  <programme start="20210925195500 +0900" stop="20210925200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】板鼻英二</desc>
+  <programme start="20210926204500 +0900" stop="20210926205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20210925200000 +0900" stop="20210925204500 +0900" channel="eTele.jp">
-    <title lang="en">チョイス＠病気になったとき</title>
-    <desc lang="en">過去の放送をコンパクトにまとめて紹介する「まとめスペシャル」。今回は脂肪肝と肝がん。肝がん治療の最新情報や、肝臓を守る食事、脂肪肝を改善する運動などを伝える。</desc>
+  <programme start="20210926205500 +0900" stop="20210926210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20210926210000 +0900" stop="20210926215000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">認知症の人が認知症の人に悩みを打ち明ける、ある病院の相談室を１年間記録。相談員は先に認知症となった“認知症の先輩”。当事者や家族が見出した人生のメッセージとは？</desc>
   </programme>
   <programme start="20210925204500 +0900" stop="20210925210000 +0900" channel="eTele.jp">
     <title lang="en">ろうを生きる 難聴を生きる</title>
@@ -546,6 +538,14 @@
     <title lang="en">日曜美術館</title>
     <desc lang="en">卓越したものづくりが一堂に介す日本伝統工芸展。今年は２６歳の受賞者も誕生するなど、若手の活躍が著しい。伝統に根ざしながらつむがれる冒険の数々！</desc>
   </programme>
+  <programme start="20210926204500 +0900" stop="20210926210000 +0900" channel="eTele.jp">
+    <title lang="en">日曜美術館 アートシーン</title>
+    <desc lang="en">「宮崎学　イマドキの野生動物」（東京都写真美術館８月２４日〜１０月３１日）ほか、展覧会情報</desc>
+  </programme>
+  <programme start="20210926210000 +0900" stop="20210926225500 +0900" channel="eTele.jp">
+    <title lang="en">古典芸能への招待</title>
+    <desc lang="en">京都五花街合同公演「都の賑い（みやこのにぎわい）」▽京都の芸妓・舞妓が勢ぞろいする華やかな舞台をノーカットで▽ゲストは桂米團治（落語家）と山村紅葉（女優）</desc>
+  </programme>
   <programme start="20210925190000 +0900" stop="20210925215400 +0900" channel="NipponTV.jp">
     <title lang="en">はじめてのおつかい</title>
     <desc lang="en">今晩は、潮田玲子の息子と娘がはじめてのおつかい。山道でのおつかいには、藤ヶ谷太輔がカメラマンとして参加。誰かのために頑張る子どもたちの元気と笑顔をお届けします！</desc>
@@ -712,10 +712,14 @@
     <title lang="en">世界の果てまでイッテQ!</title>
     <desc lang="en">みやぞん史上最難関バイオリンで名曲エトピリカ習得へ前代未聞３か月チャレンジ！葉加瀬太郎と夢の共演▼オーシャンズ日本最後の秘境トカラ列島でトビウオ大群水中撮影へ</desc>
   </programme>
-<programme start="20210925185600 +0900" stop="20210925205400 +0900" channel="Asahi.jp">
-  <title lang="en">池上彰のニュースそうだったのか!!</title>
-  <desc lang="en">来週には自民党の総裁選挙、そして衆議院議員選挙もまもなく行われます。今更知らないとは言えない選挙のいろいろ、初めて総選挙を経験する若者と一緒に確認しましょう！</desc>
-</programme>
+  <programme start="20210926205400 +0900" stop="20210926210000 +0900" channel="NipponTV.jp">
+    <title lang="en">音のソノリティ</title>
+    <desc lang="en">環境で変化する自然や天然の音、各地に根付く情緒溢れる文化の音、地球や生命の息遣いや生物の奏でる音楽など、様々なサウンドの世界を紹介。音の原風景を届けます。</desc>
+  </programme>
+  <programme start="20210926210000 +0900" stop="20210926215400 +0900" channel="NipponTV.jp">
+    <title lang="en">行列のできる法律相談所</title>
+    <desc lang="en">山田涼介が人気YouTuberおススメ巨大魚アカマンボウを食す!尾崎裕哉バラエティー初登場!父・尾崎豊の愛情が詰まった超極秘メモに感動!バド銅獲得ワタガシペア</desc>
+  </programme>
 <programme start="20210925205400 +0900" stop="20210925215500 +0900" channel="Asahi.jp">
   <title lang="en">サタデーステーション</title>
   <desc lang="en">どうなる？宣言解除…制限緩和は▽コロナ後遺症の実態▽“ネット誹謗中傷”卓球・水谷選手も被害…新たな対策▽大谷翔平…熾烈“ホームラン王”レース＆ＭＶＰは最有力⁉(他)</desc>
@@ -863,6 +867,15 @@ vs空箱フィギュアvs卵に卵を積み重ねる究極技</desc>
 <programme start="20210926195800 +0900" stop="20210926205600 +0900" channel="Asahi.jp">
   <title lang="en">ポツンと一軒家</title>
   <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
+</programme>
+<programme start="20210926205600 +0900" stop="20210926210000 +0900" channel="Asahi.jp">
+  <title lang="en">食ノ音色</title>
+  <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
+今回の“食ノ音色”を奏でる主役は『スコーン』です。</desc>
+</programme>
+<programme start="20210926210000 +0900" stop="20210926230500 +0900" channel="Asahi.jp">
+  <title lang="en">007 スペクター</title>
+  <desc lang="en">１０月１日（金）に全国ロードショーとなるシリーズ最新作『007／ノー・タイム・トゥ・ダイ』公開を記念して「007 スペクター」を地上波初放送！</desc>
 </programme>
 <programme start="20210925185100 +0900" stop="20210925210000 +0900" channel="TBS2.jp">
   <title lang="en">ジョブチューン〜アノ職業のヒミツぶっちゃけます!</title>
@@ -1023,9 +1036,9 @@ vs空箱フィギュアvs卵に卵を積み重ねる究極技</desc>
   <title lang="en">THE鬼タイジ</title>
   <desc lang="en">ウエンツ・マヂラブ・乃木坂46初参戦！五輪金メダリストVS史上最強鬼！標高370ｍ巨大吊り橋で鬼から逃げろ！地獄迷路で鬼の罠…メジャーリーガー鬼＆暗闇の二刀流鬼</desc>
 </programme>
-<programme start="20210925183000 +0900" stop="20210925205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">出川哲朗の充電させてもらえませんか?</title>
-  <desc lang="en">南国“宮崎”をズズっと縦断100キロ！ですが…マジっすか？田中圭が来てくれたぁ！宇梶もアンガ田中も“それ聞いてないよ！”でヤバいよヤバいよSP</desc>
+<programme start="20210926205700 +0900" stop="20210926224800 +0900" channel="TBS2.jp">
+  <title lang="en">里帰り代行します!</title>
+  <desc lang="en">卓球金・水谷隼の地元に同級生が凱旋代行★吉田沙保里…７歳姪っ子が初めての食リポ★新庄剛志…ドラフト同期が語る素顔★出演者の元カノがサプライズ登場＆中継リポート</desc>
 </programme>
 <programme start="20210925205400 +0900" stop="20210925210000 +0900" channel="TVTokyo.jp">
   <title lang="en">生きるを伝える</title>
@@ -1198,6 +1211,13 @@ vs空箱フィギュアvs卵に卵を積み重ねる究極技</desc>
   <title lang="en">日曜ビッグバラエティ</title>
   <desc lang="en">全国タクシー飯50連発！東北の山奥で秘境山菜そば＆ドデカ唐揚げ串＆感動うに丼＆下町洋食ナポリタン＆日光の洋館オムライス＆力士100皿完食焼肉＆生クリーム果物サンド</desc>
 </programme>
+<programme start="20210926210000 +0900" stop="20210926222400 +0900" channel="TVTokyo.jp">
+  <title lang="en">モヤモヤさまぁ〜ず2</title>
+  <desc lang="en">▼猫語を操る不思議店主がにゃんこ大招集
+▼アルフィー喫茶のパスタ大好き小学生発見
+▼三村たい平＆おいでやす田中が秩父に降臨
+▼ド派手！不思議カレー店店主に驚愕</desc>
+</programme>
 <programme start="20210925190000 +0900" stop="20210925210000 +0900" channel="FujiTV.jp">
   <title lang="en">超逆境クイズバトル!!99人の壁</title>
   <desc lang="en">これさえ見れば鬼滅の刃の魅力がわかる！ファンが選ぶ名シーンランキング▽サザエさん制作現場へ！キャラ原画マニュアル初公開！大谷翔平も出ていた！有名人登場回▽声優Ｑ</desc>
@@ -1361,14 +1381,6 @@ vs空箱フィギュアvs卵に卵を積み重ねる究極技</desc>
 <programme start="20210926190000 +0900" stop="20210926215400 +0900" channel="FujiTV.jp">
   <title lang="en">ドリフに大挑戦スペシャル</title>
   <desc lang="en">ドリフ伝説のコントが今夜よみがえる！サンド、劇団ひとり、アンタ柴田ら「ドリフ・ラヴァーズ」が威勢の良い風呂屋、入院中のおばあちゃん等名作に挑む！</desc>
-</programme>
-<programme start="20210925193000 +0900" stop="20210925200000 +0900" channel="Tokyo MX">
-  <title lang="en">日本のチカラ</title>
-  <desc lang="en">ひとりじゃない　〜ママがゆく！復興への道〜</desc>
-</programme>
-<programme start="20210925200000 +0900" stop="20210925203000 +0900" channel="Tokyo MX">
-  <title lang="en">すごいぞ台湾</title>
-  <desc lang="en">台湾はグルメだけではない⁉世界が注目する台湾製品のヒミツを取材！コーヒー粕でできたジャケットやポータブル空気清浄機など魅力満載！</desc>
 </programme>
 <programme start="20210925203000 +0900" stop="20210925210000 +0900" channel="Tokyo MX">
   <title lang="en">遊戯配信 e-Strangers</title>
@@ -1584,6 +1596,14 @@ vs空箱フィギュアvs卵に卵を積み重ねる究極技</desc>
 </programme>
 <programme start="20210926200000 +0900" stop="20210926203000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210926203000 +0900" stop="20210926210000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20210926210000 +0900" stop="20210926213000 +0900" channel="Tokyo MX">
+  <title lang="en">ぐらぶるTVちゃんねるっ!</title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20210924235000 +0900" stop="20210925005000 +0900" channel="FujiNext.jp">
@@ -2358,7 +2378,7 @@ https://otn.fujitv.co.jp
 <programme start="20210925194500 +0900" stop="20210925210000 +0900" channel="kbsworld.jp">
 <title lang="en">優雅な友達（原題）　#3　[字][再]</title>
 <desc>ベーシック初放送！親友5人とその妻たちに隠された秘密、2つの殺人事件、友人の死から驚愕の真実が明らかなっていくミステリー　コメディメロドラマ！2020年　全17話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20210925/6656993/image/fccfd85fc02e380cb4de576ddc471e63.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20210925210000 +0900" stop="20210925214000 +0900" channel="kbsworld.jp">
