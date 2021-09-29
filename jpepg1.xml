@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20210930012200 +0900" stop="20210930021100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">正義の天秤</title>
-    <desc lang="en">「元外科医」の肩書を持つ天才弁護士が、えん罪の悲劇に苦しみながら、戦力外チームを率いて数々の難事件の真相を暴き、事件に関わる人々の魂を救う法廷推理ミステリー。</desc>
-  </programme>
-  <programme start="20210930021100 +0900" stop="20210930025100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽北朝鮮「極超音速ミサイルを発射」その実態は▽米軍司令官「アフガンの兵力維持を提言」▽ビットコイン取引拠点目指すテキサス▽中国がん患者を支えるキッチン※ＳＤＧｓ</desc>
-  </programme>
   <programme start="20210930025100 +0900" stop="20210930035100 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
@@ -289,6 +281,10 @@
   <programme start="20211001013300 +0900" stop="20211001021300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽女性写真家が見た素顔のスティーブ・ジョブズ▽アフガニスタン　女性オーケストラの苦闘▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211001021300 +0900" stop="20211001031200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ザ少年倶楽部</title>
+    <desc lang="en">年に一度の「ザ少年倶楽部ｉｎ大阪」！関西ジャニーズＪｒ．のパフォーマンスと彼らの意外な素顔をお届け。グループをシャッフルしての「メンバーカラーメドレー」初披露！</desc>
   </programme>
   <programme start="20210930010000 +0900" stop="20210930053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -630,10 +626,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20210930015900 +0900" stop="20210930022900 +0900" channel="NipponTV.jp">
-    <title lang="en">浜ちゃんが!</title>
-    <desc lang="en">芸能人が愛用している「お取り寄せ」を披露し合う「お取り寄せグルメチャンピオン大会」あの人は一体どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
-  </programme>
   <programme start="20210930022900 +0900" stop="20210930035400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは秋もお得情報満載！人気脱毛器、首用EMS機器、高機能シャワーヘッド、NO1枕、英国バッグ、バカ売れ美顔器、ブルブルボーテ、ダイヤまで人気商品勢ぞろい！</desc>
@@ -731,18 +723,14 @@
     <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <desc lang="en">以前番組で、中京テレビ伊藤アナに強烈なダメ出しをしたテレビ金沢の森開アナ。リモートで登場し再びスタジオがバチバチに⁉早口言葉が苦手な男性に磯貝アナがアドバイス</desc>
   </programme>
-<programme start="20210930015600 +0900" stop="20210930021600 +0900" channel="Asahi.jp">
-  <title lang="en">まんが未知</title>
-  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◇ハライチ岩井原作…人気連載漫画の制作現場に密着！出版社での打合せ＆最新作画テクニックを公開！</desc>
-</programme>
-<programme start="20210930021600 +0900" stop="20210930023600 +0900" channel="Asahi.jp">
-  <title lang="en">あるある土佐カンパニー</title>
-  <desc lang="en">土佐兄弟が“新しいあるあるを見つける会社”を遂に設立『高校生あるある』で話題！動画アプリ５億回再生を記録した土佐兄弟の初冠番組。毎週愉快なあるあるをお届けします</desc>
-</programme>
-<programme start="20210930023600 +0900" stop="20210930025600 +0900" channel="Asahi.jp">
-  <title lang="en">キョコロヒー</title>
-  <desc lang="en">日向坂46の齊藤京子と芸人のヒコロヒー。京子とヒコロヒーで「キョコロヒー」。ダンスの新たな魅力と可能性を追求する、トーン低めのダンスバラエティー番組です。</desc>
-</programme>
+  <programme start="20211001020500 +0900" stop="20211001023500 +0900" channel="NipponTV.jp">
+    <title lang="en">川島・山内のマンガ沼</title>
+    <desc lang="en">「刃牙」シリーズ連載３０周年記念！板垣恵介先生がスタジオにやってきた！超ヤバいマンガの超ヤバいシーンを題材にトークバトルが開演する！</desc>
+  </programme>
+  <programme start="20211001023500 +0900" stop="20211001030500 +0900" channel="NipponTV.jp">
+    <title lang="en">NFL倶楽部</title>
+    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
+  </programme>
 <programme start="20210930025600 +0900" stop="20210930030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -849,9 +837,22 @@
   <title lang="en">NEWニューヨーク</title>
   <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
 </programme>
-<programme start="20210930015800 +0900" stop="20210930020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211001021600 +0900" stop="20211001023600 +0900" channel="Asahi.jp">
+  <title lang="en">そんな食べ方あったのか!</title>
+  <desc lang="en">ミキ亜生とフワちゃんが世の中にある「そんな食べ方あったのか！」と言ってしまうような絶品レシピを全国から発掘していく番組。</desc>
+</programme>
+<programme start="20211001023600 +0900" stop="20211001025600 +0900" channel="Asahi.jp">
+  <title lang="en">会心の1ゲー</title>
+  <desc lang="en">芸人×ゲーム＝伝説のバカゲー誕生⁉ド素人によるゲーム開発バラエティ▼今夜が最終回⁉この１年で制作してきたゲームを森田が振り返る▼インディーズゲームで大盛り上がり</desc>
+</programme>
+<programme start="20211001025600 +0900" stop="20211001030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20211001030000 +0900" stop="20211001033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20210930020500 +0900" stop="20210930034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -925,13 +926,13 @@
   <title lang="en">アカデミーナイトG</title>
   <desc lang="en">ディズニーミュージカル「ニュージーズ」SixTONES京本大我がインタビュー初出し＆映画「かぐや様は告らせたい」橋本環奈×Ado特別対談！キンプリ平野紫耀ダンス</desc>
 </programme>
-<programme start="20210930014000 +0900" stop="20210930020500 +0900" channel="TVTokyo.jp">
-  <title lang="en">お仕事search!それってグッジョブ</title>
-  <desc lang="en">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク▼今回は便利すぎて売り切れ続出！人気雑貨店の商売繁盛の秘訣に迫る▼番組後半には重大発表が⁉</desc>
+<programme start="20211001020800 +0900" stop="20211001021500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20210930020500 +0900" stop="20210930023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20211001021500 +0900" stop="20211001034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20210930023500 +0900" stop="20210930030500 +0900" channel="TVTokyo.jp">
   <title lang="en">ドラゴンクエスト ダイの大冒険</title>
@@ -1089,9 +1090,14 @@
   <title lang="en"></title>
   <desc lang="en">１０／３(日)放送「ＴＨＥカラオケ★バトル」の見どころを紹介します。</desc>
 </programme>
-<programme start="20210930013500 +0900" stop="20210930023500 +0900" channel="FujiTV.jp">
-  <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
-  <desc lang="en">六本木で絶賛開催中の「ＫＡＷＳ展」を天野ひろゆき、小島瑠璃子が大特集！カウズマニアの松本利夫（ＥＸＩＬＥ）と共に世界中で話題沸騰のカウズの魅力に迫る！</desc>
+<programme start="20211001020500 +0900" stop="20211001023500 +0900" channel="TVTokyo.jp">
+  <title lang="en">きらきらアフロTM</title>
+  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
+【出演】笑福亭鶴瓶、松嶋尚美</desc>
+</programme>
+<programme start="20211001023500 +0900" stop="20211001030500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
 <programme start="20210930023500 +0900" stop="20210930033000 +0900" channel="FujiTV.jp">
   <title lang="en">明日木曜よる8時は奇跡体験!アンビリバボーSP</title>
@@ -1177,17 +1183,13 @@
   <title lang="en">村上信五∞情熱の鼓動</title>
   <desc lang="en">村上信五が東京五輪メダリストを直撃！日本卓球初の金メダル伊藤美誠・水谷隼　卓球団体銀の石川佳純　兄妹で金メダル阿部一二三・詩　体操２冠の橋本大輝</desc>
 </programme>
-<programme start="20210930013500 +0900" stop="20210930020500 +0900" channel="Tokyo MX">
+<programme start="20211001020500 +0900" stop="20211001030000 +0900" channel="FujiTV.jp">
+  <title lang="en">FNSドキュメンタリー大賞</title>
+  <desc lang="en">急速に高齢化が進む岡山刑務所。犯した罪を忘れる認知症受刑者も増えている。揺らぐ刑務所の存在意義。塀の中で今何が起きているのか。</desc>
+</programme>
+<programme start="20211001030000 +0900" stop="20211001033000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20210930020500 +0900" stop="20210930023400 +0900" channel="Tokyo MX">
-  <title lang="en">MIRAI系アイドルTV</title>
-  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
-</programme>
-<programme start="20210930023400 +0900" stop="20210930023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
 </programme>
 <programme start="20210930023500 +0900" stop="20210930030000 +0900" channel="Tokyo MX">
   <title lang="en">せとチャレ!STU48</title>
@@ -1375,6 +1377,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211001013500 +0900" stop="20211001020500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211001020500 +0900" stop="20211001023400 +0900" channel="Tokyo MX">
+  <title lang="en">らいコレTV</title>
+  <desc lang="en">女優＆トップオブトップライバーの“水城ななえ”が登場！ライバーの最新情報も！</desc>
+</programme>
+<programme start="20211001023400 +0900" stop="20211001023500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211001023500 +0900" stop="20211001030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
