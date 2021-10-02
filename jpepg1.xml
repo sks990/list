@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211002081500 +0900" stop="20211002090000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">チコちゃんに叱られる!</title>
-    <desc lang="en">今回のチコちゃんの素朴な疑問は…怒るときの『コラ！』ってなに？トウモロコシのヒゲってなに？服が水にぬれると色が濃くなるのはなぜ？みなさんわかりますか？</desc>
-  </programme>
-  <programme start="20211002090000 +0900" stop="20211002093000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">週刊まるわかりニュース</title>
-    <desc lang="en">▽緊急事態宣言解除で飲食店の対応は▽自民党新総裁に岸田氏▽値上げの秋飲食店は“もう限界”家計を守る生活の知恵▽「ゴルゴ１３」生みの親さいとう・たかをさん死去</desc>
-  </programme>
   <programme start="20211002093000 +0900" stop="20211002100000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">有吉のお金発見 突撃!カネオくん</title>
     <desc lang="en">ふだん聞けないお金の秘密をカネオくんが可視化で解明！みんな大好きアイスクリームを徹底調査！あの大ヒットアイスの開発秘話にＭＣ有吉弘行と田牧そらちゃんもビックリ</desc>
@@ -342,26 +334,6 @@
     <title lang="en">日曜討論</title>
     <desc lang="en">与野党幹部に緊急インタビューで直撃！岸田新体制をどう評価する？臨時国会の焦点は？いま求められるコロナ対策は？この先の経済政策は？迫る衆議院選挙へ各党の戦略は？</desc>
   </programme>
-  <programme start="20211002083500 +0900" stop="20211002090000 +0900" channel="eTele.jp">
-    <title lang="en">おさるのジョージ</title>
-    <desc lang="en">世界中で８０年以上にわたり、世代を超えて親しまれてきた人気絵本「ひとまねこざる」「おさるのジョージ」が原作のテレビアニメシリーズ。</desc>
-  </programme>
-  <programme start="20211002090000 +0900" stop="20211002092000 +0900" channel="eTele.jp">
-    <title lang="en">おしりたんてい</title>
-    <desc lang="en">「フーム、においますね」レディーにやさしくスイートポテトがだいすきなめいたんてい・おしりたんていが、じょしゅのブラウンとともに、どんなじけんもププッとかいけつ！</desc>
-  </programme>
-  <programme start="20211002092000 +0900" stop="20211002092900 +0900" channel="eTele.jp">
-    <title lang="en">舞妓さんちのまかないさん</title>
-    <desc lang="en">青森から舞妓をめざして京都にやってきたキヨとすみれ。ところが、ひょんなことからキヨは屋形のまかないさんに。花街を舞台に、おいしいごはんと舞妓さんたちの日常を描く</desc>
-  </programme>
-  <programme start="20211002092900 +0900" stop="20211002093000 +0900" channel="eTele.jp">
-    <title lang="en">SDGsのうた</title>
-    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
-  </programme>
-  <programme start="20211002093000 +0900" stop="20211002095500 +0900" channel="eTele.jp">
-    <title lang="en">Eダンスアカデミー</title>
-    <desc lang="en">ゲームのように画面に流れてくるマークに合わせて限界突破で楽しく踊ろう！！ダンスしりとりはアウト連発で大丈夫か？！キッズが挑戦する新企画の発表に全員びっくり！！</desc>
-  </programme>
   <programme start="20211002095500 +0900" stop="20211002102000 +0900" channel="eTele.jp">
     <title lang="en">すイエんサー</title>
     <desc lang="en">バナナの不思議な特徴をいかしたスゴ技に挑戦。まずは包丁を使わず指一本で三つに分割しちゃう技。さらに皮に字を書く技やバナナだけできる絶品アイスクリームの技も大公開</desc>
@@ -598,9 +570,13 @@
     <title lang="en">日曜美術館</title>
     <desc lang="en">写真家・宮崎学。探偵のごとく動物の痕跡を読み解き、自作のロボットカメラで人の目が及ばぬ世界を写し出す。「森を、動物の目線から見つめる」新作プロジェクトに密着。</desc>
   </programme>
-  <programme start="20211002080000 +0900" stop="20211002092500 +0900" channel="NipponTV.jp">
-    <title lang="en">ウェークアップ</title>
-    <desc lang="en">緊急事態宣言全面解除…吉村大阪府知事生出演、第６波へ備えは？冬の生活どうなる▽派閥重視？岸田“新総裁”人事の行方は…</desc>
+  <programme start="20211003094500 +0900" stop="20211003100000 +0900" channel="eTele.jp">
+    <title lang="en">日曜美術館 アートシーン</title>
+    <desc lang="en">「生誕１１０年　香月泰男展」（神奈川県立近代美術館　葉山　９月１８日〜１１月１４日）ほか、展覧会情報</desc>
+  </programme>
+  <programme start="20211003100000 +0900" stop="20211003103000 +0900" channel="eTele.jp">
+    <title lang="en">将棋フォーカス</title>
+    <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
   </programme>
   <programme start="20211002092500 +0900" stop="20211002103000 +0900" channel="NipponTV.jp">
     <title lang="en">ぶらり途中下車の旅</title>
@@ -735,14 +711,6 @@
     <title lang="en">シューイチ</title>
     <desc lang="en">ニュース・ショービズ・スポーツ・トレンド・グルメ・天気…１週間の気になる話題を詳しく紹介。明るく楽しく真面目に日本の今が学べる新型情報エンターテインメント番組。</desc>
   </programme>
-<programme start="20211002080000 +0900" stop="20211002093000 +0900" channel="Asahi.jp">
-  <title lang="en">朝だ!生です旅サラダ</title>
-  <desc lang="en">スペイン・バルセロナ最新旅情報！世界的建築家ガウディの世界をより深く体験できる新スポット▽ジャニーズWEST・中間淳太さん大阪巡り！激カワ…アザラシ＆カバの赤ちゃん</desc>
-</programme>
-<programme start="20211002093000 +0900" stop="20211002095500 +0900" channel="Asahi.jp">
-  <title lang="en">食彩の王国</title>
-  <desc lang="en">銀座のフレンチ名店が披露する白いアート「豆腐のベール」から老舗の豆腐会席、下町の匠の絶品豆腐「貴婦人」に惚れ込んだ向島料亭の女将の新作料理まで…美味豆腐三昧です</desc>
-</programme>
 <programme start="20211002095500 +0900" stop="20211002100000 +0900" channel="Asahi.jp">
   <title lang="en">挑戦者の原点〜My Episode 0〜</title>
   <desc lang="en">未来を変えるイノベーターたちの原体験（＝My Episode 0　マイ・エピソード・ゼロ）を紐解くショートドキュメンタリー！</desc>
@@ -911,13 +879,13 @@
   <desc lang="en">≪仮面ライダーシリーズ生誕５０周年記念作品≫
 しあわせ湯の長男・五十嵐一輝は、体内に住む悪魔・バイスと契約して二人の仮面ライダーに変身！リバイとバイスの大冒険！</desc>
 </programme>
-<programme start="20211002073000 +0900" stop="20211002092500 +0900" channel="TBS2.jp">
-  <title lang="en">サタデープラス</title>
-  <desc lang="en">清水麻椰ホットプレートひたすら試してランク▼こじるりが潜入防災専門家の自宅に驚がくの設備▼３時のヒロイン福田麻貴感動おしゃれリノベ物件▼増田明美＆ブラマヨ小杉</desc>
+<programme start="20211003093000 +0900" stop="20211003100000 +0900" channel="Asahi.jp">
+  <title lang="en">機界戦隊ゼンカイジャー</title>
+  <desc lang="en">１人の人間と４人のロボがすべての世界を守るヒーローになる！その名も機界戦隊ゼンカイジャー！地球に侵略してきた悪のトジテンド王朝を倒せるのか!?みんなで応援しよう！</desc>
 </programme>
-<programme start="20211002092500 +0900" stop="20211002093000 +0900" channel="TBS2.jp">
-  <title lang="en">とれたてハッピー!</title>
-  <desc lang="en">「障害者等の農業分野での活躍を通じて社会参画を促す取組」それが農福連携です。TOKIOの城島茂さんがその現場を訪問し、一緒に汗を流して“ハッピー”を収穫します！</desc>
+<programme start="20211003100000 +0900" stop="20211003105000 +0900" channel="Asahi.jp">
+  <title lang="en">週刊!じゅん散歩</title>
+  <desc lang="en">三代目散歩人・高田純次が「銀座」を散策▽６年間の爆笑名場面＆未公開シーンを大公開▽純ちゃんの憧れ…大谷翔平選手に大変身！▽最新スイーツ「おむすび型ケーキ」とは？</desc>
 </programme>
 <programme start="20211002093000 +0900" stop="20211002114500 +0900" channel="TBS2.jp">
   <title lang="en">王様のブランチ</title>
@@ -1012,13 +980,9 @@
   <title lang="en">サンデーモーニング</title>
   <desc lang="en">◎世界と日本の出来事を掘り下げるカバーストーリー◎スポーツ御意見番「喝＆あっぱれ」◎関口宏の「一週間」ニュース◎時代と社会の断面を切り取るコーナー「風をよむ」(他)</desc>
 </programme>
-<programme start="20211002083000 +0900" stop="20211002090000 +0900" channel="TVTokyo.jp">
-  <title lang="en">しまじろうのわお!</title>
-  <desc lang="en">祝　ContentAsia　Awards　2021受賞！しまじろうのわお！わお！の数だけ世界は面白くなる。よく知りよく考え、未来を切り拓く力を育む親子で楽しめる教養番組。</desc>
-</programme>
-<programme start="20211002090000 +0900" stop="20211002093000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ウルトラマントリガーNEW GENERATION TIGA</title>
-  <desc lang="en">カルミラはトリガーに執拗に迫る。呪術でトリガーは闇に蝕まれる。必死に抵抗するケンゴだが、時空の狭間が生まれ、過去に飛ばされてしまう。そこは3000万年前の超古代！？</desc>
+<programme start="20211003095400 +0900" stop="20211003113000 +0900" channel="TBS2.jp">
+  <title lang="en">サンデー・ジャポン</title>
+  <desc lang="en">１週間のニュースを総まとめ！爆笑問題＆超辛口パネラーに旬なゲスト加え、独自取材と激アツトークでお送りする嵐のような９０分！唯一無二のジャーナリズムバラエティ！</desc>
 </programme>
 <programme start="20211002093000 +0900" stop="20211002100000 +0900" channel="TVTokyo.jp">
   <title lang="en">ドラゴンクエスト ダイの大冒険</title>
@@ -1201,9 +1165,13 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <title lang="en">ビッ友×戦士 キラメキパワーズ!</title>
   <desc lang="en">新戦士キラパワファインとキラパワスノーが誕生＆大活躍！▽ゲームの世界から人間界にきた悪の「マックラ帝国」と戦い、世界の闇を！キラッキラにきらめかせる！</desc>
 </programme>
-<programme start="20211002083000 +0900" stop="20211002095500 +0900" channel="FujiTV.jp">
-  <title lang="en">土曜はナニする!?</title>
-  <desc lang="en">山里亮太＆宇賀なつみがアナタの週末を楽しくするお手伝い！</desc>
+<programme start="20211003093000 +0900" stop="20211003100000 +0900" channel="TVTokyo.jp">
+  <title lang="en">マジカパーティ</title>
+  <desc lang="en">『マジカ』を集めて世界を救え！「魔法×パーティ」をテーマに『マジカ』を集めて世界を救う魔法使いの物語。</desc>
+</programme>
+<programme start="20211003100000 +0900" stop="20211003103000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ワッチャプリマジ!</title>
+  <desc lang="en">「プリマジ」それは歌とダンスとファッションで作り上げるエンターテイメント！魔法のように輝くステージには秘密がありました。そう、それは本当に「魔法」だったんです！</desc>
 </programme>
 <programme start="20211002095500 +0900" stop="20211002102500 +0900" channel="FujiTV.jp">
   <title lang="en">ライオンのグータッチ</title>
@@ -1363,13 +1331,13 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <title lang="en">デジモンゴーストゲーム</title>
   <desc lang="en">ＳＮＳで“ホログラムゴースト”と呼ばれる怪奇現象の噂。「口縫い男」に会った者は恐ろしい目にあうという。放課後、事件現場を訪れた宙は不気味な声を聴くが…</desc>
 </programme>
-<programme start="20211002084500 +0900" stop="20211002090000 +0900" channel="Tokyo MX">
-  <title lang="en">比叡の光</title>
-  <desc lang="en"> </desc>
+<programme start="20211003093000 +0900" stop="20211003100000 +0900" channel="FujiTV.jp">
+  <title lang="en">ワンピース</title>
+  <desc lang="en">鬼ヶ島のカイドウの城に潜入したルフィ達。ライブハウスで、カイドウは部下達を前に『新鬼ヶ島計画』の全容を語り始めた。そこに花魁姿のビッグ・マムが現れる！</desc>
 </programme>
-<programme start="20211002090000 +0900" stop="20211002093000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211003100000 +0900" stop="20211003111500 +0900" channel="FujiTV.jp">
+  <title lang="en">ワイドナショー</title>
+  <desc lang="en">嵐・櫻井翔＆相葉雅紀が結婚Ｗ発表▽岸田文雄氏が１００代目総理大臣へ▽白鵬関…斎藤佑樹投手…引退発表▽大谷翔平選手の今後は？▽中居正広スタジオ出演</desc>
 </programme>
 <programme start="20211002093000 +0900" stop="20211002100000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1572,6 +1540,14 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211003090000 +0900" stop="20211003093000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211003093000 +0900" stop="20211003100000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211003100000 +0900" stop="20211003102900 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -2061,7 +2037,7 @@ https://otn.fujitv.co.jp
 <desc>第955話「新たな同盟!? カイドウ軍大集結」　（地上波放送日　2020年12月20日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211002/6678446/image/e11e04c479f36df3123b701a2558cae7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211002100000 +0900" stop="20211002103000 +0900" channel="FujiTwo.jp">
