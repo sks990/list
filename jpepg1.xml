@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211002173000 +0900" stop="20211002180000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ねほりんぱほりん</title>
-    <desc lang="en">１０月からシーズン６が始まる「ねほりんぱほりん」。ＭＣの山里亮太とＹＯＵがカンニング竹山さんと新作の見どころを紹介！番組ファンの星野源さんもＶＴＲで登場！</desc>
-  </programme>
-  <programme start="20211002180000 +0900" stop="20211002180500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211002180500 +0900" stop="20211002184500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大江戸もののけ物語</title>
-    <desc lang="en">旗本の次男坊・新海一馬（岡田健史）と謎の妖怪・天の邪鬼（本郷奏多）がバディを組み江戸のさまざまな事件を解決。およう（山田杏奈）を助けるため、一馬は吉原に乗り込む</desc>
-  </programme>
-  <programme start="20211002184500 +0900" stop="20211002185300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211002185300 +0900" stop="20211002190000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -220,7 +204,7 @@
   </programme>
   <programme start="20211003070000 +0900" stop="20211003074000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、日曜の名物・南さんの気象解説！</desc>
+    <desc lang="en">宣言解除後初の週末・街は？▼熱海土石流から３か月・ホテル避難の課題▼熱海出身ボクサー・地元のために戦う▼コロナで膨れ上がる過剰債務</desc>
   </programme>
   <programme start="20211003074000 +0900" stop="20211003074500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本（関東甲信越）</title>
@@ -330,17 +314,21 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211002173500 +0900" stop="20211002180000 +0900" channel="eTele.jp">
-    <title lang="en">ラブライブ!虹ヶ咲学園スクールアイドル同好会</title>
-    <desc lang="en">東京・お台場にある虹ヶ咲（にじがさき）学園のスクールアイドル同好会。ライバルとして仲間として、ときめきを胸にそれぞれに夢を追いかける、少女たちの青春ストーリー。</desc>
+  <programme start="20211003180500 +0900" stop="20211003184500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース 地球まるわかり</title>
+    <desc lang="en">アメリカ軍撤退から１か月たったアフガニスタン。タリバンは暫定政権を発足させたが経済は混乱し、治安も不安定化。現地は今どうなっているのか、最新映像と解説で見ていく</desc>
   </programme>
-  <programme start="20211002180000 +0900" stop="20211002182500 +0900" channel="eTele.jp">
-    <title lang="en">スポンジ・ボブ</title>
-    <desc lang="en">深い海の底にある海底都市・ビキニタウンに住むスポンジ・ボブとその仲間たちが繰り広げる、ユーモラスで楽しい日常を描いたハイテンション・アニメ！</desc>
+  <programme start="20211003184500 +0900" stop="20211003185300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211002182500 +0900" stop="20211002185000 +0900" channel="eTele.jp">
-    <title lang="en">ミルドレッドの魔女学校 シーズン2</title>
-    <desc lang="en">ひょんなことから魔女学校に入学したミルドレッドの冒険ファンタジー。ある日、魔女学校に侵入者が現れる。ミルドレッドが捕まえてみると、なんと男の子の魔法使いだった！</desc>
+  <programme start="20211003185300 +0900" stop="20211003190000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211003190000 +0900" stop="20211003193000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース7</title>
+    <desc lang="en">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】青井実，【サブキャスター】池田伸子，伊藤海彦，【気象キャスター】向笠康二郎</desc>
   </programme>
   <programme start="20211002185000 +0900" stop="20211002190000 +0900" channel="eTele.jp">
     <title lang="en">キソ英語を学んでみたら世界とつながった。</title>
@@ -538,13 +526,17 @@
     <title lang="en">猫のしっぽ カエルの手</title>
     <desc lang="en">京都・大原で季節の移ろいを楽しみながら手作り暮らしをするベニシア・スタンリー・スミスさん。２０１６年秋、青春時代の思い出の地、京都府丹波・丹後地方を旅する。</desc>
   </programme>
-  <programme start="20211002173000 +0900" stop="20211002180000 +0900" channel="NipponTV.jp">
-    <title lang="en">半妖の夜叉姫</title>
-    <desc lang="en">麒麟丸との戦いで、せつなが命を落とした。深く悔いるとわの前に現れた殺生丸は「せつなを生かすも殺すも、お前次第だ」と折れた天生牙を手渡す。とわにできることとは？</desc>
+  <programme start="20211003183000 +0900" stop="20211003185500 +0900" channel="eTele.jp">
+    <title lang="en">岩合光昭の世界ネコ歩き</title>
+    <desc lang="en">動物写真家・岩合光昭がギリシャのエーゲ海の島を訪れ、愛くるしいネコの姿に迫る。屋根から屋根へジャンプする躍動感！　ふたごの赤ちゃんネコも！（２５分版）</desc>
   </programme>
-  <programme start="20211002180000 +0900" stop="20211002183000 +0900" channel="NipponTV.jp">
-    <title lang="en">名探偵コナン</title>
-    <desc lang="en">米花町の公園で男性の遺体が発見される。被害者はよくない評判だらけの悪党。捜査が進むと、殺害時刻に公園の方から慌てて駆けてくるワル仲間の姿が目撃されており…。</desc>
+  <programme start="20211003185500 +0900" stop="20211003190000 +0900" channel="eTele.jp">
+    <title lang="en">ごちそんぐDJ</title>
+    <desc lang="en">昔ながらの和食って、手間がかかりそうでハードルが高い…。そんな現代っ子と和食の距離をグイっと縮める、ネオ和食企画。今日は“よごし”の技をご紹介！</desc>
+  </programme>
+  <programme start="20211003190000 +0900" stop="20211003192500 +0900" channel="eTele.jp">
+    <title lang="en">ラブライブ!スーパースター!!</title>
+    <desc lang="en">東京の表参道と原宿と青山、３つの街のはざまにある新設校が舞台。澁谷（しぶや）かのんら５人の少女がスクールアイドルの祭典「ラブライブ！」出場を目指す青春学園物語。</desc>
   </programme>
   <programme start="20211002183000 +0900" stop="20211002190000 +0900" channel="NipponTV.jp">
     <title lang="en">満天☆青空レストラン</title>
@@ -692,19 +684,14 @@
     <title lang="en">真相報道 バンキシャ!</title>
     <desc lang="en">バンキシャ！は毎週、注目されている事件・出来事について、他にない切り口で検証を加える番組です。今週もご期待ください。</desc>
   </programme>
-<programme start="20211002173000 +0900" stop="20211002180000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNスーパーJチャンネル</title>
-  <desc lang="en">“緊急事態宣言”解除…初の週末で箱根に変化は？(他)</desc>
-</programme>
-<programme start="20211002180000 +0900" stop="20211002183000 +0900" channel="Asahi.jp">
-  <title lang="en">人生の楽園</title>
-  <desc lang="en">鍋の表面がほほ笑むようゆっくり煮立たせて作る、体に優しいランチを提供するカフェを始めた佐藤和子さん(６３歳)。４日以上保温しながら熟成させる、人気の酵素玄米とは!?</desc>
-</programme>
-<programme start="20211002183000 +0900" stop="20211002185600 +0900" channel="Asahi.jp">
-  <title lang="en">ごはんジャパン</title>
-  <desc lang="en">今年も新米の季節が到来！絶景の棚田に魅せられて第２の人生を米作りにかけた夫婦の物語。
-江戸前寿司の匠が新米コシヒカリを使って、房総の旬のネタを握る!!</desc>
-</programme>
+  <programme start="20211003185500 +0900" stop="20211003190000 +0900" channel="NipponTV.jp">
+    <title lang="en">博士は今日も嫉妬する 人生が楽しくなる最新テクノロジー</title>
+    <desc lang="en">最新技術の研究に没頭するがなかなかうまくいかない…そんな博士が思わず嫉妬する明日が楽しくなる最新テクノロジーをご紹介！！▽簡単にリアルな風景画を描けるアプリ</desc>
+  </programme>
+  <programme start="20211003190000 +0900" stop="20211003225400 +0900" channel="NipponTV.jp">
+    <title lang="en">DASHでイッテQ!行列のできるしゃべくりナンデス!日テレ秋のコラボSP</title>
+    <desc lang="en">DASH×笑点！大喜利対決▼イッテQ宮川柳楽優弥お祭り道中▼行列×仰天は鶴瓶VS東野！最強変人はどっち▼しゃべくり×ＳＨＯＷチャンネル▼ハプニング映像ナンデス</desc>
+  </programme>
 <programme start="20211002185600 +0900" stop="20211002205400 +0900" channel="Asahi.jp">
   <title lang="en">世界が驚いたニッポン!スゴ〜イデスネ!!視察団</title>
   <desc lang="en">これは日本が№１‼2021秋の最新調査…世界が憧れる「日本製品ベスト16」を今夜発表！私達が毎日使っている身近なモノが、実は世界最高峰の品質だった…１位は納得のアレ！</desc>
@@ -859,6 +846,14 @@
   <desc lang="en">千葉県袖ケ浦で栽培されている落花生を使った絶品料理を地元農家の奥様方から学びます！
 簡単味噌ピーナッツでアレンジ料理！絶品万能ペースト、相葉くんが落花生そばも！</desc>
 </programme>
+<programme start="20211003190000 +0900" stop="20211003195800 +0900" channel="Asahi.jp">
+  <title lang="en">ナニコレ珍百景</title>
+  <desc lang="en">★日本全国で驚きの光景を発見
+▼横浜…フェンシング剣士が迎えるタクシー
+▼千葉の一部だけで大人気やきそば袋麺
+▼東京…家電の無人販売店
+▼大阪の珍発明家登場</desc>
+</programme>
 <programme start="20211002140000 +0900" stop="20211002190000 +0900" channel="TBS2.jp">
   <title lang="en">お笑いの日</title>
   <desc lang="en">総勢108名が集結するお笑いだけの８時間生放送！☆総合ＭＣはダウンタウン☆
@@ -1004,13 +999,13 @@
   <title lang="en">世界遺産</title>
   <desc lang="en">空海が開いて1200年…天空の聖地・高野山。紅葉燃える秋、桜咲きほこる春、雪景色の金剛峯寺など、絶景を1年かけ高精細カメラで撮影した放送25周年スペシャル。</desc>
 </programme>
-<programme start="20211002173000 +0900" stop="20211002180000 +0900" channel="TVTokyo.jp">
-  <title lang="en">THEフィッシング</title>
-  <desc lang="en">“若きエキスパートが魅せる！エリアトラウトフィッシング”</desc>
+<programme start="20211003183000 +0900" stop="20211003190000 +0900" channel="TBS2.jp">
+  <title lang="en">週刊さんまとマツコ</title>
+  <desc lang="en">コロナ禍で小型ボート・クルーザーが「密にならないアミューズメント」として人気急上昇▽ちょい不良オヤジ・ジローラモが「人生を楽しむクルーザーLIFEのススメ」</desc>
 </programme>
-<programme start="20211002180000 +0900" stop="20211002183000 +0900" channel="TVTokyo.jp">
-  <title lang="en">知られざるガリバー〜エクセレントカンパニーファイル〜</title>
-  <desc lang="en">光ファイバーで国内トップクラスのメーカー、フジクラ。５Ｇ時代に突入する通信の世界で、俄然重要性が高まっている、光ファイバー製造技術の核心に迫ります。</desc>
+<programme start="20211003190000 +0900" stop="20211003215400 +0900" channel="TBS2.jp">
+  <title lang="en">坂上指原のつぶれない店</title>
+  <desc lang="en">🈑▼凄腕バイヤー仕掛ける北海道物産展…幻カニ×最高級卵で究極TKG＆皮食べられるバナナ▼ライバル店の目の前に殴り込み！顧客満足度10年連続№１オーケー出店に密着</desc>
 </programme>
 <programme start="20211002183000 +0900" stop="20211002205400 +0900" channel="TVTokyo.jp">
   <title lang="en">土曜スペシャル</title>
@@ -1185,13 +1180,9 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <title lang="en">パズドラ</title>
   <desc lang="en">パズドラプロリーグで優勝を果たした明石タイガを待っていたのは華やかな日々…ではなく、トラブルばかり。さらにモンスターたちも暴れまくり！？花草は今日も大騒ぎ！(他)</desc>
 </programme>
-<programme start="20211002173000 +0900" stop="20211002180000 +0900" channel="FujiTV.jp">
-  <title lang="en">FNN Live News イット!</title>
-  <desc lang="en">▼宣言解除後初の週末…各地で人出増▼「第６波」対策求める声▼岸田新内閣の顔ぶれは▼ＭＬＢ大谷翔平▼天気予報▼</desc>
-</programme>
-<programme start="20211002180000 +0900" stop="20211002183000 +0900" channel="FujiTV.jp">
-  <title lang="en">MUSIC FAIR</title>
-  <desc lang="en">２５周年ＰＵＦＦＹ×中島・乃木坂「渚にまつわるエトセトラ」含むＳＰメドレー！中島は話題のドラマ主題歌、乃木坂「君に叱られた」スノーマン「ＥＶＯＬＵＴＩＯＮ」他</desc>
+<programme start="20211003183000 +0900" stop="20211003220900 +0900" channel="TVTokyo.jp">
+  <title lang="en">THEカラオケ★バトル</title>
+  <desc lang="en">毎回、熱戦が繰り広げられてきた「U-18歌うま甲子園」。今回は、U-18の2021年頂点を決める大甲子園大会！最強王者は誰の手に！？</desc>
 </programme>
 <programme start="20211002183000 +0900" stop="20211002190000 +0900" channel="FujiTV.jp">
   <title lang="en">もしもツアーズ</title>
@@ -1354,17 +1345,15 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <desc lang="en">「まる子、幸運まであと一歩」の巻
 「まる子の北風と太陽」の巻</desc>
 </programme>
-<programme start="20211002175500 +0900" stop="20211002180000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211003183000 +0900" stop="20211003190000 +0900" channel="FujiTV.jp">
+  <title lang="en">サザエさん</title>
+  <desc lang="en">▽謎のポイントカード
+▽おじいちゃんと一緒
+▽おかあさんの同窓会</desc>
 </programme>
-<programme start="20211002180000 +0900" stop="20211002181500 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の、各地のニュース・天気情報など詳しくお伝えします。</desc>
-</programme>
-<programme start="20211002181500 +0900" stop="20211002183000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211003190000 +0900" stop="20211003215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ジャンクSPORTS</title>
+  <desc lang="en">金メダル記念！阿部一二三・阿部詩兄妹がコストコで爆買い！１３年越し五輪連覇の上野由岐子が偉業達成の裏で衝撃の忘れ物告白▽新庄剛志ｖｓ野球女子最強軍団！</desc>
 </programme>
 <programme start="20211002183000 +0900" stop="20211002190000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1565,6 +1554,14 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
 <programme start="20211003180000 +0900" stop="20211003183000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
   <desc lang="en">緊急事態宣言解除後　初めての週末…都内の人出は…東京の感染状況は？都内の新型コロナ最新情報！▼ニューヨーク・ロンドンからもニュース</desc>
+</programme>
+<programme start="20211003183000 +0900" stop="20211003190000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211003190000 +0900" stop="20211003210000 +0900" channel="Tokyo MX">
+  <title lang="en">賢人からのメッセージ〜平塚景堂の泰然自若〜</title>
+  <desc lang="en">臨済宗・大本山相国寺塔頭養源院住職、平塚景堂のひと夏を密着取材！禅を基本的なルーツにしながら多岐にわたる活動を掘り下げ、今を生きるヒントを見つける。</desc>
 </programme>
 <programme start="20211002000000 +0900" stop="20211002003000 +0900" channel="FujiNext.jp">
 <title lang="en">フジサンケイクラシック ハイライト　#4「2013年優勝 松山英樹」</title>
@@ -2217,7 +2214,7 @@ https://otn.fujitv.co.jp
 （地上波放送日　2004年11月28日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211002/6678465/image/b2a3ec2b7738b19066aef3b5f952c4ec.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211002190000 +0900" stop="20211002193000 +0900" channel="FujiTwo.jp">
