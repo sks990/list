@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211003121500 +0900" stop="20211003130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKのど自慢</title>
-    <desc lang="en">北海道北斗市から生放送▽ゲストは細川たかし、長山洋子▽司会：小田切千アナウンサー／鐘：秋山気清▽歌で思いを届ける！予選で選ばれた皆さんによる熱唱・熱演</desc>
-  </programme>
-  <programme start="20211003130000 +0900" stop="20211003130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211003130500 +0900" stop="20211003160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">日本女子オープンゴルフ選手権2021</title>
     <desc lang="en">第２日を終えて首位に立ったのは西村優菜。上田桃子、勝みなみ、西郷真央が２打差で追走。スコア変動の激しい第３日の戦いに注目！栃木・烏山城カントリークラブから生中継</desc>
@@ -305,6 +297,10 @@
   <programme start="20211004130000 +0900" stop="20211004140000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en">▽中継・首相指名選挙　第１００代首相に岸田氏選出へ…瞬間を生中継</desc>
+  </programme>
+  <programme start="20211004140000 +0900" stop="20211004140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211003123000 +0900" stop="20211003140000 +0900" channel="eTele.jp">
     <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
@@ -578,9 +574,9 @@
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】工藤咲子</desc>
   </programme>
-  <programme start="20211003124500 +0900" stop="20211003134500 +0900" channel="NipponTV.jp">
-    <title lang="en">１番持ち寄りバラエティ</title>
-    <desc lang="en">100年前の美女食べログ3.1以下の名店日テレ史上最も危険なロケ宇宙の神秘…専門家が持ち寄ったMAXの中で一番を決める▽伝説の危険ロケ公開▽MC設楽統</desc>
+  <programme start="20211004130500 +0900" stop="20211004160000 +0900" channel="eTele.jp">
+    <title lang="en">日本女子オープンゴルフ選手権2021</title>
+    <desc lang="en">東京五輪銀メダルの稲見萌寧、前回大会優勝の原英莉花、同２位の小祝さくら。人気と実力を兼ね備えた選手たちの熱戦を栃木県・烏山城カントリークラブから生中継</desc>
   </programme>
   <programme start="20211003134500 +0900" stop="20211003141500 +0900" channel="NipponTV.jp">
     <title lang="en">東京03とスタア</title>
@@ -711,15 +707,10 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">「業務スーパー」で出口調査！簡単に作れる舞茸クリスピーピザとは！？冷蔵庫の中身全部出してみるんデス！▽日テレ系情報番組の映像大賞未公開部分も！</desc>
   </programme>
-<programme start="20211003125500 +0900" stop="20211003132500 +0900" channel="Asahi.jp">
-  <title lang="en">新婚さんいらっしゃい!</title>
-  <desc lang="en">▽福岡県・中村夫妻〜共に和太鼓奏者の夫婦。和太鼓以上に激しい野獣キッスとは？
-▽東京都・林夫妻〜未来からやって来たという夫はデートでいろいろなことを当てるので…</desc>
-</programme>
-<programme start="20211003132500 +0900" stop="20211003135500 +0900" channel="Asahi.jp">
-  <title lang="en">あなたの代わりに見てきます!リア突WEST</title>
-  <desc lang="en">初回となる今回は、重岡＆小瀧が「戦国時代の甲冑マニア」にリア突！清州城でガチの甲冑合戦なる格闘イベントの主催者に、正しい武器の使い方を学び合戦をするが…</desc>
-</programme>
+  <programme start="20211004135500 +0900" stop="20211004155000 +0900" channel="NipponTV.jp">
+    <title lang="en">情報ライブ ミヤネ屋</title>
+    <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+  </programme>
 <programme start="20211003135500 +0900" stop="20211003145500 +0900" channel="Asahi.jp">
   <title lang="en">マツコ有吉 かりそめ天国</title>
   <desc lang="en">次回放送は８日(金)よる８時から２時間スペシャル！
@@ -836,19 +827,22 @@
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜壮絶な生い立ち…“家族”に憧れた幼少期を明かす〜勝野洋さん＆キャシー中島さん夫妻が今日のゲストです。</desc>
 </programme>
-<programme start="20211003125400 +0900" stop="20211003130000 +0900" channel="TBS2.jp">
-  <title lang="en">dai-docoro☆ベジタ</title>
-  <desc lang="en">サツマイモに含まれるビタミンＣは芋類でトップクラス！乾燥肌が気になる秋には嬉しい栄養素ですね〜！★味のポイントはなんと『梅干し』！？いいアクセントになりますよ〜</desc>
+<programme start="20211004133000 +0900" stop="20211004134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理はおいなりさん風の味を手早く美味しく</desc>
 </programme>
-<programme start="20211003130000 +0900" stop="20211003133000 +0900" channel="TBS2.jp">
-  <title lang="en">それSnow Manにやらせて下さい</title>
-  <desc lang="en">あれ何だっけ？街中で一度は見たことがあるロゴをクイズで出題！▽まさかの直談判で女優・瀧本美織が番宣なしのリベンジ参戦！今度こそ全員正解なるか！？</desc>
+<programme start="20211004134500 +0900" stop="20211004134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">４月に開校した都立赤羽北桜高校は、保育・栄養科、調理科、介護福祉科を設置する専門高校。実習室など充実した設備で、専門分野のスペシャリスト育成を目指しています。</desc>
 </programme>
-<programme start="20211003133000 +0900" stop="20211003135700 +0900" channel="TBS2.jp">
-  <title lang="en">ウッチャン式</title>
-  <desc lang="en">「NEWS小山」×「かつお節の沼」
-ハマれば超旨い！カレー・餃子・アイス×かつお節！？バズるアレンジ料理が登場で内村絶賛！
-さらにまさかの涙の展開に…</desc>
+<programme start="20211004134900 +0900" stop="20211004135400 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20211004135400 +0900" stop="20211004145100 +0900" channel="Asahi.jp">
+  <title lang="en">ドクターX〜外科医・大門未知子〜</title>
+  <desc lang="en">「貧乏患者ｖｓ５０００億の命⁉ドミノも失敗しないので」米倉涼子(他)▽大企業のＣＥＯが東帝大学病院に入院した。高額出資が期待できるとあって、丹下は丁重に迎えるが…</desc>
 </programme>
 <programme start="20211003135700 +0900" stop="20211003140000 +0900" channel="TBS2.jp">
   <title lang="en">四季折々の贈り物</title>
@@ -947,6 +941,10 @@
 <programme start="20211004102500 +0900" stop="20211004135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
+</programme>
+<programme start="20211004135500 +0900" stop="20211004154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
 <programme start="20211003125400 +0900" stop="20211003140000 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -1092,6 +1090,10 @@
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽東京都日野市…手製ドレッシングのさけムニエル＆タジン鍋で豚野菜蒸し▽八王子市…祖母の思い出パンカツ▽千葉県松戸市…ピリ辛チーズチリもち</desc>
 </programme>
+<programme start="20211004134000 +0900" stop="20211004154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">９歳の孤児カーリー・スーとその父親代わりのビルは、当たり屋稼業に大忙し。お人好しなエリート女弁護士がそのカモに…！ジョン・ヒューズが贈るハートフルコメディ！</desc>
+</programme>
 <programme start="20211003120000 +0900" stop="20211003140000 +0900" channel="FujiTV.jp">
   <title lang="en">なりゆき街道旅</title>
   <desc lang="en">東京の大自然秋川渓谷！田舎蕎麦、川魚料理など清流を眺めながら頂く！秋の味覚、極上松茸ご飯に舌鼓！美肌温泉で癒しのひととき。高島礼子下積み時代の秘話。</desc>
@@ -1210,14 +1212,6 @@
 <programme start="20211004115500 +0900" stop="20211004144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-</programme>
-<programme start="20211003125500 +0900" stop="20211003130000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211003130000 +0900" stop="20211003133000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20211003133000 +0900" stop="20211003140000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1390,6 +1384,14 @@
 <programme start="20211004130000 +0900" stop="20211004135500 +0900" channel="Tokyo MX">
   <title lang="en">キム秘書はいったい、なぜ?</title>
   <desc lang="en">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
+</programme>
+<programme start="20211004135500 +0900" stop="20211004140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20211004140000 +0900" stop="20211004143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211003000000 +0900" stop="20211003010000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第15戦 ロシアGP 特集〜</title>
@@ -1727,7 +1729,7 @@ https://otn.fujitv.co.jp
 <title lang="en">寺門ジモンの肉専門チャンネル　#80「ロウリーズ・ザ・プライムリブ」</title>
 <desc>「ロウリーズ・ザ・プライムリブ 恵比寿ガーデンプレイス店」
 ▽芸能界一食に詳しく、肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211003/6707195/image/33e280d8e6bb8cefe6cce89d5428b030.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211003140000 +0900" stop="20211003160000 +0900" channel="FujiOne.jp">
@@ -1952,7 +1954,7 @@ https://otn.fujitv.co.jp
 （地上波放送日　2005年1月23日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211003/6678485/image/be6f4204425f894855ddf476c5618ff1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211003140000 +0900" stop="20211003143000 +0900" channel="FujiTwo.jp">
