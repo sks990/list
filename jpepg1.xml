@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211003193000 +0900" stop="20211003200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">北海道・知床で総勢１０匹の珍しいキツネ大家族に密着。家族を支えるのは豊かな海の幸。専門家もびっくりの大技で一家は巨大な魚を捕らえる！波乱万丈の子ギツネ成長物語。</desc>
-  </programme>
-  <programme start="20211003200000 +0900" stop="20211003204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">栄一は各省横断の特命チーム“改正掛（かいせいがかり）”を立ち上げ、国の制度改革にまい進する。そんな中、栄一は心に傷を負った惇忠と再会。温めていた提案を切り出す。</desc>
-  </programme>
-  <programme start="20211003204500 +0900" stop="20211003205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211003205500 +0900" stop="20211003210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -314,13 +302,17 @@
     <title lang="en">うたコン</title>
     <desc lang="en">▽次期“朝ドラ”「カムカムエヴリバディ」ヒロイン上白石萌音が井上芳雄とデュエット▽主題歌ＡＩ「アルデバラン」ＴＶ初披露▽五木ラスベガス秘話▽香西・三山・市川</desc>
   </programme>
-  <programme start="20211003195500 +0900" stop="20211003200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20211004204200 +0900" stop="20211004204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">#NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211003200000 +0900" stop="20211003204500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">６０年代から世界を股にかけて活躍してきた横尾忠則。「描くことに飽きた自分が何を描くのかに興味がある」と語る８５歳のアトリエに密着。新作誕生の現場を追いかける。</desc>
+  <programme start="20211004204500 +0900" stop="20211004210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211004210000 +0900" stop="20211004220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽新内閣発足へ閣僚の顔ぶれは？▽ノーベル賞の発表始まる初日は医学・生理学賞日本人の受賞はあるのか▽米大リーグレギュラーシーズン最終戦！大谷は▽新型コロナ感染状況</desc>
   </programme>
   <programme start="20211003204500 +0900" stop="20211003210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -590,6 +582,18 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">東京パラリンピックを「パラマニア」と一緒に振り返ろう！現地で取材した風間俊介さんの実感をたっぷり交じえながら日本の活躍や東京大会のレガシーについてお伝えします！</desc>
   </programme>
+  <programme start="20211004203000 +0900" stop="20211004204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">血管の壁にコレステロールなどがたまって狭くなり、心筋梗塞や脳梗塞などの原因となる動脈硬化。そのメカニズムと危険因子に迫り、心筋梗塞などにならない方法を探る。</desc>
+  </programme>
+  <programme start="20211004204500 +0900" stop="20211004210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211004210000 +0900" stop="20211004212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">秋本番！根菜界の人気者、れんこんの魅力をとことん引き出すおかず集を、２日間にわたってお届けします！初日は日本料理店店主の林亮平さんに、和のおかずを教わります。</desc>
+  </programme>
   <programme start="20211003190000 +0900" stop="20211003225400 +0900" channel="NipponTV.jp">
     <title lang="en">DASHでイッテQ!行列のできるしゃべくりナンデス!日テレ秋のコラボSP</title>
     <desc lang="en">DASH×笑点！大喜利対決▼イッテQ宮川柳楽優弥お祭り道中▼行列×仰天は鶴瓶VS東野！最強変人はどっち▼しゃべくり×ＳＨＯＷチャンネル▼ハプニング映像ナンデス</desc>
@@ -690,10 +694,10 @@
     <title lang="en">世界まる見え!テレビ特捜部</title>
     <desc lang="en">杉咲花＆滝沢カレンら世界の謎に挑戦▽走る車が突然消える道路？流氷の上にピューマ？目を開くミイラ？史上最低サッカー代表戦▽ナゾ生物ナゾ野菜▽国境警備隊vs謎の客</desc>
   </programme>
-<programme start="20211003195800 +0900" stop="20211003205600 +0900" channel="Asahi.jp">
-  <title lang="en">ポツンと一軒家</title>
-  <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
-</programme>
+  <programme start="20211004210000 +0900" stop="20211004225400 +0900" channel="NipponTV.jp">
+    <title lang="en">人生が変わる1分間の深イイ話</title>
+    <desc lang="en">超緊迫リアル捜査…愛知県警バラエティー初密着！暴走バイクＶＳパトカー！盗撮犯ＶＳ美人警官！捜査の最前線に㊙潜入▼独占！ラミレス家の超ドタバタ初キャンプ密着</desc>
+  </programme>
 <programme start="20211003205600 +0900" stop="20211003210000 +0900" channel="Asahi.jp">
   <title lang="en">食ノ音色</title>
   <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
@@ -1111,6 +1115,10 @@
   <title lang="en">ネプリーグ</title>
   <desc lang="en">月９俳優陣が珍解答連発！？本田翼が大ピンチ！広瀬アリスが絶叫！？欅坂４６、ＥＸＩＬＥ、ＧＬＡＹヒット曲漢字Ｑで大波乱！▼ｄボタンで絶品イクラが当たる！</desc>
 </programme>
+<programme start="20211004210000 +0900" stop="20211004222400 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
+  <desc lang="en">帰ってきた天才放射線技師！消えた仲間たちの行方…新たな病院長が立ちはだかる！認知症疑いになった技師長も退職で、ラジハは解散寸前！？視えない病の真実を診つけ出せ！</desc>
+</programme>
 <programme start="20211003190000 +0900" stop="20211003210000 +0900" channel="Tokyo MX">
   <title lang="en">賢人からのメッセージ〜平塚景堂の泰然自若〜</title>
   <desc lang="en">臨済宗・大本山相国寺塔頭養源院住職、平塚景堂のひと夏を密着取材！禅を基本的なルーツにしながら多岐にわたる活動を掘り下げ、今を生きるヒントを見つける。</desc>
@@ -1295,6 +1303,10 @@
 <programme start="20211004200000 +0900" stop="20211004210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">東京の新規感染者数…減少傾向は続くのか？都内の新型コロナウイルス</desc>
+</programme>
+<programme start="20211004210000 +0900" stop="20211004215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">武井壮×苫米地英人！毎週月曜は「ビジネス・マネー」をテーマにお届け。ダンディな大人が知っておくべき世の中の話題をトーク＆銀河系ゼミナール∞開講</desc>
 </programme>
 <programme start="20211003000000 +0900" stop="20211003010000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第15戦 ロシアGP 特集〜</title>
@@ -1954,7 +1966,7 @@ https://otn.fujitv.co.jp
 <title lang="en">[生]TOKYO IDOL FESTIVAL 2021 生中継グランドフィナーレ</title>
 <desc>HOT STAGE「乃木坂46」ライブ＆グランドフィナーレ生中継！＜グランドフィナーレMC＞濱口優、チェアマン長濱ねる
 ▽「BiSH」DAY2公演のダイジェスト
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211003/6678496/image/8bfab765a8c71aa9d18307901e584594.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211003210000 +0900" stop="20211004000000 +0900" channel="FujiTwo.jp">
@@ -2103,7 +2115,7 @@ https://otn.fujitv.co.jp
 <programme start="20211003194500 +0900" stop="20211003210000 +0900" channel="kbsworld.jp">
 <title lang="en">優雅な友達（原題）　#6　[字][再]</title>
 <desc>ベーシック初放送！親友5人とその妻たちに隠された秘密、2つの殺人事件、友人の死から驚愕の真実が明らかなっていくミステリー　コメディメロドラマ！2020年　全17話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211003/6673592/image/140f91aa019f3341be9743d78dad5eb8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211003210000 +0900" stop="20211003214000 +0900" channel="kbsworld.jp">
