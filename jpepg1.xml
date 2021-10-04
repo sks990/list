@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211005003300 +0900" stop="20211005011800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">プロフェッショナル 仕事の流儀</title>
-    <desc lang="en">羽田空港をかけ回る接客Ｎｏ．１のグランドスタッフに密着！一瞬に込める究極のおもてなしとは？コロナ禍で過去最大の赤字に直面する中、もがき続ける羽田空港の舞台裏！</desc>
-  </programme>
   <programme start="20211005011800 +0900" stop="20211005020400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">SONGS</title>
     <desc lang="en">Ｂａｎｋ　Ｂａｎｄが初登場▽小林武史・櫻井和寿が語るａｐ　ｂａｎｋ　ｆｅｓへの思い▽宮本浩次と夢の共演「東京協奏曲」をテレビ初披露▽１８年でたどり着いた「利他」</desc>
@@ -325,6 +321,14 @@
   <programme start="20211006002000 +0900" stop="20211006011400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">創立１００年を迎えた中国共産党。どのようにして一党支配を維持し続けてきたのか。党の中枢に身を置きながら政治改革を訴えてきたある幹部の日記から中国の実像に迫る。</desc>
+  </programme>
+  <programme start="20211006011400 +0900" stop="20211006015900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">オリバーな犬、（Gosh!!）このヤロウ</title>
+    <desc lang="en">一平（池松壮亮）はオリバーからユキナ（本田翼）が事件に巻き込まれたと聞かされるが誰も信じてくれない。宗手（永山瑛太）率いる半グレのもとには警察のガサ入れが。</desc>
+  </programme>
+  <programme start="20211006015900 +0900" stop="20211006022900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ねほりんぱほりん</title>
+    <desc lang="en">１０月からシーズン６が始まる「ねほりんぱほりん」。ＭＣの山里亮太とＹＯＵがカンニング竹山さんと新作の見どころを紹介！番組ファンの星野源さんもＶＴＲで登場！</desc>
   </programme>
   <programme start="20211005004000 +0900" stop="20211005053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -686,13 +690,13 @@
     <title lang="en">NHK高校講座 苦手を克服! ベーシック英語</title>
     <desc lang="en">「高校の英語がわからない…」そんなキミのための基礎力ＵＰ講座。中１から中３までの英語のつまずきポイントを中心に文法の基礎を解りやすく説明するぞ！</desc>
   </programme>
-  <programme start="20211005005900 +0900" stop="20211005012900 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレ秋の新ドラマの魅力をお届け!「メガホン」深夜版</title>
-    <desc lang="en">秋ドラマの主演、杉咲花、西島秀俊、柳楽優弥からの依頼を受け、ドラマの魅力を言葉・音楽・絵のプロ達がクリエイティブな表現でお届けする番組「メガホン」再編集版！</desc>
+  <programme start="20211006010500 +0900" stop="20211006012500 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 コミュニケーション英語I</title>
+    <desc lang="en">外国からのお客様に喜んでもらう「おもてなしの英語」ってどんなの？ホテルを舞台にトレンディエンジェルと一緒にすぐに使える実践的な英語を学んでいきます。</desc>
   </programme>
-  <programme start="20211005012900 +0900" stop="20211005015900 +0900" channel="NipponTV.jp">
-    <title lang="en">新・水ドラ「恋です!ヤンキー君と白杖ガール」ついにあす放送開!みどころ紹介SP</title>
-    <desc lang="en">あす１０月６日（水）よる１０時〜放送開始！盲学校生×不良少年の恋を描いた新水曜ドラマ「恋です！〜ヤンキー君と白杖ガール〜」その豪華キャスト＆みどころに迫ります！</desc>
+  <programme start="20211006012500 +0900" stop="20211006053000 +0900" channel="eTele.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211005015900 +0900" stop="20211005034400 +0900" channel="NipponTV.jp">
     <title lang="en">あなたの番です</title>
@@ -766,18 +770,15 @@
     <title lang="en">Who is Princess?</title>
     <desc lang="en">日本全国から応募者を募り開催してきた、従来のオーディション番組とはひと味違う“デビュー・サバイバル・プログラム”が、今秋誕生！</desc>
   </programme>
-<programme start="20211005005000 +0900" stop="20211005012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">「さらば青春の光」と「見取り図」がオリジナルゲームを配信⁉▼次世代のゲームクリエイターになりたい！そんな生徒たちが集う予備校を舞台にヒットゲーム開発を目指す‼</desc>
-</programme>
-<programme start="20211005012000 +0900" stop="20211005012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211005012600 +0900" stop="20211005015600 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
+  <programme start="20211006012900 +0900" stop="20211006013500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211006013500 +0900" stop="20211006023500 +0900" channel="NipponTV.jp">
+    <title lang="en">HUNTER×HUNTER</title>
+    <desc lang="en">★キメラアント編クライマックス！★＃１３５「コノヒ×ト×コノシュンカン」
+＃１３６「キキョウ×ト×ホンミョウ」</desc>
+  </programme>
 <programme start="20211005015600 +0900" stop="20211005021600 +0900" channel="Asahi.jp">
   <title lang="en">イグナッツ!!</title>
   <desc lang="en">アーティストとしても活動するお笑いコンビ・EXIT、日本三連覇のラッパーと世界一のDJによるHIP HOPユニット・Creepy Nutsの２組が、“カルチャー”を深掘り‼</desc>
@@ -886,13 +887,18 @@ by.Jewel</desc>
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
 </programme>
-<programme start="20211005005800 +0900" stop="20211005012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">総勢16組による“バカネタNo.1”を決めるSPトーナメント！開幕戦は≪ストロングバカネタバトル≫【インポッシブルvsハリウッドザコシショウvsランジャタイ】</desc>
+<programme start="20211006012000 +0900" stop="20211006012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20211005012800 +0900" stop="20211005013500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211006012600 +0900" stop="20211006015600 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
+</programme>
+<programme start="20211006015600 +0900" stop="20211006021600 +0900" channel="Asahi.jp">
+  <title lang="en">ホリケンのみんなともだち</title>
+  <desc lang="en">ホリケンこと堀内健（ネプチューン）の新番組がスタート！▽人から聞いたり雑誌で読んだスポーツにまつわる「知ったかぶり」知識を楽屋ノリでワイワイ話していきます！</desc>
 </programme>
 <programme start="20211005013500 +0900" stop="20211005023500 +0900" channel="TBS2.jp">
   <title lang="en">AKB48グループ歌唱力No.1決定戦</title>
@@ -966,13 +972,13 @@ by.Jewel</desc>
   <title lang="en">アメージパング!</title>
   <desc lang="en">ロサンゼルス、ニュージーランド、ジョージアなど様々な海外からクイズを出題！▼ひらめきで答えろ！海外なぞなぞ！「オラアスリート」はどこの国？</desc>
 </programme>
-<programme start="20211005003000 +0900" stop="20211005010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ラブコール〜ザ・パーフェクト・ブッキング!</title>
-  <desc lang="en">今、ドラマクリエイターが本気で仕事をしたい俳優・女優は誰だ！？何故？どんな魅力が？どういう風に使ってみたい？何を求める？などなど、熱いラブコールを送る番組！</desc>
+<programme start="20211006012800 +0900" stop="20211006015800 +0900" channel="TBS2.jp">
+  <title lang="en">トーキョー製麺所</title>
+  <desc lang="en">第伍話「書き上げうどん」▼１か月後に突如閉店が決まったトーキョー製麺所。そんな折、ドキュメンタリー番組の取材が入り店長・赤松（吉野北人）は赤松節をかましまくり⁉</desc>
 </programme>
-<programme start="20211005010000 +0900" stop="20211005013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼研修生発表会でソロパートを任された石山の成長秘話▼小野田の知られざる苦悩と飛躍▼豪華ライブパフォーマンス！</desc>
+<programme start="20211006015800 +0900" stop="20211006023800 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">天海祐希主演映画「老後の資金がありません！」フルポン村上が注目作品を㊙プレゼン！「ポーラ美術館コレクション展」あの芸術好き芸人・宮下兼史鷹が渋谷で名画を体感</desc>
 </programme>
 <programme start="20211005013000 +0900" stop="20211005020000 +0900" channel="TVTokyo.jp">
   <title lang="en">境界戦機</title>
@@ -1129,13 +1135,13 @@ by.Jewel</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20211005005500 +0900" stop="20211005012500 +0900" channel="FujiTV.jp">
-  <title lang="en">スイートリベンジ</title>
-  <desc lang="en">女の弱みにつけ込む不倫オトコ後編</desc>
+<programme start="20211006013000 +0900" stop="20211006013500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">１０／７(木)スタート「有吉の世界同時中継〜今、そっちってどうなってますか？〜」の見どころをご紹介します。</desc>
 </programme>
-<programme start="20211005012500 +0900" stop="20211005015500 +0900" channel="FujiTV.jp">
-  <title lang="en">いとしのニーナ</title>
-  <desc lang="en">守るってどーやって？？</desc>
+<programme start="20211006013500 +0900" stop="20211006020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">紙とさまぁ〜ず</title>
+  <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
 </programme>
 <programme start="20211005015500 +0900" stop="20211005025500 +0900" channel="FujiTV.jp">
   <title lang="en">A.B.C-Zの雨ニモマケ-Z</title>
@@ -1221,17 +1227,9 @@ by.Jewel</desc>
   <title lang="en">A-コマンド〜有田と美女が発注にこたえます〜</title>
   <desc lang="en">有田と美女ゲストはステージ上で初めて対面し、その場でコマンドが発動される。新川優愛・王林・井上咲楽・黒木ひかり…普段見せない新たな一面を引き出される？</desc>
 </programme>
-<programme start="20211005003000 +0900" stop="20211005010000 +0900" channel="Tokyo MX">
-  <title lang="en">海賊王女</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211005010000 +0900" stop="20211005010500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211005010500 +0900" stop="20211005013500 +0900" channel="Tokyo MX">
-  <title lang="en">京都暮らし</title>
-  <desc lang="en"> </desc>
+<programme start="20211006012500 +0900" stop="20211006032500 +0900" channel="FujiTV.jp">
+  <title lang="en">選挙の勝ち方教えます</title>
+  <desc lang="en">こんなに激しく、ユーモア溢れる、情熱的なサンドラ・ブロック観たことない！アカデミー賞🄬作品賞『アルゴ』の制作スタッフが大統領選挙の裏側に迫る！</desc>
 </programme>
 <programme start="20211005013500 +0900" stop="20211005020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1425,6 +1423,14 @@ by.Jewel</desc>
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211006010500 +0900" stop="20211006013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+</programme>
+<programme start="20211006013500 +0900" stop="20211006020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">ライブツアー『ORDINARY』を控えた、真心ブラザーズが登場！MC遠山が青春時代を一緒に過ごした楽曲から、今もよく聴く大好きな楽曲と共に真心ブラザーズの魅力を特集！</desc>
+</programme>
 <programme start="20211004231000 +0900" stop="20211005001000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第15戦 ロシアGP 特集〜</title>
 <desc>＜解説＞川井一仁　米家峰起　＜ゲスト＞山本雅史（ホンダF1マネージングディレクター）　＜MC＞堀池亮介　▽「FORMULA 1」の最新情報をお届け！　【再放送】
@@ -1455,7 +1461,7 @@ https://otn.fujitv.co.jp
 <programme start="20211005010000 +0900" stop="20211005020000 +0900" channel="FujiNext.jp">
 <title lang="en">林青空へきくちから！デビュー1週前音楽雑談・林青空は何処から来て何処へ向かうのか</title>
 <desc>シンガーソングライター林青空、出逢って1か月デビュー1週前の『きくちから』あいらもえかオープニングアクト、GIRLS'FACTORY NEXT演奏映像も初放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211004/6699300/image/b8a6f9b73daeb06a80824fba75389f63.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211005020000 +0900" stop="20211005030000 +0900" channel="FujiNext.jp">
@@ -1679,7 +1685,7 @@ https://otn.fujitv.co.jp
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211004/6707228/image/68ab7b563f285b57ef9897030d6ab826.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211005020000 +0900" stop="20211005023000 +0900" channel="FujiOne.jp">
@@ -2141,7 +2147,7 @@ https://otn.fujitv.co.jp
 <programme start="20211005003000 +0900" stop="20211005020000 +0900" channel="kbsworld.jp">
 <title lang="en">ユ・ヒヨルのスケッチブック　[字]</title>
 <desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211004/6681866/image/c1c8b3ebbe5e70bf7192040dd1687d39.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211005020000 +0900" stop="20211005031000 +0900" channel="kbsworld.jp">
