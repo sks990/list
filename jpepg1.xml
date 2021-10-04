@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211005011800 +0900" stop="20211005020400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SONGS</title>
-    <desc lang="en">Ｂａｎｋ　Ｂａｎｄが初登場▽小林武史・櫻井和寿が語るａｐ　ｂａｎｋ　ｆｅｓへの思い▽宮本浩次と夢の共演「東京協奏曲」をテレビ初披露▽１８年でたどり着いた「利他」</desc>
-  </programme>
-  <programme start="20211005020400 +0900" stop="20211005024400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽世界の首脳らが租税回避地介した取り引きに関与か▽台湾防空識別圏へ中国軍機進入　連日最多の背景▽写真家が見た素顔のスティーブ・ジョブズ氏▽タイいつ隔離なし観光？</desc>
-  </programme>
   <programme start="20211005024400 +0900" stop="20211005032800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">スポーツ×ヒューマン</title>
     <desc lang="en">戦うのは、己自身。日本大学女子弓道部が掲げるのは「堂々とした弓」。しかし、プレッシャーに襲われ主将もまさかの不調に。それでも、仲間とともに自分たちの弓道で勝つ！</desc>
@@ -329,6 +321,14 @@
   <programme start="20211006015900 +0900" stop="20211006022900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ねほりんぱほりん</title>
     <desc lang="en">１０月からシーズン６が始まる「ねほりんぱほりん」。ＭＣの山里亮太とＹＯＵがカンニング竹山さんと新作の見どころを紹介！番組ファンの星野源さんもＶＴＲで登場！</desc>
+  </programme>
+  <programme start="20211006022900 +0900" stop="20211006023100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">１０月９日２２：４０〜生放送するａｎｄｍｏｒｅＦＥＳ！その放送で披露するべくＭＣがＳＰバンドを結成！オリジナル曲で生パフォーマンス！川島・太鳳の奮闘を報告！！</desc>
+  </programme>
+  <programme start="20211006023100 +0900" stop="20211006031100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽中国　農村の留守児童の学びを支える「サポート教師」※ＳＤＧｓ企画▽最新の国際ニュース※変更の可能性あり</desc>
   </programme>
   <programme start="20211005004000 +0900" stop="20211005053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -779,20 +779,10 @@
     <desc lang="en">★キメラアント編クライマックス！★＃１３５「コノヒ×ト×コノシュンカン」
 ＃１３６「キキョウ×ト×ホンミョウ」</desc>
   </programme>
-<programme start="20211005015600 +0900" stop="20211005021600 +0900" channel="Asahi.jp">
-  <title lang="en">イグナッツ!!</title>
-  <desc lang="en">アーティストとしても活動するお笑いコンビ・EXIT、日本三連覇のラッパーと世界一のDJによるHIP HOPユニット・Creepy Nutsの２組が、“カルチャー”を深掘り‼</desc>
-</programme>
-<programme start="20211005021600 +0900" stop="20211005023600 +0900" channel="Asahi.jp">
-  <title lang="en">トゲアリトゲナシトゲトゲ</title>
-  <desc lang="en">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
-令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
-</programme>
-<programme start="20211005023600 +0900" stop="20211005025600 +0900" channel="Asahi.jp">
-  <title lang="en">もう中学生のおグッズ!</title>
-  <desc lang="en">有効成分１２０％！もう中ワールドへようこそ◎
-趣味は“タレントグッズ集め”のもう中学生が「売れる公式もう中グッズ」の制作＆発売を目指して猛研究するよ〜◎</desc>
-</programme>
+  <programme start="20211006023500 +0900" stop="20211006040000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレは秋もお得情報満載！人気脱毛器、首用EMS機器、高機能シャワーヘッド、NO1枕、英国バッグ、バカ売れ美顔器、ブルブルボーテ、ダイヤまで人気商品勢ぞろい！</desc>
+  </programme>
 <programme start="20211005025600 +0900" stop="20211005030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -900,9 +890,23 @@ by.Jewel</desc>
   <title lang="en">ホリケンのみんなともだち</title>
   <desc lang="en">ホリケンこと堀内健（ネプチューン）の新番組がスタート！▽人から聞いたり雑誌で読んだスポーツにまつわる「知ったかぶり」知識を楽屋ノリでワイワイ話していきます！</desc>
 </programme>
-<programme start="20211005013500 +0900" stop="20211005023500 +0900" channel="TBS2.jp">
-  <title lang="en">AKB48グループ歌唱力No.1決定戦</title>
-  <desc lang="en">全国のＡＫＢ４８グループの中で一番の歌姫を決める大会、ＡＫＢ４８グループ歌唱力Ｎｏ．１決定戦。これまで開催された３回のストーリーと、第４回の注目メンバーを紹介！</desc>
+<programme start="20211006021600 +0900" stop="20211006023600 +0900" channel="Asahi.jp">
+  <title lang="en">ぼる塾のいいじゃないキッチン</title>
+  <desc lang="en">食を愛する芸人・ぼる塾が、食にまつわるあらゆることを「いいじゃない」で全肯定する超ポジティブなグルメバラエティーです。</desc>
+</programme>
+<programme start="20211006023600 +0900" stop="20211006025600 +0900" channel="Asahi.jp">
+  <title lang="en">〜凪咲と芸人〜マッチング</title>
+  <desc lang="en">バラエティ番組で大活躍中！ＮＭＢ48渋谷凪咲の初冠番組！
+“芸人さん”をゲストに迎え、２人の相性を探っていくマッチングバラエティ！</desc>
+</programme>
+<programme start="20211006025600 +0900" stop="20211006030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20211006030000 +0900" stop="20211006033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20211005023500 +0900" stop="20211005034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -980,21 +984,14 @@ by.Jewel</desc>
   <title lang="en">アカデミーナイトG</title>
   <desc lang="en">天海祐希主演映画「老後の資金がありません！」フルポン村上が注目作品を㊙プレゼン！「ポーラ美術館コレクション展」あの芸術好き芸人・宮下兼史鷹が渋谷で名画を体感</desc>
 </programme>
-<programme start="20211005013000 +0900" stop="20211005020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">境界戦機</title>
-  <desc lang="en">２１世紀半ば、日本は４つの経済圏によって分割統治された。隷属国となった日本に生まれた少年・椎葉アモウは、ある日、捨てられていた自律思考型ＡＩ『ガイ』と出会う。</desc>
+<programme start="20211006023800 +0900" stop="20211006024500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20211005020000 +0900" stop="20211005023000 +0900" channel="TVTokyo.jp">
-  <title lang="en">進化の実〜知らないうちに勝ち組人生〜</title>
-  <desc lang="en">デブでブサイクな高校生・柊誠一。イジメられっ子の彼は冴えない毎日を送っていたが、謎の校内放送が流れ「異世界」へと送り込まれる。異世界勝ち組人生、ここに始まるー‼</desc>
-</programme>
-<programme start="20211005023000 +0900" stop="20211005023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">１０／７(木)スタート「有吉の世界同時中継〜今、そっちってどうなってますか？〜」の見どころをご紹介します。</desc>
-</programme>
-<programme start="20211005023500 +0900" stop="20211005025000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">ヒロインが性別を偽って、女子禁制の学校に入学するドラマ！「トキメキ☆雲上学堂スキャンダル〜漂亮書生〜」をご紹介。気になる内容をちょっとだけお見せしちゃいます！</desc>
+<programme start="20211006024500 +0900" stop="20211006034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20211005025000 +0900" stop="20211005032000 +0900" channel="TVTokyo.jp">
   <title lang="en">プレミアMelodiX!</title>
@@ -1143,9 +1140,13 @@ by.Jewel</desc>
   <title lang="en">紙とさまぁ〜ず</title>
   <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
 </programme>
-<programme start="20211005015500 +0900" stop="20211005025500 +0900" channel="FujiTV.jp">
-  <title lang="en">A.B.C-Zの雨ニモマケ-Z</title>
-  <desc lang="en">岩手めんこいテレビ復興応援プロジェクトのサポーターＡ．Ｂ．Ｃ－Ｚ。１年ぶりに被災地を訪れ、感謝の気持ちを胸にそれぞれのプロジェクトに全力で取り組んだ。</desc>
+<programme start="20211006020500 +0900" stop="20211006023500 +0900" channel="TVTokyo.jp">
+  <title lang="en">勇者の歌声〜魂と絆のオーディション〜</title>
+  <desc lang="en">ゲームアプリ「ドラゴンクエスト　ダイの大冒険　‐魂の絆‐」の主題歌を決めるオーディション番組。</desc>
+</programme>
+<programme start="20211006023500 +0900" stop="20211006030500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
 </programme>
 <programme start="20211005025500 +0900" stop="20211005035500 +0900" channel="FujiTV.jp">
   <title lang="en">偶然見つけたハル</title>
@@ -1230,18 +1231,6 @@ by.Jewel</desc>
 <programme start="20211006012500 +0900" stop="20211006032500 +0900" channel="FujiTV.jp">
   <title lang="en">選挙の勝ち方教えます</title>
   <desc lang="en">こんなに激しく、ユーモア溢れる、情熱的なサンドラ・ブロック観たことない！アカデミー賞🄬作品賞『アルゴ』の制作スタッフが大統領選挙の裏側に迫る！</desc>
-</programme>
-<programme start="20211005013500 +0900" stop="20211005020500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211005020500 +0900" stop="20211005023400 +0900" channel="Tokyo MX">
-  <title lang="en">夏菜のWAZAARI〜日本esports応援宣言〜</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211005023400 +0900" stop="20211005023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20211005023500 +0900" stop="20211005030500 +0900" channel="Tokyo MX">
   <title lang="en">日本グレートスポット紀行 season2</title>
@@ -1431,6 +1420,18 @@ by.Jewel</desc>
   <title lang="en">69号室の住人</title>
   <desc lang="en">ライブツアー『ORDINARY』を控えた、真心ブラザーズが登場！MC遠山が青春時代を一緒に過ごした楽曲から、今もよく聴く大好きな楽曲と共に真心ブラザーズの魅力を特集！</desc>
 </programme>
+<programme start="20211006020500 +0900" stop="20211006023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211006023400 +0900" stop="20211006023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211006023500 +0900" stop="20211006030500 +0900" channel="Tokyo MX">
+  <title lang="en">キラ×バズTV!?</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211004231000 +0900" stop="20211005001000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第15戦 ロシアGP 特集〜</title>
 <desc>＜解説＞川井一仁　米家峰起　＜ゲスト＞山本雅史（ホンダF1マネージングディレクター）　＜MC＞堀池亮介　▽「FORMULA 1」の最新情報をお届け！　【再放送】
@@ -1467,7 +1468,7 @@ https://otn.fujitv.co.jp
 <programme start="20211005020000 +0900" stop="20211005030000 +0900" channel="FujiNext.jp">
 <title lang="en">みんなの鉄道　#15「箱根登山鉄道」</title>
 <desc>#15『箱根登山鉄道』 本格的山岳鉄道である箱根登山鉄道。 神奈川県の「小田原」から小田急電鉄も乗り入れている「箱根湯本」までの区間を経て「強羅」に至る路線。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211004/6699301/image/b6c310c33d64c5cb72e7f33d6ad193d9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211005030000 +0900" stop="20211005054000 +0900" channel="FujiNext.jp">
