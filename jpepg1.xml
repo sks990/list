@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211005024400 +0900" stop="20211005032800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">スポーツ×ヒューマン</title>
-    <desc lang="en">戦うのは、己自身。日本大学女子弓道部が掲げるのは「堂々とした弓」。しかし、プレッシャーに襲われ主将もまさかの不調に。それでも、仲間とともに自分たちの弓道で勝つ！</desc>
-  </programme>
-  <programme start="20211005032800 +0900" stop="20211005033000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">１０月９日２２：４０〜生放送するａｎｄｍｏｒｅＦＥＳ！その放送で披露するべくＭＣがＳＰバンドを結成！オリジナル曲で生パフォーマンス！川島・太鳳の奮闘を報告！！</desc>
-  </programme>
   <programme start="20211005033000 +0900" stop="20211005040000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
@@ -329,6 +321,10 @@
   <programme start="20211006023100 +0900" stop="20211006031100 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽中国　農村の留守児童の学びを支える「サポート教師」※ＳＤＧｓ企画▽最新の国際ニュース※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211006031100 +0900" stop="20211006041100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ドイツ・ベルリンを旅する。</desc>
   </programme>
   <programme start="20211005004000 +0900" stop="20211005053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -698,14 +694,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211005015900 +0900" stop="20211005034400 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です</title>
-    <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！懐かしのあのキャラクターの大暴走や恐怖に震えた衝撃シーンをおさらいしよう！</desc>
-  </programme>
-  <programme start="20211005034400 +0900" stop="20211005034500 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211005034500 +0900" stop="20211005043000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">10月もポシュレとっておきお得情報！ポシュレ史上最も売れてる振動マシーン、シワ対策60セカンズ、ロボット掃除機ルンバ、くわばた骨盤ショーツ、小田急高級羽毛布団！</desc>
@@ -783,15 +771,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは秋もお得情報満載！人気脱毛器、首用EMS機器、高機能シャワーヘッド、NO1枕、英国バッグ、バカ売れ美顔器、ブルブルボーテ、ダイヤまで人気商品勢ぞろい！</desc>
   </programme>
-<programme start="20211005025600 +0900" stop="20211005030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211005030000 +0900" stop="20211005033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211006040000 +0900" stop="20211006043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
+  </programme>
 <programme start="20211005033000 +0900" stop="20211005040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -908,10 +891,13 @@ by.Jewel</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20211005023500 +0900" stop="20211005034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211006033000 +0900" stop="20211006040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211006040000 +0900" stop="20211006045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「恋山彦、幻の花嫁」松平健(他)▽下野大滝藩江戸家老・野間源太夫が浪人に襲われ、危うく難を逃れた。源太夫は襲われるような心当たりはないというが、その挙動が不審で…</desc>
 </programme>
 <programme start="20211005034500 +0900" stop="20211005043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -993,18 +979,9 @@ by.Jewel</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211005025000 +0900" stop="20211005032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】OKAMOTO’S・超ときめき宣伝部・Nothing’s　Carved　In　Stone
-【ナビゲーター】南海キャンディーズ</desc>
-</programme>
-<programme start="20211005032000 +0900" stop="20211005035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あにレコTV</title>
-  <desc lang="en">MCはノンスタ井上と美山加恋！▽「ドラゴンクエスト　ダイの大冒険」特集！話題のスマホゲームをピックアップ！▽「大正オトメ御伽話」特集！会沢紗弥がVTRで登場！</desc>
-</programme>
-<programme start="20211005035000 +0900" stop="20211005035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+<programme start="20211006034500 +0900" stop="20211006043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211005035500 +0900" stop="20211005041000 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
@@ -1148,9 +1125,22 @@ by.Jewel</desc>
   <title lang="en"></title>
   <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
 </programme>
-<programme start="20211005025500 +0900" stop="20211005035500 +0900" channel="FujiTV.jp">
-  <title lang="en">偶然見つけたハル</title>
-  <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
+<programme start="20211006030500 +0900" stop="20211006032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">“試験の代筆”から物語が始まる中国ドラマ！「トキメキ☆雲上学堂スキャンダル〜漂亮書生〜」をご紹介。男装したヒロインのドキドキハラハラシーンをちょい見せ！！</desc>
+</programme>
+<programme start="20211006032000 +0900" stop="20211006032500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211006032500 +0900" stop="20211006035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">女ともだち</title>
+  <desc lang="en">シューズデザイナーの乾セツは親友のちさとが働くダイニングバーにやって来る。席に着くなり昼間から白ワインを飲むセツ。良いニュースと悪いニュースがあるというのだが…</desc>
+</programme>
+<programme start="20211006035500 +0900" stop="20211006042000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
 </programme>
 <programme start="20211005035500 +0900" stop="20211005040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1232,13 +1222,17 @@ by.Jewel</desc>
   <title lang="en">選挙の勝ち方教えます</title>
   <desc lang="en">こんなに激しく、ユーモア溢れる、情熱的なサンドラ・ブロック観たことない！アカデミー賞🄬作品賞『アルゴ』の制作スタッフが大統領選挙の裏側に迫る！</desc>
 </programme>
-<programme start="20211005023500 +0900" stop="20211005030500 +0900" channel="Tokyo MX">
-  <title lang="en">日本グレートスポット紀行 season2</title>
-  <desc lang="en">天領日田洋酒博物館・つるかめ便利屋</desc>
-</programme>
-<programme start="20211005030500 +0900" stop="20211005033500 +0900" channel="Tokyo MX">
+<programme start="20211006032500 +0900" stop="20211006035500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けするスグレモノ・新製品・話題のヒット商品・海外商品を、視聴者の皆様ひとりひとりに語りかける様に紹介していく新型通販バラエティ！</desc>
+</programme>
+<programme start="20211006035500 +0900" stop="20211006040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20211006040000 +0900" stop="20211006045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211005033500 +0900" stop="20211005040000 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1431,6 +1425,18 @@ by.Jewel</desc>
 <programme start="20211006023500 +0900" stop="20211006030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211006030500 +0900" stop="20211006033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211006033500 +0900" stop="20211006040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４Ｋ撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20211006040000 +0900" stop="20211006043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
 <programme start="20211004231000 +0900" stop="20211005001000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第15戦 ロシアGP 特集〜</title>
