@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211004115400 +0900" stop="20211004120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211004120000 +0900" stop="20211004123800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20211004123800 +0900" stop="20211004124300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211004124300 +0900" stop="20211004124500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">新型コロナ 命を守る行動を</title>
-    <desc lang="en">感染症のエキスパートに、お笑い芸人ぺこぱの二人がインタビュー。新型コロナ現状や今後の見通しを聞いた。</desc>
-  </programme>
   <programme start="20211004124500 +0900" stop="20211004130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">連続テレビ小説 おかえりモネ</title>
     <desc lang="en">１１月、水産関係の交流会で発表する未知（蒔田彩珠）の姿を、百音（清原果耶）は誇らしく見ていた。ある日、仕事中の百音の前に、一人の中学生（伊東蒼）が現れる。</desc>
@@ -264,7 +248,7 @@
   </programme>
   <programme start="20211005100500 +0900" stop="20211005101500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">みみより!くらし解説</title>
-    <desc lang="en">▽あなたのくらしに、みみより解説！いま気になるニュースをわかりやすく、裏にはこんな深いコトが…！くらしに密着した耳よりな情報をお届けします！</desc>
+    <desc lang="en">車に食品や日用品を積んで地域を回る「移動スーパー」。コロナ禍や高齢化で注目されている。物を売るだけではないその役割とは？地方だけでなく都会でも人気の理由とは？</desc>
   </programme>
   <programme start="20211005101500 +0900" stop="20211005104000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHK地域局発</title>
@@ -306,13 +290,25 @@
     <title lang="en"></title>
     <desc lang="en">【キャスター】三條雅幸</desc>
   </programme>
-  <programme start="20211004115500 +0900" stop="20211004120000 +0900" channel="eTele.jp">
-    <title lang="en">まる得マガジン</title>
-    <desc lang="en">スポーツ料理研究家と公認スポーツ栄養士が、“アスリート食”を参考にした健康ごはんを紹介する。第５回は貧血予防に役立つ料理。「牛肉とほうれんそうのビビンバ」ほか。</desc>
+  <programme start="20211005121500 +0900" stop="20211005122000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211004120000 +0900" stop="20211004125500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">大河ドラマ「青天を衝け」で話題の明治期は古典芸能にとっても大きな変革期だった。古典芸能を好んだ渋沢栄一のエピソードをまじえ、当時作られた歌舞伎や長唄を鑑賞する。</desc>
+  <programme start="20211005122000 +0900" stop="20211005124300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">BENTO EXPO</title>
+    <desc lang="en">チリから肉や野菜を葉で蒸し焼きにする伝統料理の弁当、香港からパンと海苔・野菜で作った色鉛筆弁当の投稿を紹介。島根から特産しじみの甘辛煮を酢飯に入れた駅弁を紹介。</desc>
+  </programme>
+  <programme start="20211005124300 +0900" stop="20211005124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">肺炎で中等症となり退院後も体調不良に悩む４９歳男性。かかっても軽症だからと楽観視する若い世代に警鐘を鳴らす。高齢者より若い人の方が後遺症の頻度が高いという指摘も</desc>
+  </programme>
+  <programme start="20211005124500 +0900" stop="20211005130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 おかえりモネ</title>
+    <desc lang="en">ある朝、職場に一人の中学生・あかり（伊東蒼）がやってきて、百音（清原果耶）は声をかける。その夜、亮（永瀬廉）と飲んでいた未知（蒔田彩珠）を迎えに行くと…。</desc>
+  </programme>
+  <programme start="20211005130000 +0900" stop="20211005130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211004125500 +0900" stop="20211004130000 +0900" channel="eTele.jp">
     <title lang="en">みんなのうた</title>
@@ -618,6 +614,18 @@
     <title lang="en">先人たちの底力 知恵泉</title>
     <desc lang="en">コロナ禍の今、生活に欠かせない「宅配便」。このサービスを生んだ経営者・小倉昌男は、社内の反対、新システムの構築、国の規制など数々の困難をどう乗り越えたのか。</desc>
   </programme>
+  <programme start="20211005124500 +0900" stop="20211005125500 +0900" channel="eTele.jp">
+    <title lang="en">365日の献立日記</title>
+    <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+  </programme>
+  <programme start="20211005125500 +0900" stop="20211005130000 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「たのしいね」うた：杉並児童合唱団／「ドナドナ」うた：岸洋子／「それ行け　３組」うた：西六郷少年少女合唱団／「はじめての僕デス」うた：宮本浩次</desc>
+  </programme>
+  <programme start="20211005130000 +0900" stop="20211005130500 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース</title>
+    <desc lang="en">【キャスター】小野寺善子</desc>
+  </programme>
   <programme start="20211004115500 +0900" stop="20211004135500 +0900" channel="NipponTV.jp">
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">「業務スーパー」で出口調査！簡単に作れる舞茸クリスピーピザとは！？冷蔵庫の中身全部出してみるんデス！▽日テレ系情報番組の映像大賞未公開部分も！</desc>
@@ -826,6 +834,10 @@ by.Penguin Cafe Orchestra</desc>
 <programme start="20211005102500 +0900" stop="20211005130000 +0900" channel="Asahi.jp">
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
+</programme>
+<programme start="20211005130000 +0900" stop="20211005133000 +0900" channel="Asahi.jp">
+  <title lang="en">徹子の部屋</title>
+  <desc lang="en">〜アナウンサーから弁護士へ…大ケガが転機に〜菊間千乃さんが今日のゲストです。</desc>
 </programme>
 <programme start="20211004102500 +0900" stop="20211004135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
@@ -1159,14 +1171,6 @@ by.Penguin Cafe Orchestra</desc>
   <title lang="en">バイキングMORE</title>
   <desc lang="en">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
 </programme>
-<programme start="20211004115500 +0900" stop="20211004120000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211004120000 +0900" stop="20211004123000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20211004123000 +0900" stop="20211004130000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
@@ -1363,6 +1367,14 @@ by.Penguin Cafe Orchestra</desc>
 <programme start="20211005120000 +0900" stop="20211005123000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211005123000 +0900" stop="20211005130000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211005130000 +0900" stop="20211005135500 +0900" channel="Tokyo MX">
+  <title lang="en">太陽の末裔</title>
+  <desc lang="en">第１３話「愛してる、永遠に」〔字幕スーパー〕</desc>
 </programme>
 <programme start="20211004000000 +0900" stop="20211004003000 +0900" channel="FujiNext.jp">
 <title lang="en">SELECTRAVEL　#26「関東 神奈川編」</title>
@@ -1890,7 +1902,7 @@ https://otn.fujitv.co.jp
 <desc>第11話「誰のための人生」
 ＜出演＞浅野温子　織田裕二　佐藤浩市　富田靖子　七瀬なつみ　ともさかりえ　田中健　ほか
 （地上波放送日　1993年9月9日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211004/6699585/image/751d82c3e3718f322e4a26645e0378f8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211004130000 +0900" stop="20211004135000 +0900" channel="FujiTwo.jp">
