@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211004124500 +0900" stop="20211004130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 おかえりモネ</title>
-    <desc lang="en">１１月、水産関係の交流会で発表する未知（蒔田彩珠）の姿を、百音（清原果耶）は誇らしく見ていた。ある日、仕事中の百音の前に、一人の中学生（伊東蒼）が現れる。</desc>
-  </programme>
   <programme start="20211004130000 +0900" stop="20211004140000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en">▽中継・首相指名選挙　第１００代首相に岸田氏選出へ…瞬間を生中継</desc>
@@ -310,13 +306,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211004125500 +0900" stop="20211004130000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ちいさい秋みつけた」うた：ボニージャックス／「バナナ村に雨がふる」うた：ＥＰＯ／「大きな月」うた：森若香織／「キャベツＵＦＯ」うた：工藤順子</desc>
+  <programme start="20211005130500 +0900" stop="20211005135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">列島ニュース</title>
+    <desc lang="en">ＮＨＫ各放送局のお昼のニュースを集めて、キーステーションの大阪拠点放送局からお届け。地域の最新ニュース、新型コロナ関連の情報などをダイジェストでお伝えします。</desc>
   </programme>
-  <programme start="20211004130000 +0900" stop="20211004130500 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】工藤咲子</desc>
+  <programme start="20211005135500 +0900" stop="20211005140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">多胡肇、加藤由美子、舘野伶奈、今井菜津美、石川裕平</desc>
+  </programme>
+  <programme start="20211005140000 +0900" stop="20211005140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211004130500 +0900" stop="20211004160000 +0900" channel="eTele.jp">
     <title lang="en">日本女子オープンゴルフ選手権2021</title>
@@ -626,9 +626,21 @@
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】小野寺善子</desc>
   </programme>
-  <programme start="20211004115500 +0900" stop="20211004135500 +0900" channel="NipponTV.jp">
-    <title lang="en">ヒルナンデス!</title>
-    <desc lang="en">「業務スーパー」で出口調査！簡単に作れる舞茸クリスピーピザとは！？冷蔵庫の中身全部出してみるんデス！▽日テレ系情報番組の映像大賞未公開部分も！</desc>
+  <programme start="20211005130500 +0900" stop="20211005133500 +0900" channel="eTele.jp">
+    <title lang="en">ハートネットTV</title>
+    <desc lang="en">犯罪を犯した加害者の“家族”は、社会からのバッシングで生活に支障を来し、自殺を考える人も少なくない。家族の声にどう向き合うべきか、森三中・大島美幸さんと考える。</desc>
+  </programme>
+  <programme start="20211005133500 +0900" stop="20211005135000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">関節リウマチは関節に炎症がおきる病気。最近は炎症や、炎症の原因となる免疫の異常を起こりにくくする薬が次々に登場。発症前とほとんど変わらない生活を送っている人も。</desc>
+  </programme>
+  <programme start="20211005135000 +0900" stop="20211005140000 +0900" channel="eTele.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「不登校の子どもを学びにつなぐ」今村久美（ＮＰＯ法人カタリバ代表理事）</desc>
+  </programme>
+  <programme start="20211005140000 +0900" stop="20211005141000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 あらためまして ベーシック国語</title>
+    <desc lang="en">国語の基本をあらためて学ぶ講座バラエティー。滝沢カレンと金田一秀穂先生、謎のオウムが授業を行う。テーマは文語文法。カレンさんのＳＮＳ投稿文章にも古文の助動詞が？</desc>
   </programme>
   <programme start="20211004135500 +0900" stop="20211004155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
@@ -710,27 +722,10 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">▼ローカル線ぶらり旅！銚子電鉄・完結編★良純・チョコプラ・有岡が“SNS映え”観光スポット＆ご当地グルメ探し！▼松丸くんのナゾ解きバトル</desc>
   </programme>
-<programme start="20211004102500 +0900" stop="20211004130000 +0900" channel="Asahi.jp">
-  <title lang="en">大下容子ワイド!スクランブル</title>
-  <desc lang="en">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
-</programme>
-<programme start="20211004130000 +0900" stop="20211004133000 +0900" channel="Asahi.jp">
-  <title lang="en">徹子の部屋</title>
-  <desc lang="en">〜壮絶な生い立ち…“家族”に憧れた幼少期を明かす〜勝野洋さん＆キャシー中島さん夫妻が今日のゲストです。</desc>
-</programme>
-<programme start="20211004133000 +0900" stop="20211004134500 +0900" channel="Asahi.jp">
-  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
-  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
-今日の料理はおいなりさん風の味を手早く美味しく</desc>
-</programme>
-<programme start="20211004134500 +0900" stop="20211004134900 +0900" channel="Asahi.jp">
-  <title lang="en">東京サイト</title>
-  <desc lang="en">４月に開校した都立赤羽北桜高校は、保育・栄養科、調理科、介護福祉科を設置する専門高校。実習室など充実した設備で、専門分野のスペシャリスト育成を目指しています。</desc>
-</programme>
-<programme start="20211004134900 +0900" stop="20211004135400 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20211005135500 +0900" stop="20211005155000 +0900" channel="NipponTV.jp">
+    <title lang="en">情報ライブ ミヤネ屋</title>
+    <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+  </programme>
 <programme start="20211004135400 +0900" stop="20211004145100 +0900" channel="Asahi.jp">
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">「貧乏患者ｖｓ５０００億の命⁉ドミノも失敗しないので」米倉涼子(他)▽大企業のＣＥＯが東帝大学病院に入院した。高額出資が期待できるとあって、丹下は丁重に迎えるが…</desc>
@@ -839,9 +834,22 @@ by.Penguin Cafe Orchestra</desc>
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜アナウンサーから弁護士へ…大ケガが転機に〜菊間千乃さんが今日のゲストです。</desc>
 </programme>
-<programme start="20211004102500 +0900" stop="20211004135500 +0900" channel="TBS2.jp">
-  <title lang="en">ひるおび!</title>
-  <desc lang="en">▽第１００代首相誕生へきょう岸田新内閣発足　岸田人事の舞台裏解説▽結婚延期から３年半…眞子さま２６日結婚へ　秋篠宮さま娘への思い▽大谷メジャー最終戦　移籍も？</desc>
+<programme start="20211005133000 +0900" stop="20211005134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理は、洋風に見えて実は中華の絶品ご飯！</desc>
+</programme>
+<programme start="20211005134500 +0900" stop="20211005134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">浜松町駅から徒歩５分の場所にある都立芝商業高校。多くの企業が集まる都心の立地を活かし、ビジネス科に特化した授業で、経済の担い手となる人材の育成を目指しています。</desc>
+</programme>
+<programme start="20211005134900 +0900" stop="20211005135400 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20211005135400 +0900" stop="20211005145100 +0900" channel="Asahi.jp">
+  <title lang="en">科捜研の女20</title>
+  <desc lang="en">「マリコｖｓ睡眠を操る殺人犯⁉アリバイ偽装を暴くたいやきの謎」沢口靖子(他)▽結婚間近の女性タレントが殺害された。被害者に付着していた一粒の小豆が気になるマリコは…</desc>
 </programme>
 <programme start="20211004135500 +0900" stop="20211004154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -916,9 +924,9 @@ by.Penguin Cafe Orchestra</desc>
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
-<programme start="20211004114000 +0900" stop="20211004134000 +0900" channel="TVTokyo.jp">
-  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
-  <desc lang="en">あなたのご飯見せて下さい▽東京都日野市…手製ドレッシングのさけムニエル＆タジン鍋で豚野菜蒸し▽八王子市…祖母の思い出パンカツ▽千葉県松戸市…ピリ辛チーズチリもち</desc>
+<programme start="20211005135500 +0900" stop="20211005154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
 <programme start="20211004134000 +0900" stop="20211004154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -1079,6 +1087,10 @@ by.Penguin Cafe Orchestra</desc>
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽千葉県旭市…マッシュルームおこわ＆中華風サラダ▽神奈川県真鶴町…ごまサバ竜田揚げ＆伊勢えびサザエ▽元旅館女将の母の思い出いなり寿司</desc>
 </programme>
+<programme start="20211005134000 +0900" stop="20211005154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">俺を逃がした奴に１億ドル払う！麻薬王の逃亡宣言を受け、修羅場と化すロサンゼルス。緊迫の麻薬王護送ミッションは６人のプロフェッショナルに託された！</desc>
+</programme>
 <programme start="20211004115500 +0900" stop="20211004144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">速報中継…きょう岸田首相誕生へ！新閣僚の顔ぶれ検証！“岸田カラー”に苦心？人事ウラ側▽白鵬…涙こらえ「理想の相撲取れず」親方襲名に異例の“誓約書”署名</desc>
@@ -1170,14 +1182,6 @@ by.Penguin Cafe Orchestra</desc>
 <programme start="20211005115500 +0900" stop="20211005144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
-</programme>
-<programme start="20211004123000 +0900" stop="20211004130000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211004130000 +0900" stop="20211004135500 +0900" channel="Tokyo MX">
-  <title lang="en">キム秘書はいったい、なぜ?</title>
-  <desc lang="en">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
 </programme>
 <programme start="20211004135500 +0900" stop="20211004140000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -1375,6 +1379,14 @@ by.Penguin Cafe Orchestra</desc>
 <programme start="20211005130000 +0900" stop="20211005135500 +0900" channel="Tokyo MX">
   <title lang="en">太陽の末裔</title>
   <desc lang="en">第１３話「愛してる、永遠に」〔字幕スーパー〕</desc>
+</programme>
+<programme start="20211005135500 +0900" stop="20211005140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20211005140000 +0900" stop="20211005143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211004000000 +0900" stop="20211004003000 +0900" channel="FujiNext.jp">
 <title lang="en">SELECTRAVEL　#26「関東 神奈川編」</title>
@@ -1917,7 +1929,7 @@ https://otn.fujitv.co.jp
 <title lang="en">番組PR【10月】</title>
 <desc>＜番組に関する情報は・・・＞
 https://otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211004/6699587/image/3e15ec3ef18d94dc2ed76f75c739a7f3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211004140000 +0900" stop="20211004151000 +0900" channel="FujiTwo.jp">
