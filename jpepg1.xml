@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211009055000 +0900" stop="20211009060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211009060000 +0900" stop="20211009063000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">▼地震で多くの帰宅困難者　そのとき何が？対策は？▼東京パラ閉会式で演奏した“７本指のピアニスト”　障害乗り越え夢の舞台へ</desc>
-  </programme>
   <programme start="20211009063000 +0900" stop="20211009070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼長崎の「町ねこ調査隊」が奮闘！ネコと人間の幸福な関係とは？▼インドネシア・ユニークなデザインが続々登場！伝統的な布の模様を新技術でアレンジ</desc>
@@ -298,21 +290,29 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211009055500 +0900" stop="20211009062500 +0900" channel="eTele.jp">
-    <title lang="en">猫のしっぽ カエルの手</title>
-    <desc lang="en">京都・大原で季節の移ろいを楽しみながら手作り暮らしをするベニシア・スタンリー・スミスさん。２０１６年秋、青春時代の思い出の地、京都府丹波・丹後地方を旅する。</desc>
+  <programme start="20211010061000 +0900" stop="20211010064000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">目撃!にっぽん</title>
+    <desc lang="en">＜好評につきアンコール放送＞コロナ禍で開かれた東京五輪。大きな期待を寄せていたのが、東京で宿を営む人たちだ。「夢」が「幻」となる中、オリンピックに見たものとは</desc>
   </programme>
-  <programme start="20211009062500 +0900" stop="20211009063500 +0900" channel="eTele.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、幅しげみ、舘野伶奈、矢作あかり、戸塚寛子、石川裕平、杉井勇介</desc>
+  <programme start="20211010064000 +0900" stop="20211010065000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">10分で巡る にっぽんの廃線</title>
+    <desc lang="en">「１０分で巡る　にっぽんの廃線」近畿。加悦鉄道、野上電気鉄道、別府鉄道、江若　鉄道、京福電鉄永平寺線、南海電鉄天王寺支線、篠山線など、１３路線を紹介します。</desc>
   </programme>
-  <programme start="20211009063500 +0900" stop="20211009064500 +0900" channel="eTele.jp">
-    <title lang="en">リトル・チャロ</title>
-    <desc lang="en">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。恩人のトモコの映画に出演するため、再びニューヨークに戻った子犬のチャロの活躍を描く。声：斎藤アリーナ</desc>
+  <programme start="20211010065000 +0900" stop="20211010065300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK関東甲信越地方放送番組審議会</title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211009064500 +0900" stop="20211009065500 +0900" channel="eTele.jp">
-    <title lang="en">えいごであそぼ with Orton</title>
-    <desc lang="en">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+  <programme start="20211010065300 +0900" stop="20211010065500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211010065500 +0900" stop="20211010070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211010070000 +0900" stop="20211010074000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、日曜の名物・南さんの気象解説！</desc>
   </programme>
   <programme start="20211009065500 +0900" stop="20211009070000 +0900" channel="eTele.jp">
     <title lang="en">あそビーバー</title>
@@ -522,6 +522,18 @@
     <title lang="en">NHK短歌</title>
     <desc lang="en">選者：佐佐木頼綱、ゲスト：小池祐貴（陸上競技選手）。題「挑む」。今夏の東京オリンピックに出場したゲストの重圧と緊張の瞬間とは。競技への心構えなどを短歌に詠む。</desc>
   </programme>
+  <programme start="20211010062500 +0900" stop="20211010063500 +0900" channel="eTele.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">多胡肇、細貝柊、原川愛、吉江晴菜、今井菜津美、新井庸太、石川裕平</desc>
+  </programme>
+  <programme start="20211010063500 +0900" stop="20211010070000 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">ＮＨＫ俳句第二週は今回から選者が変わる。新しい選者は阪西敦子さん。ゲストはソムリエの若林英司さん。題は「新酒」若林さんに新酒の味わい方を教えてもらう。岸本葉子</desc>
+  </programme>
+  <programme start="20211010070000 +0900" stop="20211010070900 +0900" channel="eTele.jp">
+    <title lang="en">わらたまドッカ〜ン</title>
+    <desc lang="en">トレンディエンジェルとライスという、漫才とコントのチャンピオンどうしの対戦！今回も９人の子どもがＶＴＲでネタを見て判定する。ドッカ〜ンと笑わせるのはどっち！？</desc>
+  </programme>
   <programme start="20211009053000 +0900" stop="20211009080000 +0900" channel="NipponTV.jp">
     <title lang="en">ズームイン!!サタデー</title>
     <desc lang="en">▽震度５強…交通大混乱▽VTuber富士葵生出演▽岡田准一＆山田涼介＆松下洸平▽GENERATIONS白濱亜嵐＆中務裕太▽大谷翔平MVP確率は▽G松原スイーツ愛</desc>
@@ -653,10 +665,18 @@
     <title lang="en">日テレアップDate!</title>
     <desc lang="en">日本テレビの「今」を様々に発信します。</desc>
   </programme>
-<programme start="20211009055000 +0900" stop="20211009060000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20211010061500 +0900" stop="20211010063000 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNニュース・サンデー</title>
+    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  </programme>
+  <programme start="20211010063000 +0900" stop="20211010070000 +0900" channel="NipponTV.jp">
+    <title lang="en">遠くへ行きたい</title>
+    <desc lang="en">今回は俳優の西田尚美が長野でリフレッシュ▽「うらみの滝」で豪快水しぶき▽長寿県・長野の名物グルメ▽大自然の中で最高ジンギスカン▽炭焼き職人が作る「玄米コーヒー」</desc>
+  </programme>
+  <programme start="20211010070000 +0900" stop="20211010073000 +0900" channel="NipponTV.jp">
+    <title lang="en">所さんの目がテン!</title>
+    <desc lang="en">里に野鳥研究にも役立つ水飲み場を作ろう！▽野鳥が使いやすい水飲み場作りの工夫とは▽水飲み場を最初に訪れたのはまさかのあの鳥▽専門家も驚く貴重な映像の撮影に成功！</desc>
+  </programme>
 <programme start="20211009060000 +0900" stop="20211009080000 +0900" channel="Asahi.jp">
   <title lang="en">週刊ニュースリーダー</title>
   <desc lang="en">「今週のニュース気になる人物１０」①東京＆埼玉で震度５強でインフラ混乱…今後の地震について専門家が分析　②最終戦でホームラン！有終の美を飾った“二刀流”大谷翔平</desc>
@@ -927,16 +947,13 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">バナナマンの早起きせっかくグルメ</title>
   <desc lang="en">おうちグルメが楽しくなる新コーナー「せっかく焼肉のタレ」！おうち焼肉がレベルアップ！ご当地限定の焼肉タレをスタッフが3品厳選！絶品焼肉のタレをバナナマン大満喫！</desc>
 </programme>
-<programme start="20211009040800 +0900" stop="20211009060000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ サタデー</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20211010064500 +0900" stop="20211010070000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20211009060000 +0900" stop="20211009065400 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
+<programme start="20211010070000 +0900" stop="20211010073000 +0900" channel="TBS2.jp">
+  <title lang="en">健康カプセル!ゲンキの時間</title>
+  <desc lang="en">腰痛を引き起こす小さな負担が借金のように蓄積されることを「腰痛借金」と呼びます。今回は腰痛借金がどんな行動で溜まるのかを調査！腰痛の改善法も専門医から学びます。</desc>
 </programme>
 <programme start="20211009065400 +0900" stop="20211009070000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1120,9 +1137,13 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en"></title>
   <desc lang="en">日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。</desc>
 </programme>
-<programme start="20211009053000 +0900" stop="20211009060000 +0900" channel="FujiTV.jp">
-  <title lang="en">週刊フジテレビ批評</title>
-  <desc lang="en">眞子さま小室圭さん結婚へ！日米メディアが注目…皇室報道のあり方とは？①会見の報道体制・伝え方は？②情報発信担う宮内庁の役割を検証③スクープはなぜうまれる？</desc>
+<programme start="20211010065400 +0900" stop="20211010070000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
+</programme>
+<programme start="20211010070000 +0900" stop="20211010073000 +0900" channel="TVTokyo.jp">
+  <title lang="en">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+  <desc lang="en">戦いで疲弊したナルトたちの前で突然ボルトがサスケを攻撃する。モモシキに乗っ取られたボルトの意識を取り戻そうと必死で呼びかけるカワキ。しかしその声は届かない。</desc>
 </programme>
 <programme start="20211009060000 +0900" stop="20211009083000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましどようび</title>
@@ -1257,13 +1278,18 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">FNNニュース</title>
   <desc lang="en">日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。</desc>
 </programme>
-<programme start="20211009053000 +0900" stop="20211009060000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211010061500 +0900" stop="20211010063000 +0900" channel="FujiTV.jp">
+  <title lang="en">GO!GO!チャギントン</title>
+  <desc lang="en">世界で大人気の鉄道ＣＧアニメ「チャギントン」！ナビゲーター：つるの剛士・佐久間みなみアナ　他▽声：小林由美子　他▽＃４７７「ピートじいさんの知恵」</desc>
 </programme>
-<programme start="20211009060000 +0900" stop="20211009063000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211010063000 +0900" stop="20211010070000 +0900" channel="FujiTV.jp">
+  <title lang="en">はやく起きた朝は…</title>
+  <desc lang="en">今回のお耳拝借は秋の味覚「栗」がテーマ！絶品の焼き栗や栗菓子を紹介▽タッチパネルで失敗▽ハナの不思議な毛▽若者に感謝！
+〈出演〉松居直美・磯野貴理子・森尾由美</desc>
+</programme>
+<programme start="20211010070000 +0900" stop="20211010073000 +0900" channel="FujiTV.jp">
+  <title lang="en">ボクらの時代</title>
+  <desc lang="en">くっきー！×斉藤和義×小峠英二</desc>
 </programme>
 <programme start="20211009063000 +0900" stop="20211009070000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1444,6 +1470,14 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
 <programme start="20211010060000 +0900" stop="20211010063000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211010063000 +0900" stop="20211010070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211010070000 +0900" stop="20211010073000 +0900" channel="Tokyo MX">
+  <title lang="en">TAKARAZUKA CAFEBREAK</title>
+  <desc lang="en">今週は特別編‼雪組公演「ＣＩＴＹ　ＨＵＮＴＥＲ」「Ｆｉｒｅ　Ｆｅｖｅｒ！」の魅力を中井美穂が語る‼</desc>
 </programme>
 <programme start="20211008233000 +0900" stop="20211009003000 +0900" channel="FujiNext.jp">
 <title lang="en">2020年5月21日、リモートフォーク村へきくちから！しおこうじはみ出し配信映像</title>
@@ -1699,7 +1733,7 @@ https://otn.fujitv.co.jp
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211009/6707322/image/ff7a291e9b5306935abc105e8dbe6ae1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211009070000 +0900" stop="20211009073000 +0900" channel="FujiOne.jp">
@@ -1927,7 +1961,7 @@ https://otn.fujitv.co.jp
 <desc>八王子「パペルブルグ」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211009/6699728/image/259e1667858024fcae1f482b5fdc5b4c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211009070000 +0900" stop="20211009081500 +0900" channel="FujiTwo.jp">
@@ -2101,7 +2135,7 @@ https://otn.fujitv.co.jp
 <programme start="20211009060000 +0900" stop="20211009070000 +0900" channel="kbsworld.jp">
 <title lang="en">歌謡舞台　[字]</title>
 <desc>１９８５年から２０年以上続いてきた長寿番組。郷愁が漂う想い出深い伝統歌謡、ブラウン管を離れた歌手の全盛期を再現、昔ながらの姿が見られる唯一の音楽番組。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211009/6682521/image/776f8a66ed7d55a0499fe2634baa15c9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211009070000 +0900" stop="20211009073000 +0900" channel="kbsworld.jp">
