@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211009234500 +0900" stop="20211010004700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">シブヤノオト</title>
-    <desc lang="en">生放送！ウマ娘、ＪＯ１、ＧＥＮＥＲＡＴＩＯＮＳ、Ｓｅｘｙ　Ｚｏｎｅ、ｍｉｌｅｔ、ＭＡＩＳＯＮｄｅｓ、ｙａｍａ、Ｌｉｅｌｌａ！、緑黄色社会、バンド企画もあるよ</desc>
-  </programme>
   <programme start="20211010004700 +0900" stop="20211010014700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">海底の花園 サンゴの美〜沖縄 慶良間諸島〜</title>
     <desc lang="en">〜沖縄県・慶良間諸島〜</desc>
@@ -338,13 +334,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211009230000 +0900" stop="20211010000000 +0900" channel="eTele.jp">
-    <title lang="en">ETV特集</title>
-    <desc lang="en">（没後２５年）作家・遠藤周作の未発表小説が発見された。なぜ、原稿は封印されたのか。実父への憎しみとゆるし、歩むべき人生の道…時を超えた遠藤のメッセージに迫る。</desc>
+  <programme start="20211011000500 +0900" stop="20211011003000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">キングダム 第3シリーズ</title>
+    <desc lang="en">天下の大将軍を志す元・下僕の信と若き秦王・エイ政。運命的に出会い共に「中華統一」を成し遂げることを誓うが、この夢を阻むように突如秦国を国家存亡の危機が襲う。</desc>
   </programme>
-  <programme start="20211010000000 +0900" stop="20211010003000 +0900" channel="eTele.jp">
-    <title lang="en">バリバラ〜障害者情報バラエティー〜</title>
-    <desc lang="en">長年暮らした病院を出て一人暮らしを始める４３歳筋ジストロフィー患者に密着。リモート介助訓練に悪戦苦闘。念願の自由をてにすることはできるのか？障害者自立生活の今</desc>
+  <programme start="20211011003000 +0900" stop="20211011003500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ピタゴラスイッチ ミニ</title>
+    <desc lang="en">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
+  </programme>
+  <programme start="20211011003500 +0900" stop="20211011043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211010003000 +0900" stop="20211010011500 +0900" channel="eTele.jp">
     <title lang="en">浦沢直樹の漫勉</title>
@@ -510,9 +510,9 @@
     <title lang="en">地球ドラマチック</title>
     <desc lang="en">太陽の周りを１年かけて一周する地球。９月から１０月にかけて、アフリカでは厳しい乾季が続き、南半球は春、北半球は秋を迎える。大自然と生きものたちの変化を見つめる。</desc>
   </programme>
-  <programme start="20211009235500 +0900" stop="20211010005500 +0900" channel="NipponTV.jp">
-    <title lang="en">Going! SportsNews</title>
-    <desc lang="en">競泳・池江璃花子特集！東京五輪後の進化分析！最新レースで記録は？▼Ｗ杯出場へ大ピンチ！サッカー日本代表を緊急検証▼卓球五輪３大会連続メダル石川佳純が五輪後初出場</desc>
+  <programme start="20211011004500 +0900" stop="20211011053000 +0900" channel="eTele.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211010005500 +0900" stop="20211010012500 +0900" channel="NipponTV.jp">
     <title lang="en">ルパン三世PART6</title>
@@ -653,18 +653,10 @@
     <title lang="en">Going! SportsNews</title>
     <desc lang="en">▼NBA開幕まであと10日！渡邊雄太開幕メンバー入りは？ラプターズ番記者を緊急取材！▼プロ野球全試合！優勝争いの行方▼ドラフト赤星の注目選手</desc>
   </programme>
-<programme start="20211009233000 +0900" stop="20211010000000 +0900" channel="Asahi.jp">
-  <title lang="en">消えた初恋</title>
-  <desc lang="en">道枝駿佑、目黒蓮のＷ主演で大人気漫画を初ドラマ化！勘違いから始まる高校生の恋と友情の物語‼ピュアで一生懸命、だけどちょっぴりトンチンカン⁉初恋ラブコメが始まる！</desc>
-</programme>
-<programme start="20211010000000 +0900" stop="20211010000500 +0900" channel="Asahi.jp">
-  <title lang="en">世界体操・世界新体操ササエル5</title>
-  <desc lang="en">北九州で史上初の同時開催となる『世界体操』と『世界新体操』。世界のトップ選手が集結する大会を裏側から支える“エキスパートたち”をご紹介！</desc>
-</programme>
-<programme start="20211010000500 +0900" stop="20211010003500 +0900" channel="Asahi.jp">
-  <title lang="en">ウラ撮れちゃいました</title>
-  <desc lang="en">10月14日(木)レギュラー放送スタート！ヒロミ＆米倉涼子をゲストに迎え「埼玉巨大ホームセンターのウラ側」を紹介！その前に初回３時間SPでの「富士山のウラ側」を復習！</desc>
-</programme>
+  <programme start="20211011005500 +0900" stop="20211011012500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNドキュメント</title>
+    <desc lang="en">沖縄で戦死するまで戦地から絵手紙を送り続けた伊藤半次さん。家族に宛てた４００通を頼りに孫の博文さんは祖父の足跡をたどります。絵手紙が伝える戦争と平和の尊さとは。</desc>
+  </programme>
 <programme start="20211010003500 +0900" stop="20211010010000 +0900" channel="Asahi.jp">
   <title lang="en">超人女子戦士 ガリベンガーV</title>
   <desc lang="en">地球にはびこる超難解な現象を、解き続ける女子たちを養成する組織…それが「ガリベンガーＶ」
@@ -822,24 +814,14 @@
   <title lang="en">声優パーク建設計画 VR部</title>
   <desc lang="en">おいでやすこがの歌ネタに人気声優が生アフレコ！森田成一・大橋彩香・新井里美は何世代？大好評「声優世代表」作り＆大塚明夫・久野美咲…本当にスゴい声優さんも発表！</desc>
 </programme>
-<programme start="20211009234800 +0900" stop="20211010000000 +0900" channel="TBS2.jp">
-  <title lang="en">和心百景</title>
-  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
-今回は、栃木『益子焼』　笛木優子</desc>
+<programme start="20211011002500 +0900" stop="20211011005500 +0900" channel="Asahi.jp">
+  <title lang="en">ReAL eSports News</title>
+  <desc lang="en">山里亮太のｅスポーツ情報番組『ＲｅＡＬｅ』（りあるいー）！▽山里リベンジなるか⁉さらば森田とゲームしようぜ‼▽ダイアン津田＆野田クリスタルもｅスポーツで大活躍‼</desc>
 </programme>
-<programme start="20211010000000 +0900" stop="20211010003000 +0900" channel="TBS2.jp">
-  <title lang="en">7つの海を楽しもう!世界さまぁ〜リゾート</title>
-  <desc lang="en">世界ビーチウォーカーin　南仏
-隠れリゾート地　マントンの穴場ビーチ、崖の上に建つ５つ星ホテル、アクティビティなどご紹介！</desc>
-</programme>
-<programme start="20211010003000 +0900" stop="20211010005800 +0900" channel="TBS2.jp">
-  <title lang="en">S☆1</title>
-  <desc lang="en">▽ＭＬＢ大谷　
-▽水泳日本学生選手権池江バタフライ
-▽バスケＢリーグパリ世代の司令塔テーブス海
-▽卓球Ｔリーグ水谷・石川・張本
-▽プロ野球
-▽つく☆１</desc>
+<programme start="20211011005500 +0900" stop="20211011012500 +0900" channel="Asahi.jp">
+  <title lang="en">熱闘!Mリーグ</title>
+  <desc lang="en">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
+雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
 </programme>
 <programme start="20211010005800 +0900" stop="20211010025800 +0900" channel="TBS2.jp">
   <title lang="en">オールスター後夜祭</title>
@@ -969,13 +951,15 @@
   <title lang="en">BACKSTAGE</title>
   <desc lang="en">東京ディズニーリゾート🄬の世界観を作る「テーマショープランニング」という仕事をする方に、知ればもっと東京ディズニーリゾート🄬が楽しくなる秘密を教えてもらいます！</desc>
 </programme>
-<programme start="20211009235500 +0900" stop="20211010002000 +0900" channel="TVTokyo.jp">
-  <title lang="en">そろそろ にちようチャップリン</title>
-  <desc lang="en">２週ぶち抜き！歌×笑いの祭典「秋の音芸祭2021」開催！総勢11組が渾身の歌ネタ披露▼後半戦はウエストランド・ZAZY・やさしいズ・ネコニスズ・吉松ゴリラ登場！</desc>
-</programme>
-<programme start="20211010002000 +0900" stop="20211010005000 +0900" channel="TVTokyo.jp">
-  <title lang="en">FOOT×BRAIN</title>
-  <desc lang="en">現在サッカー専用スタジアムが日本の各地で続々と誕生している。その中で注目を集めるのが長崎。民間主導だからこそできる未来のサッカースタジアムの可能性を考える。</desc>
+<programme start="20211011002500 +0900" stop="20211011015300 +0900" channel="TBS2.jp">
+  <title lang="en">S☆1</title>
+  <desc lang="en">▽ＭＬＢ大谷のBest of ホームラン!!
+▽水泳日本学生選手権
+▽Ｂリーグ
+▽ＮＢＡ
+▽サッカー
+※以下一部地域を除く
+▽プロ野球ドラフト企画中居正広</desc>
 </programme>
 <programme start="20211010005000 +0900" stop="20211010012000 +0900" channel="TVTokyo.jp">
   <title lang="en">二軒目どうする?〜ツマミのハナシ〜</title>
@@ -1128,9 +1112,14 @@
   <title lang="en">乃木坂工事中</title>
   <desc lang="en">今週の乃木坂工事中は「期別対抗料理クイーン決定戦」完結編！</desc>
 </programme>
-<programme start="20211009234000 +0900" stop="20211010003500 +0900" channel="FujiTV.jp">
-  <title lang="en">顔だけ先生</title>
-  <desc lang="en">顔は満点・中身は赤点の教師を演じるのは、神尾楓珠！推しに似てると採用した亀高（貫地谷しほり）は、逆にてんてこ舞いに…ＮＥＸＴブレイク大集合で展開は予測不可能に‼</desc>
+<programme start="20211011003000 +0900" stop="20211011003500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
+</programme>
+<programme start="20211011003500 +0900" stop="20211011010500 +0900" channel="TVTokyo.jp">
+  <title lang="en">そこ曲がったら、櫻坂?</title>
+  <desc lang="en">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
+見逃せないパフォーマンスが続々と登場します。</desc>
 </programme>
 <programme start="20211010003500 +0900" stop="20211010011500 +0900" channel="FujiTV.jp">
   <title lang="en">S-PARK</title>
@@ -1295,13 +1284,9 @@
   <title lang="en">S-PARK</title>
   <desc lang="en">スポーツ・パーク「Ｓ－ＰＡＲＫ」▼独占インタビュー！伝説の本塁打王ボンズが大谷翔平を語る▼セＶ争い直接対決！ヤクルト×阪神▼競泳池江璃花子リレーに登場</desc>
 </programme>
-<programme start="20211009233000 +0900" stop="20211010000000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211010000000 +0900" stop="20211010003000 +0900" channel="Tokyo MX">
-  <title lang="en">86-エイティシックス-</title>
-  <desc lang="en"> </desc>
+<programme start="20211011010000 +0900" stop="20211011015500 +0900" channel="FujiTV.jp">
+  <title lang="en">Love music</title>
+  <desc lang="en">武道館公演直前！話題のラッパー、ちゃんみなの多様な音楽ルーツに迫る＆ＭＩＹＡＶＩらが語る魅力とは？話題曲を熱演▽注目の若手ｉｒｉ、ｉｌｌｉｏｍｏｔｅ</desc>
 </programme>
 <programme start="20211010003000 +0900" stop="20211010010000 +0900" channel="Tokyo MX">
   <title lang="en">ビルディバイド -#000000-（コードブラック）</title>
@@ -1491,6 +1476,14 @@
   <title lang="en">無職転生 〜異世界行ったら本気だす〜</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211011003000 +0900" stop="20211011010000 +0900" channel="Tokyo MX">
+  <title lang="en">見える子ちゃん</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211011010000 +0900" stop="20211011010500 +0900" channel="Tokyo MX">
+  <title lang="en">しょうたいむ!〜歌のお姉さんだってしたい</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211009205000 +0900" stop="20211010010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第16戦トルコGP 予選</title>
 <desc>＜開催＞2021年10月9日（土）【生中継】
@@ -1498,7 +1491,7 @@
 ＜実況＞堀池亮介
 ※第2音声：会場音
 ※変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211009/6839566/image/24da4203f4d0ae6897204905d42a4938.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211010010000 +0900" stop="20211010030000 +0900" channel="FujiNext.jp">
