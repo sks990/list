@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211009135000 +0900" stop="20211009145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">土曜スタジオパーク</title>
-    <desc lang="en">ゲストは、ショーマンを演じる満島真之介さん。実験や調査から、驚きの真実やお得な活用法を「トリセツ」としてプレゼン。制作裏話を伺います。共演者や知人の証言も！</desc>
-  </programme>
-  <programme start="20211009145000 +0900" stop="20211009145500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">名曲アルバム</title>
-    <desc lang="en">「ピアノ協奏曲　第１番」（ピアノ）小山実稚恵，（管弦楽）東京フィルハーモニー交響楽団，（指揮）梅田俊明　〜ポーランド・ワルシャワ〜</desc>
-  </programme>
   <programme start="20211009145500 +0900" stop="20211009150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">キャラとおたまじゃくし島</title>
     <desc lang="en">まっすぐで愛にあふれた少女戦士キャラが、不思議なガッキアニマルたちと出会い心を通わせる中で、音楽を奪われた島の謎を次々と解き明かす冒険ファンタジー第３９話。</desc>
@@ -318,9 +310,17 @@
     <title lang="en">あの日、偶然そこにいて</title>
     <desc lang="en">歴史的瞬間や時代を象徴する「あの日」の映像。そこに偶然立ち会い、映り込んだ人々は、その後どんな人生を歩んだのか。徹底捜索しその後をたどると…驚きと感動の物語。</desc>
   </programme>
-  <programme start="20211009130000 +0900" stop="20211009140000 +0900" channel="eTele.jp">
-    <title lang="en">こころの時代〜宗教・人生〜</title>
-    <desc lang="en">札幌市円山動物園の動物専門員・本田直也さんは、絶滅危惧種の繁殖のスペシャリストだ。人間の手で命のバトンを受け渡す。自らの仕事に葛藤しながら育まれた生命観を聞く。</desc>
+  <programme start="20211010142000 +0900" stop="20211010143000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ダーウィンが来た!10min.</title>
+    <desc lang="en">ぽっちゃりモフモフのマヌルネコ。地面にだらりと寝そべる天敵対策や、しっぽを振って獲物のネズミの動きを止める狩りなど超個性的なワザを目撃！まんまるネコの謎に迫る。</desc>
+  </programme>
+  <programme start="20211010143000 +0900" stop="20211010150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">香川照之の昆虫すごいぜ!</title>
+    <desc lang="en">記念すべき１時間目「トノサマバッタ」の回をアンコール放送！仮面ライダーのモチーフにもなったトノサマバッタのかっこよさにカマキリ先生も大興奮！新作も待っていてね</desc>
+  </programme>
+  <programme start="20211010150000 +0900" stop="20211010150500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211009140000 +0900" stop="20211009160000 +0900" channel="eTele.jp">
     <title lang="en">決定!こども囲碁名人 第42回全国少年少女囲碁大会</title>
@@ -498,9 +498,9 @@
     <title lang="en">日本の話芸</title>
     <desc lang="en">柳家さん喬さんの落語「鴻池の犬」をお送りします（令和３年６月２５日（金）収録）</desc>
   </programme>
-  <programme start="20211009133000 +0900" stop="20211009143000 +0900" channel="NipponTV.jp">
-    <title lang="en">世界一受けたい授業/1億3000万人のSHOWチャンネル</title>
-    <desc lang="en">今夜は授業×都道府県魅力度ランキングを生発表！各都道府県の魅力をご紹介▽SHOWチャン×鈴木亮平の人生チャート！▽五輪メダリストが大集結▽長州＆武藤の爆笑旅も</desc>
+  <programme start="20211010143000 +0900" stop="20211010163000 +0900" channel="eTele.jp">
+    <title lang="en">第49回ローザンヌ国際バレエコンクール</title>
+    <desc lang="en">若手バレエダンサーの登竜門「第４９回ローザンヌ国際バレエコンクール」異例のビデオ審査となった決選の模様を山本康介さんのワンポイント・レッスンを交えてお送りします</desc>
   </programme>
   <programme start="20211009143000 +0900" stop="20211009152500 +0900" channel="NipponTV.jp">
     <title lang="en">ブリヂストンオープン2021</title>
@@ -641,10 +641,15 @@
     <desc lang="en">元テレビ東京・佐久間宣行×「有吉の壁」橋本和明による新コント番組▽コント「念願の彼女」
 東京０３×白石麻衣▽若手芸人との音声コントは近日発表</desc>
   </programme>
-<programme start="20211009133000 +0900" stop="20211009143000 +0900" channel="Asahi.jp">
-  <title lang="en">新・科捜研の女4</title>
-  <desc lang="en">「盗聴された殺人現場！危険な声紋鑑定‼」沢口靖子(他)▽ある日、市内のホテルで宿泊客が変死したとの連絡が入る。死体をあらためたマリコは窒息死だと判断するが…</desc>
-</programme>
+  <programme start="20211010141500 +0900" stop="20211010150000 +0900" channel="NipponTV.jp">
+    <title lang="en">いよいよ明日スタート!日曜ドラマ「真犯人フラグ」見どころヒント大放出SP</title>
+    <desc lang="en">秋元康×あな番チームが贈る新たなノンストップ考察ミステリー「真犯人フラグ」！
+スタートを前に、豪華出演者が真犯人を大予想！物語の見どころ＆怪しい人物を徹底紹介！</desc>
+  </programme>
+  <programme start="20211010150000 +0900" stop="20211010162500 +0900" channel="NipponTV.jp">
+    <title lang="en">ブリヂストンオープン2021</title>
+    <desc lang="en">し烈な賞金王争いを左右する秋のビッグトーナメント。第４９代王座は誰の手に！？</desc>
+  </programme>
 <programme start="20211009143000 +0900" stop="20211009153000 +0900" channel="Asahi.jp">
   <title lang="en">ノブナカなんなん?</title>
   <desc lang="en">千鳥ノブ＆弘中アナの「ノブナカなんなん？」ゴールデンＳＰは10/20(水)よる７時から！▽過去の伝説回をお届け！九州でポツンとガングロ女に密着＆超話題の男・カルマ</desc>
@@ -807,10 +812,6 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">世紀の一瞬よ、とまれ〜内村航平vs橋本大輝 金メダル決戦〜</title>
   <desc lang="en">知念侑李が大注目の歴史的一戦！▽３５０日合宿生活の大改革！▽最後の舞を母へ捧ぐ！▽密着“フェアリーＢＯＹＳ”！</desc>
 </programme>
-<programme start="20211009115900 +0900" stop="20211009140000 +0900" channel="TBS2.jp">
-  <title lang="en">王様のブランチ</title>
-  <desc lang="en">超簡単！いま食べたいアレンジトースト５選▽及川光博＆高橋文哉が欲しい便利家電とは▽話題の３ＣＯＩＮＳ！この秋絶対欲しくなる新作雑貨コレクション</desc>
-</programme>
 <programme start="20211009140000 +0900" stop="20211009152400 +0900" channel="TBS2.jp">
   <title lang="en">絶滅料理よ いざ復活! ロストグルメ3</title>
   <desc lang="en">今はなき絶滅料理「ロストグルメ」が完全復活！世界的大スターが愛したグルメから江戸時代の衝撃レシピまで…びっくり仰天＆おもしろロストグルメが令和の世に爆誕する！</desc>
@@ -935,14 +936,6 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
 <programme start="20211010140000 +0900" stop="20211010152400 +0900" channel="TBS2.jp">
   <title lang="en">バナナマンのせっかくグルメ!</title>
   <desc lang="en">日村は八王子＆ギャル曽根は四日市＆メンディーは徳島で食べまくり★今日よる6時30分から２時間半ＳＰ！日村＆小栗旬＆中村アン＆木村昴が食欲の秋大爆発SP</desc>
-</programme>
-<programme start="20211009132800 +0900" stop="20211009142300 +0900" channel="TVTokyo.jp">
-  <title lang="en">「じゃない方の彼女」徹底解剖SP</title>
-  <desc lang="en">濱田岳×山下美月（乃木坂46）が不倫コメディに初挑戦！企画・原作　秋元康の話題作！１０／１１(月)スタート「じゃない方の彼女」の豪華出演者たちの裏側公開！。</desc>
-</programme>
-<programme start="20211009142300 +0900" stop="20211009143000 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
 </programme>
 <programme start="20211009143000 +0900" stop="20211009150000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1132,15 +1125,6 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">今野敏サスペンス ビート 警視庁強行犯 樋口顕</title>
   <desc lang="en">本格警察小説の名手・今野敏「樋口顕」シリーズ第２弾！樋口(内藤剛志)は、銀行員殺人事件で島崎(柄本明)と組むことに。しかし島崎の不審な動きに疑念を抱き始め…。</desc>
 </programme>
-<programme start="20211009133000 +0900" stop="20211009143000 +0900" channel="FujiTV.jp">
-  <title lang="en">ドラマツアーズ2021秋</title>
-  <desc lang="en">ドラツア秋の第二弾！豪華俳優陣が芸人たちと夢のコラボレーション！絶品グルメや、旬の芸人たちが続々登場します！最新のネタも注目です</desc>
-</programme>
-<programme start="20211009143000 +0900" stop="20211009143500 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
-</programme>
 <programme start="20211009143500 +0900" stop="20211009152500 +0900" channel="FujiTV.jp">
   <title lang="en">芸能人が本気で考えた!ドッキリGP</title>
   <desc lang="en">今日よる７時からはドッキリＧＰ！その放送に先駆けて過去の放送より、好評だった「秒でドッキリドレミのうた」と「童謡森のくまさんドッキリ」を放送！</desc>
@@ -1285,6 +1269,18 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
 <programme start="20211010120000 +0900" stop="20211010142500 +0900" channel="FujiTV.jp">
   <title lang="en">第33回出雲全日本大学選抜駅伝</title>
   <desc lang="en">２年ぶりに出雲路に学生ランナーが集う三大駅伝開幕戦！群雄割拠の第１冠を制するのは？日本代表・三浦龍司に注目！</desc>
+</programme>
+<programme start="20211010142500 +0900" stop="20211010145500 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜 ダイジェスト</title>
+  <desc lang="en">まだ追いつける！３０分で分かる「ラジエーションハウスⅡ」第１話！帰ってきた天才放射線技師！消えた仲間たちの行方…新たな病院長が襲来！視えない病を診つけ出せ！</desc>
+</programme>
+<programme start="20211010145500 +0900" stop="20211010150000 +0900" channel="FujiTV.jp">
+  <title lang="en">ビジネスStyle</title>
+  <desc lang="en">時代を切り拓く企業のトップへのインタビューを始め、商品やサービスなどを多面的に紹介。その理念や哲学からみえてくるビジネスＳｔｙｌｅとは？</desc>
+</programme>
+<programme start="20211010150000 +0900" stop="20211010160000 +0900" channel="FujiTV.jp">
+  <title lang="en">みんなのKEIBA</title>
+  <desc lang="en">秋の東京開幕「毎日王冠ＧⅡ」ダノンキングリーｖｓシュネルマイスター王道前哨戦でＧⅠ馬激突！▽阪神「京都大賞典ＧⅡ」▽反撃なるか？夢馬券▽カンニング竹山</desc>
 </programme>
 <programme start="20211009130000 +0900" stop="20211009160000 +0900" channel="Tokyo MX">
   <title lang="en">都道府県議会 ダイジェスト</title>
@@ -1470,6 +1466,10 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">都道府県議会 ダイジェスト</title>
   <desc lang="en">「令和３年第３回定例会・一般質問ダイジェスト」</desc>
 </programme>
+<programme start="20211010150000 +0900" stop="20211010153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211008233000 +0900" stop="20211009003000 +0900" channel="FujiNext.jp">
 <title lang="en">2020年5月21日、リモートフォーク村へきくちから！しおこうじはみ出し配信映像</title>
 <desc>5月『しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村』終了後はみだしトークを、ももクロ詩織・アルフィー坂崎の現地収録映像を交えて。DSBメンバー音楽雑談反省会
@@ -1567,7 +1567,7 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
 「名古屋グランパス vs FC東京」
 ＜開催＞2021年10月6日（水）
 ＜解説＞望月重良　＜実況＞小田島卓生
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211009/6839560/image/a0dd9a98278c6953ba662743f24a12ee.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211009150000 +0900" stop="20211009162000 +0900" channel="FujiNext.jp">
@@ -2156,7 +2156,7 @@ https://otn.fujitv.co.jp
 <programme start="20211009132000 +0900" stop="20211009150000 +0900" channel="kbsworld.jp">
 <title lang="en">ミュージックバンク【字幕なし】</title>
 <desc>大人気Ｋ−ＰＯＰアイドルが最近のヒットソングを届ける人気音楽放送！韓国放送日から２４時間以内に放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211009/6682526/image/e010c97e6de86aff06a5b799a4bcaabd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211009150000 +0900" stop="20211009171500 +0900" channel="kbsworld.jp">
