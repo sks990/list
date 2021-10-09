@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211010004700 +0900" stop="20211010014700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">海底の花園 サンゴの美〜沖縄 慶良間諸島〜</title>
-    <desc lang="en">〜沖縄県・慶良間諸島〜</desc>
-  </programme>
   <programme start="20211010014700 +0900" stop="20211010024700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影したシチリアの海岸沿いの美しい映像を再編集してシチリア島一周の旅を紹介する</desc>
@@ -346,10 +342,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211010003000 +0900" stop="20211010011500 +0900" channel="eTele.jp">
-    <title lang="en">浦沢直樹の漫勉</title>
-    <desc lang="en">白い紙に小さなペン先で壮大なドラマを生む漫画家たち。その創作の秘密に「浦沢直樹」が迫る。今回は「ゴルゴ１３」の生みの親「さいとう・たかを」を特集する。</desc>
-  </programme>
   <programme start="20211010011500 +0900" stop="20211010050000 +0900" channel="eTele.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -514,15 +506,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211010005500 +0900" stop="20211010012500 +0900" channel="NipponTV.jp">
-    <title lang="en">ルパン三世PART6</title>
-    <desc lang="en">☆アニメ化50周年を迎えるルパン三世の最新TVシリーズ今夜スタート！！☆
-「EPISODE 0 ―時代―」</desc>
-  </programme>
-  <programme start="20211010012500 +0900" stop="20211010013000 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211010013000 +0900" stop="20211010023000 +0900" channel="NipponTV.jp">
     <title lang="en">Hulu傑作シアター</title>
     <desc lang="en">爆発的な人気で全米No.1を記録した話題作がついに完結！「ビッグバン・セオリー」を特集！▼「ロスト・イン・オーシャン 消えた大陸」第１話後編を放送</desc>
@@ -657,15 +640,18 @@
     <title lang="en">NNNドキュメント</title>
     <desc lang="en">沖縄で戦死するまで戦地から絵手紙を送り続けた伊藤半次さん。家族に宛てた４００通を頼りに孫の博文さんは祖父の足跡をたどります。絵手紙が伝える戦争と平和の尊さとは。</desc>
   </programme>
-<programme start="20211010003500 +0900" stop="20211010010000 +0900" channel="Asahi.jp">
-  <title lang="en">超人女子戦士 ガリベンガーV</title>
-  <desc lang="en">地球にはびこる超難解な現象を、解き続ける女子たちを養成する組織…それが「ガリベンガーＶ」
-今夜は特別企画「レトロゲームSP」！話題Ｖチューバーを徹底的に鍛えます！</desc>
-</programme>
-<programme start="20211010010000 +0900" stop="20211010013000 +0900" channel="Asahi.jp">
-  <title lang="en">ワールドプロレスリング</title>
-  <desc lang="en">G1 CLIMAX公式戦・飯伏幸太vs鷹木信悟！新日本プロレス最強決定リーグ中盤戦の山場で、前年度覇者とIWGP世界ヘビー級王者…同い年のライバルが激突！</desc>
-</programme>
+  <programme start="20211011012500 +0900" stop="20211011014500 +0900" channel="NipponTV.jp">
+    <title lang="en">イントロ</title>
+    <desc lang="en">佐藤真知子アナがゲストを招く番宣トーク番組。今夜は新土曜ドラマ「二月の勝者ー絶対合格の教室ー」。ゲストは小学館のマンガ編集者加納由樹さん。</desc>
+  </programme>
+  <programme start="20211011014500 +0900" stop="20211011015000 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211011015000 +0900" stop="20211011022000 +0900" channel="NipponTV.jp">
+    <title lang="en">にけつッ!!</title>
+    <desc lang="en">千原ジュニアとケンドーコバヤシによる二人だけの喋り番組。打ち合わせや、台本は一切ありません。</desc>
+  </programme>
 <programme start="20211010013000 +0900" stop="20211010020000 +0900" channel="Asahi.jp">
   <title lang="en">ワールドトリガー</title>
   <desc lang="en">待望の３ｒｄシーズンがいよいよ放送！ヒュースを加えた新生・玉狛第２が遠征部隊入りを目指し激しさを増すＢ級ランク戦に臨む。新たに登場する強敵たちとの熱い戦い！！</desc>
@@ -823,6 +809,13 @@
   <desc lang="en">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
 雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
 </programme>
+<programme start="20211011012500 +0900" stop="20211011025500 +0900" channel="Asahi.jp">
+  <title lang="en">Get Sports</title>
+  <desc lang="en">▼サッカー〜Ｗ杯アジア最終予選！徹底検証
+▼体操〜日本に立ちはだかる２人の海外選手
+▼世界ラリー〜第１０戦フィンランド大会
+▼水泳〜インカレ２０２１</desc>
+</programme>
 <programme start="20211010005800 +0900" stop="20211010025800 +0900" channel="TBS2.jp">
   <title lang="en">オールスター後夜祭</title>
   <desc lang="en">有吉弘行高山一実司会で「感謝祭」深夜の延長戦！芸人たちが深夜ならではのクイズ企画に生放送で挑戦！最下位になって番組を永久追放されるのは誰？視聴者1位に50万</desc>
@@ -961,13 +954,9 @@
 ※以下一部地域を除く
 ▽プロ野球ドラフト企画中居正広</desc>
 </programme>
-<programme start="20211010005000 +0900" stop="20211010012000 +0900" channel="TVTokyo.jp">
-  <title lang="en">二軒目どうする?〜ツマミのハナシ〜</title>
-  <desc lang="en">ＴＯＫＩＯ松岡昌宏が博多大吉と女性ゲスト、専門家と楽しむ居酒屋ぶらりバラエティー！</desc>
-</programme>
-<programme start="20211010012000 +0900" stop="20211010014500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ABChanZOO</title>
-  <desc lang="en">メンバーが河合＆塚田のことをどれくらい愛しているのか？再確認するための大爆笑クイズ！はたして一番河合＆塚田を愛しているメンバーとは！？</desc>
+<programme start="20211011015300 +0900" stop="20211011034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20211010014500 +0900" stop="20211010021000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゴッドタン</title>
@@ -1121,16 +1110,13 @@
   <desc lang="en">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
 見逃せないパフォーマンスが続々と登場します。</desc>
 </programme>
-<programme start="20211010003500 +0900" stop="20211010011500 +0900" channel="FujiTV.jp">
-  <title lang="en">S-PARK</title>
-  <desc lang="en">スポーツ・パーク「Ｓ－ＰＡＲＫ」宮司愛海
-▼競泳池江璃花子パリ五輪再出発のインカレ
-▼石川佳純が帰ってくる！東京五輪後初実戦
-▼青学原晋監督が描く出雲の青写真</desc>
+<programme start="20211011010500 +0900" stop="20211011013500 +0900" channel="TVTokyo.jp">
+  <title lang="en">日向坂で会いましょう</title>
+  <desc lang="en">日向坂４６が、みんなを笑顔に変えるハッピー全開のバラエティ番組！様々なことに挑戦し、苦難を乗り越えトップアイドルへと成長していく姿を追いかけます!!</desc>
 </programme>
-<programme start="20211010011500 +0900" stop="20211010014500 +0900" channel="FujiTV.jp">
-  <title lang="en">馬好王国〜UmazuKingdom〜</title>
-  <desc lang="en">競馬ビギナーが興味をそそる馬柱を提案▼スポーツ紙の馬柱を初心者用にアレンジ！「馬の好物」「秘密のＱＲコード」など新しいアイデア満載のプレゼンが続々登場</desc>
+<programme start="20211011013500 +0900" stop="20211011020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">月とライカと吸血姫</title>
+  <desc lang="en">人類史上初の宇宙飛行士は、吸血鬼の少女だったー宇宙飛行士候補生のレフは、有人飛行の実験体として吸血鬼を飛ばす計画で、吸血鬼の少女イリナの監視と訓練を命じられる。</desc>
 </programme>
 <programme start="20211010014500 +0900" stop="20211010031500 +0900" channel="FujiTV.jp">
   <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
@@ -1288,13 +1274,9 @@
   <title lang="en">Love music</title>
   <desc lang="en">武道館公演直前！話題のラッパー、ちゃんみなの多様な音楽ルーツに迫る＆ＭＩＹＡＶＩらが語る魅力とは？話題曲を熱演▽注目の若手ｉｒｉ、ｉｌｌｉｏｍｏｔｅ</desc>
 </programme>
-<programme start="20211010003000 +0900" stop="20211010010000 +0900" channel="Tokyo MX">
-  <title lang="en">ビルディバイド -#000000-（コードブラック）</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211010010000 +0900" stop="20211010013000 +0900" channel="Tokyo MX">
-  <title lang="en">先輩がうざい後輩の話</title>
-  <desc lang="en"> </desc>
+<programme start="20211011015500 +0900" stop="20211011022500 +0900" channel="FujiTV.jp">
+  <title lang="en">おかべろ</title>
+  <desc lang="en">今回もなにわ男子が登場！グループ随一の泣き虫・西畑がスタジオで大号泣！スタッフにかみつきまくる大西の毒舌発言集を大公開！藤原のいきすぎた野球愛にスタジオ騒然！</desc>
 </programme>
 <programme start="20211010013000 +0900" stop="20211010020000 +0900" channel="Tokyo MX">
   <title lang="en">ポプテピピック</title>
@@ -1484,6 +1466,14 @@
   <title lang="en">しょうたいむ!〜歌のお姉さんだってしたい</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211011010500 +0900" stop="20211011013500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211011013500 +0900" stop="20211011020500 +0900" channel="Tokyo MX">
+  <title lang="en">ええじゃないか!!</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211009205000 +0900" stop="20211010010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第16戦トルコGP 予選</title>
 <desc>＜開催＞2021年10月9日（土）【生中継】
@@ -1665,7 +1655,7 @@ https://otn.fujitv.co.jp
 <desc>「毎日王冠（G2）」「京都大賞典（G2）」 か
 ＜司会＞見栄晴　横山ルリカ
 ＜出演＞松本ヒロシ　競馬予想専門家4名
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211009/6707344/image/d455a22a8a8d9387fdbd972a2d1c3971.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211010020000 +0900" stop="20211010070000 +0900" channel="FujiOne.jp">
