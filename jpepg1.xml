@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211010193000 +0900" stop="20211010200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">イソヒヨドリは鮮やかな青色が印象的な鳥。近年、東京・八王子周辺で目撃が急増中。本来、海辺で暮らす鳥が、なぜ内陸の街に進出した？謎を解くカギは美しい鳴き声だった！</desc>
-  </programme>
-  <programme start="20211010200000 +0900" stop="20211010204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">栄一は大阪で五代友厚と出会い、五代の考える日本の商業の在り方に共感する。一方、政府は西郷の“戦が足らん”の声にざわつく…。そんな中、栄一に父危篤の連絡が届く。</desc>
-  </programme>
-  <programme start="20211010204500 +0900" stop="20211010205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211010205500 +0900" stop="20211010210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -290,13 +278,17 @@
     <title lang="en">万物トリセツショー</title>
     <desc lang="en">◆今回のトリセツは「食欲」◆食欲を無理に抑えずダイエット＆健康になる方法◆暴走する食欲を０．５円のあるものでおさめてしまうワザ◆取扱説明書をショーにしてお届け！</desc>
   </programme>
-  <programme start="20211010195500 +0900" stop="20211010200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20211011204200 +0900" stop="20211011204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">#NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211010200000 +0900" stop="20211010204500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">写真家・宮崎学。探偵のごとく動物の痕跡を読み解き、自作のロボットカメラで人の目が及ばぬ世界を写し出す。「森を、動物の目線から見つめる」新作プロジェクトに密着。</desc>
+  <programme start="20211011204500 +0900" stop="20211011210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211011210000 +0900" stop="20211011220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">ピアニスト上原ひろみ２年ぶりＮＹブロードウェイ公演で何を思う▽新型コロナ最新情報▽運命の一日プロ野球ドラフト会議あの注目選手はどの球団に！？詳しく伝えます</desc>
   </programme>
   <programme start="20211010204500 +0900" stop="20211010210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -606,6 +598,18 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">みんなの気分のあげてくれる「あがるアート」！シリーズ立ち上げから１年、全国各地で展開中のユニークなアート活動を、映画監督の安藤桃子さんと一緒に見ていきま〜す！</desc>
   </programme>
+  <programme start="20211011203000 +0900" stop="20211011204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">中途失明原因第１位、緑内障。薬やレーザー治療で効果がない場合、従来の手術より患者の負担の少ない「ＭＩＧＳ＝ミグス」という治療が登場。目の状態によっては選択肢に。</desc>
+  </programme>
+  <programme start="20211011204500 +0900" stop="20211011210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211011210000 +0900" stop="20211011212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">新米のおいしい季節！今回は、ご飯を愛してやまない料理研究家のしらいのりこさんが、旬のごぼうと里芋を使った「ご飯がすすむおかず」を、２日間にわたって紹介します！</desc>
+  </programme>
   <programme start="20211010190000 +0900" stop="20211010215400 +0900" channel="NipponTV.jp">
     <title lang="en">行列のできる相談所</title>
     <desc lang="en">菅田将暉＆斎藤工＆勝地涼＆仲野太賀…「仕事論」「黒歴史」「好きな映画」イケメン回答は誰か検証▼ロシア宇宙プロジェクト始動▼フット後藤ジャニーズコンサート挑戦</desc>
@@ -701,6 +705,10 @@
   <programme start="20211011200000 +0900" stop="20211011210000 +0900" channel="NipponTV.jp">
     <title lang="en">世界まる見え!テレビ特捜部</title>
     <desc lang="en">宇宙食が激マズで困るNASA飛行士を救え！新メニューに芳根京子感動！猫ちゃんの頭かじり犬？チャイ好きすぎる象？アイスランド火山の真横で食事！宙に浮くスイーツ大会</desc>
+  </programme>
+  <programme start="20211011210000 +0900" stop="20211011225400 +0900" channel="NipponTV.jp">
+    <title lang="en">月曜から夜ふかし</title>
+    <desc lang="en">関ジャニ村上とマツコが話題の件をあれこれ語り合う…秋の２時間ＳＰ！フェフ姉さんアマチュア大会出場＆７２歳桐谷さんのプチ終活に密着＆マジシャンＧＯ㊙新作マジック</desc>
   </programme>
 <programme start="20211010195800 +0900" stop="20211010215600 +0900" channel="Asahi.jp">
   <title lang="en">ポツンと一軒家</title>
@@ -814,6 +822,10 @@
 奇跡の出会い連発＆番組史上最高級！森のレストラン＆ジブリカフェも
 ゴールは創業100年超の湯宿へ</desc>
 </programme>
+<programme start="20211011204500 +0900" stop="20211011214800 +0900" channel="Asahi.jp">
+  <title lang="en">10万円でできるかな</title>
+  <desc lang="en">名前を変えただけで爆売れした商品名を当てろ！クイズ王カズレーザー＆劇団ひとりＶＳ今田美桜＆キスマイ</desc>
+</programme>
 <programme start="20211010183000 +0900" stop="20211010210000 +0900" channel="TBS2.jp">
   <title lang="en">バナナマンのせっかくグルメ</title>
   <desc lang="en">日村は東京町田市へ！超人気の肉汁ハンバーガー＆㊙町中華ラーメン★小栗旬＆中村アンは茨城土浦で食欲全開！濃厚担々麺＆隠れ家寿司に興奮★木村昴は日南の極上豚カツ爆食</desc>
@@ -901,6 +913,10 @@
   <title lang="en">速報ドラフト会議2021 THE運命の1日</title>
   <desc lang="en">🈓▽９人兄弟大家族！悲願のプロ入りへ…１３年間家族で隠した秘密とは？
 ▽離島で野球部ないのに１５０キロ豪速球⁉ハンデ乗り越えた怪物少年▽妻子持ち元甲子園スター</desc>
+</programme>
+<programme start="20211011210000 +0900" stop="20211011225700 +0900" channel="TBS2.jp">
+  <title lang="en">100%!アピ〜ルちゃん</title>
+  <desc lang="en">密着２０８時間！隠れた魅力発掘★ユーチューバーｖｓ銀行！ローン審査に激怒★オシャレＳＮＳはしんどい！美女モデルの子育てカオスに感涙★女優が迷子！辿り着けない名店</desc>
 </programme>
 <programme start="20211010183000 +0900" stop="20211010215400 +0900" channel="TVTokyo.jp">
   <title lang="en">激かわモフモフ91連発!〜どうぶつのキモチがわかる森4〜</title>
@@ -1050,10 +1066,6 @@
   <title lang="en">月曜プレミア8</title>
   <desc lang="en">主演・内藤剛志×原作・今野敏「樋口顕」最新作！カリスマ美容家社長に殺人容疑！元夫の謎の死と現夫の不倫疑惑…ネクタイピンに隠された華麗なる一族の闇に樋口が迫る！</desc>
 </programme>
-<programme start="20211010190000 +0900" stop="20211010200000 +0900" channel="FujiTV.jp">
-  <title lang="en">ジャンクSPORTS</title>
-  <desc lang="en">アスリートの奥様は大変？東京五輪メダリストの世にも奇妙な習性＆ラミレスは結婚指輪紛失！整形の秘密＆変な食生活…新庄剛志の元妻が謎に包まれた私生活を告白</desc>
-</programme>
 <programme start="20211010200000 +0900" stop="20211010215400 +0900" channel="FujiTV.jp">
   <title lang="en">千鳥の対決旅</title>
   <desc lang="en">千鳥世代ＶＳ大忙し世代！今が見頃！紅葉美しい那須に人気芸人が奇跡の大集合！激うまグルメ…カーレースで千鳥考案ルールで爆笑対決！因縁の対決＆大悟の夢叶う</desc>
@@ -1142,13 +1154,9 @@
   <title lang="en">スカッとカラオケ</title>
   <desc lang="en">熱唱チャレンジＮｏ．１決定戦ＳＰ！相川七瀬＆クリスタルケイ＆ケミストリー川畑＆ジャニーズ濱田崇裕が熱唱▽Ａ．Ｂ．Ｃ－Ｚ河合が挑戦！嵐の全曲丸暗記！</desc>
 </programme>
-<programme start="20211010193000 +0900" stop="20211010200000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211010200000 +0900" stop="20211010203000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en">今年で９回目となる『初音ミク「マジカルミライ２０２１」』の開催へ向けた最新情報をお届け！</desc>
+<programme start="20211011210000 +0900" stop="20211011220900 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
+  <desc lang="en">陸上界の天才少年の未来を救え！叶えたい夢か、それとも外科手術か…突然、究極の選択を迫られた患者や家族に、放射線技師ができることとは！？今夜は１５分拡大スペシャル</desc>
 </programme>
 <programme start="20211010203000 +0900" stop="20211010210000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1329,6 +1337,10 @@
 <programme start="20211011200000 +0900" stop="20211011210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">上野動物園の双子パンダ　名前が決定！上野の街で反響は？▼新内閣発足から１週間…衆院選はどうなる？鈴木哲夫が徹底解説！</desc>
+</programme>
+<programme start="20211011210000 +0900" stop="20211011215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">杉村太蔵×原田曜平！毎週月曜は「ビジネス・マネー」をテーマにお届け。ダンディな大人が知っておくべき世の中の話題をトーク＆これから流行の若者文化とは？</desc>
 </programme>
 <programme start="20211009205000 +0900" stop="20211010010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第16戦トルコGP 予選</title>
@@ -1910,7 +1922,7 @@ https://otn.fujitv.co.jp
 <programme start="20211010194500 +0900" stop="20211010210000 +0900" channel="kbsworld.jp">
 <title lang="en">優雅な友達（原題）　#8　[字][再]</title>
 <desc>ベーシック初放送！親友5人とその妻たちに隠された秘密、2つの殺人事件、友人の死から驚愕の真実が明らかなっていくミステリー　コメディメロドラマ！2020年　全17話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211010/6684234/image/e77212fca2a75a7f87fd60ace751f1c6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211010210000 +0900" stop="20211010214000 +0900" channel="kbsworld.jp">
