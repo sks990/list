@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211010135000 +0900" stop="20211010142000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あの日、偶然そこにいて</title>
-    <desc lang="en">歴史的瞬間や時代を象徴する「あの日」の映像。そこに偶然立ち会い、映り込んだ人々は、その後どんな人生を歩んだのか。徹底捜索しその後をたどると…驚きと感動の物語。</desc>
-  </programme>
-  <programme start="20211010142000 +0900" stop="20211010143000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!10min.</title>
-    <desc lang="en">ぽっちゃりモフモフのマヌルネコ。地面にだらりと寝そべる天敵対策や、しっぽを振って獲物のネズミの動きを止める狩りなど超個性的なワザを目撃！まんまるネコの謎に迫る。</desc>
-  </programme>
   <programme start="20211010143000 +0900" stop="20211010150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">香川照之の昆虫すごいぜ!</title>
     <desc lang="en">記念すべき１時間目「トノサマバッタ」の回をアンコール放送！仮面ライダーのモチーフにもなったトノサマバッタのかっこよさにカマキリ先生も大興奮！新作も待っていてね</desc>
@@ -305,14 +297,6 @@
   <programme start="20211011131500 +0900" stop="20211011162500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20211010123000 +0900" stop="20211010140000 +0900" channel="eTele.jp">
-    <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
-    <desc lang="en">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。２回戦第１０局は余正麒八段と鈴木歩七段の対戦。</desc>
-  </programme>
-  <programme start="20211010140000 +0900" stop="20211010143000 +0900" channel="eTele.jp">
-    <title lang="en">日本の話芸</title>
-    <desc lang="en">柳家さん喬さんの落語「鴻池の犬」をお送りします（令和３年６月２５日（金）収録）</desc>
   </programme>
   <programme start="20211010143000 +0900" stop="20211010163000 +0900" channel="eTele.jp">
     <title lang="en">第49回ローザンヌ国際バレエコンクール</title>
@@ -566,10 +550,21 @@
     <title lang="en">NHK高校講座 ベーシック数学</title>
     <desc lang="en">２次関数のグラフがいつも頂点を持つとは限りません。今回は、２次関数の式から頂点の座標を求める方法を、パパっとマスターしてしまいましょう。</desc>
   </programme>
-  <programme start="20211010134500 +0900" stop="20211010141500 +0900" channel="NipponTV.jp">
-    <title lang="en">東京03とスタア</title>
-    <desc lang="en">元テレビ東京・佐久間宣行×「有吉の壁」橋本和明による新コント番組▽コント「念願の彼女」
-東京０３×白石麻衣▽音声コントはラランドがコラボ！</desc>
+  <programme start="20211011141000 +0900" stop="20211011143000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 数学I</title>
+    <desc lang="en">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
+  </programme>
+  <programme start="20211011143000 +0900" stop="20211011144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 苦手を克服! ベーシック英語</title>
+    <desc lang="en">「高校の英語がわからない…」そんなキミのための基礎力ＵＰ講座。中１から中３までの英語のつまずきポイントを中心に文法の基礎を解りやすく説明するぞ！</desc>
+  </programme>
+  <programme start="20211011144000 +0900" stop="20211011150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 コミュニケーション英語I</title>
+    <desc lang="en">外国からのお客様に喜んでもらう「おもてなしの英語」ってどんなの？ホテルを舞台にトレンディエンジェルと一緒にすぐに使える実践的な英語を学んでいきます。</desc>
+  </programme>
+  <programme start="20211011150000 +0900" stop="20211011153000 +0900" channel="eTele.jp">
+    <title lang="en">日本の話芸</title>
+    <desc lang="en">柳家さん喬さんの落語「鴻池の犬」をお送りします（令和３年６月２５日（金）収録）</desc>
   </programme>
   <programme start="20211010141500 +0900" stop="20211010150000 +0900" channel="NipponTV.jp">
     <title lang="en">いよいよ明日スタート!日曜ドラマ「真犯人フラグ」見どころヒント大放出SP</title>
@@ -824,9 +819,9 @@
   <title lang="en">相棒season19</title>
   <desc lang="en">「プレゼンス〜特命係迷宮の扉を開ける」水谷豊、反町隆史(他)▽白バイ隊員銃撃事件と謎の転落死。事件の関連を疑う右京と亘は全てのカギが“仮想現実”の世界にあると考え…</desc>
 </programme>
-<programme start="20211010135700 +0900" stop="20211010140000 +0900" channel="TBS2.jp">
-  <title lang="en">四季折々の贈り物</title>
-  <desc lang="en">今回の贈り物は「足袋」。七五三や新年に向け、出番が増える足袋。江戸時代には年長者や位の高い人しか履けなかったんだそう。オリジナルの足袋作りにも挑戦！</desc>
+<programme start="20211011145100 +0900" stop="20211011154800 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season19</title>
+  <desc lang="en">「プレゼンス〜特命係ｖｓ仮想国家の支配者」水谷豊、反町隆史(他)▽銃撃事件は被疑者死亡で解決しそうに見えたが、一連の事件が仮想国家と深い関わりがあると考えた右京は…</desc>
 </programme>
 <programme start="20211010140000 +0900" stop="20211010152400 +0900" channel="TBS2.jp">
   <title lang="en">バナナマンのせっかくグルメ!</title>
@@ -927,10 +922,6 @@
 <programme start="20211011135500 +0900" stop="20211011154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
-</programme>
-<programme start="20211010125400 +0900" stop="20211010140000 +0900" channel="TVTokyo.jp">
-  <title lang="en">開運!なんでも鑑定団</title>
-  <desc lang="en">■＜風立ちぬ＞堀越二郎が生んだ…日本軍戦闘機お宝＆江戸時代に驚異の手術…＜天才名医＞秘宝に衝撃値■華原朋美が秘蔵…西洋アンティーク大会■美川憲一のお宝に超絶値■</desc>
 </programme>
 <programme start="20211010140000 +0900" stop="20211010160000 +0900" channel="TVTokyo.jp">
   <title lang="en">今野敏サスペンス ビート 警視庁強行犯 樋口顕</title>
@@ -1075,14 +1066,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">アメリカの大都市、女性市長が警察官採用基準の撤廃を宣言。その途端、伝統ある警察学校“ポリス・アカデミー”にも志願者が殺到…！大ヒットコメディシリーズ第１弾！</desc>
 </programme>
-<programme start="20211010120000 +0900" stop="20211010142500 +0900" channel="FujiTV.jp">
-  <title lang="en">第33回出雲全日本大学選抜駅伝</title>
-  <desc lang="en">２年ぶりに出雲路に学生ランナーが集う三大駅伝開幕戦！群雄割拠の第１冠を制するのは？日本代表・三浦龍司に注目！</desc>
-</programme>
-<programme start="20211010142500 +0900" stop="20211010145500 +0900" channel="FujiTV.jp">
-  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜 ダイジェスト</title>
-  <desc lang="en">まだ追いつける！３０分で分かる「ラジエーションハウスⅡ」第１話！帰ってきた天才放射線技師！消えた仲間たちの行方…新たな病院長が襲来！視えない病を診つけ出せ！</desc>
-</programme>
 <programme start="20211010145500 +0900" stop="20211010150000 +0900" channel="FujiTV.jp">
   <title lang="en">ビジネスStyle</title>
   <desc lang="en">時代を切り拓く企業のトップへのインタビューを始め、商品やサービスなどを多面的に紹介。その理念や哲学からみえてくるビジネスＳｔｙｌｅとは？</desc>
@@ -1201,6 +1184,10 @@
 <programme start="20211011115500 +0900" stop="20211011144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
+</programme>
+<programme start="20211011144500 +0900" stop="20211011154500 +0900" channel="FujiTV.jp">
+  <title lang="en">ルパンの娘</title>
+  <desc lang="en">無事に娘を産んだ泥棒一家の華。夫・和馬との幸せな家庭を取り戻すが、孫が将来警察と泥棒どちらを継ぐのかで両家の争いに！そして社会人となった名探偵の娘が遂に登場し…</desc>
 </programme>
 <programme start="20211010130000 +0900" stop="20211010150000 +0900" channel="Tokyo MX">
   <title lang="en">都道府県議会 ダイジェスト</title>
@@ -1379,6 +1366,18 @@
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20211011140000 +0900" stop="20211011143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211011143000 +0900" stop="20211011145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211011145900 +0900" stop="20211011150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211011150000 +0900" stop="20211011153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
