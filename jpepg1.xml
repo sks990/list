@@ -58,8 +58,12 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211011131500 +0900" stop="20211011162500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国会中継</title>
+  <programme start="20211011155500 +0900" stop="20211011160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">もういちど、日本</title>
+    <desc lang="en">東京・新橋駅前にそびえる「ニュー新橋ビル」は、飲み屋やマッサージ店などがひしめくオジサンたちの楽園。ルーツは戦後の闇市。ここをふるさとと愛し、ともに生きる人々。</desc>
+  </programme>
+  <programme start="20211011160000 +0900" stop="20211011162500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
   <programme start="20211011162500 +0900" stop="20211011164000 +0900" channel="NHK1Tokyo.jp">
@@ -241,26 +245,6 @@
   <programme start="20211012140000 +0900" stop="20211012163000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20211011144000 +0900" stop="20211011150000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 コミュニケーション英語I</title>
-    <desc lang="en">外国からのお客様に喜んでもらう「おもてなしの英語」ってどんなの？ホテルを舞台にトレンディエンジェルと一緒にすぐに使える実践的な英語を学んでいきます。</desc>
-  </programme>
-  <programme start="20211011150000 +0900" stop="20211011153000 +0900" channel="eTele.jp">
-    <title lang="en">日本の話芸</title>
-    <desc lang="en">柳家さん喬さんの落語「鴻池の犬」をお送りします（令和３年６月２５日（金）収録）</desc>
-  </programme>
-  <programme start="20211011153000 +0900" stop="20211011154000 +0900" channel="eTele.jp">
-    <title lang="en">ツクランカー</title>
-    <desc lang="en">人に役立つものを作ろう！それがツクランカーの合言葉だ。今回は人を楽しませる「からくり」作りに挑戦する。ＳＴＥＡＭ教育を実践し、子どもの問題解決能力を育む新番組。</desc>
-  </programme>
-  <programme start="20211011154000 +0900" stop="20211011154500 +0900" channel="eTele.jp">
-    <title lang="en">プチプチ・アニメ</title>
-    <desc lang="en">まっ白ボディーにつぶらなひとみ。きれいが大好きユニコーンのキュピちゃん。どんな汚れもみのがさない！ゴシゴシ、キュッキュッ、小さな体であちこち磨いてまわります。</desc>
-  </programme>
-  <programme start="20211011154500 +0900" stop="20211011155500 +0900" channel="eTele.jp">
-    <title lang="en">ピタゴラスイッチ</title>
-    <desc lang="en">生活の中にある、不思議な法則や構造、おもしろい考え方を、歌、体操、ピタゴラ装置など多彩な企画で紹介します。今回は「トンカッチがえらぶじゃんけん装置　ベスト３」</desc>
   </programme>
   <programme start="20211011155500 +0900" stop="20211011160000 +0900" channel="eTele.jp">
     <title lang="en">ブレイクッ!</title>
@@ -594,9 +578,25 @@
     <title lang="en">NHK短歌</title>
     <desc lang="en">選者：佐佐木頼綱、ゲスト：小池祐貴（陸上競技選手）。題「挑む」。今夏の東京オリンピックに出場したゲストの重圧と緊張の瞬間とは。競技への心構えなどを短歌に詠む。</desc>
   </programme>
-  <programme start="20211011135500 +0900" stop="20211011155000 +0900" channel="NipponTV.jp">
-    <title lang="en">情報ライブ ミヤネ屋</title>
-    <desc lang="en">▽小室圭さんの母の元婚約者がコメント発表▽停電で一時１０路線が運休…「ＪＲ東日本」変電所火災の原因は▽季節外れの残暑いつまで＆寒冷前線に注意(他)</desc>
+  <programme start="20211012152500 +0900" stop="20211012153000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする「ワンポイント介護」４回目は「同じ物をいくつも買ってしまう」。同じ物を求めるのはその時々本人にとって「必要」なものだから</desc>
+  </programme>
+  <programme start="20211012153000 +0900" stop="20211012154000 +0900" channel="eTele.jp">
+    <title lang="en">アクティブ10 プロのプロセス</title>
+    <desc lang="en">２年ぶりの新作！チョコレートプラネットと情報社会のプロたちが社会で役立つさまざまなスキルをコント仕立てで伝える番組。今回は議論のまとめ方のテクニックを紹介。</desc>
+  </programme>
+  <programme start="20211012154000 +0900" stop="20211012154500 +0900" channel="eTele.jp">
+    <title lang="en">プチプチ・アニメ</title>
+    <desc lang="en">マイペースだけど好奇心いっぱいのニャッキ。街のいたるところに出没しては、大冒険をくりひろげ、大ピンチ！なんてこともしばしば。今日はどんな冒険が待っているかな？</desc>
+  </programme>
+  <programme start="20211012154500 +0900" stop="20211012160000 +0900" channel="eTele.jp">
+    <title lang="en">しぜんとあそぼ</title>
+    <desc lang="en">自然と縁遠くなったといわれる子どもたちに身近な生きものたちの生態をていねいに紹介し、生きものへの優しい気持ちと、自然の不思議や命の輝きに対する好奇心を育みます。</desc>
+  </programme>
+  <programme start="20211012160000 +0900" stop="20211012160500 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「数え歌」うた：池田綾子／「うじゅくじゅ？」うた：西田ひかる／「恋なんです」うた：ピクソン／「花さかニャンコ」うた：谷山浩子</desc>
   </programme>
   <programme start="20211011155000 +0900" stop="20211011190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
@@ -682,10 +682,10 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20211011145100 +0900" stop="20211011154800 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season19</title>
-  <desc lang="en">「プレゼンス〜特命係ｖｓ仮想国家の支配者」水谷豊、反町隆史(他)▽銃撃事件は被疑者死亡で解決しそうに見えたが、一連の事件が仮想国家と深い関わりがあると考えた右京は…</desc>
-</programme>
+  <programme start="20211012155000 +0900" stop="20211012190000 +0900" channel="NipponTV.jp">
+    <title lang="en">news every.</title>
+    <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+  </programme>
 <programme start="20211011154800 +0900" stop="20211011164500 +0900" channel="Asahi.jp">
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">「１０００億の売名オペ⁉輸血不足でも失敗しないので‼」米倉涼子(他)▽個人資産１０００億の若き実業家が“未知子に手術を依頼したい”と神原名医紹介所に突然やってきて…</desc>
@@ -817,9 +817,9 @@ by.Jose James</desc>
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">「植毛患者アレルギーの秘密…⁉禁断のオペ５億ドル」米倉涼子(他)▽未知子を頼り、最先端の植毛を依頼しにやってきた世界的銀行家。だが矢先に、胃がんであることが判明し…</desc>
 </programme>
-<programme start="20211011135500 +0900" stop="20211011154900 +0900" channel="TBS2.jp">
-  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
-  <desc lang="en">▼小室圭さんの母の元婚約者が文書発表　２６日結婚・会見へ…問題解決は？▼東京コロナ「６０人」今年最少　飲み薬も年内実用化で…このまま収束！？　ほか(予定)</desc>
+<programme start="20211012154800 +0900" stop="20211012164500 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season19</title>
+  <desc lang="en">「暗殺者への招待」水谷豊、反町隆史(他)▽殺人教唆での逮捕直前に“ツルの一声”で逮捕をまぬがれたＩＴ長者・加西。副総監の背後に大物が潜んでいることを察した特命係は…</desc>
 </programme>
 <programme start="20211011154900 +0900" stop="20211011165000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
@@ -913,9 +913,9 @@ by.Jose James</desc>
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
-<programme start="20211011134000 +0900" stop="20211011154000 +0900" channel="TVTokyo.jp">
-  <title lang="en">午後のロードショー</title>
-  <desc lang="en">アメリカの大都市、女性市長が警察官採用基準の撤廃を宣言。その途端、伝統ある警察学校“ポリス・アカデミー”にも志願者が殺到…！大ヒットコメディシリーズ第１弾！</desc>
+<programme start="20211012154900 +0900" stop="20211012190000 +0900" channel="TBS2.jp">
+  <title lang="en">Nスタ</title>
+  <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！「ＮｅｗｓＣｌｉｐ」でニュースからエンタメ・カルチャーまで！６時１５分からはグルメ情報も！</desc>
 </programme>
 <programme start="20211011154000 +0900" stop="20211011165400 +0900" channel="TVTokyo.jp">
   <title lang="en">よじごじDays</title>
@@ -1074,9 +1074,9 @@ by.Jose James</desc>
   <title lang="en">午後のロードショー</title>
   <desc lang="en">ある事件をきっかけに復讐の標的となったデトロイト市警の特殊部隊ＳＷＡＴ。警察精鋭チームが執拗に攻撃してくる犯人と激闘を繰り広げるアクション作！</desc>
 </programme>
-<programme start="20211011144500 +0900" stop="20211011154500 +0900" channel="FujiTV.jp">
-  <title lang="en">ルパンの娘</title>
-  <desc lang="en">無事に娘を産んだ泥棒一家の華。夫・和馬との幸せな家庭を取り戻すが、孫が将来警察と泥棒どちらを継ぐのかで両家の争いに！そして社会人となった名探偵の娘が遂に登場し…</desc>
+<programme start="20211012154000 +0900" stop="20211012165400 +0900" channel="TVTokyo.jp">
+  <title lang="en">よじごじDays</title>
+  <desc lang="en">埼玉県秩父市で絶景ハンター敦士が水辺の絶景探し！▽透明度抜群！渓谷のせせらぎ▽圧巻！歴史を語る巨大な地層▽湧水温泉▽伏流水で打った絶品蕎麦など感動絶景が続々登場</desc>
 </programme>
 <programme start="20211011154500 +0900" stop="20211011190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
@@ -1174,17 +1174,9 @@ by.Jose James</desc>
   <title lang="en">ルパンの娘</title>
   <desc lang="en">娘に泥棒一家だとバレないか心配な華。ママ友のパーティーに一家が出席する事態に！そこに娘を狙う凶悪犯と事件を追う名探偵も現れ…。やがて驚愕の真犯人が明らかになる！</desc>
 </programme>
-<programme start="20211011145900 +0900" stop="20211011150000 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211011150000 +0900" stop="20211011153000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211011153000 +0900" stop="20211011155800 +0900" channel="Tokyo MX">
-  <title lang="en">花道だけ歩きましょう〜恋の花が咲きました〜</title>
-  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+<programme start="20211012154500 +0900" stop="20211012190000 +0900" channel="FujiTV.jp">
+  <title lang="en">Live News イット!</title>
+  <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
 <programme start="20211011155800 +0900" stop="20211011160000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -1379,6 +1371,18 @@ by.Jose James</desc>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211012150000 +0900" stop="20211012153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211012153000 +0900" stop="20211012155800 +0900" channel="Tokyo MX">
+  <title lang="en">花道だけ歩きましょう〜恋の花が咲きました〜</title>
+  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+</programme>
+<programme start="20211012155800 +0900" stop="20211012160000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20211012160000 +0900" stop="20211012163000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1806,7 +1810,7 @@ https://otn.fujitv.co.jp
 <desc>第730話「奇跡の涙 マンシェリーの戦い！」　（地上波放送日　2016年2月21日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211011/6711260/image/cc4a8f86af8419d1c48404318b318f45.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211011160000 +0900" stop="20211011163000 +0900" channel="FujiTwo.jp">
