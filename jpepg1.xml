@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211012195700 +0900" stop="20211012204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">うたコン</title>
-    <desc lang="en">昭和歌謡…秋▽宮本浩次・石井竜也・山内惠介▽Ｃｈａｒ初登場▽「シルエット・ロマンス」大橋純子×おかゆ▽８８歳菅原洋一×石丸幹二▽ＡＫＢ４８▽リトルブラックドレス</desc>
-  </programme>
   <programme start="20211012204500 +0900" stop="20211012210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -234,17 +230,21 @@
     <title lang="en">ガッテン!</title>
     <desc lang="en">「かむ力」が弱いと心臓病や脳卒中になるリスクが高まる！？今年４月に発表された驚きの研究結果を元になぜ「かむ力」が重大な病気と関係するのかか、大実験などで迫る！</desc>
   </programme>
-  <programme start="20211012195500 +0900" stop="20211012200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20211013201500 +0900" stop="20211013204200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ロコだけが知っている</title>
+    <desc lang="en">岐阜と兵庫のロコが登場！岐阜は郡上八幡城のお殿様の子孫。今でも城を守り続けています。兵庫は伊丹でけん玉を１万人に広めた熱血教師。ロコたちのとっておきの情報とは？</desc>
   </programme>
-  <programme start="20211012200000 +0900" stop="20211012203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">１４歳の時の医療事故のため字を書くことも話すこともできなくなった研究者が本を書いている。題名は「弱さを強みに」。そこにこめた思いとは。作家柳田邦男と語り合う。</desc>
+  <programme start="20211013204200 +0900" stop="20211013204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">#NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211012203000 +0900" stop="20211012204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">物がゆがむ、視界の中心がぼやける、そんな目の症状があったら「加齢黄斑変性」という網膜の病気かも。負担のほとんどない最新検査で早期発見が可能。よく効く薬も登場。</desc>
+  <programme start="20211013204500 +0900" stop="20211013210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211013210000 +0900" stop="20211013220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">アジア系の人種差別で若者が支援に動き出す▽新型コロナ家族感染密着　第５波の教訓は？▽あす衆議院解散へ　▽マジックの行方は？速報プロ野球優勝争い</desc>
   </programme>
   <programme start="20211012204500 +0900" stop="20211012210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -582,6 +582,18 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">お互いの個性を受け入れあうカップルたちの柔らかな空気感を味わう新企画。目が見えず料理しながらこぼしまくる彼と、気にせずワインを飲み笑い上戸の彼女など３組が登場。</desc>
   </programme>
+  <programme start="20211013203000 +0900" stop="20211013204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">目が内側に寄って戻らなくなる、急性の内斜視。近年患者が増えている。原因にスマホなどのデジタル機器の使い過ぎの疑いが。また中高年では糖尿病などが原因でなることも。</desc>
+  </programme>
+  <programme start="20211013204500 +0900" stop="20211013210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211013210000 +0900" stop="20211013212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">大原千鶴「１０月の食卓」は、旬のきのこ、さつまいもを天ぷらに。家庭でカリッと揚げるコツは必見！また栗（くり）は、おかずに。新米に合う、秋の味覚を満喫しましょう。</desc>
+  </programme>
   <programme start="20211012195600 +0900" stop="20211012225400 +0900" channel="NipponTV.jp">
     <title lang="en">踊る!さんま御殿!!</title>
     <desc lang="en">人気俳優＆声優＆メダリスト＆アーティスト＆ユーチューバー＆芸人ら話題の人が大集合！言いたい放題の芸能人妻にさんま防戦一方⁉大物2世が親の知られざる㊙素顔を大暴露</desc>
@@ -800,9 +812,16 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
   <title lang="en">くりぃむクイズ ミラクル9</title>
   <desc lang="en">古田が無謀な作戦に!?知恵とヒラメキの２時間ＳＰ！知念がナイス正解でバック転！初登場乃木坂の北川や、相棒の浅利、ドクターＸの一ノ瀬など人気者達が集結しガチバトル！</desc>
 </programme>
-<programme start="20211012190000 +0900" stop="20211012205700 +0900" channel="TBS2.jp">
-  <title lang="en">バナナサンド</title>
-  <desc lang="en">バナナ×サンド×千鳥６人の中で一番クレイジーな芸人は誰だ！？爆笑エピソードが止まらない▼ノブvs伊達ツッコミ頂上決戦▼ノーリアクション対決で大悟がまさかの大失態</desc>
+<programme start="20211013205400 +0900" stop="20211013210000 +0900" channel="Asahi.jp">
+  <title lang="en">世界の街道をゆく</title>
+  <desc lang="en">民族色鮮やかな辺境の道・中国雲南省</desc>
+</programme>
+<programme start="20211013210000 +0900" stop="20211013220900 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season20</title>
+  <desc lang="en">相棒シリーズ２０作目！開幕‼ 
+ついに動き出す黒幕…！
+自殺した重要人物！捕まる冠城亘⁉
+特命係が国家権力の闇に迫る‼</desc>
 </programme>
 <programme start="20211012205700 +0900" stop="20211012225700 +0900" channel="TBS2.jp">
   <title lang="en">マツコの知らない世界</title>
@@ -895,10 +914,6 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
 <programme start="20211013200000 +0900" stop="20211013215700 +0900" channel="TBS2.jp">
   <title lang="en">ワールド極限ミステリー</title>
   <desc lang="en">映画タイタニックのヒロインにはモデルが！宝石に秘められた真実の愛＆沈没の謎に今年新説が！衝撃新事実★マッチングアプリで夫が浮気…マンガにもなった妻の痛快リベンジ</desc>
-</programme>
-<programme start="20211012182500 +0900" stop="20211012205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">世界が騒然!本当にあった(秘)衝撃ファイル</title>
-  <desc lang="en">カナダ８歳少女誘拐殺人ミステリー！警察＆伝説の元刑事が謎に包まれた事件の真相を暴き出す！▼イギリス国境警備の最前線！悪質密輸犯摘発＆地下鉄不正乗車取締りに密着！</desc>
 </programme>
 <programme start="20211012205400 +0900" stop="20211012215400 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -1165,9 +1180,9 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
 ▼大阪王将　禁断の工場に潜入！
 餃子・炒飯以外の売上１位は？</desc>
 </programme>
-<programme start="20211012193000 +0900" stop="20211012200000 +0900" channel="Tokyo MX">
-  <title lang="en">空手バカ一代</title>
-  <desc lang="en"> </desc>
+<programme start="20211013210000 +0900" stop="20211013215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ホンマでっか!?TV</title>
+  <desc lang="en">猫が好きすぎる！かまいたち山内ダレノガレ岩井森田峯岸の悩み▽猫を飼うと恋愛に興味が無くなる？猫好きは浮気性？猫派ＶＳ犬派でバトル勃発▽猫の謎行動を専門家が解説</desc>
 </programme>
 <programme start="20211012200000 +0900" stop="20211012210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1340,6 +1355,10 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
 <programme start="20211013200000 +0900" stop="20211013210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">減少傾向が続く新型コロナウイルス…最新情報は？▼都議会第３回定例会が閉会…議長から召喚状が出されている木下都議は</desc>
+</programme>
+<programme start="20211013210000 +0900" stop="20211013215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">ふかわりょう＆大島由香里と安東弘樹＆前園真聖が「衣食住」をダンディに語らう１時間。新企画「ＫＡＮＢＡＮヒストリア」。お店の名前に隠された秘密とは？</desc>
 </programme>
 <programme start="20211011211000 +0900" stop="20211012005000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第16戦トルコGP 決勝</title>
@@ -1680,7 +1699,7 @@ https://otn.fujitv.co.jp
 <desc>＜主宰＞兵動大樹　＜ゲスト＞RaMu　小島みゆ　＜怪員（怪談師）＞大赤見ノヴ　匠平　ごまだんご
 ※初回放送　2021年8月21日 21:30〜
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211012/6678334/image/9925d16e87e4dec647446ceba7047650.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211012210000 +0900" stop="20211012220000 +0900" channel="FujiOne.jp">
@@ -2123,7 +2142,7 @@ https://otn.fujitv.co.jp
 <programme start="20211012201500 +0900" stop="20211012210000 +0900" channel="kbsworld.jp">
 <title lang="en">だまされても夢心地（原題） #91　[字]</title>
 <desc>日本初放送！熟年再婚を巡って正反対の家族観を持つ２つの家族が次第に心を通わせていく最新ホームドラマ！2021年　全120話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211012/6705578/image/3587113d7d1a9946294efed0493aa782.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211012210000 +0900" stop="20211012220000 +0900" channel="kbsworld.jp">
