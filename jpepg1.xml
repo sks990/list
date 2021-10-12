@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211012135500 +0900" stop="20211012140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211012140000 +0900" stop="20211012163000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
@@ -233,22 +229,6 @@
   <programme start="20211013130000 +0900" stop="20211013160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20211012135000 +0900" stop="20211012140000 +0900" channel="eTele.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「メルケル政権の終わりとドイツ総選挙」河﨑健（上智大学教授）</desc>
-  </programme>
-  <programme start="20211012140000 +0900" stop="20211012141000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 あらためまして ベーシック国語</title>
-    <desc lang="en">国語の基本をあらためて学ぶ講座バラエティー。滝沢カレンと金田一秀穂、謎のオウムが授業を行う。テーマは「古文を読む」枕草子の魅力にカレンがせまる！</desc>
-  </programme>
-  <programme start="20211012141000 +0900" stop="20211012143000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 国語表現</title>
-    <desc lang="en">言語感覚を磨いて表現する能力の向上を目指す「国語表現」。テーマは「手紙」。形式にのっとった手紙の書き方とは？「表現の達人」コーナーは、いきものがかり水野良樹さん</desc>
-  </programme>
-  <programme start="20211012143000 +0900" stop="20211012144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 ビジネス基礎</title>
-    <desc lang="en">高校講座「ビジネス基礎」第１２回は「ビジネスと企業」について学びます。出演は前野朋哉さんと濱尾咲綺さんです。</desc>
   </programme>
   <programme start="20211012144000 +0900" stop="20211012150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 生物基礎</title>
@@ -586,6 +566,18 @@
     <title lang="en">NHK高校講座 化学基礎</title>
     <desc lang="en">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
   </programme>
+  <programme start="20211013142000 +0900" stop="20211013144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 物理基礎</title>
+    <desc lang="en">ものり家のお父さんが高校生たちと行うワークショップの第２弾。今回はレールの上をボールが転がる「ジェットコースターゲーム」。高校生たちが知恵を絞って挑戦します！</desc>
+  </programme>
+  <programme start="20211013144000 +0900" stop="20211013150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地学基礎</title>
+    <desc lang="en">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は、海洋プレートの沈み込みによっておきる「海溝型地震」について学びます。</desc>
+  </programme>
+  <programme start="20211013150000 +0900" stop="20211013152500 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">ＮＨＫ俳句第二週は今回から選者が変わる。新しい選者は阪西敦子さん。ゲストはソムリエの若林英司さん。題は「新酒」若林さんに新酒の味わい方を教えてもらう。岸本葉子</desc>
+  </programme>
   <programme start="20211012135500 +0900" stop="20211012155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">▽会見まで２週間…眞子さま昭和天皇陵へ結婚のご報告▽ダブル台風最新進路…東京で気温低下、体調管理にご注意を！</desc>
@@ -679,10 +671,6 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20211012135400 +0900" stop="20211012145000 +0900" channel="Asahi.jp">
-  <title lang="en">科捜研の女13</title>
-  <desc lang="en">「襲われた女医！盗まれた解剖遺体‼奪われた二つの臓器の秘密」沢口靖子(他)▽女性が何者かに突き飛ばされてトラックにはねられる事件が発生。だが、解剖前に遺体が盗まれ…</desc>
-</programme>
 <programme start="20211012145000 +0900" stop="20211012154800 +0900" channel="Asahi.jp">
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">「植毛患者アレルギーの秘密…⁉禁断のオペ５億ドル」米倉涼子(他)▽未知子を頼り、最先端の植毛を依頼しにやってきた世界的銀行家。だが矢先に、胃がんであることが判明し…</desc>
@@ -803,6 +791,10 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
 <programme start="20211013135400 +0900" stop="20211013145000 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女17</title>
   <desc lang="en">「マリコｖｓ裁縫名人！変色する刺繍糸の殺人トリック⁉」沢口靖子(他)▽愛犬だけが目撃していた殺人事件。現場から日本刺繍に使われる“龍の目”と犬の毛から糸が発見され…</desc>
+</programme>
+<programme start="20211013145000 +0900" stop="20211013154800 +0900" channel="Asahi.jp">
+  <title lang="en">ドクターX〜外科医・大門未知子〜</title>
+  <desc lang="en">「修羅場のオペ室…⁉失敗しない呪文のトリック」米倉涼子(他)▽外科医局に“失敗しないプリンセス”と称される医師・中山麻里亜がやってくる。男性医師たちは浮足立つが…</desc>
 </programme>
 <programme start="20211012135500 +0900" stop="20211012154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1055,10 +1047,6 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
   <title lang="en">午後のロードショー</title>
   <desc lang="en">大統領を守り抜け！暗殺計画を阻止すべく見えない敵を追う女性シークレット・サービスの活躍を描く！暗殺者の正体は！？緊迫のサスペンス・アクション！</desc>
 </programme>
-<programme start="20211012115500 +0900" stop="20211012144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">日大背任事件…“遊興費”に１億円を流用か容疑者の“豪遊生活”▽「俺らはラッキー」元経産官僚が給付金詐欺で交際相手に小遣い▽都で感染者４９人…なぜ激減？</desc>
-</programme>
 <programme start="20211012144500 +0900" stop="20211012154500 +0900" channel="FujiTV.jp">
   <title lang="en">ルパンの娘</title>
   <desc lang="en">娘に泥棒一家だとバレないか心配な華。ママ友のパーティーに一家が出席する事態に！そこに娘を狙う凶悪犯と事件を追う名探偵も現れ…。やがて驚愕の真犯人が明らかになる！</desc>
@@ -1155,17 +1143,9 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナがおぎやはぎと豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！３時間生放送</desc>
 </programme>
-<programme start="20211012135500 +0900" stop="20211012140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211012140000 +0900" stop="20211012143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211012143000 +0900" stop="20211012145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211013144500 +0900" stop="20211013154500 +0900" channel="FujiTV.jp">
+  <title lang="en">ルパンの娘</title>
+  <desc lang="en">朝目覚めると華（深田恭子）は祖母と体が入れ替わっていた！大騒ぎの中、女泥棒（田中みな実）が襲来！華と和馬（瀬戸康史）を監禁し、愛を強要するが中身は祖母のままで…</desc>
 </programme>
 <programme start="20211012145900 +0900" stop="20211012150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1867,7 +1847,7 @@ https://otn.fujitv.co.jp
 <title lang="en">韓国ドラマ「絶対彼氏。」#13　【日本語字幕版】　（全20話）</title>
 <desc>第13話　＜出演＞ヨ・ジング　ミナ　ホン・ジョンヒョン　ホン・ソヨン 　ほか
 ▽恋に傷ついた女子が、最強でロマンチックな恋人型ロボットと恋に落ちる!?
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211012/6711293/image/e8310e6759d57d6d9122c30aec9c5855.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211012150000 +0900" stop="20211012153000 +0900" channel="FujiTwo.jp">
