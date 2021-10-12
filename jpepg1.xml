@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211012095500 +0900" stop="20211012100000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211012100000 +0900" stop="20211012115400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
@@ -237,26 +233,6 @@
   <programme start="20211013100000 +0900" stop="20211013114000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20211012095500 +0900" stop="20211012100500 +0900" channel="eTele.jp">
-    <title lang="en">カガクノミカタ</title>
-    <desc lang="en">小中学生を主な対象とした理科教育番組。科学の「見方（ミカタ）」を持つことで、見慣れた事象の中にも実は潜んでいるたくさんの「ふしぎ」が見つかることを伝える。</desc>
-  </programme>
-  <programme start="20211012100500 +0900" stop="20211012101500 +0900" channel="eTele.jp">
-    <title lang="en">学ぼうBOSAI</title>
-    <desc lang="en">自然災害の起こるしくみを正しく理解し、命を守る行動へつなげていく新しい「防災」番組。今回は気象学者の茂木耕作先生と、台風が町に接近したときの備え方を考える。</desc>
-  </programme>
-  <programme start="20211012101500 +0900" stop="20211012102500 +0900" channel="eTele.jp">
-    <title lang="en">大西泰斗の英会話☆定番レシピ</title>
-    <desc lang="en">誰もが身につけたい英会話の「定番レシピ」をたっぷり紹介。レシピに沿って料理を作るように、決まった表現と会話の流れを覚えれば英会話をもっと楽しめるようになります。</desc>
-  </programme>
-  <programme start="20211012102500 +0900" stop="20211012105000 +0900" channel="eTele.jp">
-    <title lang="en">趣味の園芸</title>
-    <desc lang="en">氷川きよしが株分け・さし木・種まきと、自分の好きな植物を増やすテクニックを名人から学ぶ。失敗しない秘けつあり。後半はミッションで育てたペチュニアのその後を拝見！</desc>
-  </programme>
-  <programme start="20211012105000 +0900" stop="20211012105500 +0900" channel="eTele.jp">
-    <title lang="en">浮世絵EDO-LIFE</title>
-    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！江戸の大人気アイドルが登場。一見同じような顔に見える三美人だが、三者三様の個性が火花を散らす！</desc>
   </programme>
   <programme start="20211012105500 +0900" stop="20211012110000 +0900" channel="eTele.jp">
     <title lang="en">まいにちスクスク</title>
@@ -590,9 +566,25 @@
     <title lang="en">はりきり体育ノ介</title>
     <desc lang="en">体育ができると人生がより楽しくなることを伝える体育番組。今回はとびばこの回転技「台上前転」のできるポイントとできないポイントをわかりやすく伝える。</desc>
   </programme>
-  <programme start="20211012080000 +0900" stop="20211012102500 +0900" channel="NipponTV.jp">
-    <title lang="en">スッキリ</title>
-    <desc lang="en">▽「レジ袋有料」１年意識変わった？効果は▽10月なのにナゼ暑い▽格安で「空き家」を活用▽生出演続々！①話題！NCT127②BE：FIRSTからSOTA</desc>
+  <programme start="20211013101000 +0900" stop="20211013101500 +0900" channel="eTele.jp">
+    <title lang="en">ブレイクッ!</title>
+    <desc lang="en">まじめな学習サイト「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ」で一緒に楽しく学ぼう！おもしろい動画や企画を、体操や歌でアレンジするぞ！今回はＳＤＧｓをテーマにした歌だ！</desc>
+  </programme>
+  <programme start="20211013101500 +0900" stop="20211013102500 +0900" channel="eTele.jp">
+    <title lang="en">大西泰斗の英会話☆定番レシピ</title>
+    <desc lang="en">誰もが身につけたい英会話の「定番レシピ」をたっぷり紹介。レシピに沿って料理を作るように、決まった表現と会話の流れを覚えれば英会話をもっと楽しめるようになります。</desc>
+  </programme>
+  <programme start="20211013102500 +0900" stop="20211013105500 +0900" channel="eTele.jp">
+    <title lang="en">デザイン トークス+</title>
+    <desc lang="en">今回のテーマは「整える」。デザインスタジオ「トネリコ」の米谷ひろしさん、君塚賢さん、増子由美さんをゲストに迎え、日本人が育んできた「整える」哲学を探求します。</desc>
+  </programme>
+  <programme start="20211013105500 +0900" stop="20211013110000 +0900" channel="eTele.jp">
+    <title lang="en">まいにちスクスク</title>
+    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  </programme>
+  <programme start="20211013110000 +0900" stop="20211013112500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">新米のおいしい季節！今回は、ご飯を愛してやまない料理研究家のしらいのりこさんが、旬のごぼうと里芋を使った「ご飯がすすむおかず」を、２日間にわたって紹介します！</desc>
   </programme>
   <programme start="20211012102500 +0900" stop="20211012113000 +0900" channel="NipponTV.jp">
     <title lang="en">バゲット</title>
@@ -683,10 +675,10 @@
     <title lang="en">スッキリ</title>
     <desc lang="en">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
   </programme>
-<programme start="20211012095500 +0900" stop="20211012102500 +0900" channel="Asahi.jp">
-  <title lang="en">じゅん散歩</title>
-  <desc lang="en">三代目散歩人・高田純次が「西川口」を散策▽映像博物館で新感覚スポーツ体験▽市町村まで！注文殺到の地図パズル▽埼玉県有数の繁華街で巨大鉄鍋料理を堪能</desc>
-</programme>
+  <programme start="20211013102500 +0900" stop="20211013113000 +0900" channel="NipponTV.jp">
+    <title lang="en">バゲット</title>
+    <desc lang="en">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
+  </programme>
 <programme start="20211012102500 +0900" stop="20211012130000 +0900" channel="Asahi.jp">
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">緊迫‼習主席“台湾統一を”「上陸作戦」映像公開…バイデン政権は窮地？▽ＩＴ企業が続々移転…米シリコンバレー異変▽レバノン全土で停電…燃料価格高騰で大混乱(他)</desc>
@@ -808,9 +800,9 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
   <title lang="en">じゅん散歩</title>
   <desc lang="en">三代目散歩人・高田純次が「鳩ヶ谷」を散策▽アクセス抜群！埼玉県の人気住宅街▽ＮＢＡ選手・八村塁にまさかの遭遇！？▽宙を舞うトランポリンの華麗な空中技</desc>
 </programme>
-<programme start="20211012095500 +0900" stop="20211012102500 +0900" channel="TBS2.jp">
-  <title lang="en">Let's!美バディ</title>
-  <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストは 若手女優 飯沼愛★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
+<programme start="20211013102500 +0900" stop="20211013130000 +0900" channel="Asahi.jp">
+  <title lang="en">大下容子ワイド!スクランブル</title>
+  <desc lang="en">スタジオにそろった各年代の気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！番組公式ＨＰでみなさんの質問受付中！</desc>
 </programme>
 <programme start="20211012102500 +0900" stop="20211012135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
@@ -897,6 +889,10 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
 <programme start="20211013095500 +0900" stop="20211013102500 +0900" channel="TBS2.jp">
   <title lang="en">Let's!美バディ</title>
   <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストは 若手女優 飯沼愛★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
+</programme>
+<programme start="20211013102500 +0900" stop="20211013135500 +0900" channel="TBS2.jp">
+  <title lang="en">ひるおび!</title>
+  <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
 <programme start="20211012092600 +0900" stop="20211012111300 +0900" channel="TVTokyo.jp">
   <title lang="en">なないろ日和!</title>
@@ -1159,14 +1155,6 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
   <title lang="en">ノンストップ!</title>
   <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
-<programme start="20211012093000 +0900" stop="20211012100000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211012100000 +0900" stop="20211012103000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20211012103000 +0900" stop="20211012110000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
@@ -1362,6 +1350,14 @@ by.Thierry Lang, Heiri Kanzig, Andi Pupato</desc>
 <programme start="20211013100000 +0900" stop="20211013103000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211013103000 +0900" stop="20211013110000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211013110000 +0900" stop="20211013115500 +0900" channel="Tokyo MX">
+  <title lang="en">独孤皇后〜乱世に咲く花〜</title>
+  <desc lang="en">古代中国史上、夫に側妃を持たせなかったただ一人の皇后と、その夫である隋の初代皇帝が織り成す、夫婦の生涯をかけた愛の物語！</desc>
 </programme>
 <programme start="20211011211000 +0900" stop="20211012005000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第16戦トルコGP 決勝</title>
@@ -1627,7 +1623,7 @@ https://otn.fujitv.co.jp
 <programme start="20211012103000 +0900" stop="20211012110000 +0900" channel="FujiOne.jp">
 <title lang="en">パチスロ（旅） #342</title>
 <desc>＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211012/6678324/image/eea1a4d4e6dd831b2e4d56ec9a98a06a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211012110000 +0900" stop="20211012121000 +0900" channel="FujiOne.jp">
