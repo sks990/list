@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211014020400 +0900" stop="20211014030400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">空からクルージング特別編</title>
-    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。</desc>
-  </programme>
   <programme start="20211014030400 +0900" stop="20211014040400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像詩</title>
     <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
@@ -293,6 +289,10 @@
   <programme start="20211015021500 +0900" stop="20211015031500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、オーストリア・ウィーンを旅する。</desc>
+  </programme>
+  <programme start="20211015031500 +0900" stop="20211015041500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
   </programme>
   <programme start="20211014010000 +0900" stop="20211014053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -718,10 +718,14 @@
     <title lang="en">川島・山内のマンガ沼</title>
     <desc lang="en">川島の熱烈オファーが遂に！「定額制夫のこづかい万歳」吉本浩二先生がスタジオ降臨！奥様に生電話！こづかい交渉の結末やいかに！？</desc>
   </programme>
-<programme start="20211014025100 +0900" stop="20211014031100 +0900" channel="Asahi.jp">
-  <title lang="en">ぺこぱポジティブNEWS</title>
-  <desc lang="en">ニュースを見て“ほっこり”したことありませんか？ぺこぱがポジティブなNEWSだけをお届けします。一日の終わりにあなたをほっこりと温める至福の20分！</desc>
-</programme>
+  <programme start="20211015032900 +0900" stop="20211015035900 +0900" channel="NipponTV.jp">
+    <title lang="en">NFL倶楽部</title>
+    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
+  </programme>
+  <programme start="20211015035900 +0900" stop="20211015042900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
+  </programme>
 <programme start="20211014031100 +0900" stop="20211014045500 +0900" channel="Asahi.jp">
   <title lang="en">世界バドミントン国別対抗戦2021</title>
   <desc lang="en">連覇に挑む女子日本代表がグループリーグ１位通過をかけ強豪インドネシアと対戦！注目の新ペアが誕生！再び「バドミントン世界最強国」の称号を呼び戻すことが出来るか！？</desc>
@@ -835,10 +839,9 @@
   <title lang="en">野田レーザーの逆算</title>
   <desc lang="en">“理詰めマニア”が集う秘密の夜会▼「ひらめき」の野田クリスタルか⁉「知性」のカズレーザーか⁉▼二人が競い合うのは「答え」から「問題文」を導き出すという逆算思考！</desc>
 </programme>
-<programme start="20211014020500 +0900" stop="20211014034500 +0900" channel="TBS2.jp">
-  <title lang="en">スジナシシアターVol.14</title>
-  <desc lang="en">変幻自在の女優・広末涼子がスジナシに挑む！
-今回の設定は「空港」出会い・別れが生まれるこの地で一体どんなドラマがうまれるのか？</desc>
+<programme start="20211015031100 +0900" stop="20211015045500 +0900" channel="Asahi.jp">
+  <title lang="en">世界バドミントン国別対抗戦2021</title>
+  <desc lang="en">キャプテン桃田賢斗率いるバドミントン日本代表が「最強国」の称号を取り戻す戦いに挑む！男子は王座奪還へ！女子は連覇へ！国の威信をかけたバドミントン世界最強国決定戦</desc>
 </programme>
 <programme start="20211014034500 +0900" stop="20211014043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -924,13 +927,9 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211014023500 +0900" stop="20211014031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">きのう何食べた?</title>
-  <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念ＳＰ▼賢二（内野）の不安的中？研修生＆小日向（山本耕史）に迫られる史朗（西島）まさかのモテ期到来！？</desc>
-</programme>
-<programme start="20211014031500 +0900" stop="20211014033000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">異世界が舞台の新作アニメ！「進化の実〜知らないうちに勝ち組人生〜」をご紹介。エリス・マクレーヌ役の西尾夕香とルルネ役の西本りみが特別講師として登場！！</desc>
+<programme start="20211015034500 +0900" stop="20211015043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211014033000 +0900" stop="20211014040000 +0900" channel="TVTokyo.jp">
   <title lang="en">おしゃ家ソムリエおしゃ子!</title>
@@ -1086,13 +1085,22 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
-<programme start="20211014021500 +0900" stop="20211014031000 +0900" channel="FujiTV.jp">
-  <title lang="en">アートフルワールド 〜たぶん、すばらしき芸術の世界〜</title>
-  <desc lang="en">「世界はアートに満ちている。」をテーマに、アートの世界を様々な視点から紹介し、その多種多様な楽しみ方も合わせてお伝えする</desc>
-</programme>
-<programme start="20211014031000 +0900" stop="20211014034000 +0900" channel="FujiTV.jp">
+<programme start="20211015030500 +0900" stop="20211015033500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
+</programme>
+<programme start="20211015033500 +0900" stop="20211015035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">ある日急に勝ち組になった高校生の物語！「進化の実〜知らないうちに勝ち組人生〜」をご紹介。今夜もエリス・マクレーヌ役の西尾夕香とルルネ役の西本りみが登場！！</desc>
+</programme>
+<programme start="20211015035000 +0900" stop="20211015035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211015035500 +0900" stop="20211015040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ラビッツ インベージョン</title>
+  <desc lang="en">安全と静けさを求めてひげラビッツがドームを発明。ところがこのドーム、スイッチひとつでとっても楽しい装置になってしまう！？</desc>
 </programme>
 <programme start="20211014034000 +0900" stop="20211014040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1186,13 +1194,17 @@
   <title lang="en">いいすぽ!</title>
   <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！人気格闘ゲーム！「グランブルーファンタジー　ヴァーサス」トーナメント第二弾！！ＭＣ：バカリズム</desc>
 </programme>
-<programme start="20211014023500 +0900" stop="20211014030000 +0900" channel="Tokyo MX">
-  <title lang="en">せとチャレ!STU48</title>
-  <desc lang="en">「せとチャレ」がお送りする、秋のスポーツスペシャル！ロンドン、東京と2度のオリンピック出場を果たした100メートルハードルの木村文子選手が特別出演！</desc>
+<programme start="20211015032800 +0900" stop="20211015035800 +0900" channel="FujiTV.jp">
+  <title lang="en">Tune</title>
+  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
-<programme start="20211014030000 +0900" stop="20211014033000 +0900" channel="Tokyo MX">
+<programme start="20211015035800 +0900" stop="20211015040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20211015040000 +0900" stop="20211015045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211014033000 +0900" stop="20211014040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1387,6 +1399,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211015023500 +0900" stop="20211015030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211015030500 +0900" stop="20211015033400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211015033400 +0900" stop="20211015040000 +0900" channel="Tokyo MX">
+  <title lang="en">白黒アンジャッシュ</title>
+  <desc lang="en">アンジャッシュ児嶋一哉がチバテレにゲストを招いて、じっくり話を聞いていくトークバラエティ！</desc>
+</programme>
+<programme start="20211015040000 +0900" stop="20211015043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1596,7 +1620,7 @@ https://otn.fujitv.co.jp
 ＜主宰＞兵動大樹
 ＜ゲスト＞横山ルリカ
 ＜怪員（怪談師）＞田中俊行　BEN　小森躅也
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211013/6678364/image/ac9066eec9076a6128303aed6d916e8e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211014040000 +0900" stop="20211014050000 +0900" channel="FujiOne.jp">
