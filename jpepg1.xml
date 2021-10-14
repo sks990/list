@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211015021500 +0900" stop="20211015031500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、オーストリア・ウィーンを旅する。</desc>
-  </programme>
   <programme start="20211015031500 +0900" stop="20211015041500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
@@ -305,6 +301,10 @@
   <programme start="20211016025700 +0900" stop="20211016035700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ポーランド・クラクフを旅する。</desc>
+  </programme>
+  <programme start="20211016035700 +0900" stop="20211016040800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した世界遺産「春日大社」。</desc>
   </programme>
   <programme start="20211015003000 +0900" stop="20211015053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -638,14 +638,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211015025900 +0900" stop="20211015032900 +0900" channel="NipponTV.jp">
-    <title lang="en">川島・山内のマンガ沼</title>
-    <desc lang="en">川島の熱烈オファーが遂に！「定額制夫のこづかい万歳」吉本浩二先生がスタジオ降臨！奥様に生電話！こづかい交渉の結末やいかに！？</desc>
-  </programme>
-  <programme start="20211015032900 +0900" stop="20211015035900 +0900" channel="NipponTV.jp">
-    <title lang="en">NFL倶楽部</title>
-    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
-  </programme>
   <programme start="20211015035900 +0900" stop="20211015042900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
@@ -759,10 +751,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-<programme start="20211015025100 +0900" stop="20211015031100 +0900" channel="Asahi.jp">
-  <title lang="en">野田レーザーの逆算</title>
-  <desc lang="en">“理詰めマニア”が集う秘密の夜会▼「ひらめき」の野田クリスタルか⁉「知性」のカズレーザーか⁉▼二人が競い合うのは「答え」から「問題文」を導き出すという逆算思考！</desc>
-</programme>
 <programme start="20211015031100 +0900" stop="20211015045500 +0900" channel="Asahi.jp">
   <title lang="en">世界バドミントン国別対抗戦2021</title>
   <desc lang="en">女子準々決勝「日本vsインド」日本代表は新ペアを結成して連覇に挑戦！３大会ぶりの優勝を目指す男子はグループリーグ最終戦！主将桃田賢斗がマレーシアのライバルと対決！</desc>
@@ -865,10 +853,6 @@
   <title lang="en">世界バドミントン国別対抗戦2021</title>
   <desc lang="en">キャプテン桃田賢斗率いるバドミントン日本代表が「最強国」の称号を取り戻す戦いに挑む！男子は王座奪還へ！女子は連覇へ！国の威信をかけたバドミントン世界最強国決定戦</desc>
 </programme>
-<programme start="20211015023500 +0900" stop="20211015034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
-</programme>
 <programme start="20211015034500 +0900" stop="20211015043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
@@ -948,22 +932,17 @@
   <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
   <desc lang="en">◆ＳＴＡＧＥ３「偽りのクラスメイト」▼アッシュフォード学園に戻ったルルーシュはテロリストの一味であるカレンと対面する。正体を知られてはいないかと探り合う二人は…</desc>
 </programme>
-<programme start="20211015023500 +0900" stop="20211015030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20211016031000 +0900" stop="20211016032200 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20211015030500 +0900" stop="20211015033500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
+<programme start="20211016032200 +0900" stop="20211016040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211015033500 +0900" stop="20211015035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">ある日急に勝ち組になった高校生の物語！「進化の実〜知らないうちに勝ち組人生〜」をご紹介。今夜もエリス・マクレーヌ役の西尾夕香とルルネ役の西本りみが登場！！</desc>
-</programme>
-<programme start="20211015035000 +0900" stop="20211015035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20211016040000 +0900" stop="20211016041500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211015035500 +0900" stop="20211015040500 +0900" channel="TVTokyo.jp">
   <title lang="en">ラビッツ インベージョン</title>
@@ -1124,13 +1103,19 @@
   <title lang="en">一夜づけ</title>
   <desc lang="en">“進化”がキーワードの新作アニメ！「進化の実〜知らないうちに勝ち組人生〜」をご紹介！今夜もゲストにエリス・マクレーヌ役の西尾夕香とルルネ役の西本りみが登場！</desc>
 </programme>
-<programme start="20211015025800 +0900" stop="20211015032800 +0900" channel="FujiTV.jp">
-  <title lang="en">いいすぽ!</title>
-  <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！人気格闘ゲーム！「グランブルーファンタジー　ヴァーサス」トーナメント第二弾！！ＭＣ：バカリズム</desc>
+<programme start="20211016031500 +0900" stop="20211016034500 +0900" channel="TVTokyo.jp">
+  <title lang="en">音流〜ONRYU〜</title>
+  <desc lang="en">▼スタジオゲストは、村上佳佑が登場！▼「酒場サーキット」今回のゲストは、ベリーグッドマン(Rover)　後編！</desc>
 </programme>
-<programme start="20211015032800 +0900" stop="20211015035800 +0900" channel="FujiTV.jp">
-  <title lang="en">Tune</title>
-  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
+<programme start="20211016034500 +0900" stop="20211016035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211016035000 +0900" stop="20211016040500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">あなたの生活をより楽しく！より快適に！
+ワクワクする商品を厳選して紹介するショッピング番組。</desc>
 </programme>
 <programme start="20211015035800 +0900" stop="20211015040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1216,13 +1201,9 @@
   <title lang="en">新しいカギ</title>
   <desc lang="en">最も実力があり人気も兼ね備えた３組が“今”を取り入れた旬なコント、ゲーム、ロケ、音楽企画まで、地上波テレビだからこそできる幅広いジャンルの笑いを届ける</desc>
 </programme>
-<programme start="20211015023500 +0900" stop="20211015030500 +0900" channel="Tokyo MX">
+<programme start="20211016035000 +0900" stop="20211016042000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211015030500 +0900" stop="20211015033400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
 <programme start="20211015033400 +0900" stop="20211015040000 +0900" channel="Tokyo MX">
   <title lang="en">白黒アンジャッシュ</title>
@@ -1405,6 +1386,22 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211016023500 +0900" stop="20211016030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211016030500 +0900" stop="20211016033500 +0900" channel="Tokyo MX">
+  <title lang="en">旅猫ロマン</title>
+  <desc lang="en">古都　京都　後編</desc>
+</programme>
+<programme start="20211016033500 +0900" stop="20211016035000 +0900" channel="Tokyo MX">
+  <title lang="en">ふるさと百景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211016035000 +0900" stop="20211016040000 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211016040000 +0900" stop="20211016043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1618,7 +1615,7 @@ https://otn.fujitv.co.jp
 <title lang="en">オールナイトe！ season9　〜1時間版 Part3〜</title>
 <desc>薄着の女子たちによる新世代ゲーム生実況番組「オールナイトe！ season9」1時間版！
 ＜出演＞RaMu　片岡沙耶　池尻愛梨　松嶋えいみ　伊織いお
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211014/6678386/image/a8d97b35e69aa1c657c1c6cac0c562f9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211015040000 +0900" stop="20211015050000 +0900" channel="FujiOne.jp">
