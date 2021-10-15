@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211015204500 +0900" stop="20211015210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20211015210000 +0900" stop="20211015220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">感染抑止・イスラエルワクチンと検査強化で日本も抗原検査キット販売始まるが▽ＳＮＳ広がる児童への性被害加害者の心理に迫る▽佳境を迎えるプロ野球優勝争いマジックは…</desc>
@@ -160,11 +156,11 @@
   </programme>
   <programme start="20211016060000 +0900" stop="20211016063000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
+    <desc lang="en">▼緊急事態宣言解除から２週間　飲食は？旅行は？▼紀伊半島豪雨から１０年　復興を支え続けてきた男性の思い</desc>
   </programme>
   <programme start="20211016063000 +0900" stop="20211016070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">【６時半台】最新のニュースをコンパクトに！チェックしておきたい国内外の動き。気象情報など</desc>
+    <desc lang="en">▼ミャンマー音楽を動画共有サイトで配信！軍の弾圧受ける現地市民を日本から応援▼肌や髪の色素少ない「アルビノ」に理解を！アフリカのパラ選手と日本人高校生の絆</desc>
   </programme>
   <programme start="20211016070000 +0900" stop="20211016073000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
@@ -314,13 +310,9 @@
     <title lang="en">正義の天秤</title>
     <desc lang="en">「元外科医」の肩書を持つ天才弁護士が、えん罪の悲劇に苦しみながら、戦力外チームを率いて数々の難事件の真相を暴き、事件に関わる人々の魂を救う法廷推理ミステリー。</desc>
   </programme>
-  <programme start="20211015204500 +0900" stop="20211015210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20211015210000 +0900" stop="20211015215500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">１４００年の歴史を持つ雅楽の世界に迫る！その歴史や珍しい演目の数々、舞台に秘められた世界観などを、まとめてまるっとご紹介。普段は入れない雅楽の中心地への潜入も！</desc>
+  <programme start="20211016215000 +0900" stop="20211016222000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">有田P おもてなす</title>
+    <desc lang="en">今夜は特別編！四千頭身がＺ世代にバズるネタに挑戦します。ゲストは人気インフルエンサー、ヴァンゆんのゆん、景井ひな、もーりーの３人。ＳＮＳで話題の人たちも続々登場</desc>
   </programme>
   <programme start="20211015215500 +0900" stop="20211015220000 +0900" channel="eTele.jp">
     <title lang="en">365日の献立日記</title>
@@ -542,9 +534,17 @@
     <title lang="en">すくすく子育て</title>
     <desc lang="en">「経済的負担」や「仕事と治療の両立」「正しい情報の選び方」「メンタルの不調」「見えないゴール」など不妊治療に関するお悩みや疑問について考える。</desc>
   </programme>
-  <programme start="20211015205400 +0900" stop="20211015210000 +0900" channel="NipponTV.jp">
-    <title lang="en">まもなく金曜ロードショー</title>
-    <desc lang="en">ルパン三世アニメ化５０周年記念企画★ＴＶシリーズ全２７６話の中から視聴者投票上位4話に選ばれた作品のみどころをお届け！</desc>
+  <programme start="20211016213000 +0900" stop="20211016215500 +0900" channel="eTele.jp">
+    <title lang="en">ウワサの保護者会</title>
+    <desc lang="en">尾木ママが、子育てや教育の悩み・疑問について、保護者と本音で語り合う番組。今回は、退屈に感じがちな勉強が、面白くなるためのヒントを紹介する。</desc>
+  </programme>
+  <programme start="20211016215500 +0900" stop="20211016220000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする「ワンポイント介護」４回目は「同じ物をいくつも買ってしまう」。同じ物を求めるのはその時々本人にとって「必要」なものだから</desc>
+  </programme>
+  <programme start="20211016220000 +0900" stop="20211016225000 +0900" channel="eTele.jp">
+    <title lang="en">SWITCHインタビュー 達人達(たち)</title>
+    <desc lang="en">かつお節づくりの職人として国内外でいま注目の瀬﨑祐介がかねてからファンだった書道家・武田双雲にラブコール！伝統を継承しながら新しいことに挑戦する者同士が響きあう</desc>
   </programme>
   <programme start="20211015210000 +0900" stop="20211015225400 +0900" channel="NipponTV.jp">
     <title lang="en">金曜ロードショー</title>
@@ -668,14 +668,14 @@
     <title lang="en">1億3000万人のSHOWチャンネル</title>
     <desc lang="en">櫻井局長の名店レシピに柳楽優弥＆加藤シゲアキが来店！神保町の名店・北京亭の中華風カレーの再現に挑む！▽杏の人生チャート！▽山田涼介がさんまを焼く神様を直撃取材！</desc>
   </programme>
-<programme start="20211015180000 +0900" stop="20211015214800 +0900" channel="Asahi.jp">
-  <title lang="en">ミュージックステーション</title>
-  <desc lang="en">V6解散前ラスト▽松田聖子・LiSA・King Gnu・JUMP×松岡修造▽郷ひろみ５択▽なにわデビュー曲▽35年間ディズニー名曲▽椎名林檎・Perfume・三浦大知ら一夜限り特別演出!!</desc>
-</programme>
-<programme start="20211015214800 +0900" stop="20211015215400 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">民族色鮮やかな辺境の道・中国雲南省</desc>
-</programme>
+  <programme start="20211016215400 +0900" stop="20211016220000 +0900" channel="NipponTV.jp">
+    <title lang="en">Creator’s Space</title>
+    <desc lang="en">人気クリエイターの仕事空間を訪ねて、職場や道具やクリエイティブのこだわりを伺う。そこで「オリジナル作品」の創作を依頼。…作品のテーマは［SPACE/スペース］</desc>
+  </programme>
+  <programme start="20211016220000 +0900" stop="20211016225400 +0900" channel="NipponTV.jp">
+    <title lang="en">二月の勝者 -絶対合格の教室-</title>
+    <desc lang="en">中学受験界に舞い降りた最強で最悪の塾講師、黒木蔵人。過激な言動で常に周囲を圧倒する。現代の中学受験のリアルを描き、そこに見えてくる家族問題や教育問題に切り込む。</desc>
+  </programme>
 <programme start="20211015215400 +0900" stop="20211015231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">“下げ止まり”兆候も…コロナ感染の最新状況▽入院２カ月の患者も…奮闘続く医療の現場▽台風から電力生み出す最新技術▽最後の闘い…村上茉愛(他)</desc>
@@ -719,7 +719,7 @@
 </programme>
 <programme start="20211016030000 +0900" stop="20211016052000 +0900" channel="Asahi.jp">
   <title lang="en">世界バドミントン国別対抗戦2021</title>
-  <desc lang="en">キャプテン桃田賢斗率いるバドミントン日本代表が「最強国」の称号を取り戻す戦いに挑む！男子は王座奪還へ！女子は連覇へ！国の威信をかけたバドミントン世界最強国決定戦</desc>
+  <desc lang="en">男子準々決勝「日本vs韓国」キャプテン・桃田賢斗率いるバドミントン日本代表が“最強国”の称号を取り戻す戦いに挑む！準決勝進出をかけ、宿命のライバル韓国と対戦！</desc>
 </programme>
 <programme start="20211016052000 +0900" stop="20211016055000 +0900" channel="Asahi.jp">
   <title lang="en">日本のチカラ</title>
@@ -836,6 +836,10 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
 <programme start="20211016205400 +0900" stop="20211016215500 +0900" channel="Asahi.jp">
   <title lang="en">サタデーステーション</title>
   <desc lang="en">“制限緩和”進む…飲食店“時短”解除も▽２年ぶり対面で学園祭▽原油高騰で影響拡大▽今年のインフルは？ワクチン接種の注意点▽進化する調理ロボ▽プロ野球(他)</desc>
+</programme>
+<programme start="20211016215500 +0900" stop="20211016222500 +0900" channel="Asahi.jp">
+  <title lang="en">あざとくて何が悪いの?</title>
+  <desc lang="en">猛毒注意‼山里亮太×田中みな実×弘中綾香という危険すぎる３人が“あざとい男女”の言動について徹底トーク‼</desc>
 </programme>
 <programme start="20211015190000 +0900" stop="20211015220000 +0900" channel="TBS2.jp">
   <title lang="en">ザ・ベストワン</title>
@@ -981,13 +985,14 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">世界ふしぎ発見!</title>
   <desc lang="en">100年に一度の大発見！エジプト発掘最前線！黄金都市の発見から見えてくる古代の市民生活とは▽新発見の棺を特別大公開▽ファラオのパレード！新博物館のロイヤルルーム</desc>
 </programme>
-<programme start="20211015195500 +0900" stop="20211015214800 +0900" channel="TVTokyo.jp">
-  <title lang="en">らせんの迷宮</title>
-  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と涙もろい熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
+<programme start="20211016215400 +0900" stop="20211016220000 +0900" channel="TBS2.jp">
+  <title lang="en">和心百景</title>
+  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
+今回は、栃木『益子焼』　笛木優子</desc>
 </programme>
-<programme start="20211015214800 +0900" stop="20211015215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">インテリア日和</title>
-  <desc lang="en">毎回テーマをもってプロのインテリアコーディネーターがその部屋を魅力ある空間に大改造します。</desc>
+<programme start="20211016220000 +0900" stop="20211016232400 +0900" channel="TBS2.jp">
+  <title lang="en">新・情報7daysニュースキャスター</title>
+  <desc lang="en">選挙戦突入…コロナ＆経済は？◆山梨放火・逮捕の少年「長女に好意」◆どこ行く？感染急減で高まる旅行気運◆直撃！世界的ＤＪスティーヴ・アオキ◆爆誕！東スポ餃子の秘密</desc>
 </programme>
 <programme start="20211015215400 +0900" stop="20211015220000 +0900" channel="TVTokyo.jp">
   <title lang="en">わたしのヒュッゲ</title>
@@ -1169,9 +1174,16 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">出没!アド街ック天国</title>
   <desc lang="en">まるでニコタマ!?都会的な街に大変貌「千葉　流山」▼千葉随一のラーメン店＆最高峰そば＆一流も通うイタリアン▼箱買い爆安パン＆仙人の有機野菜▼レトロ鉄道奮闘秘話</desc>
 </programme>
-<programme start="20211015190000 +0900" stop="20211015215800 +0900" channel="FujiTV.jp">
-  <title lang="en">ウワサのお客さま</title>
-  <desc lang="en">ルパンの娘軍団が横浜中華街の最高級食べ放題に挑戦▽日本一の爆買い爆食女子高生▽松屋を愛するＭ－１ブレイク芸人▽ＤＩＹ美女▽せいろタワーを積み上げる声優</desc>
+<programme start="20211016215400 +0900" stop="20211016220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">土曜名馬座</title>
+  <desc lang="en">◆第二百八夜「海を越えて」
+人々の記憶に残る、名馬たちの活躍を
+当時のエピソードなどを交えて紹介する。
+俳優・仲村トオルが語る名馬物語………</desc>
+</programme>
+<programme start="20211016220000 +0900" stop="20211016223000 +0900" channel="TVTokyo.jp">
+  <title lang="en">新美の巨人たち</title>
+  <desc lang="en">おどろおどろしい異質の迫力を放つ浮世絵はなぜ描かれた？悪役が活躍する大スペクタクルの魅力と誕生の謎に中川翔子が迫る▼天才・国芳だからこそ生まれた驚きのアイデア</desc>
 </programme>
 <programme start="20211015215800 +0900" stop="20211015225200 +0900" channel="FujiTV.jp">
   <title lang="en">人志松本の酒のツマミになる話</title>
@@ -1311,14 +1323,6 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
 <programme start="20211016210000 +0900" stop="20211016231000 +0900" channel="FujiTV.jp">
   <title lang="en">土曜プレミアム</title>
   <desc lang="en">天海祐希は女子高生になりきれる？ロバート秋山が作ったローカルＣＭどっち？劇団ひとりが相田みつをに！児嶋＆小木が世紀のマジックショー▽ハリセンＶＳ爆破</desc>
-</programme>
-<programme start="20211015200000 +0900" stop="20211015210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">注目！“リベンジ消費”高級な時計に高級車が売り上げ好調⁉▼ＭＸで“鬼滅新章”放送スタート！ブーム再び⁉▼きょうから「東京メガイルミ」が点灯！</desc>
-</programme>
-<programme start="20211015210000 +0900" stop="20211015215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">デーブ・スペクター＆初登場！ライター速水健朗！金曜テーマは「エンタメ・遊び」。【DANDY Salon】大人が知っておくべき話題をトーク＆【DANDY Academy】テレビ表層批評</desc>
 </programme>
 <programme start="20211015215400 +0900" stop="20211015220000 +0900" channel="Tokyo MX">
   <title lang="en">キミとフィットボクシング Fit Boxing Animation</title>
@@ -1540,6 +1544,14 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">キングオブモルックのモルック大作戦!!</title>
   <desc lang="en">おそらく世界初のモルック番組！新ＭＣにパンサー向井！挑戦チームはパンサー尾形＆菅。モルック未経験の向井も急遽参戦！尾形の新キャラ誕生に、衝撃ショット連発‼</desc>
 </programme>
+<programme start="20211016213000 +0900" stop="20211016220000 +0900" channel="Tokyo MX">
+  <title lang="en">音ボケPOPS</title>
+  <desc lang="en">DA PUMPからTOMOとKIMIがゲストに登場!MC中川翔子と音ボケファミリー庄司智春（品川庄司）、高田夏帆が新たな一面を深堀り!2人のダンスが歴史が明らかに!</desc>
+</programme>
+<programme start="20211016220000 +0900" stop="20211016223000 +0900" channel="Tokyo MX">
+  <title lang="en">最果てのパラディン</title>
+  <desc lang="en">死者の街で生きた少年は聖騎士（パラディン）への道を歩み出す</desc>
+</programme>
 <programme start="20211014230000 +0900" stop="20211015010000 +0900" channel="FujiNext.jp">
 <title lang="en">キミの音楽　powered by smash．第1回！武部聡志・クレイ・秋本帆華</title>
 <desc>キミの音楽powered by smash．第1回放送！miwa・井上苑子・川崎鷹也・足立佳奈・さなり・崎山蒼志・當山みれい・もさを。武部聡志・クレイ・秋本帆華
@@ -1666,7 +1678,7 @@ https://otn.fujitv.co.jp
 <programme start="20211015210000 +0900" stop="20211015220000 +0900" channel="FujiNext.jp">
 <title lang="en">渡辺貞夫 70thアニバーサリープレゼンツ　至宝のスペシャルライブベスト10</title>
 <desc>日本を代表するトップミュージシャン、渡辺貞夫の50th・60th・65thコンサートから厳選した10曲を放送！　〜渋谷・文化村オーチャードホール
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211015/6838859/image/7ecf2b49e50e52139345491ea62ea0e1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211015220000 +0900" stop="20211015233000 +0900" channel="FujiNext.jp">
@@ -2167,7 +2179,7 @@ https://otn.fujitv.co.jp
 <title lang="en">何するカトゥーン？　#3　　KAT-TUN15周年記念番組！地上波放送分一挙放送</title>
 <desc>#3　3人が協力プレイでボウリングに挑戦！　▽♪歌唱曲「HEART BEAT」「YOU」「Sweet Birthday」
 ＜出演＞KAT-TUN
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211015/6882676/image/99133af35fb46def496ecaa0f9444317.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211015215500 +0900" stop="20211015222000 +0900" channel="FujiTwo.jp">
@@ -2380,7 +2392,7 @@ https://otn.fujitv.co.jp
 <programme start="20211015210000 +0900" stop="20211015220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211015/6705642/image/800397352b8ba0e91df3c9c40f96c4dc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211015220000 +0900" stop="20211015234000 +0900" channel="kbsworld.jp">
