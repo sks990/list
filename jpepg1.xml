@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211016025700 +0900" stop="20211016035700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ポーランド・クラクフを旅する。</desc>
-  </programme>
   <programme start="20211016035700 +0900" stop="20211016040800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像詩</title>
     <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した世界遺産「春日大社」。</desc>
@@ -293,6 +289,10 @@
   <programme start="20211017021400 +0900" stop="20211017035500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">100分de石ノ森章太郎</title>
     <desc lang="en">放送開始から５０周年を迎えた「仮面ライダー」。原作者である、天才漫画家・石ノ森章太郎の回をアンコール放送。その作品の可能性を気鋭の論客たちが徹底的に論じ合う。</desc>
+  </programme>
+  <programme start="20211017035500 +0900" stop="20211017041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">魂のタキ火</title>
+    <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
   </programme>
   <programme start="20211016005000 +0900" stop="20211016053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -636,10 +636,10 @@
     <title lang="en">Hulu傑作シアター</title>
     <desc lang="en">特集は大人気『シカゴ』シリーズ第3弾！医師たちの活躍と葛藤を描く救命医療ドラマ「シカゴ・メッド」▼「TharnType／ターン×タイプ」第1話を放送</desc>
   </programme>
-<programme start="20211016024000 +0900" stop="20211016030000 +0900" channel="Asahi.jp">
-  <title lang="en">あるある土佐カンパニー2</title>
-  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ新番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
-</programme>
+  <programme start="20211017033000 +0900" stop="20211017052500 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">10月もポシュレはお得満載！メガヒット脱毛器＆美顔器、高機能シャワーヘッド、バカ売れダイヤ、そろそろ欲しい羽毛布団からトイレリフォームまで！ももクロ最新情報も！</desc>
+  </programme>
 <programme start="20211016030000 +0900" stop="20211016052000 +0900" channel="Asahi.jp">
   <title lang="en">世界バドミントン国別対抗戦2021</title>
   <desc lang="en">男子準々決勝「日本vs韓国」キャプテン・桃田賢斗率いるバドミントン日本代表が“最強国”の称号を取り戻す戦いに挑む！準決勝進出をかけ、宿命のライバル韓国と対戦！</desc>
@@ -811,14 +811,6 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">世界バドミントン国別対抗戦2021</title>
   <desc lang="en">キャプテン桃田賢斗率いるバドミントン日本代表が「最強国」の称号を取り戻す戦いに挑む！男子は王座奪還へ！女子は連覇へ！国の威信をかけたバドミントン世界最強国決定戦</desc>
 </programme>
-<programme start="20211016024000 +0900" stop="20211016031000 +0900" channel="TBS2.jp">
-  <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
-  <desc lang="en">◆ＳＴＡＧＥ３「偽りのクラスメイト」▼アッシュフォード学園に戻ったルルーシュはテロリストの一味であるカレンと対面する。正体を知られてはいないかと探り合う二人は…</desc>
-</programme>
-<programme start="20211016031000 +0900" stop="20211016032200 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!プラス</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
-</programme>
 <programme start="20211016032200 +0900" stop="20211016040000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
@@ -957,22 +949,9 @@ Hey! Say! JUMP知念侑李からのミッション『体操フィジカルバト
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211016023000 +0900" stop="20211016030000 +0900" channel="TVTokyo.jp">
-  <title lang="en">流派-R since2001</title>
-  <desc lang="en">▼R-Feature:渋谷レゲエ祭〜レゲエ歌謡祭2021〜▼VIEWS:ONE　in　a　Billion▼MY　CLASSICS　new:サイプレス上野　Rei🄫hi</desc>
-</programme>
-<programme start="20211016030000 +0900" stop="20211016031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">“進化”がキーワードの新作アニメ！「進化の実〜知らないうちに勝ち組人生〜」をご紹介！今夜もゲストにエリス・マクレーヌ役の西尾夕香とルルネ役の西本りみが登場！</desc>
-</programme>
-<programme start="20211016031500 +0900" stop="20211016034500 +0900" channel="TVTokyo.jp">
-  <title lang="en">音流〜ONRYU〜</title>
-  <desc lang="en">▼スタジオゲストは、村上佳佑が登場！▼「酒場サーキット」今回のゲストは、ベリーグッドマン(Rover)　後編！</desc>
-</programme>
-<programme start="20211016034500 +0900" stop="20211016035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20211017040000 +0900" stop="20211017050000 +0900" channel="TBS2.jp">
+  <title lang="en">落語研究会</title>
+  <desc lang="en">三遊亭歌武蔵『茶金』</desc>
 </programme>
 <programme start="20211016035000 +0900" stop="20211016040500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1151,9 +1130,13 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
 </programme>
-<programme start="20211016025000 +0900" stop="20211016035000 +0900" channel="FujiTV.jp">
-  <title lang="en">新しいカギ</title>
-  <desc lang="en">最も実力があり人気も兼ね備えた３組が“今”を取り入れた旬なコント、ゲーム、ロケ、音楽企画まで、地上波テレビだからこそできる幅広いジャンルの笑いを届ける</desc>
+<programme start="20211017030500 +0900" stop="20211017031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+</programme>
+<programme start="20211017031500 +0900" stop="20211017050000 +0900" channel="TVTokyo.jp">
+  <title lang="en">サタ☆シネ</title>
+  <desc lang="en">＜ライド・オン！アクション＞ソ連が開発した最新鋭戦闘機を盗み出せ！絶対不可能ミッションに挑む元エリートパイロット。旧冷戦時代が舞台の本格サスペンスアクション大作</desc>
 </programme>
 <programme start="20211016035000 +0900" stop="20211016042000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1285,17 +1268,9 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <title lang="en">SUPER RICH</title>
   <desc lang="en">孤独な女社長のもとに突如現れたのは、子犬系貧乏専門学生！真逆の二人の出会いが、会社の運命を大きく変える！初回から急展開！お金を巡る怒涛の第１話！</desc>
 </programme>
-<programme start="20211016023500 +0900" stop="20211016030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211016030500 +0900" stop="20211016033500 +0900" channel="Tokyo MX">
-  <title lang="en">旅猫ロマン</title>
-  <desc lang="en">古都　京都　後編</desc>
-</programme>
-<programme start="20211016033500 +0900" stop="20211016035000 +0900" channel="Tokyo MX">
-  <title lang="en">ふるさと百景</title>
-  <desc lang="en"> </desc>
+<programme start="20211017031000 +0900" stop="20211017040500 +0900" channel="FujiTV.jp">
+  <title lang="en">FNSドキュメンタリー大賞</title>
+  <desc lang="en">難病ＡＬＳと診断された１人の書道教師。症状の進行に抗い生徒と歩むも道半ばで教壇を去った。不安と苦悩と向き合い、次の目標に向けて歩み始めるまでの１年半を追った。</desc>
 </programme>
 <programme start="20211016035000 +0900" stop="20211016040000 +0900" channel="Tokyo MX">
   <title lang="en">路面電車のある風景</title>
@@ -1502,6 +1477,14 @@ TOKIO松岡＆博多大吉とテイクアウトで家飲み！</desc>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211017030000 +0900" stop="20211017033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211017033000 +0900" stop="20211017040000 +0900" channel="Tokyo MX">
+  <title lang="en">真夜中のおバカ騒ぎ!</title>
+  <desc lang="en">秋は黄昏！クイズ思い出の一品！（後編）</desc>
+</programme>
+<programme start="20211017040000 +0900" stop="20211017043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
