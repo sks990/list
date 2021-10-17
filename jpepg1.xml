@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211017193000 +0900" stop="20211017200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">生きものたちが編み出したスゴい“新ワザ”を大特集！実はその背景には、思いもよらない複雑な事情があったんです。マヌ子ママたちも緊急参戦して、スゴ技誕生の謎に迫る！</desc>
-  </programme>
-  <programme start="20211017200000 +0900" stop="20211017204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">栄一と三井組の三野村は、日本初の銀行設立を巡り、激しい駆け引きを繰り広げる。一方、富岡製糸場に伝習工女が集まらず悩む惇忠は、娘の勇に工女になって欲しいと頼み込む</desc>
-  </programme>
-  <programme start="20211017204500 +0900" stop="20211017205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211017205500 +0900" stop="20211017210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -302,13 +290,17 @@
     <title lang="en">鶴瓶の家族に乾杯</title>
     <desc lang="en">アン　ミカが小江戸情緒あふれる千葉県香取市を舞台にしゃべくり出会い旅を繰り広げる！アポなし旅は初めてと言いつつも、巧みな“口”渉術で出会いを重ねていく。</desc>
   </programme>
-  <programme start="20211017195500 +0900" stop="20211017200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20211018204200 +0900" stop="20211018204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">#NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211017200000 +0900" stop="20211017204500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">郷愁あふれる風景を描き続けた画家、谷内六郎。少年の感性を終生持ち続けた谷内の、懐かしく、ファンタジックで、時に怖い絵を、谷内自身の言葉とともに紹介していく。</desc>
+  <programme start="20211018204500 +0900" stop="20211018210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211018210000 +0900" stop="20211018220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽衆院選公示直前各党党首が討論▽北の海に異変その意外な原因とは▽新型コロナ後遺症の影響で▽感染状況も</desc>
   </programme>
   <programme start="20211017204500 +0900" stop="20211017210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -626,6 +618,18 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">駅の無人化で「移動の自由」が侵害されたとして、車いすユーザー３名がＪＲ九州を提訴。原告の日常と裁判過程の記録を通し、“誰もが生きやすい社会”について考えます。</desc>
   </programme>
+  <programme start="20211018203000 +0900" stop="20211018204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">見た目にも健康にも大切な「姿勢」。悪い姿勢のままでいると肩こりや腰痛の原因になるだけでなく深刻な事態につながることも。３秒でできる座った姿勢改善の極意を紹介する</desc>
+  </programme>
+  <programme start="20211018204500 +0900" stop="20211018210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211018210000 +0900" stop="20211018212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">旬のいくらやさけでつくる保存食を、老舗（しにせ）すし店の３代目、野本さんが職人ならではのコツとともにお教えします。この季節ならではの手作りの味わいをぜひ！</desc>
+  </programme>
   <programme start="20211017195800 +0900" stop="20211017215400 +0900" channel="NipponTV.jp">
     <title lang="en">世界の果てまでイッテQ!</title>
     <desc lang="en">お祭り男宮川！巨大提灯を振り回す伝統祭りに挑戦▼みやぞんクライミングの聖地で断崖絶壁を登れ▼ガンバレルーヤがアーティスティックスイミング挑戦▼出川デヴィ珍道中</desc>
@@ -718,13 +722,10 @@
     <title lang="en">世界まる見え!テレビ特捜部</title>
     <desc lang="en">加藤シゲアキ感動！環境破壊でフランスの渡り鳥がピンチ！鳥の親となり一緒に空を飛ぶ男に密着▼櫻坂46あ然！アメリカ空港税関▼スマホで乗客がハイジャック犯を戦慄撮影</desc>
   </programme>
-<programme start="20211017190000 +0900" stop="20211017205600 +0900" channel="Asahi.jp">
-  <title lang="en">ナニコレ珍百景</title>
-  <desc lang="en">★日本全国で驚きの光景を発見
-▼埼玉…山の上に伝説の池「息を止めて７周まわると…」
-▼神奈川…天才プログラマーは86歳おばあちゃん
-▼宮城…毎朝列車に手をふる夫婦</desc>
-</programme>
+  <programme start="20211018210000 +0900" stop="20211018225400 +0900" channel="NipponTV.jp">
+    <title lang="en">しゃべくり007</title>
+    <desc lang="en">有働由美子の素顔…お見合い＆お酒＆超厳格パパ‼独身ライフ全て語る▽祝デビュー‼なにわ男子はじめての顔面バズーカ地獄▽新コント王空気階段が”謝りたい人”全員集合</desc>
+  </programme>
 <programme start="20211017205600 +0900" stop="20211017210000 +0900" channel="Asahi.jp">
   <title lang="en">食ノ音色</title>
   <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
@@ -1045,10 +1046,6 @@
   <title lang="en">主治医が見つかる診療所</title>
   <desc lang="en">月曜よる８時から▼サンマの栄養を逃さない焼き方＆血液サラサラ効果３倍のキノコ保存法▼田舎暮らしは本当に健康になれるのか主治医がチェック▼体が喜ぶ最強の寿司５皿</desc>
 </programme>
-<programme start="20211017190000 +0900" stop="20211017200000 +0900" channel="FujiTV.jp">
-  <title lang="en">ジャンクSPORTS</title>
-  <desc lang="en">東京五輪アスリート７人集結！激闘裏の初出しネタ連発！羽根田卓也が泣いたコース変更…原因は浜田！？飛び込みレジェンド寺内健＆ＢＭＸ中村輪夢に訪れたピンチ</desc>
-</programme>
 <programme start="20211017200000 +0900" stop="20211017215400 +0900" channel="FujiTV.jp">
   <title lang="en">サンドの日本一めんどくさ〜い料理店</title>
   <desc lang="en">料理に異常な愛を注ぐが故とっても“めんどくさ〜い”けどめちゃめちゃ美味しい料理店を日本全国から紹介！国際セレブ御用達ステーキ店・開店時間不明ラーメン屋</desc>
@@ -1137,13 +1134,9 @@
   <title lang="en">ネプアップデートリーグ</title>
   <desc lang="en">超豪華芸能人が一丸となって新常識ゲームに挑戦！深田恭子と見つめあったら何秒で恋に落ちる？木村佳乃は〇〇が好き！スラムダンク主役キャスティングするなら？</desc>
 </programme>
-<programme start="20211017193000 +0900" stop="20211017200000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211017200000 +0900" stop="20211017203000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211018210000 +0900" stop="20211018215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
+  <desc lang="en">誰もが羨む美人教師が、全くモテないポンコツ技師にまさかの好意！？奇跡の結婚か、お金目的の結婚詐欺か…美しき彼女の謎の行動、そこに隠された哀しい秘密をラジハが暴く</desc>
 </programme>
 <programme start="20211017203000 +0900" stop="20211017210000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1328,6 +1321,10 @@
 <programme start="20211018200000 +0900" stop="20211018210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">９党党首が論戦！ジャーナリスト鈴木哲夫に聞く！注目ポイントは▼注目！“リベンジ消費”高級な時計に高級車が売り上げ好調⁉▼帝国ホテルの味がキッチンカーで⁉</desc>
+</programme>
+<programme start="20211018210000 +0900" stop="20211018215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">武井壮×苫米地英人！毎週月曜は「ビジネス・マネー」をテーマにお届け。ダンディな大人が知っておくべき世の中の話題＆銀河系ゼミナール∞！今週はサイバー問題徹底解説！</desc>
 </programme>
 <programme start="20211016230000 +0900" stop="20211017003000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　#42　　　実話怪談の本格派ホラー番組！</title>
@@ -1993,7 +1990,7 @@ https://otn.fujitv.co.jp
 <programme start="20211017194500 +0900" stop="20211017210000 +0900" channel="kbsworld.jp">
 <title lang="en">優雅な友達（原題）　#10　[字][再]</title>
 <desc>ベーシック初放送！親友5人とその妻たちに隠された秘密、2つの殺人事件、友人の死から驚愕の真実が明らかなっていくミステリー　コメディメロドラマ！2020年　全17話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211017/6710315/image/a3345f91dec151e9878a58a9dcb261d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211017210000 +0900" stop="20211017214000 +0900" channel="kbsworld.jp">
