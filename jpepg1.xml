@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211017121500 +0900" stop="20211017130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKのど自慢</title>
-    <desc lang="en">滋賀県大津市から生放送▽ゲストは吉幾三、石原詢子▽司会：小田切千アナウンサー／鐘：秋山気清▽歌で思いを届ける！予選で選ばれた皆さんによる熱唱・熱演</desc>
-  </programme>
-  <programme start="20211017130000 +0900" stop="20211017130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211017130500 +0900" stop="20211017160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">日本オープンゴルフ選手権2021</title>
     <desc lang="en">連覇をねらう稲森佑貴、ツアー３勝の金谷拓実、前年度賞金王の今平周吾ら実力者が出場。中島啓太らアマチュア勢の活躍も注目。滋賀県・琵琶湖カントリー倶楽部から生中継</desc>
@@ -301,6 +293,10 @@
   <programme start="20211018130000 +0900" stop="20211018130500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20211018130500 +0900" stop="20211018150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">党首討論会</title>
+    <desc lang="en">〜日本記者クラブから中継〜</desc>
   </programme>
   <programme start="20211017123000 +0900" stop="20211017140000 +0900" channel="eTele.jp">
     <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
@@ -582,9 +578,21 @@
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】工藤咲子</desc>
   </programme>
-  <programme start="20211017124500 +0900" stop="20211017134500 +0900" channel="NipponTV.jp">
-    <title lang="en">サンバリュ</title>
-    <desc lang="en">「その道のスゴい人」が自らの人脈＝コネで集めた超貴重な新情報を次々と解禁。初解禁がバンバンつまった驚きのコネコネ情報解禁バラエティー。テーマは「激うまラーメン」</desc>
+  <programme start="20211018130500 +0900" stop="20211018133500 +0900" channel="eTele.jp">
+    <title lang="en">ハートネットTV</title>
+    <desc lang="en">みんなの気分のあげてくれる「あがるアート」！シリーズ立ち上げから１年、全国各地で展開中のユニークなアート活動を、映画監督の安藤桃子さんと一緒に見ていきま〜す！</desc>
+  </programme>
+  <programme start="20211018133500 +0900" stop="20211018135000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">中途失明原因第１位、緑内障。薬やレーザー治療で効果がない場合、従来の手術より患者の負担の少ない「ＭＩＧＳ＝ミグス」という治療が登場。目の状態によっては選択肢に。</desc>
+  </programme>
+  <programme start="20211018135000 +0900" stop="20211018140000 +0900" channel="eTele.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「日本の科学技術研究の危機」榎木英介（科学・政策と社会研究室代表理事）</desc>
+  </programme>
+  <programme start="20211018140000 +0900" stop="20211018141000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 ベーシック数学</title>
+    <desc lang="en">「対頂角」「錯角」「同位角」。聞いたことあります…よね。今回は平行線と角の関係について、パパっとマスターしてしまいましょう。</desc>
   </programme>
   <programme start="20211017134500 +0900" stop="20211017141500 +0900" channel="NipponTV.jp">
     <title lang="en">東京03とスタア</title>
@@ -715,16 +723,10 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">新企画！不用品が売れた分だけ食べられるグルメ旅！▽コアラのマーチ＆ミッフィーの知られざる昔と今の違い！レシピ本を１５冊も出している芸能人の冷蔵庫とは！？</desc>
   </programme>
-<programme start="20211017125500 +0900" stop="20211017132500 +0900" channel="Asahi.jp">
-  <title lang="en">新婚さんいらっしゃい!</title>
-  <desc lang="en">愛知県あま市公開収録第一弾！
-▽佐溝夫妻…ゴリラ似のとにかく明るい妻！
-▽村田夫妻…会社のＺｏｏｍ会議で出会い、ひとめぼれしたイマドキ夫妻！</desc>
-</programme>
-<programme start="20211017132500 +0900" stop="20211017135500 +0900" channel="Asahi.jp">
-  <title lang="en">あなたの代わりに見てきます!リア突WEST</title>
-  <desc lang="en">中間＆濱田が忍ばない美女忍者にリア突！正体はヌンチャクの達人！数々の技に挑戦、抜群の身体能力を持つ濱田は大活躍！運動神経悪い系ジャニーズ中間もある意味活躍ｗｗｗ</desc>
-</programme>
+  <programme start="20211018135500 +0900" stop="20211018155000 +0900" channel="NipponTV.jp">
+    <title lang="en">情報ライブ ミヤネ屋</title>
+    <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+  </programme>
 <programme start="20211017135500 +0900" stop="20211017150000 +0900" channel="Asahi.jp">
   <title lang="en">ノブナカなんなん?</title>
   <desc lang="en">いよいよ20日水曜７時！ノブナカなんなん？ゴールデン２時間ＳＰ！放送前に伝説回を大放出！日本一の女＆なんなん女クイズ！ノブ弘中見取り図河北の大爆笑記者会見も！</desc>
@@ -818,17 +820,22 @@
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜“骨折”“心臓手術”乗り越え聖火ランナーを〜三遊亭小遊三さんが今日のゲストです。</desc>
 </programme>
-<programme start="20211017125400 +0900" stop="20211017130000 +0900" channel="TBS2.jp">
-  <title lang="en">dai-docoro☆ベジタ</title>
-  <desc lang="en">里芋特有ヌメリ成分は『ガラクタン』胃や腸の働きを助ける効果が期待★皮をむいていると手がかゆくなったら…お酢に手をつけたら和らぎますよ〜★優しい味つけでパクパク♪</desc>
+<programme start="20211018133000 +0900" stop="20211018134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理はご飯がすすむ！定番にしたい和の一品</desc>
 </programme>
-<programme start="20211017130000 +0900" stop="20211017133000 +0900" channel="TBS2.jp">
-  <title lang="en">それSnow Manにやらせて下さい</title>
-  <desc lang="en">Snow Man vsオリエンタルラジオ藤森慎吾vs女子が喜ぶ「秋のリンクコーデ対決」でまさかのコーデ連発…Z世代審査員・よしミチ姉弟も驚愕の結果が明らかに！ </desc>
+<programme start="20211018134500 +0900" stop="20211018134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">「東京手仕事」というプロジェクトの中で、七宝焼の伝統工芸職人とデザイナーがコラボして「東京楽景」という新商品を開発しました。小さなペンダントの中に東京の風景が…</desc>
 </programme>
-<programme start="20211017133000 +0900" stop="20211017135700 +0900" channel="TBS2.jp">
-  <title lang="en">出動!謎ときヒーロー</title>
-  <desc lang="en">🈖🈑ドラマのストーリー展開と調査ロケの面白さの２大要素をマッチング！新感覚ドラマバラエティが遂にレギュラー決定！探偵事務所の調査員たちが世の中の謎の解明に挑む！</desc>
+<programme start="20211018134900 +0900" stop="20211018135400 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20211018135400 +0900" stop="20211018154800 +0900" channel="Asahi.jp">
+  <title lang="en">人類学者・岬久美子の殺人鑑定8</title>
+  <desc lang="en">「骨の声を聞く女！桜の下に眠る骨の謎⁉死を呼ぶ学園‼女性理事長の秘密…」大塚寧々(他)▽久美子が殺害現場に遭遇。被害者が大事に抱えていたのは“若い男の人骨”だった…</desc>
 </programme>
 <programme start="20211017135700 +0900" stop="20211017140000 +0900" channel="TBS2.jp">
   <title lang="en">四季折々の贈り物</title>
@@ -926,6 +933,10 @@
 <programme start="20211018102500 +0900" stop="20211018135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
+</programme>
+<programme start="20211018135500 +0900" stop="20211018154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
 <programme start="20211017125400 +0900" stop="20211017140000 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -1070,6 +1081,10 @@
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽埼玉県朝霞市…国産牛しょうがソース▽埼玉県新座市…モツ煮店のラーメン＆柿入りポテトサラダ▽東京都羽村市…カフェの香ばしい炭トースト</desc>
 </programme>
+<programme start="20211018134000 +0900" stop="20211018154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">「空腹のウサギは跳ぶ」の暗号に隠された秘密が男を追いつめる…！罠におちた無実の男が立ち向かう、ニコラス・ケイジ主演のサスペンス・アクション！</desc>
+</programme>
 <programme start="20211017120000 +0900" stop="20211017140000 +0900" channel="FujiTV.jp">
   <title lang="en">なりゆき街道旅</title>
   <desc lang="en">照英＆神田愛花と行く町田の旅！アウトドア専門店で天体望遠鏡からキャンプグッズまで超高額爆買い！新食感の泡オムライスに舌鼓！リス園で照英にハプニング！？</desc>
@@ -1196,14 +1211,6 @@
 <programme start="20211018115500 +0900" stop="20211018144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-</programme>
-<programme start="20211017125500 +0900" stop="20211017130000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211017130000 +0900" stop="20211017133000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20211017133000 +0900" stop="20211017143000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1389,6 +1396,14 @@
   <title lang="en">キム秘書はいったい、なぜ?</title>
   <desc lang="en">人気韓流スター、パク・ソジュンがエリート御曹司を好演した話題作！ツンデレな御曹司と敏腕秘書が恋の駆け引きを繰り広げる胸キュンラブコメディー。</desc>
 </programme>
+<programme start="20211018135500 +0900" stop="20211018140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20211018140000 +0900" stop="20211018143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211016230000 +0900" stop="20211017003000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　#42　　　実話怪談の本格派ホラー番組！</title>
 <desc>The Secret 〜第四十二怪〜
@@ -1477,7 +1492,7 @@ Aqours／TRUE／早見沙織／ReoNa／Roselia
 <programme start="20211017130000 +0900" stop="20211017140000 +0900" channel="FujiNext.jp">
 <title lang="en">宗本康兵へきくちから！4月『しおこうじフォーク村』生放送終了後交わした音楽雑談！</title>
 <desc>『ももいろフォーク村』2016年9月第63夜「Re：」から2018年1月第80夜「Re：Re：」2019年7月第98夜『しおこうじのお台場フォーク村』へ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211017/6900174/image/8730079ec8b00ea03b9a117049e17a31.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211017140000 +0900" stop="20211017143000 +0900" channel="FujiNext.jp">
@@ -1653,7 +1668,7 @@ Aqours／TRUE／早見沙織／ReoNa／Roselia
 <title lang="en">寺門ジモンの肉専門チャンネル　#86「焼肉ホルモン 新井屋 はなれ」</title>
 <desc>「焼肉ホルモン 新井屋 はなれ」
 芸能界一食に詳しく、そして肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211017/6699493/image/7f91f4255f374a03f48469f79a937ea7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211017140000 +0900" stop="20211017214000 +0900" channel="FujiOne.jp">
