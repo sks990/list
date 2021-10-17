@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211018003500 +0900" stop="20211018043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211018043500 +0900" stop="20211018044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ぼくの目は猫の目」うた忌野清志郎／「サラマンドラ」うた尾藤イサオ</desc>
-  </programme>
-  <programme start="20211018044000 +0900" stop="20211018044500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">キャラとおたまじゃくし島</title>
-    <desc lang="en">まっすぐで愛にあふれた少女戦士キャラが、不思議なガッキアニマルたちと出会い心を通わせる中で、音楽を奪われた島の謎を次々と解き明かす冒険ファンタジー第４０話。</desc>
-  </programme>
-  <programme start="20211018044500 +0900" stop="20211018045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
-    <desc lang="en">日本の「もったいない」精神を世界に届ける番組「Ｚｅｒｏ　Ｗａｓｔｅ　Ｌｉｆｅ」より、動かなくなったおもちゃを修理するトイ・ドクターを紹介した回を取り上げる。</desc>
-  </programme>
   <programme start="20211018045000 +0900" stop="20211018050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">四国電力の伊方原発で、緊急時の対応要員が無断で何度も抜け出していた不祥事が発覚。福島の原発事故の教訓が生かされれていないことについて考えます。</desc>
@@ -301,6 +285,22 @@
   <programme start="20211019035800 +0900" stop="20211019043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像詩</title>
     <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した奈良県・明日香村。四季の移ろいと、歴史の時空が交錯する「飛鳥」を描き出す。</desc>
+  </programme>
+  <programme start="20211019043500 +0900" stop="20211019044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「ヘンなＡＢＣ」うた一城みゆ希、東京放送児童合唱団／「空飛ぶ林檎」うた財津和夫</desc>
+  </programme>
+  <programme start="20211019044000 +0900" stop="20211019045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「日本の科学技術研究の危機」榎木英介（科学・政策と社会研究室代表理事）</desc>
+  </programme>
+  <programme start="20211019045000 +0900" stop="20211019050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">半導体受託生産の世界最大手・台湾ＴＳＭＣが日本に半導体の新工場を建設する方針を表明。半導体を安定的に確保したい日本政府が積極的に誘致。「経済安全保障」の現状は？</desc>
+  </programme>
+  <programme start="20211019050000 +0900" stop="20211019060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20211018004500 +0900" stop="20211018053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -658,10 +658,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211018034500 +0900" stop="20211018043000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">10月もポシュレとっておきお得情報！ポシュレ史上最も売れてる振動マシーン、シワ対策60セカンズ、ロボット掃除機ルンバ、くわばた骨盤ショーツ、小田急高級羽毛布団！</desc>
-  </programme>
   <programme start="20211018043000 +0900" stop="20211018055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽東京４０人…東京都が“時短”緩和など検討▽眞子さま、きょう３年ぶり小室さんと再会へ▽斎藤佑樹投手がラスト…</desc>
@@ -754,10 +750,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en"></desc>
   </programme>
-<programme start="20211018012500 +0900" stop="20211018045500 +0900" channel="Asahi.jp">
-  <title lang="en">世界バドミントン国別対抗戦2021</title>
-  <desc lang="en">３大会ぶりの優勝を目指すバドミントン日本代表の準決勝　チームを率いるキャプテン桃田賢斗がライバル選手と対決！　バドミントン最強国を決める団体戦を制したのは！？</desc>
-</programme>
+  <programme start="20211019043000 +0900" stop="20211019055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211018045500 +0900" stop="20211018080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
@@ -880,9 +876,9 @@ by.Wintersleep</desc>
   <title lang="en">暴れん坊将軍IV</title>
   <desc lang="en">「誇り高き逃亡者！」松平健(他)▽酒の席で紋次郎と隣の浪人がケンカを始めてしまった。別の席にいた浪人が見事な貫禄で二人の間を裁き、事なきを得る。ところがその直後…</desc>
 </programme>
-<programme start="20211018034500 +0900" stop="20211018043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211019045500 +0900" stop="20211019080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211018043000 +0900" stop="20211018052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -964,7 +960,12 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211018040000 +0900" stop="20211018051000 +0900" channel="TVTokyo.jp">
+<programme start="20211019043000 +0900" stop="20211019052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
+</programme>
+<programme start="20211018050000 +0900" stop="20211018051000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1123,13 +1124,16 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
   <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
 </programme>
-<programme start="20211018035500 +0900" stop="20211018040000 +0900" channel="FujiTV.jp">
+<programme start="20211019041000 +0900" stop="20211019042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+  <desc lang="en"></desc>
 </programme>
-<programme start="20211018040000 +0900" stop="20211018045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+<programme start="20211019042300 +0900" stop="20211019054500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20211018045500 +0900" stop="20211018052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1224,9 +1228,9 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20211018040000 +0900" stop="20211018050000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211019045500 +0900" stop="20211019052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211018050000 +0900" stop="20211018051500 +0900" channel="Tokyo MX">
   <title lang="en">感動地球紀行 世界遺産ものがたり</title>
@@ -1428,6 +1432,18 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211019043000 +0900" stop="20211019043500 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211019043500 +0900" stop="20211019050000 +0900" channel="Tokyo MX">
+  <title lang="en">洋上の楽園クルーズ</title>
+  <desc lang="en">「南米西海岸の大自然を満喫！　魅力のパナマ運河クルーズ」</desc>
+</programme>
+<programme start="20211019050000 +0900" stop="20211019053000 +0900" channel="Tokyo MX">
+  <title lang="en">ロンブー亮の釣りならまかせろ!</title>
+  <desc lang="en">祝放送１周年！カワハギ釣りならまかせろ！〜後編〜エサ取り名人をついに攻略⁉</desc>
+</programme>
 <programme start="20211018000000 +0900" stop="20211018010000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第16戦 トルコGP 特集〜</title>
 <desc>＜解説＞川井一仁　米家峰起　＜ゲスト＞山本雅史（ホンダF1マネージングディレクター）　＜MC＞堀池亮介　▽「FORMULA 1」の最新情報をお届け！　【再放送】
@@ -1451,7 +1467,7 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
 <programme start="20211018030000 +0900" stop="20211018050000 +0900" channel="FujiNext.jp">
 <title lang="en">しおこうじ玉井詩織×坂崎幸之助のリモートフォーク村！第108夜 完全版</title>
 <desc>ももいろクローバーZ玉井詩織・THE ALFEE坂崎幸之助！ゲスト松室政哉・鈴木瑛美子！しおこうじバンド宗本康兵・佐藤大剛・やまもとひかる・加藤いづみ・竹上良成
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211017/6838905/image/254fd2458049024687024654f5588794.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211018050000 +0900" stop="20211018060000 +0900" channel="FujiNext.jp">
@@ -1630,7 +1646,7 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
 ＜出演＞e-Sportsプレイヤー　
 ※第2音声ゲーム音のみ
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211017/6699502/image/e96a2a424e21f6b91f35f357042f1f8b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211018050000 +0900" stop="20211018053000 +0900" channel="FujiOne.jp">
