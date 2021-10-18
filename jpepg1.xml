@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211018193000 +0900" stop="20211018204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">鶴瓶の家族に乾杯</title>
-    <desc lang="en">アン　ミカが小江戸情緒あふれる千葉県香取市を舞台にしゃべくり出会い旅を繰り広げる！アポなし旅は初めてと言いつつも、巧みな“口”渉術で出会いを重ねていく。</desc>
-  </programme>
-  <programme start="20211018204200 +0900" stop="20211018204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20211018204500 +0900" stop="20211018210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -314,17 +306,17 @@
     <title lang="en">NHKニュース7</title>
     <desc lang="en">夜７時、「一歩先へ、一歩深く、高い信頼感」　今、このニュースを届けたい　【キャスター】瀧川剛史，【サブキャスター】上原光紀，栗原望，【気象キャスター】平野有海</desc>
   </programme>
-  <programme start="20211018195500 +0900" stop="20211018200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20211019204200 +0900" stop="20211019204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211018200000 +0900" stop="20211018203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">駅の無人化で「移動の自由」が侵害されたとして、車いすユーザー３名がＪＲ九州を提訴。原告の日常と裁判過程の記録を通し、“誰もが生きやすい社会”について考えます。</desc>
+  <programme start="20211019204500 +0900" stop="20211019210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
   </programme>
-  <programme start="20211018203000 +0900" stop="20211018204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">見た目にも健康にも大切な「姿勢」。悪い姿勢のままでいると肩こりや腰痛の原因になるだけでなく深刻な事態につながることも。３秒でできる座った姿勢改善の極意を紹介する</desc>
+  <programme start="20211019210000 +0900" stop="20211019220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽政権選択はどうなる？衆議院選挙きょう公示▽各党の訴えは？▽有権者の求めるものは？与野党担当記者が解説</desc>
   </programme>
   <programme start="20211018204500 +0900" stop="20211018210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -670,6 +662,18 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">母親を１０年以上在宅介護している駒村多恵さん。美味（おい）しい介護食を食べてもらいたいと、日々研究。そのレシピ数は１００種類を超える。「食と介護」の極意を伺う。</desc>
   </programme>
+  <programme start="20211019203000 +0900" stop="20211019204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">肩こりや腰痛の原因となる悪い姿勢。年をとると「抗重力筋」が衰え姿勢を維持するのが難しくなる。そこで姿勢に効くエクササイズやドローインというトレーニングを紹介</desc>
+  </programme>
+  <programme start="20211019204500 +0900" stop="20211019210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211019210000 +0900" stop="20211019212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">カルシウムや良質なたんぱく質など、子どもの成長に必要な栄養がたっぷりの「チーズ」を使ったレシピを、３児の母で料理研究家の和田明日香さんに教わります。</desc>
+  </programme>
   <programme start="20211018190000 +0900" stop="20211018210000 +0900" channel="NipponTV.jp">
     <title lang="en">世界まる見え!テレビ特捜部</title>
     <desc lang="en">加藤シゲアキ感動！フランスの渡り鳥の親となり一緒に大空を飛ぶ男▼櫻坂46あ然！アメリカ空港税関vs怪しい客▼乗客がハイジャック犯をスマホで戦慄撮影▼最新乗り物</desc>
@@ -765,6 +769,14 @@
   <programme start="20211019190000 +0900" stop="20211019205400 +0900" channel="NipponTV.jp">
     <title lang="en">ヒューマングルメンタリー オモウマい店</title>
     <desc lang="en">６．５人前相当『特盛もどき』【栃木】超アットホーム焼きそば店㊙ポテト丼【埼玉】弟子３５人そば名人‼番組ＡＤが弟子で師匠超え⁉【徳島】約３合チャーハン３００円(他)</desc>
+  </programme>
+  <programme start="20211019205400 +0900" stop="20211019210000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレ「まだまだオモウマ」</title>
+    <desc lang="en">【群馬】エキサイティングうなぎ店主‼新展開</desc>
+  </programme>
+  <programme start="20211019210000 +0900" stop="20211019225400 +0900" channel="NipponTV.jp">
+    <title lang="en">一撃解明バラエティ ひと目でわかる!!</title>
+    <desc lang="en">亀梨和也高嶋ちさ子チョコプラが世の中の気になる疑問を1枚の写真や動画で一撃解明‼高嶋ちさ子が6億円の名器ストラディバリウスのスゴさを”ひと目”でわからせる！</desc>
   </programme>
 <programme start="20211018190000 +0900" stop="20211018214800 +0900" channel="Asahi.jp">
   <title lang="en">帰れマンデー見っけ隊!!</title>
@@ -893,9 +905,13 @@ by.Wintersleep</desc>
   <desc lang="en">これまで総勢138名が参加した、ロンハー名物女性芸能人スポーツテスト。
 歴代記録を比較し、No.1を決定する『歴代記録勝手にNo.1決定戦』が開幕！！</desc>
 </programme>
-<programme start="20211018190000 +0900" stop="20211018200000 +0900" channel="TBS2.jp">
-  <title lang="en">アイアム冒険少年</title>
-  <desc lang="en">飯ごう料理NO1を決める対決！女優石田ひかり・志田彩良ペア＆料理腕前NO1芸人ロバート馬場が初参戦！VSサンシャイン池崎…秋の味覚スイーツでリベンジ狙う！！</desc>
+<programme start="20211019205400 +0900" stop="20211019210000 +0900" channel="Asahi.jp">
+  <title lang="en">世界の街道をゆく</title>
+  <desc lang="en">民族色鮮やかな辺境の道・中国雲南省</desc>
+</programme>
+<programme start="20211019210000 +0900" stop="20211019215400 +0900" channel="Asahi.jp">
+  <title lang="en">芸能界常識チェック〜トリニクって何の肉!?〜</title>
+  <desc lang="en">究極のバカ舌チェック！目隠しした状態で食べたものを当てろ！寿司・野菜…など馴染みのものばかり！しかも今回は、８問連続正解で１００万円！ズバリ…１００万円出ます！</desc>
 </programme>
 <programme start="20211018200000 +0900" stop="20211018220000 +0900" channel="TBS2.jp">
   <title lang="en">クイズ!THE違和感</title>
@@ -980,9 +996,10 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
   <desc lang="en">☆新火ドラ主演女優・清野菜名がピッタシカラオケ参戦！奇跡の記録
 ☆横浜流星？吉田鋼太郎？サプライズゲスト続々登場！☆猿之助＆ギャル曽根は音で料理を当てられる？</desc>
 </programme>
-<programme start="20211018182500 +0900" stop="20211018200000 +0900" channel="TVTokyo.jp">
-  <title lang="en">YOUは何しに日本へ?</title>
-  <desc lang="en">▼名所をスルー！成田から日光まで１泊２日強行“自転車”旅▼日本に似た料理はない！ザンビアグルメ▼広島カープ好きファミリーに球団巻き込みサプライズ▼悪友ドッキリ</desc>
+<programme start="20211019205700 +0900" stop="20211019220000 +0900" channel="TBS2.jp">
+  <title lang="en">マツコの知らない世界</title>
+  <desc lang="en">🈑これまで500種類以上のきな粉を食べた女性が登場！究極のきな粉を味わう絶品プリン！
+▽五輪史上初の金メダルを獲得・卓球！音で楽しむ卓球の魅力！雄叫び女王は？</desc>
 </programme>
 <programme start="20211018200000 +0900" stop="20211018215400 +0900" channel="TVTokyo.jp">
   <title lang="en">主治医が見つかる診療所</title>
@@ -1142,6 +1159,10 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
   <title lang="en">ありえへん∞世界</title>
   <desc lang="en">▼１７０年間“脱獄者ゼロ”…難攻不落の刑務所から逃亡！警官１３００人vs世紀の脱獄犯▼オンライン裁判中に凶悪行動！被害者の部屋に㊙衝撃人物▼麻薬ラーメン</desc>
 </programme>
+<programme start="20211019205400 +0900" stop="20211019215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">開運!なんでも鑑定団</title>
+  <desc lang="en">■本物？ニセ物？…江戸時代＜与謝蕪村＞の掛け軸に衝撃鑑定額■エッ３枚サービス!?…幻の1893年＜金・銀貨13枚セット＞に驚き値■＜外国人のお宝＞鑑定大会！■</desc>
+</programme>
 <programme start="20211018190000 +0900" stop="20211018210000 +0900" channel="FujiTV.jp">
   <title lang="en">ネプアップデートリーグ</title>
   <desc lang="en">超豪華芸能人が一丸となって新常識ゲームに挑戦！深田恭子と見つめあったら何秒で恋に落ちる？木村佳乃は〇〇が好き！スラムダンク主役キャスティングするなら？</desc>
@@ -1239,9 +1260,9 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
   <title lang="en">潜在能力テスト</title>
   <desc lang="en">身近なテーマでＱ出題も頭脳派たちが大苦戦▽流行＆お菓子＆ゲーム…時代が先なのは？＆日常観察力＆難読漢字「名字」編▽東大卒Ｑ王・林が大崩壊＆古田敦也＆秀才Ｊ本髙</desc>
 </programme>
-<programme start="20211018193000 +0900" stop="20211018200000 +0900" channel="Tokyo MX">
-  <title lang="en">カードファイト!! ヴァンガード overDress</title>
-  <desc lang="en"> </desc>
+<programme start="20211019210000 +0900" stop="20211019224800 +0900" channel="FujiTV.jp">
+  <title lang="en">火曜は全力!華大さんと千鳥くん</title>
+  <desc lang="en">人気企画２時間ＳＰ！クセ客大喜利にＥＸＩＬＥ登場！大吉熱唱にメンバー大爆笑？６連単１００万円はフット後藤ｖｓかまいたち山内大バトル！大悟のパンチ炸裂！</desc>
 </programme>
 <programme start="20211018200000 +0900" stop="20211018210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1446,6 +1467,10 @@ TV初出し！苦手な物トップ３発表！苦手クイズに挑戦！激カ
 <programme start="20211019200000 +0900" stop="20211019210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">いよいよ衆議院議員選挙が公示！東京の注目選挙区の構図は？▼火曜日はプラスタ！急な寒暖差からくる疲労に注意！</desc>
+</programme>
+<programme start="20211019210000 +0900" stop="20211019215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">バナナアートで話題！クリエイター・エンドケイプ夜の姿とは？</desc>
 </programme>
 <programme start="20211018000000 +0900" stop="20211018010000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第16戦 トルコGP 特集〜</title>
@@ -2203,7 +2228,7 @@ https//otn.fujitv.co.jp
 <programme start="20211018201500 +0900" stop="20211018210000 +0900" channel="kbsworld.jp">
 <title lang="en">だまされても夢心地（原題） 95　[字]</title>
 <desc>日本初放送！熟年再婚を巡って正反対の家族観を持つ２つの家族が次第に心を通わせていく最新ホームドラマ！2021年　全120話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211018/6852160/image/bd074e5e33f67e7d0b2abd89d78472de.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211018210000 +0900" stop="20211018220000 +0900" channel="kbsworld.jp">
