@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211019190000 +0900" stop="20211019204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース7</title>
-    <desc lang="en">▼衆院選公示　１２日間の選挙戦スタート▼各党トップが生出演　新型コロナ対策・経済政策は▼与党ＶＳ野党連携で選挙の行方は</desc>
-  </programme>
   <programme start="20211019204500 +0900" stop="20211019210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -90,7 +86,11 @@
     <title lang="en">未来スイッチ×応援!みんなのチャレンジ</title>
     <desc lang="en">身近な課題に目を向け、よりよい未来のための解決策を探るミニ番組。今回は節水にチャレンジする中学生が登場します。＃ＳＤＧｓ</desc>
   </programme>
-  <programme start="20211019233500 +0900" stop="20211019235500 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20211019233500 +0900" stop="20211019235400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211019235400 +0900" stop="20211019235500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
@@ -310,17 +310,21 @@
     <title lang="en">ガッテン!</title>
     <desc lang="en">日本の伝統食材もち米の魅力をガッテンが徹底解明☆２日がかりだった赤飯がフライパン１つで！調理時間わずか２０分？☆中のパティまでモチモチ！驚き新食感ライスバーガー</desc>
   </programme>
-  <programme start="20211019195500 +0900" stop="20211019200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20211020201500 +0900" stop="20211020204200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ロコだけが知っている</title>
+    <desc lang="en">絶景スペシャル！千葉・小湊鉄道の沿線は四季折々、様々（さまざま）な花が咲き誇り、地元で大人気。奈良・世界遺産の平城宮跡では、夏の夜にだけ見られる絶景をご紹介する</desc>
   </programme>
-  <programme start="20211019200000 +0900" stop="20211019203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">母親を１０年以上在宅介護している駒村多恵さん。美味（おい）しい介護食を食べてもらいたいと、日々研究。そのレシピ数は１００種類を超える。「食と介護」の極意を伺う。</desc>
+  <programme start="20211020204200 +0900" stop="20211020204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211019203000 +0900" stop="20211019204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">肩こりや腰痛の原因となる悪い姿勢。年をとると「抗重力筋」が衰え姿勢を維持するのが難しくなる。そこで姿勢に効くエクササイズやドローインというトレーニングを紹介</desc>
+  <programme start="20211020204500 +0900" stop="20211020210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211020210000 +0900" stop="20211020220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽衆議院選挙争点の現場は…コロナ対策の最前線　第６波にどう備える？▽脱炭素で未来の食は▽コロナ感染状況</desc>
   </programme>
   <programme start="20211019204500 +0900" stop="20211019210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -658,9 +662,17 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">もしも父親が認知症になったら…。２０代の頃、父親を自宅で介護したことがあるタレントのハリー杉山さん。若くして向き合った葛藤の日々について語る。</desc>
   </programme>
-  <programme start="20211019190000 +0900" stop="20211019205400 +0900" channel="NipponTV.jp">
-    <title lang="en">ヒューマングルメンタリー オモウマい店</title>
-    <desc lang="en">６．５人前相当『特盛もどき』【栃木】超アットホーム焼きそば店㊙ポテト丼【埼玉】弟子３５人そば名人‼番組ＡＤが弟子で師匠超え⁉【徳島】約３合チャーハン３００円(他)</desc>
+  <programme start="20211020203000 +0900" stop="20211020204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">今年４月、国立がん研究センターがこれまでで最大の「がん１０年生存率」のデータを公表した。患者数２４万人。１５種類のがんごとに集計。がんとの向き合い方を考える</desc>
+  </programme>
+  <programme start="20211020204500 +0900" stop="20211020210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211020210000 +0900" stop="20211020212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">キッチンを舞台に二人が料理を披露するシリーズ。今回は「さば」をテーマに、魚をこよなく愛する魚類学者のさかなクンと、江戸料理の伝統を今に伝える柳原尚之さんが登場！</desc>
   </programme>
   <programme start="20211019205400 +0900" stop="20211019210000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレ「まだまだオモウマ」</title>
@@ -756,11 +768,14 @@
     <title lang="en">有吉の壁/1億人の大質問!?笑ってコラえて!</title>
     <desc lang="en">ダーツの旅を越えろ！おもしろ村人選手権！奇跡の撮れ高のおもしろ村に爆笑村人連発▼笑コラの本家ダーツの旅は山形のＪＫ集団！モルック日本代表森田哲矢の世界大会に熱狂</desc>
   </programme>
-<programme start="20211019190000 +0900" stop="20211019205400 +0900" channel="Asahi.jp">
-  <title lang="en">ロンドンハーツ</title>
-  <desc lang="en">これまで総勢138名が参加した、ロンハー名物女性芸能人スポーツテスト。
-歴代記録を比較し、No.1を決定する『歴代記録勝手にNo.1決定戦』が開幕！！</desc>
-</programme>
+  <programme start="20211020205400 +0900" stop="20211020210000 +0900" channel="NipponTV.jp">
+    <title lang="en">まだまだ笑コラまもなく今くら!</title>
+    <desc lang="en">柴咲コウが昨年から始めた北海道生活の全貌を大公開！自宅に調味料が174種類！生粋の調味料マニア・バービーの超本格アジアンクッキングとは？</desc>
+  </programme>
+  <programme start="20211020210000 +0900" stop="20211020215400 +0900" channel="NipponTV.jp">
+    <title lang="en">今夜くらべてみました</title>
+    <desc lang="en">柴咲コウが昨年から始めた北海道生活の全貌を大公開！自宅に調味料が174種類！生粋の調味料マニア・バービーの超本格アジアンクッキングとは？</desc>
+  </programme>
 <programme start="20211019205400 +0900" stop="20211019210000 +0900" channel="Asahi.jp">
   <title lang="en">世界の街道をゆく</title>
   <desc lang="en">民族色鮮やかな辺境の道・中国雲南省</desc>
@@ -885,10 +900,16 @@ by.The Shadows</desc>
   <title lang="en">ノブナカなんなん?</title>
   <desc lang="en">千鳥ノブ＆弘中アナがなんなん女に大ツッコミ！桁違い大金持ち＆あの有名人私生活初公開＆女10人大家族に涙！伸るか反るか…天海祐希も参戦でゴールデン力入れすぎＳＰ！</desc>
 </programme>
-<programme start="20211019190000 +0900" stop="20211019205700 +0900" channel="TBS2.jp">
-  <title lang="en">オトラクション</title>
-  <desc lang="en">☆新火ドラ主演女優・清野菜名がピッタシカラオケ参戦！奇跡の記録
-☆横浜流星？吉田鋼太郎？サプライズゲスト続々登場！☆猿之助＆ギャル曽根は音で料理を当てられる？</desc>
+<programme start="20211020205400 +0900" stop="20211020210000 +0900" channel="Asahi.jp">
+  <title lang="en">世界の街道をゆく</title>
+  <desc lang="en">民族色鮮やかな辺境の道・中国雲南省</desc>
+</programme>
+<programme start="20211020210000 +0900" stop="20211020220400 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season20</title>
+  <desc lang="en">相棒シリーズ２０作目！第２話拡大ＳＰ
+止まらない死の連鎖…
+反撃の切り札は殺されたＩＴ長者！ 
+特命係の逆襲が始まる‼</desc>
 </programme>
 <programme start="20211019205700 +0900" stop="20211019220000 +0900" channel="TBS2.jp">
   <title lang="en">マツコの知らない世界</title>
@@ -984,10 +1005,6 @@ by.The Shadows</desc>
 <programme start="20211020200000 +0900" stop="20211020215700 +0900" channel="TBS2.jp">
   <title lang="en">世界くらべてみたら</title>
   <desc lang="en">世界で「アナタが持ってる一番高い物」を聞いてみたら？大谷翔平からボールをもらった男？イタリア学生の感動秘話も…★韓国最新激辛ラーメンに新川優愛ジェシー驚がく</desc>
-</programme>
-<programme start="20211019182500 +0900" stop="20211019205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">ありえへん∞世界</title>
-  <desc lang="en">▼１７０年間“脱獄者ゼロ”…難攻不落の刑務所から逃亡！警官１３００人vs世紀の脱獄犯▼オンライン裁判中に凶悪行動！被害者の部屋に㊙衝撃人物▼麻薬ラーメン</desc>
 </programme>
 <programme start="20211019205400 +0900" stop="20211019215400 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -1143,6 +1160,10 @@ by.The Shadows</desc>
   <title lang="en">BINGO対決旅2 秋の信州で激突!高島礼子リベンジに燃えるSP</title>
   <desc lang="en">太川陽介vs高島礼子in長野！箱根に続き、今回は秋の信州が舞台。見どころたくさんの長野で名所名物ＢＩＮＧＯで勝負！バス鉄道を乗り継ぎ、高島礼子も激走！今回勝つのは？</desc>
 </programme>
+<programme start="20211020210000 +0900" stop="20211020215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">家、ついて行ってイイですか?</title>
+  <desc lang="en">▽妻の見舞いは週１リモート…昭和オヤジ涙のワケ▽「50体の霊がついている」アラサー女性▽19歳娘…涙する母にかけた“救いの言葉”▽ジョニー・デップそっくりさん</desc>
+</programme>
 <programme start="20211019190000 +0900" stop="20211019210000 +0900" channel="FujiTV.jp">
   <title lang="en">潜在能力テスト</title>
   <desc lang="en">身近なテーマでＱ出題も頭脳派たちが大苦戦▽流行＆お菓子＆ゲーム…時代が先なのは？＆日常観察力＆難読漢字「名字」編▽東大卒Ｑ王・林が大崩壊＆古田敦也＆秀才Ｊ本髙</desc>
@@ -1244,9 +1265,9 @@ by.The Shadows</desc>
   <title lang="en">世界の何だコレ!?ミステリー</title>
   <desc lang="en">太陽が沈むと突如体が動かなくなる兄弟の謎▽銀行金庫室から消えた３億円！が犯人の侵入形跡はなし…衝撃手口▽元ＮＨＫ登坂＆テレ朝竹内アナ！噂の心霊廃墟、直撃リポート</desc>
 </programme>
-<programme start="20211019193000 +0900" stop="20211019200000 +0900" channel="Tokyo MX">
-  <title lang="en">空手バカ一代</title>
-  <desc lang="en"> </desc>
+<programme start="20211020210000 +0900" stop="20211020224800 +0900" channel="FujiTV.jp">
+  <title lang="en">ホンマでっか!?TV</title>
+  <desc lang="en">老後のお金・恋愛・健康…大黒摩季＆あさこ＆佳代子＆砂羽＆紫吹淳アラフィフあるある＆悩み赤裸々告白▽食欲の秋！石塚ギャル曽根彦摩呂▽絶賛！秋のおすすめグルメ</desc>
 </programme>
 <programme start="20211019200000 +0900" stop="20211019210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1447,6 +1468,10 @@ by.The Shadows</desc>
 <programme start="20211020200000 +0900" stop="20211020210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">減少傾向が続く新型コロナウイルス…最新情報は…？▼経済再活性化にむけて東京都の対策は？</desc>
+</programme>
+<programme start="20211020210000 +0900" stop="20211020215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">ふかわりょう＆大島由香里と安東弘樹＆前園真聖が「衣食住」をダンディに語らう１時間。「ＫＡＮＢＡＮヒストリア」お店の名前に隠された秘密とは？</desc>
 </programme>
 <programme start="20211018230500 +0900" stop="20211019010000 +0900" channel="FujiNext.jp">
 <title lang="en">フジサンケイクラシック黄金伝説　2「1991年 第19回大会」</title>
@@ -1771,7 +1796,7 @@ https//otn.fujitv.co.jp
 <programme start="20211019200000 +0900" stop="20211019210000 +0900" channel="FujiOne.jp">
 <title lang="en">ゲームセンターCX　306　とにかく揃えな「XI［sai］」</title>
 <desc>プレイステーションの名作パズルゲーム「XI［sai］」に挑戦！果たして攻略なるか？▽ミニコーナー「占いゲームの館」最終回▽1994SFCは名作がズラリ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211019/6699544/image/635999190c147f1b226f855da461a2ce.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211019210000 +0900" stop="20211019220000 +0900" channel="FujiOne.jp">
@@ -2223,7 +2248,7 @@ https//otn.fujitv.co.jp
 <programme start="20211019201500 +0900" stop="20211019210000 +0900" channel="kbsworld.jp">
 <title lang="en">だまされても夢心地（原題） 96　[字]</title>
 <desc>日本初放送！熟年再婚を巡って正反対の家族観を持つ２つの家族が次第に心を通わせていく最新ホームドラマ！2021年　全120話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211019/6852185/image/fefcab1be32b92dd0dc7d0aa877a8a9f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211019210000 +0900" stop="20211019220000 +0900" channel="kbsworld.jp">
