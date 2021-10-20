@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211020135500 +0900" stop="20211020140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">鈴木大輔、加藤由美子、原川愛、矢作あかり、杉井勇介</desc>
-  </programme>
-  <programme start="20211020140000 +0900" stop="20211020141000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211020141000 +0900" stop="20211020145500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">世界ふれあい街歩き</title>
-    <desc lang="en">シルクロードの「青の都」と呼ばれる世界遺産の街、ウズベキスタンの古都サマルカンド。美しいオアシスの街で、底抜けに明るく、もてなし好きな、人なつこい人々と出会う。</desc>
-  </programme>
   <programme start="20211020145500 +0900" stop="20211020150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en">「世界はほしいモノにあふれてる」えりすぐりの旅を詰め込んだ、「せかほし５ｍｉｎ．」。番組ＭＣの鈴木亮平が、極上のショートトリップにご案内。今回は文房具で世界旅。</desc>
@@ -342,17 +330,29 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211020135000 +0900" stop="20211020140000 +0900" channel="eTele.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「アフガニスタンの課題と日本の役割」山本忠通（元国連事務総長特別代表）</desc>
+  <programme start="20211021140500 +0900" stop="20211021142500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">政見放送・経歴放送</title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211020140000 +0900" stop="20211020142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 化学基礎</title>
-    <desc lang="en">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
+  <programme start="20211021142500 +0900" stop="20211021143000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">フランスの世界遺産、ロワール渓谷にあるシャンボール城を空から旅する。１６世紀に建てられた、壮大で壮麗な城。フランス・ルネサンス様式の白眉とも言われる。</desc>
   </programme>
-  <programme start="20211020142000 +0900" stop="20211020144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 物理基礎</title>
-    <desc lang="en">海の波、音波、電波、光、地震。これらはすべて「波」です。物質そのものが「移動」するのではなく、「震動」が次々に伝播する現象「波」について学習します。</desc>
+  <programme start="20211021143000 +0900" stop="20211021143500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">もふもふモフモフ ねこの楽園 ミニ</title>
+    <desc lang="en">房総半島の森の中に広がる庭園。そこに暮らす個性豊かな９匹の猫たちの１年を追う。広大な敷地内の入口、メインガーデン、森、池、カフェで思い思いに過ごす彼らを訪ねる。</desc>
+  </programme>
+  <programme start="20211021143500 +0900" stop="20211021145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">グレートレース15min</title>
+    <desc lang="en">アルプス最高峰モンブラン。壮大な絶景のもと１７１キロを駆け抜けるノンストップレースＵＴＭＢに密着ドキュメント。意地と誇りをかけた世界トップランナーの激走を描く。</desc>
+  </programme>
+  <programme start="20211021145000 +0900" stop="20211021150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">所得格差が拡大する中で迎えた今回の衆院選。限りある財源をどう公正に分配するのか。選挙の主要な争点となる経済政策の課題について考える。</desc>
+  </programme>
+  <programme start="20211021150000 +0900" stop="20211021150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211020144000 +0900" stop="20211020150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 地学基礎</title>
@@ -694,6 +694,18 @@
     <title lang="en">NHK高校講座 社会と情報</title>
     <desc lang="en">「社会と情報」はプログラミングなど情報社会において不可欠な「情報活用能力」を身につけていく科目です。今回のテーマは「情報社会の影」です。</desc>
   </programme>
+  <programme start="20211021142000 +0900" stop="20211021144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 芸術</title>
+    <desc lang="en">紙が普及する以前は人々は木や竹を細長い短冊型に削り、それに文字を書き写していました。隷書の用筆、字形の特徴を把握しながら鑑賞、木簡への臨書に挑戦します。</desc>
+  </programme>
+  <programme start="20211021144000 +0900" stop="20211021150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 家庭総合</title>
+    <desc lang="en">これからの生活に必要な知識や技術を学ぶ「家庭総合」。身近な問題について、地域・社会・歴史など、さまざまな視点でとらえ、りゅうちぇるさんと一緒に考えましょう！</desc>
+  </programme>
+  <programme start="20211021150000 +0900" stop="20211021153000 +0900" channel="eTele.jp">
+    <title lang="en">将棋フォーカス</title>
+    <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
+  </programme>
   <programme start="20211020135500 +0900" stop="20211020155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">最新中継！北日本など雨風強まり大荒れの恐れで警戒！東京木枯らし１号は▽上皇后さま８７歳誕生日初孫眞子さまへの想い</desc>
@@ -926,6 +938,10 @@
 <programme start="20211021135400 +0900" stop="20211021145000 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女19</title>
   <desc lang="en">「被害者が殺人を生前予約⁉マリコｖｓ証拠を火葬する女」沢口靖子(他)▽“葬儀の生前予約”殺された医師は何を隠していたのか。マリコが科学で暴いた驚愕の葬儀プランとは…</desc>
+</programme>
+<programme start="20211021145000 +0900" stop="20211021154800 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">「失敗しないハケンの女…感染緊急オペ１０００万」米倉涼子(他)▽参議院議員・一橋由華は胆石症のオペを依頼するため、未知子を自らが主催するパーティーに招待。ところが…</desc>
 </programme>
 <programme start="20211020135500 +0900" stop="20211020154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1178,10 +1194,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">カート・ラッセル、Ｓ・セガール競演！旅客機を乗客ごと爆破せよ！テロ阻止のため下された大統領命令！乗客を救うため精鋭たちが挑む上空8000ｍ、前代未聞の機内潜入作戦！</desc>
 </programme>
-<programme start="20211020115500 +0900" stop="20211020144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">ビル看板の梅宮辰夫さん顔が突然黒塗りに…娘アンナ激怒▽韓国ショートトラック界スキャンダルで大炎上▽日大・田中理事長に「３０００万円渡した」容疑者新供述</desc>
-</programme>
 <programme start="20211020144500 +0900" stop="20211020154500 +0900" channel="FujiTV.jp">
   <title lang="en">美女か野獣</title>
   <desc lang="en">「最低最悪の出会い」
@@ -1267,17 +1279,10 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20211020135500 +0900" stop="20211020140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211020140000 +0900" stop="20211020143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211020143000 +0900" stop="20211020145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211021144500 +0900" stop="20211021154500 +0900" channel="FujiTV.jp">
+  <title lang="en">美女か野獣</title>
+  <desc lang="en">「ネクタイと昔の男」
+松嶋菜々子　福山雅治　渡辺いっけい　八嶋智人　佐々木蔵之介　白石美帆　永井大　パパイヤ鈴木　深浦加奈子　児玉清(他)</desc>
 </programme>
 <programme start="20211020145900 +0900" stop="20211020150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1468,6 +1473,18 @@
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20211021140000 +0900" stop="20211021143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211021143000 +0900" stop="20211021145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211021145900 +0900" stop="20211021150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211021150000 +0900" stop="20211021153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -2025,7 +2042,7 @@ https//otn.fujitv.co.jp
 <title lang="en">韓国ドラマ「絶対彼氏。」19　【日本語字幕版】　（全20話）</title>
 <desc>第19話　＜出演＞ヨ・ジング　ミナ　ホン・ジョンヒョン　ホン・ソヨン 　ほか
 ▽恋に傷ついた女子が、最強でロマンチックな恋人型ロボットと恋に落ちる!?
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211020/6856473/image/55acca5ec14be2502ba935d0f3804403.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211020150000 +0900" stop="20211020153000 +0900" channel="FujiTwo.jp">
