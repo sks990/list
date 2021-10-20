@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211020210000 +0900" stop="20211020220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニュースウオッチ9</title>
-    <desc lang="en">▽衆議院選挙争点の現場は…コロナ対策の最前線　第６波にどう備える？▽脱炭素で未来の食は▽コロナ感染状況</desc>
-  </programme>
-  <programme start="20211020220000 +0900" stop="20211020223000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">クローズアップ現代</title>
-    <desc lang="en">日本の強み“ものづくり”とＡＩを組み合わせたアイデア製品の数々。起業したのは「高専」で学ぶ若きエンジニアたち。米国や中国がリードする業界で巻き返しできるか？</desc>
-  </programme>
   <programme start="20211020223000 +0900" stop="20211020231500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">歴史探偵</title>
     <desc lang="en">日本史上最大の天守といえば、江戸城の天守。実は天守は３つも存在した。家康、秀忠、家光がそれぞれ造ったのだ。わざわざ３回も造る必要ある？裏にある秘密を徹底調査！</desc>
@@ -140,7 +132,7 @@
   </programme>
   <programme start="20211021070000 +0900" stop="20211021072500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に迫る特集。暮らしに役立つアイデアを紹介する「まちかど情報室」。気になる天気。スポーツなど</desc>
+    <desc lang="en">▼衆院選・経済立て直しで各党は？　与野党の政策を総点検！　▼コロナ禍　視覚障害者の挑戦　▼きょう軽井沢バス事故初公判</desc>
   </programme>
   <programme start="20211021072500 +0900" stop="20211021075500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">政見放送・経歴放送</title>
@@ -366,21 +358,9 @@
     <title lang="en">クローズアップ現代</title>
     <desc lang="en">進む新型コロナのワクチン接種。一方で、接種とその後の死亡との因果関係は９９％が評価できないとされ、副反応への不安の声も。どんな仕組み作りが必要か考える。</desc>
   </programme>
-  <programme start="20211020215500 +0900" stop="20211020220000 +0900" channel="eTele.jp">
-    <title lang="en">まる得マガジン</title>
-    <desc lang="en">脳は適切なトレーニングをすれば、何歳からでも成長できる。脳を機能別に８つのエリアに分け、それぞれのトレーニング方法を紹介。</desc>
-  </programme>
-  <programme start="20211020220000 +0900" stop="20211020224500 +0900" channel="eTele.jp">
-    <title lang="en">フランケンシュタインの誘惑</title>
-    <desc lang="en">科学史に埋もれた闇の事件に光を当てる知的エンターテインメント。今回は、地震列島の日本にとって長年の悲願だった“地震予知”を巡る大論争の闇！大震災は防げなかった！</desc>
-  </programme>
-  <programme start="20211020224500 +0900" stop="20211020225000 +0900" channel="eTele.jp">
-    <title lang="en">漢字ふむふむ</title>
-    <desc lang="en">来日してタクシーに乗った中国人男性。渋滞にはまり運転手がつぶやいた「立往生」の言葉にパニックに。立ったまま死ぬって！？そしてこの言葉は有名なあの物語が語源だった</desc>
-  </programme>
-  <programme start="20211020225000 +0900" stop="20211020225500 +0900" channel="eTele.jp">
-    <title lang="en">漢字ふむふむ</title>
-    <desc lang="en">なぜ「饅頭」の文字に「頭」という漢字が使われているの？その謎を解くカギは三国志・諸葛亮。残酷な風習をなげき、うまれた知恵がこの漢字を生んだという。それは？</desc>
+  <programme start="20211021223000 +0900" stop="20211021231500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">SONGS</title>
+    <desc lang="en">保存版！Ｖ６最後の「ＳＯＮＧＳ」出演で大泉と初対談！「大ヒットメドレー」に加え、メンバーの熱い思いがこもった「今、届けたい曲メドレー」も！ＮＨＫの秘蔵映像満載！</desc>
   </programme>
   <programme start="20211020225500 +0900" stop="20211020232000 +0900" channel="eTele.jp">
     <title lang="en">テレビでハングル講座</title>
@@ -706,9 +686,13 @@
     <title lang="en">クラシックTV</title>
     <desc lang="en">ユーチューブで活躍する人気ピアニストがスタジオに集結！演奏とトークを繰り広げる。【ゲスト】かてぃん（角野隼斗）、菊池亮太、けいちゃん、ハラミちゃん、よみぃ</desc>
   </programme>
-  <programme start="20211020215400 +0900" stop="20211020220000 +0900" channel="NipponTV.jp">
-    <title lang="en">心に刻む風景</title>
-    <desc lang="en">歴史に名を残す人物の誕生の地や活躍の舞台、終の棲家などを訪ねます。今も残る建物や風景から彼らの人生が浮かび上がってきます。ナレーターは歌舞伎役者・中村吉右衛門。</desc>
+  <programme start="20211021223000 +0900" stop="20211021225500 +0900" channel="eTele.jp">
+    <title lang="en">岩合光昭の世界ネコ歩き</title>
+    <desc lang="en">動物写真家・岩合光昭がアメリカ南部のニューオーリンズを訪れ、ジャズとともに暮らすネコたちに肉薄する。（２５分版）</desc>
+  </programme>
+  <programme start="20211021225500 +0900" stop="20211021232000 +0900" channel="eTele.jp">
+    <title lang="en">太田光のつぶやき英語</title>
+    <desc lang="en">ＳＮＳで話題のニュースやトレンドなど、注目のハッシュタグへの海外からの投稿を英語で読み解き、世界の“今”を知る英語情報番組。ＭＣ太田光（爆笑問題）・森川葵</desc>
   </programme>
   <programme start="20211020220000 +0900" stop="20211020230000 +0900" channel="NipponTV.jp">
     <title lang="en">恋です!〜ヤンキー君と白杖ガール〜</title>
@@ -814,13 +798,10 @@
     <title lang="en">ダウンタウンDX</title>
     <desc lang="en">★怒り爆発！笑ってスッキリ！ハライチ岩井ＶＳ大盛り問題☆やすともＶＳギャル論争☆アンガールズ田中の衝撃貯金額！ＣОＷ多田のグチに川島失笑…なぜか浜田松本もキレる</desc>
   </programme>
-<programme start="20211020210000 +0900" stop="20211020220400 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season20</title>
-  <desc lang="en">相棒シリーズ２０作目！第２話拡大ＳＰ
-止まらない死の連鎖…
-反撃の切り札は殺されたＩＴ長者！ 
-特命係の逆襲が始まる‼</desc>
-</programme>
+  <programme start="20211021230000 +0900" stop="20211021235900 +0900" channel="NipponTV.jp">
+    <title lang="en">news zero</title>
+    <desc lang="en">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
+  </programme>
 <programme start="20211020220400 +0900" stop="20211020232000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">東京も時短解除を検討▽４０人規模の宴会で感染防止の実証実験▽「衆院選」わたしの選択…投票に込める思いは▽「世界体操」で復活なるか…内村航平(他)</desc>
@@ -939,13 +920,9 @@
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">感染症で倒れたが、なんとか一命を取り留めた未知子（米倉涼子）は、蜂須賀（野村萬斎）がニューヨークから招聘したスーパー脳外科医・興梠（要潤）と対峙する－！</desc>
 </programme>
-<programme start="20211020215700 +0900" stop="20211020220000 +0900" channel="TBS2.jp">
-  <title lang="en">フラッシュニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
-</programme>
-<programme start="20211020220000 +0900" stop="20211020225700 +0900" channel="TBS2.jp">
-  <title lang="en">水曜日のダウンタウン</title>
-  <desc lang="en">≪生放送の裏で色々やってましたSP≫▼ラヴィットの女性ゲストを大喜利芸人たちが遠隔操作▼キングオブコントで採点が松本と完全一致するカリスマ的なセンスの若手を発掘</desc>
+<programme start="20211021220400 +0900" stop="20211021232000 +0900" channel="Asahi.jp">
+  <title lang="en">報道ステーション</title>
+  <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
 <programme start="20211020225700 +0900" stop="20211020230000 +0900" channel="TBS2.jp">
   <title lang="en">クイズ!ウマレーザー</title>
@@ -1036,16 +1013,13 @@
   <title lang="en">櫻井・有吉THE夜会</title>
   <desc lang="en">指原の親友、峯岸みなみと若槻千夏が登場。過去最多のお土産数で怒涛の品評会！流行りに敏感な差し入れクイーン指原の最強手土産とは？坂口健太郎こだわりタコス</desc>
 </programme>
-<programme start="20211020215400 +0900" stop="20211020220000 +0900" channel="TVTokyo.jp">
-  <title lang="en">Ｄの旋律</title>
-  <desc lang="en">ヴァイオリニスト古澤巖が奏でる名曲にのせて、日本の社交ダンス界のトッププロがダンスを披露する。今宵は「サラマンドラ」</desc>
+<programme start="20211021225700 +0900" stop="20211021230000 +0900" channel="TBS2.jp">
+  <title lang="en">THE STORY-わたしを変えた物語-</title>
+  <desc lang="en">映画、アニメ、ドキュメンタリー…素敵な物語には、誰かを変える力がある。そんな“わたしを変えた物語”をゲストが語るインタビュー番組。斉藤慎二を変えた“物語”とは？</desc>
 </programme>
-<programme start="20211020220000 +0900" stop="20211020225800 +0900" channel="TVTokyo.jp">
-  <title lang="en">WBS</title>
-  <desc lang="en">▽コンビニで焼きイモ販売拡大のワケ
-▽鉄道各社が競う秋の観光列車とは
-▽歩いてもたまる新マイルサービスとは
-▽エコな日本酒どう作る？</desc>
+<programme start="20211021230000 +0900" stop="20211021235600 +0900" channel="TBS2.jp">
+  <title lang="en">news23</title>
+  <desc lang="en">国山ハセンアナウンサーが新たに加入！小川彩佳と共に番組独自の調査報道からＺ世代に刺さるカルチャーまで　明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
 </programme>
 <programme start="20211020225800 +0900" stop="20211020230600 +0900" channel="TVTokyo.jp">
   <title lang="en">SDGsファイル チェンジ・ザ・ワールド-世界を変える志-</title>
@@ -1211,13 +1185,9 @@
   <title lang="en">WBS</title>
   <desc lang="en">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 </programme>
-<programme start="20211020210000 +0900" stop="20211020224800 +0900" channel="FujiTV.jp">
-  <title lang="en">ホンマでっか!?TV</title>
-  <desc lang="en">老後のお金・恋愛・健康…大黒摩季＆あさこ＆佳代子＆砂羽＆紫吹淳アラフィフあるある＆悩み赤裸々告白▽食欲の秋！石塚ギャル曽根彦摩呂▽絶賛！秋のおすすめグルメ</desc>
-</programme>
-<programme start="20211020224800 +0900" stop="20211020225400 +0900" channel="FujiTV.jp">
-  <title lang="en">おふくろ、もう一杯</title>
-  <desc lang="en">「もう一杯！」と思わず言ってしまうようなカツオ・昆布・いりこなどの出汁（だし）が効いた日本全国のこだわり料理を紹介します</desc>
+<programme start="20211021225800 +0900" stop="20211021230600 +0900" channel="TVTokyo.jp">
+  <title lang="en">探究の階段</title>
+  <desc lang="en">革新的なアイデアやテクノロジーでワクワクする未来を創りたい。そんな思いで研究・開発に取り組む人々がいる。探究の階段を登った先にある未来は、どんな世界なんだろう。</desc>
 </programme>
 <programme start="20211020225400 +0900" stop="20211020230000 +0900" channel="FujiTV.jp">
   <title lang="en">フューチャーランナーズ〜17の未来〜</title>
@@ -1308,13 +1278,13 @@
   <title lang="en">SUPER RICH</title>
   <desc lang="en">８億２千万用意できなければ倒産。衛は全財産を現金化し、つぎ込むという無茶な方法で会社を救おうとする。一方優はお金を持ち逃げした亮の行方を追いかけるが…</desc>
 </programme>
-<programme start="20211020215400 +0900" stop="20211020220000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211021225400 +0900" stop="20211021230000 +0900" channel="FujiTV.jp">
+  <title lang="en">空旅をあなたへ-PREMIUM SKY-</title>
+  <desc lang="en">旅先の「食」「遊」「楽」などの情報を紹介し、じっくりと味わいつくす上質な旅番組。毎回とっておきの現地情報を旅人であるアーティストの歌と共に紹介します。</desc>
 </programme>
-<programme start="20211020220000 +0900" stop="20211020223000 +0900" channel="Tokyo MX">
-  <title lang="en">本好きの下剋上 司書になるためには手段を選んでいられません</title>
-  <desc lang="en">＃３「冬のできごと」</desc>
+<programme start="20211021230000 +0900" stop="20211021234000 +0900" channel="FujiTV.jp">
+  <title lang="en">アウト×デラックス</title>
+  <desc lang="en">元ＡＫＢで全裸監督女優の増田有華が闇を告白！刺さるマツコの言葉▼小学生で人生を悟った現役東大生</desc>
 </programme>
 <programme start="20211020223000 +0900" stop="20211020230000 +0900" channel="Tokyo MX">
   <title lang="en">TSUKIPRO THE ANIMATION2</title>
@@ -1514,6 +1484,14 @@
 </programme>
 <programme start="20211021220000 +0900" stop="20211021223000 +0900" channel="Tokyo MX">
   <title lang="en">盾の勇者の成り上がり</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211021223000 +0900" stop="20211021230000 +0900" channel="Tokyo MX">
+  <title lang="en">SCARLET NEXUS</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211021230000 +0900" stop="20211021233000 +0900" channel="Tokyo MX">
+  <title lang="en">バンステ!BanG Dream! STATION 2021</title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211019223000 +0900" stop="20211020010000 +0900" channel="FujiNext.jp">
@@ -1879,7 +1857,7 @@ https//otn.fujitv.co.jp
 <desc>漫道コバヤシ漫画大賞2020グランプリ 芥見下々『呪術廻戦』 −赫−
 ＜MC＞ケンドーコバヤシ
 ▽「呪術廻戦」著者の芥見下々先生がテレビメディア初出演！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211020/6699573/image/4ff80363b100ea647d163b0a7aba73d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211020230000 +0900" stop="20211021000000 +0900" channel="FujiOne.jp">
@@ -2126,7 +2104,7 @@ https//otn.fujitv.co.jp
 ＜開催＞2021年10月20日【生中継】
 ＜解説＞松沼博久　＜実況＞谷口廣明　＜リポーター＞木下貴道
 ※変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211020/6856480/image/aa4a3bb8b2abe9114f87d427f9be94e1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211020230000 +0900" stop="20211020235000 +0900" channel="FujiTwo.jp">
