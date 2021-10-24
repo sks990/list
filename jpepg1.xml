@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211025001000 +0900" stop="20211025010100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">進撃の巨人 -特別総集編-</title>
-    <desc lang="en">「進撃の巨人」の放送済み全７５話を再編集して６回に分けてお送りする「進撃の巨人―特別総集編―」（第１夜）。ナレーション小野大輔、小林ゆう</desc>
-  </programme>
-  <programme start="20211025010100 +0900" stop="20211025015600 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
-  </programme>
   <programme start="20211025015600 +0900" stop="20211025025600 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">平清盛 ゆかりの地を行く</title>
     <desc lang="en">大河ドラマ「平清盛」でおなじみとなった清盛ゆかりの地を映像でつづる。清盛が造営した海上社殿・厳島神社のほか、広島、京都、三重、兵庫、岡山、山口の各地を紹介する。</desc>
@@ -365,6 +357,10 @@
   <programme start="20211026004800 +0900" stop="20211026013400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">SONGS</title>
     <desc lang="en">保存版！Ｖ６最後の「ＳＯＮＧＳ」出演で大泉と初対談！「大ヒットメドレー」に加え、メンバーの熱い思いがこもった「今、届けたい曲メドレー」も！ＮＨＫの秘蔵映像満載！</desc>
+  </programme>
+  <programme start="20211026013400 +0900" stop="20211026021400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽ウズベキスタン大統領選挙　国の安定維持は▽オーストラリア　ロックダウン中の障害者支える音楽療法※ＳＤＧｓ企画▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20211025004500 +0900" stop="20211025053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -718,14 +714,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211025005500 +0900" stop="20211025015000 +0900" channel="NipponTV.jp">
-    <title lang="en">NNNドキュメント</title>
-    <desc lang="en">ひきこもって３５年の娘。支えだった９２歳の父の急死。高齢化するひきこもり家族が“おいてけぼり”にならないためには・・・。</desc>
-  </programme>
-  <programme start="20211025015000 +0900" stop="20211025015600 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211025015600 +0900" stop="20211025021600 +0900" channel="NipponTV.jp">
     <title lang="en">イントロ</title>
     <desc lang="en">佐藤真知子アナがゲストを招く番宣トーク番組。今夜は30日から始まるキャンペーン「カラダWEEK」の魅力を「ティップネス」の福池和仁さんをゲストにお迎えしお届け！</desc>
@@ -819,15 +807,14 @@
     <title lang="en">サムライカアサン</title>
     <desc lang="en">激うざオカン・伊佐木よい子が、バリバリ反抗期の高３の息子・たけしに、うっとうしいほどの愛を注ぎこむ！笑いとホロリがいっぱいの、全力愛情コメディ！</desc>
   </programme>
-<programme start="20211025005500 +0900" stop="20211025012500 +0900" channel="Asahi.jp">
-  <title lang="en">ReAL eSports News</title>
-  <desc lang="en">山里亮太、アインシュタイン稲田と最新VRで大人気サバイバルホラーゲームをプレイ！さらにストファイプロリーグ＆フォートナイト日本一決定戦など最新eスポーツ情報満載！</desc>
-</programme>
-<programme start="20211025012500 +0900" stop="20211025015500 +0900" channel="Asahi.jp">
-  <title lang="en">熱闘!Mリーグ</title>
-  <desc lang="en">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
-雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
-</programme>
+  <programme start="20211026012900 +0900" stop="20211026015900 +0900" channel="NipponTV.jp">
+    <title lang="en">乃木坂スター誕生!2</title>
+    <desc lang="en">乃木坂４６が昭和・平成の名曲をカバーで熱唱▽「ハイスクールララバイ」黒見＆矢久保が松本伊代とコントに挑戦▽秋元真夏「センチメンタル・ジャーニー」▽ブラビ＆羞恥心</desc>
+  </programme>
+  <programme start="20211026015900 +0900" stop="20211026034400 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です</title>
+    <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！菜奈ちゃんを殺された翔太の反撃！あのキャラの大暴走や衝撃シーンをおさらい！</desc>
+  </programme>
 <programme start="20211025015500 +0900" stop="20211025032500 +0900" channel="Asahi.jp">
   <title lang="en">フィギュアグランプリシリーズ2021</title>
   <desc lang="en">氷上サバイバル世界一決定戦「グランプリシリーズ」が開幕！宇野昌磨、佐藤駿が世界王者ネイサン・チェンに挑む！女子は、坂本花織、宮原知子ら日本勢が開幕戦優勝を狙う！</desc>
@@ -935,9 +922,17 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">チョコプラCUP</title>
   <desc lang="en">MCチョコレートプラネット＆松村沙友理がお届けする前代未聞の実験的バトル！チョコプラ自身が考案した「○○CUP」を開催！</desc>
 </programme>
-<programme start="20211025003000 +0900" stop="20211025013000 +0900" channel="TBS2.jp">
-  <title lang="en">西本願寺音舞台</title>
-  <desc lang="en">「音楽の力で勇気と希望を与えたい」音楽監督・村松崇継の思いに賛同したアーティストが集う◆国宝・飛雲閣、菊の間をはじめ普段非公開の場から「いのちのことば」を届ける</desc>
+<programme start="20211026012000 +0900" stop="20211026012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+</programme>
+<programme start="20211026012600 +0900" stop="20211026015600 +0900" channel="Asahi.jp">
+  <title lang="en">musicる TV</title>
+  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
+</programme>
+<programme start="20211026015600 +0900" stop="20211026021600 +0900" channel="Asahi.jp">
+  <title lang="en">イグナッツ!!</title>
+  <desc lang="en">人より秀でた才能を職業にするカルチャーゲストを、４人が全力で褒めまくる新企画「ちやほや倶楽部」。３人目のゲストは、自宅が超豪邸⁉</desc>
 </programme>
 <programme start="20211025013000 +0900" stop="20211025023800 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -1028,14 +1023,9 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
   <desc lang="en">“バカネタNo.1”を決めるSPトーナメント！第3ブロック≪リズムバカネタバトル！≫【インスタントジョンソンvs新作のハーモニカvs永井佑一郎vs西村ヒロチョ】</desc>
 </programme>
-<programme start="20211025004500 +0900" stop="20211025011500 +0900" channel="TVTokyo.jp">
-  <title lang="en">そこ曲がったら、櫻坂?</title>
-  <desc lang="en">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
-見逃せないパフォーマンスが続々と登場します。</desc>
-</programme>
-<programme start="20211025011500 +0900" stop="20211025014500 +0900" channel="TVTokyo.jp">
-  <title lang="en">日向坂で会いましょう</title>
-  <desc lang="en">日向坂４６が、みんなを笑顔に変えるハッピー全開のバラエティ番組！様々なことに挑戦し、苦難を乗り越えトップアイドルへと成長していく姿を追いかけます!!</desc>
+<programme start="20211026012800 +0900" stop="20211026020800 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">映画「老後の資金がありません！」天海祐希＆松重豊に直撃インタビュー！迫力の恐竜ライブステージ「ディノアライブ」ココリコ田中との恐竜クイズにオズワルドも大興奮</desc>
 </programme>
 <programme start="20211025014500 +0900" stop="20211025021500 +0900" channel="TVTokyo.jp">
   <title lang="en">月とライカと吸血姫</title>
@@ -1182,13 +1172,13 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">ハロドリ。</title>
   <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼１１月の舞台に出演する研修生たちの稽古に密着！▼気になる物語と配役は？▼劇中歌のファン投票ベスト１０も発表</desc>
 </programme>
-<programme start="20211024234500 +0900" stop="20211025010000 +0900" channel="FujiTV.jp">
-  <title lang="en">S-PARK</title>
-  <desc lang="en">スポーツ・パーク「Ｓ－ＰＡＲＫ」▼セ・パＶ争い立浪解説▽北京五輪へ！スキージャンプ・葛西紀明＆スピスケ髙木美帆▽世界体操・鉄棒…キング内村×２冠橋本！</desc>
+<programme start="20211026013000 +0900" stop="20211026020000 +0900" channel="TVTokyo.jp">
+  <title lang="en">境界戦機</title>
+  <desc lang="en">２１世紀半ば、日本は４つの経済圏によって分割統治された。隷属国となった日本に生まれた少年・椎葉アモウは、ある日、捨てられていた自律思考型ＡＩ『ガイ』と出会う。</desc>
 </programme>
-<programme start="20211025010000 +0900" stop="20211025015500 +0900" channel="FujiTV.jp">
-  <title lang="en">Love music</title>
-  <desc lang="en">ＳＫＹ－ＨＩがＨＩＰ－ＨＯＰにハマったきっかけは？ＢＥＦＩＲＳＴへの想い＆オーラル山中とコラボ曲披露▽Ｓｔｒａｙ　Ｋｉｄｓ、ＴＨＥ　ＲＡＭＰＡＧＥ他</desc>
+<programme start="20211026020000 +0900" stop="20211026023000 +0900" channel="TVTokyo.jp">
+  <title lang="en">進化の実〜知らないうちに勝ち組人生〜</title>
+  <desc lang="en">アルトリアの元、冒険者になるための修行を積む誠一とサリア。そんな中、３人は魔族が仕掛けた転移魔法により迷宮に飛ばされる。魔王軍最強と謳われる黒龍神の根城だった‼</desc>
 </programme>
 <programme start="20211025015500 +0900" stop="20211025022500 +0900" channel="FujiTV.jp">
   <title lang="en">おかべろ</title>
@@ -1292,17 +1282,17 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">何するカトゥーン?</title>
   <desc lang="en">ＫＡＴ－ＴＵＮデビュー１５周年を迎えたことを記念したアニバーサリー番組。今回は男３人金沢温泉旅！番組初の地方ロケでメンバー３人水入らずの旅を敢行！</desc>
 </programme>
-<programme start="20211025003000 +0900" stop="20211025010000 +0900" channel="Tokyo MX">
-  <title lang="en">見える子ちゃん</title>
-  <desc lang="en"> </desc>
+<programme start="20211026010500 +0900" stop="20211026013500 +0900" channel="FujiTV.jp">
+  <title lang="en">スイートリベンジ</title>
+  <desc lang="en">善人ヅラしたゲス！世直し配信オトコ　前編</desc>
 </programme>
-<programme start="20211025010000 +0900" stop="20211025010500 +0900" channel="Tokyo MX">
-  <title lang="en">しょうたいむ!〜歌のお姉さんだってしたい</title>
-  <desc lang="en"> </desc>
+<programme start="20211026013500 +0900" stop="20211026020000 +0900" channel="FujiTV.jp">
+  <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
+  <desc lang="en">川島明＆ＧＥＮＫＩＮＧが深夜にお届けするリアルトーク通販バラエティ！美容・健康・家電・コスメ・ファッションなどを徹底的に品定め＆ぶっちゃけトーク！</desc>
 </programme>
-<programme start="20211025010500 +0900" stop="20211025013500 +0900" channel="Tokyo MX">
-  <title lang="en">This is me!!</title>
-  <desc lang="en">2021年MIQ日本代表ゆしんの激動人生に迫る。オネエタレントとしての活動から母と確執。それでも前を向いて歩き続けるゆしんへ番組に届いた母からの手紙には衝撃の内容が。</desc>
+<programme start="20211026020000 +0900" stop="20211026022500 +0900" channel="FujiTV.jp">
+  <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
+  <desc lang="en">ＦＯＤオリジナルドラマ「エロい彼氏が私を魅わす」に出演する松井愛莉、笠松将が登場！こじるり、松井の結婚の条件とは！？笠松は自ら作成の楽曲も大公開！？</desc>
 </programme>
 <programme start="20211025013500 +0900" stop="20211025020500 +0900" channel="Tokyo MX">
   <title lang="en">ええじゃないか!!</title>
@@ -1476,6 +1466,18 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">BanG Dream! ガルパ☆ピコ ふぃーばー!</title>
   <desc lang="en">＃３「スポーツマンシップにほっこり」</desc>
 </programme>
+<programme start="20211026010500 +0900" stop="20211026013000 +0900" channel="Tokyo MX">
+  <title lang="en">DOGENGERS</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211026013000 +0900" stop="20211026013500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211026013500 +0900" stop="20211026020500 +0900" channel="Tokyo MX">
+  <title lang="en">Girls Pop Paradise</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211024233000 +0900" stop="20211025010000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　The LIVE！ 春の特別版</title>
 <desc>＜主宰＞兵動大樹
@@ -1488,7 +1490,7 @@ by.The Loch Ness Mouse</desc>
 <programme start="20211025010000 +0900" stop="20211025020000 +0900" channel="FujiNext.jp">
 <title lang="en">武部聡志ときくちから続篇『LOVELOVEあいしてる』から『僕らの音楽』前半辺り</title>
 <desc>武部聡志音楽監督ときくちPテレビ史上最も赤裸々な音楽雑談の続き。『夜ヒット』後から『LOVELOVEあいしてる』と『僕らの音楽』まだまだ終わらず完結篇につづく
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211024/6861454/image/f87d0d1d186e594e911afeaf8db651f4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211025020000 +0900" stop="20211025021000 +0900" channel="FujiNext.jp">
@@ -1660,7 +1662,7 @@ https//otn.fujitv.co.jp
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211024/6861544/image/e52c907ca029b688a0bf01f3b0f5fd0c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211025020000 +0900" stop="20211025030000 +0900" channel="FujiOne.jp">
