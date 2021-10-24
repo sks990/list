@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211025035600 +0900" stop="20211025043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
-  </programme>
-  <programme start="20211025043500 +0900" stop="20211025044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ぼくの目は猫の目」うた忌野清志郎／「サラマンドラ」うた尾藤イサオ</desc>
-  </programme>
-  <programme start="20211025044000 +0900" stop="20211025044500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">キャラとおたまじゃくし島</title>
-    <desc lang="en">まっすぐで愛にあふれた少女戦士キャラが、不思議なガッキアニマルたちと出会い心を通わせる中で、音楽を奪われた島の謎を次々と解き明かす冒険ファンタジー第１話。</desc>
-  </programme>
-  <programme start="20211025044500 +0900" stop="20211025045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
-    <desc lang="en">日本の食材の魅力に迫る「Ｔｒａｉｌｓ　ｔｏ　Ｏｉｓｈｉｉ　Ｔｏｋｙｏ」より、“とうがらし”の回を取り上げ、和食にアクセントを加える大事な食材の魅力を伝える。</desc>
-  </programme>
   <programme start="20211025045000 +0900" stop="20211025050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">脱炭素社会をどう実現するのか。今回の衆院選では、環境・エネルギー政策も大きなテーマのひとつ。再生可能エネルギーは？原発は？各党の政策や争点を見ていく。</desc>
@@ -365,6 +349,22 @@
   <programme start="20211026035900 +0900" stop="20211026043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像詩</title>
     <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
+  </programme>
+  <programme start="20211026043500 +0900" stop="20211026044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「ヘンなＡＢＣ」うた一城みゆ希、東京放送児童合唱団／「空飛ぶ林檎」うた財津和夫</desc>
+  </programme>
+  <programme start="20211026044000 +0900" stop="20211026045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「死生観を考える」齋藤孝（明治大学教授）</desc>
+  </programme>
+  <programme start="20211026045000 +0900" stop="20211026050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">衆院選の争点、今回は社会保障。少子高齢化で社会保障費は大きく増加、課題は山積みになっている。消費税や給付金をはじめ社会保障全般をめぐる各党の対応を解説する。</desc>
+  </programme>
+  <programme start="20211026050000 +0900" stop="20211026060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20211025004500 +0900" stop="20211025053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -718,27 +718,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211025034600 +0900" stop="20211025041600 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
-  </programme>
-  <programme start="20211025041600 +0900" stop="20211025042100 +0900" channel="NipponTV.jp">
-    <title lang="en">そしてバトンは渡された感動編</title>
-    <desc lang="en">本屋大賞受賞のベストセラー「そして、バトンは渡された」ついに映画化！▽親子役の永野芽郁＆田中圭が語る映画の見どころ▽驚きと感動が詰まった物語の秘密に迫る！</desc>
-  </programme>
-  <programme start="20211025042100 +0900" stop="20211025042600 +0900" channel="NipponTV.jp">
-    <title lang="en">金曜ロード×ヴァイオレット</title>
-    <desc lang="en">29日（金）の「金曜ロードショー」は、泣けるアニメNo1「ヴァイオレット・エヴァーガーデン」を特別編集版で放送。ファンの輪が拡がり続けるその魅力とみどころを紹介</desc>
-  </programme>
-  <programme start="20211025042600 +0900" stop="20211025042900 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレNEWS24</title>
-    <desc lang="en">最新ニュースを２４時間お伝えするニュース専門チャンネル・日テレＮＥＷＳ２４。
-スカパー、ＪＣＯＭ、全国ＣＡＴＶで視聴可能。詳しくは番組ＨＰまで。</desc>
-  </programme>
-  <programme start="20211025042900 +0900" stop="20211025043000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211025043000 +0900" stop="20211025055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽岸田政権発足後初の国政選挙は…▽東京の感染１９人。今年最少…▽小室圭さんが赤坂御用地を訪問</desc>
@@ -819,18 +798,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">10月もポシュレとっておきお得情報！ポシュレ史上最も売れてる振動マシーン、シワ対策60セカンズ、ロボット掃除機ルンバ、くわばた骨盤ショーツ、小田急高級羽毛布団！</desc>
   </programme>
-<programme start="20211025035500 +0900" stop="20211025040000 +0900" channel="Asahi.jp">
-  <title lang="en">おはようゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？</desc>
-</programme>
-<programme start="20211025040000 +0900" stop="20211025044000 +0900" channel="Asahi.jp">
-  <title lang="en">政見放送・経歴放送</title>
-  <desc lang="en">第４９回衆議院議員総選挙 比例北関東選挙区の政見放送をお送りします。</desc>
-</programme>
-<programme start="20211025044000 +0900" stop="20211025045500 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">フェアリージャパン！５大会連続メダルへ！１０月２９日（金）・３１日（日）２夜ゴールデン！地上波独占放送！福岡県北九州市で有観客で開催…東京を超える熱狂を！</desc>
-</programme>
+  <programme start="20211026043000 +0900" stop="20211026055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211025045500 +0900" stop="20211025080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
@@ -948,13 +919,13 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">フィギュアグランプリシリーズ2021</title>
   <desc lang="en">フィギュアスケートグランプリシリーズ開幕戦！宇野昌磨、佐藤駿が世界王者ネイサン・チェンに挑む！女子は、坂本花織、宮原知子ら日本勢が優勝を狙う！勝負のフリー決戦！</desc>
 </programme>
-<programme start="20211025035900 +0900" stop="20211025040000 +0900" channel="TBS2.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211026042500 +0900" stop="20211026045500 +0900" channel="Asahi.jp">
+  <title lang="en">政見放送・経歴放送</title>
+  <desc lang="en">第４９回衆議院議員総選挙 比例北関東選挙区の政見放送をお送りします。</desc>
 </programme>
-<programme start="20211025040000 +0900" stop="20211025043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211026045500 +0900" stop="20211026080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211025043000 +0900" stop="20211025052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -1042,9 +1013,14 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">政見放送・経歴放送</title>
   <desc lang="en">茨城県内７つの小選挙区に候補者を届け出ている政党の政見を放送します。１回目は「日本維新の会」「自由民主党」「立憲民主党」です。</desc>
 </programme>
-<programme start="20211025040000 +0900" stop="20211025042900 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211026041500 +0900" stop="20211026043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+</programme>
+<programme start="20211026043000 +0900" stop="20211026052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20211025042900 +0900" stop="20211025051000 +0900" channel="TVTokyo.jp">
   <title lang="en">政見放送・経歴放送</title>
@@ -1204,13 +1180,13 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
   <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
 </programme>
-<programme start="20211025035000 +0900" stop="20211025040500 +0900" channel="FujiTV.jp">
+<programme start="20211026041000 +0900" stop="20211026042900 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en"></desc>
 </programme>
-<programme start="20211025040500 +0900" stop="20211025045500 +0900" channel="FujiTV.jp">
+<programme start="20211026042900 +0900" stop="20211026051000 +0900" channel="TVTokyo.jp">
   <title lang="en">政見放送・経歴放送</title>
-  <desc lang="en">公職選挙法に基づいて衆議院議員総選挙東京都小選挙区名簿届出政党の政見を放送します。</desc>
+  <desc lang="en">１０月３１日（日）に投開票される衆議院選挙の比例東京ブロックに届け出をした政党等の政見放送です。</desc>
 </programme>
 <programme start="20211025045500 +0900" stop="20211025052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1314,9 +1290,13 @@ by.The Loch Ness Mouse</desc>
   <title lang="en"></title>
   <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
-<programme start="20211025040000 +0900" stop="20211025050000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211026040500 +0900" stop="20211026045500 +0900" channel="FujiTV.jp">
+  <title lang="en">政見放送・経歴放送</title>
+  <desc lang="en">公職選挙法に基づいて衆議院議員総選挙東京都小選挙区名簿届出政党の政見を放送します。</desc>
+</programme>
+<programme start="20211026045500 +0900" stop="20211026052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211025050000 +0900" stop="20211025051500 +0900" channel="Tokyo MX">
   <title lang="en">感動地球紀行 世界遺産ものがたり</title>
@@ -1513,6 +1493,18 @@ by.The Loch Ness Mouse</desc>
 <programme start="20211026040000 +0900" stop="20211026043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211026043000 +0900" stop="20211026043500 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211026043500 +0900" stop="20211026050000 +0900" channel="Tokyo MX">
+  <title lang="en">洋上の楽園クルーズ</title>
+  <desc lang="en">「華麗なる豪華客船　シルバー・スピリットでゆく　地中海　古代都市クルーズ」</desc>
+</programme>
+<programme start="20211026050000 +0900" stop="20211026053000 +0900" channel="Tokyo MX">
+  <title lang="en">ロンブー亮の釣りならまかせろ!</title>
+  <desc lang="en">ＳＬＪならまかせろ！青物が止まらない⁉　東京湾で夢の爆釣劇！</desc>
 </programme>
 <programme start="20211024233000 +0900" stop="20211025010000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　The LIVE！ 春の特別版</title>
@@ -1715,7 +1707,7 @@ https//otn.fujitv.co.jp
 ＜MC＞バカリズム
 ※第2音声ゲーム音のみ
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211024/6861546/image/c50184ec873993db365124f62b976978.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211025050000 +0900" stop="20211025053000 +0900" channel="FujiOne.jp">
