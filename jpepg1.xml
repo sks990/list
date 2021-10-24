@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211024193000 +0900" stop="20211024200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">モフモフのアザラシや世界三大珍獣など動物園のかわいい赤ちゃんが続々登場！過去１５年の放送から厳選した激カワ映像も！Ｅテレ「沼にハマってきいてみた」とのコラボＳＰ</desc>
-  </programme>
-  <programme start="20211024200000 +0900" stop="20211024204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">栄一は政府を辞め、第一国立銀行の総監役として実業の道を歩む。一方、岩崎弥太郎は大隈重信と結託、急成長する。そんな中、ゑいが体調を崩し、栄一のもとに身を寄せる。</desc>
-  </programme>
-  <programme start="20211024204500 +0900" stop="20211024205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211024205500 +0900" stop="20211024210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -358,13 +346,17 @@
     <title lang="en">ファミリーヒストリー</title>
     <desc lang="en">初めて父方のルーツを知り、驚きの連続。堤姓の由来は？警察官として地域を守り続けた祖父の生きざまに感心。無口だった父が秘めていた家族への思いを知り、涙があふれる。</desc>
   </programme>
-  <programme start="20211024195500 +0900" stop="20211024200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20211025204200 +0900" stop="20211025204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211024200000 +0900" stop="20211024204500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">幕末、徳川将軍がフランスの皇帝に贈った豪華な贈答品が発見された。初めてまみえるヨーロッパの君主に何を贈るべきか？日本美術の逸品に秘められたメッセージを読み解く。</desc>
+  <programme start="20211025204500 +0900" stop="20211025210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211025210000 +0900" stop="20211025220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽新型コロナ最新情報　営業時間短縮要請解除東京・大阪飲食店は…▽参院補選結果受けて衆院選後半・各党の情勢を分析▽あすご結婚眞子さま上皇ご夫妻を訪ね挨拶▽プロ野球</desc>
   </programme>
   <programme start="20211024204500 +0900" stop="20211024210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -678,9 +670,17 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">今回の「あがるアート」は京都の福祉施設「スウィング」をご紹介！“当たり前”とされてきた仕事観や生き方。そこに一石を投じる活動を続けるクリエイティブ集団に密着！</desc>
   </programme>
-  <programme start="20211024195800 +0900" stop="20211024205400 +0900" channel="NipponTV.jp">
-    <title lang="en">世界の果てまでイッテQ!</title>
-    <desc lang="en">東京五輪の銅メダリスト都筑有夢路選手が㊙登場！中岡サーフィン超難技に挑戦▼温泉同好会の爆笑コスプレ旅！オカリナＶＳまひる本気喧嘩再び！関ケ原の戦いを爆笑再現</desc>
+  <programme start="20211025203000 +0900" stop="20211025204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">今、新型コロナ感染の不安から不眠に悩む人が増えている。「寝つけない」「何度も目が覚める」など高齢者に多い睡眠障害の原因とその対策をタイプ別にお伝えする。</desc>
+  </programme>
+  <programme start="20211025204500 +0900" stop="20211025210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211025210000 +0900" stop="20211025212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">秋のスイーツの主役といえば、りんご！今回は初登場のフランス菓子店店主、菅又亮輔さんに、旬のりんごの魅力を満喫できるさまざまなスイーツをご紹介いただきます！</desc>
   </programme>
   <programme start="20211024205400 +0900" stop="20211024210000 +0900" channel="NipponTV.jp">
     <title lang="en">音のソノリティ</title>
@@ -786,6 +786,10 @@
   <programme start="20211025190000 +0900" stop="20211025210000 +0900" channel="NipponTV.jp">
     <title lang="en">有吉ゼミ</title>
     <desc lang="en">デカ盛りVS五輪ハンドボール土井！激辛VS女優趣里▼ドケチ芸能人スギちゃん妻の詰め放題㊙技▼たのしい工藤農園！工藤阿須加＆もう中がとうもろこしを収穫</desc>
+  </programme>
+  <programme start="20211025210000 +0900" stop="20211025225400 +0900" channel="NipponTV.jp">
+    <title lang="en">人生が変わる1分間の深イイ話/しゃべくり007</title>
+    <desc lang="en">人気アイドル！私立恵比寿中学親ばかパパに密着！悪性リンパ腫との闘病生活を激白…▽30年来の親友が暴露‼江戸川区を愛しすぎる女・後藤真希の自宅3㎞圏内生活</desc>
   </programme>
 <programme start="20211024190400 +0900" stop="20211024213000 +0900" channel="Asahi.jp">
   <title lang="en">世界体操2021</title>
@@ -897,9 +901,10 @@
   <title lang="en">帰れマンデー見っけ隊!!</title>
   <desc lang="en">茨城ローカルチェーン店で１位メニューを１発で当てろ！東京五輪・柔道金メダリスト、ウルフ・アロン参戦！激ウマとんかつVS絶品パスタVS茨城ラーメン…１位当てられる？</desc>
 </programme>
-<programme start="20211024190000 +0900" stop="20211024205400 +0900" channel="TBS2.jp">
-  <title lang="en">バナナマンのせっかくグルメ</title>
-  <desc lang="en">日村は千葉県館山へ！海沿い㊙貸別荘で絶品テイクアウト満喫！豪華海鮮丼＆100年愛される焼きたてパン★ギャル曽根は群馬県沼田！超人気町中華＆テンコ盛りパスタ爆食！</desc>
+<programme start="20211025203000 +0900" stop="20211025214800 +0900" channel="Asahi.jp">
+  <title lang="en">クイズプレゼンバラエティー Qさま!!</title>
+  <desc lang="en">今夜のＱさま!!は今旬のインテリ芸人軍団とテレビ朝日10月新ドラマ俳優軍団がマスドリルで激突！
+両軍団の意地とプライドをかけた熱い戦いが繰り広げられる！！</desc>
 </programme>
 <programme start="20211024205400 +0900" stop="20211024210000 +0900" channel="TBS2.jp">
   <title lang="en">フラッシュニュース</title>
@@ -996,6 +1001,10 @@
 <programme start="20211025190000 +0900" stop="20211025210000 +0900" channel="TBS2.jp">
   <title lang="en">アイアム冒険少年</title>
   <desc lang="en">🈑　山頂から最速脱出目指せ！小栗旬主演・日本沈没を背負ってウエンツ参戦！▽脱出島の女王フワちゃん激流をイカダで脱出！パンサー尾形は娘に勝利を誓う！</desc>
+</programme>
+<programme start="20211025210000 +0900" stop="20211025220000 +0900" channel="TBS2.jp">
+  <title lang="en">CDTVライブ!ライブ!</title>
+  <desc lang="en">Ｖ６最後の音楽番組出演！ラストの生パフォーマンス！２６年の歴史が詰まった最高のステージは必見！</desc>
 </programme>
 <programme start="20211024183000 +0900" stop="20211024210000 +0900" channel="TVTokyo.jp">
   <title lang="en">緊急車両24時</title>
@@ -1244,6 +1253,10 @@
   <title lang="en">痛快TV スカッとジャパン</title>
   <desc lang="en">行列店の大逆転実話ＳＰ！カレー＆オムライス＆あじフライ…行列店のグルメ誕生秘話！▽郷ひろみが神店長ドラマ登場！▽ジャニーズ美　少年・浮所飛貴</desc>
 </programme>
+<programme start="20211025210000 +0900" stop="20211025215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
+  <desc lang="en">母娘バトルに、ラジハ騒然！？そんななか、母（中田喜子）が急遽入院することに。心配する娘・たまき（山口紗弥加）だったが、そこで、娘を想う母の愛を知ってしまい…</desc>
+</programme>
 <programme start="20211024190000 +0900" stop="20211024210000 +0900" channel="Tokyo MX">
   <title lang="en">劇場版 おいしい給食 Final Battle</title>
   <desc lang="en">ドラマ第２弾「おいしい給食　ｓｅａｓｏｎ２」放送記念！市原隼人演じる給食マニアの教師と生徒による、給食をめぐる闘いを描く学園グルメコメディの劇場版を放送！</desc>
@@ -1423,6 +1436,10 @@
 <programme start="20211025200000 +0900" stop="20211025210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">都内“時短解除”初日に…飲食店は？街にはどんな変化が？▼練馬区役所に“バンクシー作品”？学生がアートで投票呼びかけ▼深まる秋…今週、都内の天気どうなる？</desc>
+</programme>
+<programme start="20211025210000 +0900" stop="20211025215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">杉村太蔵×森永卓郎！毎週月曜は「ビジネス・マネー」をテーマにお届け。ダンディな大人が知るべき世の中の話題をトーク＆私たちが誤解していた財政の正しい仕組みを解説！</desc>
 </programme>
 <programme start="20211024000000 +0900" stop="20211024015000 +0900" channel="FujiNext.jp">
 <title lang="en">存在理由 〜Raison d'etre〜 さだまさしコンサートツアー 2020</title>
@@ -2069,7 +2086,7 @@ https//otn.fujitv.co.jp
 <programme start="20211024194500 +0900" stop="20211024210000 +0900" channel="kbsworld.jp">
 <title lang="en">優雅な友達（原題）　12　[字][再]</title>
 <desc>ベーシック初放送！親友5人とその妻たちに隠された秘密、2つの殺人事件、友人の死から驚愕の真実が明らかなっていくミステリー　コメディメロドラマ！2020年　全17話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211024/6855085/image/e76120ffc35a021580d63b4c87a0d987.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211024210000 +0900" stop="20211024214000 +0900" channel="kbsworld.jp">
