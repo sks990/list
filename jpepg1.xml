@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211025025600 +0900" stop="20211025035600 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北アルプス 美の点描</title>
-    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
-  </programme>
   <programme start="20211025035600 +0900" stop="20211025043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
@@ -365,6 +361,10 @@
   <programme start="20211026025900 +0900" stop="20211026035900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
+  </programme>
+  <programme start="20211026035900 +0900" stop="20211026043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
   </programme>
   <programme start="20211025004500 +0900" stop="20211025053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -718,10 +718,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211025021600 +0900" stop="20211025034600 +0900" channel="NipponTV.jp">
-    <title lang="en">自転車トラック世界選手権2021</title>
-    <desc lang="en">東京オリンピック銀メダル・梶原悠未が世界選手権連覇を狙う！▽新旧交代の短距離〜パリ五輪に向け新エースの誕生なるか！？▽パンサー向井・稲村亜美・中野浩一・笹崎里菜</desc>
-  </programme>
   <programme start="20211025034600 +0900" stop="20211025041600 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
@@ -815,14 +811,14 @@
     <title lang="en">あなたの番です</title>
     <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！菜奈ちゃんを殺された翔太の反撃！あのキャラの大暴走や衝撃シーンをおさらい！</desc>
   </programme>
-<programme start="20211025015500 +0900" stop="20211025032500 +0900" channel="Asahi.jp">
-  <title lang="en">フィギュアグランプリシリーズ2021</title>
-  <desc lang="en">氷上サバイバル世界一決定戦「グランプリシリーズ」が開幕！宇野昌磨、佐藤駿が世界王者ネイサン・チェンに挑む！女子は、坂本花織、宮原知子ら日本勢が開幕戦優勝を狙う！</desc>
-</programme>
-<programme start="20211025032500 +0900" stop="20211025035500 +0900" channel="Asahi.jp">
-  <title lang="en">フィロのス亭</title>
-  <desc lang="en">『国民的エンターテイナー』を目指して絶賛修業中の“フィロソフィーのダンス”が、持てる力を全部使っていろんなことにチャレンジする新感覚バラエティー！</desc>
-</programme>
+  <programme start="20211026034400 +0900" stop="20211026034500 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211026034500 +0900" stop="20211026043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">10月もポシュレとっておきお得情報！ポシュレ史上最も売れてる振動マシーン、シワ対策60セカンズ、ロボット掃除機ルンバ、くわばた骨盤ショーツ、小田急高級羽毛布団！</desc>
+  </programme>
 <programme start="20211025035500 +0900" stop="20211025040000 +0900" channel="Asahi.jp">
   <title lang="en">おはようゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？</desc>
@@ -952,10 +948,6 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">フィギュアグランプリシリーズ2021</title>
   <desc lang="en">フィギュアスケートグランプリシリーズ開幕戦！宇野昌磨、佐藤駿が世界王者ネイサン・チェンに挑む！女子は、坂本花織、宮原知子ら日本勢が優勝を狙う！勝負のフリー決戦！</desc>
 </programme>
-<programme start="20211025030000 +0900" stop="20211025035900 +0900" channel="TBS2.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
-</programme>
 <programme start="20211025035900 +0900" stop="20211025040000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
@@ -1046,15 +1038,11 @@ by.The Loch Ness Mouse</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211025024500 +0900" stop="20211025031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">人情味あふれる島の物語！とある居酒屋で繰り広げられる人間模様を描いたドラマ！「東京放置食堂」をご紹介！今夜も大島名物“くさや”をかけたクイズを出題！！</desc>
+<programme start="20211026034500 +0900" stop="20211026041500 +0900" channel="TBS2.jp">
+  <title lang="en">政見放送・経歴放送</title>
+  <desc lang="en">茨城県内７つの小選挙区に候補者を届け出ている政党の政見を放送します。１回目は「日本維新の会」「自由民主党」「立憲民主党」です。</desc>
 </programme>
-<programme start="20211025031500 +0900" stop="20211025032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">闇芝居</title>
-  <desc lang="en">第三闇「うしろを見るな」</desc>
-</programme>
-<programme start="20211025032000 +0900" stop="20211025042900 +0900" channel="TVTokyo.jp">
+<programme start="20211025040000 +0900" stop="20211025042900 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1204,13 +1192,17 @@ by.The Loch Ness Mouse</desc>
   <desc lang="en">【ゲスト】湘南乃風、the　shes　gone、Stray　Kids
 【ナビゲーター】南海キャンディーズ</desc>
 </programme>
-<programme start="20211025025500 +0900" stop="20211025034000 +0900" channel="FujiTV.jp">
-  <title lang="en">宮里藍がいま届けたいアスリートの言葉</title>
-  <desc lang="en">東京五輪に向けアスリートの言葉に耳を傾けた宮里藍　五輪にかける情熱や葛藤などリアルな声を聞き出してきた　そんな彼らの未来につなげたいアスリートの言葉</desc>
+<programme start="20211026032000 +0900" stop="20211026035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">あにレコTV</title>
+  <desc lang="en">MCはノンスタ井上と美山加恋！▽「takt　op.Destiny」特集！内山昂輝、若山詩音、本渡楓がVTRで登場！ED曲を歌う中島美嘉のコメントVTRをお届け！</desc>
 </programme>
-<programme start="20211025034000 +0900" stop="20211025035000 +0900" channel="FujiTV.jp">
-  <title lang="en">中央競馬ダイジェスト</title>
-  <desc lang="en">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
+<programme start="20211026035000 +0900" stop="20211026035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+</programme>
+<programme start="20211026035500 +0900" stop="20211026041000 +0900" channel="TVTokyo.jp">
+  <title lang="en">家、ついて行ってイイですか?(明け方)</title>
+  <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
 </programme>
 <programme start="20211025035000 +0900" stop="20211025040500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1314,7 +1306,15 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">偶然見つけたハル</title>
   <desc lang="en">ヒロインだと思っていた自分は漫画の脇役だった！？自由と初恋を懸けたエキストラたちの胸キュンな反抗を描いたファンタジー・ラブコメ</desc>
 </programme>
-<programme start="20211025030000 +0900" stop="20211025050000 +0900" channel="Tokyo MX">
+<programme start="20211026032500 +0900" stop="20211026035000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211026035000 +0900" stop="20211026040500 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211025040000 +0900" stop="20211025050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1501,6 +1501,18 @@ by.The Loch Ness Mouse</desc>
 <programme start="20211026023500 +0900" stop="20211026030500 +0900" channel="Tokyo MX">
   <title lang="en">日本グレートスポット紀行 season2</title>
   <desc lang="en">阿蘇カラクリ研究所・別府ラクテンチ・やまくにかかしワールド</desc>
+</programme>
+<programme start="20211026030500 +0900" stop="20211026033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211026033500 +0900" stop="20211026040000 +0900" channel="Tokyo MX">
+  <title lang="en">JOYnt! JOYのASOBU-TV</title>
+  <desc lang="en">世間知らズと最新スポット巡り　後編</desc>
+</programme>
+<programme start="20211026040000 +0900" stop="20211026043000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211024233000 +0900" stop="20211025010000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　The LIVE！ 春の特別版</title>
