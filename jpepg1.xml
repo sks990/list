@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211026004800 +0900" stop="20211026013400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SONGS</title>
-    <desc lang="en">保存版！Ｖ６最後の「ＳＯＮＧＳ」出演で大泉と初対談！「大ヒットメドレー」に加え、メンバーの熱い思いがこもった「今、届けたい曲メドレー」も！ＮＨＫの秘蔵映像満載！</desc>
-  </programme>
   <programme start="20211026013400 +0900" stop="20211026021400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽スーダンで政変か▽中ロ両軍　日本周辺で合同海上巡視を実施▽習主席が国連復帰５０年で演説▽ウズベキスタン大統領選挙▽オーストラリア　コロナ禍の音楽療法※ＳＤＧｓ</desc>
@@ -345,6 +341,10 @@
   <programme start="20211027002000 +0900" stop="20211027011900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">メジャー４年目で全米に大旋風を巻き起こした大谷翔平選手。今シーズン、二刀流の進化を遂げた舞台裏で何があったのか？大谷選手への最新インタビューと密着映像で迫る。</desc>
+  </programme>
+  <programme start="20211027011900 +0900" stop="20211027020400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">群青領域</title>
+    <desc lang="en">超絶人気ロックバンドのメンバー、キム・ジュニは、ファン公認の恋人でボーカルの陽樹の裏切りに傷つき、ＳＮＳの標的にもなり、海辺の町へ逃げる。しかしそこには…</desc>
   </programme>
   <programme start="20211026002500 +0900" stop="20211026053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -694,14 +694,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211026005900 +0900" stop="20211026012900 +0900" channel="NipponTV.jp">
-    <title lang="en">サムライカアサン</title>
-    <desc lang="en">激うざオカン・伊佐木よい子が、バリバリ反抗期の高３の息子・たけしに、うっとうしいほどの愛を注ぎこむ！笑いとホロリがいっぱいの、全力愛情コメディ！</desc>
-  </programme>
-  <programme start="20211026012900 +0900" stop="20211026015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!2</title>
-    <desc lang="en">乃木坂４６が昭和・平成の名曲をカバーで熱唱▽「ハイスクールララバイ」黒見＆矢久保が松本伊代とコントに挑戦▽秋元真夏「センチメンタル・ジャーニー」▽ブラビ＆羞恥心</desc>
-  </programme>
   <programme start="20211026015900 +0900" stop="20211026034400 +0900" channel="NipponTV.jp">
     <title lang="en">あなたの番です</title>
     <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！菜奈ちゃんを殺された翔太の反撃！あのキャラの大暴走や衝撃シーンをおさらい！</desc>
@@ -790,18 +782,14 @@
     <title lang="en">Who is Princess?</title>
     <desc lang="en">日本全国から応募者を募り開催してきた、従来のオーディション番組とはひと味違う“デビュー・サバイバル・プログラム”が、今秋誕生！</desc>
   </programme>
-<programme start="20211026002000 +0900" stop="20211026012000 +0900" channel="Asahi.jp">
-  <title lang="en">チョコプラCUP</title>
-  <desc lang="en">峯岸みなみがブチギレ!?ジャンポケ太田が一撃で論破!?チョコプラ自身も大奮闘で大波乱！ＭＣチョコレートプラネット＆松村沙友理がお届けする前代未聞の実験的バトル開催！</desc>
-</programme>
-<programme start="20211026012000 +0900" stop="20211026012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211026012600 +0900" stop="20211026015600 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
+  <programme start="20211027012900 +0900" stop="20211027013500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="NipponTV.jp">
+    <title lang="en">シキザクラ</title>
+    <desc lang="en">『成瀬　楓』は走り高跳びを辞めた過去があった。かつて優勝争いをしたライバルの陽子が楓の前にあらわれる。陽子に迫るオニの魔の手。楓は再び飛ぶことができるか。</desc>
+  </programme>
 <programme start="20211026015600 +0900" stop="20211026021600 +0900" channel="Asahi.jp">
   <title lang="en">イグナッツ!!</title>
   <desc lang="en">人より秀でた才能を職業にするカルチャーゲストを、４人が全力で褒めまくる新企画「ちやほや倶楽部」。３人目のゲストは、自宅が超豪邸⁉</desc>
@@ -909,9 +897,18 @@ by.Leon Russell</desc>
   <title lang="en">マッドマックスTV</title>
   <desc lang="en">予測不能…新ＭＣニューヨーク＆さらば森田を迎えたアブナイ番組！野性爆弾ロッシーお悩み相談にアノ芸人が登場で…スタジオ大混乱！？ゲストの鬼越トマホーク大暴れ！！</desc>
 </programme>
-<programme start="20211026005800 +0900" stop="20211026012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">“バカネタNo.1”を決めるSPトーナメント！第3ブロック≪リズムバカネタバトル！≫【インスタントジョンソンvs新作のハーモニカvs永井佑一郎vs西村ヒロチョ】</desc>
+<programme start="20211027012000 +0900" stop="20211027012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+</programme>
+<programme start="20211027012600 +0900" stop="20211027015600 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
+</programme>
+<programme start="20211027015600 +0900" stop="20211027021600 +0900" channel="Asahi.jp">
+  <title lang="en">ホリケンのみんなともだち</title>
+  <desc lang="en">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルな唯一無二のバラエティー番組</desc>
 </programme>
 <programme start="20211026012800 +0900" stop="20211026020800 +0900" channel="TBS2.jp">
   <title lang="en">アカデミーナイトG</title>
@@ -1001,13 +998,9 @@ by.Leon Russell</desc>
   <title lang="en">凛子さんはシてみたい</title>
   <desc lang="en">🈖🈑「私…処女なの」上坂（戸塚祥太）にカミングアウトした凛子（高田夏帆）。そして再びホテルで会う約束をした、決戦の火曜日！しかし、凛子のもとに部長から本の電話が</desc>
 </programme>
-<programme start="20211026003000 +0900" stop="20211026010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">Dreamer 乙</title>
-  <desc lang="en">DreamerZと連動＆iCONZ応援番組！GENERATIONS　from　EXILE　TRIBEやTHE　RAMPAGE　from　EXILE　TRIBEの超貴重オーディション映像も盛り沢山！</desc>
-</programme>
-<programme start="20211026010000 +0900" stop="20211026013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼１１月の舞台に出演する研修生たちの稽古に密着！▼気になる物語と配役は？▼劇中歌のファン投票ベスト１０も発表</desc>
+<programme start="20211027013500 +0900" stop="20211027024500 +0900" channel="TBS2.jp">
+  <title lang="en">PLAYLIST</title>
+  <desc lang="en">今後の活動に注目の　今世の中に届けたい期待のアーティスト達をご紹介！他では見られないライブパフォーマンスも必見！</desc>
 </programme>
 <programme start="20211026013000 +0900" stop="20211026020000 +0900" channel="TVTokyo.jp">
   <title lang="en">境界戦機</title>
@@ -1171,13 +1164,13 @@ by.Leon Russell</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20211026003500 +0900" stop="20211026010500 +0900" channel="FujiTV.jp">
-  <title lang="en">何するカトゥーン?</title>
-  <desc lang="en">ＫＡＴ－ＴＵＮデビュー１５周年を迎えたことを記念したアニバーサリー番組。今回は男３人金沢温泉旅！番組初の地方ロケでメンバー３人水入らずの旅を敢行！</desc>
+<programme start="20211027013000 +0900" stop="20211027013500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
 </programme>
-<programme start="20211026010500 +0900" stop="20211026013500 +0900" channel="FujiTV.jp">
-  <title lang="en">スイートリベンジ</title>
-  <desc lang="en">善人ヅラしたゲス！世直し配信オトコ　前編</desc>
+<programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">紙とさまぁ〜ず</title>
+  <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
 </programme>
 <programme start="20211026013500 +0900" stop="20211026020000 +0900" channel="FujiTV.jp">
   <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
@@ -1277,21 +1270,9 @@ by.Leon Russell</desc>
   <title lang="en">東京ラブストーリー</title>
   <desc lang="en">逢えない時間</desc>
 </programme>
-<programme start="20211026003000 +0900" stop="20211026010000 +0900" channel="Tokyo MX">
-  <title lang="en">海賊王女</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211026010000 +0900" stop="20211026010500 +0900" channel="Tokyo MX">
-  <title lang="en">BanG Dream! ガルパ☆ピコ ふぃーばー!</title>
-  <desc lang="en">＃３「スポーツマンシップにほっこり」</desc>
-</programme>
-<programme start="20211026010500 +0900" stop="20211026013000 +0900" channel="Tokyo MX">
-  <title lang="en">DOGENGERS</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211026013000 +0900" stop="20211026013500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「ギニュー特戦隊参上‼」</desc>
 </programme>
 <programme start="20211026013500 +0900" stop="20211026020500 +0900" channel="Tokyo MX">
   <title lang="en">Girls Pop Paradise</title>
@@ -1493,6 +1474,14 @@ by.Leon Russell</desc>
   <title lang="en">かぎなど</title>
   <desc lang="en">Key初のクロスオーバーワールド</desc>
 </programme>
+<programme start="20211027010500 +0900" stop="20211027013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+</programme>
+<programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">オリジナルアルバム「八面六臂」をリリースするＳＫＹ－ＨＩが登場！“ＢＭＳＧ”設立から１年、所属アーティストからのコメントと共に、代表取締役としての顔に迫る！</desc>
+</programme>
 <programme start="20211025231000 +0900" stop="20211026004000 +0900" channel="FujiNext.jp">
 <title lang="en">加山雄三復帰後初ライブ!!! 〜若大将60年 Inside Stories〜</title>
 <desc>加山雄三の復帰後初＆デビュー60周年記念の1夜限りのスペシャルライブを、インタビューとともに独占放送！
@@ -1512,7 +1501,7 @@ by.Leon Russell</desc>
 <title lang="en">とうとみBL夜会 〜はじめての夜〜</title>
 <desc>本気でBLを愛する声優たちが「尊い」BL作品を紹介したり、本格的朗読劇をお届けする番組！
 ＜出演＞森川智之　鈴木裕斗　児玉卓也　葉山翔太
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211025/6873177/image/cb42ea73e38c4c719975e0f518190376.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211026020000 +0900" stop="20211026030000 +0900" channel="FujiNext.jp">
@@ -2109,7 +2098,7 @@ https//otn.fujitv.co.jp
 <programme start="20211026003000 +0900" stop="20211026020000 +0900" channel="kbsworld.jp">
 <title lang="en">ユ・ヒヨルのスケッチブック　[字]</title>
 <desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211025/6868332/image/549afc258f1d01d0ad45e68ab372fb61.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211026020000 +0900" stop="20211026031000 +0900" channel="kbsworld.jp">
