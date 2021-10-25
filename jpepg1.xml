@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211026035900 +0900" stop="20211026043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">映像詩</title>
-    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
-  </programme>
-  <programme start="20211026043500 +0900" stop="20211026044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ヘンなＡＢＣ」うた一城みゆ希、東京放送児童合唱団／「空飛ぶ林檎」うた財津和夫</desc>
-  </programme>
-  <programme start="20211026044000 +0900" stop="20211026045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「死生観を考える」齋藤孝（明治大学教授）</desc>
-  </programme>
   <programme start="20211026045000 +0900" stop="20211026050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">衆院選の争点、今回は社会保障。少子高齢化で社会保障費は大きく増加、課題は山積みになっている。消費税や給付金をはじめ社会保障全般をめぐる各党の対応を解説する。</desc>
@@ -345,6 +333,26 @@
   <programme start="20211027031500 +0900" stop="20211027041500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ハンガリー・ブダペストを旅する。</desc>
+  </programme>
+  <programme start="20211027041500 +0900" stop="20211027043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からポルトガルを、世界遺産を巡りながら紹介する。</desc>
+  </programme>
+  <programme start="20211027043500 +0900" stop="20211027044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「ぼくの目は猫の目」うた忌野清志郎／「サラマンドラ」うた尾藤イサオ</desc>
+  </programme>
+  <programme start="20211027044000 +0900" stop="20211027045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「地球温暖化対策　ＣＯＰ２６への注目」田村堅太郎（地球環境戦略研究機関上席研究員）</desc>
+  </programme>
+  <programme start="20211027045000 +0900" stop="20211027050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">衆院選の争点シリーズ、今回は外交・安全保障。米中の対立、北朝鮮のミサイル発射など日本を取り巻く安全保障環境は厳しさを増している。日本がとるべき道を考える。</desc>
+  </programme>
+  <programme start="20211027050000 +0900" stop="20211027060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20211026002500 +0900" stop="20211026053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -694,10 +702,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211026034500 +0900" stop="20211026043000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">10月もポシュレとっておきお得情報！ポシュレ史上最も売れてる振動マシーン、シワ対策60セカンズ、ロボット掃除機ルンバ、くわばた骨盤ショーツ、小田急高級羽毛布団！</desc>
-  </programme>
   <programme start="20211026043000 +0900" stop="20211026055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽きょう眞子さまご結婚。小室さんと会見へ▽東京の感染１７人。今年最少に▽２０年前の殺人で男を逮捕</desc>
@@ -794,14 +798,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en"></desc>
   </programme>
-<programme start="20211026030000 +0900" stop="20211026042500 +0900" channel="Asahi.jp">
-  <title lang="en">フィギュアグランプリシリーズ2021</title>
-  <desc lang="en">フィギュアスケートグランプリシリーズ開幕戦！宇野昌磨、佐藤駿が世界王者ネイサン・チェンに挑む！女子は、坂本花織、宮原知子ら日本勢が優勝を狙う！勝負のフリー決戦！</desc>
-</programme>
-<programme start="20211026042500 +0900" stop="20211026045500 +0900" channel="Asahi.jp">
-  <title lang="en">政見放送・経歴放送</title>
-  <desc lang="en">第４９回衆議院議員総選挙 比例北関東選挙区の政見放送をお送りします。</desc>
-</programme>
+  <programme start="20211027043000 +0900" stop="20211027055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211026045500 +0900" stop="20211026080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">眞子さまきょう会見へ…都内で渡米準備を開始▼配達員がラブレター…渡された女性語る恐怖▼時短解除にぎわう夜▼大雨や暴風に要警戒(他)</desc>
@@ -922,13 +922,13 @@ by.Leon Russell</desc>
   <title lang="en">政見放送・経歴放送</title>
   <desc lang="en">第４９回衆議院議員総選挙 比例北関東選挙区の政見放送をお送りします。</desc>
 </programme>
-<programme start="20211026034500 +0900" stop="20211026041500 +0900" channel="TBS2.jp">
-  <title lang="en">政見放送・経歴放送</title>
-  <desc lang="en">茨城県内７つの小選挙区に候補者を届け出ている政党の政見を放送します。１回目は「日本維新の会」「自由民主党」「立憲民主党」です。</desc>
+<programme start="20211027044000 +0900" stop="20211027045500 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">フェアリージャパン！５大会連続メダルへ！１０月２９日（金）・３１日（日）２夜ゴールデン！地上波独占放送！福岡県北九州市で有観客で開催…東京を超える熱狂を！</desc>
 </programme>
-<programme start="20211026041500 +0900" stop="20211026043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211027045500 +0900" stop="20211027080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211026043000 +0900" stop="20211026052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -1013,13 +1013,14 @@ by.Leon Russell</desc>
   <title lang="en">政見放送・経歴放送</title>
   <desc lang="en">茨城県内７つの小選挙区に候補者を届け出ている政党の政見を放送します。２回目は「自由民主党」「国民民主党」「日本共産党」です。</desc>
 </programme>
-<programme start="20211026035500 +0900" stop="20211026041000 +0900" channel="TVTokyo.jp">
-  <title lang="en">家、ついて行ってイイですか?(明け方)</title>
-  <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
+<programme start="20211027041500 +0900" stop="20211027043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211026041000 +0900" stop="20211026042900 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211027043000 +0900" stop="20211027052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20211026042900 +0900" stop="20211026051000 +0900" channel="TVTokyo.jp">
   <title lang="en">政見放送・経歴放送</title>
@@ -1175,17 +1176,13 @@ by.Leon Russell</desc>
   <title lang="en">女ともだち</title>
   <desc lang="en">産婦人科で診察を受け、アミーゴスにやって来たセツは吐き気を催し、妊娠がちさとにバレてしまう。平井の反応を聞いたちさとは怒って、平井に電話するというのだが…。</desc>
 </programme>
-<programme start="20211027035500 +0900" stop="20211027040000 +0900" channel="TVTokyo.jp">
+<programme start="20211027035500 +0900" stop="20211027042900 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20211026035000 +0900" stop="20211026040500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211026040500 +0900" stop="20211026045500 +0900" channel="FujiTV.jp">
+<programme start="20211027042900 +0900" stop="20211027051000 +0900" channel="TVTokyo.jp">
   <title lang="en">政見放送・経歴放送</title>
-  <desc lang="en">公職選挙法に基づいて衆議院議員総選挙東京都小選挙区名簿届出政党の政見を放送します。</desc>
+  <desc lang="en">１０月３１日（日）に投開票される衆議院選挙の比例東京ブロックに届け出をした政党等の政見放送です。</desc>
 </programme>
 <programme start="20211026045500 +0900" stop="20211026052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1282,17 +1279,13 @@ by.Leon Russell</desc>
   <title lang="en"></title>
   <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
-<programme start="20211026033500 +0900" stop="20211026040000 +0900" channel="Tokyo MX">
-  <title lang="en">JOYnt! JOYのASOBU-TV</title>
-  <desc lang="en">世間知らズと最新スポット巡り　後編</desc>
+<programme start="20211027040500 +0900" stop="20211027045500 +0900" channel="FujiTV.jp">
+  <title lang="en">政見放送・経歴放送</title>
+  <desc lang="en">公職選挙法に基づいて衆議院議員総選挙東京都小選挙区名簿届出政党の政見を放送します。</desc>
 </programme>
-<programme start="20211026040000 +0900" stop="20211026043000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211026043000 +0900" stop="20211026043500 +0900" channel="Tokyo MX">
-  <title lang="en">路面電車のある風景</title>
-  <desc lang="en"> </desc>
+<programme start="20211027045500 +0900" stop="20211027052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211026043500 +0900" stop="20211026050000 +0900" channel="Tokyo MX">
   <title lang="en">洋上の楽園クルーズ</title>
@@ -1493,6 +1486,14 @@ by.Leon Russell</desc>
 <programme start="20211027040000 +0900" stop="20211027043000 +0900" channel="Tokyo MX">
   <title lang="en">MUSIC B.B.</title>
   <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+</programme>
+<programme start="20211027043000 +0900" stop="20211027050000 +0900" channel="Tokyo MX">
+  <title lang="en">うたなび!</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211027050000 +0900" stop="20211027053000 +0900" channel="Tokyo MX">
+  <title lang="en">日本で味わう世界食堂!</title>
+  <desc lang="en">チリ／モンゴル</desc>
 </programme>
 <programme start="20211025231000 +0900" stop="20211026004000 +0900" channel="FujiNext.jp">
 <title lang="en">加山雄三復帰後初ライブ!!! 〜若大将60年 Inside Stories〜</title>
@@ -1700,7 +1701,7 @@ by.Leon Russell</desc>
 <desc>『より道の湯温泉編 後篇』
 撮影地より道の湯
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211025/6873574/image/e48431419fb56b1de18ddf40eb055be3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211026050000 +0900" stop="20211026051500 +0900" channel="FujiOne.jp">
@@ -2128,7 +2129,7 @@ https//otn.fujitv.co.jp
 <programme start="20211026042000 +0900" stop="20211026050000 +0900" channel="kbsworld.jp">
 <title lang="en">家族を守れ　77　[字]</title>
 <desc>2015年 全123話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211025/6868335/image/2effe84f39c0eaa0441d1ca862f8052d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211026050000 +0900" stop="20211026060000 +0900" channel="kbsworld.jp">
