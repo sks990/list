@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211025204500 +0900" stop="20211025210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20211025210000 +0900" stop="20211025220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽新型コロナ最新情報　営業時間短縮要請解除東京・大阪飲食店は…▽参院補選結果受けて衆院選後半・各党の情勢を分析▽あすご結婚眞子さま上皇ご夫妻を訪ね挨拶▽プロ野球</desc>
@@ -354,21 +350,9 @@
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">きょうご結婚眞子さま小室さん・会見お二人で出席・何を語る？▽ＡＳＥＡＮ首脳会議で米中対立は…▽衆院選党首を追って自民立憲大詰め！プロ野球優勝争いセ・リーグは</desc>
   </programme>
-  <programme start="20211025204500 +0900" stop="20211025210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20211025210000 +0900" stop="20211025212500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理</title>
-    <desc lang="en">秋のスイーツの主役といえば、りんご！今回は初登場のフランス菓子店店主、菅又亮輔さんに、旬のりんごの魅力を満喫できるさまざまなスイーツをご紹介いただきます！</desc>
-  </programme>
-  <programme start="20211025212500 +0900" stop="20211025213000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理ビギナーズ</title>
-    <desc lang="en">秋になると風味が増すきのこ。新米と合わせて炊き込みご飯で季節の味覚を楽しみましょう。和風、洋風の味つけでバリエーションも広がります。持ち味を生かすコツは必見。</desc>
-  </programme>
-  <programme start="20211025213000 +0900" stop="20211025215500 +0900" channel="eTele.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">毎回アイドルを迎えて、京都・奈良の仏像を訪ねるシリーズ。今回は奈良・薬師寺。仏像にもセンターを際立たせる仕掛けがあった！</desc>
+  <programme start="20211026220000 +0900" stop="20211026223000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">クローズアップ現代</title>
+    <desc lang="en">コロナの中、ネットのライブ配信などへの「投げ銭」が急拡大。一方で未成年者が親のクレジットカードを勝手に使い高額を支払うトラブルも相次いでいる。最前線を追跡取材。</desc>
   </programme>
   <programme start="20211025215500 +0900" stop="20211025220000 +0900" channel="eTele.jp">
     <title lang="en">まる得マガジン</title>
@@ -706,9 +690,21 @@
     <title lang="en">きょうの料理</title>
     <desc lang="en">６名の料理講師が自慢の「簡単レシピ」をリレー形式で紹介するシリーズ企画。今月のお題は「さつまいも１本あったなら・・・？」スイーツからおかずまで、圧巻のレシピ！</desc>
   </programme>
-  <programme start="20211025190000 +0900" stop="20211025210000 +0900" channel="NipponTV.jp">
-    <title lang="en">有吉ゼミ</title>
-    <desc lang="en">デカ盛りVS五輪ハンドボール土井！激辛VS女優趣里▼ドケチ芸能人スギちゃん妻の詰め放題㊙技▼たのしい工藤農園！工藤阿須加＆もう中がとうもろこしを収穫</desc>
+  <programme start="20211026212500 +0900" stop="20211026213000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理ビギナーズ</title>
+    <desc lang="en">きのこは炒めたり、焼いたりすると香りが一層際立ちます。シンプル調理で香りを生かしたら、それだけでごちそうに。肉と一緒に調理すれば、食べごたえも満点です。</desc>
+  </programme>
+  <programme start="20211026213000 +0900" stop="20211026215500 +0900" channel="eTele.jp">
+    <title lang="en">趣味どきっ!</title>
+    <desc lang="en">大好きなパンをほおばる幸せをあなたに！今回は、デニッシュ！バターの香りとサクっ＆しっとりの食感、フルーツの酸味とクリームの甘みが混然一体となった北欧の味！</desc>
+  </programme>
+  <programme start="20211026215500 +0900" stop="20211026220000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">脳は適切なトレーニングをすれば、何歳からでも成長できる。脳を機能別に８つのエリアに分け、それぞれのトレーニング方法を紹介。</desc>
+  </programme>
+  <programme start="20211026220000 +0900" stop="20211026224500 +0900" channel="eTele.jp">
+    <title lang="en">先人たちの底力 知恵泉</title>
+    <desc lang="en">放送作家・作詞家などマルチな才能を発揮した永六輔。「夢であいましょう」の後は舞台をラジオに。生涯をかけて伝えたかったことは何だったのか？黒柳徹子さんが読み解く。</desc>
   </programme>
   <programme start="20211025210000 +0900" stop="20211025225400 +0900" channel="NipponTV.jp">
     <title lang="en">人生が変わる1分間の深イイ話/しゃべくり007</title>
@@ -802,15 +798,14 @@
     <title lang="en">ザ!世界仰天ニュース</title>
     <desc lang="en">身近な危険…ＳＮＳで1500万失ったエリート女性…謎のダイレクトメッセージで誘導！衝撃の手口＆犬に噛まれ発熱！原因不明で医師が手探りで原因究明＆危ない生物</desc>
   </programme>
-<programme start="20211025203000 +0900" stop="20211025214800 +0900" channel="Asahi.jp">
-  <title lang="en">クイズプレゼンバラエティー Qさま!!</title>
-  <desc lang="en">今夜のＱさま!!は今旬のインテリ芸人軍団とテレビ朝日10月新ドラマ俳優軍団がマスドリルで激突！
-両軍団の意地とプライドをかけた熱い戦いが繰り広げられる！！</desc>
-</programme>
-<programme start="20211025214800 +0900" stop="20211025215400 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">民族色鮮やかな辺境の道・中国雲南省</desc>
-</programme>
+  <programme start="20211026215400 +0900" stop="20211026220000 +0900" channel="NipponTV.jp">
+    <title lang="en">つながるまちかど</title>
+    <desc lang="en">街角で見つけた、心温まる“やさしいコトバ”を、そのエピソードとともにご紹介します。</desc>
+  </programme>
+  <programme start="20211026220000 +0900" stop="20211026230000 +0900" channel="NipponTV.jp">
+    <title lang="en">一撃解明バラエティ ひと目でわかる!!</title>
+    <desc lang="en">亀梨和也高嶋ちさ子チョコプラが世の中の気になる疑問を1枚の写真や動画で一撃解明‼空から魚が!?アメリカのスケールデカすぎ魚不足の解消方法が…ひと目でわかる！</desc>
+  </programme>
 <programme start="20211025215400 +0900" stop="20211025231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">約１年ぶりに飲食店の時短要請が全面解除…都心の人流に変化は？“夜の街”を総力中継▽一部地域で下げ止まり？リバウンド懸念も▽プロ野球</desc>
@@ -923,9 +918,13 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">林修の今でしょ!講座</title>
   <desc lang="en">東大生５００人が選ぶ‼「勉強になると思った東京の名所ベスト２５」東大生の目線でみると、この名所は何がスゴい？勉強になるポイントがわかる！</desc>
 </programme>
-<programme start="20211025190000 +0900" stop="20211025210000 +0900" channel="TBS2.jp">
-  <title lang="en">アイアム冒険少年</title>
-  <desc lang="en">🈑　山頂から最速脱出目指せ！小栗旬主演・日本沈没を背負ってウエンツ参戦！▽脱出島の女王フワちゃん激流をイカダで脱出！パンサー尾形は娘に勝利を誓う！</desc>
+<programme start="20211026214800 +0900" stop="20211026215400 +0900" channel="Asahi.jp">
+  <title lang="en">世界の街道をゆく</title>
+  <desc lang="en">民族色鮮やかな辺境の道・中国雲南省</desc>
+</programme>
+<programme start="20211026215400 +0900" stop="20211026231000 +0900" channel="Asahi.jp">
+  <title lang="en">報道ステーション</title>
+  <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
 <programme start="20211025210000 +0900" stop="20211025220000 +0900" channel="TBS2.jp">
   <title lang="en">CDTVライブ!ライブ!</title>
@@ -1023,10 +1022,9 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">学校へ行こう!2021</title>
   <desc lang="en">学生と向き合い続けたV６の青春バラエティが今夜最後の大復活！永久保存版です</desc>
 </programme>
-<programme start="20211025200000 +0900" stop="20211025215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">月曜プレミア8</title>
-  <desc lang="en">“たい焼き”を愛すロシア美女が一日1000個売れる名店で憧れの“手焼き修業”し感動！
-▽“しょうゆ”愛するアメリカ男性が小豆島で150年続く巨大桶仕込みの職人技に…感涙</desc>
+<programme start="20211026220000 +0900" stop="20211026225700 +0900" channel="TBS2.jp">
+  <title lang="en">婚姻届に判を捺しただけですが</title>
+  <desc lang="en">🈑🈓清野菜名＆坂口健太郎が送る偽装夫婦ラブコメディ！偽装妻・明葉が堅物のこじらせ夫・百瀬の実家で大波乱!兄夫婦に偽装結婚がバレる！？そして芽生える恋心！？</desc>
 </programme>
 <programme start="20211025215400 +0900" stop="20211025220000 +0900" channel="TVTokyo.jp">
   <title lang="en">東京GOOD!</title>
@@ -1189,13 +1187,13 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">開運!なんでも鑑定団</title>
   <desc lang="en">■物置に幻の絵！？幻想的な三色スミレ…＜昭和巨匠作＞に衝撃値■超絶名刀…＜藤四郎＞に驚き鑑定額■貴重…＜エレキの神様＞のギター！■アノ超高額お宝は今！？■</desc>
 </programme>
-<programme start="20211025200000 +0900" stop="20211025210000 +0900" channel="FujiTV.jp">
-  <title lang="en">痛快TV スカッとジャパン</title>
-  <desc lang="en">行列店の大逆転実話ＳＰ！カレー＆オムライス＆あじフライ…行列店のグルメ誕生秘話！▽郷ひろみが神店長ドラマ登場！▽ジャニーズ美　少年・浮所飛貴</desc>
+<programme start="20211026215400 +0900" stop="20211026220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">東京交差点</title>
+  <desc lang="en">古典や現代アート、伝統芸能・工芸、音楽、食など、幅広い東京の芸術・文化の魅力を紹介する番組。各々の芸術・文化の中で受け継ぐ「伝統」と進化した「革新」を描きます。</desc>
 </programme>
-<programme start="20211025210000 +0900" stop="20211025215400 +0900" channel="FujiTV.jp">
-  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
-  <desc lang="en">母娘バトルに、ラジハ騒然！？そんななか、母（中田喜子）が急遽入院することに。心配する娘・たまき（山口紗弥加）だったが、そこで、娘を想う母の愛を知ってしまい…</desc>
+<programme start="20211026220000 +0900" stop="20211026225800 +0900" channel="TVTokyo.jp">
+  <title lang="en">WBS</title>
+  <desc lang="en">“脱東京”進む中…人口増の意外な街は？▼焼き肉が半額!?世界的な価格高騰でどう実現▼来年の「変わり種福袋」を先行公開▼中国・少数民族の街…“脱貧困”は本当？</desc>
 </programme>
 <programme start="20211025215400 +0900" stop="20211025220000 +0900" channel="FujiTV.jp">
   <title lang="en">四季彩キッチン</title>
@@ -1299,14 +1297,6 @@ by.The Loch Ness Mouse</desc>
   <title lang="en">所JAPAN</title>
   <desc lang="en">カズレーザー体操競技に挑戦！鉄棒の大技㊙アイテム＆バケツで基礎練習する種目は？
 ▽紫吹淳が総額８０万円の高級ブランド私物＆佐々木希が思い出の育児本をメルカリ出品</desc>
-</programme>
-<programme start="20211025200000 +0900" stop="20211025210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">都内“時短解除”初日に…飲食店は？街にはどんな変化が？▼練馬区役所に“バンクシー作品”？学生がアートで投票呼びかけ▼深まる秋…今週、都内の天気どうなる？</desc>
-</programme>
-<programme start="20211025210000 +0900" stop="20211025215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">杉村太蔵×森永卓郎！毎週月曜は「ビジネス・マネー」をテーマにお届け。ダンディな大人が知るべき世の中の話題をトーク＆私たちが誤解していた財政の正しい仕組みを解説！</desc>
 </programme>
 <programme start="20211025215400 +0900" stop="20211025220000 +0900" channel="Tokyo MX">
   <title lang="en">VIRTUAL BUZZ TALK!</title>
@@ -1511,6 +1501,14 @@ by.The Loch Ness Mouse</desc>
 <programme start="20211026210000 +0900" stop="20211026215400 +0900" channel="Tokyo MX">
   <title lang="en">バラいろダンディ</title>
   <desc lang="en">人気ドラマ「あなたの番です」映画「テルマエ・ロマエ」にも出演！俳優とタクシードライバーを兼業するインド人男性の素顔とは？</desc>
+</programme>
+<programme start="20211026215400 +0900" stop="20211026220000 +0900" channel="Tokyo MX">
+  <title lang="en">Artist18File</title>
+  <desc lang="en">今月のアーティストは遥海　今回は自身の新曲「声」を熱唱！</desc>
+</programme>
+<programme start="20211026220000 +0900" stop="20211026222900 +0900" channel="Tokyo MX">
+  <title lang="en">ドラゴンボールZ</title>
+  <desc lang="en">＃７４「大誤算‼　ギニューがカエルになっちゃった」</desc>
 </programme>
 <programme start="20211024233000 +0900" stop="20211025010000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　The LIVE！ 春の特別版</title>
@@ -2122,7 +2120,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2006年11月12日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211025/6873639/image/f89b1c092642aa14ad5b17894a98fb08.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211025220000 +0900" stop="20211025223000 +0900" channel="FujiTwo.jp">
@@ -2332,7 +2330,7 @@ https//otn.fujitv.co.jp
 <programme start="20211025210000 +0900" stop="20211025220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211025/6868329/image/64af137054227afc65879a8284a7aeea.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211025220000 +0900" stop="20211025232000 +0900" channel="kbsworld.jp">
