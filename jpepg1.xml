@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211027024500 +0900" stop="20211027031500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">天皇杯サッカーは、日本のサッカー界で最も歴史がある大会。準々決勝「川崎ー鹿島」「磐田ー大分」「名古屋ーセレッソ大阪」「ガンバ大阪ー浦和」の見どころを伝える。</desc>
-  </programme>
   <programme start="20211027031500 +0900" stop="20211027041500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ハンガリー・ブダペストを旅する。</desc>
@@ -377,6 +373,10 @@
   <programme start="20211028023200 +0900" stop="20211028032200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">第63回NHK杯ジャンプ</title>
     <desc lang="en">シーズン幕開けを告げるＮＨＫ杯ジャンプ。北京五輪を前に日本のトップ選手が勢ぞろい！男子はエース小林陵侑と佐藤幸椰の争いか？女子は髙梨沙羅が６回目の優勝に挑む。</desc>
+  </programme>
+  <programme start="20211028032200 +0900" stop="20211028040300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、オーストリア・ウィーンを旅する。</desc>
   </programme>
   <programme start="20211027002500 +0900" stop="20211027053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -813,15 +813,10 @@
     <title lang="en">浜ちゃんが!</title>
     <desc lang="en">新企画！ＯＡの尺２６分３０秒だけカメラを回し、編集せずにそのままＯＡする生放送のようなスリリングな企画の後編です！</desc>
   </programme>
-<programme start="20211027025600 +0900" stop="20211027030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211027030000 +0900" stop="20211027033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211028032900 +0900" stop="20211028042900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
+  </programme>
 <programme start="20211027033000 +0900" stop="20211027040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -943,10 +938,13 @@
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20211027025200 +0900" stop="20211027034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211028033000 +0900" stop="20211028040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211028040000 +0900" stop="20211028043000 +0900" channel="Asahi.jp">
+  <title lang="en">政見放送・経歴放送</title>
+  <desc lang="en">第４９回衆議院議員総選挙 比例北関東選挙区の政見放送をお送りします。</desc>
 </programme>
 <programme start="20211027034500 +0900" stop="20211027041500 +0900" channel="TBS2.jp">
   <title lang="en">政見放送・経歴放送</title>
@@ -1033,24 +1031,11 @@
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211027023500 +0900" stop="20211027030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
+<programme start="20211028034500 +0900" stop="20211028043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211027030500 +0900" stop="20211027032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">困難を乗り越えた人たちの熱い言葉が聞けるオンラインイベント！「Climbers　2021-秋-」をご紹介。今夜は特別に、前回イベントの内容がわかるVTRをちょい見せします！</desc>
-</programme>
-<programme start="20211027032000 +0900" stop="20211027032500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
-</programme>
-<programme start="20211027032500 +0900" stop="20211027035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">女ともだち</title>
-  <desc lang="en">産婦人科で診察を受け、アミーゴスにやって来たセツは吐き気を催し、妊娠がちさとにバレてしまう。平井の反応を聞いたちさとは怒って、平井に電話するというのだが…。</desc>
-</programme>
-<programme start="20211027035500 +0900" stop="20211027042900 +0900" channel="TVTokyo.jp">
+<programme start="20211027040000 +0900" stop="20211027042900 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1193,14 +1178,18 @@
   <title lang="en">きのう何食べた?</title>
   <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念SP▼なぜかイラ立つ史朗（西島）に謝り続ける賢二（内野）…心がすれ違いかけた２人を繋ぐ愛情たっぷりの桃</desc>
 </programme>
-<programme start="20211027023500 +0900" stop="20211027033500 +0900" channel="FujiTV.jp">
-  <title lang="en">全日本スピードスケート距離別選手権2021</title>
-  <desc lang="en">北京オリンピック日本代表入りを懸けた戦いがいよいよスタート！小平奈緒＆髙木美帆＆髙木菜那メダリストが再び！新濱立也ｖｓ村上右磨ライバルの熾烈な争いは？</desc>
+<programme start="20211028031500 +0900" stop="20211028033000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">部屋に強いこだわりを持つ主人公がダメ男たちの部屋をぶった切るドラマ！「おしゃ家ソムリエおしゃ子！2」をご紹介。今夜は第1話の映像をちょっとだけお見せしちゃいます！</desc>
 </programme>
-<programme start="20211027033500 +0900" stop="20211027034000 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
+<programme start="20211028033000 +0900" stop="20211028040000 +0900" channel="TVTokyo.jp">
+  <title lang="en">おしゃ家ソムリエおしゃ子!</title>
+  <desc lang="en">人気WEB漫画を初ドラマ化！“おしゃ家ソムリエ”おしゃ子が男たちのぶしゃ部屋をブッタ斬る新感覚ラブコメ！地球に優しいオーガニック系おしゃれ男子。しかしその正体は…</desc>
+</programme>
+<programme start="20211028040000 +0900" stop="20211028040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
 </programme>
 <programme start="20211027034000 +0900" stop="20211027040500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1296,13 +1285,14 @@
   <title lang="en">千原国際会議</title>
   <desc lang="en">日本が抱える様々な問題点を「日本人」が提言。長らく日本に滞在し日本を愛する「外国人」と議論し、解決への糸口を探る！千原ジュニアのおもしろ総括大喜利も！</desc>
 </programme>
-<programme start="20211027023500 +0900" stop="20211027030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
+<programme start="20211028033000 +0900" stop="20211028033500 +0900" channel="FujiTV.jp">
+  <title lang="en">フジナビ!</title>
+  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
+見逃せない番組の見どころを紹介しちゃいます！</desc>
 </programme>
-<programme start="20211027030500 +0900" stop="20211027033500 +0900" channel="Tokyo MX">
+<programme start="20211028033500 +0900" stop="20211028040500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
 <programme start="20211027033500 +0900" stop="20211027040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1503,6 +1493,14 @@
 <programme start="20211028030000 +0900" stop="20211028033000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211028033000 +0900" stop="20211028040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211028040000 +0900" stop="20211028043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
 </programme>
 <programme start="20211026211000 +0900" stop="20211027005000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第17戦アメリカGP 決勝</title>
