@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211027011900 +0900" stop="20211027020400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">群青領域</title>
-    <desc lang="en">超絶人気ロックバンドのメンバー、キム・ジュニは、ファン公認の恋人でボーカルの陽樹の裏切りに傷つき、ＳＮＳの標的にもなり、海辺の町へ逃げる。しかしそこには…</desc>
-  </programme>
-  <programme start="20211027020400 +0900" stop="20211027024500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽ＡＳＥＡＮ首脳会議　ミャンマー・安全保障への対応は▽ジャズピアニスト・上原ひろみさんの挑戦▽最新の国際ニュース　※変更の可能性あり</desc>
-  </programme>
   <programme start="20211027024500 +0900" stop="20211027031500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en">天皇杯サッカーは、日本のサッカー界で最も歴史がある大会。準々決勝「川崎ー鹿島」「磐田ー大分」「名古屋ーセレッソ大阪」「ガンバ大阪ー浦和」の見どころを伝える。</desc>
@@ -381,6 +373,10 @@
   <programme start="20211028015200 +0900" stop="20211028023200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽台湾と接近する中東欧諸国、その思惑は▽中国　北京五輪まで１００日、テスト大会の感染対策は？▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211028023200 +0900" stop="20211028032200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">第63回NHK杯ジャンプ</title>
+    <desc lang="en">シーズン幕開けを告げるＮＨＫ杯ジャンプ。北京五輪を前に日本のトップ選手が勢ぞろい！男子はエース小林陵侑と佐藤幸椰の争いか？女子は髙梨沙羅が６回目の優勝に挑む。</desc>
   </programme>
   <programme start="20211027002500 +0900" stop="20211027053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -726,14 +722,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="NipponTV.jp">
-    <title lang="en">シキザクラ</title>
-    <desc lang="en">『成瀬　楓』は走り高跳びを辞めた過去があった。かつて優勝争いをしたライバルの陽子が楓の前にあらわれる。陽子に迫るオニの魔の手。楓は再び飛ぶことができるか。</desc>
-  </programme>
-  <programme start="20211027020500 +0900" stop="20211027023500 +0900" channel="NipponTV.jp">
-    <title lang="en">ハネノバス</title>
-    <desc lang="en">横浜の高級ホテルのロイヤルスイートでハネノバス！はずが…4000個のドミノをひたすら並べるドミノ回に！完全版でお届け！番組公式ファンクラブでは最新作先行配信中！</desc>
-  </programme>
   <programme start="20211027023500 +0900" stop="20211027040000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレは秋もお得情報満載！人気脱毛器、首用EMS機器、高機能シャワーヘッド、№1枕、英国バッグ、バカ売れ美顔器、ブルブルボーテ、ダイヤまで人気商品勢ぞろい！</desc>
@@ -817,18 +805,14 @@
     <title lang="en">あいつが上手で下手が僕で</title>
     <desc lang="en">遭難劇場と揶揄される寂れた劇場に島流しとなった芸人達。絶体絶命のこの状況からの脱出劇が始まる！主演・荒牧慶彦、2.5次元のトップ達が集った芸人青春群像劇開幕。</desc>
   </programme>
-<programme start="20211027015600 +0900" stop="20211027021600 +0900" channel="Asahi.jp">
-  <title lang="en">ホリケンのみんなともだち</title>
-  <desc lang="en">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルなバラエティー番組。今回は、悩める芸人夫婦をホリケンが進路相談‼</desc>
-</programme>
-<programme start="20211027021600 +0900" stop="20211027023600 +0900" channel="Asahi.jp">
-  <title lang="en">ぼる塾のいいじゃないキッチン</title>
-  <desc lang="en">食を愛する芸人・ぼる塾が、食にまつわるあらゆることを「いいじゃない」で全肯定する超ポジティブなグルメバラエティーです。</desc>
-</programme>
-<programme start="20211027023600 +0900" stop="20211027025600 +0900" channel="Asahi.jp">
-  <title lang="en">〜凪咲と芸人〜マッチング</title>
-  <desc lang="en">バラエティ番組で大活躍中！ＮＭＢ48渋谷凪咲の初冠番組！“芸人さん”をゲストに迎え、２人の相性を探っていくマッチングバラエティ！今夜のゲストはダイアン・ユースケ</desc>
-</programme>
+  <programme start="20211028022900 +0900" stop="20211028025900 +0900" channel="NipponTV.jp">
+    <title lang="en">東野・岡村の旅猿20</title>
+    <desc lang="en">「とろサーモンおすすめ　宮崎県の旅」第４話　今回もとろサーモンさんおすすめスポットへ。絶品料理を堪能＆パワースポットを体験できるとある場所へいくのだが・・・</desc>
+  </programme>
+  <programme start="20211028025900 +0900" stop="20211028032900 +0900" channel="NipponTV.jp">
+    <title lang="en">浜ちゃんが!</title>
+    <desc lang="en">新企画！ＯＡの尺２６分３０秒だけカメラを回し、編集せずにそのままＯＡする生放送のようなスリリングな企画の後編です！</desc>
+  </programme>
 <programme start="20211027025600 +0900" stop="20211027030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -942,13 +926,22 @@
   <title lang="en">まんが未知</title>
   <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◆主人公はオードリー春日！人気漫画家が究極のバトル漫画を考える！</desc>
 </programme>
-<programme start="20211027013500 +0900" stop="20211027024500 +0900" channel="TBS2.jp">
-  <title lang="en">PLAYLIST</title>
-  <desc lang="en">今後の活動に注目の　今世の中に届けたい期待のアーティスト達をご紹介！他では見られないライブパフォーマンスも必見！</desc>
+<programme start="20211028021600 +0900" stop="20211028023600 +0900" channel="Asahi.jp">
+  <title lang="en">空気階段の空気観察</title>
+  <desc lang="en">空気階段が世の中の話題スポットや普段観られない緊張の瞬間など…様々な“空気”を現場で“観察”▼もぐらがレンタルされる⁉太った人専門のサービスで美女をおもてなし</desc>
 </programme>
-<programme start="20211027024500 +0900" stop="20211027025200 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211028023600 +0900" stop="20211028025600 +0900" channel="Asahi.jp">
+  <title lang="en">ぺこぱポジティブNEWS</title>
+  <desc lang="en">ニュースを見て“ほっこり”したことありませんか？ぺこぱがポジティブなNEWSだけをお届けします。一日の終わりにあなたをほっこりと温める至福の20分！</desc>
+</programme>
+<programme start="20211028025600 +0900" stop="20211028030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20211028030000 +0900" stop="20211028033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20211027025200 +0900" stop="20211027034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -1035,13 +1028,10 @@
   <title lang="en">イベントGO!</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="TVTokyo.jp">
-  <title lang="en">紙とさまぁ〜ず</title>
-  <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
-</programme>
-<programme start="20211027020500 +0900" stop="20211027023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">勇者の歌声〜魂と絆のオーディション〜</title>
-  <desc lang="en">ゲームアプリ「ドラゴンクエスト　ダイの大冒険　-魂の絆-」の主題歌を決めるオーディション番組。▼今日は２次審査「絆カラオケ」後半戦！</desc>
+<programme start="20211028020500 +0900" stop="20211028034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20211027023500 +0900" stop="20211027030500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1195,13 +1185,13 @@
   <title lang="en"></title>
   <desc lang="en">毎週木曜深夜１時“誰にでも忘れられない恋がきっとあるハズ！”人生ドラマがたっぷり詰まった「失恋話」を“フラれた側”“フッた側”の両方の目線で紐解きます</desc>
 </programme>
-<programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="FujiTV.jp">
-  <title lang="en">ドラゴンボール改</title>
-  <desc lang="en">「ギニュー特戦隊参上‼」</desc>
+<programme start="20211028020500 +0900" stop="20211028023500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
-<programme start="20211027020500 +0900" stop="20211027023500 +0900" channel="FujiTV.jp">
-  <title lang="en">グータンヌーボ2</title>
-  <desc lang="en">台本なし、無人カメラの空間で、女子３人が本音トークを繰り広げるトークバラエティ！</desc>
+<programme start="20211028023500 +0900" stop="20211028031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">きのう何食べた?</title>
+  <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念SP▼なぜかイラ立つ史朗（西島）に謝り続ける賢二（内野）…心がすれ違いかけた２人を繋ぐ愛情たっぷりの桃</desc>
 </programme>
 <programme start="20211027023500 +0900" stop="20211027033500 +0900" channel="FujiTV.jp">
   <title lang="en">全日本スピードスケート距離別選手権2021</title>
@@ -1302,17 +1292,9 @@
   <title lang="en">SUPER RICH</title>
   <desc lang="en">８億２千万用意できなければ倒産。衛は全財産を現金化し、つぎ込むという無茶な方法で会社を救おうとする。一方優はお金を持ち逃げした亮の行方を追いかけるが…</desc>
 </programme>
-<programme start="20211027013500 +0900" stop="20211027020500 +0900" channel="Tokyo MX">
-  <title lang="en">69号室の住人</title>
-  <desc lang="en">オリジナルアルバム「八面六臂」をリリースするＳＫＹ－ＨＩが登場！“ＢＭＳＧ”設立から１年、所属アーティストからのコメントと共に、代表取締役としての顔に迫る！</desc>
-</programme>
-<programme start="20211027020500 +0900" stop="20211027023400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211027023400 +0900" stop="20211027023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211028023500 +0900" stop="20211028033000 +0900" channel="FujiTV.jp">
+  <title lang="en">千原国際会議</title>
+  <desc lang="en">日本が抱える様々な問題点を「日本人」が提言。長らく日本に滞在し日本を愛する「外国人」と議論し、解決への糸口を探る！千原ジュニアのおもしろ総括大喜利も！</desc>
 </programme>
 <programme start="20211027023500 +0900" stop="20211027030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
@@ -1504,6 +1486,22 @@
 </programme>
 <programme start="20211028013500 +0900" stop="20211028020500 +0900" channel="Tokyo MX">
   <title lang="en">宇宙よりも遠い場所</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211028020500 +0900" stop="20211028023400 +0900" channel="Tokyo MX">
+  <title lang="en">MIRAI系アイドルTV</title>
+  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
+</programme>
+<programme start="20211028023400 +0900" stop="20211028023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211028023500 +0900" stop="20211028030000 +0900" channel="Tokyo MX">
+  <title lang="en">せとチャレ!STU48</title>
+  <desc lang="en">話題のスポーツ「スケートボード」にチャレンジして新曲紹介！</desc>
+</programme>
+<programme start="20211028030000 +0900" stop="20211028033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211026211000 +0900" stop="20211027005000 +0900" channel="FujiNext.jp">
@@ -1908,7 +1906,7 @@ https//otn.fujitv.co.jp
 <desc>本郷「金魚坂」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211026/6873677/image/b35e34b4a66f04f80f3c45348f364075.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211027030000 +0900" stop="20211027044000 +0900" channel="FujiTwo.jp">
