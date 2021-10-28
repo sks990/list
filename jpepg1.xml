@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211029004700 +0900" stop="20211029013300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">歴史探偵</title>
-    <desc lang="en">戦国の覇者をとりこにした黄金の島・佐渡。大量の金銀を生んだ伝説の坑道に潜入調査。海外征服をもくろむ豊臣秀吉。天下太平を目指す徳川家康。魔性の輝きと天下人の野望。</desc>
-  </programme>
   <programme start="20211029013300 +0900" stop="20211029021300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽台湾総統　米軍による台湾軍への訓練認める▽米映画撮影で２人死傷　けが人から実弾▽米ＧＤＰ速報値発表　景気回復“息切れ”か▽中国　出稼ぎホームレス支援※ＳＤＧｓ</desc>
@@ -345,6 +341,14 @@
   <programme start="20211030005000 +0900" stop="20211030012000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ストーリーズ</title>
     <desc lang="en">世界三階級を制覇したプロボクサーを弟に持つ兄の田中亮明、２７歳。東京五輪で番狂わせを起こし、銅メダルを獲得した。舞台裏にあった兄弟の絆、兄としてのきょう持に迫る</desc>
+  </programme>
+  <programme start="20211030012000 +0900" stop="20211030014800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ロコだけが知っている</title>
+    <desc lang="en">▽北海道・世界一に輝いたハロウィーン奇跡の物語▽山口・２人でつくる島の水族館▽下関出身田村淳とっておきのソウルフード▽人気モデルｅｍｍａふるさと北海道のオススメ</desc>
+  </programme>
+  <programme start="20211030014800 +0900" stop="20211030022800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽Ｇ２０　バイデン大統領ローマ訪問・中継▽日本の外交▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20211029003000 +0900" stop="20211029053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -678,10 +682,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211029005900 +0900" stop="20211029015900 +0900" channel="NipponTV.jp">
-    <title lang="en">今日から俺は!!</title>
-    <desc lang="en">ツッパリ全盛期８０年代。伝説の漫画を奇才・福田雄一が実写化！規格外ヒーローがどんな手を使っても悪党を倒す痛快コメディ！</desc>
-  </programme>
   <programme start="20211029015900 +0900" stop="20211029022900 +0900" channel="NipponTV.jp">
     <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <desc lang="en">報道局では「神」とあがめられるスギちゃんをアナウンサーがプレゼン！でもたまに怒っちゃうそうです…。その表情からドМと言われてしまう男性に、春日がアドバイス！</desc>
@@ -785,18 +785,11 @@
     <title lang="en">バズリズム02</title>
     <desc lang="en">オーラルシガレッツの愛されるワケ＆素顔をお友達有名人が次々告白！マキシマム・ザ・ホルモン＆セカオワのフカセ＆サバンナ高橋…MＶ１億回再生のライブ鉄板ソングも披露</desc>
   </programme>
-<programme start="20211029002000 +0900" stop="20211029012000 +0900" channel="Asahi.jp">
-  <title lang="en">ヒロミ・指原の恋のお世話始めました</title>
-  <desc lang="en">花田優一が“リアル芸能人合コン”に参戦！最近ニュースで話題になった“あの件”につながる出来事が…！？ヒロミも認めた！？お相手とは…？</desc>
-</programme>
-<programme start="20211029012000 +0900" stop="20211029012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211029012600 +0900" stop="20211029015600 +0900" channel="Asahi.jp">
-  <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
-  <desc lang="en">９月で１番売れた人気商品を大発表！簡単スタイルアップボディケアグッズ＆家中に使える超便利洗浄剤＆静かに有酸素運動できるトランポリンが登場！一番売れたのは何だ！？</desc>
-</programme>
+  <programme start="20211030015900 +0900" stop="20211030024400 +0900" channel="NipponTV.jp">
+    <title lang="en">夜バゲット</title>
+    <desc lang="en">金曜深夜に贈る新しいエンターテインメント情報番組！MCに日テレアナウンサー川畑一志と
+郡司恭子。ついに公開！映画『そして、バトンは渡された』公開スペシャル！</desc>
+  </programme>
 <programme start="20211029015600 +0900" stop="20211029021600 +0900" channel="Asahi.jp">
   <title lang="en">NEWニューヨーク</title>
   <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
@@ -912,14 +905,13 @@
   <desc lang="en">お引越し後初回の地上波放送は若林担任の特別授業！
 春日校長・特別講師ノブコブ徳井も駆けつけ、しくじり学園メンバーが抱える「心のモヤモヤ」を改善する神助言連発！！</desc>
 </programme>
-<programme start="20211029005800 +0900" stop="20211029012800 +0900" channel="TBS2.jp">
-  <title lang="en">KAT-TUNの食宝ゲッットゥーン</title>
-  <desc lang="en">亀梨にメロン並みの糖度を誇る食宝ジャガイモの町から「町おこしレシピの依頼」が！町長が直接試食も与えられた時間は２時間強…どんな料理が出来るのか？成功なるか？</desc>
+<programme start="20211030012000 +0900" stop="20211030012500 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたばかりのゴーちゃん。今夜の注目はなにかな？</desc>
 </programme>
-<programme start="20211029012800 +0900" stop="20211029015800 +0900" channel="TBS2.jp">
-  <title lang="en">プラチナエンド</title>
-  <desc lang="en">大場つぐみ×小畑健の人気コミックス原作！
-球場で始まる神候補たちの戦い。赤の矢が刺さらないメトロポリマンの真実とは…</desc>
+<programme start="20211030012500 +0900" stop="20211030042500 +0900" channel="Asahi.jp">
+  <title lang="en">朝まで生テレビ!</title>
+  <desc lang="en">1987年スタートの深夜討論番組。今月は「激論！米中関係と日本外交」をお送りします。</desc>
 </programme>
 <programme start="20211029015800 +0900" stop="20211029022800 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -996,13 +988,17 @@
   <title lang="en">NEWSの全力!!メイキング</title>
   <desc lang="en">桜井日奈子持ち込み企画！日本一簡単に作れる【ちぎりパン】60分で作れる話題のSNS映えパンをクッキング！麻婆豆腐・シュークリーム・えびめし…絶品具材が今夜決定！</desc>
 </programme>
-<programme start="20211029003000 +0900" stop="20211029010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">お茶にごす。</title>
-  <desc lang="en">鈴木伸之主演！西森博之原作・不良×茶道部の異色ヤンキーコメディ漫画を実写ドラマ化▼大切にしている原稿を破られた漫画部員のために船橋は校舎を駆け回る。</desc>
+<programme start="20211030012000 +0900" stop="20211030012500 +0900" channel="TBS2.jp">
+  <title lang="en">ジョシとドラゴン</title>
+  <desc lang="en">【日常系ゆるふわゲーム番組】　ジョシの家に住み着くゲーム大好きドラゴンがいた！ドラゴンはゲームに興味がないジョシたちにその魅力を伝えようと大奮闘！</desc>
 </programme>
-<programme start="20211029010000 +0900" stop="20211029013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">元カレの元カノの元カレの元カノ</title>
-  <desc lang="en">“誰にでも忘れられない恋がきっとあるハズ！”人生ドラマがたっぷり詰まった「失恋話」を“フラれた側”と“フッた側”の両方の目線で紐解いていく恋愛バラエティー</desc>
+<programme start="20211030012500 +0900" stop="20211030015500 +0900" channel="TBS2.jp">
+  <title lang="en">ブルーピリオド/でーじミーツガール</title>
+  <desc lang="en">Ｅｐ．０５「課題が見えてもどうしようもねぇ」▼イメージ課題に苦闘する八虎。龍二は父母との確執に悩み…。高校の美術室でばったり会った二人は、武蔵美に森先輩を訪ねる</desc>
+</programme>
+<programme start="20211030015500 +0900" stop="20211030022500 +0900" channel="TBS2.jp">
+  <title lang="en">結城友奈は勇者であるー大満開の章ー</title>
+  <desc lang="en">友奈たちは、必死で頑張る。▼これは、これまでの、これからの物語。 </desc>
 </programme>
 <programme start="20211029013000 +0900" stop="20211029020000 +0900" channel="TVTokyo.jp">
   <title lang="en">考えすぎちゃん ON TV〜ワンクールだけの大冒険〜</title>
@@ -1180,13 +1176,13 @@
   <title lang="en">おしゃ家ソムリエおしゃ子!2</title>
   <desc lang="en">矢作穂香主演！“おしゃ家ソムリエ”のおしゃ子が男たちの「ぶしゃ家」をブッタ斬るインテリア×ラブコメ◆今回は家ではなくキャンピングカー！車内の驚きの仕掛けとは！？</desc>
 </programme>
-<programme start="20211029003500 +0900" stop="20211029010500 +0900" channel="FujiTV.jp">
-  <title lang="en">キスマイ超BUSAIKU!?</title>
-  <desc lang="en">横尾新作コント「路上の伝説横倉未来」喧嘩自慢に勝負を挑む…果たしてどんな展開に！？▽話題のゲーム「かたろーぐ」に挑戦！キスマイのプライベートが丸裸に？</desc>
+<programme start="20211030012300 +0900" stop="20211030015300 +0900" channel="TVTokyo.jp">
+  <title lang="en">異世界食堂2</title>
+  <desc lang="en">食堂「洋食のねこや」は7日に一度、異世界のあらゆる場所に扉がつながる不思議な店。今日も異世界から様々なお客がやってきては絶品料理を堪能し帰っていく…。</desc>
 </programme>
-<programme start="20211029010500 +0900" stop="20211029013500 +0900" channel="FujiTV.jp">
-  <title lang="en">王様ランキング</title>
-  <desc lang="en">新しい国王</desc>
+<programme start="20211030015300 +0900" stop="20211030022300 +0900" channel="TVTokyo.jp">
+  <title lang="en">大正オトメ御伽話</title>
+  <desc lang="en">夕月が熱を出して倒れてしまう。珠子が必死に介抱する一方で、珠彦は狼狽することしかできず……。</desc>
 </programme>
 <programme start="20211029013500 +0900" stop="20211029023500 +0900" channel="FujiTV.jp">
   <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
@@ -1273,17 +1269,13 @@
   <title lang="en"></title>
   <desc lang="en">ルヴァンカップ決勝直前企画。内田篤人がナビゲーターとして、決戦に向ける選手の意気込みに迫りながら熱きファイナルの見どころを５夜連続で紹介します。</desc>
 </programme>
-<programme start="20211029003000 +0900" stop="20211029010000 +0900" channel="Tokyo MX">
-  <title lang="en">ありふれた職業で世界最強</title>
-  <desc lang="en"> </desc>
+<programme start="20211030010500 +0900" stop="20211030013500 +0900" channel="FujiTV.jp">
+  <title lang="en">連続ドキュメンタリー RIDE ON TIME</title>
+  <desc lang="en">エンターテインメントのバックステージを放送する連続ドキュメンタリー番組。ある１つのテーマを長期密着取材し、複数週に渡ってリアルを描き出します。</desc>
 </programme>
-<programme start="20211029010000 +0900" stop="20211029010500 +0900" channel="Tokyo MX">
-  <title lang="en">180秒で君の耳を幸せにできるか?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211029010500 +0900" stop="20211029013500 +0900" channel="Tokyo MX">
-  <title lang="en">激闘!ラップ甲子園への道</title>
-  <desc lang="en">高校生ラッパーの夢を応援する「高校生、夢のＲＡＰプロジェクト」が始動！前回に引き続き、高校生ラッパー達がスタジオ＆リモート出演で先輩ラッパーがトークを展開！</desc>
+<programme start="20211030013500 +0900" stop="20211030023500 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
+  <desc lang="en">第４話を見逃したあなたも！もう一度観たいあなたも！母娘バトルに、ラジハ騒然！？そんななか、母（中田喜子）が急遽入院することに。心配する娘（山口紗弥加）は…</desc>
 </programme>
 <programme start="20211029013500 +0900" stop="20211029020500 +0900" channel="Tokyo MX">
   <title lang="en">バズッchuLaTV</title>
@@ -1480,6 +1472,14 @@
 <programme start="20211030010000 +0900" stop="20211030010500 +0900" channel="Tokyo MX">
   <title lang="en">魔王イブロギアに身を捧げよ</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211030010500 +0900" stop="20211030013500 +0900" channel="Tokyo MX">
+  <title lang="en">Just Because!</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211030013500 +0900" stop="20211030020500 +0900" channel="Tokyo MX">
+  <title lang="en">日本グレートスポット紀行 season2</title>
+  <desc lang="en">総集編・未公開映像</desc>
 </programme>
 <programme start="20211029000000 +0900" stop="20211029013000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　The LIVE！ 〜第四十怪〜　40</title>
@@ -1721,7 +1721,7 @@
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりもたっぷり、どこよりも詳しくプロ野球情報をお伝えする野球専門番組。プロ野球全試合の結果を詳細にお送りする。
 【再放送】　※番組変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211028/6876173/image/a9e3e1285daf61bf2d4d0883b0187f54.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211029020000 +0900" stop="20211029021500 +0900" channel="FujiOne.jp">
@@ -2156,7 +2156,7 @@ https//otn.fujitv.co.jp
 <programme start="20211029003000 +0900" stop="20211029020000 +0900" channel="kbsworld.jp">
 <title lang="en">私たちが愛したあの歌、新歌手　[字]</title>
 <desc>日本初放送！1970〜1990年代の韓国の名曲を2021年の感性で届ける新しいスターを探す最新オーディション番組！韓国放送開始日2021年7月15日〜　全10回
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211028/6868402/image/63cb7d590783531678c53526d40722ab.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211029020000 +0900" stop="20211029031000 +0900" channel="kbsworld.jp">
