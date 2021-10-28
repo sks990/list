@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211029021300 +0900" stop="20211029031300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">カラフルファミリー</title>
-    <desc lang="en">おととし秋、元気な赤ちゃんが産まれた。この子には３人の親がいる。トランスジェンダーの父とパートナーの母。ふたりに精子提供したゲイの男性。３人の子育ての物語。</desc>
-  </programme>
   <programme start="20211029031300 +0900" stop="20211029040300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">雪の魔法</title>
     <desc lang="en"></desc>
@@ -349,6 +345,10 @@
   <programme start="20211030022800 +0900" stop="20211030032300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">インド秘境 タール砂漠にシルクロードの謎の民を追う</title>
     <desc lang="en">インドの秘境、タール砂漠をインドとＮＨＫの国際共同制作の８Ｋカメラが克明に映す。砂と風のなす色彩、世界遺産ジャイサルメールと旅芸人の踊り。音楽・村井秀清</desc>
+  </programme>
+  <programme start="20211030032300 +0900" stop="20211030040800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">日本の名峰</title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211029003000 +0900" stop="20211029053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -682,10 +682,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211029025900 +0900" stop="20211029032900 +0900" channel="NipponTV.jp">
-    <title lang="en">NFL倶楽部</title>
-    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
-  </programme>
   <programme start="20211029032900 +0900" stop="20211029042900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！パワフル振動でスリムを目指すポシュレ史上売上ＮＯ．１のブルブルマシーン、顔のムダ毛ケアもできる家庭用脱毛器、人気枕の進化版ミトラなどお得満載！</desc>
@@ -786,15 +782,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">10月もポシュレはお得満載！メガヒット脱毛器＆美顔器、高機能シャワーヘッド、バカ売れダイヤ、そろそろ欲しい羽毛布団からトイレリフォームまで！ももクロ最新情報も！</desc>
   </programme>
-<programme start="20211029025600 +0900" stop="20211029030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211029030000 +0900" stop="20211029033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20211029033000 +0900" stop="20211029040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
@@ -897,10 +884,6 @@
   <title lang="en">朝まで生テレビ!</title>
   <desc lang="en">1987年スタートの深夜討論番組。今月は「激論！米中関係と日本外交」をお送りします。</desc>
 </programme>
-<programme start="20211029023500 +0900" stop="20211029034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
-</programme>
 <programme start="20211029034500 +0900" stop="20211029043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
@@ -984,22 +967,13 @@
   <title lang="en">イベントGO!プラス</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20211029023500 +0900" stop="20211029030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20211030030700 +0900" stop="20211030040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211029030500 +0900" stop="20211029033500 +0900" channel="TVTokyo.jp">
-  <title lang="en">田村淳が池袋Innovation Council 別冊</title>
-  <desc lang="en">日本の未来を担う学生たちが、様々な課題を解決するためのビジネスアイデアを徹底討論。今回は豊島区の小中学生と様々な企業が「食」の視点からＳＤＧｓを本気で考える！</desc>
-</programme>
-<programme start="20211029033500 +0900" stop="20211029035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">オシャレな家に住んでいる男性としか付き合えない女性の物語！「おしゃ家ソムリエおしゃ子！2」をご紹介。今夜は、第2話の映像をちょっとだけお見せしちゃいます！</desc>
-</programme>
-<programme start="20211029035000 +0900" stop="20211029035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20211030040000 +0900" stop="20211030041500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211029035500 +0900" stop="20211029040500 +0900" channel="TVTokyo.jp">
   <title lang="en">ラビッツ インベージョン</title>
@@ -1169,18 +1143,20 @@
   <title lang="en">一夜づけ</title>
   <desc lang="en">昨年の7月に第1弾が放送。待望の新シーズンが放送スタート！主人公の辛辣なダメ出しが癖になるドラマ！「おしゃ家ソムリエおしゃ子！2」をご紹介。</desc>
 </programme>
-<programme start="20211029023500 +0900" stop="20211029030500 +0900" channel="FujiTV.jp">
-  <title lang="en">いいすぽ!</title>
-  <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！最新鋭格闘ゲーム！「ＭＥＬＴＹ　ＢＬＯＯＤ　ＴＹＰＥ　ＬＵＭＩＮＡ」トーナメント！！ＭＣバカリズム</desc>
+<programme start="20211030031500 +0900" stop="20211030034500 +0900" channel="TVTokyo.jp">
+  <title lang="en">音流〜ONRYU〜</title>
+  <desc lang="en">▼スタジオゲストは、saji！
+▼「さいきん　どう？」には清春(後編)！</desc>
 </programme>
-<programme start="20211029030500 +0900" stop="20211029033500 +0900" channel="FujiTV.jp">
-  <title lang="en">Tune</title>
-  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
+<programme start="20211030034500 +0900" stop="20211030035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
 </programme>
-<programme start="20211029033500 +0900" stop="20211029034000 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
+<programme start="20211030035000 +0900" stop="20211030040500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">あなたの生活をより楽しく！より快適に！
+ワクワクする商品を厳選して紹介するショッピング番組。</desc>
 </programme>
 <programme start="20211029034000 +0900" stop="20211029040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1262,13 +1238,10 @@
   <title lang="en">次ナルTV-S</title>
   <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＴＷＯで絶賛放送中の超特急の冠番組「超特急の撮れ高足りてますか？」ダイジェスト</desc>
 </programme>
-<programme start="20211029023500 +0900" stop="20211029030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211029030500 +0900" stop="20211029033400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211030030500 +0900" stop="20211030040500 +0900" channel="FujiTV.jp">
+  <title lang="en">アバランチ</title>
+  <desc lang="en">「正体・不審死の謎！大きな闇と闘う理由」
+綾野剛　福士蒼汰　渡部篤郎　木村佳乃</desc>
 </programme>
 <programme start="20211029033400 +0900" stop="20211029040000 +0900" channel="Tokyo MX">
   <title lang="en">白黒アンジャッシュ</title>
@@ -1463,6 +1436,22 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211030023500 +0900" stop="20211030030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211030030500 +0900" stop="20211030033500 +0900" channel="Tokyo MX">
+  <title lang="en">旅猫ロマン</title>
+  <desc lang="en">民話の里　岩手県遠野　後編</desc>
+</programme>
+<programme start="20211030033500 +0900" stop="20211030035000 +0900" channel="Tokyo MX">
+  <title lang="en">ふるさと百景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211030035000 +0900" stop="20211030040000 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211030040000 +0900" stop="20211030043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1735,7 +1724,7 @@
 <programme start="20211029030000 +0900" stop="20211029040000 +0900" channel="FujiOne.jp">
 <title lang="en">オールナイトe！　season10 〜1時間版 Part4〜</title>
 <desc>薄着の女子たちによる新世代ゲーム生実況番組「オールナイトe！ season10」1時間版！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211028/6876177/image/7dd0e4efe8d1e6c3efae398902353643.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211029040000 +0900" stop="20211029050000 +0900" channel="FujiOne.jp">
