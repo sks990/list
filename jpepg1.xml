@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211102033300 +0900" stop="20211102040300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">MLB2021</title>
-    <desc lang="en">メジャー頂上決戦の３０分ダイジェスト版。ア・リーグ覇者アストロズ対ナ・リーグ覇者ブレーブス。ともに超強力打線、どちらが打ち勝つか！先に４勝した方がメジャー王者に</desc>
-  </programme>
-  <programme start="20211102040300 +0900" stop="20211102043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">MLB2021</title>
-    <desc lang="en">メジャー頂上決戦の３０分ダイジェスト版。ア・リーグ覇者アストロズ対ナ・リーグ覇者ブレーブス。ともに超強力打線、どちらが打ち勝つか！先に４勝した方がメジャー王者に</desc>
-  </programme>
-  <programme start="20211102043500 +0900" stop="20211102044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「大きなうた」うた松崎しげる、東京放送児童合唱団／「ふたごのオオカミ大冒険」うたルディ・マスヤーニ、劇団若草</desc>
-  </programme>
-  <programme start="20211102044000 +0900" stop="20211102045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「脱炭素社会への道筋」小西雅子（ＷＷＦジャパン　専門ディレクター）</desc>
-  </programme>
   <programme start="20211102045000 +0900" stop="20211102050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">衆議院選挙は３１日が投開票。岸田政権が発足して１か月弱と異例の短期決戦となった今回の衆院選の結果を分析しながら、選挙後に直面する課題や政治の行方を解説する。</desc>
@@ -325,6 +309,22 @@
   <programme start="20211103033400 +0900" stop="20211103043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
+  </programme>
+  <programme start="20211103043500 +0900" stop="20211103044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「ケチャップチャップ」うた杏沙子／「秋物語」うた尾崎紀世彦</desc>
+  </programme>
+  <programme start="20211103044000 +0900" stop="20211103045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「アスリートのメンタルケア」小塩靖崇（国立精神・神経医療研究センター研究員）</desc>
+  </programme>
+  <programme start="20211103045000 +0900" stop="20211103050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">ヨーロッパで中国離れ、台湾との関係強化を模索する動きが広がっている。ヨーロッパの新たな動きが国際政治にどう影響するか、日本はどう対処するべきか考える。</desc>
+  </programme>
+  <programme start="20211103050000 +0900" stop="20211103051000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211102002500 +0900" stop="20211102053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -678,18 +678,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211102035000 +0900" stop="20211102042000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">ポシュレ名物太川＆都子の北海道企画！食べやすく進化したボイルズワイガニ、２ｋｇがお得のホタテ、松前漬け、北海道のソウルフードホッケを驚きプライスでご紹介！</desc>
-  </programme>
-  <programme start="20211102042000 +0900" stop="20211102042500 +0900" channel="NipponTV.jp">
-    <title lang="en">金曜ロード×ヴァイオレット</title>
-    <desc lang="en">11日5日（金）の「金曜ロードショー」は、「ヴァイオレット・エヴァーガーデン　外伝」を地上波初放送。ファンの輪が拡がり続けるその魅力とみどころを紹介</desc>
-  </programme>
-  <programme start="20211102042500 +0900" stop="20211102043000 +0900" channel="NipponTV.jp">
-    <title lang="en">そしてバトンは渡された公開中</title>
-    <desc lang="en">本屋大賞受賞のベストセラー「そして、バトンは渡された」ついに映画化！永野芽郁、田中圭、石原さとみ超豪華キャストの㊙トーク！驚きと感動が詰まった物語の秘密に迫る！</desc>
-  </programme>
   <programme start="20211102043000 +0900" stop="20211102055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽１歳児死亡で保育士逮捕▽後任幹事長に茂木外相起用へ▽新500円硬貨発行▽スケボー、竹中直人</desc>
@@ -786,14 +774,26 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物太川＆都子の北海道企画！食べやすく進化したボイルズワイガニ、２ｋｇがお得のホタテ、松前漬け、北海道のソウルフードホッケを驚きプライスでご紹介！</desc>
   </programme>
-<programme start="20211102033100 +0900" stop="20211102040000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-</programme>
-<programme start="20211102040000 +0900" stop="20211102045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍IV</title>
-  <desc lang="en">「花婿新さん、晴れ姿日本一！」松平健(他)▽大川に身を投げようとしていた娘を助けた吉宗。娘は許婚から一方的に破談を申し渡され、生きる力を失ったという。そこで吉宗は…</desc>
-</programme>
+  <programme start="20211103041000 +0900" stop="20211103041500 +0900" channel="NipponTV.jp">
+    <title lang="en">「バンクシーって誰?展」</title>
+    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
+  </programme>
+  <programme start="20211103041500 +0900" stop="20211103042000 +0900" channel="NipponTV.jp">
+    <title lang="en">金曜ロード×ヴァイオレット</title>
+    <desc lang="en">11日5日（金）の「金曜ロードショー」は、「ヴァイオレット・エヴァーガーデン　外伝」を地上波初放送。ファンの輪が拡がり続けるその魅力とみどころを紹介</desc>
+  </programme>
+  <programme start="20211103042000 +0900" stop="20211103042500 +0900" channel="NipponTV.jp">
+    <title lang="en">号泣!そしてバトンは渡された</title>
+    <desc lang="en">本屋大賞受賞のベストセラー「そして、バトンは渡された」ついに映画化！▽親子役の永野芽郁＆田中圭が語る映画の見どころ▽驚きと感動が詰まった物語の秘密に迫る！</desc>
+  </programme>
+  <programme start="20211103042500 +0900" stop="20211103043000 +0900" channel="NipponTV.jp">
+    <title lang="en">映画『竜とそばかすの姫』</title>
+    <desc lang="en">大ヒット上映中「竜とそばかすの姫」。カンヌ国際映画祭でのワールドプレミア、長時間の拍手喝采の密着映像!!必見㊙アフレコ舞台裏・中村佳穂×幾田りらＳＰ対談!!</desc>
+  </programme>
+  <programme start="20211103043000 +0900" stop="20211103055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211102045500 +0900" stop="20211102080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
@@ -809,7 +809,7 @@
 </programme>
 <programme start="20211102102500 +0900" stop="20211102130000 +0900" channel="Asahi.jp">
   <title lang="en">大下容子ワイド!スクランブル</title>
-  <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
+  <desc lang="en">密室化…走行中の列車内で放火、再発防止へ有効策は？▽甘利幹事長の後継に茂木外務大臣を起用へ…党内勢力争いに影響は▽バイデンｖｓトランプ再戦⁉注目の州知事選(他)</desc>
 </programme>
 <programme start="20211102130000 +0900" stop="20211102133000 +0900" channel="Asahi.jp">
   <title lang="en">徹子の部屋</title>
@@ -838,7 +838,7 @@
 </programme>
 <programme start="20211102164500 +0900" stop="20211102190000 +0900" channel="Asahi.jp">
   <title lang="en">スーパーJチャンネル</title>
-  <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+  <desc lang="en">京王線“刃物男”なぜ…事前に八王子に潜伏か▽防寒グッズ最前線！▽全国の名品を自宅で！冷凍ラーメン戦国時代▽実はすごい下町の店…ハリウッドが愛した畳(他)</desc>
 </programme>
 <programme start="20211102190000 +0900" stop="20211102200000 +0900" channel="Asahi.jp">
   <title lang="en">家事ヤロウ!!!</title>
@@ -924,9 +924,9 @@ by.Francesco De Gregori</desc>
   <title lang="en">暴れん坊将軍IV</title>
   <desc lang="en">「情けに泣いた復讐鬼！」松平健(他)▽火除地になる予定の空地に遊女屋が遊廓を建てようとしている事を知った吉宗は、事実を調べるよう忠相に命じた。一方、辰五郎の家では…</desc>
 </programme>
-<programme start="20211102034500 +0900" stop="20211102043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211103045500 +0900" stop="20211103080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211102043000 +0900" stop="20211102052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -1013,13 +1013,10 @@ by.Francesco De Gregori</desc>
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211102035500 +0900" stop="20211102041000 +0900" channel="TVTokyo.jp">
-  <title lang="en">家、ついて行ってイイですか?(明け方)</title>
-  <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
-</programme>
-<programme start="20211102041000 +0900" stop="20211102042300 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211103043000 +0900" stop="20211103052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20211102042300 +0900" stop="20211102054500 +0900" channel="TVTokyo.jp">
   <title lang="en">ものスタ</title>
@@ -1165,17 +1162,9 @@ by.Francesco De Gregori</desc>
   <title lang="en">女ともだち</title>
   <desc lang="en">アミーゴスには、ちさとの元上司の裕美子が、ロシア語の翻訳の依頼にやって来ていた。一度は家出を決意したちさとだったが、１週間ぶりに帰ってきたミツルの態度に…。</desc>
 </programme>
-<programme start="20211103035500 +0900" stop="20211103040000 +0900" channel="TVTokyo.jp">
+<programme start="20211103035500 +0900" stop="20211103050000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
-</programme>
-<programme start="20211102034500 +0900" stop="20211102040000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211102040000 +0900" stop="20211102045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211102045500 +0900" stop="20211102052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1282,17 +1271,9 @@ by.Francesco De Gregori</desc>
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20211102033500 +0900" stop="20211102040000 +0900" channel="Tokyo MX">
-  <title lang="en">JOYnt! JOYのASOBU-TV</title>
-  <desc lang="en">世間と新スポット巡り　衝撃の番外編</desc>
-</programme>
-<programme start="20211102040000 +0900" stop="20211102043000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211102043000 +0900" stop="20211102043500 +0900" channel="Tokyo MX">
-  <title lang="en">路面電車のある風景</title>
-  <desc lang="en"> </desc>
+<programme start="20211103045500 +0900" stop="20211103052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211102043500 +0900" stop="20211102050000 +0900" channel="Tokyo MX">
   <title lang="en">洋上の楽園クルーズ</title>
@@ -1489,6 +1470,14 @@ by.Francesco De Gregori</desc>
 <programme start="20211103040000 +0900" stop="20211103043000 +0900" channel="Tokyo MX">
   <title lang="en">MUSIC B.B.</title>
   <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+</programme>
+<programme start="20211103043000 +0900" stop="20211103050000 +0900" channel="Tokyo MX">
+  <title lang="en">うたなび!</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211103050000 +0900" stop="20211103053000 +0900" channel="Tokyo MX">
+  <title lang="en">日本で味わう世界食堂!</title>
+  <desc lang="en">ルーマニア／パキスタン</desc>
 </programme>
 <programme start="20211102000000 +0900" stop="20211102010000 +0900" channel="FujiNext.jp">
 <title lang="en">みんなの鉄道　33「島原鉄道」</title>
@@ -2117,7 +2106,7 @@ https//otn.fujitv.co.jp
 <programme start="20211102042000 +0900" stop="20211102050000 +0900" channel="kbsworld.jp">
 <title lang="en">家族を守れ　81　[字]</title>
 <desc>2015年 全123話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211101/6879752/image/5f809653032bf88c6cb72e19de91b5ea.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211102050000 +0900" stop="20211102060000 +0900" channel="kbsworld.jp">
