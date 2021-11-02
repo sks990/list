@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211103015400 +0900" stop="20211103023400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽ＣＯＰ２６踏み込んだ気候変動対策打ち出せるか　先進国と途上国の思惑は▽アメリカ　量的緩和縮小の影響▽バイデン大統領に黄色信号？接戦のバージニア州知事選最新情勢</desc>
-  </programme>
   <programme start="20211103023400 +0900" stop="20211103033400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">no art，no life</title>
     <desc lang="en">今まで見たことのない芸術に圧倒される「ｎｏ　ａｒｔ，　ｎｏ　ｌｉｆｅ」のスペシャル版！歌手・森山直太朗と女優・古川琴音を案内役に、唯一無二のアートの世界を旅する</desc>
@@ -329,6 +325,10 @@
   <programme start="20211104014300 +0900" stop="20211104023400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">シリーズ"脱炭素革命"</title>
     <desc lang="en">パリ協定で脱炭素に向かう世界ビジネスを追うシリーズ第２回は電力。再生可能エネルギーの劇的価格破壊でドイツの大手電力会社は激変。送電ビジネスやＢＭＷの挑戦を描く。</desc>
+  </programme>
+  <programme start="20211104023400 +0900" stop="20211104032400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">シリーズ"脱炭素革命"</title>
+    <desc lang="en">脱炭素ビジネス最前線を追うシリーズ第３回は、世界の巨大企業の挑戦。再生可能エネルギー分野での中国の台頭は目覚ましい。日本企業は生き残れるのか？ＣＯＰ２３をルポ。</desc>
   </programme>
   <programme start="20211103002500 +0900" stop="20211103053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -658,14 +658,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211103014000 +0900" stop="20211103021000 +0900" channel="NipponTV.jp">
-    <title lang="en">シキザクラ</title>
-    <desc lang="en">煮えたぎる伊勢うどんを挟んで、吉平は翔を問い詰める。ヒーロー三つの誓いを破った罪は重い。翔の下手な言い訳で夜は更けていく。伊勢うどんはまだ煮えない。</desc>
-  </programme>
-  <programme start="20211103021000 +0900" stop="20211103024000 +0900" channel="NipponTV.jp">
-    <title lang="en">ハネノバス</title>
-    <desc lang="en">横浜の高級ホテルのロイヤルスイートでハネノバス！4000個のドミノをひたすら並べるドミノ激闘回完結編！やっと来週から新作「後藤の旅」スタート！予告編も大公開！</desc>
-  </programme>
   <programme start="20211103024000 +0900" stop="20211103034000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！ポシュレ史上売上ＮＯ．１のブルブルマシーン、１万円以下！高機能シャワーヘッド、くわばた監修骨盤ショーツ、人気枕、ペンダントなどお得情報満載！</desc>
@@ -777,19 +769,14 @@
     <title lang="en">東野・岡村の旅猿20</title>
     <desc lang="en">「とろサーモンおすすめ　宮崎県の旅」最終話。早朝の絶景ポイントで大感動する一同。そしてとあるアクティビティスポットで危険な目に！？ご期待ください！</desc>
   </programme>
-<programme start="20211103013100 +0900" stop="20211103020100 +0900" channel="Asahi.jp">
-  <title lang="en">フリースタイルティーチャー</title>
-  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
-ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
-</programme>
-<programme start="20211103020100 +0900" stop="20211103022100 +0900" channel="Asahi.jp">
-  <title lang="en">ホリケンのみんなともだち</title>
-  <desc lang="en">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルな唯一無二のバラエティー番組</desc>
-</programme>
-<programme start="20211103022100 +0900" stop="20211103024100 +0900" channel="Asahi.jp">
-  <title lang="en">ぼる塾のいいじゃないキッチン</title>
-  <desc lang="en">食を愛する芸人・ぼる塾が、食にまつわるあらゆることを「いいじゃない」で全肯定する超ポジティブなグルメバラエティーです。</desc>
-</programme>
+  <programme start="20211104021000 +0900" stop="20211104024000 +0900" channel="NipponTV.jp">
+    <title lang="en">浜ちゃんが!</title>
+    <desc lang="en">芸能人が愛用している「お取り寄せ」を披露し合う特別企画「芸能人お取り寄せグルメ編」あの人は一体、どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
+  </programme>
+  <programme start="20211104024000 +0900" stop="20211104034000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">人気商品勢ぞろい！ポシュレ史上売上ＮＯ．１のブルブルマシーン、１万円以下！高機能シャワーヘッド、くわばた監修骨盤ショーツ、人気枕、ペンダントなどお得情報満載！</desc>
+  </programme>
 <programme start="20211103024100 +0900" stop="20211103030100 +0900" channel="Asahi.jp">
   <title lang="en">〜凪咲と芸人〜マッチング</title>
   <desc lang="en">バラエティ番組で大活躍中！ＮＭＢ48渋谷凪咲の初冠番組！
@@ -913,13 +900,17 @@
   <title lang="en">Break Out</title>
   <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
 </programme>
-<programme start="20211103013500 +0900" stop="20211103021500 +0900" channel="TBS2.jp">
-  <title lang="en">アカデミーナイトG</title>
-  <desc lang="en">「老後の資金がありません！」新川優愛が撮影秘話告白！天海祐希＆松重豊直撃インタビュー！中村勘九郎＆中村七之助「赤坂大歌舞伎」笑福亭鶴瓶新作落語＆ＩＮＩメッセージ</desc>
+<programme start="20211104020100 +0900" stop="20211104022100 +0900" channel="Asahi.jp">
+  <title lang="en">まんが未知</title>
+  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◆原作はオードリー春日！自身が主人公となった究極のバトル漫画が完成！</desc>
 </programme>
-<programme start="20211103021500 +0900" stop="20211103022200 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211104022100 +0900" stop="20211104024100 +0900" channel="Asahi.jp">
+  <title lang="en">空気階段の空気観察</title>
+  <desc lang="en">コント２０２１王者・空気階段の初冠番組！世の中の話題スポット、普段観られない緊張の瞬間など…様々な空気を現場で観察！▼もぐらの地元・高円寺に恩返しするときの空気</desc>
+</programme>
+<programme start="20211104024100 +0900" stop="20211104030100 +0900" channel="Asahi.jp">
+  <title lang="en">ぺこぱポジティブNEWS</title>
+  <desc lang="en">ニュースを見て“ほっこり”したことありませんか？ぺこぱがポジティブなNEWSだけをお届けします。一日の終わりにあなたをほっこりと温める至福の20分！</desc>
 </programme>
 <programme start="20211103022200 +0900" stop="20211103034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -998,13 +989,10 @@
   <title lang="en">イベントGO!</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20211103013500 +0900" stop="20211103020500 +0900" channel="TVTokyo.jp">
-  <title lang="en">紙とさまぁ〜ず</title>
-  <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
-</programme>
-<programme start="20211103020500 +0900" stop="20211103023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">勇者の歌声〜魂と絆のオーディション〜</title>
-  <desc lang="en">ゲームアプリ「ドラゴンクエスト　ダイの大冒険　-魂の絆-」の主題歌を決めるオーディション番組。今日は３次審査への進出者決定⁉</desc>
+<programme start="20211104020500 +0900" stop="20211104034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20211103023500 +0900" stop="20211103030500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1156,13 +1144,13 @@
   <title lang="en"></title>
   <desc lang="en">毎週木曜深夜１時“誰にでも忘れられない恋がきっとあるハズ！”人生ドラマがたっぷり詰まった「失恋話」を“フラれた側”“フッた側”の両方の目線で紐解きます</desc>
 </programme>
-<programme start="20211103015500 +0900" stop="20211103022500 +0900" channel="FujiTV.jp">
-  <title lang="en">グータンヌーボ2</title>
-  <desc lang="en">台本なし、無人カメラの空間で、女子３人が本音トークを繰り広げるトークバラエティ！</desc>
-</programme>
-<programme start="20211103022500 +0900" stop="20211103024000 +0900" channel="FujiTV.jp">
+<programme start="20211104020500 +0900" stop="20211104023500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">サンドウィッチマン・麒麟川島ＭＣ。店員さんの間でウワサになっているお客さまにディープに密着！謎すぎる生態をウォッチング。消費者密着バラエティ。</desc>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
+<programme start="20211104023500 +0900" stop="20211104030500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ガンダム板倉小隊 絆体感ＴＶ機動戦士ガンダム第07板倉小隊〜ゆく絆くる絆〜</title>
+  <desc lang="en">あの伝説の番組が４年ぶりに復活！２０１７年の特別番組から４年の沈黙を破り板倉小隊が再始動！果たして隊員は当時の絆を取り戻せるのか⁉さらに‼新しい絆を体感せよ！</desc>
 </programme>
 <programme start="20211103024000 +0900" stop="20211103033500 +0900" channel="FujiTV.jp">
   <title lang="en">FNSドキュメンタリー大賞</title>
@@ -1257,17 +1245,9 @@
   <title lang="en">SUPER RICH</title>
   <desc lang="en">再出発を切った衛たちが目を付けたのは超大物漫画家！最新作の独占配信を取り付けようと奔走するが、漫画家とあのメンバーの間にはまさかの因縁が…！？</desc>
 </programme>
-<programme start="20211103013500 +0900" stop="20211103020500 +0900" channel="Tokyo MX">
-  <title lang="en">69号室の住人</title>
-  <desc lang="en">９枚目となるアルバム「ＤＩＡＲＹ　ＫＥＹ」をリリースした、Ｂａｓｅ　Ｂａｌｌ　Ｂｅａｒが登場！結成２０周年を迎える彼らの、今に迫る！</desc>
-</programme>
-<programme start="20211103020500 +0900" stop="20211103023400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211103023400 +0900" stop="20211103023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211104022500 +0900" stop="20211104032000 +0900" channel="FujiTV.jp">
+  <title lang="en">漫才論考</title>
+  <desc lang="en">ますだおかだ・増田、パンクブーブー・佐藤、笑い飯・哲夫、ハマカーン・神田の賞レース王者の４名が漫才を語る▽芸歴２０年以上の実力派漫才師が爆笑ネタ披露！</desc>
 </programme>
 <programme start="20211103023500 +0900" stop="20211103030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
@@ -1449,6 +1429,22 @@
   <title lang="en">宇宙よりも遠い場所</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211104020500 +0900" stop="20211104023400 +0900" channel="Tokyo MX">
+  <title lang="en">MIRAI系アイドルTV</title>
+  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
+</programme>
+<programme start="20211104023400 +0900" stop="20211104023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211104023500 +0900" stop="20211104030000 +0900" channel="Tokyo MX">
+  <title lang="en">せとチャレ!STU48</title>
+  <desc lang="en">「ドッグトレーナー」の仕事を体験！犬と触れ合いながら「しつけ」を学び、障害物競走「アジリティ」にチャレンジ！</desc>
+</programme>
+<programme start="20211104030000 +0900" stop="20211104033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211102233000 +0900" stop="20211103011500 +0900" channel="FujiNext.jp">
 <title lang="en">第21回アジア男子バレーボール選手権大会　予選グループリーグ戦　日本×インド</title>
 <desc>予選グループリーグ戦　A組
@@ -1483,7 +1479,7 @@
 <programme start="20211103020000 +0900" stop="20211103030000 +0900" channel="FujiNext.jp">
 <title lang="en">なぎら健壱と坂崎幸之助へきくちから！『フォーク村』終了撤収中の生真面目な音楽雑談</title>
 <desc>THE ALFEE坂崎幸之助×なぎら健壱＝フォークジャンボリーズ！本篇で演れなかった「怪盗ゴールデンバット」「悲惨な戦い」ほか即興演奏あり極めて真面目な音楽雑談
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211102/6881514/image/9a8ed14fbfcbfe8835570a1e29cb9d37.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211103030000 +0900" stop="20211103051000 +0900" channel="FujiNext.jp">
@@ -1672,7 +1668,7 @@ https//otn.fujitv.co.jp
 <title lang="en">有吉ベース　143　　　有吉弘行のオリジナルバラエティ</title>
 <desc>有吉弘行の基地（ベース）に若手芸人が集まり毎回様々な企画でガチャガチャする番組
 ＜MC＞有吉弘行
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211102/6882222/image/b6b76839dd45645e871109e8b757c6a0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211103030000 +0900" stop="20211103060000 +0900" channel="FujiOne.jp">
