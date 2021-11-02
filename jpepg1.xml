@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211103023400 +0900" stop="20211103033400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">no art，no life</title>
-    <desc lang="en">今まで見たことのない芸術に圧倒される「ｎｏ　ａｒｔ，　ｎｏ　ｌｉｆｅ」のスペシャル版！歌手・森山直太朗と女優・古川琴音を案内役に、唯一無二のアートの世界を旅する</desc>
-  </programme>
   <programme start="20211103033400 +0900" stop="20211103043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
@@ -329,6 +325,10 @@
   <programme start="20211104023400 +0900" stop="20211104032400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">シリーズ"脱炭素革命"</title>
     <desc lang="en">脱炭素ビジネス最前線を追うシリーズ第３回は、世界の巨大企業の挑戦。再生可能エネルギー分野での中国の台頭は目覚ましい。日本企業は生き残れるのか？ＣＯＰ２３をルポ。</desc>
+  </programme>
+  <programme start="20211104032400 +0900" stop="20211104040300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
   </programme>
   <programme start="20211103002500 +0900" stop="20211103053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -658,10 +658,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211103024000 +0900" stop="20211103034000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">人気商品勢ぞろい！ポシュレ史上売上ＮＯ．１のブルブルマシーン、１万円以下！高機能シャワーヘッド、くわばた監修骨盤ショーツ、人気枕、ペンダントなどお得情報満載！</desc>
-  </programme>
   <programme start="20211103034000 +0900" stop="20211103041000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物太川＆都子の北海道企画！食べやすく進化したボイルズワイガニ、２ｋｇがお得のホタテ、松前漬け、北海道のソウルフードホッケを驚きプライスでご紹介！</desc>
@@ -777,20 +773,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！ポシュレ史上売上ＮＯ．１のブルブルマシーン、１万円以下！高機能シャワーヘッド、くわばた監修骨盤ショーツ、人気枕、ペンダントなどお得情報満載！</desc>
   </programme>
-<programme start="20211103024100 +0900" stop="20211103030100 +0900" channel="Asahi.jp">
-  <title lang="en">〜凪咲と芸人〜マッチング</title>
-  <desc lang="en">バラエティ番組で大活躍中！ＮＭＢ48渋谷凪咲の初冠番組！
-“芸人さん”をゲストに迎え、２人の相性を探っていくマッチングバラエティ！今夜のゲストは三四郎・小宮！</desc>
-</programme>
-<programme start="20211103030100 +0900" stop="20211103030500 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211103030500 +0900" stop="20211103033100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211104034000 +0900" stop="20211104041000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレ名物太川＆都子の北海道企画！食べやすく進化したボイルズワイガニ、２ｋｇがお得のホタテ、松前漬け、北海道のソウルフードホッケを驚きプライスでご紹介！</desc>
+  </programme>
 <programme start="20211103033100 +0900" stop="20211103040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -912,10 +898,22 @@
   <title lang="en">ぺこぱポジティブNEWS</title>
   <desc lang="en">ニュースを見て“ほっこり”したことありませんか？ぺこぱがポジティブなNEWSだけをお届けします。一日の終わりにあなたをほっこりと温める至福の20分！</desc>
 </programme>
-<programme start="20211103022200 +0900" stop="20211103034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211104030100 +0900" stop="20211104030500 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20211104030500 +0900" stop="20211104033100 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
+</programme>
+<programme start="20211104033100 +0900" stop="20211104040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211104040000 +0900" stop="20211104045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「父の敵は愛しの人！」松平健(他)▽商人風の男が浪人に斬られるのを目撃した吉宗は、激闘の末その浪人を捕らえた。忠相の話では、この浪人は金で殺しを請負っているという。</desc>
 </programme>
 <programme start="20211103034500 +0900" stop="20211103043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -994,24 +992,11 @@
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211103023500 +0900" stop="20211103030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
+<programme start="20211104034500 +0900" stop="20211104043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211103030500 +0900" stop="20211103032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">西島秀俊・内野聖陽ダブル主演！！おいしそうな料理がたくさん登場する人気作の映画化！「劇場版　きのう何食べた？」をご紹介。今夜は料理シーンをちょい見せ！</desc>
-</programme>
-<programme start="20211103032000 +0900" stop="20211103032500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
-</programme>
-<programme start="20211103032500 +0900" stop="20211103035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">女ともだち</title>
-  <desc lang="en">アミーゴスには、ちさとの元上司の裕美子が、ロシア語の翻訳の依頼にやって来ていた。一度は家出を決意したちさとだったが、１週間ぶりに帰ってきたミツルの態度に…。</desc>
-</programme>
-<programme start="20211103035500 +0900" stop="20211103053500 +0900" channel="TVTokyo.jp">
+<programme start="20211103040000 +0900" stop="20211103053500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1152,13 +1137,22 @@
   <title lang="en">ガンダム板倉小隊 絆体感ＴＶ機動戦士ガンダム第07板倉小隊〜ゆく絆くる絆〜</title>
   <desc lang="en">あの伝説の番組が４年ぶりに復活！２０１７年の特別番組から４年の沈黙を破り板倉小隊が再始動！果たして隊員は当時の絆を取り戻せるのか⁉さらに‼新しい絆を体感せよ！</desc>
 </programme>
-<programme start="20211103024000 +0900" stop="20211103033500 +0900" channel="FujiTV.jp">
-  <title lang="en">FNSドキュメンタリー大賞</title>
-  <desc lang="en">令和２年７月豪雨で被災した球磨焼酎の老舗酒蔵の再起への記録。日常を破壊された一方で球磨川の恩恵を受けてきたこれまで。酒蔵再開に奮闘する男性の心の叫びとは</desc>
+<programme start="20211104030500 +0900" stop="20211104032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">2019年にオンエアされた大ヒットドラマがついに映画化！旅行をきっかけに新たな展開を迎える人気作！「劇場版　きのう何食べた？」をご紹介します！！</desc>
 </programme>
-<programme start="20211103033500 +0900" stop="20211103035500 +0900" channel="FujiTV.jp">
+<programme start="20211104032000 +0900" stop="20211104035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">おしゃ家ソムリエおしゃ子!</title>
+  <desc lang="en">人気WEB漫画を初ドラマ化！“おしゃ家ソムリエ”おしゃ子が男たちのぶしゃ部屋をブッタ斬る新感覚ラブコメ！ついに白馬の王子様が！とうとう最強のおしゃ部屋に出会う！？</desc>
+</programme>
+<programme start="20211104035000 +0900" stop="20211104035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211104035500 +0900" stop="20211104040000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20211103035500 +0900" stop="20211103040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1249,13 +1243,17 @@
   <title lang="en">漫才論考</title>
   <desc lang="en">ますだおかだ・増田、パンクブーブー・佐藤、笑い飯・哲夫、ハマカーン・神田の賞レース王者の４名が漫才を語る▽芸歴２０年以上の実力派漫才師が爆笑ネタ披露！</desc>
 </programme>
-<programme start="20211103023500 +0900" stop="20211103030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211103030500 +0900" stop="20211103033500 +0900" channel="Tokyo MX">
+<programme start="20211104032000 +0900" stop="20211104035000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211104035000 +0900" stop="20211104040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211104040000 +0900" stop="20211104045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211103033500 +0900" stop="20211103040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1444,6 +1442,14 @@
 <programme start="20211104030000 +0900" stop="20211104033000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211104033000 +0900" stop="20211104040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211104040000 +0900" stop="20211104043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
 </programme>
 <programme start="20211102233000 +0900" stop="20211103011500 +0900" channel="FujiNext.jp">
 <title lang="en">第21回アジア男子バレーボール選手権大会　予選グループリーグ戦　日本×インド</title>
