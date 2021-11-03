@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211104014300 +0900" stop="20211104023400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">シリーズ"脱炭素革命"</title>
-    <desc lang="en">パリ協定で脱炭素に向かう世界ビジネスを追うシリーズ第２回は電力。再生可能エネルギーの劇的価格破壊でドイツの大手電力会社は激変。送電ビジネスやＢＭＷの挑戦を描く。</desc>
-  </programme>
   <programme start="20211104023400 +0900" stop="20211104032400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">シリーズ"脱炭素革命"</title>
     <desc lang="en">脱炭素ビジネス最前線を追うシリーズ第３回は、世界の巨大企業の挑戦。再生可能エネルギー分野での中国の台頭は目覚ましい。日本企業は生き残れるのか？ＣＯＰ２３をルポ。</desc>
@@ -309,6 +305,14 @@
   <programme start="20211105013400 +0900" stop="20211105020500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">クローズアップ現代</title>
     <desc lang="en">実験！男性社長と女性社員が入れ替わってみた▽ジェンダー解消の鍵は“他者の靴を履く”▽相手の立場を理解する力“エンパシー”▽偏見・差別乗り越えるヒント＃ＳＤＧｓ</desc>
+  </programme>
+  <programme start="20211105020500 +0900" stop="20211105023300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏情報 ネタドリ!</title>
+    <desc lang="en">ＲＩＫＡＣＯさんが更年期に苦しんだ体験を赤裸々告白！女性ならではのモヤモヤ・しんどさを解消する最新グッズやサービス、その舞台裏にある女性開発者たちの挑戦を紹介。</desc>
+  </programme>
+  <programme start="20211105023300 +0900" stop="20211105031300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽ＯＰＥＣ総会　原油高の行方は▽スコットランド　気候変動対策迫られるウイスキー業界▽ドバイ万博　アフガニスタン館の守り人▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20211104010000 +0900" stop="20211104053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -650,14 +654,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211104014000 +0900" stop="20211104021000 +0900" channel="NipponTV.jp">
-    <title lang="en">東野・岡村の旅猿20</title>
-    <desc lang="en">「とろサーモンおすすめ　宮崎県の旅」最終話。早朝の絶景ポイントで大感動する一同。そしてとあるアクティビティスポットで危険な目に！？ご期待ください！</desc>
-  </programme>
-  <programme start="20211104021000 +0900" stop="20211104024000 +0900" channel="NipponTV.jp">
-    <title lang="en">浜ちゃんが!</title>
-    <desc lang="en">芸能人が愛用している「お取り寄せ」を披露し合う特別企画「芸能人お取り寄せグルメ編」あの人は一体、どんな特別なお取り寄せをしているのか？見れば頼みたくなる事必至！</desc>
-  </programme>
   <programme start="20211104024000 +0900" stop="20211104034000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！ポシュレ史上売上ＮＯ．１のブルブルマシーン、１万円以下！高機能シャワーヘッド、くわばた監修骨盤ショーツ、人気枕、ペンダントなどお得情報満載！</desc>
@@ -754,18 +750,14 @@
     <title lang="en">今日から俺は!!</title>
     <desc lang="en">ツッパリ全盛期８０年代。伝説の漫画を福田雄一が実写化！規格外ヒーローがどんな手を使っても悪党を倒す痛快コメディ！</desc>
   </programme>
-<programme start="20211104013100 +0900" stop="20211104020100 +0900" channel="Asahi.jp">
-  <title lang="en">Break Out</title>
-  <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
-</programme>
-<programme start="20211104020100 +0900" stop="20211104022100 +0900" channel="Asahi.jp">
-  <title lang="en">まんが未知</title>
-  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◆原作はオードリー春日！自身が主人公となった究極のバトル漫画が完成！</desc>
-</programme>
-<programme start="20211104022100 +0900" stop="20211104024100 +0900" channel="Asahi.jp">
-  <title lang="en">空気階段の空気観察</title>
-  <desc lang="en">コント２０２１王者・空気階段の初冠番組！世の中の話題スポット、普段観られない緊張の瞬間など…様々な空気を現場で観察！▼もぐらの地元・高円寺に恩返しするときの空気</desc>
-</programme>
+  <programme start="20211105020400 +0900" stop="20211105023400 +0900" channel="NipponTV.jp">
+    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
+    <desc lang="en">仲良くしている幼馴染と価値観があわないという男性。友人と価値観調査をしてみると…驚きの結果が！ペットボトル飲料を世界一早く飲めるという「嘘つき顔」の大学生が登場</desc>
+  </programme>
+  <programme start="20211105023400 +0900" stop="20211105030400 +0900" channel="NipponTV.jp">
+    <title lang="en">川島・山内のマンガ沼</title>
+    <desc lang="en">川島＆山内がプレゼン合戦！一気読みできる「完結マンガ」大集合ＳＰ！ぜひ大人買いのご準備を！</desc>
+  </programme>
 <programme start="20211104024100 +0900" stop="20211104030100 +0900" channel="Asahi.jp">
   <title lang="en">ぺこぱポジティブNEWS</title>
   <desc lang="en">ニュースを見て“ほっこり”したことありませんか？ぺこぱがポジティブなNEWSだけをお届けします。一日の終わりにあなたをほっこりと温める至福の20分！</desc>
@@ -890,9 +882,17 @@
   <title lang="en"></title>
   <desc lang="en">益若つばさもリピ買い!!韓国で大人気㊙ヘアオイル＆１回１分乗るだけ!!お家で簡単ストレッチ＆まるで雲の上!?話題マットレス登場</desc>
 </programme>
-<programme start="20211104015800 +0900" stop="20211104020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211105020100 +0900" stop="20211105022100 +0900" channel="Asahi.jp">
+  <title lang="en">NEWニューヨーク</title>
+  <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
+</programme>
+<programme start="20211105022100 +0900" stop="20211105024100 +0900" channel="Asahi.jp">
+  <title lang="en">ハマスカ放送部</title>
+  <desc lang="en">OKAMOTO'Sハマ・オカモトと乃木坂46齋藤飛鳥がお届けする音楽トークバラエティ！今夜はドラム×ベースのセッションで番組オープニングのジングル作り後半戦！遂に完成へ♪</desc>
+</programme>
+<programme start="20211105024100 +0900" stop="20211105030100 +0900" channel="Asahi.jp">
+  <title lang="en">野田レーザーの逆算</title>
+  <desc lang="en">“理詰めマニア”が集う秘密の夜会▼この話はなぜ怖い？「意味が分かると怖い話逆算」▼何定食を食べたか逆算！ザ・マミィ林田「定食逆算」▼浮所飛貴「レビュー逆算」</desc>
 </programme>
 <programme start="20211104020500 +0900" stop="20211104034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -982,17 +982,9 @@
   <title lang="en">イベントGO!</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20211104013000 +0900" stop="20211104020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">お仕事search!それってグッジョブ</title>
-  <desc lang="en">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！今回は日本全国のケーキが食べられる超便利サイト！わずか10分で○○出来る革命的ケーキとは⁉</desc>
-</programme>
-<programme start="20211104020000 +0900" stop="20211104020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">毎週木曜深夜１時“誰にでも忘れられない恋がきっとあるハズ！”人生ドラマがたっぷり詰まった「失恋話」を“フラれた側”“フッた側”の両方の目線で紐解きます</desc>
-</programme>
-<programme start="20211104020500 +0900" stop="20211104023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20211105020500 +0900" stop="20211105034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20211104023500 +0900" stop="20211104030500 +0900" channel="TVTokyo.jp">
   <title lang="en">ガンダム板倉小隊 絆体感ＴＶ機動戦士ガンダム第07板倉小隊〜ゆく絆くる絆〜</title>
@@ -1150,9 +1142,14 @@
   <title lang="en"></title>
   <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
 </programme>
-<programme start="20211104012500 +0900" stop="20211104022500 +0900" channel="FujiTV.jp">
-  <title lang="en">SUPER RICH</title>
-  <desc lang="en">再出発を切った衛たちが目を付けたのは超大物漫画家！最新作の独占配信を取り付けようと奔走するが、漫画家とあのメンバーの間にはまさかの因縁が…！？</desc>
+<programme start="20211105020500 +0900" stop="20211105023500 +0900" channel="TVTokyo.jp">
+  <title lang="en">きらきらアフロTM</title>
+  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
+【出演】笑福亭鶴瓶、松嶋尚美</desc>
+</programme>
+<programme start="20211105023500 +0900" stop="20211105030500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
 <programme start="20211104022500 +0900" stop="20211104032000 +0900" channel="FujiTV.jp">
   <title lang="en">漫才論考</title>
@@ -1251,17 +1248,13 @@
   <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
   <desc lang="en">ＥＸＩＴ単独ＭＣ▽超人気声優・岡本信彦が可愛い系男子のアフレコ披露！▽ＣａｎＣａｍ人気読者モデル・新田さちか＆田﨑さくらと「はぁって言うゲーム」で対決</desc>
 </programme>
-<programme start="20211104013500 +0900" stop="20211104020500 +0900" channel="Tokyo MX">
-  <title lang="en">宇宙よりも遠い場所</title>
-  <desc lang="en"> </desc>
+<programme start="20211105022500 +0900" stop="20211105025500 +0900" channel="FujiTV.jp">
+  <title lang="en">いいすぽ!</title>
+  <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！最新鋭格闘ゲーム！「ＭＥＬＴＹ　ＢＬＯＯＤ　ＴＹＰＥ　ＬＵＭＩＮＡ」トーナメント第二弾！！ＭＣバカリズム</desc>
 </programme>
-<programme start="20211104020500 +0900" stop="20211104023400 +0900" channel="Tokyo MX">
-  <title lang="en">MIRAI系アイドルTV</title>
-  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
-</programme>
-<programme start="20211104023400 +0900" stop="20211104023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211105025500 +0900" stop="20211105032500 +0900" channel="FujiTV.jp">
+  <title lang="en">Tune</title>
+  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
 <programme start="20211104023500 +0900" stop="20211104030000 +0900" channel="Tokyo MX">
   <title lang="en">せとチャレ!STU48</title>
@@ -1453,6 +1446,18 @@
 </programme>
 <programme start="20211105013500 +0900" stop="20211105020500 +0900" channel="Tokyo MX">
   <title lang="en">バリふり!!!</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211105020500 +0900" stop="20211105023400 +0900" channel="Tokyo MX">
+  <title lang="en">らいコレTV</title>
+  <desc lang="en">大物ミュージシャンのライブにも出演するダンサーライバー「Ｓｈｕｎｂｏｗ（しゅんぼう）」が初登場！後半は、気になる美人ライバーにスポット。</desc>
+</programme>
+<programme start="20211105023400 +0900" stop="20211105023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211105023500 +0900" stop="20211105030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211104000000 +0900" stop="20211104001500 +0900" channel="FujiNext.jp">
