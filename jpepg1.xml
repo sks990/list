@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211104135500 +0900" stop="20211104140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、能條貴大、吉江晴菜、今井菜津美、新井庸太</desc>
-  </programme>
-  <programme start="20211104140000 +0900" stop="20211104140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211104140500 +0900" stop="20211104145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あてなよる</title>
-    <desc lang="en">人気料理家・大原千鶴が京都の隠れ家でおもてなし！今日は「いも」尽くしの宴。あか抜けなさの象徴でもあるいもが美味なあてに大変身！あわせる最上の酒もお楽しみあれ！</desc>
-  </programme>
   <programme start="20211104145000 +0900" stop="20211104150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">新型コロナウイルスが流行を始めて以来、２回目の文化の日を迎えました。コロナ禍で浮き彫りになったなった文化芸術をめぐる課題や支援の在り方を考えます。</desc>
@@ -326,17 +314,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211104135500 +0900" stop="20211104140000 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 献立帳</title>
-    <desc lang="en">今回の料理は「柿の葉ずし」。奈良の名産だが、寺では魚を使わない「精進柿の葉ずし」。具は甘辛く煮たしいたけ、寒こうじに漬けたかぶ、いぶりがっこの３種類。</desc>
+  <programme start="20211105140500 +0900" stop="20211105145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">京コトはじめ</title>
+    <desc lang="en">漆器は英語でｊａｐａｎとよばれる伝統工芸品。なかでも本場、京都で作られる漆器は京漆器といわれる。京都で培われた究極のオーダーメード、その美意識の極みをひも解く。</desc>
   </programme>
-  <programme start="20211104140000 +0900" stop="20211104142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 社会と情報</title>
-    <desc lang="en">「社会と情報」はプログラミングなど情報社会において不可欠な「情報活用能力」を身につけていく科目です。今回のテーマは「情報モラル」です。</desc>
+  <programme start="20211105145000 +0900" stop="20211105150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">アメリカのＦＲＢ・連邦準備制度理事会は、量的緩和策の縮小を決める見通しで、異例の大規模緩和策を転換し、正常化への第一歩を踏み出すことになる。</desc>
   </programme>
-  <programme start="20211104142000 +0900" stop="20211104144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 芸術</title>
-    <desc lang="en">篆書は漢字の五つの書体の中で最も古い書体です。甲骨文から金文、大篆、小篆を経て、印篆まで千数百年の間、発達してきました。今回は篆書を鑑賞し、臨書にも挑戦します。</desc>
+  <programme start="20211105150000 +0900" stop="20211105150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211104144000 +0900" stop="20211104150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 家庭総合</title>
@@ -666,6 +654,18 @@
     <title lang="en">NHK高校講座 日本史</title>
     <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
   </programme>
+  <programme start="20211105142000 +0900" stop="20211105144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 世界史</title>
+    <desc lang="en">「赤ずきん」「白雪姫」など、今も多くの人々に親しまれているドイツのグリム童話は、１９世紀初頭にある政治的な目的をもって編さんされました。その目的とは…。</desc>
+  </programme>
+  <programme start="20211105144000 +0900" stop="20211105150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地理</title>
+    <desc lang="en">地球上で起きているあらゆる事柄は、「地理」の知識で理解することができます。さぁ一緒に「地理」の知識を深め、世の中の謎を調査・分析！新たな発見をしていきましょう。</desc>
+  </programme>
+  <programme start="20211105150000 +0900" stop="20211105153000 +0900" channel="eTele.jp">
+    <title lang="en">囲碁フォーカス</title>
+    <desc lang="en">下島陽平八段の講座、１０月は「強じんな家を目指す」。今回は「隅はドロボーに注意！」。「フォーカス・オン」は「黒嘉嘉ミニレッスンを振り返る」。</desc>
+  </programme>
   <programme start="20211104135500 +0900" stop="20211104155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">▽速報中継！日本ハム新庄“新監督”就任会見！豪快伝説＆盟友語る素顔▽岡山・総社市で園児はねられ重体…最新情報▽神戸５人殺傷事件“判決”争点は「責任能力」</desc>
@@ -781,10 +781,6 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20211104135400 +0900" stop="20211104145000 +0900" channel="Asahi.jp">
-  <title lang="en">科捜研の女21</title>
-  <desc lang="en">「マリコに復讐⁉物証を９９％殺菌する女と謎の朝ワイン」沢口靖子(他)▽アパートで住人の刺殺体が発見された。不審な点やアリバイを証明できない者が続出する中、マリコは…</desc>
-</programme>
 <programme start="20211104145000 +0900" stop="20211104154800 +0900" channel="Asahi.jp">
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">「たこつぼ心筋症…スキャンダル隠蔽オペ１０００万‼」米倉涼子(他)▽厚生労働事務次官との違法接待疑惑を報じられ、ストレス心筋症を起こした蝶子。未知子が忠告するも…</desc>
@@ -1180,10 +1176,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">世界屈指の犯罪都市ロサンゼルス。保安局の重犯罪特捜班を率いる熱血刑事ニックは、犯罪者集団メリーメン一味が大胆不敵な銀行強盗を企てていることを知る…。</desc>
 </programme>
-<programme start="20211104115500 +0900" stop="20211104144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">「っごっめんだよ」木下優樹菜がＳＮＳ更新号泣謝罪との“温度差”にファン困惑▽がん告白はウソだった？韓国歌手にニセ闘病疑惑▽１２月に“第６波”の可能性？</desc>
-</programme>
 <programme start="20211104144500 +0900" stop="20211104154500 +0900" channel="FujiTV.jp">
   <title lang="en">美女か野獣</title>
   <desc lang="en">「最後のニュース」
@@ -1285,17 +1277,10 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20211104135500 +0900" stop="20211104140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211104140000 +0900" stop="20211104143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211104143000 +0900" stop="20211104145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211105144500 +0900" stop="20211105154500 +0900" channel="FujiTV.jp">
+  <title lang="en">美女か野獣</title>
+  <desc lang="en">「もう１人じゃない」
+松嶋菜々子　福山雅治　渡辺いっけい　八嶋智人　佐々木蔵之介　白石美帆　永井大　パパイヤ鈴木　深浦加奈子　児玉清(他)</desc>
 </programme>
 <programme start="20211104145900 +0900" stop="20211104150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1487,6 +1472,10 @@
 </programme>
 <programme start="20211105135900 +0900" stop="20211105150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211105150000 +0900" stop="20211105153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211104000000 +0900" stop="20211104001500 +0900" channel="FujiNext.jp">
@@ -2092,7 +2081,7 @@ https//otn.fujitv.co.jp
 <programme start="20211104140000 +0900" stop="20211104150000 +0900" channel="FujiTwo.jp">
 <title lang="en">韓国ドラマ「彼女はキレイだった」10　【日本語字幕版】　（全16話）</title>
 <desc>第10話　＜出演＞パク・ソジュン　ファン・ジョンウム　チェ・シウォン（SUPER JUNIOR）　コ・ジュニ　▽初恋を巡る男女4人のロマンチック・ラブコメディ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211104/6896607/image/e898f836a60605eb9e2fa258c3389bc7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211104150000 +0900" stop="20211104153000 +0900" channel="FujiTwo.jp">
