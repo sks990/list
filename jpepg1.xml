@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211106025800 +0900" stop="20211106033800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽英　コロナ飲み薬を初承認▽韓国大統領選　最大野党が候補選出へ▽ＣＯＰ「脱石炭」で４０か国余り賛同　日米中は含まれず▽米太平洋軍前司令官が語る米中対立下の日米</desc>
-  </programme>
   <programme start="20211106033800 +0900" stop="20211106040800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大空撮!ヒマラヤ山脈</title>
     <desc lang="en">山岳用の特別な小型機を使って８０００ｍ峰が連なるヒマラヤ山脈を上空から撮影した。氷河をいだくランタン谷と豊かな水をもたらすカンチェンジュンガを飛ぶ。</desc>
@@ -309,6 +305,18 @@
   <programme start="20211107021800 +0900" stop="20211107030700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">今ここにある危機とぼくの好感度について</title>
     <desc lang="en">名門国立大学を舞台に、思いがけず広報課で働くことになった青年が、大学が直面するさまざまな問題処理に振り回されながらも自分の生き方を見つけてゆくブラックコメディー</desc>
+  </programme>
+  <programme start="20211107030700 +0900" stop="20211107035600 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">今ここにある危機とぼくの好感度について</title>
+    <desc lang="en">名門国立大学を舞台に、思いがけず広報課で働くことになった青年が、大学が直面するさまざまな問題処理に振り回されながらも自分の生き方を見つけてゆくブラックコメディー</desc>
+  </programme>
+  <programme start="20211107035600 +0900" stop="20211107035700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">今年もやります年末スペシャル２０２１。この１年の放送作品から１０本を一挙アンコール放送。ラインナップはみなさんの投票で決まります。投票は番組ＨＰで１２／１まで。</desc>
+  </programme>
+  <programme start="20211107035700 +0900" stop="20211107041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">生きものたちの地球</title>
+    <desc lang="en">オーストラリアのカンガルー島。荒々しい海岸の景観や島に暮らすカンガルーやコアラなどユニークな動物たちの姿を音楽とともにゆったりと紹介する。</desc>
   </programme>
   <programme start="20211106005000 +0900" stop="20211106053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -672,15 +680,10 @@
     <title lang="en">Hulu傑作シアター</title>
     <desc lang="en">BTSファン必見！Huluで配信中のBTSが登場するコンテンツをまとめて紹介！さらにBTS写真集のプレゼントも▼「インスティンクト」第1話を放送</desc>
   </programme>
-<programme start="20211106024500 +0900" stop="20211106030500 +0900" channel="Asahi.jp">
-  <title lang="en">あるある土佐カンパニー2</title>
-  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
-</programme>
-<programme start="20211106030500 +0900" stop="20211106033500 +0900" channel="Asahi.jp">
-  <title lang="en">イベ検</title>
-  <desc lang="en">テレビ朝日がオススメするイベント情報！
-イベントの詳しい情報は『テレビ朝日　イベント』で検索‼</desc>
-</programme>
+  <programme start="20211107033600 +0900" stop="20211107052100 +0900" channel="NipponTV.jp">
+    <title lang="en">ラグビー日本代表戦</title>
+    <desc lang="en">世界ランク５位、19年Ｗ杯で激闘を演じたアイルランドとの一戦。姫野、松島らＷ杯のヒーローと齋藤直人、フィフィタら新戦力が融合し歴史的勝利の再現なるか（録画中継）</desc>
+  </programme>
 <programme start="20211106033500 +0900" stop="20211106040000 +0900" channel="Asahi.jp">
   <title lang="en">SBS人気歌謡</title>
   <desc lang="en">韓国の人気K-POP番組「SBS人気歌謡」をお届け！LISA、NCT127、ATEEZ、STAYCら出演！「SBS人気歌謡」日本最速配信中！動画配信サービス『TELASA（テラサ）』特別編！</desc>
@@ -870,9 +873,13 @@
   <title lang="en">霜降りバラエティX</title>
   <desc lang="en">回転寿司ゲーム「ビンゴ寿司」霜降り明星・ミキ・オズワルド伊藤が参戦！１０種の寿司の値段を予想し５色の皿に当てはめる。すべて正解するまで食べ続けなければならない</desc>
 </programme>
-<programme start="20211106025500 +0900" stop="20211106030700 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!プラス</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211107032000 +0900" stop="20211107034000 +0900" channel="Asahi.jp">
+  <title lang="en">ももクロちゃんと!</title>
+  <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
+</programme>
+<programme start="20211107034000 +0900" stop="20211107052000 +0900" channel="Asahi.jp">
+  <title lang="en">フィギュアグランプリシリーズ2021</title>
+  <desc lang="en">氷上サバイバル世界一決定戦！第３戦イタリア大会には２１年世界選手権銀メダル鍵山優真や、友野一希が登場！女子は宮原知子と三原舞依がグランプリシリーズ２戦目に挑む！</desc>
 </programme>
 <programme start="20211106030700 +0900" stop="20211106040000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -998,25 +1005,9 @@
   <desc lang="en">優勝者は２０２２マスターズ出場権獲得！
 アジア人として初のマスターズを制覇した松山英樹は２０１０年この大会で優勝し、世界へ羽ばたいた。今年の勝者は？</desc>
 </programme>
-<programme start="20211106023000 +0900" stop="20211106030000 +0900" channel="TVTokyo.jp">
-  <title lang="en">流派-R since2001</title>
-  <desc lang="en">▼R-Feature遥海
-▼VIEWS①honoka
-▼VIEWS②K</desc>
-</programme>
-<programme start="20211106030000 +0900" stop="20211106031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">よしながふみの人気コミックを実写化
-！西島秀俊と内野聖陽のダブル主演で大ヒットしたドラマの映画化！「劇場版　きのう何食べた？」をご紹介します！</desc>
-</programme>
-<programme start="20211106031500 +0900" stop="20211106034500 +0900" channel="TVTokyo.jp">
-  <title lang="en">音流〜ONRYU〜</title>
-  <desc lang="en">▼スタジオゲストは、fox　capture　plan、髭が登場！▼カフェライブでは、明くる夜の羊が生演奏！</desc>
-</programme>
-<programme start="20211106034500 +0900" stop="20211106035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20211107040000 +0900" stop="20211107043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211106035000 +0900" stop="20211106040500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1196,13 +1187,13 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
 </programme>
-<programme start="20211106025500 +0900" stop="20211106032500 +0900" channel="FujiTV.jp">
-  <title lang="en">突然ですがマスカレード・ナイト占ってみました</title>
-  <desc lang="en">木村拓哉・長澤まさみ・沢村一樹がＭＣ！大ヒット公開中映画「マスカレード・ナイト」と人気番組がコラボ！映画スタッフと超豪華俳優をゲッターズ飯田が丸裸に！</desc>
+<programme start="20211107030500 +0900" stop="20211107031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
 </programme>
-<programme start="20211106032500 +0900" stop="20211106035500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">新たなキャスト陣により、現代の東京を舞台に新しく生まれ変わった『東京ラブストーリー』がついに地上波初登場！！ドラマの見どころをご紹介します。</desc>
+<programme start="20211107031500 +0900" stop="20211107050000 +0900" channel="TVTokyo.jp">
+  <title lang="en">サタ☆シネ</title>
+  <desc lang="en">＜想定外すぎ!!＞荒廃した高校にやってきた代理教師は凄腕傭兵？渦巻く陰謀にグレイトティーチャー立ち向かう！山猫〜のトム・ベレンジャー主演、最強ソルジャーアクション</desc>
 </programme>
 <programme start="20211106035500 +0900" stop="20211106042500 +0900" channel="FujiTV.jp">
   <title lang="en">ボタニカルを愛でたい</title>
@@ -1330,17 +1321,13 @@
   <title lang="en">第34回UHB杯ジャンプ</title>
   <desc lang="en">髙梨沙羅と小林陵侑〜日本が世界に誇る男女２大エースが北京五輪まで１００日を切った札幌・大倉山を飛ぶ。葛西紀明の伝説も続く。長野金メダル原田雅彦が解説。</desc>
 </programme>
-<programme start="20211106023500 +0900" stop="20211106030500 +0900" channel="Tokyo MX">
+<programme start="20211107034000 +0900" stop="20211107040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
-<programme start="20211106030500 +0900" stop="20211106033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211106033500 +0900" stop="20211106035000 +0900" channel="Tokyo MX">
-  <title lang="en">ふるさと百景</title>
-  <desc lang="en"> </desc>
+<programme start="20211107040000 +0900" stop="20211107043000 +0900" channel="FujiTV.jp">
+  <title lang="en">ミミヨリ!</title>
+  <desc lang="en">耳より情報をお届けします！</desc>
 </programme>
 <programme start="20211106035000 +0900" stop="20211106040000 +0900" channel="Tokyo MX">
   <title lang="en">路面電車のある風景</title>
@@ -1551,6 +1538,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211107030000 +0900" stop="20211107033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211107033000 +0900" stop="20211107040000 +0900" channel="Tokyo MX">
+  <title lang="en">真夜中のおバカ騒ぎ!</title>
+  <desc lang="en">原口クイズ！それいい質問！（前編）</desc>
+</programme>
+<programme start="20211107040000 +0900" stop="20211107043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
