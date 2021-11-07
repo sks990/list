@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211107085700 +0900" stop="20211107090000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211107090000 +0900" stop="20211107100000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">日曜討論</title>
     <desc lang="en">衆院選を受けて政治学者や若手論客が討論！与党で絶対安定多数は？低投票率の背景、私たちと政治の距離は？選挙で浮き彫りになった課題、これからの政治に求められるのは？</desc>
@@ -290,13 +286,13 @@
     <title lang="en">あさイチ</title>
     <desc lang="en">いま大ブーム！？音声ＳＮＳの不思議な世界をご紹介▽音声ＳＮＳのつながりで…自分の夢を叶えた女性▽屋久島の“自然の音”配信で人気▽人付き合い苦手…音声ＳＮＳが救い</desc>
   </programme>
-  <programme start="20211107085500 +0900" stop="20211107090000 +0900" channel="eTele.jp">
-    <title lang="en">365日の献立日記</title>
-    <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+  <programme start="20211108095500 +0900" stop="20211108100000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなの体操</title>
+    <desc lang="en">鈴木大輔、原川愛、今井菜津美、杉井勇介</desc>
   </programme>
-  <programme start="20211107090000 +0900" stop="20211107094500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">奈良国立博物館で今年も開催される「正倉院展」。１３００年にわたって守り伝えられてきた宝物から感じる天平人の息づかいとその魅力を、たっぷりお伝えします。</desc>
+  <programme start="20211108100000 +0900" stop="20211108100500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211107094500 +0900" stop="20211107100000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -505,6 +501,30 @@
   <programme start="20211108090000 +0900" stop="20211108090500 +0900" channel="eTele.jp">
     <title lang="en">すたあと</title>
     <desc lang="en">【すたあと】新しく学校生活をスタートする小学１年生をサポートする番組。今回はボール遊び。さまざまな方法で持ってみたり、運んだり、遊びながらボールに慣れていきます</desc>
+  </programme>
+  <programme start="20211108090500 +0900" stop="20211108091500 +0900" channel="eTele.jp">
+    <title lang="en">おはなしのくに</title>
+    <desc lang="en">大原櫻子がひとり芝居で演じる「にんぎょひめ」。海の上の世界に憧れる人魚姫は、人間の王子に恋をし、人間になりたいと強く願うが…。アンデルセン童話の名作</desc>
+  </programme>
+  <programme start="20211108091500 +0900" stop="20211108092500 +0900" channel="eTele.jp">
+    <title lang="en">おはなしのくにクラシック</title>
+    <desc lang="en">中国で生まれた漢詩は、昔の日本人にとって大切な教養のひとつだった。中国語を日本語に変換して読む方法には工夫がいっぱい。「春暁」を例にその奥深さにふれる。</desc>
+  </programme>
+  <programme start="20211108092500 +0900" stop="20211108093500 +0900" channel="eTele.jp">
+    <title lang="en">ことばドリル</title>
+    <desc lang="en">「おっちょこちょいだから好き」と「おっちょこちょいだけど好き」は大ちがい。同じことを言うにも接続詞の使い方によって感じが変わることを知る。</desc>
+  </programme>
+  <programme start="20211108093500 +0900" stop="20211108094500 +0900" channel="eTele.jp">
+    <title lang="en">キミなら何つくる?</title>
+    <desc lang="en">「キミなら何つくる？」では図工大好き３人組が、それぞれの思いを込めた三者三様の作品を製作！今回は“和の作品”を鑑賞し感じたことを話し合う。出演ＣＯＷＣＯＷほか</desc>
+  </programme>
+  <programme start="20211108094500 +0900" stop="20211108095500 +0900" channel="eTele.jp">
+    <title lang="en">さんすう犬ワン</title>
+    <desc lang="en">算数の得意な犬・ワンがお巡りさんと事件を解決するコメディードラマ。中華料理屋で数が数えにくくなる事件が発生！九九をうまく使って解決できるか？出演スギちゃんほか</desc>
+  </programme>
+  <programme start="20211108095500 +0900" stop="20211108100500 +0900" channel="eTele.jp">
+    <title lang="en">さんすう刑事ゼロ</title>
+    <desc lang="en">算数を使い事件を解決するミステリードラマ。今回は土地の生前分与、複雑な形の土地を２等分する。果たして難問を解決できるのか？出演モロ師岡、加藤慶祐、石井正則ほか</desc>
   </programme>
   <programme start="20211107073000 +0900" stop="20211107102500 +0900" channel="NipponTV.jp">
     <title lang="en">シューイチ</title>
@@ -752,9 +772,9 @@
   <title lang="en">羽鳥慎一モーニングショー</title>
   <desc lang="en">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 </programme>
-<programme start="20211107080000 +0900" stop="20211107095400 +0900" channel="TBS2.jp">
-  <title lang="en">サンデーモーニング</title>
-  <desc lang="en">気候変動の危機訴え‥世界の若者が抗議デモ▽総選挙の結果を斬る▽プロ野球ＣＳ開幕▽新庄ビッグボス誕生▽メジャー世界一決定▽サッカーＪ１王者▽「風をよむ」(他)</desc>
+<programme start="20211108095500 +0900" stop="20211108102500 +0900" channel="Asahi.jp">
+  <title lang="en">じゅん散歩</title>
+  <desc lang="en">三代目散歩人・高田純次が「神宮外苑」を散策▽五輪で注目「国立競技場」に歴史的レガシー発見▽祝・リーグ優勝！ヤクルト高津監督と爆笑トーク▽神宮球場の“カツうどん”</desc>
 </programme>
 <programme start="20211107095400 +0900" stop="20211107113000 +0900" channel="TBS2.jp">
   <title lang="en">サンデー・ジャポン</title>
@@ -879,13 +899,9 @@
   <title lang="en">ラヴィット!</title>
   <desc lang="en">激安！業務用食品スーパー「アミカ」驚きの冷凍食品が続々登場！▼プロが厳選！おうちトレーニンググッズランキング！自宅で手軽に鍛えられる！人気で品薄の商品を大公開！</desc>
 </programme>
-<programme start="20211107083000 +0900" stop="20211107090000 +0900" channel="TVTokyo.jp">
-  <title lang="en">デュエル・マスターズ キング!</title>
-  <desc lang="en">小学生の切札勝舞と戦ったジョー。その後、勝舞がジョーの時代について来てしまった！気にすることもなく次のカード探しへ向かうジョー。行先は父・切札勝太の小学生時代！</desc>
-</programme>
-<programme start="20211107090000 +0900" stop="20211107093000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ビッ友×戦士 キラメキパワーズ!</title>
-  <desc lang="en">キラメキパワーズが大ピンチに！プリンセスの代わりとなりマックラ城へ捕らわれたホノカを救い出せるのか！▽2週連続プレゼント第1弾▽「あつまれビッ友大集合」発表</desc>
+<programme start="20211108095500 +0900" stop="20211108102500 +0900" channel="TBS2.jp">
+  <title lang="en">Let's!美バディ</title>
+  <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストは芸人 ハリセンボン★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
 </programme>
 <programme start="20211107093000 +0900" stop="20211107100000 +0900" channel="TVTokyo.jp">
   <title lang="en">マジカパーティ</title>
@@ -1047,13 +1063,17 @@
   <title lang="en">ノクドゥ伝〜花に降る月明り〜</title>
   <desc lang="en">出会うはずがなかった２人の運命の恋。王宮ロマンティックラブコメディ！おてんば女子が恋した相手は絶世の女装美男子プリンス!?【全２０話　日本語字幕付　二カ国語放送】</desc>
 </programme>
-<programme start="20211107085500 +0900" stop="20211107090000 +0900" channel="FujiTV.jp">
-  <title lang="en">千葉の贈り物〜まごころ配達人〜</title>
-  <desc lang="en">心のこもった“まごころ”で、全国から訪れる方々を迎えたい…そんな思いを込めて、千葉県のスポットとその魅力を支える人たちを紹介します。</desc>
+<programme start="20211108091100 +0900" stop="20211108092100 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!プラス</title>
+  <desc lang="en">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
 </programme>
-<programme start="20211107090000 +0900" stop="20211107093000 +0900" channel="FujiTV.jp">
-  <title lang="en">デジモンゴーストゲーム</title>
-  <desc lang="en">［神ノ怒リ］宙の先輩でおなじ寮の東御手洗　清司郎は、ずっと自室に起こるポルターガイスト現象に悩まされていた。だがその正体はジェリーモンの仕業だった。</desc>
+<programme start="20211108092100 +0900" stop="20211108092600 +0900" channel="TVTokyo.jp">
+  <title lang="en">Mナビ</title>
+  <desc lang="en">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+</programme>
+<programme start="20211108092600 +0900" stop="20211108111300 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!</title>
+  <desc lang="en">▽快適ショッピングスタジオ▽口の中をきれいに…ケア方法を徹底解説！舌の筋肉を動かそう！歯の磨き残しが無い？便利グッズ続々▽「虎ノ門市場」中村家監修　海鮮おせち</desc>
 </programme>
 <programme start="20211107093000 +0900" stop="20211107100000 +0900" channel="FujiTV.jp">
   <title lang="en">ワンピース</title>
@@ -1179,13 +1199,9 @@
   <title lang="en">めざまし8</title>
   <desc lang="en">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 </programme>
-<programme start="20211107083000 +0900" stop="20211107090000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211107090000 +0900" stop="20211107093000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211108095000 +0900" stop="20211108112500 +0900" channel="FujiTV.jp">
+  <title lang="en">ノンストップ!</title>
+  <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
 <programme start="20211107093000 +0900" stop="20211107100000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1364,6 +1380,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211108090000 +0900" stop="20211108090500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211108090500 +0900" stop="20211108093000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４Ｋ撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20211108093000 +0900" stop="20211108100000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211108100000 +0900" stop="20211108103000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1641,7 +1669,7 @@ https//otn.fujitv.co.jp
 <programme start="20211107083000 +0900" stop="20211107100000 +0900" channel="FujiOne.jp">
 <title lang="en">武豊ＴＶ！２　118「豊メモリー 蔵出しSP」</title>
 <desc>豊メモリー 蔵出しSPスーパークリーク、メジロマックイーン、オグリキャップ、スペシャルウィーク、エアグルーヴ、ディープインパクト
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211107/6896579/image/0d3d875a6ab3d833cc1e561ebcb22699.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211107100000 +0900" stop="20211107120000 +0900" channel="FujiOne.jp">
