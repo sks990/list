@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211107215000 +0900" stop="20211107224000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">サンデースポーツ</title>
-    <desc lang="en">ＣＳ１神対巨＆ロ対楽を上原浩治徹底解説▽アイバズ冬季競技第１弾は絶好調スキージャンプ小林陵侑×相葉雅紀▽Ｊ１連覇！川崎鬼木監督×中澤佑二▽ソフトボール▽大学駅伝</desc>
-  </programme>
-  <programme start="20211107224000 +0900" stop="20211107224500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
-    <desc lang="en">コロナ禍によって変容する社会の兆し（サイン）を捉えて紹介する「Ｔｈｅ　Ｓｉｇｎｓ」より、全国から集まるオンライン読書会の様子を紹介した番組の魅力を伝える。</desc>
-  </programme>
-  <programme start="20211107224500 +0900" stop="20211107225500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">未来へ17ACTION☆TV</title>
-    <desc lang="en">東京銀座で衣料品店を営む植月友美さん。「エシカルファッション」と呼ばれる環境にやさしい商品を売る。客が迷うと植月さんは「無理してかわなくていいよ」その理由は？</desc>
-  </programme>
   <programme start="20211107225500 +0900" stop="20211107230000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">未来スイッチ</title>
     <desc lang="en">ルールを守らない自転車の事故が後を絶たない。番組では子どもたちのアイデアをもとにルールを守ってもらう対策を実験。現場は一時停止率２％の交差点。果たして効果は…</desc>
@@ -329,6 +317,10 @@
   <programme start="20211108220000 +0900" stop="20211108224500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">逆転人生</title>
     <desc lang="en">仮面ライダーにタイガーマスク、少年時代からヒーローへの憧れを持ち続け、人生の逆転劇を成し遂げた男性が登場。生駒里奈が共感！藤岡弘、は意気投合。元気をもらえます！</desc>
+  </programme>
+  <programme start="20211108224500 +0900" stop="20211108231500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">阿佐ヶ谷姉妹ののほほんふたり暮らし</title>
+    <desc lang="en">「阿佐ヶ谷姉妹」というお笑い芸人として活動しながら、バイトで生計を立てている“疑似姉妹”のエリコ（木村多江）とミホ（安藤玉恵）。ミホがエリコの部屋に入り浸る。</desc>
   </programme>
   <programme start="20211107210000 +0900" stop="20211107233000 +0900" channel="eTele.jp">
     <title lang="en">クラシック音楽館</title>
@@ -662,13 +654,13 @@
     <title lang="en">グレーテルのかまど</title>
     <desc lang="en">鮮やかな色彩で描く作品が、世界中で大人気の絵本作家、エリック・カール。幼いころの思い出のパンが、ドイツ生まれのプレッツェル。物語を味わいながら、ヘンゼルも挑戦！</desc>
   </programme>
-  <programme start="20211107215400 +0900" stop="20211107220000 +0900" channel="NipponTV.jp">
-    <title lang="en">120秒のターニング映画(シネマ)</title>
-    <desc lang="en">人生が劇的に変わった瞬間=ターニングポイント=を再現VＴＲで紹介。最後にご本人が誰かを明かす番組です。</desc>
+  <programme start="20211108222500 +0900" stop="20211108225000 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">イワンに、絶対的な悪が存在する以上「神が創ったこの世界は認めない」と議論を投げかけられるアリョーシャは、ある事件をきっかけに信仰のゆらぎに直面させられる。</desc>
   </programme>
-  <programme start="20211107220000 +0900" stop="20211107223000 +0900" channel="NipponTV.jp">
-    <title lang="en">おしゃれクリップ</title>
-    <desc lang="en">“遊びの達人”山下健二郎が波をかぶっても平気なアウトドアスタイルで登場▼家まで作る業者レベルのDIYテクに育三郎仰天▼“エアマックス狩り”90年代懐かしトーク</desc>
+  <programme start="20211108225000 +0900" stop="20211108231500 +0900" channel="eTele.jp">
+    <title lang="en">美輪明宏 愛のモヤモヤ相談室</title>
+    <desc lang="en">その心のモヤモヤした悩みを、スッキリしませんか？！　▼人生経験豊かな美輪明宏さんが、高瀬アナウンサーと共に寄り添って、愛があふれる言葉でお答えします。</desc>
   </programme>
   <programme start="20211107223000 +0900" stop="20211107232500 +0900" channel="NipponTV.jp">
     <title lang="en">真犯人フラグ</title>
@@ -771,15 +763,10 @@
     <title lang="en">しゃべくり007</title>
     <desc lang="en">嵐の活動休止後はじめての年越し…悩める二宮和也と究極２択ジャニーズクイズ対決‼▽結成10年‼チケット即完のコント師集団”チョコンヌ”と新キャラバトル勃発‼</desc>
   </programme>
-<programme start="20211107190000 +0900" stop="20211107225400 +0900" channel="Asahi.jp">
-  <title lang="en">テレ朝バラエティMC芸人 夢の共演SP</title>
-  <desc lang="en">テレ朝バラエティMC芸人13名が大集合!!ここでしか見られないカラミと意外な素顔!!伊達ノブせいや実は同じマンション！小峠の「へー問題」、大悟山里濱家の三角関係…</desc>
-</programme>
-<programme start="20211107225400 +0900" stop="20211107225700 +0900" channel="Asahi.jp">
-  <title lang="en">食ノ音色</title>
-  <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
-今回の“食ノ音色”を奏でる主役は『さつまいもパイ』です。</desc>
-</programme>
+  <programme start="20211108230000 +0900" stop="20211108235900 +0900" channel="NipponTV.jp">
+    <title lang="en">news zero</title>
+    <desc lang="en">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
+  </programme>
 <programme start="20211107225700 +0900" stop="20211107230000 +0900" channel="Asahi.jp">
   <title lang="en">EXITのラリージャパン応援宣言</title>
   <desc lang="en">世界の一般道を舞台に繰り広げられる世界ラリー。世界ラリーの魅力とラリージャパンの見どころを、ＥＸＩＴが全開で紹介します。</desc>
@@ -887,14 +874,6 @@
   <title lang="en">報道ステーション</title>
   <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
-<programme start="20211107215400 +0900" stop="20211107220000 +0900" channel="TBS2.jp">
-  <title lang="en">まちづくり夢づくりPART2</title>
-  <desc lang="en">まちづくり夢づくりＰＡＲＴ２</desc>
-</programme>
-<programme start="20211107220000 +0900" stop="20211107225400 +0900" channel="TBS2.jp">
-  <title lang="en">日曜日の初耳学</title>
-  <desc lang="en">ドラマ「逃げ恥」の主題歌『恋』＆名曲『ＳＵＮ』の誕生秘話▼現在の楽曲作りにＹＯＡＳＯＢＩの存在が▼こんな星野源は見たことない…大病を経て“今、想うこと”を語る</desc>
-</programme>
 <programme start="20211107225400 +0900" stop="20211107230000 +0900" channel="TBS2.jp">
   <title lang="en">今晩、Paraviれば</title>
   <desc lang="en">過去の話題作やオリジナル番組が見放題の動画配信サービス【Paravi】！豊富なラインアップから一押しコンテンツをご紹介！今すぐParaviれば！</desc>
@@ -963,13 +942,13 @@
   <title lang="en">100%!アピ〜ルちゃん</title>
   <desc lang="en">自宅初公開！小倉優子３児ママの子育て…別居報道…涙の激白！リアルな姿に指原感動★芸能人が自分で言わない㊙アピールポイント発掘！かまいたち暴露＆みちょぱ赤っ恥恋愛</desc>
 </programme>
-<programme start="20211107215400 +0900" stop="20211107224800 +0900" channel="TVTokyo.jp">
-  <title lang="en">有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?</title>
-  <desc lang="en">大人気ポケモンユナイト！中川翔子＆オードリー春日軍団から挑戦状が！桜井日奈子も参戦▽“逃げ足スゲ〜”超進化イワパレス有吉▽視聴者バトルでアンガ田中がマジ作戦会議</desc>
+<programme start="20211108225700 +0900" stop="20211108230000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">きょうのｎｅｗｓ２３。みどころを、いち早くお伝えします！最新情報、満載です！</desc>
 </programme>
-<programme start="20211107224800 +0900" stop="20211107225400 +0900" channel="TVTokyo.jp">
-  <title lang="en">eSports high TV</title>
-  <desc lang="en">毎週ｅスポーツイベントや最新ゲームなど旬な情報を届ける。ＭＣは中垣正太郎アナと原田修佑アナ。そしてAI-Vtuberのタミ子。</desc>
+<programme start="20211108230000 +0900" stop="20211108235600 +0900" channel="TBS2.jp">
+  <title lang="en">news23</title>
+  <desc lang="en">国山ハセンアナウンサーが新たに加入！小川彩佳と共に番組独自の調査報道からＺ世代に刺さるカルチャーまで　明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
 </programme>
 <programme start="20211107225400 +0900" stop="20211107233000 +0900" channel="TVTokyo.jp">
   <title lang="en">追跡 LIVE! SPORTS ウォッチャー</title>
@@ -1119,9 +1098,9 @@
   <title lang="en">WBS</title>
   <desc lang="en">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 </programme>
-<programme start="20211107215400 +0900" stop="20211107220000 +0900" channel="FujiTV.jp">
-  <title lang="en">1Hセンス</title>
-  <desc lang="en">いま輝いている人たちが自分を高める１時間の過ごし方。忙しい彼らの心を満たし活力を生み出す空間、味、絶景とは？自分磨きの達人たちのライフスタイルに迫る。</desc>
+<programme start="20211108225800 +0900" stop="20211108230600 +0900" channel="TVTokyo.jp">
+  <title lang="en">夢遺産〜リーダーの夢の先〜</title>
+  <desc lang="en">今回の夢追い人は、創業50年、ベビー服・子ども服のミキハウス社長　木村皓一。百貨店から出品拒否！その時とった行動が世界進出のきっかけ？そして未来に遺したい夢とは？</desc>
 </programme>
 <programme start="20211107220000 +0900" stop="20211107231500 +0900" channel="FujiTV.jp">
   <title lang="en">Mr.サンデー</title>
@@ -1221,13 +1200,13 @@
   <desc lang="en">「仲間・理不尽な医療現場の闇を晒し出せ」
 綾野剛　福士蒼汰　渡部篤郎　木村佳乃</desc>
 </programme>
-<programme start="20211107213000 +0900" stop="20211107220000 +0900" channel="Tokyo MX">
-  <title lang="en">ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-</title>
-  <desc lang="en">＃６「少女とデパートとプレゼント」</desc>
+<programme start="20211108225400 +0900" stop="20211108230000 +0900" channel="FujiTV.jp">
+  <title lang="en">ミラクルビト〜未来を創る人〜</title>
+  <desc lang="en">今回のミラクルビトは、実業家の林要。話題のラボットを開発した林要が、テクノロジーをテーマに語る「未来へのキーワード」とは。</desc>
 </programme>
-<programme start="20211107220000 +0900" stop="20211107223000 +0900" channel="Tokyo MX">
-  <title lang="en">さんかく窓の外側は夜</title>
-  <desc lang="en"> </desc>
+<programme start="20211108230000 +0900" stop="20211108234000 +0900" channel="FujiTV.jp">
+  <title lang="en">関ジャニ∞クロニクルF</title>
+  <desc lang="en">好評！全日本それなオープン第三弾…シェアハウスで暮らす人々３０人が激白！禁断の恋愛事情＆私物紛失＆お掃除あるある…新井恵理那＆蛙亭イワクラの㊙実体験に一同仰天！</desc>
 </programme>
 <programme start="20211107223000 +0900" stop="20211107230000 +0900" channel="Tokyo MX">
   <title lang="en">『攻殻機動隊 SAC_2045』劇場記念番組 Section SAC_2045</title>
@@ -1407,6 +1386,14 @@
 </programme>
 <programme start="20211108220000 +0900" stop="20211108223000 +0900" channel="Tokyo MX">
   <title lang="en">色づく世界の明日から</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211108223000 +0900" stop="20211108230000 +0900" channel="Tokyo MX">
+  <title lang="en">やくならマグカップも 二番窯</title>
+  <desc lang="en">最高気温40.9度！焼き物の町多治見市を舞台にした、“アニメ×陶芸”の物語はまだまだ続く！▽後半は主演声優が多治見市を紹介する実写パート「やくもの放課後」</desc>
+</programme>
+<programme start="20211108230000 +0900" stop="20211108233000 +0900" channel="Tokyo MX">
+  <title lang="en">吸血鬼すぐ死ぬ</title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211107000000 +0900" stop="20211107003000 +0900" channel="FujiNext.jp">
@@ -1747,7 +1734,7 @@ https//otn.fujitv.co.jp
 <title lang="en">ラーメンWalker TV2　303　大岡山「なるめん」</title>
 <desc>新世代の旗手が挑む「手打ち麺＆辛いらぁめん」!　大岡山『なるめん』　
 ＜出演＞田中貴（サニーデイ・サービス）　日比野芽奈
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211107/6896588/image/0849bd7ca1a4e77f9504c22a40c1fc8e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211107230000 +0900" stop="20211108000000 +0900" channel="FujiOne.jp">
@@ -2155,7 +2142,7 @@ https//otn.fujitv.co.jp
 <programme start="20211107214000 +0900" stop="20211107230000 +0900" channel="kbsworld.jp">
 <title lang="en">オーケー、グァン姉妹（原題）　42　[字]</title>
 <desc>日本初放送！両親の離婚協議中に起きた母親殺害事件の容疑者候補に家族全員があがることから物語がはじまるミステリー　ラブコメ　ホームドラマ！2021年　全50話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211107/6881736/image/307fa36803c85e1de9714c674f0c94d3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211107230000 +0900" stop="20211108003000 +0900" channel="kbsworld.jp">
