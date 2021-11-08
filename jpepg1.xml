@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211109022500 +0900" stop="20211109030900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">スポーツ×ヒューマン</title>
-    <desc lang="en">リーグ２位からの逆転劇で悲願の日本一へ。阪神タイガースの矢野燿大監督は、選手に考えさせ、成長を促し、勝利に導く、自らの理想を追い求めてきた。矢野流指導術に迫る。</desc>
-  </programme>
-  <programme start="20211109030900 +0900" stop="20211109035800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
-  </programme>
   <programme start="20211109035800 +0900" stop="20211109043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスの山々の四季</desc>
@@ -329,6 +321,10 @@
   <programme start="20211110023900 +0900" stop="20211110033900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
+  </programme>
+  <programme start="20211110033900 +0900" stop="20211110043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">平清盛 ゆかりの地を行く</title>
+    <desc lang="en">大河ドラマ「平清盛」でおなじみとなった清盛ゆかりの地を映像でつづる。清盛が造営した海上社殿・厳島神社のほか、広島、京都、三重、兵庫、岡山、山口の各地を紹介する。</desc>
   </programme>
   <programme start="20211109002500 +0900" stop="20211109053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -682,14 +678,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211109015900 +0900" stop="20211109034400 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です</title>
-    <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！菜奈ちゃんを殺された翔太の反撃！あのキャラの大暴走や衝撃シーンをおさらい！</desc>
-  </programme>
-  <programme start="20211109034400 +0900" stop="20211109034500 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211109034500 +0900" stop="20211109043000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en"></desc>
@@ -787,15 +775,10 @@
     <title lang="en">サッカー★アース</title>
     <desc lang="en">日本代表Ｗ杯へ！勝負の2連戦〜中田浩二の特別授業▽欧州チャンピオンズリーグ第3、4節　チェルシー▽高校サッカー応援マネジャー、応援歌決定</desc>
   </programme>
-<programme start="20211109025600 +0900" stop="20211109030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211109030000 +0900" stop="20211109033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211110033500 +0900" stop="20211110042000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en"></desc>
+  </programme>
 <programme start="20211109033000 +0900" stop="20211109040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -922,10 +905,13 @@ by.Ars Nova Copenhagen  Paul Hillier</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20211109013500 +0900" stop="20211109034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211110033000 +0900" stop="20211110040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211110040000 +0900" stop="20211110045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「危うし！吉宗、妖刀村正騒動」松平健(他)▽宝物殿に賊が入り妖刀村正が盗まれるという騒ぎが起こる中、江戸の剣術道場で百両を賭けた剣術試合が行われる事を知った吉宗は…</desc>
 </programme>
 <programme start="20211109034500 +0900" stop="20211109043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -1013,18 +999,9 @@ by.Ars Nova Copenhagen  Paul Hillier</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211109025000 +0900" stop="20211109032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】BEFIRST、ストレイテナー、ハンブレッダーズ、西恵利香
-【ナビゲーター】南海キャンディーズ</desc>
-</programme>
-<programme start="20211109032000 +0900" stop="20211109035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あにレコTV</title>
-  <desc lang="en">MCはノンスタ井上と美山加恋！▽「大正オトメ御伽話」特集！OP曲を歌うGARNiDELiAがスタジオに！▽TVアニメ「シャドウバース」特集！Blu-rayBOXの魅力をお届け！</desc>
-</programme>
-<programme start="20211109035000 +0900" stop="20211109035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+<programme start="20211110034500 +0900" stop="20211110043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211109035500 +0900" stop="20211109041000 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
@@ -1165,18 +1142,22 @@ by.Ars Nova Copenhagen  Paul Hillier</desc>
   <title lang="en"></title>
   <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
 </programme>
-<programme start="20211109021500 +0900" stop="20211109031500 +0900" channel="FujiTV.jp">
-  <title lang="en">他人は地獄だ</title>
-  <desc lang="en">韓国で大ヒットＷＥＢ漫画を実写化！地方から上京してきた純朴な青年が不安と緊張に追いつめられ、徐々に自分を見失っていく衝撃のミステリー・スリラー。</desc>
+<programme start="20211110030500 +0900" stop="20211110032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">幸せな老後を手に入れるために奮闘する女子高生の物語！「JKからやり直すシルバープラン」をご紹介。今夜も、W主演を務める、鈴木ゆうかと小宮璃央のインタビューが到着！</desc>
 </programme>
-<programme start="20211109031500 +0900" stop="20211109032000 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
+<programme start="20211110032000 +0900" stop="20211110032500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
 </programme>
-<programme start="20211109032000 +0900" stop="20211109034500 +0900" channel="FujiTV.jp">
+<programme start="20211110032500 +0900" stop="20211110035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">女ともだち</title>
+  <desc lang="en">今日もアミーゴスを訪れているちさとの元上司の裕美子。仕事一筋の裕美子にも恋愛に夢中だった頃があるという。そして15年も昔の男が探してくれるのを待っていた…。</desc>
+</programme>
+<programme start="20211110035500 +0900" stop="20211110040000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20211109034500 +0900" stop="20211109040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1274,13 +1255,22 @@ by.Ars Nova Copenhagen  Paul Hillier</desc>
   <title lang="en">FNSドキュメンタリー大賞</title>
   <desc lang="en">終戦時、朝鮮北部に取り残された日本人を待っていたのは命を懸けた脱出劇。その時何が起きていたのか。戦後７６年目の証言と当時を物語る手記から引き揚げ者の記憶を繋ぐ。</desc>
 </programme>
-<programme start="20211109023500 +0900" stop="20211109030500 +0900" channel="Tokyo MX">
-  <title lang="en">テリー土屋のくるまの話</title>
-  <desc lang="en">テリー伊藤＆レジェンドレーサー・土屋圭市▼車を愛する２人が自動車関連企業の社長を招き業界の裏側を掘り下げるトーク番組！</desc>
+<programme start="20211110032000 +0900" stop="20211110032500 +0900" channel="FujiTV.jp">
+  <title lang="en">フジナビ!</title>
+  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
+見逃せない番組の見どころを紹介しちゃいます！</desc>
 </programme>
-<programme start="20211109030500 +0900" stop="20211109033500 +0900" channel="Tokyo MX">
+<programme start="20211110032500 +0900" stop="20211110035000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211110035000 +0900" stop="20211110040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211110040000 +0900" stop="20211110045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211109033500 +0900" stop="20211109040000 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1477,6 +1467,18 @@ by.Ars Nova Copenhagen  Paul Hillier</desc>
 <programme start="20211110023500 +0900" stop="20211110030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211110030500 +0900" stop="20211110033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211110033500 +0900" stop="20211110040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20211110040000 +0900" stop="20211110043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
 <programme start="20211108211000 +0900" stop="20211109005000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第18戦メキシコシティGP 決勝</title>
