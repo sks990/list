@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211111020200 +0900" stop="20211111033800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">2021ATPテニス マスターズ1000 ロレックス パリマスターズ</title>
-    <desc lang="en">男子シングルス・決勝　※副音声は場内音声「ノバク　ジョコビッチ」（セルビア）対「ダニール　メドベージェフ」（ロシア）【解説】内山勝，【アナウンサー】佐藤洋之</desc>
-  </programme>
   <programme start="20211111033800 +0900" stop="20211111043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北海道・かわいい動物たち〜さわやか自然百景から〜</title>
     <desc lang="en">日本各地の自然や風景、そこに暮らす生きものたちの姿を紹介してきた「さわやか自然百景」。北海道で撮影した映像の中から、動物たちの愛らしい姿をたっぷりお届けします！</desc>
@@ -313,6 +309,10 @@
   <programme start="20211112021300 +0900" stop="20211112031300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ドイツ・ベルリンを旅する。</desc>
+  </programme>
+  <programme start="20211112031300 +0900" stop="20211112041300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北アルプス</title>
+    <desc lang="en">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
   </programme>
   <programme start="20211111010000 +0900" stop="20211111053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -738,15 +738,10 @@
     <title lang="en">NFL倶楽部</title>
     <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
   </programme>
-<programme start="20211111025600 +0900" stop="20211111030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211111030000 +0900" stop="20211111033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211112032900 +0900" stop="20211112042900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">人気商品勢ぞろい！ポシュレ史上売上ＮＯ．１のブルブルマシーン、１万円以下！高機能シャワーヘッド、くわばた監修骨盤ショーツ、人気枕、ペンダントなどお得情報満載！</desc>
+  </programme>
 <programme start="20211111033000 +0900" stop="20211111040000 +0900" channel="Asahi.jp">
   <title lang="en">テレメンタリー2021</title>
   <desc lang="en">河井夫妻による買収事件で、前市長らが辞職した広島・安芸高田市で改革を訴え当選したのは、政治経験ゼロの元銀行員。議会とのやりとりをSNSで発信して、思わぬ対立が…。</desc>
@@ -874,10 +869,13 @@
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20211111020500 +0900" stop="20211111034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211112033000 +0900" stop="20211112040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
+</programme>
+<programme start="20211112040000 +0900" stop="20211112045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「鉄火芸者に花一輪」松平健(他)▽料亭で小太郎という芸者と知り合った吉宗。勝気な中にも陰のある小太郎に、吉宗は興味をおぼえた。そんな中、料亭近くで火事騒ぎが起こり…</desc>
 </programme>
 <programme start="20211111034500 +0900" stop="20211111043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -959,25 +957,11 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211111023500 +0900" stop="20211111030500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ガンダム板倉小隊 絆体感ＴＶ機動戦士ガンダム第07板倉小隊〜ゆく絆くる絆〜</title>
-  <desc lang="en">【2】初回から安定の黒星スタート、だが、このままでは終われない。今回は「戦場の絆」日本一に輝いた最強チームが登場。最強の座をかけて熾烈な戦いが繰り広げられる‼</desc>
+<programme start="20211112034500 +0900" stop="20211112043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211111030500 +0900" stop="20211111032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">原作は、大ヒット作を連発する人気作家、
-円城寺マキの同名マンガ！芸能界の禁断のゴシップを描く話題のドラマ「つまり好きって言いたいんだけど、」をご紹介。</desc>
-</programme>
-<programme start="20211111032000 +0900" stop="20211111035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">おしゃ家ソムリエおしゃ子!</title>
-  <desc lang="en">矢作穂香主演で人気WEB漫画をドラマ化!“おしゃ家ソムリエ”おしゃ子が男たちのぶしゃ部屋をブッタ斬る新感覚ラブコメ!訪れたのはこだわりまくった超ミニマリスト部屋!?</desc>
-</programme>
-<programme start="20211111035000 +0900" stop="20211111035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
-</programme>
-<programme start="20211111035500 +0900" stop="20211111042300 +0900" channel="TVTokyo.jp">
+<programme start="20211111040000 +0900" stop="20211111042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1125,19 +1109,23 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
-<programme start="20211111022500 +0900" stop="20211111032000 +0900" channel="FujiTV.jp">
-  <title lang="en">BSいきものがかり presents BSはたもとひろ</title>
-  <desc lang="en">★２人体制となって初！『ＢＳいきものがかり』特別編
-主役は秦基博！？ゲストにマヂカルラブリー・長屋晴子（緑黄色社会）を迎え王道バラエティ企画にチャレンジ！！</desc>
-</programme>
-<programme start="20211111032000 +0900" stop="20211111032500 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
-</programme>
-<programme start="20211111032500 +0900" stop="20211111035000 +0900" channel="FujiTV.jp">
+<programme start="20211112030500 +0900" stop="20211112033500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
+<programme start="20211112033500 +0900" stop="20211112035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">原作は、大人気作家・円城寺マキの同名マンガ！マネージャーと俳優の禁断の恋を描く
+話題のドラマ「つまり好きって言いたいんだけど、」をご紹介！！</desc>
+</programme>
+<programme start="20211112035000 +0900" stop="20211112035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211112035500 +0900" stop="20211112040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ラビッツ インベージョン</title>
+  <desc lang="en">かぶとをかぶってすっかり騎士気取りのラビッツ。ライバル騎士との覇権争いの結末は！？</desc>
 </programme>
 <programme start="20211111035000 +0900" stop="20211111040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1227,13 +1215,22 @@
   <title lang="en">Tune</title>
   <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
-<programme start="20211111023500 +0900" stop="20211111030000 +0900" channel="Tokyo MX">
-  <title lang="en">せとチャレ!STU48</title>
-  <desc lang="en">瀬戸内の「ふりかけ」を特集！各県が誇る特徴的な一品を味わいます！さらに「パラパラ漫画」で話題沸騰中のアノ芸人がリモートで登場！</desc>
+<programme start="20211112032500 +0900" stop="20211112033000 +0900" channel="FujiTV.jp">
+  <title lang="en">フジナビ!</title>
+  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
+見逃せない番組の見どころを紹介しちゃいます！</desc>
 </programme>
-<programme start="20211111030000 +0900" stop="20211111033000 +0900" channel="Tokyo MX">
+<programme start="20211112033000 +0900" stop="20211112035500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211112035500 +0900" stop="20211112040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20211112040000 +0900" stop="20211112045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211111033000 +0900" stop="20211111040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1428,6 +1425,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211112023500 +0900" stop="20211112030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211112030500 +0900" stop="20211112033400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211112033400 +0900" stop="20211112040000 +0900" channel="Tokyo MX">
+  <title lang="en">白黒アンジャッシュ</title>
+  <desc lang="en">アンジャッシュ児嶋一哉がチバテレにゲストを招いて、じっくり話を聞いていくトークバラエティ！</desc>
+</programme>
+<programme start="20211112040000 +0900" stop="20211112043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1629,7 +1638,7 @@ https//otn.fujitv.co.jp
 ＜主宰＞兵動大樹
 ＜ゲスト＞長野じゅりあ
 ＜怪員（怪談師）＞松原タニシ　響洋平　川口英之
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211110/6907629/image/84f568b178f7a48553ea20da356d8602.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211111040000 +0900" stop="20211111053000 +0900" channel="FujiOne.jp">
