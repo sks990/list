@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211112021300 +0900" stop="20211112031300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ドイツ・ベルリンを旅する。</desc>
-  </programme>
   <programme start="20211112031300 +0900" stop="20211112041300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
@@ -285,6 +281,10 @@
   <programme start="20211113023800 +0900" stop="20211113032800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">2021NHK杯フィギュア</title>
     <desc lang="en">北京五輪シーズンのＮＨＫ杯！ピョンチャン五輪銀メダリストの宇野昌磨が自己最高難の演技で挑んだ今大会▽海外勢との戦いの行方は？ショートを振り返る。</desc>
+  </programme>
+  <programme start="20211113032800 +0900" stop="20211113040800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽アフガニスタンの音色を止めない▽日本の外交▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20211112003000 +0900" stop="20211112053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -618,10 +618,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211112025900 +0900" stop="20211112032900 +0900" channel="NipponTV.jp">
-    <title lang="en">NFL倶楽部</title>
-    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
-  </programme>
   <programme start="20211112032900 +0900" stop="20211112042900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">人気商品勢ぞろい！ポシュレ史上売上ＮＯ．１のブルブルマシーン、１万円以下！高機能シャワーヘッド、くわばた監修骨盤ショーツ、人気枕、ペンダントなどお得情報満載！</desc>
@@ -722,15 +718,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物ボイルズワイガニ、リモートワーク対策にストレッチアイテム、若見えフェイス目指すアイテム、ポシュレ人気マットレス、バッグ、大珠真珠などお得情報満載で！</desc>
   </programme>
-<programme start="20211112025600 +0900" stop="20211112030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211112030000 +0900" stop="20211112033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20211112033000 +0900" stop="20211112040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
@@ -841,9 +828,9 @@
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
 </programme>
-<programme start="20211112020500 +0900" stop="20211112034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20211113033000 +0900" stop="20211113043000 +0900" channel="Asahi.jp">
+  <title lang="en">坂上くんが試してみた!!通販☆家事スクール</title>
+  <desc lang="en">坂上忍VS大ヒット商品‼焼肉＆たこ焼き＆鍋もこれ１台‼86％煙カット㊙グリル＆360度ハイパワーの空気清浄機‼スタイルアップに⁉座るだけで－10㎝⁉骨盤座椅子を紹介。</desc>
 </programme>
 <programme start="20211112034500 +0900" stop="20211112043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -932,23 +919,13 @@
   <title lang="en">イベントGO!プラス</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
-<programme start="20211112023500 +0900" stop="20211112030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20211113030700 +0900" stop="20211113040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211112030500 +0900" stop="20211112033500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
-</programme>
-<programme start="20211112033500 +0900" stop="20211112035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">原作は、大人気作家・円城寺マキの同名マンガ！マネージャーと俳優の禁断の恋を描く
-話題のドラマ「つまり好きって言いたいんだけど、」をご紹介！！</desc>
-</programme>
-<programme start="20211112035000 +0900" stop="20211112035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20211113040000 +0900" stop="20211113041500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211112035500 +0900" stop="20211112040500 +0900" channel="TVTokyo.jp">
   <title lang="en">ラビッツ インベージョン</title>
@@ -1116,18 +1093,19 @@
   <title lang="en">一夜づけ</title>
   <desc lang="en">マネージャーと俳優の禁断の愛を描く、話題のドラマ！「つまり好きって言いたいんだけど、」をご紹介。今夜は、気になる内容をちょっとだけお見せしちゃいます！</desc>
 </programme>
-<programme start="20211112025500 +0900" stop="20211112032500 +0900" channel="FujiTV.jp">
-  <title lang="en">Tune</title>
-  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
+<programme start="20211113031500 +0900" stop="20211113034500 +0900" channel="TVTokyo.jp">
+  <title lang="en">音流〜ONRYU〜</title>
+  <desc lang="en">▼スタジオゲストは、湯木慧、EOWが登場！▼「酒場サーキット」今回のゲストは、Da-iCE(工藤大輝)前編！</desc>
 </programme>
-<programme start="20211112032500 +0900" stop="20211112033000 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
+<programme start="20211113034500 +0900" stop="20211113035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
 </programme>
-<programme start="20211112033000 +0900" stop="20211112035500 +0900" channel="FujiTV.jp">
+<programme start="20211113035000 +0900" stop="20211113040500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en">あなたの生活をより楽しく！より快適に！
+ワクワクする商品を厳選して紹介するショッピング番組。</desc>
 </programme>
 <programme start="20211112035500 +0900" stop="20211112040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1218,13 +1196,13 @@
   <title lang="en">次ナルTV-S</title>
   <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＮＥＸＴで絶賛放送中の「スパイストラベラー」ダイジェスト</desc>
 </programme>
-<programme start="20211112023500 +0900" stop="20211112030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211113030500 +0900" stop="20211113033500 +0900" channel="FujiTV.jp">
+  <title lang="en">ラーメンWalkerTV2</title>
+  <desc lang="en">ラーメン専門雑誌発行部数Ｎｏ１！『ラーメンＷａｌｋｅｒ』が選ぶ今食べるべきイチオシ５店を紹介！▽人気実力店主が結集！話題のラーメンスポット最新情報！</desc>
 </programme>
-<programme start="20211112030500 +0900" stop="20211112033400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211113033500 +0900" stop="20211113040500 +0900" channel="FujiTV.jp">
+  <title lang="en">スパイストラベラー</title>
+  <desc lang="en">第２０話「６つのスパイス」名店紹介Ｓｐｉｃｅ＆Ｄｉｎｉｎｇ　ＫＡＬＡ　出演桜井誠（Ｄｒａｇｏｎ　Ａｓｈ）、セントチヒロ・チッチ（ＢｉＳＨ）ゲスト松隈ケンタ</desc>
 </programme>
 <programme start="20211112033400 +0900" stop="20211112040000 +0900" channel="Tokyo MX">
   <title lang="en">白黒アンジャッシュ</title>
@@ -1414,6 +1392,22 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211113030500 +0900" stop="20211113033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211113033500 +0900" stop="20211113035000 +0900" channel="Tokyo MX">
+  <title lang="en">ふるさと百景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211113035000 +0900" stop="20211113040000 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211113040000 +0900" stop="20211113043000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211112000000 +0900" stop="20211112020000 +0900" channel="FujiNext.jp">
 <title lang="en">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第126夜小泉今日子登場</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助＝しおこうじ×ダウンタウンしおこうじバンド！小泉今日子×南野陽子×ももいろクローバーＺ！伊達花彩・瀬田さくら・市川優月参加
@@ -1429,7 +1423,7 @@
 <programme start="20211112030000 +0900" stop="20211112040000 +0900" channel="FujiNext.jp">
 <title lang="en">石田弘へきくちから第2回！テレビ音楽番組のラスボス76歳の現役演出家が語る55年</title>
 <desc>「ポプコン」から『オールナイトフジ』おニャン子『夕焼けニャンニャン』そして『MUSICFAIR』フジテレビに生きたレジェンド石田弘は何処から来て何処へと向かうの
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211111/7023962/image/cfc1a33bf43e55251f73e35929847325.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211112040000 +0900" stop="20211112060000 +0900" channel="FujiNext.jp">
@@ -1638,7 +1632,7 @@ https//otn.fujitv.co.jp
 <title lang="en">オールナイトe！ season9　〜1時間版 Part4〜</title>
 <desc>薄着の女子たちによる新世代ゲーム生実況番組「オールナイトe！ season9」1時間版！
 ＜出演＞RaMu　片岡沙耶　池尻愛梨　松嶋えいみ　伊織いお
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211111/7024182/image/2d04e110d79835ba94baa01a719f3e22.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211112040000 +0900" stop="20211112050000 +0900" channel="FujiOne.jp">
