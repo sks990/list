@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211111135500 +0900" stop="20211111140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、能條貴大、吉江晴菜、今井菜津美、新井庸太</desc>
-  </programme>
-  <programme start="20211111140000 +0900" stop="20211111140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211111140500 +0900" stop="20211111145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あてなよる</title>
-    <desc lang="en">かまぼこ、ちくわ、はんぺん！日本人のハートをつかむ練り物尽くしの夜にようこそ！料理家・大原千鶴の最強のおでんとは？郷愁をそそるカップ酒にまつわる秘密の思い出も！</desc>
-  </programme>
   <programme start="20211111145000 +0900" stop="20211111150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">気候変動対策の国連会議「ＣＯＰ２６」で、二酸化炭素排出が多い石炭火力発電の廃止を目指す動きが加速。圧力が強まる中で、石炭火力を主力電源とする日本は対応すべきか。</desc>
@@ -326,17 +314,9 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211111135500 +0900" stop="20211111140000 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 献立帳</title>
-    <desc lang="en">かりんジャムを作る。かりんをゆで、実をぎゅうぎゅう押してとろりとしたエキスを搾り出す。砂糖を加えてじっくり１時間炊いたら、おいしいジャムのできあがり。</desc>
-  </programme>
-  <programme start="20211111140000 +0900" stop="20211111142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 科学と人間生活</title>
-    <desc lang="en">身の回りの自然や暮らしを糸口に、科学を楽しく解き明かしていきます。今回は、最新のエアコンが、冷暖房効率を上げるためにどの様な工夫がされているのかお伝えします。</desc>
-  </programme>
-  <programme start="20211111142000 +0900" stop="20211111144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 芸術</title>
-    <desc lang="en">私たちの暮らしにはたくさんの文字があふれ、場所や目的などによって、さまざまな書体が使い分けられている。アートの視点から文字の奥深さに迫る。</desc>
+  <programme start="20211112140500 +0900" stop="20211112160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">2021NHK杯フィギュア</title>
+    <desc lang="en">アイスダンス転向２季目の髙橋大輔。村元哉中と目指す北京五輪代表へ、ライバル小松原・コレト組と激突▽ｍｉｌｅｔが歌うＮＨＫウィンタースポーツテーマソング初披露も！</desc>
   </programme>
   <programme start="20211111144000 +0900" stop="20211111150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 家庭総合</title>
@@ -670,6 +650,18 @@
     <title lang="en">NHK高校講座 日本史</title>
     <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
   </programme>
+  <programme start="20211112142000 +0900" stop="20211112144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 世界史</title>
+    <desc lang="en">国際社会で大きな存在感を示し続けている“超大国”アメリカ合衆国。イギリスからの独立後、急速な発展を遂げた１９世紀のアメリカ合衆国が歩んだ道を見ていきます。</desc>
+  </programme>
+  <programme start="20211112144000 +0900" stop="20211112150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地理</title>
+    <desc lang="en">地球上で起きているあらゆる事柄は、「地理」の知識で理解することができます。さぁ一緒に「地理」の知識を深め、世の中の謎を調査・分析！新たな発見をしていきましょう。</desc>
+  </programme>
+  <programme start="20211112150000 +0900" stop="20211112153000 +0900" channel="eTele.jp">
+    <title lang="en">囲碁フォーカス</title>
+    <desc lang="en">下島陽平八段の講座１１月は「完成へのアプローチ」。今回は「高さを制限する」。「フォーカス・オン」は坂本彩、リサ姉妹、片山浩之東京大学教授の囲碁ライフを紹介。</desc>
+  </programme>
   <programme start="20211111135500 +0900" stop="20211111155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">▽占術家・細木数子さん（８３）死去▽中国恒例「独身の日」“爆売り”カギ握る話題の「口紅王子」とは▽必見“歯周病”治療最前線！専門家が徹底解説</desc>
@@ -769,10 +761,6 @@
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20211111135400 +0900" stop="20211111145000 +0900" channel="Asahi.jp">
-  <title lang="en">科捜研の女21</title>
-  <desc lang="en">「マリコ決死の爆食⁉Ｂ級グルメ検索アプリ遠隔殺人‼」沢口靖子(他)▽スマホアプリコンテストの主催者が殺された。鑑定を進めたマリコは小さなアプリ開発会社に辿り着くが…</desc>
-</programme>
 <programme start="20211111145000 +0900" stop="20211111154800 +0900" channel="Asahi.jp">
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">「手術拒否の歌姫…クビを賭けた大逆転オペ２０００万！」米倉涼子(他)▽人気ミュージカル女優・四季唯花が極秘入院。外科部長・海老名は外科手術をすべきだと主張するが…</desc>
@@ -1157,10 +1145,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">10年間勤めた会社を突如リストラされたマイケル。その帰りの電車で謎の女性から“依頼”を受けるが、その報酬は10万ドル。しかし失敗の代償は愛する家族の命…。</desc>
 </programme>
-<programme start="20211111115500 +0900" stop="20211111144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">不倫中絶報道で金爆メンバーが活動自粛▽不倫騒動の山﨑議員が謝罪「若気の至り」▽道端アンジェリカが“離婚成立”までを告白▽「辞職せず」木下都議に抗議殺到</desc>
-</programme>
 <programme start="20211111144500 +0900" stop="20211111154500 +0900" channel="FujiTV.jp">
   <title lang="en">ディア・シスター</title>
   <desc lang="en">職場からの家路で美咲は何者かの視線を感じる…宗一郎と食事した葉月はご機嫌で運動から帰宅するが…その夜、上客の清水と同伴した美咲は膨大な貯金目標を告げ…</desc>
@@ -1258,17 +1242,9 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20211111135500 +0900" stop="20211111140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211111140000 +0900" stop="20211111143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211111143000 +0900" stop="20211111145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211112144500 +0900" stop="20211112154500 +0900" channel="FujiTV.jp">
+  <title lang="en">ディア・シスター</title>
+  <desc lang="en">切なさが止まらない激動の第５話！母子手帳の紛失に気づいた美咲が永人の家を飛び出すと宗一郎が現れ…一方、宗一郎に帰られた葉月は彼に好きな人がいると察し…</desc>
 </programme>
 <programme start="20211111145900 +0900" stop="20211111150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1460,6 +1436,10 @@
 </programme>
 <programme start="20211112135900 +0900" stop="20211112150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211112150000 +0900" stop="20211112153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211110230000 +0900" stop="20211111024000 +0900" channel="FujiNext.jp">
@@ -1946,7 +1926,7 @@ https//otn.fujitv.co.jp
 <programme start="20211111140000 +0900" stop="20211111150000 +0900" channel="FujiTwo.jp">
 <title lang="en">韓国ドラマ「彼女はキレイだった」15　【日本語字幕版】　（全16話）</title>
 <desc>第15話　＜出演＞パク・ソジュン　ファン・ジョンウム　チェ・シウォン（SUPER JUNIOR）　コ・ジュニ　▽初恋を巡る男女4人のロマンチック・ラブコメディ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211111/7024030/image/457b1a6810c32f7c50dd5d5cd4233eb6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211111150000 +0900" stop="20211111153000 +0900" channel="FujiTwo.jp">
