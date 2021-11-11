@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211112004700 +0900" stop="20211112013300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">歴史探偵</title>
-    <desc lang="en">１４６７年、京の都は戦の炎に包まれた。日本を真っ二つに分けた応仁の乱だ。混乱の元凶となった足軽を徹底調査。謎の新兵器に巨大やぐら！戦国時代の到来を告げる足軽戦記</desc>
-  </programme>
   <programme start="20211112013300 +0900" stop="20211112021300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽中国　注目の「歴史決議」内容は▽規制強化で逆風の中の“独身の日”▽ＣＯＰ２６で米中共同宣言　メタン削減へ▽脱炭素と経済成長　東南アジアはどう両立？※ＳＤＧｓ</desc>
@@ -281,6 +277,14 @@
   <programme start="20211113005000 +0900" stop="20211113012000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ストーリーズ</title>
     <desc lang="en">ニッポン放送の深夜ラジオ「オールナイトニッポン」の制作現場に、ＮＨＫの小型カメラ１００台を設置。番組スタッフの舞台裏を“のぞき見”する。オードリーも驚き連発！</desc>
+  </programme>
+  <programme start="20211113012000 +0900" stop="20211113014800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ロコだけが知っている</title>
+    <desc lang="en">朝ドラとコラボ！「カムカムエヴリバディＳＰ」。ヒロイン役の上白石萌音さんを迎え、ドラマの舞台となる岡山の制服ロコと、上白石さんの地元・鹿児島の火山灰ロコを紹介。</desc>
+  </programme>
+  <programme start="20211113014800 +0900" stop="20211113023800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">2021NHK杯フィギュア</title>
+    <desc lang="en">五輪代表争いにも影響を与える２０２１ＮＨＫ杯フィギュア▽昨年優勝の坂本花織、若手の松生理野・河辺愛菜が出場のショートを振り返ります。</desc>
   </programme>
   <programme start="20211112003000 +0900" stop="20211112053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -614,10 +618,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211112005900 +0900" stop="20211112015900 +0900" channel="NipponTV.jp">
-    <title lang="en">今日から俺は!!</title>
-    <desc lang="en">ツッパリ全盛期８０年代。伝説の漫画を奇才・福田雄一が実写化！規格外ヒーローがどんな手を使っても悪党を倒す痛快コメディ！</desc>
-  </programme>
   <programme start="20211112015900 +0900" stop="20211112022900 +0900" channel="NipponTV.jp">
     <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <desc lang="en">告白されたことが無いという男性が、告白されたときに、相手を傷つけずに断る方法を知りたいという謎のクチコミ。磯貝の告白を上手に断ることができるのか！？</desc>
@@ -717,18 +717,10 @@
     <title lang="en">100秒サバイバルクイズ ナルハヤ</title>
     <desc lang="en">新感覚！５０秒の持ち時間をかけた１対１の極限タイムサバイバルクイズ！初代王者を決める対決は羽鳥慎一VS福澤朗！日テレ元アナウンサーの因縁バトル！</desc>
   </programme>
-<programme start="20211112005000 +0900" stop="20211112012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">ツインテール姉妹×SNS動画企画！今回はファーストサマーウイカが参戦!!</desc>
-</programme>
-<programme start="20211112012000 +0900" stop="20211112012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211112012600 +0900" stop="20211112015600 +0900" channel="Asahi.jp">
-  <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
-  <desc lang="en">テレビ通販初！毛穴すっきり大人気クレンジングバームが超特別価格で登場＆髪の毛のお悩みにピッタリ！補修・保湿してくれる奇跡のヘアオイル＆話題の体ケアグッズも！</desc>
-</programme>
+  <programme start="20211113010400 +0900" stop="20211113020400 +0900" channel="NipponTV.jp">
+    <title lang="en">バズリズム02</title>
+    <desc lang="en">超多忙ＤＩＳＨの4日間に完全密着！ライブ裏側・私服…全部見せます▼あいみょんが提供した名曲「へんてこ」披露▼超貴重！松丸亮吾がバルーン作の話題曲「パメラ」を熱唱</desc>
+  </programme>
 <programme start="20211112015600 +0900" stop="20211112021600 +0900" channel="Asahi.jp">
   <title lang="en">NEWニューヨーク</title>
   <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
@@ -840,15 +832,14 @@
   <title lang="en">ナスD大冒険TV</title>
   <desc lang="en">テレビ朝日の社員・ナスＤが殆どの日本人が踏み入れた事のない世界の僻地に命懸けで向かい、知られざる文化・住む人々の暮らしをレポートする超本気紀行ドキュメント番組！</desc>
 </programme>
-<programme start="20211112005800 +0900" stop="20211112012800 +0900" channel="TBS2.jp">
-  <title lang="en">KAT-TUNの食宝ゲッットゥーン</title>
-  <desc lang="en">チーム亀梨・脂乗り抜群！黄金に輝く松輪サバ漁開始も、番組史上最大の事件発生！
-いつも冷静な亀梨が叫ぶ「ヤバイ！ヤバイ！」船上騒然…新人Dを襲った大事件とは？</desc>
+<programme start="20211113012000 +0900" stop="20211113015000 +0900" channel="Asahi.jp">
+  <title lang="en">ラストアイドル</title>
+  <desc lang="en">秋元康がプロデュースする究極のアイドルグループ「ラストアイドル」が誕生。様々な試練に挑む！</desc>
 </programme>
-<programme start="20211112012800 +0900" stop="20211112015800 +0900" channel="TBS2.jp">
-  <title lang="en">プラチナエンド</title>
-  <desc lang="en">大場つぐみ×小畑健の人気コミックス原作！
-少女Ａの凶行を止めるため、明日（ミライ）たちはある手段に出る。</desc>
+<programme start="20211113015000 +0900" stop="20211113022000 +0900" channel="Asahi.jp">
+  <title lang="en">BeauTV 〜VOCE ビューティーヴィー</title>
+  <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
+【テーマ】冬カラーを味方につける！</desc>
 </programme>
 <programme start="20211112015800 +0900" stop="20211112020500 +0900" channel="TBS2.jp">
   <title lang="en">イベントGO!</title>
@@ -925,13 +916,17 @@
   <title lang="en">NEWSの全力!!メイキング</title>
   <desc lang="en">全長１５ｍ！製作費わずか３万円でピタゴラ装置作りで壮絶６時間ドキュメント！「小学５年の時ＮＥＷＳのバックで…」メンバーカラー決定裏話…なにわ男子＆ＮＥＷＳ初絡み</desc>
 </programme>
-<programme start="20211112003000 +0900" stop="20211112010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">お茶にごす。</title>
-  <desc lang="en">鈴木伸之主演！西森博之原作・不良×茶道部の異色ヤンキーコメディ漫画を実写ドラマ化▼船橋が部長に初めての恋！？癖強めの新キャラ登場でまさかの三角関係に突入！？</desc>
+<programme start="20211113012000 +0900" stop="20211113012500 +0900" channel="TBS2.jp">
+  <title lang="en">ジョシとドラゴン</title>
+  <desc lang="en">【日常系ゆるふわゲーム番組】　ジョシの家に住み着くゲーム大好きドラゴンがいた！ドラゴンはゲームに興味がないジョシたちにその魅力を伝えようと大奮闘！</desc>
 </programme>
-<programme start="20211112010000 +0900" stop="20211112013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">元カレの元カノの元カレの元カノ</title>
-  <desc lang="en">“誰にでも忘れられない恋がきっとあるハズ！”人生ドラマがたっぷり詰まった「失恋話」を“フラれた側”と“フッた側”の両方の目線で紐解いていく恋愛バラエティー</desc>
+<programme start="20211113012500 +0900" stop="20211113015500 +0900" channel="TBS2.jp">
+  <title lang="en">ブルーピリオド/でーじミーツガール</title>
+  <desc lang="en">描く喜び、描く苦悩…その全てが楽しい！「第一志望、東京藝術大学」国内最難関の美大を目指して青春を燃やす、マンガ大賞２０２０も受賞したアート系スポ根物語、開幕！</desc>
+</programme>
+<programme start="20211113015500 +0900" stop="20211113022500 +0900" channel="TBS2.jp">
+  <title lang="en">結城友奈は勇者であるー大満開の章ー</title>
+  <desc lang="en">▽これは、これまでの、これからの物語。</desc>
 </programme>
 <programme start="20211112013000 +0900" stop="20211112020000 +0900" channel="TVTokyo.jp">
   <title lang="en">考えすぎちゃん ON TV〜ワンクールだけの大冒険〜</title>
@@ -1110,9 +1105,13 @@
   <title lang="en">おしゃ家ソムリエおしゃ子!2</title>
   <desc lang="en">おしゃ子が男たちの「ぶしゃ家」をブッタ斬るインテリア×ラブコメ◆初めてのマッチングアプリで医者と出会う！しかし部屋はこれ見よがしに医者アイテムで溢れていて…</desc>
 </programme>
-<programme start="20211112005500 +0900" stop="20211112012500 +0900" channel="FujiTV.jp">
-  <title lang="en">王様ランキング</title>
-  <desc lang="en">からみあう陰謀</desc>
+<programme start="20211113012300 +0900" stop="20211113015300 +0900" channel="TVTokyo.jp">
+  <title lang="en">異世界食堂2</title>
+  <desc lang="en">食堂「洋食のねこや」は7日に一度、異世界のあらゆる場所に扉がつながる不思議な店。今日も異世界から様々なお客がやってきては絶品料理を堪能し帰っていく…。</desc>
+</programme>
+<programme start="20211113015300 +0900" stop="20211113022300 +0900" channel="TVTokyo.jp">
+  <title lang="en">大正オトメ御伽話</title>
+  <desc lang="en">綾に盗まれた栞を取り戻そうと、珠彦が奔走する。しかし、栞のことも綾のことも夕月には話せずにいた。</desc>
 </programme>
 <programme start="20211112012500 +0900" stop="20211112022500 +0900" channel="FujiTV.jp">
   <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
@@ -1212,17 +1211,13 @@
   <title lang="en"></title>
   <desc lang="en">主演・生田斗真がナビゲーター役となり本シリーズのおさらい。そして、いよいよ完結を迎える「土竜の唄　ＦＩＮＡＬ」の見どころを余すところなく紹介する特別番組</desc>
 </programme>
-<programme start="20211112003000 +0900" stop="20211112010000 +0900" channel="Tokyo MX">
-  <title lang="en">ありふれた職業で世界最強</title>
-  <desc lang="en"> </desc>
+<programme start="20211113010500 +0900" stop="20211113013500 +0900" channel="FujiTV.jp">
+  <title lang="en">連続ドキュメンタリー RIDE ON TIME</title>
+  <desc lang="en">エンターテインメントのバックステージを放送する連続ドキュメンタリー番組。ある１つのテーマを長期密着取材し、複数週に渡ってリアルを描き出します。</desc>
 </programme>
-<programme start="20211112010000 +0900" stop="20211112010500 +0900" channel="Tokyo MX">
-  <title lang="en">180秒で君の耳を幸せにできるか?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211112010500 +0900" stop="20211112013500 +0900" channel="Tokyo MX">
-  <title lang="en">激闘!ラップ甲子園への道</title>
-  <desc lang="en">高校生ラッパーの夢を応援する「高校生、夢のＲＡＰプロジェクト」進行中！講師に“ＤＯＴＡＭＡ”先生を迎えて、初心者の為のフリースタイル講座を行います！</desc>
+<programme start="20211113013500 +0900" stop="20211113023500 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
+  <desc lang="en">無敗のエリート弁護士（片寄涼太）襲来！イケメンドクター（鈴木伸之）が医療過誤の疑惑で、謹慎処分に！本当に誤診はあったのか？僅かな画像を頼りに、仲間を救い出せ！</desc>
 </programme>
 <programme start="20211112013500 +0900" stop="20211112020500 +0900" channel="Tokyo MX">
   <title lang="en">バズッchuLaTV</title>
@@ -1412,10 +1407,18 @@
   <title lang="en">魔王イブロギアに身を捧げよ</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211113010500 +0900" stop="20211113013500 +0900" channel="Tokyo MX">
+  <title lang="en">Just Because!</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211113013500 +0900" stop="20211113020500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211112000000 +0900" stop="20211112020000 +0900" channel="FujiNext.jp">
 <title lang="en">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第126夜小泉今日子登場</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助＝しおこうじ×ダウンタウンしおこうじバンド！小泉今日子×南野陽子×ももいろクローバーＺ！伊達花彩・瀬田さくら・市川優月参加
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211111/7023960/image/48aa2fab325699a0d4ab915bea78fdd8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211112020000 +0900" stop="20211112030000 +0900" channel="FujiNext.jp">
@@ -1606,7 +1609,7 @@ https//otn.fujitv.co.jp
 <title lang="en">プロ野球ニュース 2021</title>
 <desc>どこよりも詳しくプロ野球情報をお伝えする野球専門番組。クライマックスシリーズの試合結果を詳細にお送りする。
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211111/7024178/image/09781a8905c1f6922f3909974f0c39c2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211112020000 +0900" stop="20211112021500 +0900" channel="FujiOne.jp">
@@ -2040,7 +2043,7 @@ https//otn.fujitv.co.jp
 <programme start="20211112003000 +0900" stop="20211112020000 +0900" channel="kbsworld.jp">
 <title lang="en">私たちが愛したあの歌、新歌手　[字]</title>
 <desc>日本初放送！1970〜1990年代の韓国の名曲を2021年の感性で届ける新しいスターを探す最新オーディション番組！韓国放送開始日2021年7月15日〜　全10回
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211111/6902301/image/e7905d14b1790e72fa2fbd2ff971e04f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211112020000 +0900" stop="20211112031000 +0900" channel="kbsworld.jp">
