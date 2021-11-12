@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211112193000 +0900" stop="20211112204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">2021NHK杯フィギュア</title>
-    <desc lang="en">北京五輪シーズンのＮＨＫ杯！ピョンチャン五輪銀メダリスト宇野昌磨が自己最高難度のプログラムで優勝ねらう▽見据えるは北京五輪。好調海外勢との戦いの行方は？</desc>
-  </programme>
   <programme start="20211112204500 +0900" stop="20211112210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -265,14 +261,6 @@
   <programme start="20211113193000 +0900" stop="20211113214500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">2021NHK杯フィギュア</title>
     <desc lang="en">北京五輪イヤーのＮＨＫ杯！こんや男子シングル決着！ピョンチャン五輪銀メダルの宇野昌磨か絶好調ビンセント・ジョウか▽期待の１６歳三浦佳生、山本草太の奮闘も期待！</desc>
-  </programme>
-  <programme start="20211112195500 +0900" stop="20211112200000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「月下美人」うた和楽器バンド</desc>
-  </programme>
-  <programme start="20211112200000 +0900" stop="20211112204500 +0900" channel="eTele.jp">
-    <title lang="en">あしたも晴れ!人生レシピ</title>
-    <desc lang="en">好評シリーズ「拝見！あの人の冷蔵庫」第三弾をお届けします。冷蔵庫を開けばその人の暮らしだけでなく生き方までも見えてくる。世界の料理研究家や動物園の冷蔵庫に密着！</desc>
   </programme>
   <programme start="20211112204500 +0900" stop="20211112210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -526,9 +514,13 @@
     <title lang="en">チョイス＠病気になったとき</title>
     <desc lang="en">手がふるえる症状に悩んでいる人のほとんどを占める「本態性振戦」。脳の原因部位を超音波で固めて破壊する最新治療が登場した。原因別の治療のチョイスを詳しく伝える。</desc>
   </programme>
-  <programme start="20211112195600 +0900" stop="20211112205400 +0900" channel="NipponTV.jp">
-    <title lang="en">沸騰ワード10</title>
-    <desc lang="en">全国放送で紹介されない!?青森県民がこっそり楽しむ幻のリンゴから秘湯絶景鉄道を王林とドライバーときが最強青森人脈でバンバン初解禁…更に大間マグロ捕獲なるか?!</desc>
+  <programme start="20211113204500 +0900" stop="20211113210000 +0900" channel="eTele.jp">
+    <title lang="en">ろうを生きる 難聴を生きる</title>
+    <desc lang="en">聴覚障害者のスポーツの祭典「デフリンピック」に３度出場した、陸上選手・高田裕士さん（３６）。金メダル獲得を目標に、自分の可能性を信じて走り続ける姿を描きます。</desc>
+  </programme>
+  <programme start="20211113210000 +0900" stop="20211113213000 +0900" channel="eTele.jp">
+    <title lang="en">すくすく子育て</title>
+    <desc lang="en">お風呂に入りたがらない！髪を洗うとギャン泣き！子どもに機嫌よくお風呂に入ってもらうにはどうしたらいいのか？またスキンケア方法についても紹介する。</desc>
   </programme>
   <programme start="20211112205400 +0900" stop="20211112210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなく金曜ロードショー</title>
@@ -659,10 +651,14 @@
     <desc lang="en">今すぐできる『太る人痩せる人』の違い▼朝起きてすぐカーテンを開けない人は太る⁉
 痩せている人は一口ごとに箸を置く！▼インドで５億人の女性を救った英雄が特別授業！</desc>
   </programme>
-<programme start="20211112185000 +0900" stop="20211112200000 +0900" channel="Asahi.jp">
-  <title lang="en">ザワつく!金曜日</title>
-  <desc lang="en">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
-</programme>
+  <programme start="20211113205400 +0900" stop="20211113210000 +0900" channel="NipponTV.jp">
+    <title lang="en">ワーズハウスへようこそ</title>
+    <desc lang="en">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
+  </programme>
+  <programme start="20211113210000 +0900" stop="20211113215400 +0900" channel="NipponTV.jp">
+    <title lang="en">1億3000万人のSHOWチャンネル</title>
+    <desc lang="en">市川猿之助の人生チャート！お宝鑑定で予想外の金額に！＆親友三宅健とグルメロケ▽西島秀俊が参戦！的場浩司＆秋川雅史＆原田龍二＆フジモンと男５人でモンブラン愛爆発！</desc>
+  </programme>
 <programme start="20211112200000 +0900" stop="20211112214800 +0900" channel="Asahi.jp">
   <title lang="en">ミュージックステーション</title>
   <desc lang="en">豪華デビューSP！なにわ男子が感動デビュー！関ジャニが大応援▽人気女優・伊藤沙莉が初歌唱＆エライザが歌手デビュー▽ITZYが日本のTV初出演▽懐かしデビュー曲メドレーも</desc>
@@ -836,9 +832,9 @@
   <title lang="en">池上彰のニュースそうだったのか!!</title>
   <desc lang="en">どうして日本は夫婦別姓選べない？どうして再生可能エネルギーが広まらない？「どうして日本は」の理由、徹底解説します！</desc>
 </programme>
-<programme start="20211112190000 +0900" stop="20211112205700 +0900" channel="TBS2.jp">
-  <title lang="en">ザ・ベストワン</title>
-  <desc lang="en">🈑　超豪華ネタの祭典！KOC王者空気階段＆蛙亭＆準優勝・男性ブランコ…M-1優勝候補キュウ＆すゑひろがりず＆寛平・ショージも…総勢21組</desc>
+<programme start="20211113205400 +0900" stop="20211113215500 +0900" channel="Asahi.jp">
+  <title lang="en">サタデーステーション</title>
+  <desc lang="en">第６波に備え…無料ＰＣＲ検査拡充へ▽“１０万円給付”も…コロナ禍での生活困窮▽“東京ディズニーリゾート”新たな戦略▽藤井三冠“最年少四冠”なるか▽フィギュア(他)</desc>
 </programme>
 <programme start="20211112205700 +0900" stop="20211112220000 +0900" channel="TBS2.jp">
   <title lang="en">中居正広の金曜日のスマイルたちへ</title>
@@ -974,9 +970,9 @@
 ▼動く的20…卓球水谷vs元日本王者
 ▼大谷翔平超映像蔵出し</desc>
 </programme>
-<programme start="20211112195500 +0900" stop="20211112205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">らせんの迷宮</title>
-  <desc lang="en">天才ＤＮＡ科学者と熱血刑事の最強コンビが難事件に挑むミステリー！白骨遺体から謎のメッセージが見つかり捜査線に浮上した天才女性科学者！ＤＮＡバトルの意外な結末!?</desc>
+<programme start="20211113210000 +0900" stop="20211113215400 +0900" channel="TBS2.jp">
+  <title lang="en">世界ふしぎ発見!</title>
+  <desc lang="en">アメリカが誇る大自然！地球上で最も巨大な生き物が生息するヨセミテ国立公園▽救世主はヤギ？山火事を防ぐユニーク新ビジネス▽激減する渡り蝶！地球環境を守る取組みとは</desc>
 </programme>
 <programme start="20211112205400 +0900" stop="20211112210000 +0900" channel="TVTokyo.jp">
   <title lang="en">インテリア日和</title>
@@ -1159,64 +1155,72 @@
   <title lang="en">鉄道沿線歩き旅12 上越線100km ももクロも歩くZ!SP</title>
   <desc lang="en">めざせ3日で100km踏破！今回は上越線の沿線を高崎〜越後湯沢までテクテク歩く！ゴールは錦秋の新潟！紅葉めざしてひたすら歩くがリーダー福澤朗、今回はゴールなるか！？</desc>
 </programme>
-<programme start="20211112190000 +0900" stop="20211112205400 +0900" channel="FujiTV.jp">
+<programme start="20211113205400 +0900" stop="20211113210000 +0900" channel="TVTokyo.jp">
+  <title lang="en">生きるを伝える</title>
+  <desc lang="en">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
+</programme>
+<programme start="20211113210000 +0900" stop="20211113215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">出没!アド街ック天国</title>
+  <desc lang="en">茨城の「うまかっぺ！」が詰まった特別企画▼フェス名物ハム焼き＆銘柄鶏・奥久慈しゃも▼地元民熱愛！ヤンキーピラフ＆スタミナラーメン▼肉厚ハマグリ＆爆盛り軍艦巻き</desc>
+</programme>
+<programme start="20211112190000 +0900" stop="20211112210900 +0900" channel="FujiTV.jp">
   <title lang="en">プロ野球中継</title>
-  <desc lang="en">（延長の場合あり）
+  <desc lang="en">１５分放送を延長してお送りします
 魔法の言葉「絶対大丈夫」を合言葉に高津ヤクルトが日本シリーズ進出へ一気に大手！崖っぷち原巨人は下克上へ絶体絶命</desc>
 </programme>
-<programme start="20211112205400 +0900" stop="20211112210000 +0900" channel="FujiTV.jp">
+<programme start="20211112210900 +0900" stop="20211112211500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
   <desc lang="en">サンドウィッチマン・麒麟川島ＭＣ。店員さんの間でウワサになっているお客さまにディープに密着！</desc>
 </programme>
-<programme start="20211112210000 +0900" stop="20211112225200 +0900" channel="FujiTV.jp">
+<programme start="20211112211500 +0900" stop="20211112230700 +0900" channel="FujiTV.jp">
   <title lang="en">ウワサのお客さま</title>
-  <desc lang="en">ＭＣサンドウィッチマン・川島が厳選！伝説の“お客さま”スペシャル。スタジオゲストが体当たり挑戦！ウワサ激辛部</desc>
+  <desc lang="en">野球延長の為１５分繰下げお送りします
+ＭＣサンドウィッチマン・川島が厳選！伝説の“お客さま”スペシャル。スタジオゲストが体当たり挑戦！ウワサ激辛部</desc>
 </programme>
-<programme start="20211112225200 +0900" stop="20211112230000 +0900" channel="FujiTV.jp">
+<programme start="20211112230700 +0900" stop="20211112231500 +0900" channel="FujiTV.jp">
   <title lang="en">週末はウマでしょ!</title>
   <desc lang="en">競馬を愛してやまない林修先生がＧ１レースをはじめ注目のレースを徹底解説。豊富な経験をもとに独自の目線と鋭い切り口で熱く語り尽す競馬情報番組です！</desc>
 </programme>
-<programme start="20211112230000 +0900" stop="20211112234000 +0900" channel="FujiTV.jp">
+<programme start="20211112231500 +0900" stop="20211112235500 +0900" channel="FujiTV.jp">
   <title lang="en">全力!脱力タイムズ</title>
-  <desc lang="en">真剣議論にカンニング竹山が本気の主張を叫んで大炎上！？ジャニーズＷＥＳＴ藤井流星のデジタル遺産問題提起で謝罪！</desc>
+  <desc lang="en">野球延長の為１５分繰下げお送りします
+真剣議論にカンニング竹山が本気の主張を叫んで大炎上！？ジャニーズＷＥＳＴ藤井流星のデジタル遺産問題提起で謝罪！</desc>
 </programme>
-<programme start="20211112234000 +0900" stop="20211113001000 +0900" channel="FujiTV.jp">
+<programme start="20211112235500 +0900" stop="20211113002500 +0900" channel="FujiTV.jp">
   <title lang="en">ネタパレ</title>
-  <desc lang="en">神田沙也加が爆笑！アルコ＆ピース平子・ＴＯＫＹＯ　ＣＯＯＬ・オジンオズボーン篠宮・納言・オドるキネマ・ぽんぽこ</desc>
+  <desc lang="en">野球延長の為１５分繰下げお送りします
+神田沙也加が爆笑！アルコ＆ピース平子・ＴＯＫＹＯ　ＣＯＯＬ・オジンオズボーン篠宮・納言・オドるキネマ・ぽんぽこ</desc>
 </programme>
-<programme start="20211113001000 +0900" stop="20211113005500 +0900" channel="FujiTV.jp">
+<programme start="20211113002500 +0900" stop="20211113011000 +0900" channel="FujiTV.jp">
   <title lang="en">FNN Live News α</title>
-  <desc lang="en">デジタル×子ども支援▽コロナ対策の全体像▽東芝分社化の行方は▽プロ野球ＣＳ第３戦</desc>
+  <desc lang="en">野球延長の為１５分繰下げお送りします
+デジタル×子ども支援▽コロナ対策の全体像▽東芝分社化の行方は▽プロ野球ＣＳ第３戦</desc>
 </programme>
-<programme start="20211113005500 +0900" stop="20211113010500 +0900" channel="FujiTV.jp">
+<programme start="20211113011000 +0900" stop="20211113012000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
   <desc lang="en">主演・生田斗真がナビゲーター役となり本シリーズのおさらい。そして、いよいよ完結を迎える「土竜の唄　ＦＩＮＡＬ」の見どころを余すところなく紹介する特別番組</desc>
 </programme>
-<programme start="20211113010500 +0900" stop="20211113013500 +0900" channel="FujiTV.jp">
+<programme start="20211113012000 +0900" stop="20211113015000 +0900" channel="FujiTV.jp">
   <title lang="en">連続ドキュメンタリー RIDE ON TIME</title>
   <desc lang="en">エンターテインメントのバックステージを放送する連続ドキュメンタリー番組。ある１つのテーマを長期密着取材し、複数週に渡ってリアルを描き出します。</desc>
 </programme>
-<programme start="20211113013500 +0900" stop="20211113023500 +0900" channel="FujiTV.jp">
+<programme start="20211113015000 +0900" stop="20211113025000 +0900" channel="FujiTV.jp">
   <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
   <desc lang="en">無敗のエリート弁護士（片寄涼太）襲来！イケメンドクター（鈴木伸之）が医療過誤の疑惑で、謹慎処分に！本当に誤診はあったのか？僅かな画像を頼りに、仲間を救い出せ！</desc>
 </programme>
-<programme start="20211113023500 +0900" stop="20211113030500 +0900" channel="FujiTV.jp">
+<programme start="20211113025000 +0900" stop="20211113032000 +0900" channel="FujiTV.jp">
   <title lang="en">次ナルTV-S</title>
   <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＮＥＸＴで絶賛放送中の「スパイストラベラー」ダイジェスト</desc>
 </programme>
-<programme start="20211113030500 +0900" stop="20211113033500 +0900" channel="FujiTV.jp">
+<programme start="20211113032000 +0900" stop="20211113035000 +0900" channel="FujiTV.jp">
   <title lang="en">ラーメンWalkerTV2</title>
   <desc lang="en">ラーメン専門雑誌発行部数Ｎｏ１！『ラーメンＷａｌｋｅｒ』が選ぶ今食べるべきイチオシ５店を紹介！▽人気実力店主が結集！話題のラーメンスポット最新情報！</desc>
 </programme>
-<programme start="20211113033500 +0900" stop="20211113040500 +0900" channel="FujiTV.jp">
+<programme start="20211113035000 +0900" stop="20211113042000 +0900" channel="FujiTV.jp">
   <title lang="en">スパイストラベラー</title>
   <desc lang="en">第２０話「６つのスパイス」名店紹介Ｓｐｉｃｅ＆Ｄｉｎｉｎｇ　ＫＡＬＡ　出演桜井誠（Ｄｒａｇｏｎ　Ａｓｈ）、セントチヒロ・チッチ（ＢｉＳＨ）ゲスト松隈ケンタ</desc>
 </programme>
-<programme start="20211113040500 +0900" stop="20211113043500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211113043500 +0900" stop="20211113045000 +0900" channel="FujiTV.jp">
+<programme start="20211113042000 +0900" stop="20211113045000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
   <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
@@ -1294,9 +1298,9 @@
   <title lang="en">新しいカギ</title>
   <desc lang="en">新しいカギ　新コント連発！土竜の唄コラボコントに生田斗真・三池監督！組員に紛れた土竜が落とし穴▽話題ひろゆきパロディ▽ＶＳ魂チームとゴン攻めスケボー対決</desc>
 </programme>
-<programme start="20211112193000 +0900" stop="20211112200000 +0900" channel="Tokyo MX">
-  <title lang="en">白い砂のアクアトープ</title>
-  <desc lang="en"> </desc>
+<programme start="20211113210000 +0900" stop="20211113232500 +0900" channel="FujiTV.jp">
+  <title lang="en">土曜プレミアム</title>
+  <desc lang="en">最新作『土竜の唄　ＦＩＮＡＬ』公開記念！主演・生田斗真が贈る予測不能のお祭りエンタメ映画！ついに地上波初放送！</desc>
 </programme>
 <programme start="20211112200000 +0900" stop="20211112210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1514,6 +1518,14 @@
   <title lang="en">斬波ZANMAI</title>
   <desc lang="en">斬波のメンバーが不祥事を起こした！ことを想定して、絶対笑えない⁉記者会見・謝罪会見を開催。果たしてどのような記者会見になるのか‼</desc>
 </programme>
+<programme start="20211113203000 +0900" stop="20211113210000 +0900" channel="Tokyo MX">
+  <title lang="en">遊戯配信 e-Strangers</title>
+  <desc lang="en">次世代の配信スターを発掘！▼超破天荒芸人ムラムラタムラが衝撃の爆笑動画を引っ提げ大暴走！▼狩野がエーペックスレジェンズに挑戦！井戸田がビリビリの生贄に⁉</desc>
+</programme>
+<programme start="20211113210000 +0900" stop="20211113213000 +0900" channel="Tokyo MX">
+  <title lang="en">キングオブモルックのモルック大作戦!!</title>
+  <desc lang="en">おそらく世界初のモルック番組！ついに格闘技界の“神童”那須川天心が登場！木の棒を投げるセンスは？システマ芸人・みなみかわとの“痛み”をめぐる因縁の対決も！</desc>
+</programme>
 <programme start="20211112000000 +0900" stop="20211112020000 +0900" channel="FujiNext.jp">
 <title lang="en">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第126夜小泉今日子登場</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助＝しおこうじ×ダウンタウンしおこうじバンド！小泉今日子×南野陽子×ももいろクローバーＺ！伊達花彩・瀬田さくら・市川優月参加
@@ -1625,7 +1637,7 @@
 <programme start="20211112190000 +0900" stop="20211112210000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　ゆらゆら帝国</title>
 <desc>1998年〜2016年に放送していた、伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『ゆらゆら帝国』の出演映像を選りすぐってお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211112/7023975/image/26c84e3fa480c82ac40de5cb8532e94f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211112210000 +0900" stop="20211112223000 +0900" channel="FujiNext.jp">
@@ -2262,7 +2274,7 @@ https//otn.fujitv.co.jp
 <programme start="20211112201500 +0900" stop="20211112210000 +0900" channel="kbsworld.jp">
 <title lang="en">だまされても夢心地（原題） 114　[字]</title>
 <desc>日本初放送！熟年再婚を巡って正反対の家族観を持つ２つの家族が次第に心を通わせていく最新ホームドラマ！2021年　全120話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211112/6902321/image/7e76987562bbbb692afeea62302caf0c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211112210000 +0900" stop="20211112220000 +0900" channel="kbsworld.jp">
