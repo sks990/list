@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211114022500 +0900" stop="20211114031500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">2021NHK杯フィギュア</title>
-    <desc lang="en">北京五輪シーズンのＮＨＫ杯。ピョンチャン五輪銀メダリストの宇野昌磨が優勝を目指し、海外勢と戦った。男子の決着は果たして？フリーを振り返る</desc>
-  </programme>
   <programme start="20211114031500 +0900" stop="20211114041000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">雪の魔法</title>
     <desc lang="en"></desc>
@@ -326,6 +322,10 @@
     <title lang="en">魂のタキ火</title>
     <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
   </programme>
+  <programme start="20211115034400 +0900" stop="20211115040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">プラネットアース 絶景・天空の旅</title>
+    <desc lang="en">大型シリーズ「プラネットアース」で好評を博した最新鋭の機材で撮影した空撮。一部しか使えなかった絶品カットや未編集素材を生かして、天空からの地球絶景の旅を送る。</desc>
+  </programme>
   <programme start="20211114003000 +0900" stop="20211114050000 +0900" channel="eTele.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -494,10 +494,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211114013100 +0900" stop="20211114032100 +0900" channel="NipponTV.jp">
-    <title lang="en">第100回全国高校サッカー選手権大会 地区大会</title>
-    <desc lang="en">勝てば全国！運命の一戦「関東第一×大成」▽ポゼッション主体の多彩な攻撃の関東第一か？J内定GKバーンズ アントン擁しハイプレスの大成か？</desc>
-  </programme>
   <programme start="20211114032100 +0900" stop="20211114042100 +0900" channel="NipponTV.jp">
     <title lang="en">真犯人フラグ</title>
     <desc lang="en">平凡なサラリーマンの凌介（西島秀俊）は愛する妻・真帆（宮沢りえ）と子供たちが突然失踪したことで、事件の犯人だと疑われ…！?半年間のノンストップ考察ミステリー！</desc>
@@ -657,18 +653,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物ボイルズワイガニ、リモートワーク対策にストレッチアイテム、若見えフェイス目指すアイテム、ポシュレ人気マットレス、バッグ、大珠真珠などお得情報満載で！</desc>
   </programme>
-<programme start="20211114023000 +0900" stop="20211114030000 +0900" channel="Asahi.jp">
-  <title lang="en">それでも愛を誓いますか?</title>
-  <desc lang="en">松本まりか連ドラ初主演！結婚８年目、子なし、セックスレス５年目。３５歳女性のリアルな悩みを描く話題のマンガを実写化！深夜ならではの大人のドラマをお楽しみください</desc>
-</programme>
-<programme start="20211114030000 +0900" stop="20211114032000 +0900" channel="Asahi.jp">
-  <title lang="en">霜降りバラエティX</title>
-  <desc lang="en">せいやがモノマネお笑い芸人として頂点を目指すべく自らに宿題。それは「１週間でモノマネレパートリーを10個増やす」粗品、ミキ、ラスアイ安田愛里が見守る中 成功するか</desc>
-</programme>
-<programme start="20211114032000 +0900" stop="20211114034000 +0900" channel="Asahi.jp">
-  <title lang="en">ももクロちゃんと!</title>
-  <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
-</programme>
 <programme start="20211114034000 +0900" stop="20211114040000 +0900" channel="Asahi.jp">
   <title lang="en">ABEMAオトナ女子人気NO.1「恋愛ドラマな恋がしたい」新シーズン予習復習SP</title>
   <desc lang="en">俳優の男女が、キスシーンのある恋愛ドラマの撮影をしながら本当の恋をしていく様を追う恋愛リアリティーショー！インターネットテレビ局「ＡＢＥＭＡ」人気番組の特別編！</desc>
@@ -837,9 +821,17 @@
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20211115025700 +0900" stop="20211115030000 +0900" channel="Asahi.jp">
+<programme start="20211115025700 +0900" stop="20211115035900 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
+</programme>
+<programme start="20211115035900 +0900" stop="20211115040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
+</programme>
+<programme start="20211115040000 +0900" stop="20211115045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「謎！流人船、いずこへ」松平健(他)▽八丈島へ向かった流人船が行方知れずになるという騒ぎが起こる。報告を受けた吉宗は、その船が寄るはずだった浦賀番所へと向かうが…</desc>
 </programme>
 <programme start="20211114015800 +0900" stop="20211114040000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -993,19 +985,19 @@
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20211115023900 +0900" stop="20211115030000 +0900" channel="TBS2.jp">
+<programme start="20211115023900 +0900" stop="20211115035900 +0900" channel="TBS2.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20211114023500 +0900" stop="20211114030500 +0900" channel="TVTokyo.jp">
+<programme start="20211115035900 +0900" stop="20211115040000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
+  <desc lang="en"></desc>
 </programme>
-<programme start="20211114030500 +0900" stop="20211114031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+<programme start="20211115040000 +0900" stop="20211115043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211114031500 +0900" stop="20211114041500 +0900" channel="TVTokyo.jp">
+<programme start="20211114040000 +0900" stop="20211114041500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1157,14 +1149,17 @@
   <title lang="en">きのう何食べた?</title>
   <desc lang="en">西島秀俊・内野聖陽Ｗ主演の「きのう何食べた？」映画化公開記念SP▼２人でシロさんの実家へ！ケンジの夢を叶える懐かしの味…ほろ苦くも温かい日々の物語ついに最終回！</desc>
 </programme>
-<programme start="20211114020000 +0900" stop="20211114030000 +0900" channel="FujiTV.jp">
-  <title lang="en">アバランチ</title>
-  <desc lang="en">「仲間・理不尽な医療現場の闇を晒し出せ」
-綾野剛　福士蒼汰　渡部篤郎　木村佳乃</desc>
+<programme start="20211115031000 +0900" stop="20211115034000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">嘘が大嫌いな女性が主人公のドラマ！「つまり好きって言いたいんだけど、」をご紹介。ドラマに紐づけた特別企画を開催！一夜づけメンバーは嘘を見破ることができるのか！？</desc>
 </programme>
-<programme start="20211114030000 +0900" stop="20211114035500 +0900" channel="FujiTV.jp">
-  <title lang="en">FNSドキュメンタリー大賞</title>
-  <desc lang="en">４３人の犠牲者を出した普賢岳の火砕流惨事から６月３日で丸３０年。今年地元住民はマスコミ関係者が被災した場所を整備。複雑な思いを辿り私たちは教訓を忘れないと誓う。</desc>
+<programme start="20211115034000 +0900" stop="20211115034500 +0900" channel="TVTokyo.jp">
+  <title lang="en">闇芝居</title>
+  <desc lang="en">第六闇「釣りの成果」</desc>
+</programme>
+<programme start="20211115034500 +0900" stop="20211115040000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20211114035500 +0900" stop="20211114040500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1322,13 +1317,21 @@
   <title lang="en">FUJI BOXING-PHOENIX BATTLE</title>
   <desc lang="en">拓真、兄・尚弥と再び兄弟世界王者へ！国内屈指の好カードが実現！▽ＷＢＯ－ＡＰスーパーバンタム級王座決定戦井上拓真（大橋）×和氣慎吾（ＦＬＡＲＥ山上）</desc>
 </programme>
-<programme start="20211114023000 +0900" stop="20211114030000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211115032500 +0900" stop="20211115033500 +0900" channel="FujiTV.jp">
+  <title lang="en">中央競馬ダイジェスト</title>
+  <desc lang="en">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
 </programme>
-<programme start="20211114030000 +0900" stop="20211114033000 +0900" channel="Tokyo MX">
+<programme start="20211115033500 +0900" stop="20211115035500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211115035500 +0900" stop="20211115040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20211115040000 +0900" stop="20211115045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211114033000 +0900" stop="20211114040000 +0900" channel="Tokyo MX">
   <title lang="en">真夜中のおバカ騒ぎ!</title>
@@ -1526,7 +1529,7 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
-<programme start="20211115023500 +0900" stop="20211115030000 +0900" channel="Tokyo MX">
+<programme start="20211115023500 +0900" stop="20211115040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1550,7 +1553,7 @@
 <title lang="en">フジサンケイレディスクラシック黄金伝説　10「2005年 第24回大会」</title>
 <desc>24th フジサンケイレディスクラシック（2005年）「藤井かすみ プレーオフ制し大会連覇」
 ▽フジサンケイレディスクラシックの激闘の歴史をプレイバック！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211113/7024005/image/9a64c32874f3aadf1388aa91852d939c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211114040000 +0900" stop="20211114080000 +0900" channel="FujiNext.jp">
