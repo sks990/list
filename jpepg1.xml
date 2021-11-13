@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211114003500 +0900" stop="20211114013500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ザ少年倶楽部</title>
-    <desc lang="en">ジャニーズＪｒ．と若手アイドルたちのパフォーマンスと彼らの素顔をお届け！ＳｉｘＴＯＮＥＳ「この星のＨＩＫＡＲＩ」、Ｓｎｏｗ　Ｍａｎ「Ｂｅ　Ｐｒｏｕｄ！」を披露！</desc>
-  </programme>
   <programme start="20211114013500 +0900" stop="20211114022500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">2021NHK杯フィギュア</title>
     <desc lang="en">北京五輪代表争いに大きな影響を与える２０２１ＮＨＫ杯。坂本花織、松生理乃、河辺愛菜の日本勢の結果は？そして海外のトップスケーターの演技は？フリーを振り返る。</desc>
@@ -314,6 +310,14 @@
     <title lang="en">天皇杯JFA第101回全日本サッカー選手権大会</title>
     <desc lang="en">▽天皇杯準々決勝４試合を詳報！▽次世代担う新星に注目！川崎ｖｓ鹿島▽唯一のＪ２磐田ｖｓ大分▽Ｊリーグ杯決勝と同カード！名古屋ｖｓＣ大阪▽激闘！Ｇ大阪ｖｓ浦和</desc>
   </programme>
+  <programme start="20211115012400 +0900" stop="20211115013800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん縦断 こころ旅 リクエストアワー</title>
+    <desc lang="en">火野正平さんの「こころ旅」お休みの週はリクエストアワー！これまでの放送から「もう一度見たい！」名場面を大特集！今回のお題は「やっちまったな！」。爆笑シーン続々！</desc>
+  </programme>
+  <programme start="20211115013800 +0900" stop="20211115020900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ノーナレ</title>
+    <desc lang="en">恋に落ちたことがない２２歳。なかけんは「アセクシュアル（無性愛者）」だ。周囲との自然体の日々。これはラブストーリーではない。でも、大切な感情がつまった物語。</desc>
+  </programme>
   <programme start="20211114003000 +0900" stop="20211114050000 +0900" channel="eTele.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -482,15 +486,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211114005500 +0900" stop="20211114012500 +0900" channel="NipponTV.jp">
-    <title lang="en">ルパン三世PART6</title>
-    <desc lang="en">☆アニメ化50周年を迎えるルパン三世の最新TVシリーズ☆
-「帝都は泥棒の夢を見る 前篇」　【脚本】芦辺　拓</desc>
-  </programme>
-  <programme start="20211114012500 +0900" stop="20211114013100 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211114013100 +0900" stop="20211114032100 +0900" channel="NipponTV.jp">
     <title lang="en">第100回全国高校サッカー選手権大会 地区大会</title>
     <desc lang="en">勝てば全国！運命の一戦「関東第一×大成」▽ポゼッション主体の多彩な攻撃の関東第一か？J内定GKバーンズ アントン擁しハイプレスの大成か？</desc>
@@ -638,15 +633,18 @@
     <title lang="en">NNNドキュメント</title>
     <desc lang="en">コロナ禍で休業や廃業する旅館が相次いだ石川県の加賀温泉郷。多くのものが失われた一方、コロナ禍で気づき、変わろうとする人々も。苦境の中で前を向く温泉地の姿を追う。</desc>
   </programme>
-<programme start="20211114003500 +0900" stop="20211114010000 +0900" channel="Asahi.jp">
-  <title lang="en">超人女子戦士 ガリベンガーV</title>
-  <desc lang="en">地球にはびこる超難解な現象を、解き続ける女子たちを養成する組織…それが「ガリベンガーＶ」
-今夜は「ヨガＳＰ」！話題Ｖチューバーが頭脳を徹底的に鍛えます！</desc>
-</programme>
-<programme start="20211114010000 +0900" stop="20211114013000 +0900" channel="Asahi.jp">
-  <title lang="en">ワールドプロレスリング</title>
-  <desc lang="en">IWGP世界ヘビー級王座戦…鷹木信悟vsザック・セイバーJr.！激烈な王者と激情型テクニシャンの大激闘！▽G1覇者オカダ・カズチカの東京ドーム挑戦権利証防衛戦！</desc>
-</programme>
+  <programme start="20211115012500 +0900" stop="20211115014500 +0900" channel="NipponTV.jp">
+    <title lang="en">イントロ</title>
+    <desc lang="en">佐藤真知子アナがゲストを招く番宣トーク番組。オリコン・リサーチの小島敦史さんをゲストにお迎えし、17日放送の「ベストアーティスト2021」の魅力をお届けします</desc>
+  </programme>
+  <programme start="20211115014500 +0900" stop="20211115015100 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211115015100 +0900" stop="20211115025100 +0900" channel="NipponTV.jp">
+    <title lang="en">にけつッ!!</title>
+    <desc lang="en">千原ジュニアとケンドーコバヤシによる二人だけの喋り番組。打ち合わせや、台本は一切ありません。</desc>
+  </programme>
 <programme start="20211114013000 +0900" stop="20211114020000 +0900" channel="Asahi.jp">
   <title lang="en">ワールドトリガー</title>
   <desc lang="en">待望の３ｒｄシーズンがいよいよ放送！ヒュースを加えた新生・玉狛第２が遠征部隊入りを目指し激しさを増すＢ級ランク戦に臨む。新たに登場する強敵たちとの熱い戦い！！</desc>
@@ -825,15 +823,11 @@
   <desc lang="en">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
 雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
 </programme>
-<programme start="20211114005800 +0900" stop="20211114012800 +0900" channel="TBS2.jp">
-  <title lang="en">私が女優になる日_</title>
-  <desc lang="en">☆今夜新企画スタート！
-☆「この初恋はフィクションです」主演・飯沼愛vsキングオブコント芸人・ジェラードン
-☆ニューヨーク顔面崩壊！激臭カレーを巡る衝撃展開</desc>
-</programme>
-<programme start="20211114012800 +0900" stop="20211114015800 +0900" channel="TBS2.jp">
-  <title lang="en">占いメガネ</title>
-  <desc lang="en">人気占い師が悩める女性芸能人の自宅で人生をガチ占い★ギャルモデルゆうちゃみの恋愛を覗く★「男運がない・ボコボコにされる・裏切られる」恋愛運を向上させる鍵は？</desc>
+<programme start="20211115012500 +0900" stop="20211115025500 +0900" channel="Asahi.jp">
+  <title lang="en">Get Sports</title>
+  <desc lang="en">▽新企画始動！「ふみきり」ってナンナンダ⁉
+▽異色ゴルファー・塚田好宣に密着！
+▽ボルダリング小学生大会！</desc>
 </programme>
 <programme start="20211114015800 +0900" stop="20211114040000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -975,13 +969,10 @@
 ▽スピードスケートＷ杯
 ▽男子ゴルフ三井住友ＶＩＳＡ＆女子ゴルフ伊藤園レディス</desc>
 </programme>
-<programme start="20211114005000 +0900" stop="20211114012000 +0900" channel="TVTokyo.jp">
-  <title lang="en">二軒目どうする?〜ツマミのハナシ〜</title>
-  <desc lang="en">ＴＯＫＩＯ松岡昌宏が博多大吉と女性ゲスト、専門家と楽しむ居酒屋ぶらりバラエティー！</desc>
-</programme>
-<programme start="20211114012000 +0900" stop="20211114014500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ABChanZOO</title>
-  <desc lang="en">河合が憧れる究極のイケメン！木村拓哉さんに少しでも近づけるようにメンバーが渾身のイケメン演技対決！塚田の暴走に一同大爆笑！？はたしてそのわけとは！？</desc>
+<programme start="20211115011300 +0900" stop="20211115021300 +0900" channel="TBS2.jp">
+  <title lang="en">GAMBA×GAMBA クライミング</title>
+  <desc lang="en">地上波唯一のスポーツクライミング専門番組！９回目となる今回は、日本クライミング界を牽引する「TEAM au」
+のメンバーが今年のクライミングを語り尽くします！</desc>
 </programme>
 <programme start="20211114014500 +0900" stop="20211114021000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゴッドタン</title>
@@ -1136,12 +1127,13 @@
   <desc lang="en">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
 見逃せないパフォーマンスが続々と登場します。</desc>
 </programme>
-<programme start="20211114005000 +0900" stop="20211114013000 +0900" channel="FujiTV.jp">
-  <title lang="en">S-PARK</title>
-  <desc lang="en">スポーツ・パーク「Ｓ－ＰＡＲＫ」宮司愛海
-▼２０２２北京五輪ＭＣ村上信五が生出演
-▼五輪の行方を占うフィギュアＧＰシリーズ
-▼女子ゴルフ賞金王に近づくのは</desc>
+<programme start="20211115010500 +0900" stop="20211115013500 +0900" channel="TVTokyo.jp">
+  <title lang="en">日向坂で会いましょう</title>
+  <desc lang="en">日向坂４６が、みんなを笑顔に変えるハッピー全開のバラエティ番組！様々なことに挑戦し、苦難を乗り越えトップアイドルへと成長していく姿を追いかけます!!</desc>
+</programme>
+<programme start="20211115013500 +0900" stop="20211115020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">月とライカと吸血姫</title>
+  <desc lang="en">人類史上初の宇宙飛行士は、吸血鬼の少女だったー宇宙飛行士候補生のレフは、有人飛行の実験体として吸血鬼を飛ばす計画で、吸血鬼の少女イリナの監視と訓練を命じられる。</desc>
 </programme>
 <programme start="20211114013000 +0900" stop="20211114020000 +0900" channel="FujiTV.jp">
   <title lang="en">馬好王国〜UmazuKingdom〜</title>
@@ -1304,13 +1296,9 @@
   <title lang="en">Love music</title>
   <desc lang="en">カメラ、照明、楽器担当…番組の美術、技術スタッフが選ぶそれぞれの「渾身の１曲」ＳＵＰＥＲ　ＢＥＡＶＥＲ、ＴＫ　ｆｒｏｍ　凛として時雨ほか収録秘話</desc>
 </programme>
-<programme start="20211114003000 +0900" stop="20211114010000 +0900" channel="Tokyo MX">
-  <title lang="en">ビルディバイド -000000-（コードブラック）</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211114010000 +0900" stop="20211114013000 +0900" channel="Tokyo MX">
-  <title lang="en">先輩がうざい後輩の話</title>
-  <desc lang="en"> </desc>
+<programme start="20211115015500 +0900" stop="20211115022500 +0900" channel="FujiTV.jp">
+  <title lang="en">おかべろ</title>
+  <desc lang="en">今回は今月３日にデビューしオリコン１位を獲得！今、最も注目の次世代グローバルボーイズグループ・ＩＮＩを徹底解剖！地上波バラエティー初出演で大緊張＆猛烈アピール！</desc>
 </programme>
 <programme start="20211114013000 +0900" stop="20211114020000 +0900" channel="Tokyo MX">
   <title lang="en">ポプテピピック</title>
@@ -1512,6 +1500,14 @@
   <title lang="en">しょうたいむ!〜歌のお姉さんだってしたい</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211115010500 +0900" stop="20211115013500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211115013500 +0900" stop="20211115020500 +0900" channel="Tokyo MX">
+  <title lang="en">ええじゃないか!!</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211113235000 +0900" stop="20211114011000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第19戦サンパウロGP 土曜フリー走行</title>
 <desc>＜開催＞2021年11月13日（土）【生中継】
@@ -1658,7 +1654,7 @@
 <desc>「エリザベス女王杯（G1）」　ほか
 ＜司会＞見栄晴　横山ルリカ
 ＜出演＞松本ヒロシ　競馬予想専門家4名
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211113/7024228/image/58ecd0c1bcdc754253b5f46c77cd8507.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211114020000 +0900" stop="20211114030000 +0900" channel="FujiOne.jp">
