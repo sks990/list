@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211114115400 +0900" stop="20211114120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211114120000 +0900" stop="20211114121000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】佐藤誠太</desc>
-  </programme>
-  <programme start="20211114121000 +0900" stop="20211114121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211114121500 +0900" stop="20211114130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKのど自慢</title>
     <desc lang="en">富山県黒部市から生放送▽ゲストは松崎しげる、ももいろクローバーＺ▽司会小田切千アナウンサー／鐘秋山気清▽歌で思いを届ける！予選で選ばれた皆さんによる熱唱熱演</desc>
@@ -270,13 +258,25 @@
     <title lang="en"></title>
     <desc lang="en">【キャスター】三條雅幸</desc>
   </programme>
-  <programme start="20211114103000 +0900" stop="20211114120000 +0900" channel="eTele.jp">
-    <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
-    <desc lang="en">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。２回戦第１５局は菅井竜也八段と斎藤明日斗四段の対戦。</desc>
+  <programme start="20211115121500 +0900" stop="20211115122000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211114120000 +0900" stop="20211114123000 +0900" channel="eTele.jp">
-    <title lang="en">囲碁フォーカス</title>
-    <desc lang="en">下島陽平八段の講座、１１月は「完成へのアプローチ」。今回は「境界線を主張する」。「フォーカス・オン」は「興味津々！棋士の扇子」。</desc>
+  <programme start="20211115122000 +0900" stop="20211115124300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うまいッ!</title>
+    <desc lang="en">こんにゃく芋産地で昔から手作りされている「生芋こんにゃく」。芋の香りと独特の食感で刺身からステーキ、イタリアンまで感動の絶品ぞろい！カロリー気にせずご堪能あれ！</desc>
+  </programme>
+  <programme start="20211115124300 +0900" stop="20211115124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">接種で使われる２種類のワクチン。ウイルスの遺伝情報の一部をもとに作られたある物質がカギを握る。どうやってウイルスを撃退するのか？リアルなＣＧで体内の作用を再現</desc>
+  </programme>
+  <programme start="20211115124500 +0900" stop="20211115130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">春休みに帰省した稔（松村北斗）。安子（上白石萌音）と稔は２人で会うのを心待ちにしていました。しかし稔に千吉（段田安則）から銀行の頭取の娘との縁談が持ち上がり…</desc>
+  </programme>
+  <programme start="20211115130000 +0900" stop="20211115130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211114123000 +0900" stop="20211114140000 +0900" channel="eTele.jp">
     <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
@@ -518,9 +518,13 @@
     <title lang="en">にっぽんの芸能</title>
     <desc lang="en">松本幸四郎と舞踊家たちによる新作舞踊「夢追う子」。コロナ影響下、舞台でリアルに踊ることを夢に１年の延期を乗り越えた作品をダイジェストで紹介。新コーナーは和菓子。</desc>
   </programme>
-  <programme start="20211114114500 +0900" stop="20211114124500 +0900" channel="NipponTV.jp">
-    <title lang="en">スクール革命!</title>
-    <desc lang="en">「東京都を走る地下鉄の路線名は？」「１２星座の名前は？」多数ある答えを制限時間内に一つ残らずシボリダセ！▽歌モノマネ、レパートリーすべてシボリダセ！</desc>
+  <programme start="20211115125500 +0900" stop="20211115130000 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「せんせ　ほんまにほんま」うた大阪すみよし少年少女合唱団／「怪盗夢之介」うた岡崎裕美／「おはようクレヨン」うた谷山浩子／「小さな木の実」うた蒲原史子</desc>
+  </programme>
+  <programme start="20211115130000 +0900" stop="20211115130500 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース</title>
+    <desc lang="en">【キャスター】工藤咲子</desc>
   </programme>
   <programme start="20211114124500 +0900" stop="20211114143000 +0900" channel="NipponTV.jp">
     <title lang="en">サンバリュ</title>
@@ -670,14 +674,6 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
   </programme>
-<programme start="20211114115000 +0900" stop="20211114120000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
-<programme start="20211114120000 +0900" stop="20211114125500 +0900" channel="Asahi.jp">
-  <title lang="en">ビートたけしのTVタックル</title>
-  <desc lang="en">10万円給付は“バラマキ”政策なのか？地方へのコロナ交付金…驚きの使い道とは⁉東京五輪の“負の遺産”にかかるお金は？コレって必要⁉ムダ使い⁉税金の使い道を徹底討論</desc>
-</programme>
 <programme start="20211114125500 +0900" stop="20211114132500 +0900" channel="Asahi.jp">
   <title lang="en">新婚さんいらっしゃい!</title>
   <desc lang="en">福島県公開収録・第二弾！
@@ -805,9 +801,9 @@
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
 </programme>
-<programme start="20211114114500 +0900" stop="20211114125400 +0900" channel="TBS2.jp">
-  <title lang="en">アッコにおまかせ!</title>
-  <desc lang="en">史上最年少！藤井聡太“四冠”に！▼圭さんが母の元婚約者と面会…金銭トラブル解決で合意▼新庄監督キャンプで“ビッグボス流”指導＆驚きの経済効果▼ＴｉｋＴｏｋ大賞</desc>
+<programme start="20211115130000 +0900" stop="20211115133000 +0900" channel="Asahi.jp">
+  <title lang="en">徹子の部屋</title>
+  <desc lang="en">〜メインキャスターに抜擢！野球に燃えた青春時代〜大越健介さんが今日のゲストです。</desc>
 </programme>
 <programme start="20211114125400 +0900" stop="20211114130000 +0900" channel="TBS2.jp">
   <title lang="en">dai-docoro☆ベジタ</title>
@@ -1090,10 +1086,6 @@
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽茨城県大子町…さつま芋レモン煮＆奥久慈しゃものサムゲタン▽茨城県牛久市…肉詰めレンコンのチーズ焼き▽さいたま市…からし菜チャンプルー</desc>
 </programme>
-<programme start="20211114115000 +0900" stop="20211114120000 +0900" channel="FujiTV.jp">
-  <title lang="en">FNN Live News days</title>
-  <desc lang="en">週末の昼も「ライブニュース　デイズ」をお見逃しなく。民放で最大級の全国ネットワークを持つＦＮＮの記者が取材したニュースをお届けします。</desc>
-</programme>
 <programme start="20211114120000 +0900" stop="20211114143000 +0900" channel="FujiTV.jp">
   <title lang="en">第36回東日本女子駅伝</title>
   <desc lang="en">晩秋の福島路を駆け抜ける東日本女子駅伝。２年ぶりの開催となる今大会も実力ある中学生から社会人の女性ランナーが集結！「よっしゃ！夢は、キミにつなぐ。」</desc>
@@ -1216,14 +1208,6 @@
 <programme start="20211115115500 +0900" stop="20211115144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-</programme>
-<programme start="20211114115500 +0900" stop="20211114125000 +0900" channel="Tokyo MX">
-  <title lang="en">日曜はカラフル!!!</title>
-  <desc lang="en">映画初主演！女優・田中みな実を直撃取材！知られざるプライベートを明かす！▼ミャンマーの街と呼ばれる高田馬場を調査！▼表記改名ｒｙｕｃｈｅｌｌ生出演！ＭＣアンミカ</desc>
-</programme>
-<programme start="20211114125000 +0900" stop="20211114125500 +0900" channel="Tokyo MX">
-  <title lang="en">Artist18File</title>
-  <desc lang="en">今月のアーティストは北澤ゆうほ（ｔｈｅ　ｐｅｇｇｉｅｓ）今回はオハコうた　スピッツ“春の歌”を弾き語り！</desc>
 </programme>
 <programme start="20211114125500 +0900" stop="20211114130000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -1408,6 +1392,14 @@
 <programme start="20211115120000 +0900" stop="20211115123000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211115123000 +0900" stop="20211115130000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211115130000 +0900" stop="20211115135500 +0900" channel="Tokyo MX">
+  <title lang="en">知ってるワイフ</title>
+  <desc lang="en">チソン×ハン・ジミン共演！もしもあのときに戻れるなら…私の人生たった一度の“if”</desc>
 </programme>
 <programme start="20211113235000 +0900" stop="20211114011000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第19戦サンパウロGP 土曜フリー走行</title>
@@ -1628,7 +1620,7 @@
 <desc>どこよりも詳しくプロ野球情報をお伝えする野球専門番組。クライマックスシリーズの試合結果を詳細にお送りする。
 　【再放送】
 ※変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211114/7024237/image/487b20b20eb9320778aae5031e154477.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211114130000 +0900" stop="20211114135000 +0900" channel="FujiOne.jp">
@@ -1861,7 +1853,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2005年8月21日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211114/7024116/image/64995d670477b222c69e57e206ec2395.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211114130000 +0900" stop="20211114133000 +0900" channel="FujiTwo.jp">
