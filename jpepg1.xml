@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211116025900 +0900" stop="20211116035900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">日本の名峰</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211116035900 +0900" stop="20211116040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">魂のタキ火</title>
     <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
@@ -313,6 +309,22 @@
   <programme start="20211117024900 +0900" stop="20211117030400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
     <desc lang="en">「たちばな」の和菓子が大好きな安子（網本唯舞葵）はいつしか職人になりたい！と思うように。一方、跡取り修行を始めた兄・算太（濱田岳）は仕事場から逃げてばかりで…</desc>
+  </programme>
+  <programme start="20211117030400 +0900" stop="20211117031900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">１４歳の安子（上白石萌音）は、あんことおしゃれが大好きなごく普通の女の子です。店の手伝いをしていると、英語が堪能な青年（松村北斗）が和菓子を買いにやってきて…</desc>
+  </programme>
+  <programme start="20211117031900 +0900" stop="20211117033400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">安子（上白石萌音）は、稔（松村北斗）から教わったラジオ英語講座を毎朝欠かさず聴いています。ある日、安子は稔に誘われて初めて喫茶店に行くことに…</desc>
+  </programme>
+  <programme start="20211117033400 +0900" stop="20211117034900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">ラジオ英語講座を聴くことは安子（上白石萌音）の毎朝の日課になっていました。親友のきぬ（小野花梨）の計らいで、安子と稔（松村北斗）は２人で夏祭りに行くことに…</desc>
+  </programme>
+  <programme start="20211117034900 +0900" stop="20211117040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">プラネットアース 絶景・天空の旅</title>
+    <desc lang="en">大型シリーズ「プラネットアース」で好評を博した最新鋭の機材で撮影した空撮。一部しか使えなかった絶品カットや未編集素材を生かして、天空からの地球絶景の旅を送る。</desc>
   </programme>
   <programme start="20211116002500 +0900" stop="20211116053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -662,22 +674,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211116015900 +0900" stop="20211116034400 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です</title>
-    <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！菜奈ちゃんを殺された翔太の反撃！あのキャラの大暴走や衝撃シーンをおさらい！</desc>
-  </programme>
-  <programme start="20211116034400 +0900" stop="20211116034500 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211116034500 +0900" stop="20211116035000 +0900" channel="NipponTV.jp">
-    <title lang="en">号泣!そしてバトンは渡された</title>
-    <desc lang="en">本屋大賞受賞のベストセラー「そして、バトンは渡された」ついに映画化！▽親子役の永野芽郁＆田中圭が語る映画の見どころ▽驚きと感動が詰まった物語の秘密に迫る！</desc>
-  </programme>
-  <programme start="20211116035000 +0900" stop="20211116035500 +0900" channel="NipponTV.jp">
-    <title lang="en">「バンクシーって誰?展」</title>
-    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
-  </programme>
   <programme start="20211116035500 +0900" stop="20211116040000 +0900" channel="NipponTV.jp">
     <title lang="en">あなたの番です劇場版</title>
     <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐ怒涛のあな番ワールド!原田知世×田中圭、西野七瀬×横浜流星ＳＰ対談!!</desc>
@@ -775,15 +771,6 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物ボイルズワイガニ、リモートワーク対策にストレッチアイテム、若見えフェイス目指すアイテム、ポシュレ人気マットレス、バッグ、大珠真珠などお得情報満載で！</desc>
   </programme>
-<programme start="20211116025600 +0900" stop="20211116030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211116030000 +0900" stop="20211116033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
 <programme start="20211116033000 +0900" stop="20211116040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -915,10 +902,13 @@ by.Paolo Nutini</desc>
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20211116013500 +0900" stop="20211116034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211117033000 +0900" stop="20211117040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211117040000 +0900" stop="20211117045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍IV</title>
+  <desc lang="en">「誘拐！乙女涙の初恋」松平健(他)▽元石見代官・矢野左近太夫の娘で大奥女中の鈴加が何者かにかどわかされた。かどわかしたのは次郎太という石見の忍びの者と判明するが…</desc>
 </programme>
 <programme start="20211116034500 +0900" stop="20211116043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -1003,18 +993,9 @@ by.Paolo Nutini</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211116025000 +0900" stop="20211116032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】EMPiRE、フジファブリック、遥海、Thinking　Dogs
-【ナビゲーター】南海キャンディーズ</desc>
-</programme>
-<programme start="20211116032000 +0900" stop="20211116035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あにレコTV</title>
-  <desc lang="en">▽「大正オトメ御伽話」特集！土岐隼一が登場！作品の注目ポイント＆ＥＤテーマの聞きどころをお届け！▽「ミュークルドリーミー　みっくす！」特集！ナナナがスタジオに⁉</desc>
-</programme>
-<programme start="20211116035000 +0900" stop="20211116035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
+<programme start="20211117034500 +0900" stop="20211117043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211116035500 +0900" stop="20211116041000 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
@@ -1157,13 +1138,22 @@ by.Paolo Nutini</desc>
   <title lang="en"></title>
   <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
 </programme>
-<programme start="20211116022500 +0900" stop="20211116032500 +0900" channel="FujiTV.jp">
-  <title lang="en">他人は地獄だ</title>
-  <desc lang="en">韓国で大ヒットＷＥＢ漫画を実写化！地方から上京してきた純朴な青年が不安と緊張に追いつめられ、徐々に自分を見失っていく衝撃のミステリー・スリラー。</desc>
+<programme start="20211117030500 +0900" stop="20211117032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">第3期まで放送！2.5次元舞台などで活躍する俳優による“リハは1度だけ”“本番一発勝負”という新感覚のテレビドラマの映画化！「映画演劇　サクセス荘」をご紹介！！</desc>
 </programme>
-<programme start="20211116032500 +0900" stop="20211116035000 +0900" channel="FujiTV.jp">
+<programme start="20211117032000 +0900" stop="20211117032500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211117032500 +0900" stop="20211117035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">女ともだち</title>
+  <desc lang="en">ミツルが右手に怪我をして帰ってくるが、手当てをしながら、理由を詮索しないちさと。そして、ちさとのいないアミーゴスにミツルの浮気相手、チャコがやって来る…。</desc>
+</programme>
+<programme start="20211117035500 +0900" stop="20211117040000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20211116035000 +0900" stop="20211116040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1261,13 +1251,13 @@ by.Paolo Nutini</desc>
   <title lang="en">突然ですが占ってもいいですか?11月17日は2時間SP!</title>
   <desc lang="en">大竹しのぶ…芸歴４８年！大女優の知られざる衝撃実態⁉母の顔＆意外な結婚生活も▽トリンドル姉妹…恋愛のライバル⁉赤裸々㊙事情が次々に！謎の家族関係も⁉</desc>
 </programme>
-<programme start="20211116023500 +0900" stop="20211116030500 +0900" channel="Tokyo MX">
-  <title lang="en">テリー土屋のくるまの話</title>
-  <desc lang="en">テリー伊藤＆レジェンドレーサー・土屋圭市▼車を愛する２人が自動車関連企業の社長を招き業界の裏側を掘り下げるトーク番組！</desc>
+<programme start="20211117030500 +0900" stop="20211117040000 +0900" channel="FujiTV.jp">
+  <title lang="en">FNSドキュメンタリー大賞</title>
+  <desc lang="en">国が指定する過疎地の１つ、福井県旧和泉村。ここでスキー場を経営する男性は、古里の生き残りをかけ奔走する。過疎地の持続可能性とは…。日本の過疎地の行く末を問う。</desc>
 </programme>
-<programme start="20211116030500 +0900" stop="20211116033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211117040000 +0900" stop="20211117045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211116033500 +0900" stop="20211116040000 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1464,6 +1454,18 @@ by.Paolo Nutini</desc>
 <programme start="20211117023500 +0900" stop="20211117030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211117030500 +0900" stop="20211117033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211117033500 +0900" stop="20211117040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">それでも人は、それぞれの願いを持って愛宕山にのぼります。千数百年の長きにわたり、京の都を見守ってきました。京都府京都市に坐すごりやくさん、愛宕神社をご紹介します</desc>
+</programme>
+<programme start="20211117040000 +0900" stop="20211117043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
 <programme start="20211115214000 +0900" stop="20211116012000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第19戦サンパウロGP 決勝</title>
