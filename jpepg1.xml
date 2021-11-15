@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211116004800 +0900" stop="20211116013400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK MUSIC SPECIAL</title>
-    <desc lang="en">玉置浩二がオーケストラと共演してきた６年▽奇跡の復活を遂げた紅白の舞台裏▽支えてきた関係者の証言▽田園・夏の終りのハーモニー・メロディーを壮大なアレンジで送る！</desc>
-  </programme>
   <programme start="20211116013400 +0900" stop="20211116021400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽タリバン復権３か月　人道危機が深刻化▽米軍シリア空爆で子供ら８０人殺害か▽紛糾ＣＯＰ２６　インドの事情▽インドネシア　フードロスに取り組む▽中国ＥＶ市場が過熱</desc>
@@ -309,6 +305,14 @@
   <programme start="20211117002000 +0900" stop="20211117010900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">世界の自動車業界で急速に広がる“ＥＶシフト”。震源地・ＥＵでは官民一体となって主導権を握ろうと始動。対する自動車大国・日本のメーカーはどう立ち向かうのか密着する</desc>
+  </programme>
+  <programme start="20211117010900 +0900" stop="20211117015400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">群青領域</title>
+    <desc lang="en">バイト先で素性を明かし東京に戻ったジュニは、バンド存続のため、音楽番組の生中継での演奏を受けざる得ないが、ジュニはピアノの前に座ることさえ出来ない。しかし…</desc>
+  </programme>
+  <programme start="20211117015400 +0900" stop="20211117023400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽イスラエルで草間彌生氏の展覧会が大ヒット　その理由は▽フランス　空き駐車場で秋の味覚・キノコ栽培▽最新の国際ニュース※変更の可能性あり</desc>
   </programme>
   <programme start="20211116002500 +0900" stop="20211116053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -658,14 +662,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211116005900 +0900" stop="20211116012900 +0900" channel="NipponTV.jp">
-    <title lang="en">サムライカアサン</title>
-    <desc lang="en">激うざオカン・伊佐木よい子が、バリバリ反抗期の高３の息子・たけしに、うっとうしいほどの愛を注ぎこむ！笑いとホロリがいっぱいの、全力愛情コメディ！</desc>
-  </programme>
-  <programme start="20211116012900 +0900" stop="20211116015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!2</title>
-    <desc lang="en">乃木坂４６が昭和・平成の名曲を熱唱…今夜はチェッカーズＳＰ▽新内「ギザギザハートの子守唄」▽賀喜＆鶴久政治「夜明けのブレス」▽チェッカーズ＆乃木坂㊙共通点発覚</desc>
-  </programme>
   <programme start="20211116015900 +0900" stop="20211116034400 +0900" channel="NipponTV.jp">
     <title lang="en">あなたの番です</title>
     <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！菜奈ちゃんを殺された翔太の反撃！あのキャラの大暴走や衝撃シーンをおさらい！</desc>
@@ -763,18 +759,14 @@
     <desc lang="en">ｅスポーツ応援番組「ｅＧＧ」
 ゲーム好き日テレ系女性キャスターがゲームについて熱く語るサミットを開催！好きなタイプ告白＆マリオカートで対戦▼PUBG新作</desc>
   </programme>
-<programme start="20211116005000 +0900" stop="20211116012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">「さらば青春の光」と「見取り図」がオリジナルゲームを配信!?▼「真顔だ屋敷」アイテムを取ってニヤけ顔の屋敷を真顔にしろ！▼アインシュタイン稲田の「俺のゲーム」</desc>
-</programme>
-<programme start="20211116012000 +0900" stop="20211116012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211116012600 +0900" stop="20211116015600 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
+  <programme start="20211117014900 +0900" stop="20211117015500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211117015500 +0900" stop="20211117022500 +0900" channel="NipponTV.jp">
+    <title lang="en">シキザクラ</title>
+    <desc lang="en">クロ組によってイバラを奪われた翔。逢花は父・明神正臣にイバラを解放するよう頼む。そこで正臣が翔につきつけたイバラ解放の条件は、あまりに過酷なものであった。</desc>
+  </programme>
 <programme start="20211116015600 +0900" stop="20211116021600 +0900" channel="Asahi.jp">
   <title lang="en">イグナッツ!!</title>
   <desc lang="en">今回のゲストは売れっ子画家のBABIさん。衝撃のセレブエピソード連発で企画崩壊の危機‼</desc>
@@ -898,13 +890,18 @@ by.Paolo Nutini</desc>
 声優業にとどまらない！舞台でも大活躍ベテラン声優陣
 関智一・長沢美樹・中尾隆聖・福圓美里が登場！</desc>
 </programme>
-<programme start="20211116005800 +0900" stop="20211116012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">シーズン6・開幕戦！『キングオブコント2021・ファイナリストバトル！』【蛙亭vs男性ブランコvsそいつどいつ】▼王者・空気階段に敗れた者たちのリベンジマッチ！</desc>
+<programme start="20211117012000 +0900" stop="20211117012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20211116012800 +0900" stop="20211116013500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211117012600 +0900" stop="20211117015600 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
+</programme>
+<programme start="20211117015600 +0900" stop="20211117021600 +0900" channel="Asahi.jp">
+  <title lang="en">ホリケンのみんなともだち</title>
+  <desc lang="en">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルな唯一無二のバラエティー番組</desc>
 </programme>
 <programme start="20211116013500 +0900" stop="20211116034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -981,13 +978,9 @@ by.Paolo Nutini</desc>
   <title lang="en">凛子さんはシてみたい</title>
   <desc lang="en">🈖🈑初めて上坂（戸塚祥太）の家で朝を迎え、改めて好きだと気づいた凛子（高田夏帆）。幸せを噛み締めていた…だが式場にまたもや上坂の初恋相手・志保（筧美和子）の姿が</desc>
 </programme>
-<programme start="20211116003000 +0900" stop="20211116010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">Dreamer 乙</title>
-  <desc lang="en">DreamerZと連動＆iCONZ応援番組！GENERATIONS　from　EXILE　TRIBEやTHE　RAMPAGE　from　EXILE　TRIBEの超貴重オーディション映像も盛り沢山！</desc>
-</programme>
-<programme start="20211116010000 +0900" stop="20211116013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼ついに公演が始まった研修生による舞台「図書館物語〜３つのブックマーク〜」の歌稽古と通し稽古の模様を大公開！</desc>
+<programme start="20211117013500 +0900" stop="20211117021500 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">天海祐希主演映画「老後の資金がありません！」キングオブコント王者・空気階段がコント師の目線で見所プレゼン！画家ゴッホの波乱万丈な人生に…こがけんもオーマイガー！</desc>
 </programme>
 <programme start="20211116013000 +0900" stop="20211116020000 +0900" channel="TVTokyo.jp">
   <title lang="en">境界戦機</title>
@@ -1143,13 +1136,13 @@ by.Paolo Nutini</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20211116003500 +0900" stop="20211116010500 +0900" channel="FujiTV.jp">
-  <title lang="en">スイートリベンジ</title>
-  <desc lang="en">落とし屋バトル！落ちるのはどっちだ？　後編</desc>
+<programme start="20211117013000 +0900" stop="20211117013500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">11月23日に開幕する「世界卓球2021」の見どころをご紹介します！今回は女子ダブルスの金メダル候補！伊藤美誠選手と早田ひな選手の「みまひなペア」を特集します。</desc>
 </programme>
-<programme start="20211116010500 +0900" stop="20211116013500 +0900" channel="FujiTV.jp">
-  <title lang="en">いとしのニーナ</title>
-  <desc lang="en">僕の声は届かない・・・</desc>
+<programme start="20211117013500 +0900" stop="20211117020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">紙とさまぁ〜ず</title>
+  <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
 </programme>
 <programme start="20211116013500 +0900" stop="20211116020000 +0900" channel="FujiTV.jp">
   <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
@@ -1255,21 +1248,9 @@ by.Paolo Nutini</desc>
   <title lang="en">東京ラブストーリー</title>
   <desc lang="en">繋がる思い、離れる心</desc>
 </programme>
-<programme start="20211116003000 +0900" stop="20211116010000 +0900" channel="Tokyo MX">
-  <title lang="en">海賊王女</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211116010000 +0900" stop="20211116010500 +0900" channel="Tokyo MX">
-  <title lang="en">BanG Dream! ガルパ☆ピコ ふぃーばー!</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211116010500 +0900" stop="20211116013000 +0900" channel="Tokyo MX">
-  <title lang="en">DOGENGERS</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211116013000 +0900" stop="20211116013500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211117013500 +0900" stop="20211117020500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「強いぞ悟空‼遂に到着」</desc>
 </programme>
 <programme start="20211116013500 +0900" stop="20211116020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1467,6 +1448,14 @@ by.Paolo Nutini</desc>
   <title lang="en">かぎなど</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211117010500 +0900" stop="20211117013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+</programme>
+<programme start="20211117013500 +0900" stop="20211117020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">歌って踊るダンスロックバンドＤＩＳＨ／／から、橘柊生（ＤＪ／Ｋｅｙ）と泉大智（Ｄｒ）が登場！唯一無二の音楽が作られる経緯と、その熱意に迫る。</desc>
+</programme>
 <programme start="20211115214000 +0900" stop="20211116012000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第19戦サンパウロGP 決勝</title>
 <desc>＜開催＞2021年11月15日（月）【再放送】
@@ -1628,7 +1617,7 @@ by.Paolo Nutini</desc>
 <title lang="en">さらば、愛しきプロ野球…。 26 「vol.26 鈴木啓示」</title>
 <desc>『vol.26　最後の300勝投手 鈴木啓示』
 日本プロ野球界“最後の300勝投手”が今だからこそ語ることのできる言葉とは？
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211115/7042570/image/ead684bf07785f47bd7f76badb465215.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211116020000 +0900" stop="20211116030000 +0900" channel="FujiOne.jp">
@@ -2078,7 +2067,7 @@ https//otn.fujitv.co.jp
 <programme start="20211116003000 +0900" stop="20211116020000 +0900" channel="kbsworld.jp">
 <title lang="en">ユ・ヒヨルのスケッチブック　[字]</title>
 <desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211115/7029884/image/683e77485a6fdfe31420a4f80f8b2329.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211116020000 +0900" stop="20211116031000 +0900" channel="kbsworld.jp">
