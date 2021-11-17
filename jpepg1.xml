@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211117204500 +0900" stop="20211117210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20211117210000 +0900" stop="20211117220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽新型コロナ第６波への備えどうする？病床の「見える化」▽最新の感染状況専門家の見方は▽コメ豊作で何が</desc>
@@ -322,21 +318,9 @@
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">心の免疫力あげる言葉に共感広がる▽米通商代表を田中キャスター直撃▽視覚障害者ホーム転落事故を防ぐには</desc>
   </programme>
-  <programme start="20211117204500 +0900" stop="20211117210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20211117210000 +0900" stop="20211117212500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理</title>
-    <desc lang="en">ミュージシャン、俳優として活躍する浜野謙太さんの日課は子供たちの弁当作り。家族も太鼓判の自慢おかずレシピから弁当に込めた思いまで、愛情たっぷりでお届けします！</desc>
-  </programme>
-  <programme start="20211117212500 +0900" stop="20211117213000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理ビギナーズ</title>
-    <desc lang="en">初めてでも大成功のカルボナーラレシピを紹介。ポイントはパスタにベーコンの脂をからめることと、卵黄と生クリームの配合、そして火を止めるタイミングです。</desc>
-  </programme>
-  <programme start="20211117213000 +0900" stop="20211117215500 +0900" channel="eTele.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">ふだん目にもとめない雑草。しかしぐーと近づいてみればその面白い生態、生存競争を勝ち抜く戦略に感心するはず。散歩しながら雑草をめでよう</desc>
+  <programme start="20211118220000 +0900" stop="20211118223000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">クローズアップ現代</title>
+    <desc lang="en">１０月に行われたショパン国際ピアノコンクールで、反田恭平さんが２位に小林愛実さんが４位に入賞する快挙を達成した。若き才能はいかにして花開いたのか。舞台裏の記録。</desc>
   </programme>
   <programme start="20211117215500 +0900" stop="20211117220000 +0900" channel="eTele.jp">
     <title lang="en">まる得マガジン</title>
@@ -666,6 +650,18 @@
     <title lang="en">ソーイング・ビー4</title>
     <desc lang="en">ＢＢＣ・裁縫バトル番組「ソーイング・ビー」日本語版の第４弾！イギリス全土から集められた裁縫自慢たちが腕を競い、チャンピオンの座を目指す！</desc>
   </programme>
+  <programme start="20211118213000 +0900" stop="20211118215500 +0900" channel="eTele.jp">
+    <title lang="en">すてきにハンドメイド</title>
+    <desc lang="en">つま先から編むことで、サイズが合わせやすく丈も調節できるソックス。多色使いのフェアアイル柄で冬の足元を暖かくいろどる。講師はニットデザイナーのサイチカさん。</desc>
+  </programme>
+  <programme start="20211118215500 +0900" stop="20211118220000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">あなたは本当に正しく箸を使えていますか？そう聞かれたら、ほとんどの人は不安になるはず。この機会に正しく箸を使って美しく食べるマナーを覚えましょう。</desc>
+  </programme>
+  <programme start="20211118220000 +0900" stop="20211118223000 +0900" channel="eTele.jp">
+    <title lang="en">クラシックTV</title>
+    <desc lang="en">話題のブラス・アンサンブル、ＡＲＫ　ＢＲＡＳＳが登場！伝説のフィリップ・ジョーンズ、世界のブラスバンドなど、金管楽器の多彩な魅力に迫る。あのスター・ウォーズも！</desc>
+  </programme>
   <programme start="20211117190000 +0900" stop="20211117225400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレ系音楽の祭典【ベストアーティスト2021】</title>
     <desc lang="en">20周年に超豪華アーティスト集結‼桑田佳祐＆MISIA＆YOASOBI＆LiSA＆NiziU熱狂ライブ4時間生放送‼ミスチル浜崎SMAP嵐【名場面永久保存版】</desc>
@@ -773,17 +769,6 @@
     <title lang="en">秘密のケンミンSHOW極</title>
     <desc lang="en">実は豚肉王国の神奈川を徹底調査！とんかつ＆ハム＆もつ！絶品グルメ続々▽大阪フミンは共通語が話せない！？▽全国から最強パンのお供が登場！超渋い食材が激ウマ大変身！</desc>
   </programme>
-<programme start="20211117205400 +0900" stop="20211117210000 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">国道２号線・繁栄の礎となった道Ⅱ・アメリカ</desc>
-</programme>
-<programme start="20211117210000 +0900" stop="20211117215400 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season20</title>
-  <desc lang="en">第６話「マイルール」
-ベストセラー作家の突然死…
-鍵となるのは小説に隠された“マイルール”
-特命係が失われた真実をあぶりだす‼</desc>
-</programme>
 <programme start="20211117215400 +0900" stop="20211117231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">３回目ワクチン接種券…発送直前の“前倒し”現場に混乱も▽木造のマンション＆ビル続々完成…耐震や防音は？▽Ｗ杯予選突破のカギ…内田篤人が解説(他)</desc>
@@ -910,9 +895,9 @@
   <title lang="en">ドクターX〜外科医・大門未知子〜</title>
   <desc lang="en">ついに原守（鈴木浩介）が帰ってきた‼しかし…東帝大ではなく、未知子（米倉涼子）と同じ名医紹介所に所属⁉難病を患った御曹司を救うのは、原か⁉未知子か⁉</desc>
 </programme>
-<programme start="20211117190000 +0900" stop="20211117215700 +0900" channel="TBS2.jp">
-  <title lang="en">東大王</title>
-  <desc lang="en">🈑🈓世界を旅した気分になれるSP企画！名所とスタジオ同時中継！ドバイ超高層ビルやパリの美しい街並みから超難問▽最後は１対１頭脳バトル！宿敵鶴崎VS伊沢の音速決着</desc>
+<programme start="20211118215400 +0900" stop="20211118231000 +0900" channel="Asahi.jp">
+  <title lang="en">報道ステーション</title>
+  <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
 <programme start="20211117215700 +0900" stop="20211117220000 +0900" channel="TBS2.jp">
   <title lang="en">フラッシュニュース</title>
@@ -1002,9 +987,13 @@
   <title lang="en">ニンゲン観察バラエティ モニタリング</title>
   <desc lang="en">▽訪れた村で心霊現象が連続したら信じる？▽ジブリ・ポケモン・ドラゴンボール歌手が観覧車から登場？▽大戸屋メニュー開発モニタリング！ミシュランシェフが挑戦</desc>
 </programme>
-<programme start="20211117182500 +0900" stop="20211117215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">ローカル路線バス乗り継ぎ対決旅</title>
-  <desc lang="en">紅葉映える秋…シリーズ初！神奈川〜静岡〜山梨の３県またいでガチバトル！県境を攻略し最後まで逃げ切るのは太川陽介か？EXILE松本か？紅白歌手・相川七瀬も初参戦！</desc>
+<programme start="20211118215700 +0900" stop="20211118220000 +0900" channel="TBS2.jp">
+  <title lang="en">フラッシュニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20211118220000 +0900" stop="20211118225700 +0900" channel="TBS2.jp">
+  <title lang="en">櫻井・有吉THE夜会</title>
+  <desc lang="en">生田＆鈴木のこだわりすぎな納豆愛。ナンバー１の納豆とは！？さらに鈴木亮平自作の世界遺産クイズで大盛り上がり。吉高由里子のノンアルハイボール会！</desc>
 </programme>
 <programme start="20211117215400 +0900" stop="20211117220000 +0900" channel="TVTokyo.jp">
   <title lang="en">Ｄの旋律</title>
@@ -1162,9 +1151,17 @@
   <title lang="en">どうぶつピース!!</title>
   <desc lang="en">292日ぶり成田空港へ…空港探知犬に密着！密輸、虚偽、買取、悪質入国者を取締り▼秘境でペット飼う人知りませんか？長野県天空の里で大捜索▼犬の驚きの行動に感動</desc>
 </programme>
-<programme start="20211117190000 +0900" stop="20211117210000 +0900" channel="FujiTV.jp">
-  <title lang="en">世界の何だコレ!?ミステリー</title>
-  <desc lang="en">信長討伐のあの日、光秀が狙っていたもう１人の武将…それは徳川家康！日本の未来を左右した、天才２人の究極頭脳戦▽１３年前の都市伝説と関連？謎のこけし▽何だコレ映像</desc>
+<programme start="20211118214800 +0900" stop="20211118215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">Beeワールド</title>
+  <desc lang="en">日本篇「養蜂家のスズメバチ対策」</desc>
+</programme>
+<programme start="20211118215400 +0900" stop="20211118220000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">2021年に入社した新人アナウンサーの2人が只今配信中の注目コンテンツをPRするため、今話題の45秒チャレンジをただひたすらがんばる番組！</desc>
+</programme>
+<programme start="20211118220000 +0900" stop="20211118225800 +0900" channel="TVTokyo.jp">
+  <title lang="en">WBS</title>
+  <desc lang="en">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 </programme>
 <programme start="20211117210000 +0900" stop="20211117224800 +0900" channel="FujiTV.jp">
   <title lang="en">突然ですが占ってもいいですか?</title>
@@ -1258,13 +1255,13 @@
   <title lang="en">千鳥のクセがスゴいネタGP</title>
   <desc lang="en">遠藤と狩野トレエン日谷Ａ．Ｂ．Ｃ－Ｚ河合空気階段天山本間ら新ネタ続々！紅白歌手＆大物時代劇俳優ほか超豪華コラボも一挙大連発！生田斗真＆菜々緒に衝撃の占い！？</desc>
 </programme>
-<programme start="20211117200000 +0900" stop="20211117210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">都内でワクチン３回目接種に動き　自治体にワクチン到着▼北区のクレーン横転　最新情報は？▼世田谷区がコロナ後遺症のアンケート結果を公表</desc>
+<programme start="20211118215400 +0900" stop="20211118220000 +0900" channel="FujiTV.jp">
+  <title lang="en">ザ・ホースマン笑</title>
+  <desc lang="en">番組ＭＣはミニチュアホース！ゲストは人気芸人！ミニチュアホースが“馬にまつわる素敵な話”を紹介。さらに大喜利・ものボケなど芸人に無茶ぶりしたりと大活躍</desc>
 </programme>
-<programme start="20211117210000 +0900" stop="20211117215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">俳優・芸人・彫刻家として活躍する片桐仁登場！「衣食住」のこだわりとは？。「DANDY Academy」では衣食住の明日を担う若手職人が登場！着物デザイナー・キサブローに密着</desc>
+<programme start="20211118220000 +0900" stop="20211118225400 +0900" channel="FujiTV.jp">
+  <title lang="en">SUPER RICH</title>
+  <desc lang="en">モバイル会社との提携を目指し大忙しの社員たち。一方衛は祖母の体調が悪化したとの連絡を受け…明らかになる衛の孤独な過去、そして衛と優、二人の関係が動く！</desc>
 </programme>
 <programme start="20211117215400 +0900" stop="20211117220000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1465,6 +1462,14 @@
 <programme start="20211118210000 +0900" stop="20211118215400 +0900" channel="Tokyo MX">
   <title lang="en">バラいろダンディ</title>
   <desc lang="en">NEWS小山慶一郎＆ナジャ！MCは「新・東京 夜の顔」ふかわりょう＆大島由香里。人生をダンディに語らう1時間。「シャンデリア」蘇らせるダンディな職人の思いに迫る！</desc>
+</programme>
+<programme start="20211118215400 +0900" stop="20211118220000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211118220000 +0900" stop="20211118223000 +0900" channel="Tokyo MX">
+  <title lang="en">盾の勇者の成り上がり</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211116190000 +0900" stop="20211117030000 +0900" channel="FujiNext.jp">
 <title lang="en">春の高校バレー第74回全日本バレーボール高等学校選手権大会 東京都代表決定戦</title>
@@ -2278,7 +2283,7 @@ https//otn.fujitv.co.jp
 <programme start="20211117210000 +0900" stop="20211117220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211117/7029929/image/ec8c173e4d98de404c86d8850410126d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211117220000 +0900" stop="20211117232000 +0900" channel="kbsworld.jp">
