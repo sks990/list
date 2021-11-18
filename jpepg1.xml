@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211119013300 +0900" stop="20211119021300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽日米韓次官協議　竹島問題で共同会見中止▽ＩＡＥＡ「イランがウラン濃縮継続」▽スーダン　デモで１５人死亡▽バオバブが温暖化で危機※ＳＤＧｓ▽食堂でミャンマー支援</desc>
-  </programme>
-  <programme start="20211119021300 +0900" stop="20211119021400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SDGsのうた</title>
-    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ紹介。今回は神木隆之介さんバージョンだよ！</desc>
-  </programme>
   <programme start="20211119021400 +0900" stop="20211119031400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">シリーズ「２０３０　未来への分岐点」、第１回は新たなフェーズに入った地球温暖化の問題。持続可能な未来を実現するために何が必要か、この１０年歩むべき道を考える。</desc>
@@ -305,6 +297,14 @@
   <programme start="20211120014800 +0900" stop="20211120022800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽フランス　稀代の日本人建築家・田根剛氏が手掛ける美術館オープン▽アメリカ　「環境」に配慮、フードテック最前線※Ｓｄｇｓ▽最新の国際ニュース※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211120022800 +0900" stop="20211120022900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">SDGsのうた</title>
+    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+  </programme>
+  <programme start="20211120022900 +0900" stop="20211120032900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">先進国の飽食が、世界中に「飢餓のパンデミック」を拡大させている。現在の食料システムのままでは、人口が１００億に達する２０５０年に待っているのは破滅という悪夢。</desc>
   </programme>
   <programme start="20211119003000 +0900" stop="20211119053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -642,14 +642,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211119012900 +0900" stop="20211119022900 +0900" channel="NipponTV.jp">
-    <title lang="en">今日から俺は!!</title>
-    <desc lang="en">ツッパリ全盛期８０年代。伝説の漫画を奇才・福田雄一が実写化！規格外ヒーローがどんな手を使っても悪党を倒す痛快コメディ！</desc>
-  </programme>
-  <programme start="20211119022900 +0900" stop="20211119025900 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">スタジオにふらっとやって来ては、重要な議題を持ちかけ、実践してきたオドぜひ影のフィクサー稲村から、新たな報告が！磯貝が涙を流したその報告とは⁉</desc>
-  </programme>
   <programme start="20211119025900 +0900" stop="20211119032900 +0900" channel="NipponTV.jp">
     <title lang="en">川島・山内のマンガ沼</title>
     <desc lang="en">「４コママンガ王」ご褒美企画！初代王者ロングコートダディ堂前のおすすめギャグマンガ！川島＆山内もおすすめマンガ返し！▽ライドンキング</desc>
@@ -750,19 +742,10 @@
     <desc lang="en">金曜深夜に贈る新しいエンターテインメント情報番組！MCに日テレアナウンサー川畑一志と
 郡司恭子。『あなたの番です劇場版』企画・原案の秋元康がヒットの裏側を分析！</desc>
   </programme>
-<programme start="20211119015600 +0900" stop="20211119021600 +0900" channel="Asahi.jp">
-  <title lang="en">NEWニューヨーク</title>
-  <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
-</programme>
-<programme start="20211119021600 +0900" stop="20211119023600 +0900" channel="Asahi.jp">
-  <title lang="en">ハマスカ放送部</title>
-  <desc lang="en">OKAMOTO'Sハマ・オカモトと乃木坂46齋藤飛鳥がお届けする音楽トークバラエティ！
-今夜は初ゲスト登場[世界の珍しい楽器に触れよう]ハマスカ驚きの謎楽器で名セッション⁉</desc>
-</programme>
-<programme start="20211119023600 +0900" stop="20211119025600 +0900" channel="Asahi.jp">
-  <title lang="en">野田レーザーの逆算</title>
-  <desc lang="en">“理詰めマニア”が集う秘密の夜会▼コントのオチから設定を推測！ザ・マミィ林田「コント逆算」▼絵本の最後のページからどんなストーリーかを逆算！浮所飛貴「絵本逆算」</desc>
-</programme>
+  <programme start="20211120024400 +0900" stop="20211120040900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレ名物ボイルズワイガニ、リモートワーク対策にストレッチアイテム、若見えフェイス目指すアイテム、ポシュレ人気マットレス、バッグ、大珠真珠などお得情報満載で！</desc>
+  </programme>
 <programme start="20211119025600 +0900" stop="20211119030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -878,9 +861,17 @@
   <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
 今回は、２０２１年ビューティー振り返りスペシャル！</desc>
 </programme>
-<programme start="20211119015800 +0900" stop="20211119020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211120022000 +0900" stop="20211120024000 +0900" channel="Asahi.jp">
+  <title lang="en">新日ちゃん。</title>
+  <desc lang="en">テレビ朝日と新日本プロレスがタッグを組んだバラエティ番組！今夜は三谷アナ監修の新日ちゃんぴおん。クイズ！</desc>
+</programme>
+<programme start="20211120024000 +0900" stop="20211120030000 +0900" channel="Asahi.jp">
+  <title lang="en">あるある土佐カンパニー2</title>
+  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
+</programme>
+<programme start="20211120030000 +0900" stop="20211120043000 +0900" channel="Asahi.jp">
+  <title lang="en">フィギュアグランプリシリーズ2021</title>
+  <desc lang="en">氷上サバイバル世界一決定戦！鍵山優真が２戦連続の優勝を懸け、第５戦フランス大会に登場！佐藤駿と共にファイナル進出を狙う！女子は樋口新葉と横井ゆは菜が世界に挑む！</desc>
 </programme>
 <programme start="20211119020500 +0900" stop="20211119034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -964,18 +955,13 @@
   <title lang="en">結城友奈は勇者である-大満開の章-</title>
   <desc lang="en">バトンは受け継がれていく。▼これは、これまでの、これからの物語。</desc>
 </programme>
-<programme start="20211119013000 +0900" stop="20211119020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">考えすぎちゃん ON TV〜ワンクールだけの大冒険〜</title>
-  <desc lang="en">ファーストサマーウイカ、ハナコ岡部、DJ松永の３人が元テレビ東京プロデューサー佐久間宣行をホストに毎回あるテーマについて考えすぎちゃう雑談バラエティ。</desc>
+<programme start="20211120022500 +0900" stop="20211120025500 +0900" channel="TBS2.jp">
+  <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
+  <desc lang="en">◆ＳＴＡＧＥ８「黒の騎士団」▼河口湖畔のホテルで、日本解放戦線のメンバーが人質を取り立てこもる事件が発生。ルルーシュは、「黒の騎士団」を率いて人質救助に向かう。</desc>
 </programme>
-<programme start="20211119020000 +0900" stop="20211119020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">「ＤＮＡは嘘をつかない」が口癖の天才科学者と熱血刑事の最強コンビが難事件に挑むヒューマンミステリー！殺害現場で消えたＤＮＡ…10年前の連続殺人犯Ｘの犯行!?</desc>
-</programme>
-<programme start="20211119020500 +0900" stop="20211119023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">きらきらアフロTM</title>
-  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
-【出演】笑福亭鶴瓶、松嶋尚美</desc>
+<programme start="20211120025500 +0900" stop="20211120030700 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
 </programme>
 <programme start="20211119023500 +0900" stop="20211119030500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1148,9 +1134,17 @@
   <title lang="en">大正オトメ御伽話</title>
   <desc lang="en">珠彦の授業が評判となり、村の子どもたちが集まってくるようになった。そんな中、珠彦はある決意を固める。</desc>
 </programme>
-<programme start="20211119013500 +0900" stop="20211119023500 +0900" channel="FujiTV.jp">
-  <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
-  <desc lang="en">ＥＸＩＴ単独ＭＣ▽ものまねレジェンド・ホリ＆ミラクルひかるがモノマネのコツを伝授！▽アニメ「ヤッターマン」台詞披露！▽Ｒａｙ人気読者モデルとゲーム対決</desc>
+<programme start="20211120022300 +0900" stop="20211120023000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">“ライバル”から「かすみう」ペアへー・石川佳純と平野美宇の軽井沢二人旅に密着！東京五輪前“ライバル”だった２人はどのように壁を越えたのかーオフショットも満載！！</desc>
+</programme>
+<programme start="20211120023000 +0900" stop="20211120030000 +0900" channel="TVTokyo.jp">
+  <title lang="en">流派-R since2001</title>
+  <desc lang="en">▼R-FeatureDa.Me.Records▼VIEWS①竹内唯人▼VIEWS②ONE　in　a　Billion▼MY　CLASSICS　newサイプレス上野　Rei🄫hi</desc>
+</programme>
+<programme start="20211120030000 +0900" stop="20211120031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">嫌な出来事も吹っ飛ばす異世界ファンタジーアニメ！「進化の実〜知らないうちに勝ち組人生〜」をご紹介。今夜も、サリア役とガッスル・クルートを演じる、稲田徹が登場！</desc>
 </programme>
 <programme start="20211119023500 +0900" stop="20211119030500 +0900" channel="FujiTV.jp">
   <title lang="en">いいすぽ!</title>
@@ -1240,17 +1234,13 @@
   <title lang="en">かまいたちのあつまれ!どうぶつの話</title>
   <desc lang="en">史上初！動物がゲストのトーク番組！今夜は、猫＆鳥＆パンダ＆クジラ＆人間みちょぱ！この５匹がそれぞれの恋愛事情を赤裸々トーク！人間かまいたちに鳥が説教</desc>
 </programme>
-<programme start="20211119013500 +0900" stop="20211119020500 +0900" channel="Tokyo MX">
-  <title lang="en">バリふり!!!</title>
-  <desc lang="en"> </desc>
+<programme start="20211120022500 +0900" stop="20211120025500 +0900" channel="FujiTV.jp">
+  <title lang="en">次ナルTV-S</title>
+  <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＮＥＸＴで放送される「２．５ちゃんねる」１ｓｔ　ＳＥＡＳＯＮのダイジェスト</desc>
 </programme>
-<programme start="20211119020500 +0900" stop="20211119023400 +0900" channel="Tokyo MX">
-  <title lang="en">らいコレTV</title>
-  <desc lang="en">配信を始めて何と約１ヶ月でゲスト枠を獲得！　店長ライバー「マロニー」さんが初登場！。後半は、ｉｍｉｍがライバー界の最新情報をお届けします。</desc>
-</programme>
-<programme start="20211119023400 +0900" stop="20211119023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211120025500 +0900" stop="20211120035500 +0900" channel="FujiTV.jp">
+  <title lang="en">久保みねヒャダ こじらせナイト</title>
+  <desc lang="en">３人が大好きで念願の初登場…藤井隆▽マシュー・名曲ナンダカンダ秘話から最新プロデュース話まで…おでんベスト３でまさかの戦争▽次回ライブ重大発表あります</desc>
 </programme>
 <programme start="20211119023500 +0900" stop="20211119030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1436,10 +1426,22 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211120020500 +0900" stop="20211120023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211120023400 +0900" stop="20211120023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211120023500 +0900" stop="20211120030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211118230000 +0900" stop="20211119030000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ デビュー25周年 SPECIAL LIVE</title>
 <desc>2014年1月11日、さいたまスーパーアリーナでのエレファントカシマシ デビュー25周年記念 SPECIAL LIVE、全37曲の4時間に及ぶステージを放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211118/7053048/image/948e476c96046bdd9722fc7374e33731.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211119030000 +0900" stop="20211119040000 +0900" channel="FujiNext.jp">
@@ -1621,7 +1623,7 @@ https//otn.fujitv.co.jp
 <title lang="en">鎧美女　77　　歴史と甲冑の“紐を解く”</title>
 <desc>「甲冑石田三成」「美女海里」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211118/7053129/image/4bc7e46ae9d30a090e79b02fe66ce0ad.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211119030000 +0900" stop="20211119040000 +0900" channel="FujiOne.jp">
