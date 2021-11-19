@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211120022900 +0900" stop="20211120032900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">先進国の飽食が、世界中に「飢餓のパンデミック」を拡大させている。現在の食料システムのままでは、人口が１００億に達する２０５０年に待っているのは破滅という悪夢。</desc>
-  </programme>
-  <programme start="20211120032900 +0900" stop="20211120033900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">未来へ17ACTION☆TV</title>
-    <desc lang="en">６０年かけて育てた木が２５００円でしか売れない！疑問をもった青木亮輔さんは、木をまるごと価値ある商品にする活動をしている。新しい発想で森を守るドキュメント。</desc>
-  </programme>
-  <programme start="20211120033900 +0900" stop="20211120035000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">美景・絶景 日本列島再発見</title>
-    <desc lang="en">日本列島を北から南まで５つの異なる自然環境に分け、その姿を極上の映像で伝える番組。シリーズ２は東北編。ブナなど落葉樹の森の四季にわたる魅力を紹介する。</desc>
-  </programme>
   <programme start="20211120035000 +0900" stop="20211120040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">先どり きょうの健康</title>
     <desc lang="en">歯周病は歯を失う原因になるだけでなく、さまざまな病気に影響を及ぼしていることがわかってきた。最新の研究から「アルツハイマー型認知症」との関係についてお伝えする。</desc>
@@ -289,6 +277,26 @@
   <programme start="20211121025200 +0900" stop="20211121034500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ブルガリア・ソフィアを旅する。</desc>
+  </programme>
+  <programme start="20211121034500 +0900" stop="20211121034800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">音紀行</title>
+    <desc lang="en">「潮が唸る海の交差点〜関門海峡」</desc>
+  </programme>
+  <programme start="20211121034800 +0900" stop="20211121035000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">インターミッション</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211121035000 +0900" stop="20211121035500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ピタゴラスイッチ ミニ</title>
+    <desc lang="en">さまざまな法則や不思議な構造、面白い考え方を、多彩なコーナーで紹介。今回は、「まきじゃくのジャック」「めかぬか」「新しい生物」など。</desc>
+  </programme>
+  <programme start="20211121035500 +0900" stop="20211121040000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">名曲アルバム</title>
+    <desc lang="en">【ピアノ】菊池洋子「トルコ行進曲」モーツァルト作曲，（ピアノ）菊池洋子　〜オーストリア・ウィーン〜</desc>
+  </programme>
+  <programme start="20211121040000 +0900" stop="20211121040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「ケチャップチャップ」うた杏沙子／「秋物語」うた尾崎紀世彦</desc>
   </programme>
   <programme start="20211120005000 +0900" stop="20211120053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -692,10 +700,10 @@
     <title lang="en">Hulu傑作シアター</title>
     <desc lang="en">日本初上陸！ブラジルにあるウクライナ人コミュニティーを舞台にした“超自然的”スリラー「アンソウル」を特集▼「ロンドン 追う者たち、追われる者たち」第1話を放送</desc>
   </programme>
-<programme start="20211120024000 +0900" stop="20211120030000 +0900" channel="Asahi.jp">
-  <title lang="en">あるある土佐カンパニー2</title>
-  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
-</programme>
+  <programme start="20211121033100 +0900" stop="20211121052500 +0900" channel="NipponTV.jp">
+    <title lang="en">ラグビー日本代表戦</title>
+    <desc lang="en">19年Ｗ杯で激闘を演じた"因縁のライバル"スコットランドとの再戦。新主将ラブスカフニを中心に姫野・松島・稲垣らが、世界的スター揃う欧州伝統国に挑む（録画中継）</desc>
+  </programme>
 <programme start="20211120030000 +0900" stop="20211120043000 +0900" channel="Asahi.jp">
   <title lang="en">フィギュアグランプリシリーズ2021</title>
   <desc lang="en">氷上サバイバル世界一決定戦！鍵山優真が２戦連続の優勝を懸け、第５戦フランス大会に登場！佐藤駿と共にファイナル進出を狙う！女子は樋口新葉と横井ゆは菜が世界に挑む！</desc>
@@ -866,9 +874,13 @@
   <title lang="en">霜降りバラエティX</title>
   <desc lang="en">ナダルによると、せいやとデビュー当時にした大喧嘩がなければ、もっと尊敬される存在になっていたはずだと語る。本人が当時を完全再現し喧嘩を回避しようとするが</desc>
 </programme>
-<programme start="20211120025500 +0900" stop="20211120030700 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!プラス</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を野村彩也子（TBSアナウンサー)が紹介します。</desc>
+<programme start="20211121032000 +0900" stop="20211121034000 +0900" channel="Asahi.jp">
+  <title lang="en">ももクロちゃんと!</title>
+  <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
+</programme>
+<programme start="20211121034000 +0900" stop="20211121052000 +0900" channel="Asahi.jp">
+  <title lang="en">フィギュアグランプリシリーズ2021</title>
+  <desc lang="en">氷上サバイバル世界一決定戦！鍵山優真は２戦連続の優勝を懸けた勝負のフリー！佐藤駿と共にファイナル進出なるか⁉女子は樋口新葉と横井ゆは菜が強豪ロシア勢に挑む！</desc>
 </programme>
 <programme start="20211120030700 +0900" stop="20211120040000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -1000,22 +1012,9 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211120023000 +0900" stop="20211120030000 +0900" channel="TVTokyo.jp">
-  <title lang="en">流派-R since2001</title>
-  <desc lang="en">▼R-FeatureDa.Me.Records▼VIEWS①竹内唯人▼VIEWS②ONE　in　a　Billion▼MY　CLASSICS　newサイプレス上野　Rei🄫hi</desc>
-</programme>
-<programme start="20211120030000 +0900" stop="20211120031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">嫌な出来事も吹っ飛ばす異世界ファンタジーアニメ！「進化の実〜知らないうちに勝ち組人生〜」をご紹介。今夜も、サリア役とガッスル・クルートを演じる、稲田徹が登場！</desc>
-</programme>
-<programme start="20211120031500 +0900" stop="20211120034500 +0900" channel="TVTokyo.jp">
-  <title lang="en">音流〜ONRYU〜</title>
-  <desc lang="en">▼スタジオゲストは、メリー、平岡優也が登場！▼「酒場サーキット」今回のゲストは、Da-iCE(工藤大輝)後編！</desc>
-</programme>
-<programme start="20211120034500 +0900" stop="20211120035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20211121040000 +0900" stop="20211121050000 +0900" channel="TBS2.jp">
+  <title lang="en">落語研究会</title>
+  <desc lang="en">▽五街道雲助『火事息子』▽桂宮治『上燗屋』</desc>
 </programme>
 <programme start="20211120035000 +0900" stop="20211120040500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1194,9 +1193,13 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
 </programme>
-<programme start="20211120025500 +0900" stop="20211120035500 +0900" channel="FujiTV.jp">
-  <title lang="en">久保みねヒャダ こじらせナイト</title>
-  <desc lang="en">３人が大好きで念願の初登場…藤井隆▽マシュー・名曲ナンダカンダ秘話から最新プロデュース話まで…おでんベスト３でまさかの戦争▽次回ライブ重大発表あります</desc>
+<programme start="20211121030500 +0900" stop="20211121031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+</programme>
+<programme start="20211121031500 +0900" stop="20211121050000 +0900" channel="TVTokyo.jp">
+  <title lang="en">サタ☆シネ</title>
+  <desc lang="en">想定外すぎ！キャメロン・ディアス×アシュトン・カッチャー競演ありえない恋〜不幸の最中誤って結婚?そこに300万ドル!?恋に仕事に頑張る女性に素敵なロマンチックコメディ</desc>
 </programme>
 <programme start="20211120035500 +0900" stop="20211120042500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1326,17 +1329,13 @@
   <desc lang="en">「夜明け・アバランチ誕生秘話！第一部完」
 綾野剛　福士蒼汰　渡部篤郎　木村佳乃</desc>
 </programme>
-<programme start="20211120023500 +0900" stop="20211120030500 +0900" channel="Tokyo MX">
+<programme start="20211121034500 +0900" stop="20211121040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
-<programme start="20211120030500 +0900" stop="20211120033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211120033500 +0900" stop="20211120035000 +0900" channel="Tokyo MX">
-  <title lang="en">ふるさと百景</title>
-  <desc lang="en"> </desc>
+<programme start="20211121040000 +0900" stop="20211121043000 +0900" channel="FujiTV.jp">
+  <title lang="en">ミミヨリ!</title>
+  <desc lang="en">耳より情報をお届けします！</desc>
 </programme>
 <programme start="20211120035000 +0900" stop="20211120040000 +0900" channel="Tokyo MX">
   <title lang="en">路面電車のある風景</title>
@@ -1547,6 +1546,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211121030000 +0900" stop="20211121033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211121033000 +0900" stop="20211121040000 +0900" channel="Tokyo MX">
+  <title lang="en">真夜中のおバカ騒ぎ!</title>
+  <desc lang="en">ダウトは誰だ⁉感謝のお手紙ＳＨＯＷ！（前編）</desc>
+</programme>
+<programme start="20211121040000 +0900" stop="20211121043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
