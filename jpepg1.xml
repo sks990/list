@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211120035000 +0900" stop="20211120040500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">先どり きょうの健康</title>
-    <desc lang="en">歯周病は歯を失う原因になるだけでなく、さまざまな病気に影響を及ぼしていることがわかってきた。最新の研究から「アルツハイマー型認知症」との関係についてお伝えする。</desc>
-  </programme>
-  <programme start="20211120040500 +0900" stop="20211120043000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲(2021年)</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211120043000 +0900" stop="20211120045900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">日本の話芸</title>
-    <desc lang="en">柳家権太楼さんの落語「試し酒」をお送りします（令和３年９月２４日（金）収録）</desc>
-  </programme>
   <programme start="20211120045900 +0900" stop="20211120050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">明日へ1min．「みちのくモノがたり」</title>
     <desc lang="en">東北のモノ作りを伝える「みちのくモノがたり」▽奥会津の自然と共に生きるスーパーマイスター登場▽９５歳の秘技！師匠はマタタビ！？▽悟りの先に見えた長寿の極意とは？</desc>
@@ -297,6 +285,18 @@
   <programme start="20211121040000 +0900" stop="20211121040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">みんなのうた</title>
     <desc lang="en">「ケチャップチャップ」うた杏沙子／「秋物語」うた尾崎紀世彦</desc>
+  </programme>
+  <programme start="20211121040500 +0900" stop="20211121043000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲(2021年)</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211121043000 +0900" stop="20211121050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">はやウタ</title>
+    <desc lang="en">氷川が自宅で育てる〇〇▽冬美が情念の名曲をカバー▽美川が集めているもの▽水森の一人暮らし便利グッズ▽新浜の自慢の一品▽津吹の胸キュンソング▽司会・井上芳雄</desc>
+  </programme>
+  <programme start="20211121050000 +0900" stop="20211121051000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211120005000 +0900" stop="20211120053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -562,9 +562,9 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211120024400 +0900" stop="20211120040900 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">ポシュレ名物ボイルズワイガニ、リモートワーク対策にストレッチアイテム、若見えフェイス目指すアイテム、ポシュレ人気マットレス、バッグ、大珠真珠などお得情報満載で！</desc>
+  <programme start="20211121050000 +0900" stop="20211121060000 +0900" channel="eTele.jp">
+    <title lang="en">こころの時代〜宗教・人生〜</title>
+    <desc lang="en">「一切は空である」で始まる「コヘレトの言葉」は、聖書の中にありながら、一見虚無的な印象を与える。この謎の書が現代に伝えるメッセージを読み解くシリーズの二回目。</desc>
   </programme>
   <programme start="20211120040900 +0900" stop="20211120050900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
@@ -704,14 +704,6 @@
     <title lang="en">ラグビー日本代表戦</title>
     <desc lang="en">19年Ｗ杯で激闘を演じた"因縁のライバル"スコットランドとの再戦。新主将ラブスカフニを中心に姫野・松島・稲垣らが、世界的スター揃う欧州伝統国に挑む（録画中継）</desc>
   </programme>
-<programme start="20211120030000 +0900" stop="20211120043000 +0900" channel="Asahi.jp">
-  <title lang="en">フィギュアグランプリシリーズ2021</title>
-  <desc lang="en">氷上サバイバル世界一決定戦！鍵山優真が２戦連続の優勝を懸け、第５戦フランス大会に登場！佐藤駿と共にファイナル進出を狙う！女子は樋口新葉と横井ゆは菜が世界に挑む！</desc>
-</programme>
-<programme start="20211120043000 +0900" stop="20211120045500 +0900" channel="Asahi.jp">
-  <title lang="en">渡辺篤史の建もの探訪</title>
-  <desc lang="en">「“使う庭”“見る庭”２つの庭のある家」東京都八王子市・コチョール邸</desc>
-</programme>
 <programme start="20211120045500 +0900" stop="20211120052000 +0900" channel="Asahi.jp">
   <title lang="en">おかずのクッキング</title>
   <desc lang="en">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
@@ -882,18 +874,6 @@
   <title lang="en">フィギュアグランプリシリーズ2021</title>
   <desc lang="en">氷上サバイバル世界一決定戦！鍵山優真は２戦連続の優勝を懸けた勝負のフリー！佐藤駿と共にファイナル進出なるか⁉女子は樋口新葉と横井ゆは菜が強豪ロシア勢に挑む！</desc>
 </programme>
-<programme start="20211120030700 +0900" stop="20211120040000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
-</programme>
-<programme start="20211120040000 +0900" stop="20211120041500 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
-</programme>
-<programme start="20211120041500 +0900" stop="20211120044500 +0900" channel="TBS2.jp">
-  <title lang="en">開運音楽堂</title>
-  <desc lang="en">ミスマガジン2021読者特別賞・辻 優衣 開運スタジオ初登場!!▽「歩きイヤフォン」で気をつけるコト▽目がヤバかったロケ▽演歌のビデオに水着で出演はアリですか？</desc>
-</programme>
 <programme start="20211120044500 +0900" stop="20211120051500 +0900" channel="TBS2.jp">
   <title lang="en"></title>
   <desc lang="en">通販番組（ＴＶショッピング）
@@ -1016,14 +996,9 @@
   <title lang="en">落語研究会</title>
   <desc lang="en">▽五街道雲助『火事息子』▽桂宮治『上燗屋』</desc>
 </programme>
-<programme start="20211120035000 +0900" stop="20211120040500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">あなたの生活をより楽しく！より快適に！
-ワクワクする商品を厳選して紹介するショッピング番組。</desc>
-</programme>
-<programme start="20211120040500 +0900" stop="20211120040800 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211121050000 +0900" stop="20211121053000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211120040800 +0900" stop="20211120053000 +0900" channel="TVTokyo.jp">
   <title lang="en">ものスタ サタデー</title>
@@ -1201,17 +1176,12 @@
   <title lang="en">サタ☆シネ</title>
   <desc lang="en">想定外すぎ！キャメロン・ディアス×アシュトン・カッチャー競演ありえない恋〜不幸の最中誤って結婚?そこに300万ドル!?恋に仕事に頑張る女性に素敵なロマンチックコメディ</desc>
 </programme>
-<programme start="20211120035500 +0900" stop="20211120042500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211120042500 +0900" stop="20211120045000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211120045000 +0900" stop="20211120045200 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+<programme start="20211121050000 +0900" stop="20211121052000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ サンデー</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20211120045200 +0900" stop="20211120052200 +0900" channel="FujiTV.jp">
   <title lang="en">テレビ寺子屋</title>
@@ -1337,13 +1307,13 @@
   <title lang="en">ミミヨリ!</title>
   <desc lang="en">耳より情報をお届けします！</desc>
 </programme>
-<programme start="20211120035000 +0900" stop="20211120040000 +0900" channel="Tokyo MX">
-  <title lang="en">路面電車のある風景</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211120040000 +0900" stop="20211120043000 +0900" channel="Tokyo MX">
+<programme start="20211121043000 +0900" stop="20211121045000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211121045000 +0900" stop="20211121050500 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
 <programme start="20211120043000 +0900" stop="20211120050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1557,6 +1527,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211121043000 +0900" stop="20211121050000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211121050000 +0900" stop="20211121053000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211119225000 +0900" stop="20211120001000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第20戦カタールGP 金曜フリー走行2</title>
 <desc>＜開催＞2021年11月19日（金）【生中継】
@@ -1746,7 +1724,7 @@ https//otn.fujitv.co.jp
 <desc>秋の夜長もお部屋でゲーム三昧！薄着の女子たちによる新世代ゲーム生実況番組!!!
 ＜出演＞RaMu　片岡沙耶　松嶋えいみ　南沙羽　来栖うさこ
 【生放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211119/7053156/image/bacac85419b1d1c6dd900111c15e954f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211120050000 +0900" stop="20211120053000 +0900" channel="FujiOne.jp">
