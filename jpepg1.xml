@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211121193000 +0900" stop="20211121200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">車のエンジンルーム内でカキが見つかるという奇妙な事件が日本各地で発生！犯人は一体何者なのか？１年以上に及ぶ捜査の結果、ついに犯行の一部始終をとらえることに成功！</desc>
-  </programme>
-  <programme start="20211121200000 +0900" stop="20211121204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">経済戦争、勃発！岩崎弥太郎に対抗するため、栄一は新たな会社を設立する。そして、長女・うたが結婚。幸せな空気に包まれる渋沢家だったが、突然、千代が病に倒れる…</desc>
-  </programme>
-  <programme start="20211121204500 +0900" stop="20211121205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211121205500 +0900" stop="20211121210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -302,13 +290,17 @@
     <title lang="en">鶴瓶の家族に乾杯</title>
     <desc lang="en">ゲストはウエンツ瑛士旅する予定だった長野県でこれまでさまざまなゲストが遭遇したハプニングやミラクルな展開を一挙公開ウエンツがかつて出会った馬術部の生徒の今も紹介</desc>
   </programme>
-  <programme start="20211121195500 +0900" stop="20211121200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20211122204200 +0900" stop="20211122204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211121200000 +0900" stop="20211121204500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">ルーブル美術館の５００年を８Ｋ映像で辿るシリーズ。今回はフランス革命とナポレオンの時代。英雄はルーブルを世界最大の美術館へ変貌させていく。しかし、その先には―。</desc>
+  <programme start="20211122204500 +0900" stop="20211122210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211122210000 +0900" stop="20211122220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽立憲民主党代表戦の行方・党勢回復の道筋は？▽軽石伊豆諸島に接近・漂着から１か月沖縄・奄美の現状は…▽コロナ禍で変わる？きょうはいい夫婦の日▽卓球・伊藤美誠リポ</desc>
   </programme>
   <programme start="20211121204500 +0900" stop="20211121210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -622,9 +614,17 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">密着！筑波山のふもとで活動するアーティストたち▼「農業×芸術」のあがるアート▼１６万円の絵画▼海外からも注目される舞踊とは▼豊穣（じょう）と収穫への感謝　田楽舞</desc>
   </programme>
-  <programme start="20211121195800 +0900" stop="20211121205400 +0900" channel="NipponTV.jp">
-    <title lang="en">世界の果てまでイッテQ!</title>
-    <desc lang="en">宮川お祭り道中に最強助っ人！柔道金メダリスト…ウルフ・アロン緊急参戦！４００ｋｇ巨大牧草ロールを転がせ▼みやぞん腹話術に挑戦！天才いっこく堂に弟子入り…</desc>
+  <programme start="20211122203000 +0900" stop="20211122204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">歯周病は歯を失う原因になるだけでなく、さまざまな病気に影響を及ぼしていることがわかってきた。最新の研究から「アルツハイマー型認知症」との関係についてお伝えする。</desc>
+  </programme>
+  <programme start="20211122204500 +0900" stop="20211122210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211122210000 +0900" stop="20211122212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">１１月２２日は「いい夫婦の日」！ということで、今回は夫婦の料理研究家ユニット「ぐっち夫婦」が初登場！家飲みにぴったり、パパっとつくれる簡単おつまみを紹介します！</desc>
   </programme>
   <programme start="20211121205400 +0900" stop="20211121210000 +0900" channel="NipponTV.jp">
     <title lang="en">音のソノリティ</title>
@@ -718,10 +718,10 @@
     <title lang="en">世界まる見え!テレビ特捜部</title>
     <desc lang="en">無名だったモナリザを有名にした盗難事件！ピカソが逮捕された？▼たまたま裁判官と悪党が中学の同級生！３５年ぶり再会で号泣ザンゲ▼八乙女光も爆笑ブラジル過激ドッキリ</desc>
   </programme>
-<programme start="20211121195800 +0900" stop="20211121205600 +0900" channel="Asahi.jp">
-  <title lang="en">ポツンと一軒家</title>
-  <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
-</programme>
+  <programme start="20211122210000 +0900" stop="20211122225400 +0900" channel="NipponTV.jp">
+    <title lang="en">人生が変わる1分間の深イイ話/しゃべくり007</title>
+    <desc lang="en">新幹線の裏側に大潜入！ママさん運転士と27歳女性整備士に密着▽中村獅童＆チビ獅童トーク番組初共演‼朝ドラ＆大河で話題‼菅原小春と実姉登場</desc>
+  </programme>
 <programme start="20211121205600 +0900" stop="20211121210000 +0900" channel="Asahi.jp">
   <title lang="en">食ノ音色</title>
   <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
@@ -836,10 +836,6 @@
   <desc lang="en">①サンドの秘境バス旅・バスサンド！千葉№１紅葉・養老渓谷＆房総奥座敷・紅葉秘湯！
 ②ローカルチェーン店で１位メニューを当てろ！県民大熱狂！群馬メシで帰れま10旅！</desc>
 </programme>
-<programme start="20211121190000 +0900" stop="20211121205400 +0900" channel="TBS2.jp">
-  <title lang="en">坂上指原のつぶれない店</title>
-  <desc lang="en">🈑国道１号線沿いを東京から完全走破！その地域だけで見る謎の大人気チェーンが続々登場！ぐるめ亭？元祖ニュータンタンメン本舗？ブロンコビリー？？MEGAドンキの秘密</desc>
-</programme>
 <programme start="20211121205400 +0900" stop="20211121210000 +0900" channel="TBS2.jp">
   <title lang="en">フラッシュニュース</title>
   <desc lang="en">最新のニュースをお伝えします。</desc>
@@ -929,68 +925,72 @@
   <title lang="en">アイアム冒険少年</title>
   <desc lang="en">🈑今宵開幕！アスレチック島！！四千頭身＆宮下草薙の５人が森の中で崖登り…竹林ダッシュ…冒険少年オリジナルの難関に挑戦！！目標タイムをクリアし制覇できる！？</desc>
 </programme>
-<programme start="20211121180000 +0900" stop="20211121210000 +0900" channel="TVTokyo.jp">
+<programme start="20211122210000 +0900" stop="20211122220000 +0900" channel="TBS2.jp">
+  <title lang="en">CDTVライブ!ライブ!</title>
+  <desc lang="en">豪華出演者の激アツライブ！Bank Band櫻井和寿×MISIA・LiSA・NiziU・Hey！Say!JUMP・AI・Little Glee Monster…</desc>
+</programme>
+<programme start="20211121180000 +0900" stop="20211121211000 +0900" channel="TVTokyo.jp">
   <title lang="en">プロ野球 SMBC日本シリーズ2021</title>
   <desc lang="en">第二戦勝利チームのⅤ確率約６３％！シリーズの行方左右する第２Ｒ、サヨナラ劇的勝利のオリックスと逆襲誓うヤクルト、今宵は
 宮城＆高橋球界屈指の左腕対決予定！</desc>
 </programme>
-<programme start="20211121210000 +0900" stop="20211121215400 +0900" channel="TVTokyo.jp">
+<programme start="20211121211000 +0900" stop="20211121220400 +0900" channel="TVTokyo.jp">
   <title lang="en">〜夢のオーディションバラエティー〜 Dreamer Z</title>
   <desc lang="en">MC木梨憲武　総合プロデューサーEXILE　HIRO夢のオーディション番組が遂にスタート！！テレビ東京が“Z世代”に夢と希望を与え…そして未来のスターを発掘する！！</desc>
 </programme>
-<programme start="20211121215400 +0900" stop="20211121224800 +0900" channel="TVTokyo.jp">
+<programme start="20211121220400 +0900" stop="20211121225800 +0900" channel="TVTokyo.jp">
   <title lang="en">有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?</title>
   <desc lang="en">横須賀eスポーツ高校生から挑戦状！“芸能人11人VS高校生11人”大人の底力か、高校生の意地か、負けられない戦い▽有吉「…強そうで震えてます」▽日向坂46影山が大活躍</desc>
 </programme>
-<programme start="20211121224800 +0900" stop="20211121225400 +0900" channel="TVTokyo.jp">
+<programme start="20211121225800 +0900" stop="20211121230400 +0900" channel="TVTokyo.jp">
   <title lang="en">eSports high TV</title>
   <desc lang="en">毎週ｅスポーツイベントや最新ゲームなど旬な情報を届ける。ＭＣは中垣正太郎アナと原田修佑アナ。そしてAI-Vtuberのタミ子。</desc>
 </programme>
-<programme start="20211121225400 +0900" stop="20211121233000 +0900" channel="TVTokyo.jp">
+<programme start="20211121230400 +0900" stop="20211121234000 +0900" channel="TVTokyo.jp">
   <title lang="en">追跡 LIVE! SPORTS ウォッチャー</title>
   <desc lang="en">▽速報！日本Ｓ第２戦オリックスｘヤクルト
 ▽卓球打倒中国への秘策とは
 ▽フィギュア鍵山優真＆１３歳新星島田麻央
 ▽女子ゴルフ＆大相撲(他)</desc>
 </programme>
-<programme start="20211121233000 +0900" stop="20211122000000 +0900" channel="TVTokyo.jp">
+<programme start="20211121234000 +0900" stop="20211122001000 +0900" channel="TVTokyo.jp">
   <title lang="en">SUPER GT</title>
   <desc lang="en">進化した新型スバルＢＲＺを旧型と比較し試乗！そしてＧＴ３００のチャンピオン争いでトップを行くのもスバルＢＲＺ！第７戦でシリーズ王座に輝いたのか!?果たして結果は？</desc>
 </programme>
-<programme start="20211122000000 +0900" stop="20211122003000 +0900" channel="TVTokyo.jp">
+<programme start="20211122001000 +0900" stop="20211122004000 +0900" channel="TVTokyo.jp">
   <title lang="en">乃木坂工事中</title>
   <desc lang="en">今週の乃木坂工事中は「見つけるまで卒業できません！高山手作りかくれんぼ」後半戦</desc>
 </programme>
-<programme start="20211122003000 +0900" stop="20211122003500 +0900" channel="TVTokyo.jp">
+<programme start="20211122004000 +0900" stop="20211122004500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en">西島秀俊・内野聖陽Ｗ主演の映画「きのう何食べた？」の見どころを紹介します。</desc>
 </programme>
-<programme start="20211122003500 +0900" stop="20211122010500 +0900" channel="TVTokyo.jp">
+<programme start="20211122004500 +0900" stop="20211122011500 +0900" channel="TVTokyo.jp">
   <title lang="en">そこ曲がったら、櫻坂?</title>
   <desc lang="en">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
 見逃せないパフォーマンスが続々と登場します。</desc>
 </programme>
-<programme start="20211122010500 +0900" stop="20211122013500 +0900" channel="TVTokyo.jp">
+<programme start="20211122011500 +0900" stop="20211122014500 +0900" channel="TVTokyo.jp">
   <title lang="en">日向坂で会いましょう</title>
   <desc lang="en">日向坂４６が、みんなを笑顔に変えるハッピー全開のバラエティ番組！様々なことに挑戦し、苦難を乗り越えトップアイドルへと成長していく姿を追いかけます!!</desc>
 </programme>
-<programme start="20211122013500 +0900" stop="20211122020500 +0900" channel="TVTokyo.jp">
+<programme start="20211122014500 +0900" stop="20211122021500 +0900" channel="TVTokyo.jp">
   <title lang="en">月とライカと吸血姫</title>
   <desc lang="en">人類史上初の宇宙飛行士は、吸血鬼の少女だったー宇宙飛行士候補生のレフは、有人飛行の実験体として吸血鬼を飛ばす計画で、吸血鬼の少女イリナの監視と訓練を命じられる。</desc>
 </programme>
-<programme start="20211122020500 +0900" stop="20211122023500 +0900" channel="TVTokyo.jp">
+<programme start="20211122021500 +0900" stop="20211122024500 +0900" channel="TVTokyo.jp">
   <title lang="en">Mixalive presents 田村淳が豊島区池袋</title>
   <desc lang="en">田村淳×Mixalive×池袋。最新スポットMixaliveにビジネス、カルチャーの最先端の方々が集結。田村淳とともに、池袋発の最新ムーブメントを生み出す！</desc>
 </programme>
-<programme start="20211122023500 +0900" stop="20211122030500 +0900" channel="TVTokyo.jp">
+<programme start="20211122024500 +0900" stop="20211122031500 +0900" channel="TVTokyo.jp">
   <title lang="en">一夜づけ</title>
   <desc lang="en">好評放送中のドラマ！「つまり好きって言いたいんだけど、」の放送を記念した特別企画を開催！一夜づけメンバーが“冴島千歳”になりきって嘘つき芸人を見破ります！！</desc>
 </programme>
-<programme start="20211122030500 +0900" stop="20211122031000 +0900" channel="TVTokyo.jp">
+<programme start="20211122031500 +0900" stop="20211122032000 +0900" channel="TVTokyo.jp">
   <title lang="en">闇芝居</title>
   <desc lang="en">第七闇「一寸法師」</desc>
 </programme>
-<programme start="20211122031000 +0900" stop="20211122051000 +0900" channel="TVTokyo.jp">
+<programme start="20211122032000 +0900" stop="20211122051000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1174,6 +1174,10 @@
   <title lang="en">痛快TV スカッとジャパン</title>
   <desc lang="en">独自取材…航空会社がピンチから脱出！大逆転実話ＳＰ▽松本幸四郎も驚いた！ジェットスターの神対応！その時機長＆ＣＡがとった行動は！？▽郷ひろみドラマ登場</desc>
 </programme>
+<programme start="20211122210000 +0900" stop="20211122215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
+  <desc lang="en">ラジハを訪れる、白髪に悩む女子高生！彼女の身体を蝕む過激なダイエット、その理由には叶えたい夢が…！説得を試みるラジハメンバー！しかし検査中、彼女が逃走して…！</desc>
+</programme>
 <programme start="20211121190000 +0900" stop="20211121210000 +0900" channel="Tokyo MX">
   <title lang="en">〜立川談志没後10年〜復活!言いたい放だい2021</title>
   <desc lang="en">志らく＆伯山が語る“談志イズム”▼談志の放送ギリギリ発言集▼若き志らくの秘蔵映像▼伯山の思う談志の講釈▼炎上スレスレ⁉二人が言いたい放題！▼ゲスト・野末陳平</desc>
@@ -1354,6 +1358,10 @@
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">小池知事が“本格復帰”…体調不安説の背景には？▼都内の島に軽石は？現地の人からは…▼町田市のいじめ問題調査委員会が初会合▼今週天気は？敷波さんのポイント解説</desc>
 </programme>
+<programme start="20211122210000 +0900" stop="20211122215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">杉村太蔵×安藤優子　毎週月曜は「ビジネス・マネー」をテーマにお届け。【DANDY Salon】ダンディな大人が知るべき話題をトーク＆【DANDY Academy】海来ちゃんが企業潜入！</desc>
+</programme>
 <programme start="20211120225000 +0900" stop="20211121030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第20戦カタールGP 予選</title>
 <desc>＜開催＞2021年11月20日（土）【生中継】
@@ -1477,7 +1485,7 @@
 <title lang="en">SKY EYE 〜空からのメッセージ〜　38「和歌山編」</title>
 <desc>日本各地の魅力をこれまでにない空からの視点でご紹介する、ANA機内で上映されているオリジナル番組を放送。
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211121/7053100/image/36695cb062f76ee1c2b3ce09d028f6db.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211121210000 +0900" stop="20211121213000 +0900" channel="FujiNext.jp">
@@ -2047,7 +2055,7 @@ https//otn.fujitv.co.jp
 <programme start="20211121194500 +0900" stop="20211121210000 +0900" channel="kbsworld.jp">
 <title lang="en">契約友情　2　[字][再]</title>
 <desc>KBS World初放送！キム・ソヘ主演！詩で人生が変わった平凡な高校生×彼女の死の真相を探るケンカが強い男子学生×学校一の美女が繰り広げる青春サスペンス！2020年　全4話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211121/7041169/image/a4194afc3e5f4a414c489bf88e459cb4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211121210000 +0900" stop="20211121214000 +0900" channel="kbsworld.jp">
