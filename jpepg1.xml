@@ -58,30 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211122005400 +0900" stop="20211122040500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211122040500 +0900" stop="20211122043200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲(2021年)</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211122043200 +0900" stop="20211122043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SDGsのうた</title>
-    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
-  </programme>
-  <programme start="20211122043500 +0900" stop="20211122044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ケチャップチャップ」うた杏沙子／「秋物語」うた尾崎紀世彦</desc>
-  </programme>
-  <programme start="20211122044000 +0900" stop="20211122044500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">キャラとおたまじゃくし島</title>
-    <desc lang="en">まっすぐで愛にあふれた少女戦士キャラが、不思議なガッキアニマルたちと出会い心を通わせる中で、音楽を奪われた島の謎を次々と解き明かす冒険ファンタジー第５話</desc>
-  </programme>
-  <programme start="20211122044500 +0900" stop="20211122045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
-    <desc lang="en">日本の様々（さまざま）なもののデザインを世界に伝える「ＤＥＳＩＧＮ　ＴＡＬＫＳ　ｐｌｕｓ」より、“不便なデザインの意外なメリット”をテーマにした回を取り上げる。</desc>
-  </programme>
   <programme start="20211122045000 +0900" stop="20211122050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">個人消費の落ち込みや原油高、半導体の調達難などが続く中、岸田内閣が１９日、経済対策をまとめる。内閣が掲げる成長と分配の好循環を実現するために何が必要か考える。</desc>
@@ -297,6 +273,30 @@
   <programme start="20211123035800 +0900" stop="20211123040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで制作した番組の美しい映像を使って、世界でも人気の高いベルゲン急行沿いに旅をする</desc>
+  </programme>
+  <programme start="20211123040500 +0900" stop="20211123043200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲(2021年)</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211123043200 +0900" stop="20211123043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">今年もやります年末スペシャル２０２１。この１年の放送作品から１０本を一挙アンコール放送。ラインナップはみなさんの投票で決まります。投票は番組ＨＰで１２／１まで。</desc>
+  </programme>
+  <programme start="20211123043500 +0900" stop="20211123044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「大きなうた」うた松崎しげる、東京放送児童合唱団／「ふたごのオオカミ大冒険」うたルディ・マスヤーニ、劇団若草</desc>
+  </programme>
+  <programme start="20211123044000 +0900" stop="20211123045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「渋沢栄一が目指した福祉」宮武剛（日本リハビリテーション学舎理事長）</desc>
+  </programme>
+  <programme start="20211123045000 +0900" stop="20211123050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">大リーグ、エンジェルスの二刀流、大谷翔平選手が今シーズンのＭＶＰ・最優秀選手に選ばれました。常識を超えた二刀流の活躍が残したものは何かを考えます。</desc>
+  </programme>
+  <programme start="20211123050000 +0900" stop="20211123051000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211122014400 +0900" stop="20211122053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,10 +654,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211122034500 +0900" stop="20211122043000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">今回のポシュレは「ヤマダデンキ」リフォームSP　トイレ、キッチン、お風呂など水廻りリフォームをご紹介！他にも金沢老舗の乙丸屋布団、停電対応に大型バッテリーも！</desc>
-  </programme>
   <programme start="20211122043000 +0900" stop="20211122055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽２人死亡火災は放火の疑い▽本州に迫る？軽石に警戒▽“乗客に火をつけよう”で再逮捕へ</desc>
@@ -738,14 +734,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">今回のポシュレは「ヤマダデンキ」リフォームSP　トイレ、キッチン、お風呂など水廻りリフォームをご紹介！他にも金沢老舗の乙丸屋布団、停電対応に大型バッテリーも！</desc>
   </programme>
-<programme start="20211122035500 +0900" stop="20211122040000 +0900" channel="Asahi.jp">
-  <title lang="en">おはようゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？</desc>
-</programme>
-<programme start="20211122040000 +0900" stop="20211122045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍X</title>
-  <desc lang="en">「怪盗紅あざみ参上！御金蔵破りを手伝った吉宗」松平健(他)▽江戸の町に“紅あざみ”と名乗る怪盗一味が出没。大店ばかりを狙い、しかも誰も傷つけずに盗みを働くというが…</desc>
-</programme>
+  <programme start="20211123043000 +0900" stop="20211123055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211122045500 +0900" stop="20211122080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">姿消した中国女子テニス選手“動画”次々公開…北京五輪にも影響か▽１ヵ月ぶり小池都知事“無免許”都議に苦言▽茨城が自転車で“汚名返上”▽吉田栄作＆内山理名結婚報告</desc>
@@ -871,9 +863,9 @@ by.Napoli Mandolin Orchestra</desc>
   <title lang="en">暴れん坊将軍X</title>
   <desc lang="en">「禁じられた恋文！罪深き女の一途な愛」松平健(他)▽大岡忠相から、姪の千奈津に差出人のない付け文が届き、千奈津は気味悪がっているという話を聞いた吉宗は…</desc>
 </programme>
-<programme start="20211122034500 +0900" stop="20211122043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211123045500 +0900" stop="20211123080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211122043000 +0900" stop="20211122052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -965,7 +957,12 @@ by.Napoli Mandolin Orchestra</desc>
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211122040000 +0900" stop="20211122051000 +0900" channel="TVTokyo.jp">
+<programme start="20211123043000 +0900" stop="20211123052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
+</programme>
+<programme start="20211122050000 +0900" stop="20211122051000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1118,13 +1115,9 @@ by.Napoli Mandolin Orchestra</desc>
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
   <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
 </programme>
-<programme start="20211122035500 +0900" stop="20211122040000 +0900" channel="FujiTV.jp">
+<programme start="20211123040500 +0900" stop="20211123050000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
-</programme>
-<programme start="20211122040000 +0900" stop="20211122045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20211122045500 +0900" stop="20211122052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1227,9 +1220,9 @@ by.Napoli Mandolin Orchestra</desc>
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20211122040000 +0900" stop="20211122050000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211123045500 +0900" stop="20211123052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211122050000 +0900" stop="20211122051500 +0900" channel="Tokyo MX">
   <title lang="en">感動地球紀行 世界遺産ものがたり</title>
@@ -1427,6 +1420,18 @@ by.Napoli Mandolin Orchestra</desc>
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211123043000 +0900" stop="20211123043500 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211123043500 +0900" stop="20211123050000 +0900" channel="Tokyo MX">
+  <title lang="en">洋上の楽園クルーズ</title>
+  <desc lang="en">「大自然と伝統文化に触れる　ノルウェー北極圏クルーズ」</desc>
+</programme>
+<programme start="20211123050000 +0900" stop="20211123053000 +0900" channel="Tokyo MX">
+  <title lang="en">ロンブー亮の釣りならまかせろ!</title>
+  <desc lang="en">釣り堀ならまかせろ！釣り入門にもってこい！お気軽お手軽なコイ釣り体験</desc>
+</programme>
 <programme start="20211121222000 +0900" stop="20211122040000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第20戦カタールGP 決勝</title>
 <desc>＜開催＞2021年11月21日（日）【生中継】
@@ -1606,7 +1611,7 @@ https//otn.fujitv.co.jp
 ＜MC＞バカリズム
 ＜ゲスト＞宮越愛恵
 ※第2音声ゲーム音のみ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211121/7053205/image/ba019d3f940ebdb5b7f474538780c3a7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211122050000 +0900" stop="20211122053000 +0900" channel="FujiOne.jp">
