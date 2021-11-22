@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211123025800 +0900" stop="20211123035800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
-  </programme>
   <programme start="20211123035800 +0900" stop="20211123040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで制作した番組の美しい映像を使って、世界でも人気の高いベルゲン急行沿いに旅をする</desc>
@@ -317,6 +313,10 @@
   <programme start="20211124023400 +0900" stop="20211124033400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
+  </programme>
+  <programme start="20211124033400 +0900" stop="20211124040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北アルプス 美の点描</title>
+    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
   </programme>
   <programme start="20211123002500 +0900" stop="20211123053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -650,14 +650,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211123015900 +0900" stop="20211123034400 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です</title>
-    <desc lang="en">劇場版12月10日公開!!映画で描かれるパラレルワールドを観る前に、「あな番」総復習！菜奈ちゃんを殺された翔太の反撃！あのキャラの大暴走や衝撃シーンをおさらい！</desc>
-  </programme>
-  <programme start="20211123034400 +0900" stop="20211123034500 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211123034500 +0900" stop="20211123043000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">今回のポシュレは「ヤマダデンキ」リフォームSP　トイレ、キッチン、お風呂など水廻りリフォームをご紹介！他にも金沢老舗の乙丸屋布団、停電対応に大型バッテリーも！</desc>
@@ -750,20 +742,10 @@
     <title lang="en">サッカー★アース</title>
     <desc lang="en">『日本代表アジア最終予選！勝負の2連戦＆南米サッカーＳＰ』</desc>
   </programme>
-<programme start="20211123024100 +0900" stop="20211123030100 +0900" channel="Asahi.jp">
-  <title lang="en">もう中学生のおグッズ!</title>
-  <desc lang="en">有効成分120％！もう中ワールドへようこそ◎
-趣味は“タレントグッズ集め”のもう中学生が「売れる公式もう中グッズ」の制作＆発売を目指して猛研究するよ〜◎</desc>
-</programme>
-<programme start="20211123030100 +0900" stop="20211123030500 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211123030500 +0900" stop="20211123033100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211124033500 +0900" stop="20211124042000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">今回のポシュレは「ヤマダデンキ」リフォームSP　トイレ、キッチン、お風呂など水廻りリフォームをご紹介！他にも金沢老舗の乙丸屋布団、停電対応に大型バッテリーも！</desc>
+  </programme>
 <programme start="20211123033100 +0900" stop="20211123040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -878,14 +860,22 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">〜凪咲と芸人〜マッチング</title>
   <desc lang="en">ＮＭＢ48渋谷凪咲がゲストとの相性を探っていくマッチングバラエティ！今夜はゲストに“三四郎・相田周二”が登場！</desc>
 </programme>
-<programme start="20211123013700 +0900" stop="20211123034000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211124030100 +0900" stop="20211124030500 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
 </programme>
-<programme start="20211123034000 +0900" stop="20211123034500 +0900" channel="TBS2.jp">
+<programme start="20211124030500 +0900" stop="20211124033100 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">東京五輪代表が集結⚟女子駅伝日本一決定戦‼JP日本郵船グループ・鈴木×廣中の代表コンビ＆10000m代表・積水化学・新谷が悲願の日本一へ！襷へ込めた熱い想い‼</desc>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
+</programme>
+<programme start="20211124033100 +0900" stop="20211124040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211124040000 +0900" stop="20211124045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍X</title>
+  <desc lang="en">「隠し子発覚！陰謀に巻き込まれた女スリ」松平健(他)▽山猫お京という女スリが、忠相の懐を狙って捕らえられた。捕まったのはこれが三度目で、重ければ遠島は免れないが…</desc>
 </programme>
 <programme start="20211123034500 +0900" stop="20211123043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -976,14 +966,13 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211123025000 +0900" stop="20211123032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】モーニング娘。’21、Age　Factory、ZIPANG　OPERA
-【ナビゲーター】南海キャンディーズ</desc>
+<programme start="20211124034000 +0900" stop="20211124034500 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">女子駅伝日本一決定戦‼東京五輪マラソン代表⚟一山麻緒／憧れの先輩を追いかけて悲願の日本一へ‼初出場⚟岩谷産業・飯田怜／3年前の予選会で突然の悲劇</desc>
 </programme>
-<programme start="20211123032000 +0900" stop="20211123035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あにレコTV</title>
-  <desc lang="en">ライブ・スペクタクル「NARUTO－ナルト－」特集！中尾暢樹が登場！▽放送２００回記念「井上・加恋の会いたい声優」企画！日髙のり子がスタジオに！▽梶原岳人も登場！？</desc>
+<programme start="20211124034500 +0900" stop="20211124043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211123035000 +0900" stop="20211123040500 +0900" channel="TVTokyo.jp">
   <title lang="en">家、ついて行ってイイですか?(明け方)</title>
@@ -1120,10 +1109,6 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">世界卓球2021</title>
   <desc lang="en">きょう開幕した「世界卓球2021」。舞台は、アメリカ・ヒューストン！新生ニッポン、世界一への新たな「１歩」は、ここヒューストンからー熱戦を生中継でお伝えします！</desc>
 </programme>
-<programme start="20211123024500 +0900" stop="20211123034500 +0900" channel="FujiTV.jp">
-  <title lang="en">他人は地獄だ</title>
-  <desc lang="en">韓国で大ヒットＷＥＢ漫画を実写化！地方から上京してきた純朴な青年が不安と緊張に追いつめられ、徐々に自分を見失っていく衝撃のミステリー・スリラー。</desc>
-</programme>
 <programme start="20211123034500 +0900" stop="20211123040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
   <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
@@ -1216,13 +1201,13 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">FNSドキュメンタリー大賞</title>
   <desc lang="en">島の水・島の空・島の海―このままでいいの？子どもたちに手渡す沖縄。ママたちの命を守る闘いの記録。</desc>
 </programme>
-<programme start="20211123023500 +0900" stop="20211123030500 +0900" channel="Tokyo MX">
-  <title lang="en">テリー土屋のくるまの話</title>
-  <desc lang="en">テリー伊藤＆レジェンドレーサー・土屋圭市▼車を愛する２人が自動車関連企業の社長を招き業界の裏側を掘り下げるトーク番組！</desc>
-</programme>
-<programme start="20211123030500 +0900" stop="20211123033500 +0900" channel="Tokyo MX">
+<programme start="20211124035000 +0900" stop="20211124040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211124040000 +0900" stop="20211124045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211123033500 +0900" stop="20211123040000 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1423,6 +1408,18 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
 <programme start="20211124023500 +0900" stop="20211124030500 +0900" channel="Tokyo MX">
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211124030500 +0900" stop="20211124033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211124033500 +0900" stop="20211124040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20211124040000 +0900" stop="20211124043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
 <programme start="20211122211000 +0900" stop="20211123005000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第20戦カタールGP 決勝</title>
