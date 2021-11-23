@@ -58,26 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211124033400 +0900" stop="20211124040500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北アルプス 美の点描</title>
-    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
-  </programme>
-  <programme start="20211124040500 +0900" stop="20211124043200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲(2021年)</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211124043200 +0900" stop="20211124043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SDGsのうた</title>
-    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
-  </programme>
-  <programme start="20211124043500 +0900" stop="20211124044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ケチャップチャップ」うた杏沙子／「秋物語」うた尾崎紀世彦</desc>
-  </programme>
-  <programme start="20211124044000 +0900" stop="20211124045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「コロナ禍の雇用不安への対策」山田久（日本総合研究所副理事長）</desc>
-  </programme>
   <programme start="20211124045000 +0900" stop="20211124050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">日本は、もう何十年間も平均賃金がほとんど上がっていません。いかに日本の賃金が低いのか、その現状を解説します。</desc>
@@ -309,6 +289,30 @@
   <programme start="20211125035600 +0900" stop="20211125040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">魂のタキ火</title>
     <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
+  </programme>
+  <programme start="20211125040500 +0900" stop="20211125043200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲(2021年)</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211125043200 +0900" stop="20211125043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">SDGsのうた</title>
+    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+  </programme>
+  <programme start="20211125043500 +0900" stop="20211125044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「大きなうた」うた松崎しげる、東京放送児童合唱団／「ふたごのオオカミ大冒険」うたルディ・マスヤーニ、劇団若草</desc>
+  </programme>
+  <programme start="20211125044000 +0900" stop="20211125045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「コロナ禍の生活困窮への支援」岡部卓（明治大学専任教授）</desc>
+  </programme>
+  <programme start="20211125045000 +0900" stop="20211125050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">アフリカのエチオピアでは、政府軍と反政府勢力の紛争が勃発し、建国以来最大の危機に瀕（ひん）しています。なぜエチオピア情勢を世界が懸念するのか考えます。</desc>
+  </programme>
+  <programme start="20211125050000 +0900" stop="20211125060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20211124020000 +0900" stop="20211124053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,18 +650,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211124033500 +0900" stop="20211124042000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">今回のポシュレは「ヤマダデンキ」リフォームSP　トイレ、キッチン、お風呂など水廻りリフォームをご紹介！他にも金沢老舗の乙丸屋布団、停電対応に大型バッテリーも！</desc>
-  </programme>
-  <programme start="20211124042000 +0900" stop="20211124042500 +0900" channel="NipponTV.jp">
-    <title lang="en">「バンクシーって誰?展」</title>
-    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
-  </programme>
-  <programme start="20211124042500 +0900" stop="20211124043000 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です劇場版</title>
-    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐ怒涛のあな番ワールド!原田知世×田中圭、西野七瀬×横浜流星ＳＰ対談!!</desc>
-  </programme>
   <programme start="20211124043000 +0900" stop="20211124055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽母逮捕 3歳長男「浴槽」に沈め・・・殺害か▽男性刺され死亡「妹の長男」逮捕▽ 初放出へ・・・石油の国家備蓄</desc>
@@ -753,14 +745,14 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
   </programme>
-<programme start="20211124033100 +0900" stop="20211124040000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-</programme>
-<programme start="20211124040000 +0900" stop="20211124045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍X</title>
-  <desc lang="en">「隠し子発覚！陰謀に巻き込まれた女スリ」松平健(他)▽山猫お京という女スリが、忠相の懐を狙って捕らえられた。捕まったのはこれが三度目で、重ければ遠島は免れないが…</desc>
-</programme>
+  <programme start="20211125042900 +0900" stop="20211125043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211125043000 +0900" stop="20211125055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211124045500 +0900" stop="20211124080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">火の粉が…自宅ＢＢＱ“時間差火災”の危険▽韓国やヨーロッパでコロナ“過去最悪ペース”で再拡大‼日本は大丈夫か▽若者に静かなブーム「金継ぎ」の深〜い魅力▽依田天気</desc>
@@ -886,9 +878,9 @@
   <title lang="en">暴れん坊将軍X</title>
   <desc lang="en">「埋蔵金に踊らされた夫婦！甲府勤めの甘い罠」松平健(他)▽江戸に戻れる日を夢見ていた甲府勤番侍・山根彦九郎は、ある日、ひょんなことから武田家の埋蔵金を発見する。</desc>
 </programme>
-<programme start="20211124034500 +0900" stop="20211124043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211125045500 +0900" stop="20211125080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211124043000 +0900" stop="20211124052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -983,6 +975,11 @@
 <programme start="20211125034500 +0900" stop="20211125043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+</programme>
+<programme start="20211125043000 +0900" stop="20211125052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20211124020500 +0900" stop="20211124054500 +0900" channel="TVTokyo.jp">
   <title lang="en">世界卓球2021</title>
@@ -1106,14 +1103,6 @@
   <title lang="en">世界卓球2021</title>
   <desc lang="en">大会２日目。世界ランク１位！石川佳純／平野美宇ペア、さらに前回大会銀メダルの伊藤美誠／早田ひなペアが登場！世界一へ大会を占う大事な初戦に挑む！</desc>
 </programme>
-<programme start="20211124035000 +0900" stop="20211124040000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211124040000 +0900" stop="20211124045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
-</programme>
 <programme start="20211124045500 +0900" stop="20211124052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
@@ -1215,13 +1204,9 @@
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20211124033500 +0900" stop="20211124040000 +0900" channel="Tokyo MX">
-  <title lang="en">ごりやくさん</title>
-  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
-</programme>
-<programme start="20211124040000 +0900" stop="20211124043000 +0900" channel="Tokyo MX">
-  <title lang="en">MUSIC B.B.</title>
-  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+<programme start="20211125045500 +0900" stop="20211125052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211124043000 +0900" stop="20211124050000 +0900" channel="Tokyo MX">
   <title lang="en">うたなび!</title>
@@ -1415,6 +1400,14 @@
   <title lang="en">CM INDEX</title>
   <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
 </programme>
+<programme start="20211125043000 +0900" stop="20211125050000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211125050000 +0900" stop="20211125053000 +0900" channel="Tokyo MX">
+  <title lang="en">LOVE HOKKAIDO</title>
+  <desc lang="en">「あぁ。ご飯が止まらない…」北海道味めぐり！絶品“ごはんのおとも”▼とろけちゃう牛とろ？▼卵かけご飯に最適な醤油？▼トドメは、あの食材があんなことに…（笑）</desc>
+</programme>
 <programme start="20211123230000 +0900" stop="20211124045000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA THE FINAL ACT TOKYO DOME</title>
 <desc>2000年12月、東京ドームで行われたLUNA SEAの終幕ライブ！12年間の集大成となる最高のパフォーマンスを披露！
@@ -1426,7 +1419,7 @@
 <title lang="en">番組PR【11月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211123/7070841/image/2e9db396c44aa211717f98c673f72095.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211124050000 +0900" stop="20211124060000 +0900" channel="FujiNext.jp">
@@ -2088,7 +2081,7 @@ https//otn.fujitv.co.jp
 <programme start="20211124042000 +0900" stop="20211124050000 +0900" channel="kbsworld.jp">
 <title lang="en">家族を守れ　94　[字]</title>
 <desc>2015年 全123話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211123/7057580/image/fbaad766e89fe3094ce7cebf572b8b8e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211124050000 +0900" stop="20211124060000 +0900" channel="kbsworld.jp">
