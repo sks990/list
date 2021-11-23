@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211123130500 +0900" stop="20211123143300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">令和3年度 NHK新人落語大賞</title>
-    <desc lang="en">東西１０７名の予選を勝ち抜いた桂小鯛、桂二葉、三遊亭好志朗、春風亭昇也、笑福亭生寿、林家つる子。６人による若手落語家日本一決定戦。司会、林家たい平・南沢奈央。</desc>
-  </programme>
   <programme start="20211123143300 +0900" stop="20211123150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ロコだけが知っている</title>
     <desc lang="en">地元密着！大人気ヒーローＳＰ▼方言丸出し！徹底的に秋田にこだわる超神ネイガー▼香川・瀬戸内にある山の上の水族館！小さなヒーロー▼佐々木希・要潤の地元のとっておき</desc>
@@ -310,9 +306,21 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211123135000 +0900" stop="20211123140000 +0900" channel="eTele.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「コロナ禍の雇用不安への対策」山田久（日本総合研究所副理事長）</desc>
+  <programme start="20211124140500 +0900" stop="20211124143500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">釣りびと万歳</title>
+    <desc lang="en">大河ドラマ、「青天を衝け」で剣術家・真田範之助役を演じた板橋駿谷さんが、勝浦の伝統釣法“カモシ釣り”でマダイを狙う。意気揚々と出港した板橋さんだが、思わぬ敵が。</desc>
+  </programme>
+  <programme start="20211124143500 +0900" stop="20211124145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">駅ピアノ</title>
+    <desc lang="en">シリーズ初の国内編！神戸・西神中央駅に置かれた一台のピアノ。結婚式で自作曲を妻に捧げた男性、金融業界の女性、歌謡曲を愛する保育士・・・どんな思いで曲を弾くのか</desc>
+  </programme>
+  <programme start="20211124145000 +0900" stop="20211124150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">日本は、もう何十年間も平均賃金がほとんど上がっていません。いかに日本の賃金が低いのか、その現状を解説します。</desc>
+  </programme>
+  <programme start="20211124150000 +0900" stop="20211124150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211123140000 +0900" stop="20211123160000 +0900" channel="eTele.jp">
     <title lang="en">関東大学ラグビー対抗戦2021</title>
@@ -662,6 +670,18 @@
     <title lang="en">NHK高校講座 化学基礎</title>
     <desc lang="en">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
   </programme>
+  <programme start="20211124142000 +0900" stop="20211124144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 物理基礎</title>
+    <desc lang="en">信長がフルートに挑戦するが、なかなか音が出ない。管楽器は「気柱の共鳴」で音が出る。実験で目に見えない空気の「定常波」を観察して、管楽器の音の出し方を学ぶ。</desc>
+  </programme>
+  <programme start="20211124144000 +0900" stop="20211124150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地学基礎</title>
+    <desc lang="en">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は、地球規模の大気の流れ（大気の大循環）を学習します。</desc>
+  </programme>
+  <programme start="20211124150000 +0900" stop="20211124152500 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">選者は岸本尚毅さん。ゲストはマツモトクラブさん。題は木枯（こがらし）。俳句と川柳の違いを知りたいというマツモトクラブさん。岸本さんはどう答えるのか。司会中田喜子</desc>
+  </programme>
   <programme start="20211123135500 +0900" stop="20211123155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">▽食品値上げで家計ピンチ！注目「激安スーパー」のウラ側、安さの秘密に迫ります▽厳しい冷え込み…今後のお天気</desc>
@@ -893,6 +913,10 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">科捜研の女13</title>
   <desc lang="en">「白骨を奪い合う女！妻ｖｓ愛人、復讐殺人の罠‼殺された男が仕組んだ事故⁉」沢口靖子(他)▽男性の白骨死体を発見。解剖の結果、膝の再生手術を受けていたことがわかる。</desc>
 </programme>
+<programme start="20211124145200 +0900" stop="20211124154800 +0900" channel="Asahi.jp">
+  <title lang="en">科捜研の女19</title>
+  <desc lang="en">「ぬいぐるみは見た⁉鉄道模型を魔改造する殺人犯の謎」沢口靖子(他)▽鉄道模型コレクターが殺害された。おもちゃの修理を行う“ドクター”に疑惑が集まる中、マリコは…</desc>
+</programme>
 <programme start="20211123135500 +0900" stop="20211123154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
@@ -1118,10 +1142,6 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">午後のロードショー</title>
   <desc lang="en">世界各地で続発する天変地異！パニック映画の巨匠エメリッヒが驚異の映像テクノロジーで描く地球最後の日。生きるとは何か？涙と感動のクライマックス！</desc>
 </programme>
-<programme start="20211123115500 +0900" stop="20211123144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">木下都議が急転直下“辞職表明”なぜ今？水面下で何が▽不倫告白テニス選手“疑惑レストラン”取材…バッハ会長の狙いは▽韓国で感染再拡大…ブレイクスルー急増</desc>
-</programme>
 <programme start="20211123144500 +0900" stop="20211123154500 +0900" channel="FujiTV.jp">
   <title lang="en">絶対零度〜未然犯罪潜入捜査〜</title>
   <desc lang="en">ＡＩが予測した殺人を未然に防ぐため、豪華客船に潜入していた捜査官たち。大乱闘の末に事件を解決するが、新たに赴任してきた上官はさらなる難事件を提示して…</desc>
@@ -1214,17 +1234,9 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナがおぎやはぎと豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！３時間生放送</desc>
 </programme>
-<programme start="20211123135500 +0900" stop="20211123140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211123140000 +0900" stop="20211123143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211123143000 +0900" stop="20211123145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211124144500 +0900" stop="20211124154500 +0900" channel="FujiTV.jp">
+  <title lang="en">絶対零度〜未然犯罪潜入捜査〜</title>
+  <desc lang="en">ＡＩが予測した殺人を未然に防ぐため、豪華客船に潜入していた捜査官たち。大乱闘の末に事件を解決するが、新たに赴任してきた上官はさらなる難事件を提示して…</desc>
 </programme>
 <programme start="20211123145900 +0900" stop="20211123150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1419,6 +1431,18 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20211124140000 +0900" stop="20211124143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211124143000 +0900" stop="20211124145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211124145900 +0900" stop="20211124150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211124150000 +0900" stop="20211124153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
