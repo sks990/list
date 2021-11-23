@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211124045000 +0900" stop="20211124050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">日本は、もう何十年間も平均賃金がほとんど上がっていません。いかに日本の賃金が低いのか、その現状を解説します。</desc>
-  </programme>
   <programme start="20211124050000 +0900" stop="20211124060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
@@ -314,13 +310,9 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20211124020000 +0900" stop="20211124053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211124053000 +0900" stop="20211124055500 +0900" channel="eTele.jp">
-    <title lang="en">100分de名著</title>
-    <desc lang="en">ついに殺されるカラマーゾフ兄弟の父親フョードル。一体彼を殺したのは誰か？　そしてドストエフスキーは、この「父殺し」のテーマで何を表現しようとしたのか？</desc>
+  <programme start="20211125060000 +0900" stop="20211125063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20211124055500 +0900" stop="20211124060000 +0900" channel="eTele.jp">
     <title lang="en">浮世絵EDO-LIFE</title>
@@ -650,9 +642,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211124043000 +0900" stop="20211124055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽母逮捕 3歳長男「浴槽」に沈め・・・殺害か▽男性刺され死亡「妹の長男」逮捕▽ 初放出へ・・・石油の国家備蓄</desc>
+  <programme start="20211125053000 +0900" stop="20211125055500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのドイツ語</title>
+    <desc lang="en">▽新シリーズ・スタート！現地映像をたっぷり味わいながら旅先で役立つドイツ語フレーズを学びます！▽ベルリン、ハンブルク、ミュンヘンをめぐるドイツ三都周遊記！</desc>
+  </programme>
+  <programme start="20211125055500 +0900" stop="20211125060000 +0900" channel="eTele.jp">
+    <title lang="en">no art，no life</title>
+    <desc lang="en">今まで見たことのない芸術に圧倒される５分間。各地で作品が生まれる過程を記録する。長恵はパーキンソン病を発症、６４歳で絵を描き始めた。</desc>
+  </programme>
+  <programme start="20211125060000 +0900" stop="20211125062500 +0900" channel="eTele.jp">
+    <title lang="en">テレビで中国語</title>
+    <desc lang="en">イモトアヤコ映画のアフレコに挑戦！誤って人を殺してしまった娘の秘密を家族が共謀して守ろうとする。家族の絆が試される映画「共謀家族」を紹介！詩の浮気現場の証拠が！</desc>
   </programme>
   <programme start="20211124055000 +0900" stop="20211124080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -753,6 +753,10 @@
   <programme start="20211125043000 +0900" stop="20211125055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20211125055000 +0900" stop="20211125080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20211124045500 +0900" stop="20211124080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -883,11 +887,6 @@
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
-<programme start="20211124043000 +0900" stop="20211124052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
-ニュースも天気も充実</desc>
-</programme>
 <programme start="20211124052000 +0900" stop="20211124080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
   <desc lang="en">▽中継！福島アナＶＳ大自然風呂▽どうする値上げ地獄▽寒い朝こそ温活グッズ▽欧州コロナ増に学ぶ…▽軽石大量漂着…三宅島▽年末ジャンボを買いに▽菅田将暉最新ＭＶ解禁</desc>
@@ -982,9 +981,9 @@
   <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
 ニュースも天気も充実</desc>
 </programme>
-<programme start="20211124020500 +0900" stop="20211124054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">世界卓球2021</title>
-  <desc lang="en">きょう開幕した「世界卓球2021」。舞台は、アメリカ・ヒューストン！伊藤美誠、石川佳純、試合直前の平野美宇最新情報を現地から生中継でお伝えします！</desc>
+<programme start="20211125052000 +0900" stop="20211125080000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME,</title>
+  <desc lang="en">安住紳一郎と香川照之のＷ司会で、明るく楽しく丁寧に、そして正直にお伝えします！</desc>
 </programme>
 <programme start="20211124054500 +0900" stop="20211124070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1104,9 +1103,9 @@
   <title lang="en">世界卓球2021</title>
   <desc lang="en">大会２日目。世界ランク１位！石川佳純／平野美宇ペア、さらに前回大会銀メダルの伊藤美誠／早田ひなペアが登場！世界一へ大会を占う大事な初戦に挑む！</desc>
 </programme>
-<programme start="20211124045500 +0900" stop="20211124052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20211125054500 +0900" stop="20211125070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20211124052500 +0900" stop="20211124080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1209,13 +1208,9 @@
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20211124043000 +0900" stop="20211124050000 +0900" channel="Tokyo MX">
-  <title lang="en">うたなび!</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211124050000 +0900" stop="20211124053000 +0900" channel="Tokyo MX">
-  <title lang="en">日本で味わう世界食堂!</title>
-  <desc lang="en">キューバ／スイス</desc>
+<programme start="20211125052500 +0900" stop="20211125080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20211124053000 +0900" stop="20211124060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1409,6 +1404,14 @@
   <title lang="en">LOVE HOKKAIDO</title>
   <desc lang="en">「あぁ。ご飯が止まらない…」北海道味めぐり！絶品“ごはんのおとも”▼とろけちゃう牛とろ？▼卵かけご飯に最適な醤油？▼トドメは、あの食材があんなことに…（笑）</desc>
 </programme>
+<programme start="20211125053000 +0900" stop="20211125060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211125060000 +0900" stop="20211125063000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211123230000 +0900" stop="20211124045000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA THE FINAL ACT TOKYO DOME</title>
 <desc>2000年12月、東京ドームで行われたLUNA SEAの終幕ライブ！12年間の集大成となる最高のパフォーマンスを披露！
@@ -1427,7 +1430,7 @@ https//otn.fujitv.co.jp
 <title lang="en">新・みんなの鉄道　28「えちぜん鉄道・勝山永平寺線編」</title>
 <desc>28『えちぜん鉄道・勝山永平寺線編』
 恐竜の町・勝山から、福井平野を貫流する大河・九頭竜川に沿って福井へ向う、営業距離27.8km、駅数23の路線。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211124/7070842/image/dfcb0a58eedb3ea64a807a56e3d8e7a0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211124060000 +0900" stop="20211124080000 +0900" channel="FujiNext.jp">
@@ -1607,7 +1610,7 @@ https//otn.fujitv.co.jp
 <title lang="en">鎧美女 春の特別版</title>
 <desc>「甲冑山内一豊」「美女竹内花」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！春の特別版！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211124/7068860/image/adef08904130fa9c80876b6ecc98b3c4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211124060000 +0900" stop="20211124070000 +0900" channel="FujiOne.jp">
@@ -1832,7 +1835,7 @@ https//otn.fujitv.co.jp
 <programme start="20211124053000 +0900" stop="20211124060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211124/7071014/image/d232d09eecce20a715e2d4b91ce302f2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211124060000 +0900" stop="20211124071000 +0900" channel="FujiTwo.jp">
@@ -2088,7 +2091,7 @@ https//otn.fujitv.co.jp
 <programme start="20211124050000 +0900" stop="20211124060000 +0900" channel="kbsworld.jp">
 <title lang="en">韓国人の食卓　[字][再]</title>
 <desc>地理的環境に人々の息づかいと知恵が合わさったその地域の代表食を紹介する新ドキュメンタリー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211124/7057581/image/c5cecb27e6ad8bfdc33fc860d4e02372.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211124060000 +0900" stop="20211124070000 +0900" channel="kbsworld.jp">
