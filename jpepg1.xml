@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211123150500 +0900" stop="20211123160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲(2021年)</title>
-    <desc lang="en">【解説】正面（十両）…待乳山（元武州山），【アナウンサー】正面（十両）…高山大吾　〜福岡国際センターから中継〜</desc>
-  </programme>
   <programme start="20211123160000 +0900" stop="20211123180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大相撲(2021年)</title>
     <desc lang="en">全勝は２人　横綱・照ノ富士は豊昇龍と、大関・貴景勝は明生と対戦。１敗の関脇・御嶽海は宝富士と、阿炎は翔猿と　２敗の宇良は勝ち越しかけて琴ノ若と対戦</desc>
@@ -325,26 +321,6 @@
   <programme start="20211124155500 +0900" stop="20211124180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大相撲(2021年)</title>
     <desc lang="en">（４１０）「幕内取組」　【解説】正面（幕内）…武隈（元豪栄道），向正面（幕内）…中村（元嘉風），【アナウンサー】正面（幕内）…吉田賢ほか</desc>
-  </programme>
-  <programme start="20211123155500 +0900" stop="20211123160000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en">こども向けＳＤＧｓ番組シリーズ「ひろがれ！いろとりどり」のテーマソングが決定！その歌を歌うＳＤＧｓこどもユニット「ミドリーズ」を紹介するよ！</desc>
-  </programme>
-  <programme start="20211123160000 +0900" stop="20211123160500 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「りふじんじん」うたはやぶさ／「涙のチカラ」うた花＊花／「うんだらか　うだすぽん」うたハナレグミ　と　うんだらか楽団／「鉄塔」うた南壽あさ子</desc>
-  </programme>
-  <programme start="20211123160500 +0900" stop="20211123162000 +0900" channel="eTele.jp">
-    <title lang="en">いないいないばあっ!</title>
-    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-  </programme>
-  <programme start="20211123162000 +0900" stop="20211123164400 +0900" channel="eTele.jp">
-    <title lang="en">おかあさんといっしょ</title>
-    <desc lang="en">２〜４歳児対象の教育エンターテイメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい。今週は家族でいっしょに遊べる歌の特集だよ！</desc>
-  </programme>
-  <programme start="20211123164400 +0900" stop="20211123164500 +0900" channel="eTele.jp">
-    <title lang="en">あおきいろ</title>
-    <desc lang="en">子ども向けＳＤＧｓ番組「あおきいろ」のテーマソング「ツバメ」のダンスをおぼえよう！今回は「子ツバメ」バージョンを、ミドリーズのあつきがお手本を見せるよ！</desc>
   </programme>
   <programme start="20211123164500 +0900" stop="20211123170000 +0900" channel="eTele.jp">
     <title lang="en">みいつけた!</title>
@@ -706,6 +682,26 @@
     <title lang="en">みんなのうた</title>
     <desc lang="en">「ツバメ」うたＹＯＡＳＯＢＩ　ｗｉｔｈ　ミドリーズ／「音の庭」うたフジファブリック</desc>
   </programme>
+  <programme start="20211124160500 +0900" stop="20211124162000 +0900" channel="eTele.jp">
+    <title lang="en">いないいないばあっ!</title>
+    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+  </programme>
+  <programme start="20211124162000 +0900" stop="20211124164400 +0900" channel="eTele.jp">
+    <title lang="en">おかあさんといっしょ</title>
+    <desc lang="en">２〜４歳児対象の教育エンターテイメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい。今週は家族でいっしょに遊べる歌の特集だよ！</desc>
+  </programme>
+  <programme start="20211124164400 +0900" stop="20211124164500 +0900" channel="eTele.jp">
+    <title lang="en">あおきいろ</title>
+    <desc lang="en">こども向けＳＤＧｓ番組シリーズ「ひろがれ！いろとりどり」のテーマソング「ツバメ」を人気番組の出演者・キャラクターが躍るよ！今回は「プロのプロセス」チョコプラ版！</desc>
+  </programme>
+  <programme start="20211124164500 +0900" stop="20211124170000 +0900" channel="eTele.jp">
+    <title lang="en">みいつけた!</title>
+    <desc lang="en">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
+  </programme>
+  <programme start="20211124170000 +0900" stop="20211124171000 +0900" channel="eTele.jp">
+    <title lang="en">にほんごであそぼ</title>
+    <desc lang="en">今回は、より長い回文をお楽しみいただきます。ほかに、はんじえ、野村萬斎、あいだのじいさん、四字熟語かるた、童謡、うた「小さき者へ」。</desc>
+  </programme>
   <programme start="20211123155000 +0900" stop="20211123190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
     <desc lang="en">住宅放火は兄弟遺体か同居の伯父の行方追う▽感染者減でにぎわう街ＧｏＴｏ待ち宿泊控え▽デカ盛りが救世主？客足戻す驚きメニュー▽朝晩寒く日差し回復</desc>
@@ -810,10 +806,6 @@
     <title lang="en">news every.</title>
     <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
   </programme>
-<programme start="20211123154800 +0900" stop="20211123164500 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season13</title>
-  <desc lang="en">「米沢守、最後の挨拶」水谷豊、成宮寛貴(他)▽連続殺人と見られる事件の犯人は鑑識・米沢だった…。米沢は警察を去ることに⁉特命係が“米沢守、最後の挨拶”を見届ける…</desc>
-</programme>
 <programme start="20211123164500 +0900" stop="20211123175000 +0900" channel="Asahi.jp">
   <title lang="en">スーパーJチャンネル</title>
   <desc lang="en">年内最後の祝日に寒気…リベンジ期待の行楽地▽立憲代表選挙の行方▽韓国で再拡大の実態(他)</desc>
@@ -941,6 +933,10 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">相棒season19</title>
   <desc lang="en">「一夜の夢」水谷豊、反町隆史(他)▽セレブ令嬢・奈穂美の携帯を拾ったキャバクラの客引き・宇野健介。その中にある“秘密”を見つけ、婚約者がいる身の奈穂美に結婚を迫り…</desc>
 </programme>
+<programme start="20211124164500 +0900" stop="20211124190000 +0900" channel="Asahi.jp">
+  <title lang="en">スーパーJチャンネル</title>
+  <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+</programme>
 <programme start="20211123154900 +0900" stop="20211123190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">各地で冬本番の寒さ…▽一体何が…兄弟死亡　兵庫県の放火事件捜査▽日比アナ・駅伝中継初挑戦！！特訓裏側は？▽リベンジ消費特需！？Ｂフライデーは超お得　ほか</desc>
@@ -1039,10 +1035,6 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
 <programme start="20211124154900 +0900" stop="20211124190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！「ＮｅｗｓＣｌｉｐ」でニュースからエンタメ・カルチャーまで！６時１５分からはグルメ情報も！</desc>
-</programme>
-<programme start="20211123155500 +0900" stop="20211123165400 +0900" channel="TVTokyo.jp">
-  <title lang="en">よじごじDays</title>
-  <desc lang="en">埼玉“水の里”で紅葉を求めて絶景ハンター敦士がカメラ片手に絶景めぐり。鮮やかに色づいた滝の風景から透明度抜群！湧水＆紅葉の渓谷を激写！里の野菜グルメも堪能します</desc>
 </programme>
 <programme start="20211123165400 +0900" stop="20211123170000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゆうがたサテライト</title>
@@ -1166,6 +1158,14 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">よじごじDays</title>
   <desc lang="en">日本唐揚協会の会長が全国の絶品唐揚げを紹介▽岩手発！生姜が効いた室根からあげ▽大分県中津発！クリスマスに食べたいお取り寄せ唐揚げ▽失敗しない唐揚げ作りの極意も！</desc>
 </programme>
+<programme start="20211124165400 +0900" stop="20211124170000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ゆうがたサテライト</title>
+  <desc lang="en">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
+</programme>
+<programme start="20211124170000 +0900" stop="20211124171000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
 <programme start="20211123154500 +0900" stop="20211123190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">鎌倉で男性刺され死亡▽各地で師走の寒さ▽道の駅のマナー違反を直撃▽仕事終わりの「仕事メール」に賛否▽まさか自宅に盗聴器　知らない電源タップが</desc>
@@ -1262,13 +1262,9 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
   <title lang="en">Live News イット!</title>
   <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
-<programme start="20211123155800 +0900" stop="20211123160000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211123160000 +0900" stop="20211123165400 +0900" channel="Tokyo MX">
-  <title lang="en">BOAT RACEプレミア</title>
-  <desc lang="en">「ドリーム戦」〜ＢＯＡＴＲＡＣＥ多摩川</desc>
+<programme start="20211124165000 +0900" stop="20211124180000 +0900" channel="FujiTV.jp">
+  <title lang="en">Live News イット!</title>
+  <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
 <programme start="20211123165400 +0900" stop="20211123170000 +0900" channel="Tokyo MX">
   <title lang="en">Doctor’s eye</title>
@@ -1469,6 +1465,14 @@ by.Takagi  Ketra feat.Lorenzo Fragola, Arisa</desc>
 <programme start="20211124160000 +0900" stop="20211124163000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211124163000 +0900" stop="20211124170000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211124170000 +0900" stop="20211124180000 +0900" channel="Tokyo MX">
+  <title lang="en">5時に夢中!</title>
+  <desc lang="en">東京の夕方を彩る井戸端ワイドショー！▼アーティスト松田ゆう姫とやさぐれ芸人ヒコロヒー！▼追跡「代官山の犬」！▼昭和の調べ</desc>
 </programme>
 <programme start="20211122211000 +0900" stop="20211123005000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　第20戦カタールGP 決勝</title>
@@ -2030,7 +2034,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2018年10月7日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211123/7070999/image/1a9657b16fa67997e6fb11c5ddaff345.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211123170000 +0900" stop="20211123173000 +0900" channel="FujiTwo.jp">
