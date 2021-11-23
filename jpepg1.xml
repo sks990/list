@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211124023400 +0900" stop="20211124033400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
-  </programme>
   <programme start="20211124033400 +0900" stop="20211124040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス 美の点描</title>
     <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
@@ -309,6 +305,10 @@
   <programme start="20211125025600 +0900" stop="20211125035600 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、オーストリア・ウィーンを旅する。</desc>
+  </programme>
+  <programme start="20211125035600 +0900" stop="20211125040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">魂のタキ火</title>
+    <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
   </programme>
   <programme start="20211124020000 +0900" stop="20211124053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,10 +646,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211124023500 +0900" stop="20211124033500 +0900" channel="NipponTV.jp">
-    <title lang="en">サッカー★アース</title>
-    <desc lang="en">『日本代表アジア最終予選！勝負の2連戦＆南米サッカーＳＰ』</desc>
-  </programme>
   <programme start="20211124033500 +0900" stop="20211124042000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">今回のポシュレは「ヤマダデンキ」リフォームSP　トイレ、キッチン、お風呂など水廻りリフォームをご紹介！他にも金沢老舗の乙丸屋布団、停電対応に大型バッテリーも！</desc>
@@ -753,19 +749,10 @@
     <title lang="en">浜ちゃんが!</title>
     <desc lang="en">テレビで見せたい！自信満々のネタを持っているのに披露する機会がない芸能人が自宅などからリモート中継で浜ちゃんに猛アピール！どんな特技や隠れた才能が飛び出すのか</desc>
   </programme>
-<programme start="20211124024100 +0900" stop="20211124030100 +0900" channel="Asahi.jp">
-  <title lang="en">〜凪咲と芸人〜マッチング</title>
-  <desc lang="en">ＮＭＢ48渋谷凪咲がゲストとの相性を探っていくマッチングバラエティ！今夜はゲストに“三四郎・相田周二”が登場！</desc>
-</programme>
-<programme start="20211124030100 +0900" stop="20211124030500 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211124030500 +0900" stop="20211124033100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211125032900 +0900" stop="20211125042900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
+  </programme>
 <programme start="20211124033100 +0900" stop="20211124040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -882,14 +869,22 @@
   <title lang="en">ぺこぱポジティブNEWS</title>
   <desc lang="en">ぺこぱが、ほっこりするポジティブなNEWSだけをお届けします。滝沢カレン待望のニュースバラエティコメンテーター出演！さてどんなポジティブコメントが飛び出す？</desc>
 </programme>
-<programme start="20211124022400 +0900" stop="20211124034000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211125030100 +0900" stop="20211125030500 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
 </programme>
-<programme start="20211124034000 +0900" stop="20211124034500 +0900" channel="TBS2.jp">
+<programme start="20211125030500 +0900" stop="20211125033100 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">女子駅伝日本一決定戦‼東京五輪マラソン代表⚟一山麻緒／憧れの先輩を追いかけて悲願の日本一へ‼初出場⚟岩谷産業・飯田怜／3年前の予選会で突然の悲劇</desc>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
+</programme>
+<programme start="20211125033100 +0900" stop="20211125040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211125040000 +0900" stop="20211125045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍X</title>
+  <desc lang="en">「埋蔵金に踊らされた夫婦！甲府勤めの甘い罠」松平健(他)▽江戸に戻れる日を夢見ていた甲府勤番侍・山根彦九郎は、ある日、ひょんなことから武田家の埋蔵金を発見する。</desc>
 </programme>
 <programme start="20211124034500 +0900" stop="20211124043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -980,6 +975,14 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+</programme>
+<programme start="20211125034000 +0900" stop="20211125034500 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">女子駅伝日本一決定戦‼東京五輪代表⚟新谷仁美／悲願の日本一へ懸ける想い‼初出場⚟岩谷産業・飯田怜／3年前の予選会で突然の悲劇</desc>
+</programme>
+<programme start="20211125034500 +0900" stop="20211125043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211124020500 +0900" stop="20211124054500 +0900" channel="TVTokyo.jp">
   <title lang="en">世界卓球2021</title>
@@ -1103,10 +1106,6 @@
   <title lang="en">世界卓球2021</title>
   <desc lang="en">大会２日目。世界ランク１位！石川佳純／平野美宇ペア、さらに前回大会銀メダルの伊藤美誠／早田ひなペアが登場！世界一へ大会を占う大事な初戦に挑む！</desc>
 </programme>
-<programme start="20211124025500 +0900" stop="20211124035000 +0900" channel="FujiTV.jp">
-  <title lang="en">FNSドキュメンタリー大賞</title>
-  <desc lang="en">島の水・島の空・島の海―このままでいいの？子どもたちに手渡す沖縄。ママたちの命を守る闘いの記録。</desc>
-</programme>
 <programme start="20211124035000 +0900" stop="20211124040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
   <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
@@ -1204,13 +1203,17 @@
   <title lang="en">リモートシェフ</title>
   <desc lang="en">料理の腕前ではなく、伝える力を競う新時代の料理番組！トップシェフ達は言葉による指示だけでどんな料理を完成させるのか！？</desc>
 </programme>
-<programme start="20211124023500 +0900" stop="20211124030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211124030500 +0900" stop="20211124033500 +0900" channel="Tokyo MX">
+<programme start="20211125032000 +0900" stop="20211125035000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211125035000 +0900" stop="20211125040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211125040000 +0900" stop="20211125045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211124033500 +0900" stop="20211124040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1403,6 +1406,14 @@
 <programme start="20211125030000 +0900" stop="20211125033000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211125033000 +0900" stop="20211125040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211125040000 +0900" stop="20211125043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
 </programme>
 <programme start="20211123230000 +0900" stop="20211124045000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA THE FINAL ACT TOKYO DOME</title>
