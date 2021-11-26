@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211126204500 +0900" stop="20211126210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20211126210000 +0900" stop="20211126220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽新型コロナ第６波に備えて最新情報▽立民代表選・終盤情勢解説党員の判断は？▽１１２６きょうは“いい風呂の日”群馬草津温泉より生中継▽寒い週末に？気象情報</desc>
@@ -282,13 +278,9 @@
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">食品もガソリンも株価も値上がり・暮らしにどう影響？一体なぜ？▽景気に影を落とす「世界インフレ」最前線での「争奪戦」▽コロナ禍に巨額の利益を稼ぐヘッジファンド</desc>
   </programme>
-  <programme start="20211126204500 +0900" stop="20211126210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20211126210000 +0900" stop="20211126215500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">「夢殿」をテーマにした舞踊にちなんで聖徳太子ゆかりの法隆寺や、“大化の改新”の舞台のひとつ・談山神社を訪ねる芸能の旅でおたのしみ頂く。ご案内高橋英樹、中條誠子</desc>
+  <programme start="20211127215000 +0900" stop="20211127222000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKだめ自慢〜みんながでるテレビ〜</title>
+    <desc lang="en">「ＮＨＫのど自慢」公認の兄弟番組「ＮＨＫだめ自慢」司会は村上信五と東野幸治！若槻千夏とヒコロヒーをゲストに迎えて、いろんな「だめ自慢」に大笑い！</desc>
   </programme>
   <programme start="20211126215500 +0900" stop="20211126220000 +0900" channel="eTele.jp">
     <title lang="en">365日の献立日記</title>
@@ -530,9 +522,17 @@
     <title lang="en">すくすく子育て</title>
     <desc lang="en">「体力がもたない」「若いママ・パパとのコミュニケーションのとり方がわからない」など高齢出産を経て初めての子育てをしている４０代のママ、そしてパパたちの悩みを紹介</desc>
   </programme>
-  <programme start="20211126205400 +0900" stop="20211126210000 +0900" channel="NipponTV.jp">
-    <title lang="en">まもなく金曜ロードショー</title>
-    <desc lang="en">ハリー・ポッター第１作「賢者の石」の映画公開から20周年★史上最強のファンタジーシリーズ第４作「ハリー・ポッターと炎のゴブレット」のみどころをわかりやすくご紹介</desc>
+  <programme start="20211127213000 +0900" stop="20211127215500 +0900" channel="eTele.jp">
+    <title lang="en">ウワサの保護者会</title>
+    <desc lang="en">尾木ママと保護者が子育てや教育の悩みや疑問について本音で語り合い、解決に導く。今回は「性の多様性」。中学生のホンネに耳を傾ける。</desc>
+  </programme>
+  <programme start="20211127215500 +0900" stop="20211127220000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症家族の介護についてアドバイスする「認知症ワンポイント介護」１０回目は認知症の人がルールなどが守れないことについて。講師は認知症ケアの第一人者の和田行男さん</desc>
+  </programme>
+  <programme start="20211127220000 +0900" stop="20211127225000 +0900" channel="eTele.jp">
+    <title lang="en">SWITCHインタビュー 達人達(たち)</title>
+    <desc lang="en">１９０センチ近い身長と変幻自在な演技で存在感を放つ俳優、松重豊。演じるドラマの主人公同様「食いしん坊」な彼にラブコールを送ったのは食雑誌の名物編集長、植野広生。</desc>
   </programme>
   <programme start="20211126210000 +0900" stop="20211126232400 +0900" channel="NipponTV.jp">
     <title lang="en">金曜ロードショー</title>
@@ -655,14 +655,14 @@
     <title lang="en">1億3000万人のSHOWチャンネル</title>
     <desc lang="en">風間俊介が取材・世界中から注目される料理撮影集団のテクニックを公開！ナイツ厳選・爆笑師匠名鑑＆即興時事ネタ漫才披露！滝沢カレンが世界一と噂のポテサラの神様を直撃</desc>
   </programme>
-<programme start="20211126203000 +0900" stop="20211126214800 +0900" channel="Asahi.jp">
-  <title lang="en">マツコ有吉 かりそめ天国</title>
-  <desc lang="en">京都＆日光の最新・超高級ホテルを大久保佳代子＆浜口京子が体験！秋の味覚＆絶景に感動◇激論！おでん最強の具５品　マツコ絶賛の“肉いなり”とは？</desc>
-</programme>
-<programme start="20211126214800 +0900" stop="20211126215400 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">国道２号線・繁栄の礎となった道Ⅱ・アメリカ</desc>
-</programme>
+  <programme start="20211127215400 +0900" stop="20211127220000 +0900" channel="NipponTV.jp">
+    <title lang="en">Creator’s Space</title>
+    <desc lang="en">人気クリエイターの仕事空間を訪ねて、職場や道具やクリエイティブのこだわりを伺う。そこで「オリジナル作品」の制作を依頼。作品のテーマは［SPACE/スペース］</desc>
+  </programme>
+  <programme start="20211127220000 +0900" stop="20211127225400 +0900" channel="NipponTV.jp">
+    <title lang="en">二月の勝者 -絶対合格の教室-</title>
+    <desc lang="en">中学受験界に舞い降りた最強で最悪の塾講師、黒木蔵人。過激な言動で常に周囲を圧倒する。現代の中学受験のリアルを描き、そこに見えてくる家族問題や教育問題に切り込む。</desc>
+  </programme>
 <programme start="20211126215400 +0900" stop="20211126231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">３回目接種どうなる？“職域”の企業説明会▽「損得」ポイントは…変わる住宅ローン減税▽人生１００年時代…「学び直し」に熱視線▽大谷翔平</desc>
@@ -809,6 +809,10 @@
   <title lang="en">サタデーステーション</title>
   <desc lang="en">南ア“新たな変異株”拡大警戒…「最も懸念」感染力は▽北海道で記録的大雪“ラニーニャ現象”で今冬は▽ウイルスで破壊…画期的がん治療▽フィギュア15歳ワリエワ▽卓球(他)</desc>
 </programme>
+<programme start="20211127215500 +0900" stop="20211127225500 +0900" channel="Asahi.jp">
+  <title lang="en">あざとくて何が悪いの?</title>
+  <desc lang="en">猛毒注意‼山里亮太×田中みな実×弘中綾香という危険すぎる３人が“あざとい男女”の言動について徹底トーク‼</desc>
+</programme>
 <programme start="20211126205700 +0900" stop="20211126220000 +0900" channel="TBS2.jp">
   <title lang="en">中居正広の金曜日のスマイルたちへ</title>
   <desc lang="en">タモリ、さんま、とんねるず石橋から貰った“言葉”があったからこそ続けられた…デビュー３０周年！４０歳でアルバイト生活…５２歳のおじさん飯尾のサクセスストーリー</desc>
@@ -944,13 +948,14 @@
   <title lang="en">世界ふしぎ発見!</title>
   <desc lang="en">あっちに流れれば太平洋！こっちに流れれば日本海！ニッポンの水の分かれ道「分水嶺」▽1キロ15万円！？水が育む極上美味▽藤井隆がHOTに熱演！芭蕉地獄の分水嶺越え</desc>
 </programme>
-<programme start="20211126205400 +0900" stop="20211126210000 +0900" channel="TVTokyo.jp">
-  <title lang="en">インテリア日和</title>
-  <desc lang="en">毎回テーマをもってプロのインテリアコーディネーターがその部屋を魅力ある空間に大改造します。</desc>
+<programme start="20211127215400 +0900" stop="20211127220000 +0900" channel="TBS2.jp">
+  <title lang="en">和心百景</title>
+  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
+今回は、富山『井波彫刻』　笛木優子</desc>
 </programme>
-<programme start="20211126210000 +0900" stop="20211126215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">所さんの学校では教えてくれないそこんトコロ!</title>
-  <desc lang="en">▼竣工から100年！元銀行の壁に埋め込まれた謎の巨大金庫を開錠！▼日本最大級の鉄鋼メーカーの巨大工場に潜入！炎まみれの激アツ映像が撮れた▼都内・謎の専門店３連発</desc>
+<programme start="20211127220000 +0900" stop="20211127232400 +0900" channel="TBS2.jp">
+  <title lang="en">新・情報7daysニュースキャスター</title>
+  <desc lang="en">東京の会食８人以下に緩和へ◆半導体不足が“冬の給湯”直撃◆ＢＴＳ米音楽賞ＡＭＡｓで３冠◆値下げで子育て世代を！北総線ＶＳ小田急線◆４９羽から選ぶ“推し”ペンギン</desc>
 </programme>
 <programme start="20211126215400 +0900" stop="20211126220000 +0900" channel="TVTokyo.jp">
   <title lang="en">わたしのヒュッゲ</title>
@@ -1096,9 +1101,16 @@
   <title lang="en">出没!アド街ック天国</title>
   <desc lang="en">じゃない方のフタコ「二子新地」に初出没▼コスパ最強の鮮魚店＆謎のイタリア街▼工事現場で煮込み!?▼お隣のニコタマには無いテレビ初登場のゆる〜い穴場店が続々！</desc>
 </programme>
-<programme start="20211126190000 +0900" stop="20211126215800 +0900" channel="FujiTV.jp">
-  <title lang="en">ウワサのお客さま</title>
-  <desc lang="en">コストコで爆買い＆爆食！デカ盛りクリスマスパーティーＳＰ▽新商品＆便利食材＆時短食材ぞくぞく▽不二家リアルＪＫペコちゃん▽焼肉１００人前大家族</desc>
+<programme start="20211127215400 +0900" stop="20211127220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">土曜名馬座</title>
+  <desc lang="en">◆第二百十四夜「女王伝説」
+人々の記憶に残る、名馬たちの活躍を
+当時のエピソードなどを交えて紹介する。
+俳優・仲村トオルが語る名馬物語………</desc>
+</programme>
+<programme start="20211127220000 +0900" stop="20211127223000 +0900" channel="TVTokyo.jp">
+  <title lang="en">新美の巨人たち</title>
+  <desc lang="en">横浜のシンボル「山下公園」はこうして誕生した！要潤さんが麗しきウォーターフロントの知られざる物語に迫ります。港町の景観はなぜ今も美しいのか？横浜の記憶がここに…</desc>
 </programme>
 <programme start="20211126215800 +0900" stop="20211126225200 +0900" channel="FujiTV.jp">
   <title lang="en">人志松本の酒のツマミになる話</title>
@@ -1243,14 +1255,6 @@
 <programme start="20211127210000 +0900" stop="20211127231000 +0900" channel="FujiTV.jp">
   <title lang="en">土曜プレミアム</title>
   <desc lang="en">小峠大悟春日又吉山内が一緒にやりたい芸人を指名＆一夜限りの新作コント対決▽空気階段シソンヌ人気者２５人集結▽大悟の志村魂ｖｓネタ書かない春日ｖｓ芥川賞</desc>
-</programme>
-<programme start="20211126200000 +0900" stop="20211126210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">本格復帰して初めて…小池知事の定例会見。「木下元都議の辞職」や「伊豆諸島の軽石問題」にどう対応する？</desc>
-</programme>
-<programme start="20211126210000 +0900" stop="20211126215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">ゲストは映画監督・浅生マサヒロ！金曜テーマは「エンタメ・遊び」。【DANDY Salon】大人が知っておくべき話題をトーク！【DANDY Academy】銃映画の魅力を語る</desc>
 </programme>
 <programme start="20211126215400 +0900" stop="20211126220000 +0900" channel="Tokyo MX">
   <title lang="en">キミとフィットボクシング Fit Boxing Animation</title>
@@ -1472,6 +1476,14 @@
   <title lang="en">キングオブモルックのモルック大作戦!!</title>
   <desc lang="en">おそらく世界初のモルック番組！まさかの国民的ビッグアーティスト・スキマスイッチが“全力”参戦！狙ったスキットルをぶっ飛ばして、勝利への放物線を描けるか⁉</desc>
 </programme>
+<programme start="20211127213000 +0900" stop="20211127220000 +0900" channel="Tokyo MX">
+  <title lang="en">音ボケPOPS</title>
+  <desc lang="en">超特急・リョウガとユーキが語る、グループの独特な活動に、ＭＣ中川翔子と、庄司智春（品川庄司）、高田夏帆が大興奮！超特急が抱える「ユーキに関する悩み」も明らかに⁉</desc>
+</programme>
+<programme start="20211127220000 +0900" stop="20211127223000 +0900" channel="Tokyo MX">
+  <title lang="en">最果てのパラディン</title>
+  <desc lang="en">死者の街で生きた少年は聖騎士（パラディン）への道を歩み出す</desc>
+</programme>
 <programme start="20211125234000 +0900" stop="20211126005000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA 初武道館ライブ　Sin After Sin</title>
 <desc>LUNA SEA初の武道館ライブを放送！ 「BELIEVE」ほか全12曲収録
@@ -1581,7 +1593,7 @@
 <programme start="20211126200000 +0900" stop="20211126220000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 F1 GPニュース　〜第18戦、第19戦、第20戦 特集〜</title>
 <desc>＜解説＞川井一仁　米家峰起　＜ゲスト＞山本雅史（ホンダF1マネージングディレクター）　＜MC＞堀池亮介　▽「FORMULA 1」の最新情報をお届け！　【生放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211126/7070893/image/ccea8aa85f4bd6f39371eb929be695da.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211126220000 +0900" stop="20211127000000 +0900" channel="FujiNext.jp">
@@ -2293,7 +2305,7 @@ https//otn.fujitv.co.jp
 <programme start="20211126210000 +0900" stop="20211126220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211126/7058636/image/23c37cd5f03ec5e5dbd8a564393b359b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211126220000 +0900" stop="20211126234000 +0900" channel="kbsworld.jp">
