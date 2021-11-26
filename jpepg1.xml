@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211126195700 +0900" stop="20211126204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">チコちゃんに叱られる!</title>
-    <desc lang="en">今回のチコちゃんの疑問は…生だと辛いたまねぎが炒めると甘くなるのはなぜ？宇宙ステーションで体が浮くのはなぜ？応援団のフレーフレーってなに？みなさんわかりますか？</desc>
-  </programme>
-  <programme start="20211126204200 +0900" stop="20211126204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20211126204500 +0900" stop="20211126210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -274,13 +266,21 @@
     <title lang="en">ブラタモリ</title>
     <desc lang="en">ここに来れば日本人の暮らしを知るうえで重要なことがたくさんわかる！？糸魚川の本当のすごさをタモリさんがブラブラ歩いて解き明かす！▽東西文化の違いは糸魚川が境目？</desc>
   </programme>
-  <programme start="20211126195500 +0900" stop="20211126200000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「金のまきば」うた大貫妙子</desc>
+  <programme start="20211127201500 +0900" stop="20211127204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">有吉のお金発見 突撃!カネオくん</title>
+    <desc lang="en">今回は…臭うけどおいしい「ニンニク」！国産ニンニクの７割ほどを生産！青森県の“ニンニク町”のお金の秘密！源氏物語では恋の障壁に！？ニンニクの驚きの歴史も大解明！</desc>
   </programme>
-  <programme start="20211126200000 +0900" stop="20211126204500 +0900" channel="eTele.jp">
-    <title lang="en">あしたも晴れ!人生レシピ</title>
-    <desc lang="en">新型コロナによる外出自粛が続いたせいで、体の衰えを感じていませんか？筋肉量の減少や体幹の衰えを指摘する専門家も。虚弱な状態をあらわす“フレイル”の対策を伝える。</desc>
+  <programme start="20211127204500 +0900" stop="20211127205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211127205500 +0900" stop="20211127210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211127210000 +0900" stop="20211127215000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">食品もガソリンも株価も値上がり・暮らしにどう影響？一体なぜ？▽景気に影を落とす「世界インフレ」最前線での「争奪戦」▽コロナ禍に巨額の利益を稼ぐヘッジファンド</desc>
   </programme>
   <programme start="20211126204500 +0900" stop="20211126210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -522,9 +522,13 @@
     <title lang="en">チョイス＠病気になったとき</title>
     <desc lang="en">突然、足の指などの関節が腫れ激痛に襲われる「痛風」。治療薬として、ＵＲＡＴ１阻害薬「ドチヌラド」が新たに登場した。効果のある食事や運動も含め、最新情報を伝える。</desc>
   </programme>
-  <programme start="20211126195600 +0900" stop="20211126205400 +0900" channel="NipponTV.jp">
-    <title lang="en">沸騰ワード10</title>
-    <desc lang="en">ついにドライヤーもTVもコードレスに!?大好評スマート家電に取り憑かれた松丸亮吾が話題の最新便利家電を激熱プレゼン…さらにTV初公開の新居を驚き家電で大改造!</desc>
+  <programme start="20211127204500 +0900" stop="20211127210000 +0900" channel="eTele.jp">
+    <title lang="en">ろうを生きる 難聴を生きる</title>
+    <desc lang="en">３年前、聴覚障害のある小学生が交通事故で亡くなったが、加害者側から提示された損害賠償額は一般的な金額を大幅に下回るものだった。「いのちの格差」について考える。</desc>
+  </programme>
+  <programme start="20211127210000 +0900" stop="20211127213000 +0900" channel="eTele.jp">
+    <title lang="en">すくすく子育て</title>
+    <desc lang="en">「体力がもたない」「若いママ・パパとのコミュニケーションのとり方がわからない」など高齢出産を経て初めての子育てをしている４０代のママ、そしてパパたちの悩みを紹介</desc>
   </programme>
   <programme start="20211126205400 +0900" stop="20211126210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなく金曜ロードショー</title>
@@ -643,10 +647,14 @@
     <title lang="en">世界一受けたい授業</title>
     <desc lang="en">『名探偵コナン』実はウラ技で事件を解決していた！100巻記念▼血がついた服には大根おろし！▼若い人も要注意⁉足がボコボコ『下肢静脈瘤』を改善する４つの方法とは?</desc>
   </programme>
-<programme start="20211126185000 +0900" stop="20211126203000 +0900" channel="Asahi.jp">
-  <title lang="en">ザワつく!金曜日</title>
-  <desc lang="en">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
-</programme>
+  <programme start="20211127205400 +0900" stop="20211127210000 +0900" channel="NipponTV.jp">
+    <title lang="en">ワーズハウスへようこそ</title>
+    <desc lang="en">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
+  </programme>
+  <programme start="20211127210000 +0900" stop="20211127215400 +0900" channel="NipponTV.jp">
+    <title lang="en">1億3000万人のSHOWチャンネル</title>
+    <desc lang="en">風間俊介が取材・世界中から注目される料理撮影集団のテクニックを公開！ナイツ厳選・爆笑師匠名鑑＆即興時事ネタ漫才披露！滝沢カレンが世界一と噂のポテサラの神様を直撃</desc>
+  </programme>
 <programme start="20211126203000 +0900" stop="20211126214800 +0900" channel="Asahi.jp">
   <title lang="en">マツコ有吉 かりそめ天国</title>
   <desc lang="en">京都＆日光の最新・超高級ホテルを大久保佳代子＆浜口京子が体験！秋の味覚＆絶景に感動◇激論！おでん最強の具５品　マツコ絶賛の“肉いなり”とは？</desc>
@@ -797,9 +805,9 @@
   <title lang="en">世界アニマル動画100連発</title>
   <desc lang="en">世界中から集めたアニマル動画を大公開！かわいい猫・犬＆赤ちゃんのハプニング映像を大特集！</desc>
 </programme>
-<programme start="20211126190000 +0900" stop="20211126205700 +0900" channel="TBS2.jp">
-  <title lang="en">ザ・ベストワン</title>
-  <desc lang="en">🈑超豪華ネタの祭典！今夜は…EXIT・チョコプラ・かが屋など人気者からナイツ・スピードワゴン・木村祐一など実力派まで最強ネタ１３連発‼M-１王者マヂラブ・吉住も</desc>
+<programme start="20211127205400 +0900" stop="20211127215500 +0900" channel="Asahi.jp">
+  <title lang="en">サタデーステーション</title>
+  <desc lang="en">南ア“新たな変異株”拡大警戒…「最も懸念」感染力は▽北海道で記録的大雪“ラニーニャ現象”で今冬は▽ウイルスで破壊…画期的がん治療▽フィギュア15歳ワリエワ▽卓球(他)</desc>
 </programme>
 <programme start="20211126205700 +0900" stop="20211126220000 +0900" channel="TBS2.jp">
   <title lang="en">中居正広の金曜日のスマイルたちへ</title>
@@ -932,9 +940,9 @@
   <title lang="en"></title>
   <desc lang="en">1995年以来26年ぶり3度目の対戦！ヤクルトは20年ぶり、オリックスは25年ぶりの日本一を目指す。前年最下位同士の対決は史上初めて。</desc>
 </programme>
-<programme start="20211126195500 +0900" stop="20211126205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">らせんの迷宮</title>
-  <desc lang="en">「DNAは嘘をつかない」が口癖の天才科学者と涙もろい熱血刑事が挑む最後の事件！爆発現場から消えた容疑者…衝撃！２つのDNAを持つ死体の謎と8年前の殺人事件の真相!?</desc>
+<programme start="20211127210000 +0900" stop="20211127215400 +0900" channel="TBS2.jp">
+  <title lang="en">世界ふしぎ発見!</title>
+  <desc lang="en">あっちに流れれば太平洋！こっちに流れれば日本海！ニッポンの水の分かれ道「分水嶺」▽1キロ15万円！？水が育む極上美味▽藤井隆がHOTに熱演！芭蕉地獄の分水嶺越え</desc>
 </programme>
 <programme start="20211126205400 +0900" stop="20211126210000 +0900" channel="TVTokyo.jp">
   <title lang="en">インテリア日和</title>
@@ -1080,6 +1088,14 @@
   <title lang="en">出川哲朗の充電させてもらえませんか?</title>
   <desc lang="en">行くぞ＜新潟＞縦断！パワスポ＜彌彦神社＞から絶景＜清津峡＞まで田園街道１２０キロ！ですがゲスト王林＆中岡が超食いしん坊でヤバいよヤバいよＳＰ</desc>
 </programme>
+<programme start="20211127205400 +0900" stop="20211127210000 +0900" channel="TVTokyo.jp">
+  <title lang="en">生きるを伝える</title>
+  <desc lang="en">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
+</programme>
+<programme start="20211127210000 +0900" stop="20211127215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">出没!アド街ック天国</title>
+  <desc lang="en">じゃない方のフタコ「二子新地」に初出没▼コスパ最強の鮮魚店＆謎のイタリア街▼工事現場で煮込み!?▼お隣のニコタマには無いテレビ初登場のゆる〜い穴場店が続々！</desc>
+</programme>
 <programme start="20211126190000 +0900" stop="20211126215800 +0900" channel="FujiTV.jp">
   <title lang="en">ウワサのお客さま</title>
   <desc lang="en">コストコで爆買い＆爆食！デカ盛りクリスマスパーティーＳＰ▽新商品＆便利食材＆時短食材ぞくぞく▽不二家リアルＪＫペコちゃん▽焼肉１００人前大家族</desc>
@@ -1224,9 +1240,9 @@
   <title lang="en">芸能人が本気で考えた!ドッキリGP</title>
   <desc lang="en">千鳥・大悟が参戦！ドッキリ衝撃暴露▽初登場！なにわ男子が着替え中に爆発▽トラジャ顔面泥だらけ▽やす子が鬼ババアから絶叫逃走▽アキナ山名はのっぺらに恐怖</desc>
 </programme>
-<programme start="20211126193000 +0900" stop="20211126200000 +0900" channel="Tokyo MX">
-  <title lang="en">白い砂のアクアトープ</title>
-  <desc lang="en"> </desc>
+<programme start="20211127210000 +0900" stop="20211127231000 +0900" channel="FujiTV.jp">
+  <title lang="en">土曜プレミアム</title>
+  <desc lang="en">小峠大悟春日又吉山内が一緒にやりたい芸人を指名＆一夜限りの新作コント対決▽空気階段シソンヌ人気者２５人集結▽大悟の志村魂ｖｓネタ書かない春日ｖｓ芥川賞</desc>
 </programme>
 <programme start="20211126200000 +0900" stop="20211126210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1447,6 +1463,14 @@
 <programme start="20211127200000 +0900" stop="20211127203000 +0900" channel="Tokyo MX">
   <title lang="en">斬波ZANMAI</title>
   <desc lang="en">前回非常に好評だった「格付けしあう斬波」の第二弾。今回のテーマは『ケチな斬波メンバーは？』です。果たして誰が一番ケチなのか？</desc>
+</programme>
+<programme start="20211127203000 +0900" stop="20211127210000 +0900" channel="Tokyo MX">
+  <title lang="en">遊戯配信 e-Strangers</title>
+  <desc lang="en">次世代の配信スターを発掘！▼海外で話題のストⅡ完コピ芸人コンビが登場！一同が唸ったモノマネ動画とは？▼世界トップクラスのゲームプレイヤーがザ・峠で激突！</desc>
+</programme>
+<programme start="20211127210000 +0900" stop="20211127213000 +0900" channel="Tokyo MX">
+  <title lang="en">キングオブモルックのモルック大作戦!!</title>
+  <desc lang="en">おそらく世界初のモルック番組！まさかの国民的ビッグアーティスト・スキマスイッチが“全力”参戦！狙ったスキットルをぶっ飛ばして、勝利への放物線を描けるか⁉</desc>
 </programme>
 <programme start="20211125234000 +0900" stop="20211126005000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA 初武道館ライブ　Sin After Sin</title>
@@ -2263,7 +2287,7 @@ https//otn.fujitv.co.jp
 <programme start="20211126201500 +0900" stop="20211126210000 +0900" channel="kbsworld.jp">
 <title lang="en">彼女を探して(原題)　2　[字][終]</title>
 <desc>【ヒョンウォン (MONSTA X)出演】オランダ人の青年が一目ぼれした彼女を探しに韓国のイテウォンにやってきた事から巻き起こるラブコメディー！2017年 全2話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211126/7058635/image/5801bb94eec341902eca467c45337655.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211126210000 +0900" stop="20211126220000 +0900" channel="kbsworld.jp">
