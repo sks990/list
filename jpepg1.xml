@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211127035000 +0900" stop="20211127040500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">先どり きょうの健康</title>
-    <desc lang="en">肺がんの手術は、かつてのように肺を大きく切り取る方法から、切除範囲をより小さくする方法に変わってきている。胸くう鏡手術やロボット支援下手術など最新の技術を紹介。</desc>
-  </programme>
-  <programme start="20211127040500 +0900" stop="20211127043000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲(2021年)</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211127043000 +0900" stop="20211127045900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">日本の話芸</title>
-    <desc lang="en">第４１８回ＮＨＫ上方落語の会から笑福亭学光さんの口演で落語「千両の富くじ」をお送りします（２０２１年９月２日（木）ＮＨＫ大阪ホールで収録）。</desc>
-  </programme>
   <programme start="20211127045900 +0900" stop="20211127050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">明日へ1min．「みちのくモノがたり」</title>
     <desc lang="en">東北のモノ作りを伝える「みちのくモノがたり」▼１１０年続く老舗の伝統を受け継ぐ職人・佐藤憲光▼豊かな食文化を支える地元の宝▼震災で死滅した“菌”はその後…</desc>
@@ -293,6 +281,22 @@
   <programme start="20211128040000 +0900" stop="20211128040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">みんなのうた</title>
     <desc lang="en">「ケチャップチャップ」うた杏沙子／「秋物語」うた尾崎紀世彦</desc>
+  </programme>
+  <programme start="20211128040500 +0900" stop="20211128043000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲(2021年)</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211128043000 +0900" stop="20211128045900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">イッピン</title>
+    <desc lang="en">木だけで生活の道具を作る東京の指し物を紹介。美しい木目を生かした机や遊び心に溢れたたんすなどあえて手のこんだ場所を隠して木の魅力を引き出す職人の技と心意気を見る</desc>
+  </programme>
+  <programme start="20211128045900 +0900" stop="20211128050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">明日へ1min． 災害食レシピ</title>
+    <desc lang="en">柔らかすぎるご飯の食べ方▽思いついたのがきりたんぽ▽ポリ袋でご飯をつぶし割りばしで棒状に▽焼くだけでおいしく▽しょうゆや味噌で焼きおにぎり風▽スープで食せば鍋に</desc>
+  </programme>
+  <programme start="20211128050000 +0900" stop="20211128051000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211127035000 +0900" stop="20211127053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -546,9 +550,9 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211127031400 +0900" stop="20211127043900 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">ポシュレ名物ボイルズワイガニ、リモートワーク対策にストレッチアイテム、若見えフェイス目指すアイテム、ポシュレ人気マットレス、バッグ、大珠真珠などお得情報満載で！</desc>
+  <programme start="20211128050000 +0900" stop="20211128060000 +0900" channel="eTele.jp">
+    <title lang="en">こころの時代〜宗教・人生〜</title>
+    <desc lang="en">トルコで４０年以上発掘を続ける考古学者の大村幸弘さん。専門はアナトリア考古学。鉄と軽戦車を持って栄えたというヒッタイト帝国の謎を解明しようとしている。</desc>
   </programme>
   <programme start="20211127043900 +0900" stop="20211127052400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
@@ -684,14 +688,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物ボイルズワイガニ、リモートワーク対策にストレッチアイテム、若見えフェイス目指すアイテム、ポシュレ人気マットレス、バッグ、大珠真珠などお得情報満載で！</desc>
   </programme>
-<programme start="20211127013000 +0900" stop="20211127043000 +0900" channel="Asahi.jp">
-  <title lang="en">朝まで生テレビ!</title>
-  <desc lang="en">1987年スタートの深夜討論番組。今月は与野党論客大集合で『激論！ド〜する？！日本経済再建』をお送りします。</desc>
-</programme>
-<programme start="20211127043000 +0900" stop="20211127045500 +0900" channel="Asahi.jp">
-  <title lang="en">渡辺篤史の建もの探訪</title>
-  <desc lang="en">「森のような庭に包まれる家」神奈川県横須賀市・前田邸</desc>
-</programme>
+  <programme start="20211128045600 +0900" stop="20211128050100 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐ怒涛のあな番ワールド!原田知世×田中圭、西野七瀬×横浜流星ＳＰ対談!!</desc>
+  </programme>
 <programme start="20211127045500 +0900" stop="20211127052000 +0900" channel="Asahi.jp">
   <title lang="en">おかずのクッキング</title>
   <desc lang="en">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
@@ -857,17 +857,18 @@
   <title lang="en">CSテレ朝ナビ!!</title>
   <desc lang="en">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
 </programme>
-<programme start="20211127035500 +0900" stop="20211127040000 +0900" channel="TBS2.jp">
+<programme start="20211128040500 +0900" stop="20211128043000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">女子駅伝日本一決定戦‼今年の夏⚟日本中を熱くした東京五輪日本代表が宮城に集結‼マラソン代表・鈴木亜由子＆一山麻緒、10000ｍ代表・新谷仁美(他)⚟襷に込めた想い</desc>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20211127040000 +0900" stop="20211127041500 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211128043000 +0900" stop="20211128050000 +0900" channel="Asahi.jp">
+  <title lang="en">テレメンタリー2021</title>
+  <desc lang="en">この夏、横浜市からカジノ構想が消え去ったー。カジノ阻止に向け先頭に立って闘った人物がいる。“ハマのドン”こと藤木幸夫氏。２年半に及ぶ闘いを追った。</desc>
 </programme>
-<programme start="20211127041500 +0900" stop="20211127044500 +0900" channel="TBS2.jp">
-  <title lang="en">開運音楽堂</title>
-  <desc lang="en">これぞMADE IN JAPAN！野村ケンジが「STAX」の本社に潜入！最高級の製品を作り上げる熟練者の目、経験、技術。▽言えなかったコト「相方が少しうるさい」</desc>
+<programme start="20211128050000 +0900" stop="20211128052000 +0900" channel="Asahi.jp">
+  <title lang="en">はい!テレビ朝日です</title>
+  <desc lang="en">第２７回プログレス賞の受賞作品から、最優秀賞と奨励賞をダイジェストで紹介します。</desc>
 </programme>
 <programme start="20211127044500 +0900" stop="20211127051500 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -981,6 +982,11 @@
 <programme start="20211128033000 +0900" stop="20211128044000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+</programme>
+<programme start="20211128044000 +0900" stop="20211128054000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販番組（ＴＶショッピング）
+</desc>
 </programme>
 <programme start="20211127022300 +0900" stop="20211127060000 +0900" channel="TVTokyo.jp">
   <title lang="en">世界卓球2021</title>
@@ -1138,21 +1144,12 @@
   <title lang="en">世界卓球2021</title>
   <desc lang="en">世界ランク１位！石川佳純／平野美宇ペア、さらに前回大会銀メダルの伊藤美誠／早田ひなペアが登場！超ハイレベルな頂上決戦！混合ダブルスは張本＆ひな！！</desc>
 </programme>
-<programme start="20211127030500 +0900" stop="20211127040500 +0900" channel="FujiTV.jp">
-  <title lang="en">ハイ_ポール</title>
-  <desc lang="en">話題のミュージシャン＆作家の尾崎世界観ＭＣ▽岡田結実の“運命の人”が占いで発覚！？▽関水渚クリープハイプを熱唱！▽ＫＡＴＹが荒れるＳＮＳのお悩みを告白</desc>
-</programme>
-<programme start="20211127040500 +0900" stop="20211127043500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211127043500 +0900" stop="20211127045000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20211127045000 +0900" stop="20211127045200 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+<programme start="20211128050000 +0900" stop="20211128052000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ サンデー</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20211127045200 +0900" stop="20211127052200 +0900" channel="FujiTV.jp">
   <title lang="en">テレビ寺子屋</title>
@@ -1277,13 +1274,13 @@
   <title lang="en">ミミヨリ!</title>
   <desc lang="en">耳より情報をお届けします！</desc>
 </programme>
-<programme start="20211127035000 +0900" stop="20211127040000 +0900" channel="Tokyo MX">
-  <title lang="en">路面電車のある風景</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211127040000 +0900" stop="20211127043000 +0900" channel="Tokyo MX">
+<programme start="20211128043000 +0900" stop="20211128045000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211128045000 +0900" stop="20211128050500 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
 <programme start="20211127043000 +0900" stop="20211127050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1490,6 +1487,14 @@
   <desc lang="en">ダウトは誰だ⁉感謝のお手紙ＳＨＯＷ！（後編）</desc>
 </programme>
 <programme start="20211128040000 +0900" stop="20211128043000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211128043000 +0900" stop="20211128050000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211128050000 +0900" stop="20211128053000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
