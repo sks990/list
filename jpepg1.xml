@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211127215000 +0900" stop="20211127222000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKだめ自慢〜みんながでるテレビ〜</title>
-    <desc lang="en">「ＮＨＫのど自慢」公認の兄弟番組「ＮＨＫだめ自慢」司会は村上信五と東野幸治！若槻千夏とヒコロヒーをゲストに迎えて、いろんな「だめ自慢」に大笑い！</desc>
-  </programme>
-  <programme start="20211127222000 +0900" stop="20211127224000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">サタデースポーツ</title>
-    <desc lang="en">ヤクルトで決着か？オリックスが粘るか！？プロ野球日本シリーズ第６戦を試合後まもなく速報▽白熱Ｊ１残留争い！湘南と徳島が生き残りをかけて直接対決▽ジャンプ女子Ｗ杯</desc>
-  </programme>
   <programme start="20211127224000 +0900" stop="20211127231000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ストーリーズ</title>
     <desc lang="en">ナレーションのないドキュメンタリー「ノーナレ」。国の防衛政策を動かしたのは、地方紙記者たちのスクープだった。新聞協会賞を受賞した秋田魁新報社のチーム密着取材。</desc>
@@ -338,17 +330,21 @@
     <title lang="en">サンデースポーツ</title>
     <desc lang="en">優勝力士生出演！▽激闘日本Ｓ勝敗分けたのは？▽Ｊリーグ“去る人来る人”▽ゴルフ賞金争い▽難民認定ミャンマー人サッカー選手・異国での葛藤と挑戦の日々▽ジャンプＷ杯</desc>
   </programme>
-  <programme start="20211127215500 +0900" stop="20211127220000 +0900" channel="eTele.jp">
-    <title lang="en">楽ラクワンポイント介護</title>
-    <desc lang="en">認知症家族の介護についてアドバイスする「認知症ワンポイント介護」１０回目は認知症の人がルールなどが守れないことについて。講師は認知症ケアの第一人者の和田行男さん</desc>
+  <programme start="20211128224000 +0900" stop="20211128224500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
+    <desc lang="en">日本の鉄道の魅力を世界に伝える番組「Ｊａｐａｎ　Ｒａｉｌｗａｙ　Ｊｏｕｒｎａｌ」より、鉄道界の権威ある賞である“ブルーリボン賞”を取り上げた回を紹介する。</desc>
   </programme>
-  <programme start="20211127220000 +0900" stop="20211127225000 +0900" channel="eTele.jp">
-    <title lang="en">SWITCHインタビュー 達人達(たち)</title>
-    <desc lang="en">１９０センチ近い身長と変幻自在な演技で存在感を放つ俳優、松重豊。演じるドラマの主人公同様「食いしん坊」な彼にラブコールを送ったのは食雑誌の名物編集長、植野広生。</desc>
+  <programme start="20211128224500 +0900" stop="20211128225500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">未来へ17ACTION☆TV</title>
+    <desc lang="en">メニューを決めて野菜を注文する。そんな常識をやめ、とれた野菜を送ってもらいメニューを考える、常識破りなフレンチシェフの野菜ロスを減らす取り組みを紹介　＃ＳＤＧｓ</desc>
   </programme>
-  <programme start="20211127225000 +0900" stop="20211127225500 +0900" channel="eTele.jp">
-    <title lang="en">ふつうアップデート</title>
-    <desc lang="en">Ｅテレ・バリバラ発のミニ番組。ファッションサイトもマネキンも「立ち姿」ばかり。「座り姿がないのが“ふつう”」なアパレル業界に、車いすユーザーたちが突撃！</desc>
+  <programme start="20211128225500 +0900" stop="20211128230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">未来スイッチ×17ACTION☆TV</title>
+    <desc lang="en">ＬＧＢＴの子供が幸せな学校生活を送れるようにと研修に取り組んでいるのがＮＰＯ法人ＲｅＢｉｔ。トランスジェンダーの子供の半数以上が自殺を考えたこともあるという。</desc>
+  </programme>
+  <programme start="20211128230000 +0900" stop="20211128234800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">アンという名の少女3</title>
+    <desc lang="en">モンゴメリの不朽の名作『赤毛のアン』をドラマ化。最終シーズン。１６才の誕生日を迎えたアンは実の両親のことを知りたいと考える。一方、先住民族の女の子と仲良くなる。</desc>
   </programme>
   <programme start="20211127225500 +0900" stop="20211127230000 +0900" channel="eTele.jp">
     <title lang="en">漢字ふむふむ</title>
@@ -542,13 +538,9 @@
     <title lang="en">古典芸能への招待</title>
     <desc lang="en">東京２０２０オリンピック・パラリンピック能楽祭▽仕舞「鷺（さぎ）」福王茂十郎▽仕舞「井筒（いづつ）」野村幻雪▽能「三輪　神遊（みわ　かみあそび）」友枝昭世ほか</desc>
   </programme>
-  <programme start="20211127215400 +0900" stop="20211127220000 +0900" channel="NipponTV.jp">
-    <title lang="en">Creator’s Space</title>
-    <desc lang="en">人気クリエイターの仕事空間を訪ねて、職場や道具やクリエイティブのこだわりを伺う。そこで「オリジナル作品」の制作を依頼。作品のテーマは［SPACE/スペース］</desc>
-  </programme>
-  <programme start="20211127220000 +0900" stop="20211127225400 +0900" channel="NipponTV.jp">
-    <title lang="en">二月の勝者 -絶対合格の教室-</title>
-    <desc lang="en">中学受験界に舞い降りた最強で最悪の塾講師、黒木蔵人。過激な言動で常に周囲を圧倒する。現代の中学受験のリアルを描き、そこに見えてくる家族問題や教育問題に切り込む。</desc>
+  <programme start="20211128230000 +0900" stop="20211128233000 +0900" channel="eTele.jp">
+    <title lang="en">美の壺</title>
+    <desc lang="en">京都の観光スポットの中で、注目を集めているのが「喫茶店」。町家や洋館をいかした喫茶店から、高倉健が通いつめた喫茶店まで、レトロでモダンな喫茶店の魅力に迫る！</desc>
   </programme>
   <programme start="20211127225400 +0900" stop="20211127230000 +0900" channel="NipponTV.jp">
     <title lang="en">Stories 〜あなたのライフを探す家〜</title>
@@ -721,10 +713,10 @@
     <title lang="en">おしゃれクリップ</title>
     <desc lang="en">芸能界引退まで考えた…活動休止中の苦悩と復活劇▼今夜はアイドル前髪を封印！パンツスタイルで登場▼尋常じゃないプロ意識「他のメンバーのスケジュール把握してる」</desc>
   </programme>
-<programme start="20211127215500 +0900" stop="20211127225500 +0900" channel="Asahi.jp">
-  <title lang="en">あざとくて何が悪いの?</title>
-  <desc lang="en">猛毒注意‼山里亮太×田中みな実×弘中綾香という危険すぎる３人が“あざとい男女”の言動について徹底トーク‼</desc>
-</programme>
+  <programme start="20211128223000 +0900" stop="20211128232500 +0900" channel="NipponTV.jp">
+    <title lang="en">真犯人フラグ</title>
+    <desc lang="en">光莉（原菜乃華）の監禁動画を撮影した廃墟を特定！凌介（西島秀俊）は急いで向かうが…！？ぷろびん（柄本時生）が凌介と瑞穂（芳根京子）の不倫疑惑を煽動して…！？</desc>
+  </programme>
 <programme start="20211127225500 +0900" stop="20211127230000 +0900" channel="Asahi.jp">
   <title lang="en">Dream Challenger 〜夢に挑む者たち〜</title>
   <desc lang="en">ソチオリンピック日本代表、プロフィギュアスケーター・村上佳菜子さんが次世代へ伝えたい「夢への言葉」。
@@ -895,53 +887,65 @@
   <title lang="en">くりぃむナンタラ</title>
   <desc lang="en">公式カメラにパンツが見えたら即「失格！」男性陣がミニスカート姿で陸上競技に挑戦する伝説企画が令和に大復活！パンサー尾形とSixTONES田中樹にまさかのドーピング疑惑？</desc>
 </programme>
-<programme start="20211127175100 +0900" stop="20211127225000 +0900" channel="TBS2.jp">
+<programme start="20211128222500 +0900" stop="20211128225500 +0900" channel="Asahi.jp">
+  <title lang="en">テレビ千鳥</title>
+  <desc lang="en">カレー粉をかければどんな料理も旨くなるのか検証する企画。趣旨を伝えずに真剣に作った一品に突然カレー粉をぶっかける。ノブコブ吉村＆野田クリ、あの大物の手料理も</desc>
+</programme>
+<programme start="20211128225500 +0900" stop="20211128230000 +0900" channel="Asahi.jp">
+  <title lang="en">EXITのラリージャパン応援宣言</title>
+  <desc lang="en">世界の一般道を舞台に繰り広げられる世界ラリー。世界ラリーの魅力とラリージャパンの見どころを、ＥＸＩＴが全開で紹介します。</desc>
+</programme>
+<programme start="20211128230000 +0900" stop="20211128235500 +0900" channel="Asahi.jp">
+  <title lang="en">関ジャム 完全燃SHOW</title>
+  <desc lang="en">歌詞の発想や歌の表現力…プロたちの疑問をRADWIMPS野田洋次郎に独占９０分直撃！予定時間を大幅に超え関係者でも知らなかった事実が次々飛び出す超貴重なインタビューに！</desc>
+</programme>
+<programme start="20211127175100 +0900" stop="20211127230500 +0900" channel="TBS2.jp">
   <title lang="en">プロ野球 SMBC日本シリーズ2021</title>
   <desc lang="en">1995年以来26年ぶり3度目の対戦！ヤクルトは20年ぶり、オリックスは25年ぶりの日本一を目指す。前年最下位同士の対決は史上初めて。</desc>
 </programme>
-<programme start="20211127225000 +0900" stop="20211127234400 +0900" channel="TBS2.jp">
+<programme start="20211127230500 +0900" stop="20211127235900 +0900" channel="TBS2.jp">
   <title lang="en">世界ふしぎ発見!</title>
   <desc lang="en">あっちに流れれば太平洋！こっちに流れれば日本海！ニッポンの水の分かれ道「分水嶺」▽1キロ15万円！？水が育む極上美味▽藤井隆がHOTに熱演！芭蕉地獄の分水嶺越え</desc>
 </programme>
-<programme start="20211127234400 +0900" stop="20211127234500 +0900" channel="TBS2.jp">
+<programme start="20211127235900 +0900" stop="20211128000000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20211127234500 +0900" stop="20211128010900 +0900" channel="TBS2.jp">
+<programme start="20211128000000 +0900" stop="20211128012400 +0900" channel="TBS2.jp">
   <title lang="en">新・情報7daysニュースキャスター</title>
   <desc lang="en">オミクロン株拡大…水際対策は？◆半導体不足が“冬の給湯”直撃◆ＢＴＳ米音楽賞ＡＭＡで３冠◆値下げで子育て世代狙え！北総線ＶＳ小田急線◆４９羽から選ぶ推しペンギン</desc>
 </programme>
-<programme start="20211128010900 +0900" stop="20211128011500 +0900" channel="TBS2.jp">
+<programme start="20211128012400 +0900" stop="20211128013000 +0900" channel="TBS2.jp">
   <title lang="en">新井恵理那のWeatherニュースキャスター</title>
   <desc lang="en">新井恵理那さんと“あともう少し！”をコンセプトに、お天気情報＆きっとあした食べたくなる食、着たくなるファッションなどご紹介！“あともう少し”夜更かししてね！</desc>
 </programme>
-<programme start="20211128011500 +0900" stop="20211128014500 +0900" channel="TBS2.jp">
+<programme start="20211128013000 +0900" stop="20211128020000 +0900" channel="TBS2.jp">
   <title lang="en">人生最高レストラン</title>
   <desc lang="en">▼キングオブコント優勝のキッカケ！町中華▼『カメラマンにも緊張しちゃう…』加藤浩次にガチお悩み相談▼『お笑い始めて特に何も…』天然爆笑キャラ菊田が爆弾発言を連発</desc>
 </programme>
-<programme start="20211128014500 +0900" stop="20211128021500 +0900" channel="TBS2.jp">
+<programme start="20211128020000 +0900" stop="20211128023000 +0900" channel="TBS2.jp">
   <title lang="en">7つの海を楽しもう!世界さまぁ〜リゾート</title>
   <desc lang="en">ビーチウォーカーin　沖縄
 小島瑠璃子が沖縄の最新スポットをご紹介！
 隠れ家ビーチ、絶叫アクティビティ、最新ホテル、お土産、最新カフェ、ローカルグルメ情報など</desc>
 </programme>
-<programme start="20211128021500 +0900" stop="20211128024300 +0900" channel="TBS2.jp">
+<programme start="20211128023000 +0900" stop="20211128025800 +0900" channel="TBS2.jp">
   <title lang="en">S☆1</title>
   <desc lang="en">▽プロ野球日本シリーズ第６戦
 ▽サッカー　ベルギーリーグ三笘マークカメラ
 ▽ゴルフカシオ　中島啓太
 ▽フィギュアスケートＧＰシリーズ</desc>
 </programme>
-<programme start="20211128024300 +0900" stop="20211128031300 +0900" channel="TBS2.jp">
+<programme start="20211128025800 +0900" stop="20211128032800 +0900" channel="TBS2.jp">
   <title lang="en">私が女優になる日_</title>
   <desc lang="en">☆TBSドラマ出演メンバー三浦涼菜vsジャンポケおたけ
 ☆「自分が壊してしまったダイヤ破壊の罪も、演技力があれば罪を被ってくれる？」</desc>
 </programme>
-<programme start="20211128031300 +0900" stop="20211128034300 +0900" channel="TBS2.jp">
+<programme start="20211128032800 +0900" stop="20211128035800 +0900" channel="TBS2.jp">
   <title lang="en">占いメガネ</title>
   <desc lang="en">人気占い師が悩める芸能人の自宅で人生をガチ占い★大人気YouTuberパパラピーズを自宅出張で覗く★占い師・斗弥が占う、今後の２人に解散はあるのか！？</desc>
 </programme>
-<programme start="20211128034300 +0900" stop="20211128044000 +0900" channel="TBS2.jp">
+<programme start="20211128035800 +0900" stop="20211128044000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
@@ -1041,16 +1045,13 @@
   <title lang="en">日曜日の初耳学</title>
   <desc lang="en">林先生が「ぜひ話を聞きたい」と指名！天才飲食店プロデューサー・稲田俊輔★飲食業界のリアル＆プロが認める料理＆『食べログの見極め方』▼スマホ新時代の最強活用術</desc>
 </programme>
-<programme start="20211127215400 +0900" stop="20211127220000 +0900" channel="TVTokyo.jp">
-  <title lang="en">土曜名馬座</title>
-  <desc lang="en">◆第二百十四夜「女王伝説」
-人々の記憶に残る、名馬たちの活躍を
-当時のエピソードなどを交えて紹介する。
-俳優・仲村トオルが語る名馬物語………</desc>
+<programme start="20211128225400 +0900" stop="20211128230000 +0900" channel="TBS2.jp">
+  <title lang="en">今晩、Paraviれば</title>
+  <desc lang="en">過去の話題作やオリジナル番組が見放題の動画配信サービス【Paravi】！豊富なラインアップから一押しコンテンツをご紹介！今すぐParaviれば！</desc>
 </programme>
-<programme start="20211127220000 +0900" stop="20211127223000 +0900" channel="TVTokyo.jp">
-  <title lang="en">新美の巨人たち</title>
-  <desc lang="en">横浜のシンボル「山下公園」はこうして誕生した！要潤さんが麗しきウォーターフロントの知られざる物語に迫ります。港町の景観はなぜ今も美しいのか？横浜の記憶がここに…</desc>
+<programme start="20211128230000 +0900" stop="20211128233000 +0900" channel="TBS2.jp">
+  <title lang="en">情熱大陸</title>
+  <desc lang="en">日本で『最もチケットが取れないピアニスト』が挑む、世界屈指のコンクール。５年に一度の大会に入賞するため…己の音楽を信じ突き進む！サムライ・ピアニストのこれから</desc>
 </programme>
 <programme start="20211127223000 +0900" stop="20211127230000 +0900" channel="TVTokyo.jp">
   <title lang="en">追跡 LIVE! SPORTS ウォッチャー</title>
@@ -1200,6 +1201,14 @@
 <programme start="20211128215400 +0900" stop="20211128224800 +0900" channel="TVTokyo.jp">
   <title lang="en">有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?</title>
   <desc lang="en">超人気「鬼滅の刃」思わず全集中でやってしまいました▽有吉の鱗滝ワザ＆激シブの呼吸が炸裂！一同爆笑！有吉ぃぃの柱たちがオンラインに挑む▽「水族館」貸し切りゲーム</desc>
+</programme>
+<programme start="20211128224800 +0900" stop="20211128225400 +0900" channel="TVTokyo.jp">
+  <title lang="en">eSports high TV</title>
+  <desc lang="en">毎週ｅスポーツイベントや最新ゲームなど旬な情報を届ける。ＭＣは中垣正太郎アナと原田修佑アナ。そしてAI-Vtuberのタミ子。</desc>
+</programme>
+<programme start="20211128225400 +0900" stop="20211128233000 +0900" channel="TVTokyo.jp">
+  <title lang="en">追跡 LIVE! SPORTS ウォッチャー</title>
+  <desc lang="en">ロンドン五輪女子団体銀の平野早矢香が世界卓球の日本勢を大解剖！注目の伊藤＆早田と石川＆平野の女子ダブルス勝てばメダルが確定▽女子ゴルフ今季の賞金女王の座は…</desc>
 </programme>
 <programme start="20211127210000 +0900" stop="20211127231000 +0900" channel="FujiTV.jp">
   <title lang="en">土曜プレミアム</title>
@@ -1367,14 +1376,6 @@
 <programme start="20211128220000 +0900" stop="20211128231500 +0900" channel="FujiTV.jp">
   <title lang="en">Mr.サンデー</title>
   <desc lang="en">「今何が！」日曜夜の情報ＬＩＶＥショー▽週イチ知りたいニュースを独自追跡▽ニュースの見方アップデート！生ゲスト▽役立ち情報×ヒューマン物語▽宮根＆三田</desc>
-</programme>
-<programme start="20211127213000 +0900" stop="20211127220000 +0900" channel="Tokyo MX">
-  <title lang="en">音ボケPOPS</title>
-  <desc lang="en">超特急・リョウガとユーキが語る、グループの独特な活動に、ＭＣ中川翔子と、庄司智春（品川庄司）、高田夏帆が大興奮！超特急が抱える「ユーキに関する悩み」も明らかに⁉</desc>
-</programme>
-<programme start="20211127220000 +0900" stop="20211127223000 +0900" channel="Tokyo MX">
-  <title lang="en">最果てのパラディン</title>
-  <desc lang="en">死者の街で生きた少年は聖騎士（パラディン）への道を歩み出す</desc>
 </programme>
 <programme start="20211127223000 +0900" stop="20211127230000 +0900" channel="Tokyo MX">
   <title lang="en">D_CIDE TRAUMEREI THE ANIMATION</title>
@@ -1576,6 +1577,14 @@
   <title lang="en">さんかく窓の外側は夜</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211128223000 +0900" stop="20211128230000 +0900" channel="Tokyo MX">
+  <title lang="en">攻殻機動隊 S.A.C.2nd GIG</title>
+  <desc lang="en">『攻殻機動隊　ＳＡＣ＿２０４５　持続可能戦争』の劇場公開を記念し、『攻殻機動隊　Ｓ．Ａ．Ｃ．』シリーズよりセレクションエピソードを全８回放送！</desc>
+</programme>
+<programme start="20211128230000 +0900" stop="20211128233000 +0900" channel="Tokyo MX">
+  <title lang="en">テスラノート</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211127000000 +0900" stop="20211127020000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第18戦、第19戦、第20戦 特集〜</title>
 <desc>＜解説＞川井一仁　米家峰起　＜ゲスト＞山本雅史（ホンダF1マネージングディレクター）　＜MC＞堀池亮介　▽「FORMULA 1」の最新情報をお届け！　【再放送】
@@ -1704,7 +1713,7 @@
 <programme start="20211127210000 +0900" stop="20211127230000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第18戦、第19戦、第20戦 特集〜</title>
 <desc>＜解説＞川井一仁　米家峰起　＜ゲスト＞山本雅史（ホンダF1マネージングディレクター）　＜MC＞堀池亮介　▽「FORMULA 1」の最新情報をお届け！　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211127/7070910/image/193b3379065d30c33627042a08b29ed8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211127230000 +0900" stop="20211128005000 +0900" channel="FujiNext.jp">
@@ -1897,7 +1906,7 @@ https//otn.fujitv.co.jp
 <desc>＜出演＞蛍原徹　お兄ちゃん　雪平莉左
 ＜講師＞オオタケ　立川優馬　トム
 ▽競馬ファン待望の馬券研究番組！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211127/7068960/image/a65b3fc8f7e5c24ae78e40bf250042a4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211127230000 +0900" stop="20211128000000 +0900" channel="FujiOne.jp">
@@ -2147,7 +2156,7 @@ https//otn.fujitv.co.jp
 <programme start="20211127210000 +0900" stop="20211127230000 +0900" channel="FujiTwo.jp">
 <title lang="en">エビ中 秋声と螻蛄と音楽の輝き 題して「ちゅうおん」2021</title>
 <desc>新メンバー3人を加えた9人での私立恵比寿中学新体制初ライブ！カバー曲も含めた楽曲をこの日限りのアレンジで歌い上げる貴重な映像を観られるのはこの番組だけ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211127/7071131/image/95a58376e929e75fce5da44604a92f7e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211127230000 +0900" stop="20211127233000 +0900" channel="FujiTwo.jp">
@@ -2306,7 +2315,7 @@ https//otn.fujitv.co.jp
 <programme start="20211127214000 +0900" stop="20211127230000 +0900" channel="kbsworld.jp">
 <title lang="en">オーケー、グァン姉妹（原題）　47　[字]</title>
 <desc>日本初放送！両親の離婚協議中に起きた母親殺害事件の容疑者候補に家族全員があがることから物語がはじまるミステリー　ラブコメ　ホームドラマ！2021年　全50話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211127/7060946/image/7f1d8a27a07047aa296f1140f3480ac9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211127230000 +0900" stop="20211128003000 +0900" channel="kbsworld.jp">
