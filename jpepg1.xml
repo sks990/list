@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211130045000 +0900" stop="20211130050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">ベラルーシとＥＵ加盟国ポーランドとの国境付近に中東などからヨーロッパに向かおうとする数千人が集結している。新たな“移民・難民危機”ともいわれる問題について解説。</desc>
-  </programme>
   <programme start="20211130050000 +0900" stop="20211130060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼立民代表選きょう投票　▼佐賀競馬のホープ・飛田愛斗騎手に迫る　▼留学生・服部剛丈さん銃撃から２９年　銃規制訴え続け</desc>
@@ -310,13 +306,9 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20211130025500 +0900" stop="20211130053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211130053000 +0900" stop="20211130055500 +0900" channel="eTele.jp">
-    <title lang="en">ロシアゴスキー</title>
-    <desc lang="en">現地のリポーターの案内による街歩きと、楽しいアニメーションで学ぶ、スタイリッシュなロシア語講座。モスクワの風景を楽しみながら、旅で役立つロシア語を覚えましょう！</desc>
+  <programme start="20211201060000 +0900" stop="20211201063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20211130055500 +0900" stop="20211130060000 +0900" channel="eTele.jp">
     <title lang="en">楽ラクワンポイント介護</title>
@@ -662,9 +654,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211130043000 +0900" stop="20211130055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽“水際対策”政府が外国人の入国禁止▽日大理事長を脱税の疑いで逮捕▽イチローが熱血指導！</desc>
+  <programme start="20211201053000 +0900" stop="20211201055500 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">ついに殺されるカラマーゾフ兄弟の父親フョードル。一体彼を殺したのは誰か？　そしてドストエフスキーは、この「父殺し」のテーマで何を表現しようとしたのか？</desc>
+  </programme>
+  <programme start="20211201055500 +0900" stop="20211201060000 +0900" channel="eTele.jp">
+    <title lang="en">浮世絵EDO-LIFE</title>
+    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！今回は、江戸のアミューズメントパーク。当時、最新のスタイルで、大人気を博したホットスポットだ！</desc>
+  </programme>
+  <programme start="20211201060000 +0900" stop="20211201062500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのイタリア語</title>
+    <desc lang="en">旅に役立つイタリア語を楽しく学べる講座。今シリーズは、さらに使える「応用編」。もちろん初心者にもわかりやすくお伝えします。</desc>
   </programme>
   <programme start="20211130055000 +0900" stop="20211130080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -757,6 +757,10 @@
   <programme start="20211201043000 +0900" stop="20211201055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20211201055000 +0900" stop="20211201080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20211130045500 +0900" stop="20211130080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -895,11 +899,6 @@ by.リスト</desc>
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
-<programme start="20211130043000 +0900" stop="20211130052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
-ニュースも天気も充実</desc>
-</programme>
 <programme start="20211130052000 +0900" stop="20211130080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
   <desc lang="en">朝ラーメン対決中継！魚介系VS肉ざんまい▼秋篠宮さま眞子さんご結婚語る▼“日大のドン”逮捕▼オミクロン株最新▼BTS有観客ライブ▼20年前から…カツオ窃盗真相</desc>
@@ -985,9 +984,9 @@ by.リスト</desc>
   <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
 ニュースも天気も充実</desc>
 </programme>
-<programme start="20211130040100 +0900" stop="20211130054500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">54年ぶりの女子ダブルス金メダルの快挙へ！！伊藤美誠・早田ひなの「みまひな」ペアが大偉業に挑む！アメリカ・ヒューストンから緊急生中継でお送りします。</desc>
+<programme start="20211201052000 +0900" stop="20211201080000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME,</title>
+  <desc lang="en">安住紳一郎と香川照之のＷ司会で、明るく楽しく丁寧に、そして正直にお伝えします！</desc>
 </programme>
 <programme start="20211130054500 +0900" stop="20211130070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1126,9 +1125,9 @@ by.リスト</desc>
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20211130045500 +0900" stop="20211130052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20211201054500 +0900" stop="20211201070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20211130052500 +0900" stop="20211130080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1234,13 +1233,9 @@ by.リスト</desc>
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20211130043500 +0900" stop="20211130050000 +0900" channel="Tokyo MX">
-  <title lang="en">洋上の楽園クルーズ</title>
-  <desc lang="en">「フレンチポリネシア　タヒチ楽園クルーズ」</desc>
-</programme>
-<programme start="20211130050000 +0900" stop="20211130053000 +0900" channel="Tokyo MX">
-  <title lang="en">ロンブー亮の釣りならまかせろ!</title>
-  <desc lang="en">サビキ釣りならまかせろ⁉大波乱！短期決戦の連発劇！</desc>
+<programme start="20211201052500 +0900" stop="20211201080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20211130053000 +0900" stop="20211130060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1410,6 +1405,14 @@ by.リスト</desc>
   <title lang="en">日本で味わう世界食堂!</title>
   <desc lang="en">トーゴ／ボリビア</desc>
 </programme>
+<programme start="20211201053000 +0900" stop="20211201060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211201060000 +0900" stop="20211201070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+</programme>
 <programme start="20211129231000 +0900" stop="20211130011000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 F1 GPニュース　〜第18戦、第19戦、第20戦 特集〜</title>
 <desc>＜解説＞川井一仁　米家峰起　＜ゲスト＞山本雅史（ホンダF1マネージングディレクター）　＜MC＞堀池亮介　▽「FORMULA 1」の最新情報をお届け！　【再放送】
@@ -1432,7 +1435,7 @@ by.リスト</desc>
 <title lang="en">SELECTRAVEL　6「北海道 網走・知床編」</title>
 <desc>この番組は、まさに旅のガイドブック。タイプの違う2つの旅のプランをご紹介する！
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211130/7079594/image/ffef8bac1cf8a0ac48b1ea54b8dac86a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211130060000 +0900" stop="20211130125000 +0900" channel="FujiNext.jp">
@@ -1604,7 +1607,7 @@ https//otn.fujitv.co.jp
 <desc>『湯野上温泉編 後篇』
 撮影地洗心亭
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211130/7079722/image/eaecddbb64b3e517a72ebaed273b6748.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211130060000 +0900" stop="20211130080000 +0900" channel="FujiOne.jp">
@@ -1873,7 +1876,7 @@ https//otn.fujitv.co.jp
 <programme start="20211130053000 +0900" stop="20211130060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211130/7079925/image/674223cf67cc6ef42a8cad0144cd3c95.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211130060000 +0900" stop="20211130070000 +0900" channel="FujiTwo.jp">
