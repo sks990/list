@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211201233500 +0900" stop="20211202002400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">食品もガソリンも株価も値上がり・暮らしにどう影響？一体なぜ？▽景気に影を落とす「世界インフレ」最前線での「争奪戦」▽コロナ禍に巨額の利益を稼ぐヘッジファンド</desc>
-  </programme>
-  <programme start="20211202002400 +0900" stop="20211202005100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">所さん!大変ですよ</title>
-    <desc lang="en">ラーメンで移住者を増やす街があると聞き訪ねると、市の肝いりの「ラーメン予備校」に希望者が押し寄せていた！？北海道にはなんと２人に１人が移住者の「映える」街も？</desc>
-  </programme>
-  <programme start="20211202005100 +0900" stop="20211202005600 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">夜光音楽 ボカロP 5min.</title>
-    <desc lang="en">アンコール！毎回ひと組のボカロＰが登場し曲作りや創作の舞台裏について語る新番組▽♯１のボカロＰはＤＥＣＯ＊２７▽作詞を担当したＡｄｏの新曲「踊」に込めた思いとは</desc>
-  </programme>
   <programme start="20211202005600 +0900" stop="20211202010100 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">夜光音楽 ボカロP 5min.</title>
     <desc lang="en">アンコール！毎回ひと組のボカロＰが登場し創作の舞台裏について語る新番組▽第２回のゲストはテレビ初登場のＮｅｒｕ▽代表曲「ロストワンの号哭」に込めた思いを語る</desc>
@@ -338,9 +326,17 @@
     <title lang="en">夜光音楽</title>
     <desc lang="en">まふまふがこれまで語ってこなかった音楽への思いを語る特集番組！東京ドーム舞台裏密着＆ＳＰ編集映像も！大学などゆかりの地を巡り１０年を語る▽紅白発表会見にも密着</desc>
   </programme>
-  <programme start="20211201235500 +0900" stop="20211202000000 +0900" channel="eTele.jp">
-    <title lang="en">Eテレ2355</title>
-    <desc lang="en">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です</desc>
+  <programme start="20211203002000 +0900" stop="20211203004500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">これまでの「群青領域」</title>
+    <desc lang="en">金曜２２時〜放送中のドラマ１０「群青領域」。今夜放送の第７回を前に、これまでのストーリーをふりかえります。</desc>
+  </programme>
+  <programme start="20211203004500 +0900" stop="20211203004700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">１２／２７（月）〜２９（水）夜１０時〜３夜連続放送！荒木飛呂彦原作×高橋一生主演、漫画家・岸辺露伴の活躍を描くドラマ第２弾の見どころを１分で紹介</desc>
+  </programme>
+  <programme start="20211203004700 +0900" stop="20211203013400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">歴史探偵</title>
+    <desc lang="en">１３００年前、中国に渡った遣唐使。大海原を越えた遣唐使船と驚異の航海術を徹底解明！中国で見つかった石版には、遣唐使の謎のミッションに迫るカギが秘められていた。</desc>
   </programme>
   <programme start="20211202000000 +0900" stop="20211202010000 +0900" channel="eTele.jp">
     <title lang="en">ETV特集</title>
@@ -674,16 +670,17 @@
     <title lang="en">アクティブ10 レキデリ</title>
     <desc lang="en">東京０３と歴史のナゾ解きに挑戦！戦国時代末期になると山間部に築かれる山城から、平野に築かれるお城へと変化した。その謎をひもとくと社会や経済の変化が見えてくる！？</desc>
   </programme>
-  <programme start="20211201235900 +0900" stop="20211202005400 +0900" channel="NipponTV.jp">
-    <title lang="en">それって!?実際どうなの課</title>
-    <desc lang="en">世の中のウマイ話を検証するドキュメントバラエティー！
-
-【博多華丸・大吉×最新技術】
-【姿勢を正すと痩せるって、実際どうなのか？】</desc>
+  <programme start="20211203001000 +0900" stop="20211203002000 +0900" channel="eTele.jp">
+    <title lang="en">アクティブ10 公民</title>
+    <desc lang="en">岡崎体育が出演！中学校の社会科（公民的分野）向けの番組。体育の素朴な疑問を手がかりに、現代の社会が抱える問題を深く掘り下げていく。今回のテーマは「裁判」。</desc>
   </programme>
-  <programme start="20211202005400 +0900" stop="20211202005900 +0900" channel="NipponTV.jp">
-    <title lang="en">イントロ</title>
-    <desc lang="en">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
+  <programme start="20211203002000 +0900" stop="20211203003000 +0900" channel="eTele.jp">
+    <title lang="en">ロンリのちから</title>
+    <desc lang="en">論理的思考力を養う番組です。毎回、簡単な例文を題材に、論理的に考えるとはどういうことかを学んでいきます。今回は根拠について掘り下げて学びます。</desc>
+  </programme>
+  <programme start="20211203003000 +0900" stop="20211203053000 +0900" channel="eTele.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211202005900 +0900" stop="20211202015900 +0900" channel="NipponTV.jp">
     <title lang="en">サッカー★アース</title>
@@ -785,18 +782,14 @@
     <title lang="en">アンラッキーガール!</title>
     <desc lang="en">２４時間３６５日トラブル連発で大暴れするアンラッキーコメディ！世界一不運な３人を待ち受ける「大凶日」！？最凶ガールズは最強タッグで幸せをつかめるのか？</desc>
   </programme>
-<programme start="20211201231500 +0900" stop="20211202001500 +0900" channel="Asahi.jp">
-  <title lang="en">お笑い実力刃</title>
-  <desc lang="en">ＭＣアンタッチャブルとサンドウィッチマンのもとに、実力派芸人たちが集結！珠玉のネタを披露し、ＭＣたちとネタや笑いについて熱くトークする硬派ネタバラエティ！</desc>
-</programme>
-<programme start="20211202001500 +0900" stop="20211202004500 +0900" channel="Asahi.jp">
-  <title lang="en">キョコロヒー</title>
-  <desc lang="en">日向坂46齊藤京子と芸人ヒコロヒーによる凸凹トークバラエティ。自由過ぎるアイドルと翻弄される芸人のトークがなぜかクセになってしまうと評判のヘンテコ深夜番組です。</desc>
-</programme>
-<programme start="20211202004500 +0900" stop="20211202005000 +0900" channel="Asahi.jp">
-  <title lang="en">東京トキメキ百貨店mini</title>
-  <desc lang="en">手にしたらキュンとトキメク商品をその場で買える通販番組‼今注目のトータルスカルプケアセット「ヘアモ」が登場‼</desc>
-</programme>
+  <programme start="20211203005400 +0900" stop="20211203005900 +0900" channel="NipponTV.jp">
+    <title lang="en">イントロ</title>
+    <desc lang="en">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
+  </programme>
+  <programme start="20211203005900 +0900" stop="20211203015900 +0900" channel="NipponTV.jp">
+    <title lang="en">今日から俺は!!</title>
+    <desc lang="en">ツッパリ全盛期８０年代。伝説の漫画を奇才・福田雄一が実写化！規格外ヒーローがどんな手を使っても悪党を倒す痛快コメディ！</desc>
+  </programme>
 <programme start="20211202005000 +0900" stop="20211202012000 +0900" channel="Asahi.jp">
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
@@ -919,18 +912,17 @@
   <title lang="en">アメトーーク!</title>
   <desc lang="en">▽今の本好きたちが読んでるのは？…厳選！お気に入り作品▽カズレーザーも絶賛のＳＦ小説とは？▽本の選び方＆本屋の歩き方▽自宅の本棚を公開▽「ＮＥＸＴ又吉」は誰だ？</desc>
 </programme>
-<programme start="20211201235600 +0900" stop="20211202004000 +0900" channel="TBS2.jp">
-  <title lang="en">よるのブランチ</title>
-  <desc lang="en">Ｌｉｌ かんさい嶋﨑斗亜＆西村拓哉がアインシュタインとコスパ最強のビストロ店でお値段見極めバトル‼▽話題の次くる芸人が今注目の商品でプレゼンネタバトル♬</desc>
+<programme start="20211203001500 +0900" stop="20211203004500 +0900" channel="Asahi.jp">
+  <title lang="en">かまいガチ</title>
+  <desc lang="en">今夜は地方ロケ企画！あの芸人の実家で恥ずかしい過去を暴く！▼かまいたちの２人が“ガチでそのとき面白いと思うこと”に挑戦する関東初の冠レギュラー番組</desc>
 </programme>
-<programme start="20211202004000 +0900" stop="20211202005500 +0900" channel="TBS2.jp">
-  <title lang="en">この初恋はフィクションです</title>
-  <desc lang="en">主人公・倉科泉が通う高校にやってきた、顔も姿も見えない不思議な転校生・祖父江広樹。彼の正体を追う中で、友情、恋愛、進路が振り回される！青春群像ラブストーリー！</desc>
+<programme start="20211203004500 +0900" stop="20211203005000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
 </programme>
-<programme start="20211202005500 +0900" stop="20211202005800 +0900" channel="TBS2.jp">
-  <title lang="en">ビジネス・クリック</title>
-  <desc lang="en">最新の金融マーケット情報をＮＹから中継。
-注目の経済ニュースも</desc>
+<programme start="20211203005000 +0900" stop="20211203012000 +0900" channel="Asahi.jp">
+  <title lang="en">お願い!ランキング</title>
+  <desc lang="en">ケイ＆渚＆幸が人気焼肉店ランキング順位を予想し『グルメビンゴ』に挑戦!!</desc>
 </programme>
 <programme start="20211202005800 +0900" stop="20211202012800 +0900" channel="TBS2.jp">
   <title lang="en">ふるさとの未来</title>
@@ -1010,16 +1002,19 @@
   <title lang="en">中居大輔と本田翼と夜な夜なラブ子さん</title>
   <desc lang="en">本田翼ロケ出動で山梨の高校大混乱！生徒のピュアすぎる告白に涙＆大輔プロ野球チームのお見合いを全力サポート！その前に今夜は、過去に告白した人たちのその後を追跡★</desc>
 </programme>
-<programme start="20211201235500 +0900" stop="20211202000000 +0900" channel="TVTokyo.jp">
-  <title lang="en">追跡 LIVE! SPORTS ウォッチャー</title>
-  <desc lang="en">▽バスケ渡邊雄太　途中出場から１１得点
-▽都市対抗野球　ドラフト指名投手が快投‼
-▽カーリング日本代表　北京五輪へ意気込み
-▽タイガー・ウッズ(他)</desc>
+<programme start="20211203004000 +0900" stop="20211203005500 +0900" channel="TBS2.jp">
+  <title lang="en">この初恋はフィクションです</title>
+  <desc lang="en">主人公・倉科泉が通う高校にやってきた、顔も姿も見えない不思議な転校生・祖父江広樹。彼の正体を追う中で、友情、恋愛、進路が振り回される！青春群像ラブストーリー！</desc>
 </programme>
-<programme start="20211202000000 +0900" stop="20211202003000 +0900" channel="TVTokyo.jp">
-  <title lang="en">古見さんは、コミュ症です。</title>
-  <desc lang="en">新学期初日。井中さんだけが憂鬱そうな表情。田舎者だとばれないように、夏休みデビューしていたのだった。古見さんを都会のオンナと見定め、後をつけるのだが…？</desc>
+<programme start="20211203005500 +0900" stop="20211203005800 +0900" channel="TBS2.jp">
+  <title lang="en">ビジネス・クリック</title>
+  <desc lang="en">最新の金融マーケット情報をＮＹから中継。
+注目の経済ニュースも</desc>
+</programme>
+<programme start="20211203005800 +0900" stop="20211203012800 +0900" channel="TBS2.jp">
+  <title lang="en">KAT-TUNの食宝ゲッットゥーン</title>
+  <desc lang="en">松茸の２倍の旨味を持つ食宝「本しめじ」を捜索する事５時間、いまだ見つけられないチーム上田
+番組初の食宝ゲットならずが現実味を帯びていく中、予想外の結末が！</desc>
 </programme>
 <programme start="20211202003000 +0900" stop="20211202010000 +0900" channel="TVTokyo.jp">
   <title lang="en">つまり好きって言いたいんだけど、</title>
@@ -1184,13 +1179,13 @@
   <title lang="en">じっくり聞いタロウ 〜スター近況(秘)報告〜</title>
   <desc lang="en">SNSで人生激変SP▽名門大学在学中にAVデビューするも速攻で特定され…身バレ騒動の一部始終▽トップYouTuberだったのにあるきっかけで大転落…誹謗中傷の地獄の日々</desc>
 </programme>
-<programme start="20211201234000 +0900" stop="20211202002500 +0900" channel="FujiTV.jp">
-  <title lang="en">FNN Live News α</title>
-  <desc lang="en">オミクロン株厳重警戒▽ディズニー花火再開▽今年の“流行語”は▽長距離界新ヒロイン</desc>
+<programme start="20211203003000 +0900" stop="20211203010000 +0900" channel="TVTokyo.jp">
+  <title lang="en">お茶にごす。</title>
+  <desc lang="en">「今日から俺は!!」西森博之原作・不良×茶道部異色ヤンキーコメディ漫画を実写ドラマ化▼優しい人になるため奮闘する船橋に見知らぬ女子高生が助けを求めてくるが…。</desc>
 </programme>
-<programme start="20211202002500 +0900" stop="20211202003500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">１２／５日曜夜７時〜は選ばれし漫才マスターたちによる、年に一度の超プレミアムな笑いの祭典「ＴＨＥ　ＭＡＮＺＡＩ２０２１マスターズ」▼今夜は中川家！</desc>
+<programme start="20211203010000 +0900" stop="20211203013000 +0900" channel="TVTokyo.jp">
+  <title lang="en">本家が聴かせてもらいます</title>
+  <desc lang="en">ＭＣトンツカタン森本・ヒコロヒーの新音楽バラエティ！ヒット曲の「歌ってみた」動画を本家アーティストが視聴する音楽トーク番組。</desc>
 </programme>
 <programme start="20211202003500 +0900" stop="20211202010500 +0900" channel="FujiTV.jp">
   <title lang="en">ここにタイトルを入力</title>
@@ -1276,13 +1271,13 @@
   <title lang="en">FNN Live News α</title>
   <desc lang="en">働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜木曜日が三田友梨佳、金曜日は内田嶺衣奈。</desc>
 </programme>
-<programme start="20211201233000 +0900" stop="20211202000000 +0900" channel="Tokyo MX">
-  <title lang="en">真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました</title>
-  <desc lang="en">「真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました」＃９</desc>
+<programme start="20211203002500 +0900" stop="20211203003500 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">１２／５日曜夜７時〜は選ばれし漫才マスターたちによる、年に一度の超プレミアムな笑いの祭典「ＴＨＥ　ＭＡＮＺＡＩ２０２１マスターズ」▼今夜は博多華丸・大吉！</desc>
 </programme>
-<programme start="20211202000000 +0900" stop="20211202003000 +0900" channel="Tokyo MX">
-  <title lang="en">EDENSZERO/エデンズ ゼロ</title>
-  <desc lang="en">「週刊少年マガジン」連載中！グランベルで機械たちに育てられた少年・シキ。少女・レベッカ、青猫のハッピーとの出会いから、彼らの果てしない大冒険が始まる‼</desc>
+<programme start="20211203003500 +0900" stop="20211203010500 +0900" channel="FujiTV.jp">
+  <title lang="en">キスマイ超BUSAIKU!?</title>
+  <desc lang="en">新作コント！二階堂が監督に！？優勝なんて一切しなくていい！衝撃発言に現場は困惑▽話題のゲーム「ｉｔｏ」二階堂の価値観に美山加恋も開いた口が塞がらない…</desc>
 </programme>
 <programme start="20211202003000 +0900" stop="20211202010000 +0900" channel="Tokyo MX">
   <title lang="en">魔法科高校の劣等生 来訪者編</title>
@@ -1488,10 +1483,18 @@
   <title lang="en">白い砂のアクアトープ</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211203003000 +0900" stop="20211203010000 +0900" channel="Tokyo MX">
+  <title lang="en">ありふれた職業で世界最強</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211203010000 +0900" stop="20211203010500 +0900" channel="Tokyo MX">
+  <title lang="en">180秒で君の耳を幸せにできるか?</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211201230000 +0900" stop="20211202010000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　39「東日本旅客鉄道・寝台特急北斗星」</title>
 <desc>最後のブルートレイン、東日本旅客鉄道の寝台列車「北斗星」の魅力を2時間に亘って、たっぷりご紹介！みんなの鉄道専務車掌の堺正幸が上野〜札幌間に乗車しリポート！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211201/7079625/image/02f2a155b8411b7a0299afd5f97866c6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211202010000 +0900" stop="20211202023000 +0900" channel="FujiNext.jp">
@@ -1667,7 +1670,7 @@ https//otn.fujitv.co.jp
 <title lang="en">かまいたちの机上の空論城　19　　　かまいたちの実験バラエティ！</title>
 <desc>「輪ゴムがあれば時速160キロの剛速球でプロ野球選手に勝てる！…ハズ」
 ▽かまいたちの冠番組！バカバカしくも、ちょっとだけアカデミックな実験バラエティ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211201/7079777/image/0b14c3134de02abf6203695630573964.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211202010000 +0900" stop="20211202011500 +0900" channel="FujiOne.jp">
