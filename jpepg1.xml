@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211202033700 +0900" stop="20211202043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北アルプス</title>
-    <desc lang="en">北アルプスの山々をヘリコプターから撮影した、空中散歩。</desc>
-  </programme>
-  <programme start="20211202043500 +0900" stop="20211202044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「毛布の日」うた小島ケイタニーラブ／「ハローアゲイン，ＪｏＪｏ」うた平原綾香</desc>
-  </programme>
-  <programme start="20211202044000 +0900" stop="20211202045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「地域の課題をチャンスに変える」後藤高広（ＮＰＯ法人ｃａｍｂｉｏ理事長）</desc>
-  </programme>
   <programme start="20211202045000 +0900" stop="20211202050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">新型コロナウイルスの新たな変異株「オミクロン株」の感染者が国内でも確認された。感染力やワクチンの効果は？感染者数が抑えられている今だからこそできる対策とは。</desc>
@@ -313,6 +301,22 @@
   <programme start="20211203035900 +0900" stop="20211203043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス 美の点描</title>
     <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
+  </programme>
+  <programme start="20211203043500 +0900" stop="20211203044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「くいしんぼうのカレンダー」うたやまがたすみこ、杉並児童合唱団／「われないタマゴ」うた藤本房子</desc>
+  </programme>
+  <programme start="20211203044000 +0900" stop="20211203045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニッポンの里山 ふるさとの絶景に出会う旅</title>
+    <desc lang="en">山あいの江里山地区の棚田は秋になると真っ赤に染まる。あぜ道が彼岸花で埋め尽くされるのだ。彼岸花が満開になるのはお米の収穫の直前。里山に秋の絶景が広がる。</desc>
+  </programme>
+  <programme start="20211203045000 +0900" stop="20211203050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">みずほ銀行が今年起こした８回ものシステム障害。金融庁は「日本の決済システムへの信頼性を損ねた」として業務改善命令を出した。この問題の“真因”を探る。</desc>
+  </programme>
+  <programme start="20211203050000 +0900" stop="20211203060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20211202010000 +0900" stop="20211202053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,18 +658,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211202035000 +0900" stop="20211202042000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">ポシュレ名物太川＆都子の北海道企画！食べやすく進化したボイルズワイガニ、２ｋｇがお得のホタテ、松前漬け、北海道のソウルフードホッケを驚きプライスでご紹介！</desc>
-  </programme>
-  <programme start="20211202042000 +0900" stop="20211202042500 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です劇場版</title>
-    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐ怒涛のあな番ワールド!原田知世×田中圭、西野七瀬×横浜流星ＳＰ対談!!</desc>
-  </programme>
-  <programme start="20211202042500 +0900" stop="20211202043000 +0900" channel="NipponTV.jp">
-    <title lang="en">「バンクシーって誰?展」</title>
-    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
-  </programme>
   <programme start="20211202043000 +0900" stop="20211202055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽日本政府がさらに水際対策を強化▽人間国宝・中村吉右衛門さん死去▽今年の「新語・流行語大賞」は…？</desc>
@@ -762,14 +754,18 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">食べやすく進化した冬の味覚ボイルズワイガニ！ご飯のお供に松前漬けセット、昨年完売の人気３シェフコラボおせち、お買い得羽毛布団などこの時期ならではの商品をお届け！</desc>
   </programme>
-<programme start="20211202033100 +0900" stop="20211202040000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-</programme>
-<programme start="20211202040000 +0900" stop="20211202045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍X</title>
-  <desc lang="en">「鬼と呼ばれた女！復讐の幼な子誘拐‼」松平健(他)▽ケチで評判の油問屋・安房屋喜平が、どうしたことか店の二階から小判をまきはじめ、店の前は黒山の人だかりとなり…</desc>
-</programme>
+  <programme start="20211203042000 +0900" stop="20211203042500 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐあな番ワールドが展開!豪華キャストが映画の魅力を語ります!!</desc>
+  </programme>
+  <programme start="20211203042500 +0900" stop="20211203043000 +0900" channel="NipponTV.jp">
+    <title lang="en">「バンクシーって誰?展」</title>
+    <desc lang="en">中村倫也が展覧会の見どころをお届け！▽個人コレクター秘蔵の作品とテレビ局の美術チームによる実寸大の街並み再現を紹介▽会場周辺の食コラボも！</desc>
+  </programme>
+  <programme start="20211203043000 +0900" stop="20211203055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211202045500 +0900" stop="20211202080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。中村吉右衛門さん死去▼３回目接種前倒し論▼衆院選で裏金要求⁉「新潟のドン」全否定(他)</desc>
@@ -901,9 +897,9 @@
   <title lang="en">暴れん坊将軍X</title>
   <desc lang="en">「女商人の悲しき再会！兄は盗賊、弟は同心」松平健(他)▽町に米問屋ばかりを狙う“カマイタチの竜”なる一味が出没し、それに呼応するかのように、米の値段が上がりはじめ…</desc>
 </programme>
-<programme start="20211202034500 +0900" stop="20211202043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211203045500 +0900" stop="20211203080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211202043000 +0900" stop="20211202052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -993,9 +989,10 @@
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211202040000 +0900" stop="20211202042300 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20211203043000 +0900" stop="20211203052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20211202042300 +0900" stop="20211202054500 +0900" channel="TVTokyo.jp">
   <title lang="en">ものスタ</title>
@@ -1156,13 +1153,16 @@
   <title lang="en">ラビッツ インベージョン</title>
   <desc lang="en">ラビッツの住む森に宇宙人がやってきた。ラビッツは宇宙人と友情を育むが、やがてお別れの時が訪れ…。</desc>
 </programme>
-<programme start="20211202030500 +0900" stop="20211202040000 +0900" channel="FujiTV.jp">
-  <title lang="en">東京03in UNDERDOGS-今日は負けたけど、明日は絶対勝つ</title>
-  <desc lang="en">東京０３による［負け］エピソードを実写やアニメでお届けするコント番組！</desc>
+<programme start="20211203040500 +0900" stop="20211203042300 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
-<programme start="20211202040000 +0900" stop="20211202045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+<programme start="20211203042300 +0900" stop="20211203054500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20211202045500 +0900" stop="20211202052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1260,13 +1260,9 @@
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20211202033000 +0900" stop="20211202040000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211202040000 +0900" stop="20211202043000 +0900" channel="Tokyo MX">
-  <title lang="en">CM INDEX</title>
-  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
+<programme start="20211203045500 +0900" stop="20211203052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211202043000 +0900" stop="20211202050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1471,6 +1467,14 @@
 <programme start="20211203040000 +0900" stop="20211203043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211203043000 +0900" stop="20211203050000 +0900" channel="Tokyo MX">
+  <title lang="en">原田伸郎のめざせパーゴルフIII</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211203050000 +0900" stop="20211203053000 +0900" channel="Tokyo MX">
+  <title lang="en">U字工事の旅!発見</title>
+  <desc lang="en">日本考古学発祥の地</desc>
 </programme>
 <programme start="20211201230000 +0900" stop="20211202010000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　39「東日本旅客鉄道・寝台特急北斗星」</title>
@@ -1684,7 +1688,7 @@ https//otn.fujitv.co.jp
 <desc>東京03単独ライブ「自分、自分、自分。」
 ＜収録＞2009年2月　〜草月ホール
 ▽厳選したお笑いライブをオンエア！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211201/7079781/image/4d37360da12f16e57e889365116b5bfe.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211202050000 +0900" stop="20211202060000 +0900" channel="FujiOne.jp">
@@ -2210,7 +2214,7 @@ https//otn.fujitv.co.jp
 <programme start="20211202042000 +0900" stop="20211202050000 +0900" channel="kbsworld.jp">
 <title lang="en">家族を守れ　99　[字]</title>
 <desc>2015年 全123話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211201/7074501/image/c8f102832dd55ef39478eeabc1a2059c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211202050000 +0900" stop="20211202060000 +0900" channel="kbsworld.jp">
