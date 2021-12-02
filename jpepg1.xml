@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211203013400 +0900" stop="20211203022400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">真珠湾の海底で日本軍の特殊潜航艇が発見された。日米共同で潜水撮影を行い、関係者を取材。真珠湾攻撃に秘められた国家の情報操作を追跡する。＃太平洋戦争８０年</desc>
-  </programme>
   <programme start="20211203022400 +0900" stop="20211203031800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">アイデア対決・全国高等専門学校ロボットコンテスト2021(高専ロボコン2021) 地区大会</title>
     <desc lang="en">高等専門学校の学生がアイデアと技術力を競う「高専ロボコン」。今年のテーマは「すごロボ」＝すごい！ロボットだ。全国大会を目指す近畿地区大会の熱戦を伝える。</desc>
@@ -317,6 +313,10 @@
   <programme start="20211204014800 +0900" stop="20211204022800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽スケボーの聖地ＬＡを行く▽日本の外交▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211204022800 +0900" stop="20211204032200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">アイデア対決・全国高等専門学校ロボットコンテスト2021(高専ロボコン2021) 地区大会</title>
+    <desc lang="en">毎年恒例の高専ロボコン。今年のテーマは超絶機巧「すごロボ」。自分たちがすごいと思うロボットを作ってパフォーマンスを披露する。関東甲信越大会の熱戦の様子に迫る。</desc>
   </programme>
   <programme start="20211203003000 +0900" stop="20211203053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -646,14 +646,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211203015900 +0900" stop="20211203022900 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">５０音のどの文字からでも「早いもの」が即座に言えるというクチコミで、以前収録を盛り上げた男が衝撃の告白！出禁発言も飛び出したその罪とは？？リベンジできるのか⁉</desc>
-  </programme>
-  <programme start="20211203022900 +0900" stop="20211203023500 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211203023500 +0900" stop="20211203030500 +0900" channel="NipponTV.jp">
     <title lang="en">川島・山内のマンガ沼</title>
     <desc lang="en">いま、芸人に一番うけているマンガは何だ！？「このマンガがすごい！」とのコラボ企画が早くも第２弾！２０２１年に芸人界で注目されたマンガを川島＆山内が徹底調査！</desc>
@@ -757,19 +749,15 @@
     <title lang="en">バズリズム02</title>
     <desc lang="en">横アリが熱狂！バズリズムライブＤＡＹ２の模様を大公開！ＮｉｚｉＵちゃんみなＤａ－ｉＣＥ超特急ＢＥＦＩＲＳＴが集結！ここでしか見られないライブ裏側トークにも注目</desc>
   </programme>
-<programme start="20211203013100 +0900" stop="20211203020100 +0900" channel="Asahi.jp">
-  <title lang="en">東京トキメキ百貨店</title>
-  <desc lang="en">手にしたらキュンとトキメク商品紹介‼今秋発売！最新のトータルスカルプケアセット＆まるで雲の上⁉話題マットレス＆益若つばさもリピ買い‼韓国で大人気㊙ヘアオイル</desc>
-</programme>
-<programme start="20211203020100 +0900" stop="20211203022100 +0900" channel="Asahi.jp">
-  <title lang="en">NEWニューヨーク</title>
-  <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
-</programme>
-<programme start="20211203022100 +0900" stop="20211203024100 +0900" channel="Asahi.jp">
-  <title lang="en">ハマスカ放送部</title>
-  <desc lang="en">OKAMOTO'Sハマ・オカモトと乃木坂46齋藤飛鳥がお届けする音楽トークバラエティ！
-新企画「ハマスカ不動産」オススメ物件続々！更にお家でドラム練習グッズに２人大興奮！</desc>
-</programme>
+  <programme start="20211204022900 +0900" stop="20211204023500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211204023500 +0900" stop="20211204032000 +0900" channel="NipponTV.jp">
+    <title lang="en">夜バゲット</title>
+    <desc lang="en">金曜深夜に贈る新しいエンターテインメント情報番組！MCに日テレアナウンサー川畑一志と
+郡司恭子。いよいよ来週公開『あなたの番です　劇場版』最新情報！</desc>
+  </programme>
 <programme start="20211203024100 +0900" stop="20211203030100 +0900" channel="Asahi.jp">
   <title lang="en">野田レーザーの逆算</title>
   <desc lang="en">“理詰めマニア”が集う秘密の夜会▼絵本の最終ページをみてストーリーを推察「えほん逆算」▼カードを見てどんなルールのゲームか逆算！カズレーザー「カードゲーム逆算」</desc>
@@ -893,9 +881,13 @@
   <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
 今回は、２０２１年下半期“ベストコスメ”を大特集！</desc>
 </programme>
-<programme start="20211203015800 +0900" stop="20211203020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20211204022500 +0900" stop="20211204024500 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">２０２１年新日本プロレスニュース！メインキャスターは三谷と田口隆祐選手、コメンテーターに矢野通選手・後藤洋央紀選手！</desc>
+</programme>
+<programme start="20211204024500 +0900" stop="20211204030500 +0900" channel="Asahi.jp">
+  <title lang="en">あるある土佐カンパニー2</title>
+  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
 </programme>
 <programme start="20211203020500 +0900" stop="20211203034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -980,18 +972,13 @@
   <title lang="en">結城友奈は勇者である-大満開の章-</title>
   <desc lang="en">少女たちは、咲き誇る。▼これは、これまでの、これからの物語。</desc>
 </programme>
-<programme start="20211203013000 +0900" stop="20211203020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">考えすぎちゃん ON TV〜ワンクールだけの大冒険〜</title>
-  <desc lang="en">ファーストサマーウイカ、ハナコ岡部、DJ松永の３人が元テレビ東京プロデューサー佐久間宣行をホストに毎回あるテーマについて考えすぎちゃう雑談バラエティ。</desc>
+<programme start="20211204022500 +0900" stop="20211204025500 +0900" channel="TBS2.jp">
+  <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
+  <desc lang="en">◆ＳＴＡＧＥ１０「紅蓮舞う」▼コーネリアの奇襲に壊滅していく日本解放戦線の部隊。勝ち目はないと脅える黒の騎士団を鼓舞し、ルルーシュはこの戦争で奇跡を起こすと宣言</desc>
 </programme>
-<programme start="20211203020000 +0900" stop="20211203020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">１２／５(日)放送「緊急ＳＯＳ！１００万円リメイクハウス」の見どころをご紹介します！</desc>
-</programme>
-<programme start="20211203020500 +0900" stop="20211203023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">きらきらアフロTM</title>
-  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
-【出演】笑福亭鶴瓶、松嶋尚美</desc>
+<programme start="20211204025500 +0900" stop="20211204030700 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
 <programme start="20211203023500 +0900" stop="20211203033500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1159,9 +1146,20 @@
   <title lang="en">大正オトメ御伽話</title>
   <desc lang="en">憧れの白鳥ことりがやってきた。恋する乙女の応援歌を作りたいといい、夕月に恋愛とは何かを尋ねてくる。</desc>
 </programme>
-<programme start="20211203013500 +0900" stop="20211203023500 +0900" channel="FujiTV.jp">
-  <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
-  <desc lang="en">ＥＸＩＴ単独ＭＣ▽ＧＥＮＥＲＡＴＩＯＮＳ小森＆中務が登場！兼近とテニスでガチバトル！一番貯金が多いメンバーとは？▽「Ｒａｙ」人気読者モデルとゲーム対決</desc>
+<programme start="20211204022300 +0900" stop="20211204023000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">１２／５(日)放送「緊急ＳＯＳ！１００万円リメイクハウス」の見どころをご紹介します！</desc>
+</programme>
+<programme start="20211204023000 +0900" stop="20211204030000 +0900" channel="TVTokyo.jp">
+  <title lang="en">流派-R since2001</title>
+  <desc lang="en">▼R-FeatureMii
+▼VIEWSCIMBA
+▼VIEWSONE　in　a　Billion
+▼VIEWSAB6IX</desc>
+</programme>
+<programme start="20211204030000 +0900" stop="20211204031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">先月末から12月にかけて開催！昨年も大反響を集めた、様々なコンテンツを楽しんでもらうオンラインお祭りプロジェクト！「テレ東文化祭」をご紹介します！</desc>
 </programme>
 <programme start="20211203023500 +0900" stop="20211203030500 +0900" channel="FujiTV.jp">
   <title lang="en">いいすぽ!</title>
@@ -1255,17 +1253,9 @@
   <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
   <desc lang="en">第９話を見逃したあなたも！もう一度観たいあなたも！最終章！不幸すぎる技師・田中福男が、ブチギレ辞職！ラジハ内で孤立した田中は寿司屋になると言い…！？</desc>
 </programme>
-<programme start="20211203013500 +0900" stop="20211203020500 +0900" channel="Tokyo MX">
-  <title lang="en">バリふり!!!</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211203020500 +0900" stop="20211203023400 +0900" channel="Tokyo MX">
-  <title lang="en">らいコレTV</title>
-  <desc lang="en">メガネとウクレレがチャームポイントのシンガーソングライバー【シモムラナナ】さんが再登場！</desc>
-</programme>
-<programme start="20211203023400 +0900" stop="20211203023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211204025500 +0900" stop="20211204032500 +0900" channel="FujiTV.jp">
+  <title lang="en">次ナルTV-S</title>
+  <desc lang="en">ＣＳ放送フジテレビＮＥＸＴで放送する「次ナルＴＶ－Ｓ５０回記念！超特急タカシＭＣ就任１年たったで！スペシャル」ダイジェスト</desc>
 </programme>
 <programme start="20211203023500 +0900" stop="20211203030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1440,6 +1430,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211204013500 +0900" stop="20211204020500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211204020500 +0900" stop="20211204023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211204023400 +0900" stop="20211204023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211204023500 +0900" stop="20211204030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1652,7 +1654,7 @@ https//otn.fujitv.co.jp
 ＜ゲスト＞小室瑛莉子（フジテレビアナウンサー）　＜怪員＞松原タニシ　深津さくら　じゅん院長
 ▽実話怪談の本格派ホラー番組！
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211202/7079809/image/d9a3316384d33316a6ee5189541b9cae.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211203030000 +0900" stop="20211203050000 +0900" channel="FujiOne.jp">
