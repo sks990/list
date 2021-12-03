@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211203135500 +0900" stop="20211203140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">多胡肇、幅しげみ、吉江晴菜、今井菜津美、石川裕平</desc>
-  </programme>
-  <programme start="20211203140000 +0900" stop="20211203140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211203140500 +0900" stop="20211203145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">京コトはじめ</title>
-    <desc lang="en">平安時代、厚みや大きさによって貴族の権威を表したたたみ。茶の湯や庶民の生活様式とともに発展し、和のしつらいと人々の所作の基になった古都のたたみ文化をひもとく。</desc>
-  </programme>
   <programme start="20211203145000 +0900" stop="20211203150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">みずほ銀行が今年起こした８回ものシステム障害。金融庁は「日本の決済システムへの信頼性を損ねた」として業務改善命令を出した。この問題の“真因”を探る。</desc>
@@ -317,18 +305,6 @@
   <programme start="20211204135000 +0900" stop="20211204160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">サッカー Jリーグ</title>
     <desc lang="en">サンデースポーツ・中澤佑二さんがゲスト解説！得点ランク１位で並ぶ前田大然とレアンドロダミアン！得点王の決着は？！専用カメラと中澤さん「ボナライズ」で徹底分析！</desc>
-  </programme>
-  <programme start="20211203135000 +0900" stop="20211203140000 +0900" channel="eTele.jp">
-    <title lang="en">ピタゴラスイッチ</title>
-    <desc lang="en">生活の中にかくれて気づかれない、不思議な法則や構造、おもしろい考え方を、歌、体操、ピタゴラ装置など多彩な企画で紹介します。今回は「箱のすけスペシャル！」</desc>
-  </programme>
-  <programme start="20211203140000 +0900" stop="20211203142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 日本史</title>
-    <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
-  </programme>
-  <programme start="20211203142000 +0900" stop="20211203144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 世界史</title>
-    <desc lang="en">１９１４年に勃発した第一次世界大戦は、人類がそれまで経験したことのない世界規模の犠牲者を出しました。人類初の世界大戦はどのようにして起こったのか見ていきます。</desc>
   </programme>
   <programme start="20211203144000 +0900" stop="20211203150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 地理</title>
@@ -610,6 +586,10 @@
     <title lang="en">沼にハマってきいてみた</title>
     <desc lang="en">きょうはアニメで盛り上がろう！１０代イチ推しの青春アニメ神９！キスマイ宮田が１０代に見せたい名作とは？声優・古賀葵も感動…高校生が制作したリレーアニメを大公開！</desc>
   </programme>
+  <programme start="20211204144000 +0900" stop="20211204150500 +0900" channel="eTele.jp">
+    <title lang="en">天才てれびくんhello，</title>
+    <desc lang="en">「天てれ」のてれび戦士がサバイバルキャンプに挑戦！しかもキャンプを楽しむだけで「防災」も学べちゃう！ナレーションはキャンプ大好き・女優で天てれ卒業生の大原優乃。</desc>
+  </programme>
   <programme start="20211203135500 +0900" stop="20211203155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">地震速報！山梨・和歌山で震度５弱「南海トラフ」「富士山」影響は？専門家解説▽速報！自民議員“裏金告発”音声データ公開へ▽中国激震！ＷＴＡテニス大会全面中止！</desc>
@@ -704,10 +684,10 @@
     <title lang="en">ゴルフ日本シリーズＪＴカップ2021</title>
     <desc lang="en">賞金王決定へ！大会３日目生中継！</desc>
   </programme>
-<programme start="20211203135400 +0900" stop="20211203145200 +0900" channel="Asahi.jp">
-  <title lang="en">警視庁・捜査一課長 2020</title>
-  <desc lang="en">「７つの石を操る石頭の女と焼き芋の謎」内藤剛志(他)▽ジュエリー会社の常務の遺体が見つかった。被害者と海外出店をめぐり、激しく対立していた女社長をあやしむ真琴は…</desc>
-</programme>
+  <programme start="20211204145500 +0900" stop="20211204160000 +0900" channel="NipponTV.jp">
+    <title lang="en">大家族 石田さんチ</title>
+    <desc lang="en">12月8日(水)よる7時から放送される最新版「大家族石田さんチ」を100倍楽しむために、昨年11月に放送された番組を再編集したスペシャルプログラムです。</desc>
+  </programme>
 <programme start="20211203145200 +0900" stop="20211203154800 +0900" channel="Asahi.jp">
   <title lang="en">警視庁・捜査一課長 2020</title>
   <desc lang="en">「ナタデココが見た⁉高輪ゲートウェイ殺人ルートの謎」内藤剛志(他)▽“運を使い果たした”会社社長がブームの去ったナタデココを手に殺された。前妻が捜査線に浮かぶが…</desc>
@@ -813,7 +793,7 @@
 </programme>
 <programme start="20211204080000 +0900" stop="20211204093000 +0900" channel="Asahi.jp">
   <title lang="en">朝だ!生です旅サラダ</title>
-  <desc lang="en">柔道金メダリストのウルフ・アロン選手が海の幸が豊富な富山グルメ旅！寿司＆温泉宿で蟹づくし＆自分で魚をさばく⁉▽韓国美味しいもの特集！話題の最新料理ロゼ・トッポギ</desc>
+  <desc lang="en">柔道金メダリストのウルフ・アロン選手が海の幸が豊富な富山グルメ旅！寿司＆温泉宿で蟹づくし＆自分で魚をさばく⁉▽韓国美味しいもの特集！話題の最新料理ロゼトッポッキ</desc>
 </programme>
 <programme start="20211204093000 +0900" stop="20211204095500 +0900" channel="Asahi.jp">
   <title lang="en">食彩の王国</title>
@@ -972,6 +952,15 @@
 <programme start="20211204140000 +0900" stop="20211204145400 +0900" channel="TBS2.jp">
   <title lang="en">拡散!芸人ネタ動画 有田バズレーション!</title>
   <desc lang="en">生放送でお届けする新感覚ネタ番組！一億総ＳＮＳ時代のいま、一躍ブレイクする芸人に必要なのは人気者たちによる「ＳＮＳ拡散力」！！一番拡散され、バズるネタ動画は？？</desc>
+</programme>
+<programme start="20211204145400 +0900" stop="20211204150000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20211204150000 +0900" stop="20211204160000 +0900" channel="TBS2.jp">
+  <title lang="en">「坂上指原のつぶれない店」ダイジェスト</title>
+  <desc lang="en">街中で見かける“つぶれそうなのにつぶれない店”はなぜつぶれないのか？
+その謎を解き明かす“お金”バラエティ！坂上忍×指原莉乃がＭＣのレギュラー番組！！</desc>
 </programme>
 <programme start="20211203134000 +0900" stop="20211203154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -1162,9 +1151,19 @@
   <title lang="en">虎ノ門市場 〜毎日、幸せごはん。〜</title>
   <desc lang="en">北海道・小樽の隠れ家スポットを訪ねて「峰竜太親子」そして「山村紅葉」が行く！！そこには紅葉のミステリーが満載！さらに北の海の絶品！豪華海鮮との出会い！</desc>
 </programme>
-<programme start="20211203115500 +0900" stop="20211203144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">静岡・川勝知事“コシヒカリ発言”の次は「きれいな子はあまり賢いことを言わない」謝罪・撤回の連続に県民は▽泉田氏“裏金”告発背景に選挙資金巡るすれ違いか</desc>
+<programme start="20211204142300 +0900" stop="20211204143000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
+</programme>
+<programme start="20211204143000 +0900" stop="20211204150000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">月曜から金曜まで毎日生放送「快適！ショッピングスタジオ」が土曜日午後に拡大！土曜日午後も長崎・佐世保のスタジオより元気に生放送！</desc>
+</programme>
+<programme start="20211204150000 +0900" stop="20211204160000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ウイニング競馬</title>
+  <desc lang="en">【中山】11ＲステイヤーズＳ（ＧⅡ）
+【阪神】10Ｒ妙見山Ｓ、11ＲチャレンジＣ（ＧⅢ）
+【中京】10Ｒ中京スポニチ賞、11Ｒ飛騨Ｓ</desc>
 </programme>
 <programme start="20211203144500 +0900" stop="20211203154500 +0900" channel="FujiTV.jp">
   <title lang="en">絶対零度〜未然犯罪潜入捜査〜</title>
@@ -1271,6 +1270,14 @@
 <programme start="20211204133000 +0900" stop="20211204143000 +0900" channel="FujiTV.jp">
   <title lang="en">かまいたちの小金持ちになりたいTV</title>
   <desc lang="en">ＭＣかまいたちの小金稼ぎ番組▼〇〇をほったらかすだけで年７０万円！電話で〇〇するだけで月３０万円！目から鱗の小金稼ぎ情報が続々▼小金稼ぎはいやしくない</desc>
+</programme>
+<programme start="20211204143000 +0900" stop="20211204143500 +0900" channel="FujiTV.jp">
+  <title lang="en">ワタシ∞ウォーキング</title>
+  <desc lang="en">今回ウォーキングしていただくのは、ファッションモデルでタレントの近藤千尋さん。夫婦ゆかりの街、幡ヶ谷周辺をウォーキング。</desc>
+</programme>
+<programme start="20211204143500 +0900" stop="20211204162500 +0900" channel="FujiTV.jp">
+  <title lang="en">IPPANグランプリ</title>
+  <desc lang="en">設楽＆バカリ＆小木が絶賛視聴者大喜利！若手芸人の大喜利投稿企画も▽今夜９時〜ＩＰＰＯＮグランプリ！初出場おいでやす小田＆もう中学生が決戦前に突撃腕試し</desc>
 </programme>
 <programme start="20211203135900 +0900" stop="20211203150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
@@ -1819,7 +1826,7 @@ https//otn.fujitv.co.jp
 <title lang="en">パチンコLAB 〜9th season〜　11</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　チャーミー中元　青山りょう
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211203/7079827/image/5ebc478e8315e628d3451c4c4c3367db.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211203150000 +0900" stop="20211203160000 +0900" channel="FujiOne.jp">
