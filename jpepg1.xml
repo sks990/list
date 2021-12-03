@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211203195700 +0900" stop="20211203204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">チコちゃんに叱られる!</title>
-    <desc lang="en">今回のチコちゃんの素朴な疑問は…白い卵と茶色い卵はなにが違うの？なぜ手のひらには線が入っているの？なぜハンコを押すの？みなさんわかりますか？</desc>
-  </programme>
-  <programme start="20211203204200 +0900" stop="20211203204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20211203204500 +0900" stop="20211203210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -294,13 +286,21 @@
     <title lang="en">ブラタモリ</title>
     <desc lang="en">海の幸・美しい山々・薬売り…豊かな暮らしをもたらす富山の“富”はどううまれたのか！？タモリさんがブラブラ歩いて解き明かす▽「住み続けたい街」ランキング１位の秘密</desc>
   </programme>
-  <programme start="20211203195500 +0900" stop="20211203200000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「トゲめくスピカ」うたポルカドットスティングレイ</desc>
+  <programme start="20211204201500 +0900" stop="20211204204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">有吉のお金発見 突撃!カネオくん</title>
+    <desc lang="en">大人も子どもも大好きな「のり」！のりの一大産地、佐賀県の有明海を徹底調査！のり養殖の知られざる工夫に山田孝之もびっくり！</desc>
   </programme>
-  <programme start="20211203200000 +0900" stop="20211203204500 +0900" channel="eTele.jp">
-    <title lang="en">あしたも晴れ!人生レシピ</title>
-    <desc lang="en">１２月。脳裏によぎるのは「大掃除」。落ちない汚れ・見過ごす汚れをキレイにする手順と方法や、禅の教えで掃除に集中できる禅式掃除術もお伝えします！</desc>
+  <programme start="20211204204500 +0900" stop="20211204205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211204205500 +0900" stop="20211204210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211204210000 +0900" stop="20211204215000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">太平洋戦争から８０年。歴史のうねりを「個の視点」から捉える「新・ドキュメント太平洋戦争」。第１回「１９４１・開戦」、市民・指導者たちの日記から見える本音とは？</desc>
   </programme>
   <programme start="20211203204500 +0900" stop="20211203210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -530,9 +530,13 @@
     <title lang="en">チョイス＠病気になったとき</title>
     <desc lang="en">過去の放送をコンパクトにまとめて紹介する「まとめスペシャル」。今回は、乾せんとアトピー性皮膚炎について。症状に合わせた薬のチョイスなど、治療の最新情報を伝える。</desc>
   </programme>
-  <programme start="20211203195600 +0900" stop="20211203205400 +0900" channel="NipponTV.jp">
-    <title lang="en">沸騰ワード10</title>
-    <desc lang="en">交渉９か月！大反響呼んだ海上保安庁潜水士試験もついに合格発表！だが衝撃事態が▼中野暮らし36年…中川翔子が取り憑かれたものは？本人も知らない幼少期の事実発覚で涙</desc>
+  <programme start="20211204204500 +0900" stop="20211204210000 +0900" channel="eTele.jp">
+    <title lang="en">ろうを生きる 難聴を生きる</title>
+    <desc lang="en">オリンピック期待の若手選手として注目されている、ろうのクレー射撃選手、宮坂七海さん。“聞こえない”ことを強みに、“聞こえる世界”で挑戦を続ける姿を追う。</desc>
+  </programme>
+  <programme start="20211204210000 +0900" stop="20211204213000 +0900" channel="eTele.jp">
+    <title lang="en">すくすく子育て</title>
+    <desc lang="en">去年１２月に放送した特別番組「すくすくアイデア大賞」からもう一度見たいアイデアを厳選して紹介！アイデアを考えた家族のその後の様子も伝える。</desc>
   </programme>
   <programme start="20211203205400 +0900" stop="20211203210000 +0900" channel="NipponTV.jp">
     <title lang="en">「あな番」スピンオフ!日テレ番組を紹介するオノクロナビ</title>
@@ -648,14 +652,14 @@
     <title lang="en">世界一受けたい授業</title>
     <desc lang="en">日本一の野菜を見極めるプロ直伝！簡単な野菜の見分け方▼冬試したい新しい野菜の食べ方！大根はカツ！サツマイモはミートグラタン！レンコンはピザ！葵わかなも大絶賛！</desc>
   </programme>
-<programme start="20211203185000 +0900" stop="20211203200000 +0900" channel="Asahi.jp">
-  <title lang="en">ザワつく!金曜日</title>
-  <desc lang="en">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
-</programme>
-<programme start="20211203200000 +0900" stop="20211203205400 +0900" channel="Asahi.jp">
-  <title lang="en">マツコ有吉 かりそめ天国</title>
-  <desc lang="en">「へぇダービー」チャンピオンシップが開幕！　今回はこれまでの「へぇ」ランキングを発表◇マツコの妙案！？デパートの再生案</desc>
-</programme>
+  <programme start="20211204205400 +0900" stop="20211204210000 +0900" channel="NipponTV.jp">
+    <title lang="en">ワーズハウスへようこそ</title>
+    <desc lang="en">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
+  </programme>
+  <programme start="20211204210000 +0900" stop="20211204215400 +0900" channel="NipponTV.jp">
+    <title lang="en">1億3000万人のSHOWチャンネル</title>
+    <desc lang="en">北村匠海が伝説の天津飯作りに挑戦！さらに念願の「気配斬り」で櫻井VS北村が真剣勝負</desc>
+  </programme>
 <programme start="20211203205400 +0900" stop="20211203210000 +0900" channel="Asahi.jp">
   <title lang="en">世界の街道をゆく</title>
   <desc lang="en">欧州の歴史と文化を繋ぐ道・フランス</desc>
@@ -830,9 +834,13 @@
   <title lang="en">池上彰のニュースそうだったのか!!</title>
   <desc lang="en">「家電」「電話」「鉄道」…「初号機」を知ると、日本人の生活がどう変わり、社会がどう変化してきたのかがよくわかる！女性の社会進出も実は○○の誕生から始まった！？</desc>
 </programme>
-<programme start="20211203190000 +0900" stop="20211203200000 +0900" channel="TBS2.jp">
-  <title lang="en">オオカミ少年</title>
-  <desc lang="en">🈑ザコシカラオケ！アーティストコラボ豪華歌手参戦▽五輪メダリスト奇跡映像！卓球水谷が再び奇跡!?アーチェリー河田＆武藤が神業披露▽足つぼスノーマン宮舘が挑戦‼</desc>
+<programme start="20211204205400 +0900" stop="20211204210000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">宮沢りえ×寺島しのぶ…日本を代表する実力派女優が初共演にしてＷ主演！嫉妬、欲望、愛憎…数々の人間の業を描いてきた山崎豊子の遺産相続ドラマの傑作が令和の世に甦る！</desc>
+</programme>
+<programme start="20211204210000 +0900" stop="20211204225500 +0900" channel="Asahi.jp">
+  <title lang="en">女系家族</title>
+  <desc lang="en">宮沢りえ×寺島しのぶ…日本を代表する実力派女優が初共演にしてＷ主演！嫉妬、欲望、愛憎…数々の人間の業を描いてきた山崎豊子の遺産相続ドラマの傑作が令和の世に甦る！</desc>
 </programme>
 <programme start="20211203200000 +0900" stop="20211203220000 +0900" channel="TBS2.jp">
   <title lang="en">中居大輔と本田翼と夜な夜なラブ子さん</title>
@@ -966,6 +974,10 @@
   <title lang="en">炎の体育会TV</title>
   <desc lang="en">▼新庄監督の型破りな言動ランキング…自宅公開＆バイクで爆走！秘蔵映像公開
 ▼「洗濯機が壊れて…」後輩を救うべく先輩エブリンが神技連発▼大野将平が変装サプライズ</desc>
+</programme>
+<programme start="20211204210000 +0900" stop="20211204215400 +0900" channel="TBS2.jp">
+  <title lang="en">世界ふしぎ発見!</title>
+  <desc lang="en">明治時代、日本を大冒険したイギリス人がいた！日光を大人気の観光地にした謎の外交官。今につながるアイヌ民族の記録を残した冒険家。彼らの正体とは？絶景露天風呂も登場</desc>
 </programme>
 <programme start="20211203195500 +0900" stop="20211203214800 +0900" channel="TVTokyo.jp">
   <title lang="en">所さんの学校では教えてくれないそこんトコロ!</title>
@@ -1107,9 +1119,7 @@
 </programme>
 <programme start="20211204120100 +0900" stop="20211204132800 +0900" channel="TVTokyo.jp">
   <title lang="en">ニッポンを作った偉大街 よく知らないから行ってみた!</title>
-  <desc lang="en">▼何がある？「関ケ原の戦い」の地・関ケ原
-▼日帰りで行ける「ペリー来航」の地・浦賀
-よく知らないから街ブラしてみると…絶品うなぎ！戦国遊園地！江戸時代のお宝発見</desc>
+  <desc lang="en">関ケ原の戦い「関ケ原」VSペリー来航「浦賀」…よく知らないから街ブラ旅へ!あの偉人も愛した極上グルメ!絶景!㊙スポット続々…江戸時代から伝わるお宝も登場</desc>
 </programme>
 <programme start="20211204132800 +0900" stop="20211204142300 +0900" channel="TVTokyo.jp">
   <title lang="en">虎ノ門市場 〜毎日、幸せごはん。〜</title>
@@ -1156,6 +1166,14 @@
 <programme start="20211204195400 +0900" stop="20211204205400 +0900" channel="TVTokyo.jp">
   <title lang="en">出川哲朗の充電させてもらえませんか?</title>
   <desc lang="en">行くぞ＜新潟＞縦断！パワスポ＜彌彦神社＞から絶景＜清津峡＞まで田園街道１２０キロ！ですがロッチ中岡登場でハプニング続出！ヤバいよヤバいよＳＰ完結編！</desc>
+</programme>
+<programme start="20211204205400 +0900" stop="20211204210000 +0900" channel="TVTokyo.jp">
+  <title lang="en">生きるを伝える</title>
+  <desc lang="en">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
+</programme>
+<programme start="20211204210000 +0900" stop="20211204215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">出没!アド街ック天国</title>
+  <desc lang="en">話題の美食タウン「代々木上原」に出没！朝からフルコースディナー＆奇跡のお弁当▽世界初星付きラーメン＆コスパ最強！絶品麻婆そば▽季節の限定パフェ＆フレンチおはぎ</desc>
 </programme>
 <programme start="20211203190000 +0900" stop="20211203230200 +0900" channel="FujiTV.jp">
   <title lang="en">ものまね王座決定戦</title>
@@ -1288,9 +1306,9 @@
   <title lang="en">芸能人が本気で考えた!ドッキリGP</title>
   <desc lang="en">チョコプラ松尾とシソンヌ長谷川が妖怪ドッキリ！小池美由が大絶叫▽新企画！人力車が突然分離…森脇＆原口が悲鳴▽グラドル＆フジアナが暗闇エクササイズで変顔</desc>
 </programme>
-<programme start="20211203193000 +0900" stop="20211203200000 +0900" channel="Tokyo MX">
-  <title lang="en">白い砂のアクアトープ</title>
-  <desc lang="en"> </desc>
+<programme start="20211204210000 +0900" stop="20211204231000 +0900" channel="FujiTV.jp">
+  <title lang="en">土曜プレミアム</title>
+  <desc lang="en">大喜利日本一決定戦！優勝経験者７人の大激戦！前回覇者の千鳥大悟ｖｓ絶対王者バカリ＆千原・秋山・川島・ホリケン・西田・山内！もう中学生＆おいでやす快進撃</desc>
 </programme>
 <programme start="20211203200000 +0900" stop="20211203210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1496,6 +1514,14 @@
   <title lang="en">斬波ZANMAI</title>
   <desc lang="en">「架空ＣＭソング　バトル」好評につき第二弾。斬波のメンバーがＣＭソングを即興で披露！</desc>
 </programme>
+<programme start="20211204203000 +0900" stop="20211204210000 +0900" channel="Tokyo MX">
+  <title lang="en">遊戯配信 e-Strangers</title>
+  <desc lang="en">次世代の配信スターを発掘！▼スマホレーシングゲーム「ザ・峠」公式戦で歴戦のゲームチャンピオン達が激突！手に汗握る名勝負の連続に狩野＆テリー大興奮！</desc>
+</programme>
+<programme start="20211204210000 +0900" stop="20211204213000 +0900" channel="Tokyo MX">
+  <title lang="en">サバンナ高橋の、サウナの神さま</title>
+  <desc lang="en">今回のゲストは、元宝塚歌劇団花組トップスターで女優の真飛聖さん。宝塚を目指すきっかけは、自身のコンプレックスだった…。さらに、まさかの悩みも大公開！</desc>
+</programme>
 <programme start="20211202230000 +0900" stop="20211203010000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　32　九州旅客鉄道「ななつ星 in 九州」</title>
 <desc>九州旅客鉄道初の豪華寝台列車『クルーズトレイン ななつ星 in 九州』の魅力を徹底的に紹介。博多駅に設置された専用ラウンジ「金星」などもリポート。
@@ -1623,7 +1649,7 @@
 <desc>JAZZ ＆ BOSSA with STRINGS
 日本を代表するサックス・プレイヤー渡辺貞夫の70周年記念コンサート
 ＜収録＞2021年6月23日（水）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211203/7079661/image/e44bf37b132cd22c09d934fa29000f13.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211203210000 +0900" stop="20211203222000 +0900" channel="FujiNext.jp">
@@ -2367,7 +2393,7 @@ https//otn.fujitv.co.jp
 <programme start="20211203201500 +0900" stop="20211203210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 5　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211203/7074542/image/de779ae9ab3b6eee2ef4783c48a67389.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211203210000 +0900" stop="20211203220000 +0900" channel="kbsworld.jp">
