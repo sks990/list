@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211205090000 +0900" stop="20211205101000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">日曜討論</title>
-    <desc lang="en">後藤厚生労働大臣に「オミクロン株」への対応を緊急インタビュー▽立憲民主党・泉新代表は党をどう立て直す？▽相次ぐ深刻ないじめ…子どもの命を守るには？専門家らが討論</desc>
-  </programme>
-  <programme start="20211205101000 +0900" stop="20211205101500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211205101500 +0900" stop="20211205110000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">明日をまもるナビ</title>
     <desc lang="en">全国的に大雪に警戒！▽温暖化で短時間・集中的に降る「ドカ雪」のリスクが増大！▽各地で毎年起きる立往生の原因は？▽新たな雪のリスク「レイン・オン・スノー」を解説</desc>
@@ -191,7 +183,7 @@
     <desc lang="en">東京大学の庭田杏珠さん（１９）は渡邉英徳教授とともに太平洋戦争のころの白黒写真をカラー化する作業に取り組んでいる。カラー写真は記憶を鮮やかに蘇らせられるという。</desc>
   </programme>
   <programme start="20211205225500 +0900" stop="20211205230000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
+    <title lang="en">夜のテレビ体操</title>
     <desc lang="en">おやすみ前に軽く体を動かす新習慣始めませんか？寝ながらできる運動で日中動いて疲れた体をクールダウン。出演は多胡肇さん・原川愛さん・新井庸太さん・能條貴大さん</desc>
   </programme>
   <programme start="20211205230000 +0900" stop="20211205234500 +0900" channel="NHK1Tokyo.jp">
@@ -270,13 +262,41 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211205094500 +0900" stop="20211205100000 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館 アートシーン</title>
-    <desc lang="en">「神秘と象徴の中間草間彌生のモノクローム」（草間彌生美術館　４月２９日〜１２月２６日）ほか、展覧会情報</desc>
+  <programme start="20211206100500 +0900" stop="20211206101000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
+    <desc lang="en">「ＴＯＫＹＯ　ＥＹＥ　２０２０」より、パンデミック下での“航空業界の挑戦”を取材した回を取り上げる。これまでにない航空業界の試みを紹介した番組の魅力を伝える。</desc>
   </programme>
-  <programme start="20211205100000 +0900" stop="20211205103000 +0900" channel="eTele.jp">
-    <title lang="en">将棋フォーカス</title>
-    <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
+  <programme start="20211206101000 +0900" stop="20211206101500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ピタゴラスイッチ ミニ</title>
+    <desc lang="en">私たちがふだん暮らしている中に隠れている、さまざまな法則や不思議な構造、面白い考え方を、アニメ、歌、体操、ピタゴラ装置など多彩なコーナーで紹介します。</desc>
+  </programme>
+  <programme start="20211206101500 +0900" stop="20211206104200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK地域局発</title>
+    <desc lang="en">首里城火災から２年。番組では再建の最前線を取材。最高級の赤瓦を生み出す原料を意外な場所で発見！「より美しい赤色」の秘密が、研究で明らかに！再建の全貌に迫る。</desc>
+  </programme>
+  <programme start="20211206104200 +0900" stop="20211206104400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">MEWE-2分で爆速SDGs-</title>
+    <desc lang="en">ポイ捨てされたレジ袋はどこへいくのか。最後はどうなるのかの物語。地球の環境問題を、爆速ナレーションで駆け抜ける。</desc>
+  </programme>
+  <programme start="20211206104400 +0900" stop="20211206104500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">１２／２７（月）〜２９（水）夜１０時〜３夜連続放送！荒木飛呂彦原作×高橋一生主演、漫画家・岸辺露伴の活躍を描くドラマ第２弾の見どころを１分で紹介</desc>
+  </programme>
+  <programme start="20211206104500 +0900" stop="20211206105000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">未来スイッチ×未来へ17ACTION☆TV</title>
+    <desc lang="en">平均年齢５６歳の左官業界に３５歳の会社がある。離職率も５％とかなり低い。その秘密は、「盗んで覚える」という業界の常識をやめ新たな育成法をとりいれたことだという。</desc>
+  </programme>
+  <programme start="20211206105000 +0900" stop="20211206105500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん百名山ミニ 5min</title>
+    <desc lang="en">福島県の安達太良山（１７０９ｍ）、東北を代表する山の紅葉と、火山のダイナミックな風景に出会う！山全体が錦に染まったも燃え立つような光景は、まさに紅葉のピーク！</desc>
+  </programme>
+  <programme start="20211206105500 +0900" stop="20211206110000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「新呼吸」うた三浦大知／「ギターケースの中の僕」うた中嶋ユキノ</desc>
+  </programme>
+  <programme start="20211206110000 +0900" stop="20211206110500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211205103000 +0900" stop="20211205120000 +0900" channel="eTele.jp">
     <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
@@ -490,9 +510,29 @@
     <title lang="en">さんすう刑事ゼロ</title>
     <desc lang="en">算数を使い事件を解決するミステリードラマ。今回の難問は、ピザ５／４枚の注文に応えるというもの。５／４枚のピザっていったい？出演モロ師岡、加藤慶祐、秋野太作ほか</desc>
   </programme>
-  <programme start="20211205073000 +0900" stop="20211205102500 +0900" channel="NipponTV.jp">
-    <title lang="en">シューイチ</title>
-    <desc lang="en">新庄“暴れる宣言”▼ＴＯＫＩＯ松岡“中山中丸素顔”暴露▼激戦“神保町街中華”マヂカルラブリー舌鼓▼2000組待ち人気物件▼フープリ脱落者決定▼杉野遥亮が生出演！</desc>
+  <programme start="20211206100500 +0900" stop="20211206102000 +0900" channel="eTele.jp">
+    <title lang="en">テキシコー</title>
+    <desc lang="en">楽しいキャラクターが登場するアニメーションなどを交え、プログラミング的思考（テキシコー）をパソコンを使わずに育むことができる新しいプログラミング教育番組。</desc>
+  </programme>
+  <programme start="20211206102000 +0900" stop="20211206102500 +0900" channel="eTele.jp">
+    <title lang="en">あそビーバー</title>
+    <desc lang="en">遊びのアイデア満載！Ｅテレの番組から人気コーナーも紹介する。今回は「ミミクリーズ」から。</desc>
+  </programme>
+  <programme start="20211206102500 +0900" stop="20211206105000 +0900" channel="eTele.jp">
+    <title lang="en">グレーテルのかまど</title>
+    <desc lang="en">チェコのクリスマスに欠かせない、ペルニーク。あまいアイシングでカラフルな絵を描いたクッキーです。わくわく気分でヘンゼルもクッキーのデコレーションに挑戦！</desc>
+  </programme>
+  <programme start="20211206105000 +0900" stop="20211206105500 +0900" channel="eTele.jp">
+    <title lang="en">名曲アルバム</title>
+    <desc lang="en">美しい海の都・ベネチアに魅了されたワーグナー。「ニュルンベルクのマイスタージンガー」完成の背景には、ベネチアに残された、とある絵画との出会いがあった。</desc>
+  </programme>
+  <programme start="20211206105500 +0900" stop="20211206110000 +0900" channel="eTele.jp">
+    <title lang="en">まいにちスクスク</title>
+    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  </programme>
+  <programme start="20211206110000 +0900" stop="20211206112500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">栗原さん一押し“塩もみ白菜”のつくり方とそれを使った春雨炒めやしゃぶしゃぶ鍋を紹介。刻んだ白菜に塩を振っておくだけ。日持ちもして、白菜がたくさん食べられます。</desc>
   </programme>
   <programme start="20211205102500 +0900" stop="20211205112500 +0900" channel="NipponTV.jp">
     <title lang="en">ニノさん</title>
@@ -632,14 +672,10 @@
     <title lang="en">スッキリ</title>
     <desc lang="en">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
   </programme>
-<programme start="20211205093000 +0900" stop="20211205100000 +0900" channel="Asahi.jp">
-  <title lang="en">機界戦隊ゼンカイジャー</title>
-  <desc lang="en">１人の人間と４人のロボがすべての世界を守るヒーローになる！その名も機界戦隊ゼンカイジャー！地球に侵略してきた悪のトジテンド王朝を倒せるのか!?みんなで応援しよう！</desc>
-</programme>
-<programme start="20211205100000 +0900" stop="20211205105000 +0900" channel="Asahi.jp">
-  <title lang="en">週刊!じゅん散歩</title>
-  <desc lang="en">三代目散歩人・高田純次が「高円寺・阿佐ヶ谷」を散策▽ドクターX出演中!俳優・要潤と爆笑一歩一会▽世界的マジシャンと「失敗しない」マジック対決▽うどん好き要潤も仰天</desc>
-</programme>
+  <programme start="20211206102500 +0900" stop="20211206113000 +0900" channel="NipponTV.jp">
+    <title lang="en">バゲット</title>
+    <desc lang="en">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
+  </programme>
 <programme start="20211205105000 +0900" stop="20211205114500 +0900" channel="Asahi.jp">
   <title lang="en">林修の今でしょ!講座</title>
   <desc lang="en">今話題になっている「徳川慶喜」果たして彼は一体どんな人物なのか？意外と知らない偉業にフィーチャーし、教科書には載っていない足跡や魅力に迫る！</desc>
@@ -657,7 +693,7 @@
   <desc lang="en">歴史と伝統の大会が今年最後を迎える。そのラストランに福岡史上初めて２時間６分台の記録を持つ選手４人が参戦！トップランナーが集結し、最後の表彰台を飾るのは…⁉</desc>
 </programme>
 <programme start="20211205142600 +0900" stop="20211205162500 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
+  <title lang="en">女系家族</title>
   <desc lang="en">「５３億の遺産相続！愛人ｖｓ三姉妹‼華麗な一族…女たちの嫉妬と欲望！凄絶な財産争い‼」宮沢りえ、寺島しのぶ(他)▽老舗木綿問屋の当主が莫大な遺産を遺して亡くなり…</desc>
 </programme>
 <programme start="20211205162500 +0900" stop="20211205172500 +0900" channel="Asahi.jp">
@@ -753,6 +789,10 @@
 <programme start="20211206095500 +0900" stop="20211206102500 +0900" channel="Asahi.jp">
   <title lang="en">じゅん散歩</title>
   <desc lang="en">三代目散歩人・高田純次が「豊洲市場」を散策▽青果棟でまつたけ＆メロン！うまい物探し▽ロマネスコ・フィンガーライム…貴重な品続々▽ワタリガニを丸ごと使ったパスタ</desc>
+</programme>
+<programme start="20211206102500 +0900" stop="20211206130000 +0900" channel="Asahi.jp">
+  <title lang="en">大下容子ワイド!スクランブル</title>
+  <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
 </programme>
 <programme start="20211205095400 +0900" stop="20211205113000 +0900" channel="TBS2.jp">
   <title lang="en">サンデー・ジャポン</title>
@@ -880,13 +920,9 @@
   <title lang="en">Let's!美バディ</title>
   <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストは野呂佳代★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
 </programme>
-<programme start="20211205093000 +0900" stop="20211205100000 +0900" channel="TVTokyo.jp">
-  <title lang="en">マジカパーティ</title>
-  <desc lang="en">『マジカ』を集めて世界を救え！「魔法×パーティ」をテーマに『マジカ』を集めて世界を救う魔法使いの物語。</desc>
-</programme>
-<programme start="20211205100000 +0900" stop="20211205103000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ワッチャプリマジ!</title>
-  <desc lang="en">「プリマジ」それは歌とダンスとファッションで作り上げるエンターテイメント！魔法のように輝くステージには秘密がありました。そう、それは本当に「魔法」だったんです！</desc>
+<programme start="20211206102500 +0900" stop="20211206135500 +0900" channel="TBS2.jp">
+  <title lang="en">ひるおび!</title>
+  <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
 <programme start="20211205103000 +0900" stop="20211205110000 +0900" channel="TVTokyo.jp">
   <title lang="en">ミュークルドリーミーみっくす!</title>
@@ -1044,10 +1080,6 @@
 コロナ禍の都政この一年と今後の課題
 ▽「虎ノ門市場」特大8寸！博多久松おせち</desc>
 </programme>
-<programme start="20211205093000 +0900" stop="20211205100000 +0900" channel="FujiTV.jp">
-  <title lang="en">ワンピース</title>
-  <desc lang="en">百獣海賊団を裏切ったドレークに、全員が動揺を隠せなかった。ゾロは不信感をあらわにするが、ルフィは受け入れ、カイドウを倒すためにドクロドームへ向かう。</desc>
-</programme>
 <programme start="20211205100000 +0900" stop="20211205111500 +0900" channel="FujiTV.jp">
   <title lang="en">ワイドナショー</title>
   <desc lang="en">オミクロン株「外国人入国禁止」▽新潟の重鎮…裏金要求問題▽鬼束ちひろ救急車蹴り逮捕▽５１年ぶり快挙！ショパンコンクール２位反田恭平２７歳出演▽ブレイクタレント</desc>
@@ -1171,18 +1203,6 @@
 <programme start="20211206095000 +0900" stop="20211206112500 +0900" channel="FujiTV.jp">
   <title lang="en">ノンストップ!</title>
   <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
-</programme>
-<programme start="20211205093000 +0900" stop="20211205100000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211205100000 +0900" stop="20211205103000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211205103000 +0900" stop="20211205105600 +0900" channel="Tokyo MX">
-  <title lang="en">MUTEKING THE DancingHERO</title>
-  <desc lang="en">＃９「Ｉｎ　ｔｈｅ　Ｄａｒｋ」</desc>
 </programme>
 <programme start="20211205105600 +0900" stop="20211205110000 +0900" channel="Tokyo MX">
   <title lang="en">SDGs劇場 サスとテナ</title>
@@ -1367,6 +1387,14 @@
 <programme start="20211206100000 +0900" stop="20211206103000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211206103000 +0900" stop="20211206110000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211206110000 +0900" stop="20211206115500 +0900" channel="Tokyo MX">
+  <title lang="en">女医明妃伝〜雪の日の誓い〜</title>
+  <desc lang="en">医師を志すヒロインに心を奪われた二人の皇帝－彼らの運命は、帝位を巡る宮廷内の争いに激しく翻弄されていく</desc>
 </programme>
 <programme start="20211204225000 +0900" stop="20211205001000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　第21戦サウジアラビアGP 土曜フリー走行</title>
@@ -1804,7 +1832,7 @@ https//otn.fujitv.co.jp
 <title lang="en">韓国ドラマ「世界で一番可愛い私の娘」50　【日本語字幕版】</title>
 <desc>第50話　＜出演＞キム・ヘスク　ユソン　キム・ソヨン　ホン・ジョンヒョン　キム・ハギョン　ギ・テヨン　ほか
 （全54話）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211205/7080088/image/b4786501da83f918867cfa19b0141bb2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211205110000 +0900" stop="20211205113000 +0900" channel="FujiTwo.jp">
