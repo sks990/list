@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211206204500 +0900" stop="20211206210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20211206210000 +0900" stop="20211206220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽新型コロナ最新情報どこまで拡大するのかオミクロン株・対策は▽アフガニスタンのいま中村哲亡くなって２年意志を継ぐ日本人たち▽きょうから臨時国会岸田首相所信表明</desc>
@@ -132,7 +128,7 @@
   </programme>
   <programme start="20211207050000 +0900" stop="20211207060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
+    <desc lang="en">▼オミクロン株日本人感染で政府は▼コロナ禍で…保育の仕事を目指す短大生は▼岡山・高校生たちが作る被爆経験伝える紙芝居▼広島・サクソフォンを支えに難病と向き合う</desc>
   </programme>
   <programme start="20211207060000 +0900" stop="20211207063000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
@@ -322,21 +318,9 @@
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">新型コロナ最新情報オミクロン株拡大は？クロマグロ安くなる？太平洋の漁獲枠拡大か資源確保との両立は▽山本五十六・新資料太平洋戦争・開戦８０年▽北京パラまで１００日</desc>
   </programme>
-  <programme start="20211206204500 +0900" stop="20211206210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20211206210000 +0900" stop="20211206212500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理</title>
-    <desc lang="en">料理研究家の藤井恵さんが年末年始にぴったりなごちそうを紹介。オーブンで焼く豚肉と豆のカスレ風煮込みと、風味豊かなサーモンのマリネ、なめらか食感の大きなプリンも！</desc>
-  </programme>
-  <programme start="20211206212500 +0900" stop="20211206213000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理ビギナーズ</title>
-    <desc lang="en">中国料理のごちそうの、肉だんご鍋とラーパーツァイを紹介。肉だんごを煮込んだ鍋はジューシーでボリューム満点。白菜の即席漬け・ラーパーツァイはごま油の香り豊か。</desc>
-  </programme>
-  <programme start="20211206213000 +0900" stop="20211206215500 +0900" channel="eTele.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">着物はハードルが高い…タンスに眠ったまま…というあなたへ。自分流に着物を楽しむ方法をお届け！今回は女優の柴田理恵さんが登場。着物をリメイクする魅力をご紹介！</desc>
+  <programme start="20211207220000 +0900" stop="20211207223000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">クローズアップ現代</title>
+    <desc lang="en">世界で報告が相次ぐ新たな変異ウイルス「オミクロン株」。その特性はいまだ分かっていない。重症化は？ワクチンの効果は？世界の現場を緊急取材。最新情報をお伝えする。</desc>
   </programme>
   <programme start="20211206215500 +0900" stop="20211206220000 +0900" channel="eTele.jp">
     <title lang="en">まる得マガジン</title>
@@ -674,13 +658,21 @@
     <title lang="en">きょうの料理</title>
     <desc lang="en">料理研究家の藤井恵さんのもてなし料理は、丸鶏の中華風しょうゆ煮。オーブンで豪快に焼く大きな中華風卵焼きは具だくさん。箸休めのあちゃら漬け風は、食卓に彩りを！</desc>
   </programme>
-  <programme start="20211206200000 +0900" stop="20211206210000 +0900" channel="NipponTV.jp">
-    <title lang="en">世界まる見え!テレビ特捜部</title>
-    <desc lang="en">飛行中にパイロットが気絶！墜落するよりマシ！とド素人の乗客が操縦席に座る！原田知世＆田中圭ハラハラ果たして？▼ない方がマシ？アフリカに寄付された古着まさかの展開</desc>
+  <programme start="20211207212500 +0900" stop="20211207213000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理ビギナーズ</title>
+    <desc lang="en">ロシア料理の定番、ビーフストロガノフ。牛肉とマッシュルームのおいしさをクリームで煮込んでご飯にかけるスタイル。箸休めのピクルスは柔らかい酸味で、日持ちも可能。</desc>
   </programme>
-  <programme start="20211206210000 +0900" stop="20211206215400 +0900" channel="NipponTV.jp">
-    <title lang="en">人生が変わる1分間の深イイ話</title>
-    <desc lang="en">都会を離れて移住した人は幸せ？元サッカー日本代表エースストライカーに初密着！絶景！海山に囲まれた話題の地方移住生活とは？▼長崎県五島の大自然生活に密着！</desc>
+  <programme start="20211207213000 +0900" stop="20211207215500 +0900" channel="eTele.jp">
+    <title lang="en">趣味どきっ!</title>
+    <desc lang="en">キャンドルの灯、コーヒーの香り、家族との時間…北欧の暮らしには、家の中で心地よく過ごすための知恵にあふれている。駐日大使・外交官直伝の豊かなライフスタイルとは？</desc>
+  </programme>
+  <programme start="20211207215500 +0900" stop="20211207220000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">つややかで、ふっくらもっちり。土鍋で炊くご飯はそれだけでごちそうです。土鍋料理の基本中の基本といえる絶品土鍋ご飯から、本格派のリゾットまで、米を楽しみます。</desc>
+  </programme>
+  <programme start="20211207220000 +0900" stop="20211207224500 +0900" channel="eTele.jp">
+    <title lang="en">先人たちの底力 知恵泉</title>
+    <desc lang="en">世界にその名を知られる天才浮世絵師・葛飾北斎。ヒット作を生み出す北斎の知恵を、週刊少年ジャンプ元編集長が読み解く。数々の名画に秘められた驚きの仕掛けとは？</desc>
   </programme>
   <programme start="20211206215400 +0900" stop="20211206220000 +0900" channel="NipponTV.jp">
     <title lang="en">The Gift</title>
@@ -778,15 +770,14 @@
     <title lang="en">ザ!世界仰天ニュース</title>
     <desc lang="en">１食３㎏食べる女子！トイレに行かないのに腹が出ない？食べ物は一体どこへ？徹底検査＆月に40万円食費かかる大食い女子！一体何食べてる？＆鶴瓶も太らない？㊙細胞検査</desc>
   </programme>
-<programme start="20211206203000 +0900" stop="20211206214800 +0900" channel="Asahi.jp">
-  <title lang="en">クイズプレゼンバラエティー Qさま!!</title>
-  <desc lang="en">今夜のＱさま!!は関東インテリ軍団と関西インテリ軍団がマスドリルで激突！
-両軍団の意地とプライドをかけた熱い戦いが繰り広げられる！！</desc>
-</programme>
-<programme start="20211206214800 +0900" stop="20211206215400 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">欧州の歴史と文化を繋ぐ道・フランス</desc>
-</programme>
+  <programme start="20211207215400 +0900" stop="20211207220000 +0900" channel="NipponTV.jp">
+    <title lang="en">つながるまちかど</title>
+    <desc lang="en">街角で見つけた、心温まる“やさしいコトバ”を、そのエピソードとともにご紹介します。</desc>
+  </programme>
+  <programme start="20211207220000 +0900" stop="20211207230000 +0900" channel="NipponTV.jp">
+    <title lang="en">一撃解明バラエティ ひと目でわかる!!</title>
+    <desc lang="en">高嶋ちさ子の疑問をなすなかにしが壮大ロケで一撃解明！糸電話はどこまで長くなる？おそらく世界初！ケータイ電波圏内圏外を繋ぐ330mの糸電話漫才は成功するのか？</desc>
+  </programme>
 <programme start="20211206215400 +0900" stop="20211206231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">オミクロン株最新情報。感染拡大防げ…自治体検査強化の動き広がる▽臨時国会召集…給付する文通費は▽真珠湾８０年…大越健介が１０３歳の元搭乗員に聞く(他)</desc>
@@ -918,9 +909,9 @@ by.Emma</desc>
   <title lang="en">芸能界常識チェック〜トリニクって何の肉!?〜</title>
   <desc lang="en">「小学生レベルのなぞなぞ」など、難易度チョー低めのものから…俳優陣が本気で挑む「死んでいる芝居」など、４つのチェックで古株チームと若造チームが熱い戦い！</desc>
 </programme>
-<programme start="20211206190000 +0900" stop="20211206210000 +0900" channel="TBS2.jp">
-  <title lang="en">クイズ!THE違和感</title>
-  <desc lang="en">松本潤ＴＶ初公開の撮影中持ち歩き私物どれ！？大悟＆松潤プライベート秘話！ロバート秋山行きつけリベンジ参戦！売上劇的アップ…お一人さま焼肉ライクの違和感見抜け！</desc>
+<programme start="20211207215400 +0900" stop="20211207231000 +0900" channel="Asahi.jp">
+  <title lang="en">報道ステーション</title>
+  <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
 <programme start="20211206210000 +0900" stop="20211206220000 +0900" channel="TBS2.jp">
   <title lang="en">CDTVライブ!ライブ!</title>
@@ -1012,9 +1003,9 @@ by.Emma</desc>
   <desc lang="en">🈑「置き場所がない」を解決！洋室にも置ける！布団入らずのおしゃれなこたつが登場！
 ▽取扱説明書の世界！正しく使えば家計が助かる！取説に隠された驚きの秘密とは？</desc>
 </programme>
-<programme start="20211206200000 +0900" stop="20211206215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">世界!ニッポン行きたい人応援団</title>
-  <desc lang="en">“津軽弁”を愛するオランダ高校生が念願の津軽弁トーク生活＆憧れのストーブ列車に大興奮！▽“焼き鳥”愛するスイス女性が1200年の歴史“紀州備長炭”の作り方に感涙！</desc>
+<programme start="20211207220000 +0900" stop="20211207225700 +0900" channel="TBS2.jp">
+  <title lang="en">婚姻届に判を捺しただけですが</title>
+  <desc lang="en">清野菜名＆坂口健太郎が送る不意キュン必至の偽装夫婦ラブコメディ！夫に愛想を尽かして偽装妻が家出！？そして年下イケメン男子が転がり込んできて夫と同居生活！？</desc>
 </programme>
 <programme start="20211206215400 +0900" stop="20211206220000 +0900" channel="TVTokyo.jp">
   <title lang="en">東京GOOD!</title>
@@ -1175,13 +1166,13 @@ by.Emma</desc>
   <title lang="en">開運!なんでも鑑定団</title>
   <desc lang="en">■１キロ４００万！？海岸掃除で拾った…＜謎のカタマリ＞に衝撃鑑定額■＜武田信玄＞の貴重お宝＆江戸時代＜幻の銀貨＞にド級値■熱烈コレクター秘蔵…激レアお宝大公開■</desc>
 </programme>
-<programme start="20211206200000 +0900" stop="20211206210000 +0900" channel="FujiTV.jp">
-  <title lang="en">痛快TV スカッとジャパン</title>
-  <desc lang="en">三越伊勢丹スカッと実話！豪華俳優陣熱演ＳＰ▽名物コンシェルジュの神対応とは？▽三越伊勢丹の感動実話…結婚指輪をすぐにほしい理由とは▽郷ひろみドラマ出演</desc>
+<programme start="20211207215400 +0900" stop="20211207220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">東京交差点</title>
+  <desc lang="en">古典や現代アート、伝統芸能・工芸、音楽、食など、幅広い東京の芸術・文化の魅力を紹介する番組。各々の芸術・文化の中で受け継ぐ「伝統」と進化した「革新」を描きます。</desc>
 </programme>
-<programme start="20211206210000 +0900" stop="20211206215400 +0900" channel="FujiTV.jp">
-  <title lang="en">ラジエーションハウスII〜放射線科の診断レポート〜</title>
-  <desc lang="en">遂にクライマックスへ！明かされた５０３号室の秘密…胎児の小さな命を救え！ピンポン玉ほどの小さな心臓を蝕む、閉鎖した肺動脈弁を開通せよ！ラジハ最大の挑戦が始まる！</desc>
+<programme start="20211207220000 +0900" stop="20211207225800 +0900" channel="TVTokyo.jp">
+  <title lang="en">WBS</title>
+  <desc lang="en">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 </programme>
 <programme start="20211206215400 +0900" stop="20211206220000 +0900" channel="FujiTV.jp">
   <title lang="en">四季彩キッチン</title>
@@ -1284,13 +1275,13 @@ by.Emma</desc>
   <title lang="en">所JAPAN</title>
   <desc lang="en">ＡＢＣ－Ｚ河合が爆買い格闘技界の大スター那須川天心の愛用品！減量中でも食べてＯＫ㊙スイーツ＆テレビ初公開の自宅で発見！減量メシが劇的に美味しくなる魔法の調理家電</desc>
 </programme>
-<programme start="20211206200000 +0900" stop="20211206210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">臨時国会召集…岸田総理が所信表明演説「ワクチンの前倒しは？」「新型コロナ飲み薬は？」▼月曜日はスポーツ！▼今週天気は？敷波さんのポイント解説</desc>
+<programme start="20211207215400 +0900" stop="20211207220000 +0900" channel="FujiTV.jp">
+  <title lang="en">My Routine〜太陽と星空の時間〜</title>
+  <desc lang="en">１００歳まで健康に！各界で活躍するあの有名人の独自の健康法〜マイ・ルーティーンをこっそり教えます！▽タレント・横山ルリカ</desc>
 </programme>
-<programme start="20211206210000 +0900" stop="20211206215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">杉村太蔵×原田曜平　毎週月曜は「ビジネス・マネー」をテーマにお届け。【DANDY Salon】ダンディな大人が知るべき話題をトーク＆【DANDY Academy】海来ちゃんが企業潜入！</desc>
+<programme start="20211207220000 +0900" stop="20211207225400 +0900" channel="FujiTV.jp">
+  <title lang="en">火曜は全力!華大さんと千鳥くん</title>
+  <desc lang="en">こじるり＆ロバート秋山参戦！簡単ゲーム６人成功で１００万円！華丸の手の震えが秋山の助言で・・・邪念を捨てろ！</desc>
 </programme>
 <programme start="20211206215400 +0900" stop="20211206220000 +0900" channel="Tokyo MX">
   <title lang="en">VIRTUAL BUZZ TALK!</title>
@@ -1491,6 +1482,14 @@ by.Emma</desc>
 <programme start="20211207210000 +0900" stop="20211207215400 +0900" channel="Tokyo MX">
   <title lang="en">バラいろダンディ</title>
   <desc lang="en">筆跡で見る性格診断！女優遠野なぎこ＆橋本マナミの本性が暴かれる</desc>
+</programme>
+<programme start="20211207215400 +0900" stop="20211207220000 +0900" channel="Tokyo MX">
+  <title lang="en">Artist18File</title>
+  <desc lang="en">今月のアーティストはＳＨＵＮ　ＣＨＩＢＡ（ＢＵＺＺ－ＥＲ．）　今回は二人のアーティストを目指したキッカケや、憧れのアーティストへの想いを聞き出します！</desc>
+</programme>
+<programme start="20211207220000 +0900" stop="20211207222900 +0900" channel="Tokyo MX">
+  <title lang="en">ドラゴンボールZ</title>
+  <desc lang="en">＃８０「一気に形勢逆転‼　遅れてきた戦士・ピッコロ」</desc>
 </programme>
 <programme start="20211205235000 +0900" stop="20211206010000 +0900" channel="FujiNext.jp">
 <title lang="en">Rage Against The Machine Live　フィンズベリーパーク</title>
@@ -2337,7 +2336,7 @@ https//otn.fujitv.co.jp
 <programme start="20211206210000 +0900" stop="20211206220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211206/7083315/image/214d19c22a0a442faadb2c1d782316a5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211206220000 +0900" stop="20211206232000 +0900" channel="kbsworld.jp">
