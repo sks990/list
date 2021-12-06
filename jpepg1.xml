@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211207013400 +0900" stop="20211207023400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">昭和の選択</title>
-    <desc lang="en">昭和１６年１２月８日、太平洋戦争開戦。海軍で、戦争を回避する避戦派の中心にいたのが連合艦隊司令長官・山本五十六だった。彼の開戦への葛藤と苦悩をたどる</desc>
-  </programme>
   <programme start="20211207023400 +0900" stop="20211207031800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">スポーツ×ヒューマン</title>
     <desc lang="en">ボート競技の花形「エイト」。コールと呼ばれる言葉で８人の漕（そう）手の力を限界まで引き出すのが司令塔「コックス」だ。日本一のチームのコックス佐々野大輝を追った。</desc>
@@ -317,6 +313,10 @@
   <programme start="20211208015400 +0900" stop="20211208023500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽中国　終戦後の日本人引き揚げを描いた絵画▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211208023500 +0900" stop="20211208033500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
   </programme>
   <programme start="20211207002500 +0900" stop="20211207053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -770,20 +770,14 @@
     <title lang="en">シキザクラ</title>
     <desc lang="en">全てのオニを消し去るための、シキザクラの儀式が近づいていた。戦う力を失った翔は何も出来ない。明かされるイバラの過去。逢花の想いを受け止め、翔は走り出す。</desc>
   </programme>
-<programme start="20211207013100 +0900" stop="20211207020100 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
-<programme start="20211207020100 +0900" stop="20211207022100 +0900" channel="Asahi.jp">
-  <title lang="en">イグナッツ!!</title>
-  <desc lang="en">今回のカルチャーゲストは、売れっ子クリエーター‼なんとあの超人気MVに携わっていた‼
-妄想ブロックでは、ゲストの部屋の写真で大盛り上がり‼</desc>
-</programme>
-<programme start="20211207022100 +0900" stop="20211207024100 +0900" channel="Asahi.jp">
-  <title lang="en">トゲアリトゲナシトゲトゲ</title>
-  <desc lang="en">３時のヒロイン福田×Ａマッソ加納×ラランド サーヤ
-令和のカリスマ女芸人３人がトゲがあるのかないのか分からない企画を好き勝手にお送りするド深夜バラエティ！</desc>
-</programme>
+  <programme start="20211208020500 +0900" stop="20211208023500 +0900" channel="NipponTV.jp">
+    <title lang="en">ハネノバス</title>
+    <desc lang="en">「草薙の旅」第２夜▼草薙の夢「競馬はしご旅」盛岡競馬場で惨敗が続く2人。そんな中メインの番組冠レース「ハネノバス賞」がついに訪れる！勝負の1レースで奇跡が起きる</desc>
+  </programme>
+  <programme start="20211208023500 +0900" stop="20211208040000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレ名物北海道グルメ！人気ボイルズワイガニ＆大人気おせち等、大掃除に便利なコードレス高圧洗浄機、寒い時期にブランケットヒーターから真珠までお得情報満載！</desc>
+  </programme>
 <programme start="20211207024100 +0900" stop="20211207030100 +0900" channel="Asahi.jp">
   <title lang="en">もう中学生のおグッズ!</title>
   <desc lang="en">有効成分120％！もう中ワールドへようこそ◎
@@ -905,6 +899,19 @@ by.Lucio Dalla</desc>
   <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
 ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
 </programme>
+<programme start="20211208020100 +0900" stop="20211208022100 +0900" channel="Asahi.jp">
+  <title lang="en">ホリケンのみんなともだち</title>
+  <desc lang="en">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルな唯一無二のバラエティー番組</desc>
+</programme>
+<programme start="20211208022100 +0900" stop="20211208024100 +0900" channel="Asahi.jp">
+  <title lang="en">ぼる塾のいいじゃないキッチン</title>
+  <desc lang="en">食を愛する芸人・ぼる塾が、食にまつわるあらゆることを「いいじゃない」で全肯定する超ポジティブなグルメバラエティーです。</desc>
+</programme>
+<programme start="20211208024100 +0900" stop="20211208030100 +0900" channel="Asahi.jp">
+  <title lang="en">〜凪咲と芸人〜マッチング</title>
+  <desc lang="en">バラエティ番組で大活躍中！ＮＭＢ48渋谷凪咲の初冠番組！
+今夜は“アンジャッシュ児嶋”をゲストに迎え、２人の相性を探っていく！</desc>
+</programme>
 <programme start="20211207013500 +0900" stop="20211207033000 +0900" channel="TBS2.jp">
   <title lang="en">金曜ドラマ「最愛」 1〜8話スペシャルダイジェスト!</title>
   <desc lang="en">吉高由里子主演！１５年の時を経て完結するサスペンス×ラブストーリー！今からでもまだ間に合う！ハラハラとヒリヒリ、そして最愛が詰まった１〜８話SPダイジェスト！</desc>
@@ -989,21 +996,14 @@ by.Lucio Dalla</desc>
   <title lang="en">アカデミーナイトG</title>
   <desc lang="en">「99.9-刑事専門弁護士-THEMOVIE」杉咲花が登場！松本潤との撮影秘話公開「シンギン・イン・ザ・レイン-雨に唄えば-」こがけんvs宮下兼史鷹プレゼン対決</desc>
 </programme>
-<programme start="20211207013000 +0900" stop="20211207020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">境界戦機</title>
-  <desc lang="en">２１世紀半ば、日本は４つの経済圏によって分割統治された。隷属国となった日本に生まれた少年・椎葉アモウは、ある日、捨てられていた自律思考型ＡＩ『ガイ』と出会う。</desc>
+<programme start="20211208021500 +0900" stop="20211208022200 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
-<programme start="20211207020000 +0900" stop="20211207023000 +0900" channel="TVTokyo.jp">
-  <title lang="en">進化の実〜知らないうちに勝ち組人生〜</title>
-  <desc lang="en">無事オリガを救い出し悲しい過去を聞いた誠一は、その呪われた運命を解放。一方、誠一たちのいる国の周辺に強力な無数の魔物が出現。どす黒い悪意が蠢き始めていた…‼</desc>
-</programme>
-<programme start="20211207023000 +0900" stop="20211207023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレビ東京が“日本経済を元気にする”１週間！「経済ウィーク」の情報をお届けします。</desc>
-</programme>
-<programme start="20211207023500 +0900" stop="20211207025000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">豪華声優陣でおくる！さえない高校生が一気に勝ち組に変わるアニメ！「進化の実〜知らないうちに勝ち組人生」。今夜は主人公・誠一の“ハーレム”状態をちょい見せ！</desc>
+<programme start="20211208022200 +0900" stop="20211208034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
 <programme start="20211207025000 +0900" stop="20211207032000 +0900" channel="TVTokyo.jp">
   <title lang="en">プレミアMelodiX!</title>
@@ -1152,13 +1152,13 @@ by.Lucio Dalla</desc>
   <title lang="en">紙とさまぁ〜ず</title>
   <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
 </programme>
-<programme start="20211207013500 +0900" stop="20211207020000 +0900" channel="FujiTV.jp">
-  <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
-  <desc lang="en">川島明＆ＧＥＮＫＩＮＧが深夜にお届けするリアルトーク通販バラエティ！美容・健康・家電・コスメ・ファッションなどを徹底的に品定め＆ぶっちゃけトーク！</desc>
+<programme start="20211208020500 +0900" stop="20211208023500 +0900" channel="TVTokyo.jp">
+  <title lang="en">勇者の歌声〜魂と絆のオーディション〜</title>
+  <desc lang="en">ゲームアプリ「ドラゴンクエスト　ダイの大冒険　-魂の絆-」の主題歌を決めるオーディション番組。今日は最終回！主題歌シンガーが運命のレコーディングへ！</desc>
 </programme>
-<programme start="20211207020000 +0900" stop="20211207022500 +0900" channel="FujiTV.jp">
-  <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
-  <desc lang="en">舞台「サザエさん」にワカメ役で出演する本間日陽（ＮＧＴ４８）が登場。「新潟の太陽」の魅力にＭＣ二人が夢中！？さらにこじるりがグラビアポーズを伝授！？</desc>
+<programme start="20211208023500 +0900" stop="20211208030500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
 </programme>
 <programme start="20211207022500 +0900" stop="20211207032500 +0900" channel="FujiTV.jp">
   <title lang="en">他人は地獄だ</title>
@@ -1256,17 +1256,9 @@ by.Lucio Dalla</desc>
   <title lang="en">ドラゴンボール改</title>
   <desc lang="en">「悟空がギニューに変身」</desc>
 </programme>
-<programme start="20211207013500 +0900" stop="20211207020500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211207020500 +0900" stop="20211207023400 +0900" channel="Tokyo MX">
-  <title lang="en">夏菜のWAZAARI〜日本esports応援宣言〜</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211207023400 +0900" stop="20211207023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211208020500 +0900" stop="20211208030500 +0900" channel="FujiTV.jp">
+  <title lang="en">ゲームセンターCX</title>
+  <desc lang="en">ＣＳフジテレビＯＮＥで放送中のゲームセンターＣＸが地上波で放送！有野課長が難関レトロゲームに挑戦！果たしてエンディングを見ることはできるのか！？</desc>
 </programme>
 <programme start="20211207023500 +0900" stop="20211207030500 +0900" channel="Tokyo MX">
   <title lang="en">テリー土屋のくるまの話</title>
@@ -1460,6 +1452,18 @@ by.Lucio Dalla</desc>
   <title lang="en">69号室の住人</title>
   <desc lang="en">Little Glee Monsterから、かれんとMAYUが登場！圧倒的な歌唱力で、世代や性別を問わず幅広い層から支持を受けているリトグリの２人が、遠山に歌唱指導！</desc>
 </programme>
+<programme start="20211208020500 +0900" stop="20211208023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211208023400 +0900" stop="20211208023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211208023500 +0900" stop="20211208030500 +0900" channel="Tokyo MX">
+  <title lang="en">キラ×バズTV!?</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211206230000 +0900" stop="20211207011000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA 10TH ANNIVERSARY GIG　〜お台場野外特設会場</title>
 <desc>LUNA SEA 10TH ANNIVERSARY GIG［NEVER SOLD OUT］CAPACITY∞
@@ -1470,7 +1474,7 @@ by.Lucio Dalla</desc>
 <programme start="20211207011000 +0900" stop="20211207030000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA The End of the Dream　TOUR「降臨」</title>
 <desc>LUNA SEA The End of the Dream ZEPP TOUR 2012「降臨」　＜収録＞2012年12月16日　〜Zepp Tokyo
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211206/7089166/image/3298681ee94735f18bb75310de53218d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211207030000 +0900" stop="20211207052000 +0900" channel="FujiNext.jp">
