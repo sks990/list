@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211207045000 +0900" stop="20211207050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">衆院選後、初の臨時国会が６日に開会。岸田政権にとっては初の本格的な国会論戦。新代表が就任した立憲民主党はじめ野党にとっても力量が試される。論戦の焦点を解説する。</desc>
-  </programme>
   <programme start="20211207050000 +0900" stop="20211207060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼オミクロン株日本人感染で政府は▼コロナ禍で…保育の仕事を目指す短大生は▼岡山・生徒たちが作る被爆経験伝える紙芝居▼広島・サクソフォンを支えに難病と向き合う</desc>
@@ -314,13 +310,9 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20211207002500 +0900" stop="20211207053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211207053000 +0900" stop="20211207055500 +0900" channel="eTele.jp">
-    <title lang="en">ロシアゴスキー</title>
-    <desc lang="en">現地のリポーターの案内による街歩きと、楽しいアニメーションで学ぶ、スタイリッシュなロシア語講座。モスクワの風景を楽しみながら、旅で役立つロシア語を覚えましょう！</desc>
+  <programme start="20211208060000 +0900" stop="20211208063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20211207055500 +0900" stop="20211207060000 +0900" channel="eTele.jp">
     <title lang="en">楽ラクワンポイント介護</title>
@@ -666,9 +658,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211207043000 +0900" stop="20211207055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽岸田首相「3回目接種前倒し」▽住宅火災相次ぐ▽登っていた鉄柱倒れ男児負傷▽早田ひな、山田裕貴</desc>
+  <programme start="20211208053000 +0900" stop="20211208055500 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">元々水や土地といった公共財は無償であり潤沢に存在していた。資本主義黎明期これらはもっとお金が稼げる「商品」として農民から強制的に引きはがされる。何が起こったのか</desc>
+  </programme>
+  <programme start="20211208055500 +0900" stop="20211208060000 +0900" channel="eTele.jp">
+    <title lang="en">浮世絵EDO-LIFE</title>
+    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！隅田川の向こう岸にそびえ立つ２本の高い塔。一体これは何？江戸の町に出現したスカイツリー？</desc>
+  </programme>
+  <programme start="20211208060000 +0900" stop="20211208062500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのイタリア語</title>
+    <desc lang="en">旅に役立つイタリア語を楽しく学べる講座。今シリーズは、さらに使える「応用編」。もちろん初心者にもわかりやすくお伝えします。</desc>
   </programme>
   <programme start="20211207055000 +0900" stop="20211207080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -765,6 +765,10 @@
   <programme start="20211208043000 +0900" stop="20211208055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20211208055000 +0900" stop="20211208080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20211207045500 +0900" stop="20211207080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -899,11 +903,6 @@ by.Lucio Dalla</desc>
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
-<programme start="20211207043000 +0900" stop="20211207052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
-ニュースも天気も充実</desc>
-</programme>
 <programme start="20211207052000 +0900" stop="20211207080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
   <desc lang="en">中継！秘境サウナ対決…雪にダイブVSから風呂▼オミクロン国内３人目▼感染性胃腸炎が増加の謎▼3回目ワクチン前倒し▼ペットにマイクロチップ義務化▼BTS長期休暇に</desc>
@@ -988,12 +987,9 @@ by.Lucio Dalla</desc>
   <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
 ニュースも天気も充実</desc>
 </programme>
-<programme start="20211207042300 +0900" stop="20211207054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20211208052000 +0900" stop="20211208080000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME,</title>
+  <desc lang="en">安住紳一郎と香川照之のＷ司会で、明るく楽しく丁寧に、そして正直にお伝えします！</desc>
 </programme>
 <programme start="20211207054500 +0900" stop="20211207070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1146,9 +1142,9 @@ by.Lucio Dalla</desc>
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20211207045500 +0900" stop="20211207052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20211208054500 +0900" stop="20211208070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20211207052500 +0900" stop="20211207080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1242,13 +1238,9 @@ by.Lucio Dalla</desc>
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20211207043500 +0900" stop="20211207050000 +0900" channel="Tokyo MX">
-  <title lang="en">洋上の楽園クルーズ</title>
-  <desc lang="en">「花と緑の利尻島・礼文島クルーズ」</desc>
-</programme>
-<programme start="20211207050000 +0900" stop="20211207053000 +0900" channel="Tokyo MX">
-  <title lang="en">ロンブー亮の釣りならまかせろ!</title>
-  <desc lang="en">ワカサギ釣りならまかせろ！まるで家の中⁉相模湖ドーム船釣り</desc>
+<programme start="20211208052500 +0900" stop="20211208080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20211207053000 +0900" stop="20211207060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1446,6 +1438,14 @@ by.Lucio Dalla</desc>
   <title lang="en">日本で味わう世界食堂!</title>
   <desc lang="en">ギリシャ／モルドバ</desc>
 </programme>
+<programme start="20211208053000 +0900" stop="20211208060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211208060000 +0900" stop="20211208070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+</programme>
 <programme start="20211206230000 +0900" stop="20211207011000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA 10TH ANNIVERSARY GIG　〜お台場野外特設会場</title>
 <desc>LUNA SEA 10TH ANNIVERSARY GIG［NEVER SOLD OUT］CAPACITY∞
@@ -1475,7 +1475,7 @@ by.Lucio Dalla</desc>
 <title lang="en">番組PR【12月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211207/7089169/image/d88fef155cd7ad6a82fe9644a6efe3c0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211207060000 +0900" stop="20211207100000 +0900" channel="FujiNext.jp">
@@ -2096,7 +2096,7 @@ https//otn.fujitv.co.jp
 <programme start="20211207050000 +0900" stop="20211207060000 +0900" channel="kbsworld.jp">
 <title lang="en">クイズバラエティ〜屋根部屋の問題児たち [字][再]</title>
 <desc>日本初放送！芸能人たちが様々なジャンルのクイズ10問に正解するまで部屋から出られない韓国　最新バラエティ！2018年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211207/7083322/image/5ed002e5df077a922fdc5b61af022566.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211207060000 +0900" stop="20211207070000 +0900" channel="kbsworld.jp">
