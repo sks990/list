@@ -250,18 +250,6 @@
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211208135000 +0900" stop="20211208140000 +0900" channel="eTele.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「家庭で身につける科学的思考力」尾嶋好美（筑波大学サイエンスコミュニケーター）</desc>
-  </programme>
-  <programme start="20211208140000 +0900" stop="20211208142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 化学基礎</title>
-    <desc lang="en">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
-  </programme>
-  <programme start="20211208142000 +0900" stop="20211208144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 物理基礎</title>
-    <desc lang="en">電気とはいったい何だろう？乾電池の電気と静電気は同じものなのだろうか？調べて行くと、その正体は「原子」の中にあることがわかった。「電気」を解き明かそう！</desc>
-  </programme>
   <programme start="20211208144000 +0900" stop="20211208150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 地学基礎</title>
     <desc lang="en">私たちの身の回りの自然の成り立ちについて知る地学基礎。今回は、空気中の水蒸気はどのようにして雲となり雨となるのか、その仕組みを学びます。</desc>
@@ -598,6 +586,18 @@
     <title lang="en">NHK高校講座 科学と人間生活</title>
     <desc lang="en">身の回りの自然や暮らしを糸口に、科学を楽しく解き明かしていきます。今回は、特に、ＳＤＧｓの目標７「エネルギーをみんなにそしてクリーンに」について考えていきます。</desc>
   </programme>
+  <programme start="20211209142000 +0900" stop="20211209144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 芸術</title>
+    <desc lang="en">描いた絵を動かしたいという欲求を、人間は太古の昔から持っていたと言われる。絵に動きをつける技術が発展して生まれた、マンガとアニメーションの魅力に迫る。</desc>
+  </programme>
+  <programme start="20211209144000 +0900" stop="20211209150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 家庭総合</title>
+    <desc lang="en">これからの生活に必要な知識や技術を学ぶ「家庭総合」。身近な問題について、地域・社会・歴史など、さまざまな視点でとらえ、りゅうちぇるさんと一緒に考えましょう！</desc>
+  </programme>
+  <programme start="20211209150000 +0900" stop="20211209153000 +0900" channel="eTele.jp">
+    <title lang="en">将棋フォーカス</title>
+    <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
+  </programme>
   <programme start="20211208135500 +0900" stop="20211208155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">橋下徹が生出演！「文通費」＆クーポン経費９００億など岸田内閣に物申す！▽米「外交的ボイコット」日本政府の対応は？</desc>
@@ -822,6 +822,10 @@
 <programme start="20211209135400 +0900" stop="20211209145000 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女15</title>
   <desc lang="en">「８００の指紋を持つ女〜死者がネックレスを買い歩く⁉」沢口靖子(他)▽元そろばん塾講師の女性が遺体で発見された。遺留品には生前の希望をまとめたやりたいことリストが…</desc>
+</programme>
+<programme start="20211209145000 +0900" stop="20211209154800 +0900" channel="Asahi.jp">
+  <title lang="en">ドクターX〜外科医・大門未知子〜</title>
+  <desc lang="en">「さよなら友よ〜外科医の宿命」米倉涼子(他)▽博美の高校時代の同級生が東帝大病院に入院した。重篤ながんに侵され“内科主導のケミカルサージェリー”治療を希望するが…</desc>
 </programme>
 <programme start="20211208135500 +0900" stop="20211208154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1068,10 +1072,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">オヤジの怒りは雷の如く悪を追いつめる！過去の悪夢を引きずる鬼刑事セガールが、凶悪な連続殺人犯２人に挑む。迫真のサイコ・サスペンス・アクション！</desc>
 </programme>
-<programme start="20211208115500 +0900" stop="20211208144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">裏金告発問題がドロ沼化…盗聴疑惑まで浮上支部長解任要求の裏側▽「文通費」巡る攻防与野党で足並み揃わず▽モナコ公妃巡るナゾ衝撃モヒカン姿も話題</desc>
-</programme>
 <programme start="20211208144500 +0900" stop="20211208154500 +0900" channel="FujiTV.jp">
   <title lang="en">絶対零度〜未然犯罪潜入捜査〜</title>
   <desc lang="en">ついに正体が判った真犯人はミハンに最後の事件を仕掛けてくる。すべての謎が解き明かされ、妻娘の悲しき真実を知った井沢は、ついに一線を越えてしまうのか！？</desc>
@@ -1160,17 +1160,9 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20211208135500 +0900" stop="20211208140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211208140000 +0900" stop="20211208143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211208143000 +0900" stop="20211208145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211209144500 +0900" stop="20211209154500 +0900" channel="FujiTV.jp">
+  <title lang="en">イチケイのカラス</title>
+  <desc lang="en">型破りのクセ者裁判官×堅物エリート裁判官！凸凹バディが法廷をとびだし真実を裁くリーガルドラマ！２０２１年最強の月９をもう一度！</desc>
 </programme>
 <programme start="20211208145900 +0900" stop="20211208150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1365,6 +1357,18 @@
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20211209140000 +0900" stop="20211209143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211209143000 +0900" stop="20211209145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211209145900 +0900" stop="20211209150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211209150000 +0900" stop="20211209153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
