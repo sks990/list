@@ -116,7 +116,9 @@ http://122.155.180.8:5021/live/312
 https://ntv1.mov3.co/hls/ntv.m3u8
 http://itskoi.dothome.co.kr/jptv.php?id=kanto_nippon
 
-#EXTINF:-1 tvg-id="Asahi.jp" tvg-logo="https://www.tv-asahi.co.jp/ips/contents/Topics/0001/img/0_28.jpg" group-title="JapanTV",TV Asahi
+#EXTINF:-1 tvg-id="Asahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.tv-asahi.co.jp/ips/contents/Topics/0001/img/0_28.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" group-title="JapanTV",TV Asahi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+https://redlabmcdn.s.llnwi.net/nv02/ryowa4/index.mpd
 http://122.155.180.8:5021/live/313
 
 
