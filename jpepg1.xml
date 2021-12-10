@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211211022900 +0900" stop="20211211032900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">空からクルージング特別編</title>
-    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパに残る、知られざる遺跡の数々を紹介する。</desc>
-  </programme>
   <programme start="20211211032900 +0900" stop="20211211040800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ポーランド・クラクフを旅する。</desc>
@@ -325,6 +321,10 @@
   <programme start="20211212021700 +0900" stop="20211212031700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
+  </programme>
+  <programme start="20211212031700 +0900" stop="20211212041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北アルプス 美の点描</title>
+    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
   </programme>
   <programme start="20211211005000 +0900" stop="20211211053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -705,14 +705,30 @@
     <title lang="en">Hulu傑作シアター</title>
     <desc lang="en">「あなたの番です」が遂に映画化！劇場版公開を記念してテレビドラマ版とHuluオリジナルストーリーを紹介▼「パラディーゾ 〜恋する百貨店〜」第1話を放送</desc>
   </programme>
-<programme start="20211211024500 +0900" stop="20211211030500 +0900" channel="Asahi.jp">
-  <title lang="en">あるある土佐カンパニー2</title>
-  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
-</programme>
-<programme start="20211211030500 +0900" stop="20211211033400 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-</programme>
+  <programme start="20211212033100 +0900" stop="20211212033600 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐあな番ワールド!原田知世×田中圭ＳＰ対談!!今夜はメイキングもたっぷり！</desc>
+  </programme>
+  <programme start="20211212033600 +0900" stop="20211212034100 +0900" channel="NipponTV.jp">
+    <title lang="en">笑って年越したい!笑う大晦日</title>
+    <desc lang="en">今年の大晦日は笑っていい！ネタの祭典！！お笑い界を代表するＭＣの元に人気芸人・豪華ゲストが大集合！！ネタにトークに何が起こるかわからない６時間生放送！</desc>
+  </programme>
+  <programme start="20211212034100 +0900" stop="20211212034600 +0900" channel="NipponTV.jp">
+    <title lang="en">号泣!そしてバトンは渡された</title>
+    <desc lang="en">本屋大賞受賞のベストセラー「そして、バトンは渡された」ついに映画化！▽親子役の永野芽郁＆田中圭が語る映画の見どころ▽驚きと感動が詰まった物語の秘密に迫る！</desc>
+  </programme>
+  <programme start="20211212034600 +0900" stop="20211212035100 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐ怒涛のあな番ワールド!原田知世×田中圭、西野七瀬×横浜流星ＳＰ対談!!</desc>
+  </programme>
+  <programme start="20211212035100 +0900" stop="20211212035500 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレNEWS24</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211212035500 +0900" stop="20211212052300 +0900" channel="NipponTV.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
 <programme start="20211211033400 +0900" stop="20211211043000 +0900" channel="Asahi.jp">
   <title lang="en">今田耕司★ヒットの世界「東大生が通販してみた!!」</title>
   <desc lang="en">有名百貨店×番組オリジナルおせちが１万円台!!超軽量あったか高級羽毛布団が破格値!!保阪㊙健康家電！酵素＆酸素パワーで汚れを落としまくる業務用洗剤!!</desc>
@@ -890,9 +906,18 @@
   <title lang="en">霜降りバラエティX</title>
   <desc lang="en">焼肉のテーマに対し、注文が全員一致するまで食べ続ける企画の完結編。霜降り、蛙亭、ザ・マミィ酒井が挑戦。前回は一致せず、お腹の限界も近づいてきたがクリアできるか？</desc>
 </programme>
-<programme start="20211211025500 +0900" stop="20211211030700 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!プラス</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20211212032000 +0900" stop="20211212034000 +0900" channel="Asahi.jp">
+  <title lang="en">ももクロちゃんと!</title>
+  <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
+</programme>
+<programme start="20211212034000 +0900" stop="20211212040000 +0900" channel="Asahi.jp">
+  <title lang="en">イベ検</title>
+  <desc lang="en">テレビ朝日がオススメするイベント情報！
+イベントの詳しい情報は『テレビ朝日　イベント』で検索‼</desc>
+</programme>
+<programme start="20211212040000 +0900" stop="20211212040500 +0900" channel="Asahi.jp">
+  <title lang="en">CSテレ朝ナビ!!</title>
+  <desc lang="en">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
 </programme>
 <programme start="20211211030700 +0900" stop="20211211040000 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -1017,24 +1042,13 @@
   <title lang="en">イントレランスの時代</title>
   <desc lang="en">障害者殺傷事件の犯人と障害児の父であるＲＫＢ毎日放送の記者は対話を続ける。サイレント映画の傑作『イントレランス』をモチーフに様々な不寛容の姿をあらわに描く。</desc>
 </programme>
-<programme start="20211211023000 +0900" stop="20211211030000 +0900" channel="TVTokyo.jp">
-  <title lang="en">流派-R since2001</title>
-  <desc lang="en">▼R-Feature竹内唯人
-▼VIEWS①ASOBOiSM
-▼VIEWS②DA-Dee-MiX</desc>
+<programme start="20211212030800 +0900" stop="20211212040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211211030000 +0900" stop="20211211031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">女の子に大人気！主人公たちが夢の中に入って行くアニメ！「ミュークルドリーミー　みっくす！」をご紹介。今夜はクスッと笑えるパロディシーンをちょい見せします！</desc>
-</programme>
-<programme start="20211211031500 +0900" stop="20211211034500 +0900" channel="TVTokyo.jp">
-  <title lang="en">音流〜ONRYU〜</title>
-  <desc lang="en">▼スタジオゲストは、ZIPANG　OPERA、SHIROI　ATELIER.が登場！▼「酒場サーキット」今回のゲストは、マグ万平　前編！</desc>
-</programme>
-<programme start="20211211034500 +0900" stop="20211211035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20211212040000 +0900" stop="20211212044000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211211035000 +0900" stop="20211211040500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1214,9 +1228,13 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
 </programme>
-<programme start="20211211025500 +0900" stop="20211211035000 +0900" channel="FujiTV.jp">
-  <title lang="en">ヒロミの集結!スゴ腕カリスマバイヤーズ</title>
-  <desc lang="en">テレビやネットなどで次々にヒット商品を生み出している“カリスマバイヤーズ”たち。確かな目利きを持つ彼らイチ押しの商品が続々と登場！</desc>
+<programme start="20211212030500 +0900" stop="20211212031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+</programme>
+<programme start="20211212031500 +0900" stop="20211212050000 +0900" channel="TVTokyo.jp">
+  <title lang="en">サタ☆シネ</title>
+  <desc lang="en">＜年末アクション祭り＞セガール演じる元ＣＩＡ研究員の医師が、突然町を襲ったウイルス兵器に単身立ち向かう〜解毒剤を巡り過激派と対決ー鉄拳炸裂！パニック・アクション</desc>
 </programme>
 <programme start="20211211035000 +0900" stop="20211211042000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1338,13 +1356,9 @@
   <title lang="en">World Baseballエンタテイメントたまッチ!</title>
   <desc lang="en">東京五輪で侍ＪＡＰＡＮが悲願の金メダル！プロ野球はヤクルトが日本一に輝いた激動の２０２１年▽野球の面白さを再認識させてくれたこの一年を完全プレイバック</desc>
 </programme>
-<programme start="20211211023500 +0900" stop="20211211030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211211030500 +0900" stop="20211211033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211212031500 +0900" stop="20211212042000 +0900" channel="FujiTV.jp">
+  <title lang="en">フジボクシング小原佳太(三迫)×玉山将也(帝拳)</title>
+  <desc lang="en">日本ウエルター級タイトルマッチ小原佳太（三迫）×玉山将也（帝拳）▽日本女子ミニマム級王座決定戦鈴木なな子（三迫）×瀬川紗代（ワタナベ）</desc>
 </programme>
 <programme start="20211211033500 +0900" stop="20211211040000 +0900" channel="Tokyo MX">
   <title lang="en">旅猫ロマン</title>
@@ -1519,6 +1533,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211212030000 +0900" stop="20211212033000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211212033000 +0900" stop="20211212040000 +0900" channel="Tokyo MX">
+  <title lang="en">真夜中のおバカ騒ぎ!</title>
+  <desc lang="en">２０２１年！マヨバカ国勢調査！（後編）</desc>
+</programme>
+<programme start="20211212040000 +0900" stop="20211212043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1757,7 +1779,7 @@ https//otn.fujitv.co.jp
 <programme start="20211211030000 +0900" stop="20211211040000 +0900" channel="FujiOne.jp">
 <title lang="en">オールナイトe！ season10　〜1時間版 Part2〜</title>
 <desc>薄着の女子たちによる新世代ゲーム生実況番組「オールナイトe！ season10」1時間版！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211210/7104546/image/7323ac4305fce5f195e33e865f4e5bd1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211211040000 +0900" stop="20211211050000 +0900" channel="FujiOne.jp">
