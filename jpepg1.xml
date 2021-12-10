@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211210204500 +0900" stop="20211210210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20211210210000 +0900" stop="20211210220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">ＹＯＡＳＯＢＩロングインタビュー・曲作り秘話を和久田アナが…原作が音楽になるまで▽新型コロナ最新情報日本大学が事件後初の会見▽都内で続くエコなライトアップ</desc>
@@ -302,13 +298,9 @@
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">中国共産党が取り組む重点政策のひとつが農村振興。革命の拠点となった農村だが、発展著しい都市との格差が大きな問題となってきた。いま農村で何が起きているのか。</desc>
   </programme>
-  <programme start="20211210204500 +0900" stop="20211210210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20211210210000 +0900" stop="20211210215500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">師走の風物詩「忠臣蔵」から生まれた歌舞伎の外伝・スピンオフを大特集！市川猿翁、中村吉右衛門、片岡仁左衛門、尾上菊五郎らの名演で味わう。後半、和菓子コーナーも。</desc>
+  <programme start="20211211215000 +0900" stop="20211211222000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">有田P おもてなす</title>
+    <desc lang="en">今夜のゲストは格闘家の那須川天心。笑い飯が格闘技イベント風漫才でおもてなし！ダイアン津田が大活躍？！さらにＭ−１ファイナリストたちの珠玉のネタもお楽しみください</desc>
   </programme>
   <programme start="20211210215500 +0900" stop="20211210220000 +0900" channel="eTele.jp">
     <title lang="en">365日の献立日記</title>
@@ -550,9 +542,17 @@
     <title lang="en">すくすく子育て</title>
     <desc lang="en">「どんなとき小児科に連れていけばいいのかわからない」「かかりつけ医はどう選ぶの？」など小児科のかかり方について専門家とともに考える。</desc>
   </programme>
-  <programme start="20211210205400 +0900" stop="20211210210000 +0900" channel="NipponTV.jp">
-    <title lang="en">「あな番」スピンオフ!日テレ番組を紹介するオノクロナビ</title>
-    <desc lang="en">「あなたの番です劇場版」公開記念ＳＰ！黒島ちゃん（西野七瀬）×尾野ちゃん（奈緒）が、このあとすぐ「あなたの番です×スッキリ完全新撮ドラマＳＰ」をご紹介!!</desc>
+  <programme start="20211211213000 +0900" stop="20211211215500 +0900" channel="eTele.jp">
+    <title lang="en">ウワサの保護者会</title>
+    <desc lang="en">尾木ママこと尾木直樹さんが、保護者と共に子育てや教育について語り合う。今回は子どもの言葉づかいや若者言葉について。ワンチャン、草、エモい…意味わかりますか？</desc>
+  </programme>
+  <programme start="20211211215500 +0900" stop="20211211220000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする。今回は「暴言・暴力がひどい」。講師は認知症ケアの第一人者の介護福祉士・和田行男さん。</desc>
+  </programme>
+  <programme start="20211211220000 +0900" stop="20211211225000 +0900" channel="eTele.jp">
+    <title lang="en">SWITCHインタビュー 達人達(たち)</title>
+    <desc lang="en">ジャンルにとらわれない踊りで圧倒的な存在感を放つダンサーで、近年振付師としても活躍する辻本知彦。会いたいと願ったのは、女優やモデルも大絶賛の美容師・松浦美穂だ。</desc>
   </programme>
   <programme start="20211210210000 +0900" stop="20211210225400 +0900" channel="NipponTV.jp">
     <title lang="en">金曜ロードショー</title>
@@ -685,14 +685,14 @@
     <title lang="en">1億3000万人のSHOWチャンネル</title>
     <desc lang="en">田中圭の弾丸シリーズ！九州の名湯巡り！鹿児島・熊本・大分の三つの名湯を１日で満喫したい！中丸雄一は鳥取のかにの神様を取材！石原良純が語る石原家のルールに一同驚愕</desc>
   </programme>
-<programme start="20211210200000 +0900" stop="20211210214800 +0900" channel="Asahi.jp">
-  <title lang="en">林修の今でしょ!講座</title>
-  <desc lang="en">お米のプロから学ぶ!!「最高にうまいお米の炊き方」家庭で簡単にマネできて、炊飯器のご飯の味が激変する①研ぐ②さらす③炊く…お米の新常識＆テクニックが続々！</desc>
-</programme>
-<programme start="20211210214800 +0900" stop="20211210215400 +0900" channel="Asahi.jp">
-  <title lang="en">世界の街道をゆく</title>
-  <desc lang="en">欧州の歴史と文化を繋ぐ道・フランス</desc>
-</programme>
+  <programme start="20211211215400 +0900" stop="20211211220000 +0900" channel="NipponTV.jp">
+    <title lang="en">Creator’s Space</title>
+    <desc lang="en">人気クリエイターの仕事空間を訪ねて、職場や道具やクリエイティブのこだわりを伺う。そこで「オリジナル作品」の創作を依頼。作品のテーマは［SPACE/スペース］</desc>
+  </programme>
+  <programme start="20211211220000 +0900" stop="20211211225400 +0900" channel="NipponTV.jp">
+    <title lang="en">二月の勝者 -絶対合格の教室-</title>
+    <desc lang="en">中学受験界に舞い降りた最強で最悪の塾講師、黒木蔵人。過激な言動で常に周囲を圧倒する。現代の中学受験のリアルを描き、そこに見えてくる家族問題や教育問題に切り込む。</desc>
+  </programme>
 <programme start="20211210215400 +0900" stop="20211210231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">久々飲酒で救急搬送も…“コロナ禍の忘年会”飲み方に注意▽納める金額増える人も…税制変更点のポイントは▽真冬の大冒険！スケートボード日本選手権</desc>
@@ -1002,13 +1002,14 @@
   <title lang="en">世界ふしぎ発見!</title>
   <desc lang="en">大自然の驚異・神秘の滝絶景！屋久島・太古の森にある巨大滝が見せる季節限定、幻の姿！島に伝わる驚き料理習慣▽聖地熊野・神と崇められる滝の秘密▽いにしえの滝行復活</desc>
 </programme>
-<programme start="20211210195500 +0900" stop="20211210214800 +0900" channel="TVTokyo.jp">
-  <title lang="en">所でナンじゃこりゃ!?</title>
-  <desc lang="en">ロシア「街中に空いた超巨大穴」＆フランス「断崖絶壁に現れる謎の街」＆オーストラリア「２色に輝く神秘の湖」…世界の衝撃映像連発▼大手コンビニの㊙人気食品工場に潜入</desc>
+<programme start="20211211215400 +0900" stop="20211211220000 +0900" channel="TBS2.jp">
+  <title lang="en">和心百景</title>
+  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
+今回は、新潟『新潟漆器』　笛木優子</desc>
 </programme>
-<programme start="20211210214800 +0900" stop="20211210215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">インテリア日和</title>
-  <desc lang="en">毎回テーマをもってプロのインテリアコーディネーターがその部屋を魅力ある空間に大改造します。</desc>
+<programme start="20211211220000 +0900" stop="20211211232400 +0900" channel="TBS2.jp">
+  <title lang="en">新・情報7daysニュースキャスター</title>
+  <desc lang="en">オミクロン株新たに８人陽性◆１０万給付“全額現金”で右往左往◆甘いミツで人気沸騰…焼き芋の知らない世界◆北京五輪外交的ボイコットの行方◆動物園ニンジン泥棒の犯人</desc>
 </programme>
 <programme start="20211210215400 +0900" stop="20211210220000 +0900" channel="TVTokyo.jp">
   <title lang="en">わたしのヒュッゲ</title>
@@ -1195,9 +1196,16 @@
   <title lang="en">出没!アド街ック天国</title>
   <desc lang="en">関東屈指の温泉郷「箱根温泉」でパワーチャージ▼御神水で作る開運五色餅＆至高の自然薯ランチ▼九頭竜伝説のご利益でチョコプラ大ブレーク!?▼名物湯葉丼＆本格揚げパン</desc>
 </programme>
-<programme start="20211210190000 +0900" stop="20211210215800 +0900" channel="FujiTV.jp">
-  <title lang="en">坂上どうぶつ王国</title>
-  <desc lang="en">徳島どうぶつ大家族仰天生活！秋の自給自足グルメ！片道４０ｋｍおつかいで事件発生！ＥＸＩＴがサプライズ▽爆笑！子猫４兄弟のドタバタ生活▽激カワ犬猫大連発</desc>
+<programme start="20211211215400 +0900" stop="20211211220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">土曜名馬座</title>
+  <desc lang="en">◆第二百十六夜「愛娘」
+人々の記憶に残る、名馬たちの活躍を
+当時のエピソードなどを交えて紹介する。
+俳優・仲村トオルが語る名馬物語………</desc>
+</programme>
+<programme start="20211211220000 +0900" stop="20211211223000 +0900" channel="TVTokyo.jp">
+  <title lang="en">新美の巨人たち</title>
+  <desc lang="en">小江戸とも呼ばれる川越の町に今は見ることの出来ない江戸城の遺構が移築されているのをご存じでしょうか。それがあるのは川越「喜多院」。建物の魅力にたっぷり迫ります！</desc>
 </programme>
 <programme start="20211210215800 +0900" stop="20211210225200 +0900" channel="FujiTV.jp">
   <title lang="en">人志松本の酒のツマミになる話</title>
@@ -1332,14 +1340,6 @@
 <programme start="20211211210000 +0900" stop="20211211231000 +0900" channel="FujiTV.jp">
   <title lang="en">土曜プレミアム</title>
   <desc lang="en">厳しい全国一大オーディションを勝ち上がってきた総勢およそ６０組が出場！その中から優勝の栄冠を勝ち取るのは一体誰だ？</desc>
-</programme>
-<programme start="20211210200000 +0900" stop="20211210210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">オミクロン株最新情報は？小池知事が定例会見▼本当に住みやすい街大賞２０２２第３位に急浮上！町田市・多摩境とは？▼日に日に寒くなる東京…今週末の天気は？</desc>
-</programme>
-<programme start="20211210210000 +0900" stop="20211210215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">ゲストは大竹まこと！金曜テーマは「エンタメ・遊び」。【DANDY Salon】大人が知っておくべき話題をトーク！【DANDY Academy】『ザ・ビートルズGet Back』デーブが紹介</desc>
 </programme>
 <programme start="20211210215400 +0900" stop="20211210220000 +0900" channel="Tokyo MX">
   <title lang="en">キミとフィットボクシング Fit Boxing Animation</title>
@@ -1528,6 +1528,14 @@
 <programme start="20211211210000 +0900" stop="20211211213000 +0900" channel="Tokyo MX">
   <title lang="en">キングオブモルックのモルック大作戦!!</title>
   <desc lang="en">おそらく世界初のモルック番組！いま人気のジャニーズＪｒ．が初登場！今年の目標「モルックをやりたい」が年末に実現！なぜか菅田がアクロバティック技を連発するぞ！</desc>
+</programme>
+<programme start="20211211213000 +0900" stop="20211211220000 +0900" channel="Tokyo MX">
+  <title lang="en">音ボケPOPS</title>
+  <desc lang="en">ＴｉｋＴｏｋでバズった川崎鷹也が、シンガーソングライターとして大切にしていることを語る。スタジオ生弾き語りに、ＭＣ中川翔子と、庄司智春（品川庄司）、高田夏帆が感</desc>
+</programme>
+<programme start="20211211220000 +0900" stop="20211211223000 +0900" channel="Tokyo MX">
+  <title lang="en">最果てのパラディン</title>
+  <desc lang="en">死者の街で生きた少年は聖騎士（パラディン）への道を歩み出す</desc>
 </programme>
 <programme start="20211209230000 +0900" stop="20211210012000 +0900" channel="FujiNext.jp">
 <title lang="en">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第122夜ガールズ大集合完全版</title>
@@ -2372,7 +2380,7 @@ https//otn.fujitv.co.jp
 <programme start="20211210210000 +0900" stop="20211210220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211210/7083731/image/045c851915de27369414bb3b8d480170.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211210220000 +0900" stop="20211210234000 +0900" channel="kbsworld.jp">
