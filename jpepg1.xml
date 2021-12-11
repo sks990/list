@@ -58,30 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211212031700 +0900" stop="20211212041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北アルプス 美の点描</title>
-    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
-  </programme>
-  <programme start="20211212041000 +0900" stop="20211212041300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">カラーでよみがえる東京</title>
-    <desc lang="en">ＮＨＫは、東京を撮影した白黒フィルムを世界中から収集、現実にできるだけ近い色彩の復元に挑んだ。色を取り戻した東京は、どんな表情を見せるのか。今回は秋葉原。</desc>
-  </programme>
-  <programme start="20211212041300 +0900" stop="20211212041500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">インターミッション</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211212041500 +0900" stop="20211212042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あなたのやさしさを2021</title>
-    <desc lang="en">毎年１２月に実施されるＮＨＫ歳末たすけあい。寄せられた募金は障害のある方や高齢者、子どもたちのために使われている。募金がどのように役に立っているのかを紹介する。</desc>
-  </programme>
-  <programme start="20211212042000 +0900" stop="20211212042500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">名曲アルバム</title>
-    <desc lang="en">「トゥオネラの白鳥」【管弦楽】東京フィルハーモニー交響楽団，【指揮】飯守泰次郎　〜フィンランド・オリベシほか〜</desc>
-  </programme>
-  <programme start="20211212042500 +0900" stop="20211212043000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「くいしんぼうのカレンダー」うたやまがたすみこ、杉並児童合唱団／「われないタマゴ」うた藤本房子</desc>
-  </programme>
   <programme start="20211212043000 +0900" stop="20211212050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">はやウタ</title>
     <desc lang="en">▽元宝塚トップスター涼風真世▽三山ひろし美味しいお米▽デビュー２０周年！竹島宏▽沖縄発！現役高校生歌手・石原まさし▽岩佐美咲の愛犬＆羽山みずきの手料理▽井上芳雄</desc>
@@ -317,6 +293,26 @@
   <programme start="20211213005500 +0900" stop="20211213043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20211213043500 +0900" stop="20211213044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「くいしんぼうのカレンダー」うたやまがたすみこ、杉並児童合唱団／「われないタマゴ」うた藤本房子</desc>
+  </programme>
+  <programme start="20211213044000 +0900" stop="20211213044500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">キャラとおたまじゃくし島</title>
+    <desc lang="en">まっすぐで愛にあふれた少女戦士キャラが、不思議なガッキアニマルたちと出会い心を通わせる中で、音楽を奪われた島の謎を次々と解き明かす冒険ファンタジー第８話。</desc>
+  </programme>
+  <programme start="20211213044500 +0900" stop="20211213045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
+    <desc lang="en">１１月から放送開始の新番組「Ｆｉｖｅ　Ｆｒａｍｅｓ　ｆｏｒ　Ｌｏｖｅ」を取り上げる。主役の男性２人の生活を５つのフレームを通して描いた番組の見どころを伝える。</desc>
+  </programme>
+  <programme start="20211213045000 +0900" stop="20211213050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">来年度の与党の税制改正大綱案がまとまった。焦点の賃上げ税制では、賃金増額分を法人税額から差し引く措置を大幅に拡大する。賃上げ税制の効果と今後の課題を考える。</desc>
+  </programme>
+  <programme start="20211213050000 +0900" stop="20211213060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20211212003000 +0900" stop="20211212050000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -626,20 +622,27 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物北海道グルメ！人気ボイルズワイガニ＆大人気おせち等、大掃除に便利なコードレス高圧洗浄機、寒い時期にブランケットヒーターから真珠までお得情報満載！</desc>
   </programme>
-<programme start="20211212034000 +0900" stop="20211212040000 +0900" channel="Asahi.jp">
-  <title lang="en">イベ検</title>
-  <desc lang="en">テレビ朝日がオススメするイベント情報！
-イベントの詳しい情報は『テレビ朝日　イベント』で検索‼</desc>
-</programme>
-<programme start="20211212040000 +0900" stop="20211212040500 +0900" channel="Asahi.jp">
-  <title lang="en">CSテレ朝ナビ!!</title>
-  <desc lang="en">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
-</programme>
-<programme start="20211212040500 +0900" stop="20211212043000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211213041600 +0900" stop="20211213042100 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐあな番ワールドが展開!豪華キャストが映画の魅力を語ります!!</desc>
+  </programme>
+  <programme start="20211213042100 +0900" stop="20211213042600 +0900" channel="NipponTV.jp">
+    <title lang="en">笑って年越したい!笑う大晦日</title>
+    <desc lang="en">今年の大晦日は笑っていい！ネタの祭典！！お笑い界を代表するＭＣの元に人気芸人・豪華ゲストが大集合！！ネタにトークに何が起こるかわからない６時間生放送！</desc>
+  </programme>
+  <programme start="20211213042600 +0900" stop="20211213042900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレNEWS24</title>
+    <desc lang="en">最新ニュースを２４時間お伝えするニュース専門チャンネル・日テレＮＥＷＳ２４。
+スカパー、ＪＣＯＭ、全国ＣＡＴＶで視聴可能。詳しくは番組ＨＰまで。</desc>
+  </programme>
+  <programme start="20211213042900 +0900" stop="20211213043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211213043000 +0900" stop="20211213055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20211212043000 +0900" stop="20211212050000 +0900" channel="Asahi.jp">
   <title lang="en">テレメンタリー2021</title>
   <desc lang="en">交通事故に巻き込まれ車が炎上、全身に大火傷を負った森亜美さん。変わり果てた母親の姿に戸惑う３人の子供たちと一緒に思い出を作りたい…。亜美さんのささやかな願いは？</desc>
@@ -786,13 +789,9 @@
   <title lang="en">暴れん坊将軍X</title>
   <desc lang="en">「仕組まれた旦那殺し・絵草紙屋の女の秘密」松平健(他)▽普請請負業・伊勢屋の水死体が発見された。伊勢屋はかねてより作事奉行・反橋出雲守との癒着がウワサされていて…</desc>
 </programme>
-<programme start="20211212030800 +0900" stop="20211212040000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
-</programme>
-<programme start="20211212040000 +0900" stop="20211212044000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20211213045500 +0900" stop="20211213080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20211212044000 +0900" stop="20211212054000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -930,6 +929,11 @@
 <programme start="20211213040000 +0900" stop="20211213043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+</programme>
+<programme start="20211213043000 +0900" stop="20211213052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20211212031500 +0900" stop="20211212050000 +0900" channel="TVTokyo.jp">
   <title lang="en">サタ☆シネ</title>
@@ -1090,17 +1094,9 @@
   <title lang="en">闇芝居</title>
   <desc lang="en">第九闇「蟻地獄」</desc>
 </programme>
-<programme start="20211213031000 +0900" stop="20211213040000 +0900" channel="TVTokyo.jp">
+<programme start="20211213031000 +0900" stop="20211213050000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
-</programme>
-<programme start="20211212031500 +0900" stop="20211212042000 +0900" channel="FujiTV.jp">
-  <title lang="en">フジボクシング小原佳太(三迫)×玉山将也(帝拳)</title>
-  <desc lang="en">日本ウエルター級タイトルマッチ小原佳太（三迫）×玉山将也（帝拳）▽日本女子ミニマム級王座決定戦鈴木なな子（三迫）×瀬川紗代（ワタナベ）</desc>
-</programme>
-<programme start="20211212042000 +0900" stop="20211212045000 +0900" channel="FujiTV.jp">
-  <title lang="en">ミミヨリ!</title>
-  <desc lang="en">耳より情報をお届けします！</desc>
 </programme>
 <programme start="20211212045000 +0900" stop="20211212051000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1266,13 +1262,9 @@
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20211212033000 +0900" stop="20211212040000 +0900" channel="Tokyo MX">
-  <title lang="en">真夜中のおバカ騒ぎ!</title>
-  <desc lang="en">２０２１年！マヨバカ国勢調査！（後編）</desc>
-</programme>
-<programme start="20211212040000 +0900" stop="20211212043000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211213045500 +0900" stop="20211213052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20211212043000 +0900" stop="20211212050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1450,9 +1442,13 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
-<programme start="20211213023500 +0900" stop="20211213040000 +0900" channel="Tokyo MX">
+<programme start="20211213023500 +0900" stop="20211213050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
+</programme>
+<programme start="20211213050000 +0900" stop="20211213051500 +0900" channel="Tokyo MX">
+  <title lang="en">感動地球紀行 世界遺産ものがたり</title>
+  <desc lang="en">イタリア　ナポリ歴史地区　Ｐａｒｔ１</desc>
 </programme>
 <programme start="20211211215000 +0900" stop="20211212020000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　最終戦アブダビGP 予選</title>
@@ -1626,7 +1622,7 @@
 <desc>格闘ゲームの王道が満を持してe-Sports参入！「バーチャファイター」最強トーナメント！　＜MC＞バカリズム
 ※第2音声ゲーム音のみ
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211211/7104570/image/6f6a3dd202c492cc685ba0855c05e323.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211212050000 +0900" stop="20211212051500 +0900" channel="FujiOne.jp">
