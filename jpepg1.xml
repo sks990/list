@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211214004800 +0900" stop="20211214013400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK MUSIC SPECIAL</title>
-    <desc lang="en">ＭＩＳＩＡの全国ツアーに独占密着▽コロナ禍と向き合いながら歌を届けてきたＭＩＳＩＡの深い思いに迫るドキュメント▽ニューアルバムからの新曲を披露</desc>
-  </programme>
   <programme start="20211214013400 +0900" stop="20211214021400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽ノーベル平和賞選考委員会アンデション委員長に聞く▽米ブリンケン国務長官が東南アジア訪問　その狙いは▽最新の国際ニュース　※変更の可能性あり</desc>
@@ -221,6 +217,14 @@
   <programme start="20211215002000 +0900" stop="20211215010900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">史上最年少で四冠達成した藤井聡太。宿敵・豊島将之と激闘を繰り広げた“１９番勝負”。藤井と豊島が語る“究極の頭脳格闘技”の舞台裏。二人が紡いだ新たな盤上の物語。</desc>
+  </programme>
+  <programme start="20211215010900 +0900" stop="20211215015400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">群青領域</title>
+    <desc lang="en">ジュニ（シム・ウンギョン）は、スキャンダルを公表されたバンドメンバーのレイジを青木荘に連れて来るが、レイジは家庭的なあたたかさを拒み、食事もとらない。</desc>
+  </programme>
+  <programme start="20211215015400 +0900" stop="20211215023600 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽インド　電力不安が脱炭素追い風に？※ＳＤＧｓ企画▽第二次世界大戦　日タイの知られざる戦闘を伝える▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20211214002500 +0900" stop="20211214053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -562,14 +566,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211214005900 +0900" stop="20211214012900 +0900" channel="NipponTV.jp">
-    <title lang="en">サムライカアサン</title>
-    <desc lang="en">いよいよ最終回！激うざオカン・伊佐木よい子が、バリバリ反抗期の高３の息子・たけしに、うっとうしいほどの愛を注ぎこむ！笑いとホロリがいっぱいの、全力愛情コメディ！</desc>
-  </programme>
-  <programme start="20211214012900 +0900" stop="20211214015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!2</title>
-    <desc lang="en">乃木坂４６が昭和・平成の名曲熱唱！演歌に初挑戦＆大御所・小林幸子登場にド緊張▽久保が超難曲「津軽海峡・冬景色」に大号泣▽賀喜＆小林幸子が美空ひばりのアノ名曲熱唱</desc>
-  </programme>
   <programme start="20211214015900 +0900" stop="20211214033900 +0900" channel="NipponTV.jp">
     <title lang="en">映画天国</title>
     <desc lang="en">金曜ロードショー「ボス・ベイビー」放送＆最新作「ボス・ベイビー　ファミリー・ミッション」公開記念！２週連続ドリームワークス・アニメーション・第２夜</desc>
@@ -650,18 +646,14 @@
     <title lang="en">Who is Princess?</title>
     <desc lang="en">日本全国から応募者を募り開催してきた、従来のオーディション番組とはひと味違う“デビュー・サバイバル・プログラム”が、今秋誕生！</desc>
   </programme>
-<programme start="20211214005000 +0900" stop="20211214012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">「さらば青春の光」と「見取り図」がオリジナルゲームを配信!?▼「俺のゲーム」ニッポンの社長 辻 編▼「俺のゲームをやってくれ！」天才プログラマーから開発ヒントを学ぶ</desc>
-</programme>
-<programme start="20211214012000 +0900" stop="20211214012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211214012600 +0900" stop="20211214013100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
-</programme>
+  <programme start="20211215012900 +0900" stop="20211215013500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211215013500 +0900" stop="20211215020500 +0900" channel="NipponTV.jp">
+    <title lang="en">シキザクラ</title>
+    <desc lang="en">シキザクラの儀式に向けて動き出すそれぞれの思惑。右近の野望、山田春子の秘めた想いと、イバラの過去。逢花を連れ戻しに来た紅緒に、翔は立ち向かっていく。</desc>
+  </programme>
 <programme start="20211214013100 +0900" stop="20211214020100 +0900" channel="Asahi.jp">
   <title lang="en">musicる TV</title>
   <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
@@ -784,18 +776,18 @@ by.ヴィヴァルディ</desc>
 人気声優 三ツ矢雄二、森久保祥太郎、森川智之、武内駿輔
 「2021年のアニメ・声優界を振り返ろう！」忘年会スペシャル。</desc>
 </programme>
-<programme start="20211214005800 +0900" stop="20211214012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">総額21万2000円をソウドリする第6代チャンピオンは誰だ！？【男性ブランコvs東京ホテイソンvs大谷健太vsスタンダップコーギー】▼シーズン7の出場者も発表！</desc>
+<programme start="20211215012000 +0900" stop="20211215012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20211214012800 +0900" stop="20211214013800 +0900" channel="TBS2.jp">
+<programme start="20211215012600 +0900" stop="20211215013100 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">今年も年末年始はスポーツ祭！
-ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
 </programme>
-<programme start="20211214013800 +0900" stop="20211214014500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20211215013100 +0900" stop="20211215020100 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
 </programme>
 <programme start="20211214014500 +0900" stop="20211214033500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -880,13 +872,15 @@ by.ヴィヴァルディ</desc>
   <title lang="en">居酒屋新幹線</title>
   <desc lang="en">損保会社の内部監査室で働く高宮進（眞島秀和）の密かな楽しみは、出張帰りの新幹線で堪能するご当地テイクアウトグルメ！今宵も、新幹線が贅沢な居酒屋空間に生まれ変わる</desc>
 </programme>
-<programme start="20211214004000 +0900" stop="20211214011000 +0900" channel="TVTokyo.jp">
-  <title lang="en">Dreamer 乙</title>
-  <desc lang="en">DreamerZと連動＆iCONZ応援番組！GENERATIONS　from　EXILE　TRIBEやTHE　RAMPAGE　from　EXILE　TRIBEの超貴重オーディション映像も盛り沢山！</desc>
+<programme start="20211215012800 +0900" stop="20211215014500 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権。
+たっぷりお楽しみ下さい！</desc>
 </programme>
-<programme start="20211214011000 +0900" stop="20211214014000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼１２日に行われた研修生発表会の最新映像大公開▼今夜から新コーナー！研修生と憧れの先輩が夢のコラボレーション</desc>
+<programme start="20211215014500 +0900" stop="20211215022500 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">松本潤主演「99.9-刑事専門弁護士-THEMOVIE」出演！なにわ男子・道枝駿佑独占インタビュー！「サンリオ展」イコラブ㊙大人デートロケにAマッソ大興奮！</desc>
 </programme>
 <programme start="20211214014000 +0900" stop="20211214021000 +0900" channel="TVTokyo.jp">
   <title lang="en">境界戦機</title>
@@ -1038,13 +1032,17 @@ by.ヴィヴァルディ</desc>
   <title lang="en">田村淳が池袋Innovation Council</title>
   <desc lang="en">池袋の街をバーチャル上に完全再現した「池袋ミラーワールド」。それを「リアルの池袋」と連動させ、新たな文化圏や経済圏を生み出す！様々なアイデアを徹底討論！</desc>
 </programme>
-<programme start="20211214005500 +0900" stop="20211214012500 +0900" channel="FujiTV.jp">
-  <title lang="en">花にけだもの</title>
-  <desc lang="en">［第二話］『好き』って言いたくない</desc>
+<programme start="20211215011000 +0900" stop="20211215014000 +0900" channel="TVTokyo.jp">
+  <title lang="en">激!今夜もドル箱</title>
+  <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20211214012500 +0900" stop="20211214015000 +0900" channel="FujiTV.jp">
-  <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
-  <desc lang="en">川島明＆ＧＥＮＫＩＮＧが深夜にお届けするリアルトーク通販バラエティ！美容・健康・家電・コスメ・ファッションなどを徹底的に品定め＆ぶっちゃけトーク！</desc>
+<programme start="20211215014000 +0900" stop="20211215014500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">有吉＆田中将大がトップアスリートとゲーム対決▽サッカー11人VS11人！日本代表レジェンド＆川崎フロンターレ緊急招集▽柔道メダリスト阿部兄妹＆高藤＆バスケ女子代表も！</desc>
+</programme>
+<programme start="20211215014500 +0900" stop="20211215021500 +0900" channel="TVTokyo.jp">
+  <title lang="en">紙とさまぁ〜ず</title>
+  <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
 </programme>
 <programme start="20211214015000 +0900" stop="20211214021500 +0900" channel="FujiTV.jp">
   <title lang="en">エンタメサーチバラエティ プレミアの巣窟</title>
@@ -1142,21 +1140,13 @@ by.ヴィヴァルディ</desc>
   <title lang="en">東京ラブストーリー</title>
   <desc lang="en">秘密</desc>
 </programme>
-<programme start="20211214003000 +0900" stop="20211214010000 +0900" channel="Tokyo MX">
-  <title lang="en">海賊王女</title>
-  <desc lang="en"> </desc>
+<programme start="20211215012500 +0900" stop="20211215015500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「激昂フリーザが迫る‼」</desc>
 </programme>
-<programme start="20211214010000 +0900" stop="20211214010500 +0900" channel="Tokyo MX">
-  <title lang="en">BanG Dream! ガルパ☆ピコ ふぃーばー!</title>
-  <desc lang="en">＃１０「漆黒のラヴィアンノート」</desc>
-</programme>
-<programme start="20211214010500 +0900" stop="20211214013000 +0900" channel="Tokyo MX">
-  <title lang="en">DOGENGERS</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211214013000 +0900" stop="20211214013500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211215015500 +0900" stop="20211215025500 +0900" channel="FujiTV.jp">
+  <title lang="en">人間性暴露ゲーム 輪舞曲 〜RONDO〜</title>
+  <desc lang="en">カードゲーム発売中！完全オリジナル正体隠匿系ゲーム番組…芸能人の人間性が明らかに…新ルール追加でさらに波乱…指原×三浦翔平×野村周平×鷲見×峯岸みなみ</desc>
 </programme>
 <programme start="20211214013500 +0900" stop="20211214020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1358,6 +1348,14 @@ by.ヴィヴァルディ</desc>
   <title lang="en">かぎなど</title>
   <desc lang="en">Ｋｅｙ初のクロスオーバーワールド</desc>
 </programme>
+<programme start="20211215010500 +0900" stop="20211215013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+</programme>
+<programme start="20211215013500 +0900" stop="20211215020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">“ＥＡＳＹ　ＰＵＮＫ”を掲げ、カンタンで楽しい音楽を体現するロックバンドＴＥＮＤＯＵＪＩが登場！バンド結成に至るまでの約１０年間、空白の青春時代と今に迫る！</desc>
+</programme>
 <programme start="20211213220000 +0900" stop="20211214014000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　最終戦アブダビGP 決勝</title>
 <desc>＜開催＞2021年12月12日（日）【再放送】
@@ -1549,7 +1547,7 @@ https//otn.fujitv.co.jp
 <desc>『奥日光湯元温泉編 後篇』
 撮影地奥日光 森のホテル
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211213/7116183/image/57ec304dc4a94430252b69cb2d1e3c4c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211214020000 +0900" stop="20211214052000 +0900" channel="FujiOne.jp">
@@ -2088,7 +2086,7 @@ https//otn.fujitv.co.jp
 <programme start="20211214003000 +0900" stop="20211214020000 +0900" channel="kbsworld.jp">
 <title lang="en">ユ・ヒヨルのスケッチブック　[字]</title>
 <desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211213/7107854/image/c68fe69190e2174e6b1417fbae2db404.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211214020000 +0900" stop="20211214031500 +0900" channel="kbsworld.jp">
