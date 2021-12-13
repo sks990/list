@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211213124500 +0900" stop="20211213130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
-    <desc lang="en">クリスマスの日、雉真家に算太（濱田岳）がやってきました。兄の無事の帰りを安子（上白石萌音）は涙をこらえ喜び、算太の居ない間に起きた出来事、その全てを打ち明け…</desc>
-  </programme>
   <programme start="20211213130000 +0900" stop="20211213170000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
@@ -262,21 +258,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211213125500 +0900" stop="20211213130000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「大名ぎょうれつ」田中星児／「太陽の子どもたち」小野リサ、松原典子／「こだぬき　ポンポ」下條アトム／「オランガタン」惣領泰則とジムロックス</desc>
+  <programme start="20211214130500 +0900" stop="20211214135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">列島ニュース</title>
+    <desc lang="en">ＮＨＫ各放送局のお昼のニュースを集めて、キーステーションの大阪拠点放送局からお届け。地域の最新ニュース、新型コロナ関連の情報などをダイジェストでお伝えします。</desc>
   </programme>
-  <programme start="20211213130000 +0900" stop="20211213130500 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】工藤咲子</desc>
+  <programme start="20211214135500 +0900" stop="20211214140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">多胡肇、加藤由美子、今井菜津美、矢作あかり、新井庸太</desc>
   </programme>
-  <programme start="20211213130500 +0900" stop="20211213133500 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">神戸の緩和ケア医、関本剛さん４５歳。肺がんを患い脳にも転移。残る命は２年と告げられたが、医師の仕事も趣味も変わらず続ける。自分らしく生きようとする日々に迫る。</desc>
-  </programme>
-  <programme start="20211213133500 +0900" stop="20211213135000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">大人になって発症する食物アレルギーの原因物質は意外にも野菜や果物が半数を占める。なぜ大人が食物アレルギーになるのか。実は花粉に大きな関係が。原因や対処法を紹介</desc>
+  <programme start="20211214140000 +0900" stop="20211214140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211213135000 +0900" stop="20211213140000 +0900" channel="eTele.jp">
     <title lang="en">視点・論点</title>
@@ -602,9 +594,21 @@
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】小野寺善子</desc>
   </programme>
-  <programme start="20211213115500 +0900" stop="20211213135500 +0900" channel="NipponTV.jp">
-    <title lang="en">ヒルナンデス!</title>
-    <desc lang="en">速報！激安業務スーパーの活用術！年末年始へ…爆売れ餅も！▼節約芸能人夫婦の冷蔵庫を大公開！その正体は？▼人気雑貨屋の冬のあったか㊙グッズ！耳がホカホカで安眠！？</desc>
+  <programme start="20211214130500 +0900" stop="20211214133500 +0900" channel="eTele.jp">
+    <title lang="en">ハートネットTV</title>
+    <desc lang="en">「アートの力で世の中をいい方向に上げていこう！」と真剣に願う人たちの集い、“あがるアートの会議”が今年も開催！第一夜は、アートの“可能性”について徹底討論！</desc>
+  </programme>
+  <programme start="20211214133500 +0900" stop="20211214135000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">身近な市販薬で薬剤アレルギーを発症し、じんましんや呼吸困難を起こす例が報告されている。処方薬でも発熱や発疹がでることがあり要注意。薬剤アレルギーの治療法を紹介</desc>
+  </programme>
+  <programme start="20211214135000 +0900" stop="20211214140000 +0900" channel="eTele.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「イギリスの孤独対策に学ぶ」多賀幹子（ジャーナリスト）</desc>
+  </programme>
+  <programme start="20211214140000 +0900" stop="20211214141000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 あらためまして ベーシック国語</title>
+    <desc lang="en">国語の基本をあらためて学ぶ、講座バラエティー。滝沢カレンと金田一秀穂、謎のオウムが授業を行う。テーマは「印象を深める表現」。倒置法、対句法の効果的な使い方とは</desc>
   </programme>
   <programme start="20211213135500 +0900" stop="20211213155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
@@ -690,27 +694,10 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">あさこ佳代子の軽井沢旅！絶品ジャム＆新オープンのガレット店▼最新版！手土産ランキング▼予算１万円で、アウターから靴やバッグ、小物まで！しまむら高見えコーデ術</desc>
   </programme>
-<programme start="20211213102500 +0900" stop="20211213130000 +0900" channel="Asahi.jp">
-  <title lang="en">大下容子ワイド!スクランブル</title>
-  <desc lang="en">新首相あだ名は“ロボット”メルケル後のドイツを池上彰＆増田ユリヤ生解説▽中国接近？南太平洋の島々が仏から独立か…日本の海洋戦略影響も▽対オミ株…待機施設足りない</desc>
-</programme>
-<programme start="20211213130000 +0900" stop="20211213133000 +0900" channel="Asahi.jp">
-  <title lang="en">徹子の部屋</title>
-  <desc lang="en">〜下半期傑作選〜『徹子の部屋』を賑わせてくれたゲストの名場面を厳選してお送りします。</desc>
-</programme>
-<programme start="20211213133000 +0900" stop="20211213134500 +0900" channel="Asahi.jp">
-  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
-  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
-今日の料理は、ご飯がいくらでもすすむ絶品おかず</desc>
-</programme>
-<programme start="20211213134500 +0900" stop="20211213134900 +0900" channel="Asahi.jp">
-  <title lang="en">東京サイト</title>
-  <desc lang="en">技能五輪は次世代を担う若者たちが全42職種で技能レベル日本一を競う全国大会です。「造園」の東京都代表は造園会社に入社して3年目の21歳。参加自体が新たな挑戦です。</desc>
-</programme>
-<programme start="20211213134900 +0900" stop="20211213135400 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20211214135500 +0900" stop="20211214155000 +0900" channel="NipponTV.jp">
+    <title lang="en">情報ライブ ミヤネ屋</title>
+    <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+  </programme>
 <programme start="20211213135400 +0900" stop="20211213145200 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女14</title>
   <desc lang="en">「死の爆風がマリコを襲う！廃墟の銃撃計画の裏を暴け‼」沢口靖子(他)▽男性の扼殺死体が発見された。事件の謎を追うマリコは、背後に潜む巨額詐欺事件の存在に気づいて…⁉</desc>
@@ -833,9 +820,22 @@ by.Loretta Goggi</desc>
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜初恋の女性と結婚し２１年…歌が繋いだ“義父”との再会〜はなわさん＆智子さん夫妻が今日のゲストです。</desc>
 </programme>
-<programme start="20211213102500 +0900" stop="20211213135500 +0900" channel="TBS2.jp">
-  <title lang="en">ひるおび!</title>
-  <desc lang="en">日大記者会見で前理事長との決別を宣言、組織改革の行方は？学生、教員、関係者は会見をどう見たのか▽アメリカ主導の民主主義サミットに対抗、中国の「反米」番組を検証</desc>
+<programme start="20211214133000 +0900" stop="20211214134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理は、しっとり美味しい！簡単な魚料理！</desc>
+</programme>
+<programme start="20211214134500 +0900" stop="20211214134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">技能五輪は次世代を担う若者たちが全４２職種で技能レベル日本一を競う全国大会です。「時計修理」の競技では、国家検定１級よりも難しい課題に挑戦しなければなりません。</desc>
+</programme>
+<programme start="20211214134900 +0900" stop="20211214135400 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20211214135400 +0900" stop="20211214145200 +0900" channel="Asahi.jp">
+  <title lang="en">科捜研の女10</title>
+  <desc lang="en">「疑惑の遺体解剖！残された皮膚片の秘密」沢口靖子(他)▽アパートで女性の溺死体が発見され、早月の恩師・本間茂則が解剖を担当し、他殺の可能性を示唆した。だが、その後…</desc>
 </programme>
 <programme start="20211213135500 +0900" stop="20211213154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -922,9 +922,9 @@ by.Loretta Goggi</desc>
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
-<programme start="20211213114000 +0900" stop="20211213134000 +0900" channel="TVTokyo.jp">
-  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
-  <desc lang="en">あなたのご飯見せて下さい▽八王子市…ハチミツとニンジンの特製タレしょうが焼き＆マグロステーキ入り！甘エビカレー▽福島県二本松市…ヒキナ炒り＆ざくざく</desc>
+<programme start="20211214135500 +0900" stop="20211214154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
 <programme start="20211213134000 +0900" stop="20211213154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -1084,6 +1084,10 @@ by.Loretta Goggi</desc>
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽三重県松阪市…松阪牛のすじ煮込み＆なばな白和え▽北茨城市…雨情の里牛ステーキ＆キノコのせハンバーグ</desc>
 </programme>
+<programme start="20211214134000 +0900" stop="20211214154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">Ｓ．マックイーン代表作「華麗なる賭け」のリメイク。大富豪の正体は名画泥棒。追うのは美貌の敏腕調査員。魅かれあいながらの華麗なる駆け引きが始まる！</desc>
+</programme>
 <programme start="20211213115500 +0900" stop="20211213144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">日大「前理事長と永久に決別」に疑問の声…学生は怒り▽メロン、現金にカラオケも“ちゃんこ詣で”で妻接待の実態▽バッハ会長「中国テニス選手は不安定な状況」</desc>
@@ -1188,14 +1192,6 @@ by.Loretta Goggi</desc>
 <programme start="20211214115500 +0900" stop="20211214144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
-</programme>
-<programme start="20211213124500 +0900" stop="20211213130000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211213130000 +0900" stop="20211213135500 +0900" channel="Tokyo MX">
-  <title lang="en">知ってるワイフ</title>
-  <desc lang="en">チソン×ハン・ジミン共演！もしもあのときに戻れるなら…私の人生たった一度の“if”</desc>
 </programme>
 <programme start="20211213135500 +0900" stop="20211213140000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -1400,6 +1396,14 @@ by.Loretta Goggi</desc>
 <programme start="20211214130000 +0900" stop="20211214135500 +0900" channel="Tokyo MX">
   <title lang="en">あなたが眠っている間に</title>
   <desc lang="en">“予知夢”でつながる運命の恋を描く、超大型ファンタジック・ラブストーリー！</desc>
+</programme>
+<programme start="20211214135500 +0900" stop="20211214140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20211214140000 +0900" stop="20211214143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211212212000 +0900" stop="20211213030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　最終戦アブダビGP 決勝</title>
@@ -1735,7 +1739,7 @@ https//otn.fujitv.co.jp
 ＜出演＞波岡一喜　阿部哲子　藤田恵名　醍醐大（最高位戦日本プロ麻雀協会）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞松嶋桃
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211213/7116171/image/8f979df5c19e01a444a7e51f3e935848.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211213140000 +0900" stop="20211213150000 +0900" channel="FujiOne.jp">
