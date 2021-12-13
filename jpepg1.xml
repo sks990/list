@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211213085500 +0900" stop="20211213090000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211213090000 +0900" stop="20211213115400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
@@ -222,21 +218,13 @@
     <title lang="en">あさイチ</title>
     <desc lang="en">「青天を衝（つ）け」吉沢亮さん生出演！この一年を振り返る▽年末年始みんなで囲むホットプレート絶品レシピ決定版！「すきやき」「あんかけ焼きそば」「パエリア」の極意</desc>
   </programme>
-  <programme start="20211213085500 +0900" stop="20211213090000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「チムチムチェリー」うた友竹正則、杉並児童合唱団／「４４ひきのねこ」うた東京放送児童合唱団／「ポンタ物語」うた藤村俊二</desc>
+  <programme start="20211214095500 +0900" stop="20211214100000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなの体操</title>
+    <desc lang="en">岡本美佳、吉江晴菜、戸塚寛子、杉井勇介</desc>
   </programme>
-  <programme start="20211213090000 +0900" stop="20211213092900 +0900" channel="eTele.jp">
-    <title lang="en">クラシックTV</title>
-    <desc lang="en">『涼宮ハルヒの憂鬱』『化物語』『エヴァンゲリオン』から『涼宮ハルヒの消失』まで、数々の傑作アニメの劇伴を神前暁が語る。ここでしか聞けないトークが盛りだくさん！</desc>
-  </programme>
-  <programme start="20211213092900 +0900" stop="20211213093000 +0900" channel="eTele.jp">
-    <title lang="en">SDGsのうた</title>
-    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
-  </programme>
-  <programme start="20211213093000 +0900" stop="20211213095000 +0900" channel="eTele.jp">
-    <title lang="en">ひつじのショーン</title>
-    <desc lang="en">「迷路からの脱出」「ぬいぐるみを返して！」「納屋を取りもどせ」の３エピソード　〜アードマン・アニメーション制作〜</desc>
+  <programme start="20211214100000 +0900" stop="20211214100500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211213095000 +0900" stop="20211213100500 +0900" channel="eTele.jp">
     <title lang="en">ABUアジア子どもドラマシリーズ</title>
@@ -558,6 +546,18 @@
     <title lang="en">クラシックTV</title>
     <desc lang="en">【アンコール放送】ゲストは紅白出場シンガーソングライターのｍｉｌｅｔ！▽クラシック音楽ファンの彼女が大好きという、ロシア出身の作曲家ラフマニノフを取り上げる。</desc>
   </programme>
+  <programme start="20211214092900 +0900" stop="20211214093000 +0900" channel="eTele.jp">
+    <title lang="en">SDGsのうた</title>
+    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+  </programme>
+  <programme start="20211214093000 +0900" stop="20211214095000 +0900" channel="eTele.jp">
+    <title lang="en">ひつじのショーン</title>
+    <desc lang="en">「パンプキン・パトロール」「ガチョウのゴズ」「『いいね！』が欲しい」の３エピソード　〜アードマン・アニメーション制作〜</desc>
+  </programme>
+  <programme start="20211214095000 +0900" stop="20211214100500 +0900" channel="eTele.jp">
+    <title lang="en">ABUアジア子どもドラマシリーズ</title>
+    <desc lang="en">好きだった祖父をなくした雄大。遺品が処分されることが悲しくなり大切にしていた「茶碗（わん）」を持ち出す。すると茶碗に生まれ変わった祖父が現れて…</desc>
+  </programme>
   <programme start="20211213080000 +0900" stop="20211213102500 +0900" channel="NipponTV.jp">
     <title lang="en">スッキリ</title>
     <desc lang="en">介護殺人①追跡…施設で何が？相次ぐ入居者の不審死②目撃・35歳女の行動▽「マスク外せない」なぜ？コロナ収束後も本音調査…着用のワケ▽女芸人NO1決定戦！</desc>
@@ -646,10 +646,6 @@
     <title lang="en">スッキリ</title>
     <desc lang="en">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
   </programme>
-<programme start="20211213080000 +0900" stop="20211213095500 +0900" channel="Asahi.jp">
-  <title lang="en">羽鳥慎一モーニングショー</title>
-  <desc lang="en">アメリカ“過去最悪”竜巻で死者１００人超▽オミクロン株感染相次ぐ…待機ホテルが“自腹”帰国者困惑▽Ｄａｐｐｉウソ投稿で野党攻撃…誰が</desc>
-</programme>
 <programme start="20211213095500 +0900" stop="20211213102500 +0900" channel="Asahi.jp">
   <title lang="en">じゅん散歩</title>
   <desc lang="en">三代目散歩人・高田純次が「秋葉原」を散策▽流行発信地で２０２１ヒット商品探し▽巣ごもりを快適に！最新家電▽新食感！わらび餅ドリンク</desc>
@@ -785,9 +781,9 @@ by.Loretta Goggi</desc>
   <title lang="en">羽鳥慎一モーニングショー</title>
   <desc lang="en">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 </programme>
-<programme start="20211213080000 +0900" stop="20211213095500 +0900" channel="TBS2.jp">
-  <title lang="en">ラヴィット!</title>
-  <desc lang="en">ぼる塾が表参道で超人気スイーツ店巡り！田辺の激押しする一品にジャニーズWEST神山が大興奮！▼間もなく到来！一流プロが厳選！おもしろクリスマスグッズランキング！</desc>
+<programme start="20211214095500 +0900" stop="20211214102500 +0900" channel="Asahi.jp">
+  <title lang="en">じゅん散歩</title>
+  <desc lang="en">三代目散歩人・高田純次が「秋葉原」を散策▽電気街の名所へ！お寿司が楽器に⁉▽幻のレトロ駅舎…商業施設に大変身▽老舗和菓子店のアキバ流サービス</desc>
 </programme>
 <programme start="20211213095500 +0900" stop="20211213102500 +0900" channel="TBS2.jp">
   <title lang="en">Let's!美バディ</title>
@@ -874,19 +870,9 @@ by.Loretta Goggi</desc>
   <title lang="en">ラヴィット!</title>
   <desc lang="en">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
 </programme>
-<programme start="20211213081500 +0900" stop="20211213091100 +0900" channel="TVTokyo.jp">
-  <title lang="en">愛はビューティフル、人生はワンダフル</title>
-  <desc lang="en">幸せは、小さいくらいが、ちょうどいい。
-心に傷を抱えたヒロインと家族の再生を描く、全世代共感のハートフルドラマ！
-【全６５話　日本語字幕付　二カ国語放送】</desc>
-</programme>
-<programme start="20211213091100 +0900" stop="20211213092100 +0900" channel="TVTokyo.jp">
-  <title lang="en">なないろ日和!プラス</title>
-  <desc lang="en">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
-</programme>
-<programme start="20211213092100 +0900" stop="20211213092600 +0900" channel="TVTokyo.jp">
-  <title lang="en">Mナビ</title>
-  <desc lang="en">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+<programme start="20211214095500 +0900" stop="20211214102500 +0900" channel="TBS2.jp">
+  <title lang="en">Let's!美バディ</title>
+  <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストは浜口京子★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
 </programme>
 <programme start="20211213092600 +0900" stop="20211213111300 +0900" channel="TVTokyo.jp">
   <title lang="en">なないろ日和!</title>
@@ -1038,9 +1024,17 @@ by.Loretta Goggi</desc>
 心に傷を抱えたヒロインと家族の再生を描く、全世代共感のハートフルドラマ！
 【全６５話　日本語字幕付　二カ国語放送】</desc>
 </programme>
-<programme start="20211213080000 +0900" stop="20211213095000 +0900" channel="FujiTV.jp">
-  <title lang="en">めざまし8</title>
-  <desc lang="en">米史上最大級の竜巻猛威…死者１００人超か▽オミクロン株国内でも拡大懸念重症化は？▽外交ボイコット日本も閣僚派遣見送り調整▽人気１３００万回再生キレキレダンス裏側</desc>
+<programme start="20211214091100 +0900" stop="20211214092100 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!プラス</title>
+  <desc lang="en">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
+</programme>
+<programme start="20211214092100 +0900" stop="20211214092600 +0900" channel="TVTokyo.jp">
+  <title lang="en">Mナビ</title>
+  <desc lang="en">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+</programme>
+<programme start="20211214092600 +0900" stop="20211214111300 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!</title>
+  <desc lang="en">▽快適ショッピングスタジオ▽腰痛は筋肉の衰えから!間違いだらけの座り方や姿勢の矯正、そしてシップの張り方まで達人が伝授します▽「虎ノ門市場」新和食の肉惣菜</desc>
 </programme>
 <programme start="20211213095000 +0900" stop="20211213112500 +0900" channel="FujiTV.jp">
   <title lang="en">ノンストップ!</title>
@@ -1143,13 +1137,9 @@ by.Loretta Goggi</desc>
   <title lang="en">めざまし8</title>
   <desc lang="en">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 </programme>
-<programme start="20211213083000 +0900" stop="20211213090000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211213090000 +0900" stop="20211213093000 +0900" channel="Tokyo MX">
-  <title lang="en">HISTORY</title>
-  <desc lang="en">ゴールドエッグス／ＡＨ　Ｐｒｏｄｕｃｔｓ／Ｆｏｒｅｇｒｏｕｎｄ　Ｕ－ＫＡ　ＲＴ／創健舎工房／ＶＡＮＴＡＧＥ</desc>
+<programme start="20211214095000 +0900" stop="20211214112500 +0900" channel="FujiTV.jp">
+  <title lang="en">ノンストップ!</title>
+  <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
 <programme start="20211213093000 +0900" stop="20211213100000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1354,6 +1344,14 @@ by.Loretta Goggi</desc>
 <programme start="20211214090000 +0900" stop="20211214093000 +0900" channel="Tokyo MX">
   <title lang="en">TAKARAZUKA CAFEBREAK</title>
   <desc lang="en">東京宝塚劇場星組公演「柳生忍法帖」「モアー・ダンディズム！」に出演！男役の瀬央ゆりあさんがご来店！</desc>
+</programme>
+<programme start="20211214093000 +0900" stop="20211214100000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211214100000 +0900" stop="20211214103000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211212212000 +0900" stop="20211213030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2021 FORMULA 1　最終戦アブダビGP 決勝</title>
@@ -1653,7 +1651,7 @@ https//otn.fujitv.co.jp
 ＜出演＞波岡一喜　阿部哲子　藤田恵名　醍醐大（最高位戦日本プロ麻雀協会）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞松嶋桃
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211213/7116167/image/69969ebe158761f1ed19a284034f4bee.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211213100000 +0900" stop="20211213110000 +0900" channel="FujiOne.jp">
