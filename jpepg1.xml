@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211214021400 +0900" stop="20211214030400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">スポーツ×ヒューマン</title>
-    <desc lang="en">内戦の爪痕残る母国に平和を！南スーダンから来日した４人の陸上選手たち。東京五輪・パラへの夢を支えたのは、地元の人々との交流だった。６００日に及ぶ長期密着の記録。</desc>
-  </programme>
   <programme start="20211214030400 +0900" stop="20211214040400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
@@ -225,6 +221,10 @@
   <programme start="20211215023600 +0900" stop="20211215033600 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">平清盛 ゆかりの地を行く</title>
     <desc lang="en">大河ドラマ「平清盛」でおなじみとなった清盛ゆかりの地を映像でつづる。清盛が造営した海上社殿・厳島神社のほか、広島、京都、三重、兵庫、岡山、山口の各地を紹介する。</desc>
+  </programme>
+  <programme start="20211215033600 +0900" stop="20211215043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
   </programme>
   <programme start="20211214002500 +0900" stop="20211214053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -566,10 +566,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211214015900 +0900" stop="20211214033900 +0900" channel="NipponTV.jp">
-    <title lang="en">映画天国</title>
-    <desc lang="en">金曜ロードショー「ボス・ベイビー」放送＆最新作「ボス・ベイビー　ファミリー・ミッション」公開記念！２週連続ドリームワークス・アニメーション・第２夜</desc>
-  </programme>
   <programme start="20211214033900 +0900" stop="20211214042400 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">食べやすく進化した冬の味覚ボイルズワイガニ！ご飯のお供に松前漬けセット、昨年完売の人気３シェフコラボおせち、お買い得羽毛布団などこの時期ならではの商品をお届け！</desc>
@@ -663,20 +659,10 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物北海道グルメ！人気ボイルズワイガニ＆大人気おせち等、大掃除に便利なコードレス高圧洗浄機、寒い時期にブランケットヒーターから真珠までお得情報満載！</desc>
   </programme>
-<programme start="20211214024100 +0900" stop="20211214030100 +0900" channel="Asahi.jp">
-  <title lang="en">もう中学生のおグッズ!</title>
-  <desc lang="en">有効成分120％！もう中ワールドへようこそ◎
-趣味は“タレントグッズ集め”のもう中学生が「売れる公式もう中グッズ」の制作＆発売を目指して猛研究するよ〜◎</desc>
-</programme>
-<programme start="20211214030100 +0900" stop="20211214030500 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211214030500 +0900" stop="20211214033100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-今回はあの有名店とコラボ！「美味すぎ！グルメ委員会〜究極のお取り寄せを完成させよ〜」</desc>
-</programme>
+  <programme start="20211215040000 +0900" stop="20211215043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレ名物太川＆都子の北海道企画！食べやすく進化したボイルズワイガニ、２ｋｇがお得のホタテ、松前漬け、北海道のソウルフードホッケを驚きプライスでご紹介！</desc>
+  </programme>
 <programme start="20211214033100 +0900" stop="20211214040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -798,15 +784,22 @@ by.ヴィヴァルディ</desc>
   <desc lang="en">バラエティ番組で大活躍中！ＮＭＢ48渋谷凪咲の初冠番組！
 “インパルス板倉”をゲストに迎え、２人の相性を探っていく！</desc>
 </programme>
-<programme start="20211214014500 +0900" stop="20211214033500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20211215030100 +0900" stop="20211215030500 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
 </programme>
-<programme start="20211214033500 +0900" stop="20211214034500 +0900" channel="TBS2.jp">
+<programme start="20211215030500 +0900" stop="20211215033100 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">今年も年末年始はスポーツ祭！
-ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+今回はあの有名店とコラボ！「美味すぎ！グルメ委員会〜究極のお取り寄せを完成させよ〜」</desc>
+</programme>
+<programme start="20211215033100 +0900" stop="20211215040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211215040000 +0900" stop="20211215045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍X</title>
+  <desc lang="en">「ケガで十両、死んで百両⁉息子に捧げる母の命」松平健(他)▽ある日、暴走してきた荷車に轢かれそうになった女を助けた吉宗。そんな中、若い男が何やら大声を上げていて…</desc>
 </programme>
 <programme start="20211214034500 +0900" stop="20211214043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -900,14 +893,14 @@ by.ヴィヴァルディ</desc>
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211214024500 +0900" stop="20211214030000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">とんでもなく食欲をそそられる！として人気のアニメ！「異世界食堂2」をご紹介。今夜は物語のキーパーソン・アーデルハイドの初登場シーンをちょい見せしちゃいます！</desc>
+<programme start="20211215033500 +0900" stop="20211215034500 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211214030000 +0900" stop="20211214033000 +0900" channel="TVTokyo.jp">
-  <title lang="en">プレミアMelodiX!</title>
-  <desc lang="en">【ゲスト】ビッケブランカ、Novel　Core
-【ナビゲーター】南海キャンディーズ</desc>
+<programme start="20211215034500 +0900" stop="20211215043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211214033000 +0900" stop="20211214040000 +0900" channel="TVTokyo.jp">
   <title lang="en">あにレコTV</title>
@@ -1059,13 +1052,18 @@ by.ヴィヴァルディ</desc>
   <title lang="en"></title>
   <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
 </programme>
-<programme start="20211214021500 +0900" stop="20211214031500 +0900" channel="FujiTV.jp">
-  <title lang="en">他人は地獄だ</title>
-  <desc lang="en">韓国で大ヒットＷＥＢ漫画を実写化！地方から上京してきた純朴な青年が不安と緊張に追いつめられ、徐々に自分を見失っていく衝撃のミステリー・スリラー。</desc>
+<programme start="20211215031500 +0900" stop="20211215033000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">さまざまな世界の人が訪れる洋食屋を舞台にしたアニメ！「異世界食堂2」をご紹介。物語のキーパーソン・アーデルハイドと結婚相手の出会いのシーンをちょい見せします！</desc>
 </programme>
-<programme start="20211214031500 +0900" stop="20211214034500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+<programme start="20211215033000 +0900" stop="20211215033500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211215033500 +0900" stop="20211215040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">女ともだち</title>
+  <desc lang="en">セツがアミーゴスにやって来ると、七海の親友の礼子が、男に捨てられたと言って暴れていた。セツとちさとは、その男を呼びつけた七海の交渉に立ち会うことにして…。</desc>
 </programme>
 <programme start="20211214034500 +0900" stop="20211214040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1163,13 +1161,13 @@ by.ヴィヴァルディ</desc>
   <title lang="en">FNSドキュメンタリー大賞</title>
   <desc lang="en">福島第一原発事故から１０年が経っても全ての町民が避難を続ける福島県双葉町。人生の半分以上を避難先で過ごしてきた新成人、そして２人の町長が描いた未来の設計図とは。</desc>
 </programme>
-<programme start="20211214023500 +0900" stop="20211214030500 +0900" channel="Tokyo MX">
-  <title lang="en">テリー土屋のくるまの話</title>
-  <desc lang="en">テリー伊藤＆レジェンドレーサー・土屋圭市▼車を愛する２人が自動車関連企業の社長を招き業界の裏側を掘り下げるトーク番組！</desc>
-</programme>
-<programme start="20211214030500 +0900" stop="20211214033500 +0900" channel="Tokyo MX">
+<programme start="20211215035000 +0900" stop="20211215040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211215040000 +0900" stop="20211215045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211214033500 +0900" stop="20211214040000 +0900" channel="Tokyo MX">
   <title lang="en">JOYnt! JOYのASOBU-TV</title>
@@ -1371,6 +1369,18 @@ by.ヴィヴァルディ</desc>
   <title lang="en">キラ×バズTV!?</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211215030500 +0900" stop="20211215033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211215033500 +0900" stop="20211215040000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20211215040000 +0900" stop="20211215043000 +0900" channel="Tokyo MX">
+  <title lang="en">MUSIC B.B.</title>
+  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+</programme>
 <programme start="20211213220000 +0900" stop="20211214014000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　最終戦アブダビGP 決勝</title>
 <desc>＜開催＞2021年12月12日（日）【再放送】
@@ -1392,7 +1402,7 @@ by.ヴィヴァルディ</desc>
 <programme start="20211214020000 +0900" stop="20211214040000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「ZAZEN BOYS」</title>
 <desc>1998年〜2016年に放送していた、伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『ZAZEN BOYS』の出演映像を選りすぐってお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211213/7115909/image/f5624e50a7cabd89da95cd2777cf964f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211214040000 +0900" stop="20211214060000 +0900" channel="FujiNext.jp">
