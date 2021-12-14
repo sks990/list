@@ -447,20 +447,11 @@ https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Indonesian Subs)
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Indonesian Subs) [Geo-blocked]
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Indonesian Subs) [Geo-blocked]
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Indonesian Subs)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://tv.mbed.cc/animax.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="JapanTV",Animax Japan (Thai Subs)
-http://27.254.130.62/feed/LC38/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Tokyo MX" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="JapanTV",Tokyo MX
+http://211.21.12.236:11935/live/gd08.stream/playlist.m3u8
 https://neetball.net/live/test3.m3u8
 http://itskoi.dothome.co.kr/jptv.php?id=kanto_tokyo_mx1
 
