@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211216005100 +0900" stop="20211216012200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">有田P おもてなす</title>
-    <desc lang="en">今夜のゲストは格闘家の那須川天心。笑い飯が格闘技イベント風漫才でおもてなし！ダイアン津田が大活躍？！さらにＭ−１ファイナリストたちの珠玉のネタもお楽しみください</desc>
-  </programme>
   <programme start="20211216012200 +0900" stop="20211216020400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽ファイザー社飲み薬「入院死亡リスク約９割低下」▽ＥＵが制裁科したロシア民間軍事会社「ワグナー」の実態▽米竜巻避難所は▽ジャカルタ巨大ゴミ山の子供たち※ＳＤＧｓ</desc>
@@ -226,9 +222,13 @@
     <title lang="en">阿佐ヶ谷姉妹ののほほんふたり暮らし</title>
     <desc lang="en">ある日、エリコ（木村多江）の母（松金よね子）がやってくる。エリコとミホ（安藤玉恵）は新ネタを考えるが思い浮かばず、番組オーディションもなかなか受からない。</desc>
   </programme>
-  <programme start="20211216000000 +0900" stop="20211216010000 +0900" channel="eTele.jp">
-    <title lang="en">ETV特集</title>
-    <desc lang="en">太平洋戦争開戦から８０年。日本はなぜ戦争への道を歩んだのか。昭和天皇に関する第一級史料「拝謁記」「百武三郎日記」が公開された。日中戦争から真珠湾攻撃までを描く。</desc>
+  <programme start="20211217010700 +0900" stop="20211217014500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">阿佐ヶ谷アパートメント</title>
+    <desc lang="en">阿佐ヶ谷姉妹が不思議なアパートの大家に！今の時代ならではの男らしさって？飯尾さんが突撃リポートで議論。個性豊かな住人と一緒にあなたの世界をちょっとだけ広げます。</desc>
+  </programme>
+  <programme start="20211217014500 +0900" stop="20211217022700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2021</title>
+    <desc lang="en">▽台湾・蔡英文政権の今後を占う住民投票▽ベトナム　コロナ禍で困難抱える子どもに励ましを▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20211216010000 +0900" stop="20211216053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -546,10 +546,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211216005900 +0900" stop="20211216015900 +0900" channel="NipponTV.jp">
-    <title lang="en">サッカー★アース</title>
-    <desc lang="en">『欧州チャンピオンズリーググループステージ決着＆Jリーグ決着ＳＰ』▽欧州ＣＬはＧＳが終了！▽Ｊリーグ選手にぺこぱが質問メッセージ！▽高校サッカー</desc>
-  </programme>
   <programme start="20211216015900 +0900" stop="20211216022900 +0900" channel="NipponTV.jp">
     <title lang="en">東野・岡村の旅猿20</title>
     <desc lang="en">「岡村マグロ解体ショーへの旅」第２話　マグロ解体に不可欠な包丁を買いに向かう一行。果たしてどんな包丁を手にするのか？</desc>
@@ -658,18 +654,11 @@
     <title lang="en">今日から俺は!!</title>
     <desc lang="en">ツッパリ全盛期８０年代。伝説の漫画を奇才・福田雄一が実写化！規格外ヒーローがどんな手を使っても悪党を倒す痛快コメディ！</desc>
   </programme>
-<programme start="20211216005000 +0900" stop="20211216012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">「テレビゲーム総選挙　開票直前特別企画」</desc>
-</programme>
-<programme start="20211216012000 +0900" stop="20211216012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211216012600 +0900" stop="20211216013100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
-</programme>
+  <programme start="20211217015900 +0900" stop="20211217022900 +0900" channel="NipponTV.jp">
+    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
+    <desc lang="en">全国各地で放送されているローカル番組の出演者＆プロデューサーが登場！
+ローカル番組ならではのお悩みから、ゆかりの無い演者を起用した「禁断の理由」が明らかに！</desc>
+  </programme>
 <programme start="20211216013100 +0900" stop="20211216020100 +0900" channel="Asahi.jp">
   <title lang="en">Break Out</title>
   <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
@@ -792,14 +781,17 @@
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">無類の映画好きと噂されるロバート・秋山が注目映画を独自の視点で語る、全く新しいカタチの映画番組「Movie is my life」。本日はスパイダーマン in ジャパンを考えます。</desc>
 </programme>
-<programme start="20211216005800 +0900" stop="20211216012800 +0900" channel="TBS2.jp">
-  <title lang="en">ふるさとの未来</title>
-  <desc lang="en">神奈川県横浜市で創業し成長を遂げたリスト株式会社が取り組む新たな事業を紹介。話題の無人ホテルから大注目の省エネ・エコ住宅街「ノココタウン」の魅力にも迫る。</desc>
+<programme start="20211217013000 +0900" stop="20211217013600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20211216012800 +0900" stop="20211216013800 +0900" channel="TBS2.jp">
+<programme start="20211217013600 +0900" stop="20211217014100 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">今年も年末年始はスポーツ祭！
-ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
+</programme>
+<programme start="20211217014100 +0900" stop="20211217021100 +0900" channel="Asahi.jp">
+  <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
+  <desc lang="en">わたなべ麻衣プロデュース！ＪＯＹも参戦！超オシャレホームケアセット＆シリーズ累計販売数17億円以上を売上！クッション型トランポリン＆スマホで簡単ＥＭＳグッズ登場！</desc>
 </programme>
 <programme start="20211216013800 +0900" stop="20211216020800 +0900" channel="TBS2.jp">
   <title lang="en">ムビきゅん</title>
@@ -893,13 +885,15 @@
   <title lang="en">KAT-TUNの食宝ゲッットゥーン</title>
   <desc lang="en">１本１万円超！日本最高級「柳蓮田蓮根」のサクサク天ぷら・旨味染み出る蓮根饅頭・熱々蓮根ステーキ・香り抜群炊き込みご飯…絶品料理連発に中丸のクセ強食レポさく裂！</desc>
 </programme>
-<programme start="20211216004000 +0900" stop="20211216011000 +0900" channel="TVTokyo.jp">
-  <title lang="en">つまり好きって言いたいんだけど、</title>
-  <desc lang="en">大原櫻子×櫻井海音！新人マネージャー×嘘つき俳優のゴシップラブコメ！▼父危篤で瀬那と千歳が里帰り！過去についた嘘の真実が明らかになり二人の恋は急加速！しかし…</desc>
+<programme start="20211217012800 +0900" stop="20211217013800 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211216011000 +0900" stop="20211216014000 +0900" channel="TVTokyo.jp">
-  <title lang="en">JKからやり直すシルバープラン</title>
-  <desc lang="en">ワガママだったお嬢様が幸せな老後のため高校時代からやり直す“女子高生タイムリープ社会派コメディ”。今日は予算削減のため特別編『将来のためのお金について丸わかり』</desc>
+<programme start="20211217013800 +0900" stop="20211217020800 +0900" channel="TBS2.jp">
+  <title lang="en">プラチナエンド</title>
+  <desc lang="en">赤の矢の力で初めて愛を知ったハジメが、激しい葛藤の末、選んだ答えは……。
+一方、奏もとっておきの切り札を隠し持っていた。</desc>
 </programme>
 <programme start="20211216014000 +0900" stop="20211216021000 +0900" channel="TVTokyo.jp">
   <title lang="en">お仕事search!それってグッジョブ</title>
@@ -1053,9 +1047,13 @@
   <title lang="en">じっくり聞いタロウ 〜スター近況(秘)報告〜</title>
   <desc lang="en">知られざるギャラ事情SP▽作詞家、動物占いブームの仕掛け人、ボートレーサー、プロポーカープレイヤー、インフルエンサーまで意外なお金事情から激ヤバ話を大暴露</desc>
 </programme>
-<programme start="20211216005500 +0900" stop="20211216012500 +0900" channel="FujiTV.jp">
-  <title lang="en">マブラヴ オルタネイティヴ</title>
-  <desc lang="en">束の間の停戦―仲間たちの想いを白銀武は訴える。煌武院悠陽は自らの手で忠臣たちを誅すると決意したが、その御前に御剣冥夜が現れ、姉妹の運命は再び交錯し…</desc>
+<programme start="20211217011000 +0900" stop="20211217014000 +0900" channel="TVTokyo.jp">
+  <title lang="en">お茶にごす。</title>
+  <desc lang="en">「今日から俺は!!」西森博之原作・不良×茶道部異色ヤンキーコメディ漫画を実写ドラマ化▼文化祭に向けて出し物を考える茶道部1年。そんな中船橋の様子がおかしくて…</desc>
+</programme>
+<programme start="20211217014000 +0900" stop="20211217021000 +0900" channel="TVTokyo.jp">
+  <title lang="en">本家が聴かせてもらいます</title>
+  <desc lang="en">ＭＣトンツカタン森本・ヒコロヒーの新音楽バラエティ！ヒット曲の「歌ってみた」動画を本家アーティストが視聴する音楽トーク番組。</desc>
 </programme>
 <programme start="20211216012500 +0900" stop="20211216022500 +0900" channel="FujiTV.jp">
   <title lang="en">SUPER RICH</title>
@@ -1153,17 +1151,9 @@
   <title lang="en">王様ランキング</title>
   <desc lang="en">王子の剣</desc>
 </programme>
-<programme start="20211216003000 +0900" stop="20211216010000 +0900" channel="Tokyo MX">
-  <title lang="en">魔法科高校の劣等生 来訪者編</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211216010000 +0900" stop="20211216010500 +0900" channel="Tokyo MX">
-  <title lang="en">コミックBAR Renta!</title>
-  <desc lang="en">街角にひっそりと佇む「コミックＢＡＲ　Ｒｅｎｔａ！」マンガ好きのマスター森嶋秀太が毎週男性声優ゲストに話題のマンガを紹介！</desc>
-</programme>
-<programme start="20211216010500 +0900" stop="20211216013500 +0900" channel="Tokyo MX">
-  <title lang="en">世界最高の暗殺者、異世界貴族に転生する</title>
-  <desc lang="en"> </desc>
+<programme start="20211217012500 +0900" stop="20211217022500 +0900" channel="FujiTV.jp">
+  <title lang="en">キャラダチナイトミュージアム〜MoCA〜</title>
+  <desc lang="en">キュレーター和田彩花がお届けする大人も子供も楽しめるＰＯＰな情操教育番組です。様々な「もの、こと、ひと」をキュレーションします。</desc>
 </programme>
 <programme start="20211216013500 +0900" stop="20211216020500 +0900" channel="Tokyo MX">
   <title lang="en">宇宙よりも遠い場所</title>
@@ -1359,6 +1349,14 @@
 </programme>
 <programme start="20211217010000 +0900" stop="20211217010500 +0900" channel="Tokyo MX">
   <title lang="en">180秒で君の耳を幸せにできるか?</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211217010500 +0900" stop="20211217013500 +0900" channel="Tokyo MX">
+  <title lang="en">激闘!ラップ甲子園への道</title>
+  <desc lang="en">高校生ラッパーの夢を応援する「高校生、夢のＲＡＰプロジェクト」進行中！今回も、西日本・大阪オーディションの模様をお届けします！</desc>
+</programme>
+<programme start="20211217013500 +0900" stop="20211217020500 +0900" channel="Tokyo MX">
+  <title lang="en">バリふり!!!</title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211216000000 +0900" stop="20211216034000 +0900" channel="FujiNext.jp">
@@ -2026,7 +2024,7 @@ https//otn.fujitv.co.jp
 <programme start="20211216003000 +0900" stop="20211216020000 +0900" channel="kbsworld.jp">
 <title lang="en">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送！最新　料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211215/7107902/image/7923eb2926beee3be61357d1239ce70d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211216020000 +0900" stop="20211216031000 +0900" channel="kbsworld.jp">
