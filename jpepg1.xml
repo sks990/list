@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211216020400 +0900" stop="20211216030400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
-  </programme>
   <programme start="20211216030400 +0900" stop="20211216040400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像詩</title>
     <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
@@ -229,6 +225,10 @@
   <programme start="20211217022700 +0900" stop="20211217032700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
+  </programme>
+  <programme start="20211217032700 +0900" stop="20211217041500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北アルプス 美の点描</title>
+    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
   </programme>
   <programme start="20211216010000 +0900" stop="20211216053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -546,10 +546,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211216023500 +0900" stop="20211216030500 +0900" channel="NipponTV.jp">
-    <title lang="en">浜ちゃんが!</title>
-    <desc lang="en">ＯＡの尺２６分３０秒だけカメラを回し、編集せずにそのままＯＡする生放送のようなスリリングな企画の後編です！</desc>
-  </programme>
   <programme start="20211216030500 +0900" stop="20211216040500 +0900" channel="NipponTV.jp">
     <title lang="en">読響プレミア</title>
     <desc lang="en">シューベルト作曲　交響曲第８番ハ長調Ｄ．９４４「グレイト」から</desc>
@@ -659,19 +655,14 @@
     <title lang="en">川島・山内のマンガ沼</title>
     <desc lang="en">川島＆山内が厳選！いま読んでほしい超おすすめマンガ大連発！グルメマンガから極上ミステリー、さらには女性の共感間違いなしの話題作まで！</desc>
   </programme>
-<programme start="20211216024100 +0900" stop="20211216030100 +0900" channel="Asahi.jp">
-  <title lang="en">ぺこぱポジティブNEWS</title>
-  <desc lang="en">ぺこぱ松陰寺がロンブー田村淳を取材！遺書に向き合う特別編！淳の母からの遺書に込められた想いとは？松陰寺からシュウペイへ…秘めた想い▽HiHi髙橋が遺書に思う生き方</desc>
-</programme>
-<programme start="20211216030100 +0900" stop="20211216030500 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211216030500 +0900" stop="20211216033100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-今回はあの有名店とコラボ！「美味すぎ！グルメ委員会〜究極のお取り寄せを完成させよ〜」</desc>
-</programme>
+  <programme start="20211217030500 +0900" stop="20211217033500 +0900" channel="NipponTV.jp">
+    <title lang="en">NFL倶楽部</title>
+    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
+  </programme>
+  <programme start="20211217033500 +0900" stop="20211217042000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">食べやすく進化した冬の味覚ボイルズワイガニ！ご飯のお供に松前漬けセット、昨年完売の人気３シェフコラボおせち、お買い得羽毛布団などこの時期ならではの商品をお届け！</desc>
+  </programme>
 <programme start="20211216033100 +0900" stop="20211216040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -785,16 +776,6 @@
   <title lang="en">世界バドミントン2021 スペイン</title>
   <desc lang="en">最強日本復活へ！２０２２年夏、東京で開催される「世界バドミントン」へ向け、日本代表が全種目でメダル獲得を目指す！</desc>
 </programme>
-<programme start="20211216021500 +0900" stop="20211216033500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
-</programme>
-<programme start="20211216033500 +0900" stop="20211216034500 +0900" channel="TBS2.jp">
-  <title lang="en"></title>
-  <desc lang="en">今年も年末年始はスポーツ祭！
-ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
-</programme>
 <programme start="20211216034500 +0900" stop="20211216043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
@@ -887,13 +868,14 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211216024500 +0900" stop="20211216031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ガンダム板倉小隊 絆体感ＴＶ機動戦士ガンダム第07板倉小隊〜ゆく絆くる絆〜</title>
-  <desc lang="en">【＃７】連勝を狙う板倉小隊の前に立ちはだかる大阪の強豪チーム。ばる先生の本音に一同驚き！それを聞いた板倉・森本の決断に大爆笑！責任感の強いアカツナに悲劇が！</desc>
+<programme start="20211217033500 +0900" stop="20211217034500 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211216031500 +0900" stop="20211216033000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">ファンタジーと美味しい料理が組み合わさった異色のアニメ！「異世界食堂2」をご紹介。今夜は、先週放送された11話の映像を特別にちょっとだけお見せしちゃいます！</desc>
+<programme start="20211217034500 +0900" stop="20211217043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211216033000 +0900" stop="20211216040000 +0900" channel="TVTokyo.jp">
   <title lang="en">東京放置食堂</title>
@@ -1047,13 +1029,9 @@
   <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
 【出演】笑福亭鶴瓶、松嶋尚美</desc>
 </programme>
-<programme start="20211216022500 +0900" stop="20211216032000 +0900" channel="FujiTV.jp">
-  <title lang="en">リモートシェフ</title>
-  <desc lang="en">料理の腕前ではなく、伝える力を競う新時代の料理番組！トップシェフ達は言葉による指示だけでどんな料理を完成させるのか！？</desc>
-</programme>
-<programme start="20211216032000 +0900" stop="20211216035000 +0900" channel="FujiTV.jp">
+<programme start="20211217031500 +0900" stop="20211217041500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
 <programme start="20211216035000 +0900" stop="20211216040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1151,13 +1129,17 @@
   <title lang="en">Tune</title>
   <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
-<programme start="20211216023500 +0900" stop="20211216030000 +0900" channel="Tokyo MX">
-  <title lang="en">せとチャレ!STU48</title>
-  <desc lang="en">舞台は瀬戸内！感動と興奮を生み出す育成型挑戦バラエティ！過酷なチャレンジから、ゆる〜いチャレンジまでSTU48が全力で挑みます！</desc>
-</programme>
-<programme start="20211216030000 +0900" stop="20211216033000 +0900" channel="Tokyo MX">
+<programme start="20211217032500 +0900" stop="20211217035500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211217035500 +0900" stop="20211217040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20211217040000 +0900" stop="20211217045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211216033000 +0900" stop="20211216040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1355,6 +1337,18 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211217030500 +0900" stop="20211217033400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211217033400 +0900" stop="20211217040000 +0900" channel="Tokyo MX">
+  <title lang="en">白黒アンジャッシュ</title>
+  <desc lang="en">アンジャッシュ児嶋一哉がチバテレにゲストを招いて、じっくり話を聞いていくトークバラエティ！</desc>
+</programme>
+<programme start="20211217040000 +0900" stop="20211217043000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211216000000 +0900" stop="20211216034000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　最終戦アブダビGP 決勝</title>
 <desc>＜開催＞2021年12月12日（日）【再放送】
@@ -1368,7 +1362,7 @@
 <programme start="20211216034000 +0900" stop="20211216040000 +0900" channel="FujiNext.jp">
 <title lang="en">ラーメンWalker TV2　292　木場「谷やんラーメン」</title>
 <desc>創業40年！元力士が放つ豪快で記憶に刻まれる豚骨ラーメン！　木場「谷やんラーメン」　▽今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211215/7115944/image/8b453ab8659f3df286d1eeb0a2331a81.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211216040000 +0900" stop="20211216060000 +0900" channel="FujiNext.jp">
