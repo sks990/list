@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211216012200 +0900" stop="20211216020400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽ファイザー社飲み薬「入院死亡リスク約９割低下」▽ＥＵが制裁科したロシア民間軍事会社「ワグナー」の実態▽米竜巻避難所は▽ジャカルタ巨大ゴミ山の子供たち※ＳＤＧｓ</desc>
-  </programme>
   <programme start="20211216020400 +0900" stop="20211216030400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
@@ -229,6 +225,10 @@
   <programme start="20211217014500 +0900" stop="20211217022700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽台湾・蔡英文政権の今後を占う住民投票▽ベトナム　コロナ禍で困難抱える子どもに励ましを▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211217022700 +0900" stop="20211217032700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
   </programme>
   <programme start="20211216010000 +0900" stop="20211216053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -546,14 +546,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211216015900 +0900" stop="20211216022900 +0900" channel="NipponTV.jp">
-    <title lang="en">東野・岡村の旅猿20</title>
-    <desc lang="en">「岡村マグロ解体ショーへの旅」第２話　マグロ解体に不可欠な包丁を買いに向かう一行。果たしてどんな包丁を手にするのか？</desc>
-  </programme>
-  <programme start="20211216022900 +0900" stop="20211216023500 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211216023500 +0900" stop="20211216030500 +0900" channel="NipponTV.jp">
     <title lang="en">浜ちゃんが!</title>
     <desc lang="en">ＯＡの尺２６分３０秒だけカメラを回し、編集せずにそのままＯＡする生放送のようなスリリングな企画の後編です！</desc>
@@ -659,18 +651,14 @@
     <desc lang="en">全国各地で放送されているローカル番組の出演者＆プロデューサーが登場！
 ローカル番組ならではのお悩みから、ゆかりの無い演者を起用した「禁断の理由」が明らかに！</desc>
   </programme>
-<programme start="20211216013100 +0900" stop="20211216020100 +0900" channel="Asahi.jp">
-  <title lang="en">Break Out</title>
-  <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
-</programme>
-<programme start="20211216020100 +0900" stop="20211216022100 +0900" channel="Asahi.jp">
-  <title lang="en">まんが未知</title>
-  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◇声優・古賀葵が感涙…傑作マンホール漫画が誕生！岩井＆花澤も「ビッグビジネスの予感」と大興奮！</desc>
-</programme>
-<programme start="20211216022100 +0900" stop="20211216024100 +0900" channel="Asahi.jp">
-  <title lang="en">空気階段の空気観察</title>
-  <desc lang="en">コント2021王者 空気階段が世の中の様々な“空気”を現場で“観察”するバラエティー▼もぐらが故郷・千葉県旭市に凱旋！20年ぶりの小学校へ…恩師からの暴露に赤面</desc>
-</programme>
+  <programme start="20211217022900 +0900" stop="20211217023500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211217023500 +0900" stop="20211217030500 +0900" channel="NipponTV.jp">
+    <title lang="en">川島・山内のマンガ沼</title>
+    <desc lang="en">川島＆山内が厳選！いま読んでほしい超おすすめマンガ大連発！グルメマンガから極上ミステリー、さらには女性の共感間違いなしの話題作まで！</desc>
+  </programme>
 <programme start="20211216024100 +0900" stop="20211216030100 +0900" channel="Asahi.jp">
   <title lang="en">ぺこぱポジティブNEWS</title>
   <desc lang="en">ぺこぱ松陰寺がロンブー田村淳を取材！遺書に向き合う特別編！淳の母からの遺書に込められた想いとは？松陰寺からシュウペイへ…秘めた想い▽HiHi髙橋が遺書に思う生き方</desc>
@@ -793,13 +781,9 @@
   <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
   <desc lang="en">わたなべ麻衣プロデュース！ＪＯＹも参戦！超オシャレホームケアセット＆シリーズ累計販売数17億円以上を売上！クッション型トランポリン＆スマホで簡単ＥＭＳグッズ登場！</desc>
 </programme>
-<programme start="20211216013800 +0900" stop="20211216020800 +0900" channel="TBS2.jp">
-  <title lang="en">ムビきゅん</title>
-  <desc lang="en">12月30日公開『99.9 -刑事専門弁護士-THE MOVIE』大特集！松本潤×香川照之×杉咲花が登場！作品の魅力と撮影裏話を語り尽くす！</desc>
-</programme>
-<programme start="20211216020800 +0900" stop="20211216021500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20211217021100 +0900" stop="20211217045500 +0900" channel="Asahi.jp">
+  <title lang="en">世界バドミントン2021 スペイン</title>
+  <desc lang="en">最強日本復活へ！２０２２年夏、東京で開催される「世界バドミントン」へ向け、日本代表が全種目でメダル獲得を目指す！</desc>
 </programme>
 <programme start="20211216021500 +0900" stop="20211216033500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -895,18 +879,13 @@
   <desc lang="en">赤の矢の力で初めて愛を知ったハジメが、激しい葛藤の末、選んだ答えは……。
 一方、奏もとっておきの切り札を隠し持っていた。</desc>
 </programme>
-<programme start="20211216014000 +0900" stop="20211216021000 +0900" channel="TVTokyo.jp">
-  <title lang="en">お仕事search!それってグッジョブ</title>
-  <desc lang="en">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク！
-今回は誰もが一度は食べたであろう宅配ピザチェーン！美味しさ＆早さの秘密とは？</desc>
+<programme start="20211217020800 +0900" stop="20211217021500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
-<programme start="20211216021000 +0900" stop="20211216021500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">有吉＆田中将大がトップアスリートとゲーム対決▽サッカー11人VS11人！日本代表レジェンド＆川崎フロンターレ緊急招集▽柔道メダリスト阿部兄妹＆高藤＆バスケ女子代表も！</desc>
-</programme>
-<programme start="20211216021500 +0900" stop="20211216024500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20211217021500 +0900" stop="20211217033500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20211216024500 +0900" stop="20211216031500 +0900" channel="TVTokyo.jp">
   <title lang="en">ガンダム板倉小隊 絆体感ＴＶ機動戦士ガンダム第07板倉小隊〜ゆく絆くる絆〜</title>
@@ -1055,9 +1034,18 @@
   <title lang="en">本家が聴かせてもらいます</title>
   <desc lang="en">ＭＣトンツカタン森本・ヒコロヒーの新音楽バラエティ！ヒット曲の「歌ってみた」動画を本家アーティストが視聴する音楽トーク番組。</desc>
 </programme>
-<programme start="20211216012500 +0900" stop="20211216022500 +0900" channel="FujiTV.jp">
-  <title lang="en">SUPER RICH</title>
-  <desc lang="en">上場に向け大忙しのＴＳＢ。そんななか何故か衛がリモートワークを始めるという。ＣＥＯ不在の今、ナンバー２のポジションに大抜擢されたのはまさかのあの男…！</desc>
+<programme start="20211217021000 +0900" stop="20211217024000 +0900" channel="TVTokyo.jp">
+  <title lang="en">考えすぎちゃん ON TV〜ワンクールだけの大冒険〜</title>
+  <desc lang="en">ファーストサマーウイカ、ハナコ岡部、DJ松永の３人が元テレビ東京プロデューサー佐久間宣行をホストに毎回あるテーマについて考えすぎちゃう雑談バラエティ。</desc>
+</programme>
+<programme start="20211217024000 +0900" stop="20211217024500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">有吉＆田中将大がトップアスリートとゲーム対決▽サッカー11人VS11人！日本代表レジェンド＆川崎フロンターレ緊急招集▽柔道メダリスト阿部兄妹＆高藤＆バスケ女子代表も！</desc>
+</programme>
+<programme start="20211217024500 +0900" stop="20211217031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">きらきらアフロTM</title>
+  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
+【出演】笑福亭鶴瓶、松嶋尚美</desc>
 </programme>
 <programme start="20211216022500 +0900" stop="20211216032000 +0900" channel="FujiTV.jp">
   <title lang="en">リモートシェフ</title>
@@ -1155,17 +1143,13 @@
   <title lang="en">キャラダチナイトミュージアム〜MoCA〜</title>
   <desc lang="en">キュレーター和田彩花がお届けする大人も子供も楽しめるＰＯＰな情操教育番組です。様々な「もの、こと、ひと」をキュレーションします。</desc>
 </programme>
-<programme start="20211216013500 +0900" stop="20211216020500 +0900" channel="Tokyo MX">
-  <title lang="en">宇宙よりも遠い場所</title>
-  <desc lang="en"> </desc>
+<programme start="20211217022500 +0900" stop="20211217025500 +0900" channel="FujiTV.jp">
+  <title lang="en">いいすぽ!</title>
+  <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！元祖格闘ゲーム！「鉄拳７」最強トーナメントファイナルステージ！！ＭＣバカリズム</desc>
 </programme>
-<programme start="20211216020500 +0900" stop="20211216023400 +0900" channel="Tokyo MX">
-  <title lang="en">MIRAI系アイドルTV</title>
-  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
-</programme>
-<programme start="20211216023400 +0900" stop="20211216023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211217025500 +0900" stop="20211217032500 +0900" channel="FujiTV.jp">
+  <title lang="en">Tune</title>
+  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
 <programme start="20211216023500 +0900" stop="20211216030000 +0900" channel="Tokyo MX">
   <title lang="en">せとチャレ!STU48</title>
@@ -1359,6 +1343,18 @@
   <title lang="en">バリふり!!!</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211217020500 +0900" stop="20211217023400 +0900" channel="Tokyo MX">
+  <title lang="en">らいコレTV</title>
+  <desc lang="en">前回は微妙に「３」にまつわっていたライバー【ＡＫＩＨＩＲＯ】さん。今回「完全ライバー」で再び登場。「ａｉｌｅ（える）ちゃんのスペシャル　ＬＩＶＥ」も初披露！</desc>
+</programme>
+<programme start="20211217023400 +0900" stop="20211217023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211217023500 +0900" stop="20211217030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211216000000 +0900" stop="20211216034000 +0900" channel="FujiNext.jp">
 <title lang="en">2021 FORMULA 1　最終戦アブダビGP 決勝</title>
 <desc>＜開催＞2021年12月12日（日）【再放送】
@@ -1517,7 +1513,7 @@
 ＜怪員（怪談師）＞BBゴロー　Apsu Shusei　クダマツヒロシ
 ▽実話怪談の本格派ホラー番組
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211215/7116244/image/6659e2a2ddb53549d09af75400933313.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211216030000 +0900" stop="20211216035000 +0900" channel="FujiOne.jp">
