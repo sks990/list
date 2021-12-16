@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211217014500 +0900" stop="20211217022700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽仏議員団が台湾訪問　リトアニアは中国から外交団引き上げ▽台湾蔡政権の今後占う住民投票▽英　新規感染者が過去最多に▽ベトナム　コロナ禍で困難抱える子供に励ましを</desc>
-  </programme>
   <programme start="20211217022700 +0900" stop="20211217032700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、フィンランド・ヘルシンキを旅する。</desc>
@@ -233,6 +229,14 @@
   <programme start="20211218015300 +0900" stop="20211218023300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2021</title>
     <desc lang="en">▽右派ＶＳ左派　南米チリで異例の大統領選挙▽フランス　テロとコロナを乗り越えてクリスマスマーケットを取り戻す▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20211218023300 +0900" stop="20211218024000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">あなたのやさしさを2021</title>
+    <desc lang="en">毎年１２月に実施されるＮＨＫ歳末たすけあい。寄せられた募金は障害のある方や高齢者、子どもたちのために使われている。募金がどのように役に立っているのかを紹介する。</desc>
+  </programme>
+  <programme start="20211218024000 +0900" stop="20211218034000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ドイツ・ベルリンを旅する。</desc>
   </programme>
   <programme start="20211217003000 +0900" stop="20211217053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -546,15 +550,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211217015900 +0900" stop="20211217022900 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">全国各地で放送されているローカル番組の出演者＆プロデューサーが登場！
-ローカル番組ならではのお悩みから、ゆかりの無い演者を起用した「禁断の理由」が明らかに！</desc>
-  </programme>
-  <programme start="20211217022900 +0900" stop="20211217023500 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211217023500 +0900" stop="20211217030500 +0900" channel="NipponTV.jp">
     <title lang="en">川島・山内のマンガ沼</title>
     <desc lang="en">川島＆山内が厳選！いま読んでほしい超おすすめマンガ大連発！グルメマンガから極上ミステリー、さらには女性の共感間違いなしの話題作まで！</desc>
@@ -658,10 +653,14 @@
     <title lang="en">夜バゲット</title>
     <desc lang="en">金曜深夜に贈る新しいエンターテインメント情報番組！大ヒット上映中『あなたの番です　劇場版』から袴田吉彦がスタジオに登場！</desc>
   </programme>
-<programme start="20211217014100 +0900" stop="20211217021100 +0900" channel="Asahi.jp">
-  <title lang="en">春菜ザキさんのタダの通販じゃねーよ!</title>
-  <desc lang="en">わたなべ麻衣プロデュース！ＪＯＹも参戦！超オシャレホームケアセット＆シリーズ累計販売数17億円以上を売上！クッション型トランポリン＆スマホで簡単ＥＭＳグッズ登場！</desc>
-</programme>
+  <programme start="20211218024400 +0900" stop="20211218025000 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211218025000 +0900" stop="20211218041500 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレ名物北海道グルメ！人気ボイルズワイガニ＆大人気おせち等、大掃除に便利なコードレス高圧洗浄機、寒い時期にブランケットヒーターから真珠までお得情報満載！</desc>
+  </programme>
 <programme start="20211217021100 +0900" stop="20211217045500 +0900" channel="Asahi.jp">
   <title lang="en">世界バドミントン2021 スペイン</title>
   <desc lang="en">最強日本復活へ！新エース男子ダブルス保木/小林(ホキコバ)ペア、女子ダブルス志田/松山(シダマツ)ペア、東京五輪銅メダルの混合ダブルス渡辺/東野(ワタガシ)ペアが登場！</desc>
@@ -756,14 +755,9 @@
   <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
 今回は、私を“ブラッシュアップ”する３つの提案！</desc>
 </programme>
-<programme start="20211217013800 +0900" stop="20211217020800 +0900" channel="TBS2.jp">
-  <title lang="en">プラチナエンド</title>
-  <desc lang="en">赤の矢の力で初めて愛を知ったハジメが、激しい葛藤の末、選んだ答えは……。
-一方、奏もとっておきの切り札を隠し持っていた。</desc>
-</programme>
-<programme start="20211217020800 +0900" stop="20211217021500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20211218022500 +0900" stop="20211218043000 +0900" channel="Asahi.jp">
+  <title lang="en">世界バドミントン2021 スペイン</title>
+  <desc lang="en">最強日本復活へ！２０２２年夏、東京で開催される「世界バドミントン」へ向け、日本代表が全種目でメダル獲得を目指す！</desc>
 </programme>
 <programme start="20211217021500 +0900" stop="20211217033500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -854,17 +848,13 @@
   <desc lang="en">今年も年末年始はスポーツ祭！
 ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211217014000 +0900" stop="20211217021000 +0900" channel="TVTokyo.jp">
-  <title lang="en">本家が聴かせてもらいます</title>
-  <desc lang="en">ＭＣトンツカタン森本・ヒコロヒーの新音楽バラエティ！ヒット曲の「歌ってみた」動画を本家アーティストが視聴する音楽トーク番組。</desc>
+<programme start="20211218020500 +0900" stop="20211218023500 +0900" channel="TBS2.jp">
+  <title lang="en">結城友奈は勇者である-大満開の章-</title>
+  <desc lang="en">【アニメイズム】辿り着いた、物語の結末。▼これは、これまでの、これからの物語。</desc>
 </programme>
-<programme start="20211217021000 +0900" stop="20211217024000 +0900" channel="TVTokyo.jp">
-  <title lang="en">考えすぎちゃん ON TV〜ワンクールだけの大冒険〜</title>
-  <desc lang="en">ファーストサマーウイカ、ハナコ岡部、DJ松永の３人が元テレビ東京プロデューサー佐久間宣行をホストに毎回あるテーマについて考えすぎちゃう雑談バラエティ。</desc>
-</programme>
-<programme start="20211217024000 +0900" stop="20211217024500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">有吉＆田中将大がトップアスリートとゲーム対決▽サッカー11人VS11人！日本代表レジェンド＆川崎フロンターレ緊急招集▽柔道メダリスト阿部兄妹＆高藤＆バスケ女子代表も！</desc>
+<programme start="20211218023500 +0900" stop="20211218030500 +0900" channel="TBS2.jp">
+  <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
+  <desc lang="en">◆ＳＴＡＧＥ１２「キョウトからの使者」▼ルルーシュは黒の騎士団メンバーとともに「キョウト」の代表と対面するため富士鉱山へ向かう。一方、シャーリーに思わぬ悲劇が…</desc>
 </programme>
 <programme start="20211217024500 +0900" stop="20211217031500 +0900" channel="TVTokyo.jp">
   <title lang="en">きらきらアフロTM</title>
@@ -1031,13 +1021,13 @@
   <title lang="en">おしゃ家ソムリエおしゃ子!2</title>
   <desc lang="en">おしゃ子が男たちの「ぶしゃ家」をブッタ斬るインテリア×ラブコメ◆完璧なおしゃ家に住む性格サイテー男VSおしゃ子…土下座をかけたバトルの行方は意外な結末に…！</desc>
 </programme>
-<programme start="20211217012500 +0900" stop="20211217022500 +0900" channel="FujiTV.jp">
-  <title lang="en">キャラダチナイトミュージアム〜MoCA〜</title>
-  <desc lang="en">キュレーター和田彩花がお届けする大人も子供も楽しめるＰＯＰな情操教育番組です。様々な「もの、こと、ひと」をキュレーションします。</desc>
+<programme start="20211218020300 +0900" stop="20211218023300 +0900" channel="TVTokyo.jp">
+  <title lang="en">異世界食堂2</title>
+  <desc lang="en">食堂「洋食のねこや」は7日に一度、異世界のあらゆる場所に扉がつながる不思議な店。今日も異世界から様々なお客がやってきては絶品料理を堪能し帰っていく…。</desc>
 </programme>
-<programme start="20211217022500 +0900" stop="20211217025500 +0900" channel="FujiTV.jp">
-  <title lang="en">いいすぽ!</title>
-  <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！元祖格闘ゲーム！「鉄拳７」最強トーナメントファイナルステージ！！ＭＣバカリズム</desc>
+<programme start="20211218023300 +0900" stop="20211218030300 +0900" channel="TVTokyo.jp">
+  <title lang="en">大正オトメ御伽話</title>
+  <desc lang="en">夕月を捜しに東京へ向かう珠彦。だが、東京にかつての面影はなく、夕月を見つけ出すのは絶望的だった。</desc>
 </programme>
 <programme start="20211217025500 +0900" stop="20211217032500 +0900" channel="FujiTV.jp">
   <title lang="en">Tune</title>
@@ -1123,17 +1113,14 @@
   <title lang="en">SUPER RICH</title>
   <desc lang="en">江口のりこ主演！孤独な女社長と赤楚衛二演じる貧乏専門学生が運命の出会い！毎話急展開！二人の波乱万丈の日々を描く、完全オリジナルドラマをお届けします！</desc>
 </programme>
-<programme start="20211217013500 +0900" stop="20211217020500 +0900" channel="Tokyo MX">
-  <title lang="en">バリふり!!!</title>
-  <desc lang="en"> </desc>
+<programme start="20211218022500 +0900" stop="20211218025500 +0900" channel="FujiTV.jp">
+  <title lang="en">次ナルTV-S</title>
+  <desc lang="en">ＣＳ放送フジテレビＴＷＯで放送する「ＡＴＥＥＺ　フジテレビＴＷＯオリジナルスペシャルライブ　〜Ｉｎｔｏ　ｔｈｅ　Ａ　ｔｏ　Ｚ〜」ダイジェスト</desc>
 </programme>
-<programme start="20211217020500 +0900" stop="20211217023400 +0900" channel="Tokyo MX">
-  <title lang="en">らいコレTV</title>
-  <desc lang="en">前回は微妙に「３」にまつわっていたライバー【ＡＫＩＨＩＲＯ】さん。今回「完全ライバー」で再び登場。「ａｉｌｅ（える）ちゃんのスペシャル　ＬＩＶＥ」も初披露！</desc>
-</programme>
-<programme start="20211217023400 +0900" stop="20211217023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20211218025500 +0900" stop="20211218035500 +0900" channel="FujiTV.jp">
+  <title lang="en">アバランチ</title>
+  <desc lang="en">「戦争・逆転に次ぐ逆転‼攻防戦の行方は」
+綾野剛　福士蒼汰　渡部篤郎　木村佳乃</desc>
 </programme>
 <programme start="20211217023500 +0900" stop="20211217030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1308,6 +1295,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211218013500 +0900" stop="20211218020500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211218020500 +0900" stop="20211218023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211218023400 +0900" stop="20211218023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211218023500 +0900" stop="20211218030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1487,7 +1486,7 @@ https//otn.fujitv.co.jp
 ＜主宰＞兵動大樹　＜ゲスト＞益田アンナ
 ＜怪員（怪談師）＞北極ジロ　ヌ・ヒカル　黒戌
 ▽実話怪談の本格派ホラー番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211216/7154559/image/1b5408060d056620acf392f4db50cd09.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211217030000 +0900" stop="20211217050000 +0900" channel="FujiOne.jp">
