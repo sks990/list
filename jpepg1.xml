@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211217115400 +0900" stop="20211217120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211217120000 +0900" stop="20211217124000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20211217124000 +0900" stop="20211217124500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211217124500 +0900" stop="20211217130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
     <desc lang="en">ロバート（村雨辰剛）と共に、週一回英語のテキスト作りを続けている安子（上白石萌音）。ロバートとの会話は、安子にとって今まで以上に新鮮な驚きの連続でした。</desc>
@@ -274,13 +262,25 @@
     <title lang="en"></title>
     <desc lang="en">【キャスター】中山果奈</desc>
   </programme>
-  <programme start="20211217115500 +0900" stop="20211217120000 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 献立帳</title>
-    <desc lang="en">年越しそばのお供、かき揚げ。奈良の伝統野菜“宇陀の金ごぼう”を、細かいささがきに。同じようにささがきしたにんじんと一緒にてんぷら粉をまとわせ、小さめに揚げる。</desc>
+  <programme start="20211218121000 +0900" stop="20211218121500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211217120000 +0900" stop="20211217124500 +0900" channel="eTele.jp">
-    <title lang="en">チョイス＠病気になったとき</title>
-    <desc lang="en">小麦や果物など、特定の食べ物を食べると、口の中や唇、喉に腫れやかゆみ等の症状が出る食物アレルギー。原因食物を突き止める検査や具体的な対策まで詳しく伝える。</desc>
+  <programme start="20211218121500 +0900" stop="20211218124000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">バラエティー生活笑百科</title>
+    <desc lang="en">ゲストは俳優の宅麻伸。若い頃に経験したお酒の席でのエピソードを披露。趣味のバイクについても楽しくトーク。「探せるか？法律の抜け道」に桃月なしこが登場。</desc>
+  </programme>
+  <programme start="20211218124000 +0900" stop="20211218124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">未来スイッチ</title>
+    <desc lang="en">身近な課題に目を向け、よりよい未来のための解決策を探るミニ番組。今回は高校生が参加したイベントを通して、ＳＤＧｓ目標１５「陸の豊かさ」を守るためのヒントを探る。</desc>
+  </programme>
+  <programme start="20211218124500 +0900" stop="20211218130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">クリスマスの日、雉真家に算太（濱田岳）がやってきました。兄の無事の帰りを安子（上白石萌音）は涙をこらえ喜び、算太の居ない間に起きた出来事、その全てを打ち明け…</desc>
+  </programme>
+  <programme start="20211218130000 +0900" stop="20211218130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211217124500 +0900" stop="20211217130000 +0900" channel="eTele.jp">
     <title lang="en">ろうを生きる 難聴を生きる</title>
@@ -577,6 +577,18 @@
   <programme start="20211218120000 +0900" stop="20211218123000 +0900" channel="eTele.jp">
     <title lang="en">すくすく子育て</title>
     <desc lang="en">「どんなとき小児科に連れていけばいいのかわからない」「かかりつけ医はどう選ぶの？」など小児科のかかり方について専門家とともに考える。</desc>
+  </programme>
+  <programme start="20211218123000 +0900" stop="20211218125500 +0900" channel="eTele.jp">
+    <title lang="en">ウワサの保護者会</title>
+    <desc lang="en">尾木ママこと尾木直樹さんが、保護者と共に子育てや教育について語り合う。今回は子どもの言葉づかいや若者言葉について。ワンチャン、草、エモい…意味わかりますか？</desc>
+  </programme>
+  <programme start="20211218125500 +0900" stop="20211218130000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする。今回は「認知症の家族が、気がついたら家にいない」。講師は認知症ケアの第一人者の介護福祉士・和田行男さん。</desc>
+  </programme>
+  <programme start="20211218130000 +0900" stop="20211218140000 +0900" channel="eTele.jp">
+    <title lang="en">こころの時代〜宗教・人生〜</title>
+    <desc lang="en">ウスビ・サコさんは、日本の大学で初のアフリカ出身の学長。マリから来日して３０年。「自分と異なる他者」とのぶつかり合いにショックを受けつつ導かれてきた人生を伺う。</desc>
   </programme>
   <programme start="20211217115500 +0900" stop="20211217135500 +0900" channel="NipponTV.jp">
     <title lang="en">ヒルナンデス!</title>
@@ -1225,14 +1237,6 @@
   <title lang="en">ぶらぶらサタデー</title>
   <desc lang="en">「今回は人気のネギシリーズ！真紅の赤ネギ一本焼き〜冬こそ行きたい！東京下町の名物鍋・江戸から続く絶品鍋や絶景もつ鍋など！可愛いダンスふくろうも必見！」</desc>
 </programme>
-<programme start="20211217115500 +0900" stop="20211217120000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211217120000 +0900" stop="20211217123000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20211217123000 +0900" stop="20211217130000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
@@ -1425,6 +1429,18 @@
   <title lang="en">週末ハッピーライフ!お江戸に恋して</title>
   <desc lang="en">生放送★「ぐるり東京江戸散歩」は「江戸前の魚」を特集！和竿でハゼ釣りに挑戦▼「手描き友禅」の技とつくり手に迫る▼豊島区の野外劇場「ＧＬＯＢＡＬ　ＲＩＮＧ」を紹介</desc>
 </programme>
+<programme start="20211218125000 +0900" stop="20211218125500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211218125500 +0900" stop="20211218130000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20211218130000 +0900" stop="20211218133000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211216231000 +0900" stop="20211217024000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ　新春ライブ 2015 in 日本武道館</title>
 <desc>2015年1月4日、日本武道館で行われたエレファントカシマシ新春ライブ、2日目の公演を放送。ストリングスチームも加わった豪華絢爛のステージをお見逃しなく！
@@ -1489,7 +1505,7 @@ https//otn.fujitv.co.jp
 <programme start="20211217084500 +0900" stop="20211217130000 +0900" channel="FujiNext.jp">
 <title lang="en">ダンススタジアム2021〜高校ダンス部日本一決定戦「近畿・中国・四国」スモール</title>
 <desc>「近畿・中国・四国大会 スモールクラス」　▽全国高校ダンス部の頂点を決めるダンスの甲子園！青春真っただ中！華やかな激闘を全部見せます！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211217/7154493/image/76224f4579e046b4525ebf920990d267.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211217130000 +0900" stop="20211217170000 +0900" channel="FujiNext.jp">
@@ -1710,7 +1726,7 @@ https//otn.fujitv.co.jp
 <title lang="en">ラーメンWalker TV2　296　高円寺「鉄板酒場チヨハチ」</title>
 <desc>人気実力店主が挑む話題の新業態に独占潜入レポ！　高円寺「鉄板酒場チヨハチ」
 ＜出演＞田中貴（サニーデイ・サービス） 大谷映美里（＝LOVE）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211217/7154574/image/0f152fe4e27f7affc5e2672106bab90d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211217130000 +0900" stop="20211217140000 +0900" channel="FujiOne.jp">
