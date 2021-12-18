@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211219022400 +0900" stop="20211219032400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
-  </programme>
   <programme start="20211219032400 +0900" stop="20211219041000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスの山々の四季</desc>
@@ -506,10 +502,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211219023000 +0900" stop="20211219033000 +0900" channel="NipponTV.jp">
-    <title lang="en">Hulu傑作シアター</title>
-    <desc lang="en">今回は『オーディション番組』特集！SKY-HIが出演！「THE　FIRST」の裏話や他にやってみたいオーディションなど1時間たっぷりと語りつくします！</desc>
-  </programme>
   <programme start="20211219033000 +0900" stop="20211219045500 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">ポシュレ名物北海道グルメ！人気ボイルズワイガニ＆大人気おせち等、大掃除に便利なコードレス高圧洗浄機、寒い時期にブランケットヒーターから真珠までお得情報満載！</desc>
@@ -665,9 +657,17 @@
     <desc lang="en">最新ニュースを２４時間お伝えするニュース専門チャンネル・日テレＮＥＷＳ２４。
 スカパー、ＪＣＯＭ、全国ＣＡＴＶで視聴可能。詳しくは番組ＨＰまで。</desc>
   </programme>
-  <programme start="20211220022500 +0900" stop="20211220030000 +0900" channel="NipponTV.jp">
+  <programme start="20211220022500 +0900" stop="20211220035800 +0900" channel="NipponTV.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20211220035800 +0900" stop="20211220040000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211220040000 +0900" stop="20211220043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
   </programme>
 <programme start="20211219023000 +0900" stop="20211219052000 +0900" channel="Asahi.jp">
   <title lang="en">世界バドミントン2021 スペイン</title>
@@ -808,9 +808,9 @@
   <title lang="en">世界バドミントン2021 スペイン</title>
   <desc lang="en">最強日本復活へ！２０２２年夏、東京で開催される「世界バドミントン」へ向け、日本代表が「世界最強国」の称号を取り戻すための戦いに挑む！</desc>
 </programme>
-<programme start="20211219023800 +0900" stop="20211219035000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20211220040000 +0900" stop="20211220045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍X</title>
+  <desc lang="en">「井戸に出た女幽霊！縁切り寺の黒い罠」松平健(他)▽め組が夜回りの途中、衰弱して倒れている女を見つけ医者に運んだが息を引き取ってしまう。忠相によると、死亡した女は…</desc>
 </programme>
 <programme start="20211219035000 +0900" stop="20211219040000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -923,13 +923,18 @@
   <title lang="en">ガッツファイティング</title>
   <desc lang="en">ガッツファイティング ◆OPBF東洋太平洋S.フェザー級王座決定戦　坂晃典vs木村吉光　◆田中恒成１１か月ぶりの再起戦　田中恒成vs石田匠　</desc>
 </programme>
-<programme start="20211219023500 +0900" stop="20211219030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
+<programme start="20211220030800 +0900" stop="20211220033500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211219030500 +0900" stop="20211219031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+<programme start="20211220033500 +0900" stop="20211220034500 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+</programme>
+<programme start="20211220034500 +0900" stop="20211220043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211219031500 +0900" stop="20211219050000 +0900" channel="TVTokyo.jp">
   <title lang="en">大脱出2</title>
@@ -1078,9 +1083,13 @@
   <title lang="en">月とライカと吸血姫</title>
   <desc lang="en">人類史上初の宇宙飛行士は、吸血鬼の少女だったー宇宙飛行士候補生のレフは、有人飛行の実験体として吸血鬼を飛ばす計画で、吸血鬼の少女イリナの監視と訓練を命じられる。</desc>
 </programme>
-<programme start="20211219024500 +0900" stop="20211219034500 +0900" channel="FujiTV.jp">
-  <title lang="en">久保みねヒャダ こじらせナイト</title>
-  <desc lang="en">ヒコロヒー＆Ａマッソ加納が登場…能町も賞賛する加納の文才…エッセイインスパイア新企画▽おぼん・こぼん…ラヴィット！…マツコ会議…都道府県魅力度にこじらせ！？</desc>
+<programme start="20211220030400 +0900" stop="20211220033400 +0900" channel="TVTokyo.jp">
+  <title lang="en">Mixalive presents 田村淳が豊島区池袋</title>
+  <desc lang="en">田村淳×Mixalive×池袋。最新スポットMixaliveにビジネス、カルチャーの最先端の方々が集結。田村淳とともに、池袋発の最新ムーブメントを生み出す！</desc>
+</programme>
+<programme start="20211220033400 +0900" stop="20211220040400 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">2019年から3期にわたり放送されている大人気テレビシリーズの劇場版！「映画演劇　サクセス荘　〜侵略者Sと西荻窪の奇跡〜」をご紹介！おたけのひとりかるた大会！！</desc>
 </programme>
 <programme start="20211219034500 +0900" stop="20211219040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1239,13 +1248,21 @@
   <title lang="en">全日本ショートトラックスピードスケート選手権2021</title>
   <desc lang="en">北京オリンピック出場権を懸けた最終選考会「全日本ショートトラックスピードスケート選手権」！激しい代表争いを勝ち抜くのは！？</desc>
 </programme>
-<programme start="20211219023000 +0900" stop="20211219030000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211220032500 +0900" stop="20211220033500 +0900" channel="FujiTV.jp">
+  <title lang="en">中央競馬ダイジェスト</title>
+  <desc lang="en">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
 </programme>
-<programme start="20211219030000 +0900" stop="20211219033000 +0900" channel="Tokyo MX">
+<programme start="20211220033500 +0900" stop="20211220035500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211220035500 +0900" stop="20211220040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+</programme>
+<programme start="20211220040000 +0900" stop="20211220045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211219033000 +0900" stop="20211219040000 +0900" channel="Tokyo MX">
   <title lang="en">真夜中のおバカ騒ぎ!</title>
@@ -1431,14 +1448,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
-<programme start="20211220023500 +0900" stop="20211220030000 +0900" channel="Tokyo MX">
+<programme start="20211220023500 +0900" stop="20211220040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
 <programme start="20211219000000 +0900" stop="20211219040000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ デビュー25周年 SPECIAL LIVE</title>
 <desc>2014年1月11日、さいたまスーパーアリーナでのエレファントカシマシ デビュー25周年記念 SPECIAL LIVE、全37曲の4時間に及ぶステージを放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211218/7154517/image/7e4be1f2575d03cf3e4c8aeb4a385db8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211219040000 +0900" stop="20211219060000 +0900" channel="FujiNext.jp">
