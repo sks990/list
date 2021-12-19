@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211219115400 +0900" stop="20211219120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211219120000 +0900" stop="20211219121000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】佐藤誠太</desc>
-  </programme>
-  <programme start="20211219121000 +0900" stop="20211219121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211219121500 +0900" stop="20211219130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKのど自慢</title>
     <desc lang="en">静岡県下田市から生放送▽ゲストは、橋幸夫と川中美幸▽司会小田切千アナウンサー／鐘秋山気清▽歌で思いを届ける！予選で選ばれた皆さんによる熱唱・熱演</desc>
@@ -306,13 +294,25 @@
     <title lang="en"></title>
     <desc lang="en">【キャスター】三條雅幸</desc>
   </programme>
-  <programme start="20211219103000 +0900" stop="20211219120000 +0900" channel="eTele.jp">
-    <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
-    <desc lang="en">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。３回戦第４局は近藤誠也七段と出口若武五段の対戦。</desc>
+  <programme start="20211220121500 +0900" stop="20211220122000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211219120000 +0900" stop="20211219123000 +0900" channel="eTele.jp">
-    <title lang="en">囲碁フォーカス</title>
-    <desc lang="en">大西竜平七段の講座は「石の強さをジャッジ！逆転の手筋」。今回は「隅の三目は形を崩そう」。「フォーカス・オン」は「第４６期名人戦七番勝負を振り返る」。</desc>
+  <programme start="20211220122000 +0900" stop="20211220124300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うまいッ!</title>
+    <desc lang="en">白い肌と上品な甘みが特徴の「京こかぶ」は京料理に欠かせない高級野菜。コロナ禍で苦境の農家が取り組んだ大胆な試みとは？あなたも作れる豪華京こかぶ料理も紹介します！</desc>
+  </programme>
+  <programme start="20211220124300 +0900" stop="20211220124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新型コロナ 命を守る行動を</title>
+    <desc lang="en">感染症のエキスパートに、お笑い芸人ぺこぱの二人がインタビュー。新型コロナ現状や今後の見通しを聞いた。</desc>
+  </programme>
+  <programme start="20211220124500 +0900" stop="20211220130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">勇（村上虹郎）に気持ちを伝えられた安子（上白石萌音）は、返事ができずにいました。ある日、教材作りのためにロバート（村雨辰剛）と一緒にいたところを勇に目撃され…</desc>
+  </programme>
+  <programme start="20211220130000 +0900" stop="20211220130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211219123000 +0900" stop="20211219140000 +0900" channel="eTele.jp">
     <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
@@ -558,10 +558,13 @@
     <title lang="en">にっぽんの芸能</title>
     <desc lang="en">８００以上の役を演じギネスブックに載った唯一無二の歌舞伎俳優、十七世中村勘三郎の舞台を、ＮＨＫに残るアーカイブス映像からお届けする▽司会・高橋英樹　中條誠子</desc>
   </programme>
-  <programme start="20211219114500 +0900" stop="20211219124500 +0900" channel="NipponTV.jp">
-    <title lang="en">スクール革命!</title>
-    <desc lang="en">「１分でダーツど真ん中を射抜け」「１分で炒飯を作れ」「１分でマリオをクリアしろ」
-１分でクリアするには困難なお題にＪ組がご褒美を賭け挑む！髙地の挑戦企画も</desc>
+  <programme start="20211220125500 +0900" stop="20211220130000 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「大名ぎょうれつ」田中星児／「太陽の子どもたち」小野リサ、松原典子／「こだぬき　ポンポ」下條アトム／「オランガタン」惣領泰則とジムロックス</desc>
+  </programme>
+  <programme start="20211220130000 +0900" stop="20211220130500 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース</title>
+    <desc lang="en">【キャスター】河合祐三子</desc>
   </programme>
   <programme start="20211219124500 +0900" stop="20211219134500 +0900" channel="NipponTV.jp">
     <title lang="en">サンバリュ</title>
@@ -709,14 +712,6 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">金メダル水谷隼が2億倍カッコよく大変身！私服が個性的⁉▼文具女子博‼激変した最新文房具を紹介！▼ニコルの埼玉愛が爆発！激安パスタ＆工場見学</desc>
   </programme>
-<programme start="20211219115000 +0900" stop="20211219120000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
-<programme start="20211219120000 +0900" stop="20211219125500 +0900" channel="Asahi.jp">
-  <title lang="en">ビートたけしのTVタックル</title>
-  <desc lang="en">年末警戒…忘年会シーズンを狙う悪質客引き…パトロールに密着！急増する国際ロマンス詐欺…被害女性らが語る“ダマしの手口”とは？自転車の危険運転＆迷惑駐輪どうする？</desc>
-</programme>
 <programme start="20211219125500 +0900" stop="20211219132500 +0900" channel="Asahi.jp">
   <title lang="en">新婚さんいらっしゃい!</title>
   <desc lang="en">五所川原市公開収録第１弾！
@@ -825,9 +820,9 @@
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
 </programme>
-<programme start="20211219114500 +0900" stop="20211219125400 +0900" channel="TBS2.jp">
-  <title lang="en">アッコにおまかせ!</title>
-  <desc lang="en">主演ミュージカル公演期間に…神田沙也加さん急死▼ビートたけし出演する情報番組卒業へ…きのう生放送で語ったこと▼前澤友作氏が宇宙からお金贈り！ハズレなし！その詳細</desc>
+<programme start="20211220130000 +0900" stop="20211220133000 +0900" channel="Asahi.jp">
+  <title lang="en">徹子の部屋</title>
+  <desc lang="en">〜８０歳 コロナ禍で新たな体験も！〜岩下志麻さんが今日のゲストです。</desc>
 </programme>
 <programme start="20211219125400 +0900" stop="20211219130000 +0900" channel="TBS2.jp">
   <title lang="en">dai-docoro☆ベジタ</title>
@@ -919,10 +914,6 @@
 <programme start="20211220102500 +0900" stop="20211220135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
-</programme>
-<programme start="20211219115500 +0900" stop="20211219125400 +0900" channel="TVTokyo.jp">
-  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
-  <desc lang="en">あなたのご飯見せて下さい▽東京都大田区…イベリコ豚の肉吸い風おじや＆10種野菜とカキフライのランチプレート▽群馬県安中市…タラ入り湯豆腐＆おでん▽手作り鶏ハム</desc>
 </programme>
 <programme start="20211219125400 +0900" stop="20211219140000 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -1070,10 +1061,6 @@
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽練馬区…鶏肉の白湯スープ▽杉並区…北海道産本ししゃも鍋＆オカワカメ特製ナムル▽東京都檜原村…オープンカフェの自家製チャーシュー丼</desc>
 </programme>
-<programme start="20211219115000 +0900" stop="20211219120000 +0900" channel="FujiTV.jp">
-  <title lang="en">FNN Live News days</title>
-  <desc lang="en">週末の昼も「ライブニュース　デイズ」をお見逃しなく。民放で最大級の全国ネットワークを持つＦＮＮの記者が取材したニュースをお届けします。</desc>
-</programme>
 <programme start="20211219120000 +0900" stop="20211219140000 +0900" channel="FujiTV.jp">
   <title lang="en">なりゆき街道旅</title>
   <desc lang="en">佐野史郎と行く箱根の旅！この冬行きたい、老舗旅館の絶景露天風呂で癒やされる！ガラス１５万粒、圧巻のクリスマスツリーに感動！新名物、箱根餃子のお味は…？</desc>
@@ -1193,14 +1180,6 @@
 <programme start="20211220115500 +0900" stop="20211220144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-</programme>
-<programme start="20211219115500 +0900" stop="20211219125000 +0900" channel="Tokyo MX">
-  <title lang="en">日曜はカラフル!!!</title>
-  <desc lang="en">２０２２年の流行予測！世界のトレンドを先取り！▼結婚式の価値アップを目指す３０歳女性社長に密着！▼３分で作れる絶品クリスマスレシピ▼ＭＣアンミカ＆屋良朝幸</desc>
-</programme>
-<programme start="20211219125000 +0900" stop="20211219125500 +0900" channel="Tokyo MX">
-  <title lang="en">Artist18File</title>
-  <desc lang="en">今月のアーティストはＳＨＵＮ　ＣＨＩＢＡ（ＢＵＺＺ－ＥＲ．）　今回はＣＨＩＢＡがオハコうた　ＭＩＳＩＡ「つつみ込むように…」を熱唱！</desc>
 </programme>
 <programme start="20211219125500 +0900" stop="20211219130000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -1377,6 +1356,14 @@
 <programme start="20211220120000 +0900" stop="20211220123000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211220123000 +0900" stop="20211220130000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211220130000 +0900" stop="20211220135500 +0900" channel="Tokyo MX">
+  <title lang="en">知ってるワイフ</title>
+  <desc lang="en">チソン×ハン・ジミン共演！もしもあのときに戻れるなら…私の人生たった一度の“if”</desc>
 </programme>
 <programme start="20211219000000 +0900" stop="20211219040000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ デビュー25周年 SPECIAL LIVE</title>
@@ -1626,7 +1613,7 @@ https//otn.fujitv.co.jp
 <title lang="en">ラーメンWalker TV2　302　大塚「Nii」</title>
 <desc>「のどぐろ」と「真鯛」のセンス溢れる贅沢創作麺！　大塚『Nii』
 ＜出演＞田中貴（サニーデイ・サービス）　伊藤かりん
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211219/7154620/image/904f83b737e3d5d7eb2f82bc6ac4bbd6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211219130000 +0900" stop="20211219140000 +0900" channel="FujiOne.jp">
@@ -1845,7 +1832,7 @@ https//otn.fujitv.co.jp
 ＜出演＞チュ・ジンモ　ハン・イェスル　キム・ヒウォン　シン・ソユル　ほか
 ▽真実と嘘が交錯する社会派サスペンス！
 （全16話）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211219/7154734/image/d59f6532941af44f9b247a301a5d45a6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211219130000 +0900" stop="20211219140000 +0900" channel="FujiTwo.jp">
