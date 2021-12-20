@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211221005100 +0900" stop="20211221014000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">新・映像の世紀</title>
-    <desc lang="en">最新のデジタル技術で一層鮮やかになった「新・映像の世紀」。１９２０年代、未曽有の好景気に沸いたアメリカ。その原動力は、巨大財閥“グレートファミリー”だった。</desc>
-  </programme>
   <programme start="20211221014000 +0900" stop="20211221022500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">SONGS</title>
     <desc lang="en">メジャーデビュー５周年を迎えたあいみょんが出演！５周年記念日に行われた武道館ライブの舞台裏に密着！リハーサルで流した涙の理由とは。大泉とのスタジオトークも。</desc>
@@ -289,6 +285,10 @@
   <programme start="20211222005100 +0900" stop="20211222014000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">新・映像の世紀</title>
     <desc lang="en">最新のデジタル技術で一層鮮やかになった「新・映像の世紀」。資本主義のアメリカ、社会主義のソ連による秘密工作や暗殺。発掘映像から闇に閉ざされていた冷戦を見つめる。</desc>
+  </programme>
+  <programme start="20211222014000 +0900" stop="20211222022400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">群青領域</title>
+    <desc lang="en">下宿、青木荘の場所がマスコミに知れ、ワイドショーが押し掛けるが、ジュニ（シム・ウンギョン）は、逃げずに対応する。自分の言葉で伝える姿に世論が動く。</desc>
   </programme>
   <programme start="20211221002500 +0900" stop="20211221053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -630,14 +630,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211221005900 +0900" stop="20211221012900 +0900" channel="NipponTV.jp">
-    <title lang="en">沸騰ワード 12月24日は2時間スペシャル!</title>
-    <desc lang="en">12月24日(金）よる7時からは「沸騰ワード１０　2時間スペシャル」！その放送を前に、人気企画をしっかりと復習！傑作選</desc>
-  </programme>
-  <programme start="20211221012900 +0900" stop="20211221015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!2</title>
-    <desc lang="en">乃木坂４６が名曲熱唱▽どのサンタが好き？全員違うサンタコス▽心温まる北川＆柴田「クリスマス・イブ」▽山下美月が緊張初ソロ「恋人がサンタクロース」▽風船ゲーム絶叫</desc>
-  </programme>
   <programme start="20211221015900 +0900" stop="20211221025400 +0900" channel="NipponTV.jp">
     <title lang="en">スッキリ×「あなたの番です劇場版」次殺されるのはダレの番?考察SP</title>
     <desc lang="en">12月10日に公開した「あな番 劇場版」。考察のヒントとなる衝撃キャラを徹底解剖！劇場版で起こる連続殺人の黒幕は誰？真相に切り込む！今だから話せる撮影ウラ話も！</desc>
@@ -724,18 +716,14 @@
 “桃鉄”しながら2021年を振り返ろうSP！ゲーム業界で起こった事からMCのプライベートまで今年をまとめます
 ▼PUBG最新作"</desc>
   </programme>
-<programme start="20211221002000 +0900" stop="20211221012000 +0900" channel="Asahi.jp">
-  <title lang="en">マッドマックスTV</title>
-  <desc lang="en">ひろゆき論破企画に相席スタート山添が挑戦！鬼マナー講師VSザコシ＆モグライダーともしげ！ＭＣニューヨーク＆さらば森田がマッドな結末を見届ける！</desc>
-</programme>
-<programme start="20211221012000 +0900" stop="20211221012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20211221012600 +0900" stop="20211221013100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">１２／２４（金）午後５時からは『ミュージックステーション　ウルトラ ＳＵＰＥＲ ＬＩＶＥ ２０２１』６０組超の豪華アーティスト集結！クリスマスメドレーなど盛り沢山</desc>
-</programme>
+  <programme start="20211222014900 +0900" stop="20211222015500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211222015500 +0900" stop="20211222022500 +0900" channel="NipponTV.jp">
+    <title lang="en">シキザクラ</title>
+    <desc lang="en">現世を救うため、身を捧げる覚悟を決めた逢花。ついにシキザクラの儀式が始まる。もう一度逢花に会うためひた走る翔。その想いが仲間たちを変えていく。右近の企みとは？</desc>
+  </programme>
 <programme start="20211221013100 +0900" stop="20211221020100 +0900" channel="Asahi.jp">
   <title lang="en">musicる TV</title>
   <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
@@ -848,14 +836,18 @@ by.イツァーク・パールマン</desc>
   <title lang="en">チョコプラCUP</title>
   <desc lang="en">【ＭＣチョコレートプラネット＆松村沙友理】チョコプラ自身が考案した「○○ＣＵＰ」を開催！マヂラブ野田＆モグライダーらM-1戦士も参戦！番組から大事なお知らせも！</desc>
 </programme>
-<programme start="20211221005800 +0900" stop="20211221012800 +0900" channel="TBS2.jp">
-  <title lang="en">賞金奪い合いネタバトル〜ソウドリ〜</title>
-  <desc lang="en">2021年総決算！シーズン王者の獲得賞金TOP5を発表！【大谷健太／怪奇！YesどんぐりRPG／ガクテンソク／スタンダップコーギー／東京ホテイソン】MC有田哲平</desc>
+<programme start="20211222012000 +0900" stop="20211222012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20211221012800 +0900" stop="20211221013800 +0900" channel="TBS2.jp">
+<programme start="20211222012600 +0900" stop="20211222013100 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">今年も年末年始はスポーツ祭！
-ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+  <desc lang="en">１２／２４（金）午後５時からは『ミュージックステーション　ウルトラ ＳＵＰＥＲ ＬＩＶＥ ２０２１』６０組超の豪華アーティスト集結！クリスマスメドレーなど盛り沢山</desc>
+</programme>
+<programme start="20211222013100 +0900" stop="20211222020100 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！
+ヒップホップの歴史や伝説的人物を解説するコーナーも！</desc>
 </programme>
 <programme start="20211221013800 +0900" stop="20211221021800 +0900" channel="TBS2.jp">
   <title lang="en">アカデミーナイトG</title>
@@ -941,13 +933,14 @@ by.イツァーク・パールマン</desc>
   <title lang="en">居酒屋新幹線</title>
   <desc lang="en">“戦国一のグルメ武将”伊達政宗に呼ばれた不思議な一席▼仙台。偶然の出会いを求めて街を散策し、仕入れたのはお豆腐揚かまぼこ、支倉焼など…食べたことのないものばかり</desc>
 </programme>
-<programme start="20211221003000 +0900" stop="20211221010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">Dreamer 乙</title>
-  <desc lang="en">DreamerZと連動＆iCONZ応援番組！GENERATIONS　from　EXILE　TRIBEやTHE　RAMPAGE　from　EXILE　TRIBEの超貴重オーディション映像も盛り沢山！</desc>
+<programme start="20211222012800 +0900" stop="20211222014500 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211221010000 +0900" stop="20211221013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼新グループ「OCHA　NORMA」新メンバー決定の瞬間と発表会でのお披露目の舞台裏▼憧れの先輩と夢のコラボ！</desc>
+<programme start="20211222014500 +0900" stop="20211222025500 +0900" channel="TBS2.jp">
+  <title lang="en">PLAYLIST</title>
+  <desc lang="en">今後の活動に注目の　今世の中に届けたい期待のアーティスト達をご紹介！他では見られないライブパフォーマンスも必見！</desc>
 </programme>
 <programme start="20211221013000 +0900" stop="20211221020000 +0900" channel="TVTokyo.jp">
   <title lang="en">境界戦機</title>
@@ -1104,13 +1097,9 @@ by.イツァーク・パールマン</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼１時間スペシャル。豪華ゲストＶＳモノマネ芸人ホリＶＳ岸明日香の激バトル‼人気女性ライター登場！島田秀平の占い２０２２年運勢も。</desc>
 </programme>
-<programme start="20211221004500 +0900" stop="20211221011500 +0900" channel="FujiTV.jp">
-  <title lang="en">ギヴン</title>
-  <desc lang="en">再び弾け飛んだ弦</desc>
-</programme>
-<programme start="20211221011500 +0900" stop="20211221014500 +0900" channel="FujiTV.jp">
-  <title lang="en">花にけだもの</title>
-  <desc lang="en">［第三話］恋のみがわり</desc>
+<programme start="20211222020000 +0900" stop="20211222020500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">１２／２３(木)放送「タクシー運転手さん、一番うまい店に連れてって！」の見どころをご紹介します！</desc>
 </programme>
 <programme start="20211221014500 +0900" stop="20211221021000 +0900" channel="FujiTV.jp">
   <title lang="en">魔女に言われたい夜〜正直過ぎる品定め〜</title>
@@ -1212,21 +1201,9 @@ by.イツァーク・パールマン</desc>
   <title lang="en">東京ラブストーリー</title>
   <desc lang="en">ただ、そこにあるもの</desc>
 </programme>
-<programme start="20211221003000 +0900" stop="20211221010000 +0900" channel="Tokyo MX">
-  <title lang="en">海賊王女</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211221010000 +0900" stop="20211221010500 +0900" channel="Tokyo MX">
-  <title lang="en">BanG Dream! ガルパ☆ピコ ふぃーばー!</title>
-  <desc lang="en">＃１１「心配性のましろちゃん」</desc>
-</programme>
-<programme start="20211221010500 +0900" stop="20211221013000 +0900" channel="Tokyo MX">
-  <title lang="en">DOGENGERS</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211221013000 +0900" stop="20211221013500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211222015500 +0900" stop="20211222022500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「超神龍‼怒るフリーザ」</desc>
 </programme>
 <programme start="20211221013500 +0900" stop="20211221020500 +0900" channel="Tokyo MX">
   <title lang="en">e-elements GHS NIGHT APEX LEGENDS 3</title>
@@ -1424,6 +1401,14 @@ by.イツァーク・パールマン</desc>
   <title lang="en">かぎなど</title>
   <desc lang="en">Key初のクロスオーバーワール</desc>
 </programme>
+<programme start="20211222010500 +0900" stop="20211222013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+</programme>
+<programme start="20211222013500 +0900" stop="20211222020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">３年９ヶ月ぶりのアルバム「ｅｆｆｅｃｔｏｒ」をリリースする、ａｎｄｒｏｐが登場！作品に込めた思いはもちろん、メンバーが極めた趣味にも迫る！</desc>
+</programme>
 <programme start="20211220223000 +0900" stop="20211221001500 +0900" channel="FujiNext.jp">
 <title lang="en">第21回アジア男子バレーボール選手権大会　予選グループリーグ戦　日本×インド</title>
 <desc>予選グループリーグ戦　A組
@@ -1568,7 +1553,7 @@ by.イツァーク・パールマン</desc>
 <title lang="en">オールナイトe！ season5　〜1時間版 Part2〜</title>
 <desc>薄着の女子たちによる新世代ゲーム生実況番組「オールナイトe！ season5」1時間版！
 ＜出演＞RaMu　大貫彩香　出口亜梨沙　片岡沙耶　日向葵衣
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211220/7167796/image/3fe76b234e3c942178575c2e54de9cf3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211221020000 +0900" stop="20211221030000 +0900" channel="FujiOne.jp">
@@ -2200,7 +2185,7 @@ https//otn.fujitv.co.jp
 <programme start="20211221003000 +0900" stop="20211221020000 +0900" channel="kbsworld.jp">
 <title lang="en">ユ・ヒヨルのスケッチブック　[字]</title>
 <desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211220/7160980/image/e104ed96e9dc6e52cb10c0145a6b6800.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211221020000 +0900" stop="20211221031500 +0900" channel="kbsworld.jp">
