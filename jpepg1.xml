@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211222024100 +0900" stop="20211222032100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2021</title>
-    <desc lang="en">▽英　新規感染者９万人超えも▽「共同富裕」中国　インフルエンサー追徴等で２４０億円▽ロシア　独外交官を追放▽メキシコ「女性が殺される」“フェミサイド”※ＳＤＧｓ</desc>
-  </programme>
   <programme start="20211222032100 +0900" stop="20211222040400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北海道・かわいい動物たち〜さわやか自然百景から〜</title>
     <desc lang="en">日本各地の自然や風景、そこに暮らす生きものたちの姿を紹介してきた「さわやか自然百景」。北海道で撮影した映像の中から、動物たちの愛らしい姿をたっぷりお届けします！</desc>
@@ -341,6 +337,14 @@
   <programme start="20211223023800 +0900" stop="20211223033800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、セルビア・ベオグラードを旅する。</desc>
+  </programme>
+  <programme start="20211223033800 +0900" stop="20211223035300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">いよいよクライマックスを迎える大河ドラマ「青天を衝（つ）け」。見どころを吉沢亮、草彅剛のインタビューを交えたっぷり紹介する。</desc>
+  </programme>
+  <programme start="20211223035300 +0900" stop="20211223043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">たっぷり関東NHK</title>
+    <desc lang="en">新一万円札の顔に選ばれた渋沢栄一の激動の生涯を徹底解剖！日本の近代化に尽力し、芸能文化の発展や難民支援にも取り組んだ渋沢の足跡を大河ドラマ出演俳優たちがご案内</desc>
   </programme>
   <programme start="20211222002500 +0900" stop="20211222053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -682,14 +686,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211222022500 +0900" stop="20211222035000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">ポシュレ名物北海道グルメ！人気ボイルズワイガニ＆大人気おせち等、大掃除に便利なコードレス高圧洗浄機、寒い時期にブランケットヒーターから真珠までお得情報満載！</desc>
-  </programme>
-  <programme start="20211222035000 +0900" stop="20211222035500 +0900" channel="NipponTV.jp">
-    <title lang="en">あなたの番です劇場版</title>
-    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐあな番ワールドが展開!豪華キャストが映画の魅力を語ります!!</desc>
-  </programme>
   <programme start="20211222035500 +0900" stop="20211222040000 +0900" channel="NipponTV.jp">
     <title lang="en">号泣!そしてバトンは渡された</title>
     <desc lang="en">本屋大賞受賞のベストセラー「そして、バトンは渡された」ついに映画化！▽親子役の永野芽郁＆田中圭が語る映画の見どころ▽驚きと感動が詰まった物語の秘密に迫る！</desc>
@@ -796,20 +792,10 @@
     <title lang="en">浜ちゃんが!</title>
     <desc lang="en">ペナルティ・ヒデ進行のもと浜田と渡部篤郎、乃木坂４６の梅澤美波が賞金獲得を目指して編集なし！ノーカットの散歩ロケ企画に挑む！散歩コースは代官山から恵比寿まで！</desc>
   </programme>
-<programme start="20211222024100 +0900" stop="20211222030100 +0900" channel="Asahi.jp">
-  <title lang="en">〜凪咲と芸人〜マッチング</title>
-  <desc lang="en">バラエティ番組で大活躍中！ＮＭＢ48渋谷凪咲の初冠番組！
-“インパルス板倉さん”をゲストに迎え、２人の相性を探っていく！</desc>
-</programme>
-<programme start="20211222030100 +0900" stop="20211222030500 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20211222030500 +0900" stop="20211222033100 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20211223030500 +0900" stop="20211223043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">ポシュレ名物北海道グルメ！人気ボイルズワイガニ＆大人気おせち等、大掃除に便利なコードレス高圧洗浄機、寒い時期にブランケットヒーターから真珠までお得情報満載！</desc>
+  </programme>
 <programme start="20211222033100 +0900" stop="20211222040000 +0900" channel="Asahi.jp">
   <title lang="en">テレメンタリー2021</title>
   <desc lang="en">賞金総額3億円をかけた戦い。コロナ禍の2021年、スマートフォンで行う“eスポーツ”の大会が開催された。様々な思いを胸にゲームと向き合う、若者たちの289日を追った。</desc>
@@ -926,19 +912,22 @@
   <title lang="en">ぺこぱポジティブNEWS</title>
   <desc lang="en">ぺこぱがポジティブなNEWSだけをお届け。日本の未来を語り合う特別企画「ポジティベート」。2週にわたり10代のインフルエンサーを招いて語るのは「日本の教育」！その第1回</desc>
 </programme>
-<programme start="20211222025500 +0900" stop="20211222030200 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20211223030100 +0900" stop="20211223030500 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
 </programme>
-<programme start="20211222030200 +0900" stop="20211222033500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
-</programme>
-<programme start="20211222033500 +0900" stop="20211222034500 +0900" channel="TBS2.jp">
+<programme start="20211223030500 +0900" stop="20211223033100 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">今年も年末年始はスポーツ祭！
-ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
+</programme>
+<programme start="20211223033100 +0900" stop="20211223040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20211223040000 +0900" stop="20211223045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍X</title>
+  <desc lang="en">「計られた上意討ち！若侍に惚れた年上の女」松平健(他)▽若い侍と浪人が斬り合っている現場に遭遇する吉宗。二人とも手傷を負っているため、吉宗は仲裁に入った。ところが…</desc>
 </programme>
 <programme start="20211222034500 +0900" stop="20211222043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -965,7 +954,7 @@
 </programme>
 <programme start="20211222102500 +0900" stop="20211222135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
-  <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
+  <desc lang="en">外国人の新規入国禁止「当面延長」首相“先手強調”も沖縄で懸念拡大▽松田聖子さん神田正輝さん会見で悲痛な思い▽フェンシング協会武井壮会長の秘策</desc>
 </programme>
 <programme start="20211222135500 +0900" stop="20211222154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1023,24 +1012,16 @@
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20211222023500 +0900" stop="20211222030500 +0900" channel="TVTokyo.jp">
+<programme start="20211223033500 +0900" stop="20211223034500 +0900" channel="TBS2.jp">
   <title lang="en"></title>
-  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211222030500 +0900" stop="20211222032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">クセの強い教師をはじめ、個性的なキャラクターがたくさん登場するドラマ！「お茶にごす。」をご紹介。野間口徹演じる、茶道部顧問・縦島洋の面白シーンをちょい見せ！！</desc>
+<programme start="20211223034500 +0900" stop="20211223043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211222032000 +0900" stop="20211222032500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
-</programme>
-<programme start="20211222032500 +0900" stop="20211222035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">女ともだち</title>
-  <desc lang="en">セツが交差点で信号待ちをしていると、誰かに背中を押される。犯人に心あたりのあるセツは平井に電話をかける。一方ちさとはぐずぐずするチー助を怒鳴りつけてしまい…。</desc>
-</programme>
-<programme start="20211222035500 +0900" stop="20211222042300 +0900" channel="TVTokyo.jp">
+<programme start="20211222040000 +0900" stop="20211222042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1182,9 +1163,22 @@
   <title lang="en">ガンダム板倉小隊 絆体感ＴＶ機動戦士ガンダム第07板倉小隊〜ゆく絆くる絆〜</title>
   <desc lang="en">【＃８】板倉小隊、有終の美を飾ることはできるのか？ラストバトルのメンバーは？ばる先生にキレる森本！豊崎は番組存続を懇願！板倉が戦場の絆Ⅱに新たな光を見つける！</desc>
 </programme>
-<programme start="20211222025500 +0900" stop="20211222035500 +0900" channel="FujiTV.jp">
-  <title lang="en">2021全日本ボクシング選手権大会</title>
-  <desc lang="en">村田諒太、井上尚弥らを輩出したアマチュアボクシング国内最高峰の舞台！東京オリンピック金メダリスト入江聖奈、銅メダリスト並木月海が五輪後初の大会に出場！</desc>
+<programme start="20211223030500 +0900" stop="20211223032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">“本番一発勝負”で話題を集めた大人気ドラマ！「テレビ演劇　サクセス荘」の待望の映画化！「映画演劇　サクセス荘　〜侵略者Sと西荻窪の奇跡〜」をご紹介します。</desc>
+</programme>
+<programme start="20211223032000 +0900" stop="20211223035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">東京放置食堂</title>
+  <desc lang="en">片桐はいり主演！本土から120キロ離れた東京都内「大島」にある居酒屋「風待屋」が舞台！島の大自然や時間の流れから生まれる、優しい時間と人間模様・島グルメが満載！</desc>
+</programme>
+<programme start="20211223035000 +0900" stop="20211223035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20211223035500 +0900" stop="20211223040000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20211222035500 +0900" stop="20211222040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1278,13 +1272,13 @@
   <title lang="en">バチくるオードリー特別版</title>
   <desc lang="en">オードリーがやりたいお笑い実験番組！</desc>
 </programme>
-<programme start="20211222023500 +0900" stop="20211222030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211222030500 +0900" stop="20211222033500 +0900" channel="Tokyo MX">
+<programme start="20211223034500 +0900" stop="20211223040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211223040000 +0900" stop="20211223045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20211222033500 +0900" stop="20211222040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1477,6 +1471,14 @@
 <programme start="20211223030000 +0900" stop="20211223033000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211223033000 +0900" stop="20211223040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211223040000 +0900" stop="20211223043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
 </programme>
 <programme start="20211221235000 +0900" stop="20211222001000 +0900" channel="FujiNext.jp">
 <title lang="en">純喫茶に恋をして　17　神奈川県大和 純喫茶「フロリダ」</title>
