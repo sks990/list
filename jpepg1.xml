@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211222081500 +0900" stop="20211222095500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あさイチ</title>
-    <desc lang="en">離れて暮らす親の家と土地、今後どうしますか？皆さんのお悩みが多かった順にお答えします▽そもそも売れるの？どこに相談したらいい？親にどう話せばいい？共有名義は？</desc>
-  </programme>
   <programme start="20211222095500 +0900" stop="20211222100000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">みんなの体操</title>
     <desc lang="en">多胡肇、舘野伶奈、今井菜津美、新井庸太</desc>
@@ -342,17 +338,13 @@
     <title lang="en">あさイチ</title>
     <desc lang="en">埼玉から御利益満載のものをシェア！世界一幸せな動物▽おせち料理に使われる八つ頭の皮まで食べるレシピ▽正月におすすめ！ハレの日うどん▽首都圏を洪水から守る地下神殿</desc>
   </programme>
-  <programme start="20211222085500 +0900" stop="20211222090000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「大名ぎょうれつ」田中星児／「太陽の子どもたち」小野リサ、松原典子／「こだぬき　ポンポ」下條アトム／「オランガタン」惣領泰則とジムロックス</desc>
+  <programme start="20211223095500 +0900" stop="20211223100000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなの体操</title>
+    <desc lang="en">鈴木大輔、原川愛、矢作あかり、石川裕平</desc>
   </programme>
-  <programme start="20211222090000 +0900" stop="20211222092900 +0900" channel="eTele.jp">
-    <title lang="en">ぼくドコ</title>
-    <desc lang="en">どんなモノにも、とっておきのドラマがある！電車３きょうだい（ミキ昴生・亜生、山之内すず）が人々を乗せて走り続ける人生を歌ありダンスありコントありで楽しくお届け！</desc>
-  </programme>
-  <programme start="20211222092900 +0900" stop="20211222093000 +0900" channel="eTele.jp">
-    <title lang="en">SDGsのうた</title>
-    <desc lang="en">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ紹介。今回は長濱ねるバージョンだよ！</desc>
+  <programme start="20211223100000 +0900" stop="20211223100500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211222093000 +0900" stop="20211222101000 +0900" channel="eTele.jp">
     <title lang="en">ラッキー 世界イチ運が悪い少年と幸運の金貨</title>
@@ -686,6 +678,14 @@
     <title lang="en">カズレーザーvs．NHK高校講座</title>
     <desc lang="en">カズレーザーとＮＨＫ高校講座のクイズバトル。抜群の推理力で高校レベルの難問に挑む。アナウンサーと一対一の戦いで、彼のすごさをじっくりと追いかける３０分。</desc>
   </programme>
+  <programme start="20211223093000 +0900" stop="20211223095500 +0900" channel="eTele.jp">
+    <title lang="en">シュームの大冒険</title>
+    <desc lang="en">生まれたばかり赤ちゃんフクロウのシュームは、たまごのきょうだいを引き連れて、母親探しの旅に出る。２０２０年の日本賞で、幼児向け部門最優秀賞（総務大臣賞）受賞作。</desc>
+  </programme>
+  <programme start="20211223095500 +0900" stop="20211223100500 +0900" channel="eTele.jp">
+    <title lang="en">エイゴビート</title>
+    <desc lang="en">英語のリズムを耳と体で感じる番組。マイコのノートがなくなった！さがし物係のタクマは探偵になって、教室中を探し回る。ゲームコーナーのＭＣは栗原類。ゲストは椿鬼奴。</desc>
+  </programme>
   <programme start="20211222080000 +0900" stop="20211222102500 +0900" channel="NipponTV.jp">
     <title lang="en">スッキリ</title>
     <desc lang="en">マックポテトＭ＆Ｌが販売休止▽警戒オミクロン株…拡大懸念・沖縄は今？▽ついに実現！阿部が新庄BIIG BOSSを直撃！▽ジャニーズvsメダリスト</desc>
@@ -776,10 +776,6 @@
     <title lang="en">スッキリ</title>
     <desc lang="en">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
   </programme>
-<programme start="20211222080000 +0900" stop="20211222095500 +0900" channel="Asahi.jp">
-  <title lang="en">羽鳥慎一モーニングショー</title>
-  <desc lang="en">松田聖子さん位牌手に正輝さんと２人で会見…沙也加さんと無言対面▽東京新たに３８人感染▽自宅に京アニの記事…消火栓の扉にも細工が</desc>
-</programme>
 <programme start="20211222095500 +0900" stop="20211222102500 +0900" channel="Asahi.jp">
   <title lang="en">じゅん散歩</title>
   <desc lang="en">三代目散歩人・高田純次が「台東区上野」を散策▽徳川家の歴代将軍が眠る寛永寺▽全国で２校！鉄道員を育成する高校▽純ちゃん本格設備で運転士体験</desc>
@@ -905,11 +901,9 @@
   <title lang="en">羽鳥慎一モーニングショー</title>
   <desc lang="en">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 </programme>
-<programme start="20211222080000 +0900" stop="20211222095500 +0900" channel="TBS2.jp">
-  <title lang="en">ラヴィット!</title>
-  <desc lang="en">超一流菓子職人がガチ採点！！No.１いちごチョコ菓子
-こがけん厳選！いちごスイーツベスト３発表
-見取り図＆さらば森田の爆笑！安ウマグルメ旅</desc>
+<programme start="20211223095500 +0900" stop="20211223102500 +0900" channel="Asahi.jp">
+  <title lang="en">じゅん散歩</title>
+  <desc lang="en">三代目散歩人・高田純次が「台東区入谷」を散策▽上野からひと駅 昭和風情残る街▽難問に挑戦！「子」が１２個並ぶ文をなんて読む？▽レトロ喫茶の名物グラパン</desc>
 </programme>
 <programme start="20211222095500 +0900" stop="20211222102500 +0900" channel="TBS2.jp">
   <title lang="en">Let's!美バディ</title>
@@ -997,19 +991,9 @@
   <title lang="en">ラヴィット!</title>
   <desc lang="en">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
 </programme>
-<programme start="20211222081500 +0900" stop="20211222091100 +0900" channel="TVTokyo.jp">
-  <title lang="en">愛はビューティフル、人生はワンダフル</title>
-  <desc lang="en">幸せは、小さいくらいが、ちょうどいい。
-心に傷を抱えたヒロインと家族の再生を描く、全世代共感のハートフルドラマ！
-【全６５話　日本語字幕付　二カ国語放送】</desc>
-</programme>
-<programme start="20211222091100 +0900" stop="20211222092100 +0900" channel="TVTokyo.jp">
-  <title lang="en">なないろ日和!プラス</title>
-  <desc lang="en">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
-</programme>
-<programme start="20211222092100 +0900" stop="20211222092600 +0900" channel="TVTokyo.jp">
-  <title lang="en">Mナビ</title>
-  <desc lang="en">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+<programme start="20211223095500 +0900" stop="20211223102500 +0900" channel="TBS2.jp">
+  <title lang="en">Let's!美バディ</title>
+  <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストは水谷隼★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
 </programme>
 <programme start="20211222092600 +0900" stop="20211222111300 +0900" channel="TVTokyo.jp">
   <title lang="en">なないろ日和!</title>
@@ -1158,9 +1142,17 @@
 心に傷を抱えたヒロインと家族の再生を描く、全世代共感のハートフルドラマ！
 【全６５話　日本語字幕付　二カ国語放送】</desc>
 </programme>
-<programme start="20211222080000 +0900" stop="20211222095000 +0900" channel="FujiTV.jp">
-  <title lang="en">めざまし8</title>
-  <desc lang="en">神田沙也加さん葬儀…遺骨胸に両親共に会見松田聖子「ありがとうございます」父と母と育んだ３５年▽死者１９万人想定も巨大地震どう備え？▽健康寿命ナンバー１大分県秘策</desc>
+<programme start="20211223091100 +0900" stop="20211223092100 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!プラス</title>
+  <desc lang="en">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
+</programme>
+<programme start="20211223092100 +0900" stop="20211223092600 +0900" channel="TVTokyo.jp">
+  <title lang="en">Mナビ</title>
+  <desc lang="en">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+</programme>
+<programme start="20211223092600 +0900" stop="20211223111300 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!</title>
+  <desc lang="en">▽快適ショッピングスタジオ▽ヒットするにはわけがある…手作りクラフトコーラ＆大人気うどん弁当＆超薄型ホットプレート(他)▽「虎ノ門市場」豪華海鮮七品セット</desc>
 </programme>
 <programme start="20211222095000 +0900" stop="20211222112500 +0900" channel="FujiTV.jp">
   <title lang="en">ノンストップ!</title>
@@ -1254,13 +1246,9 @@
   <title lang="en">めざまし8</title>
   <desc lang="en">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 </programme>
-<programme start="20211222083000 +0900" stop="20211222090000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211222090000 +0900" stop="20211222093000 +0900" channel="Tokyo MX">
-  <title lang="en">洋上の楽園クルーズ</title>
-  <desc lang="en">「ラグジュアリーシップで巡る　癒しのタヒチ　楽園クルーズ」</desc>
+<programme start="20211223095000 +0900" stop="20211223112500 +0900" channel="FujiTV.jp">
+  <title lang="en">ノンストップ!</title>
+  <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
 <programme start="20211222093000 +0900" stop="20211222100000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1457,6 +1445,14 @@
 <programme start="20211223090000 +0900" stop="20211223093000 +0900" channel="Tokyo MX">
   <title lang="en">どさんこクッキング</title>
   <desc lang="en">忙しい年末に！ワンフライパン料理</desc>
+</programme>
+<programme start="20211223093000 +0900" stop="20211223100000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211223100000 +0900" stop="20211223103000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211221235000 +0900" stop="20211222001000 +0900" channel="FujiNext.jp">
 <title lang="en">純喫茶に恋をして　17　神奈川県大和 純喫茶「フロリダ」</title>
