@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211222193000 +0900" stop="20211222201500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ガッテン!</title>
-    <desc lang="en">なんとチョコ入りも！１００種類のポテサラを提供！北海道リゾートホテルの絶品メニュー☆１５秒あることすればツルツル皮がむける！ガッテン流ポテサラパーティーのススメ</desc>
-  </programme>
-  <programme start="20211222201500 +0900" stop="20211222204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ワケあって、このカタチなの。</title>
-    <desc lang="en">新感覚の謎解きトーク番組！村上信五・髙橋ひかる・木村昴が、身の回りの「カタチのワケ」に、カワイイ人形（声ゆりやん＆早見沙織）に導かれながら、ガチで挑む！</desc>
-  </programme>
-  <programme start="20211222204200 +0900" stop="20211222204300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
-  <programme start="20211222204300 +0900" stop="20211222204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">紅白カラフルメモリーズ</title>
-    <desc lang="en">出場歌手の皆さんのインタビューを交えながらカラフルな紅白名場面や思い出のシーンをお届けします。今回はＧＥＮＥＲＡＴＩＯＮＳの皆さんが紅白の思い出を語ります！</desc>
-  </programme>
   <programme start="20211222204500 +0900" stop="20211222210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -342,17 +326,21 @@
     <title lang="en">所さん!大変ですよ</title>
     <desc lang="en">飲食店を営む男性から不思議な情報が寄せられた。なんと保護した子猫に人生を救われたというのだ。コロナ禍でおきた奇跡の物語とは？今年、あなたは誰に感謝したいですか？</desc>
   </programme>
-  <programme start="20211222195500 +0900" stop="20211222200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20211223204200 +0900" stop="20211223204300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211222200000 +0900" stop="20211222203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">中高生の２０人に１人と推定されるヤングケアラー。ＳＯＳを見逃さないために大人たちは何ができるのか。元ヤングケアラーや専門家と共に必要な支援について考えます。</desc>
+  <programme start="20211223204300 +0900" stop="20211223204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">紅白カラフルメモリーズ</title>
+    <desc lang="en">出場歌手の皆さんのインタビューを交えながらカラフルな紅白名場面や思い出のシーンをお届けします。今回は三山ひろしがけん玉にまつわる紅白の思い出を熱く語ります！</desc>
   </programme>
-  <programme start="20211222203000 +0900" stop="20211222204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">完治させることができない認知症は、発症しないよう予防することが大切。鳥取県で始まり、認知機能改善に効果を上げ全国から注目を集めている認知症予防プログラムを紹介。</desc>
+  <programme start="20211223204500 +0900" stop="20211223210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211223210000 +0900" stop="20211223220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽新型コロナ最新情報“新型ヤミ金”コロナ失業者狙う新手の犯罪▽子宮頸（けい）がんワクチン“未勧奨世代”救済は▽ソビエト連邦崩壊から３０年・民主主義が変容する国家</desc>
   </programme>
   <programme start="20211222204500 +0900" stop="20211222210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -666,9 +654,17 @@
     <title lang="en">バリバラ〜障害者情報バラエティー〜</title>
     <desc lang="en">便意・尿意のない女子たちが語る「おシモの話」▽排せつ方法から、恥ずかしい失敗談、人生の悩みを赤裸々トーク▽おシモトラブルを抱えて生きるってどういうこと？</desc>
   </programme>
-  <programme start="20211222190000 +0900" stop="20211222205400 +0900" channel="NipponTV.jp">
-    <title lang="en">ネオコロッセオ</title>
-    <desc lang="en">MC亀梨和也がジャニーズ事務所でトップクラスの運動神経をもつメンバーとともに、この夏日本中に感動を与えたメダリストと本気対決！一点集中特訓で大番狂わせなるか？</desc>
+  <programme start="20211223203000 +0900" stop="20211223204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">視聴者から寄せられた「認知症」に関する質問にお答えする。どうしたら病院に連れて行ける？軽度の認知症でも薬が必要？コロナ禍で家族にできることは？新薬の最新情報も。</desc>
+  </programme>
+  <programme start="20211223204500 +0900" stop="20211223210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211223210000 +0900" stop="20211223213000 +0900" channel="eTele.jp">
+    <title lang="en">イギリスで一番美しい庭 ダルメイン</title>
+    <desc lang="en">イギリスで一番美しいと称される庭は、湖水地方の１２世紀から続く屋敷ダルメインの庭。１１月、庭の草木でクリスマスの飾りを。ジェーンさん特製クリスマス・プディング！</desc>
   </programme>
   <programme start="20211222205400 +0900" stop="20211222210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなく今夜くらべてみました</title>
@@ -758,10 +754,14 @@
 令和のＮＥＷスター誕生の瞬間大会委員長・南原清隆「感動の歌声…」
 応援大使・ＤJ松永「レベル高過ぎ！」頂上決戦</desc>
   </programme>
-<programme start="20211222190000 +0900" stop="20211222205400 +0900" channel="Asahi.jp">
-  <title lang="en">くりぃむクイズ ミラクル9</title>
-  <desc lang="en">全勝キャプテン古田新太が仮面ライダーリバイスの前田拳太郎・映美くららを連れて参戦！高橋英樹、八嶋智人、すゑひろがりずらが集結し今年最後の２時間スペシャル！！</desc>
-</programme>
+  <programme start="20211223205400 +0900" stop="20211223210000 +0900" channel="NipponTV.jp">
+    <title lang="en">まもなくケンミンDX合体</title>
+    <desc lang="en">ケンミン…神戸激ウマ！豚まんＢＩＧ３登場＆大阪フミンとかんぴょう巻き爆笑㊙関係▽ＤＸ…東京の我が街は話題の激戦区！かたせ梨乃の広尾＆ＴＡＫＡＨＩＲＯの中目黒など</desc>
+  </programme>
+  <programme start="20211223210000 +0900" stop="20211223225400 +0900" channel="NipponTV.jp">
+    <title lang="en">秘密のケンミンSHOW極/ダウンタウンDX</title>
+    <desc lang="en">ケンミン…神戸激ウマ！豚まんＢＩＧ３登場＆大阪フミンとかんぴょう巻き爆笑㊙関係▽ＤＸ…東京祭り！中目黒ＥＸＩＬＥ豪華事務所潜入＆広尾かたせ梨乃パン爆買い＆武井壮</desc>
+  </programme>
 <programme start="20211222205400 +0900" stop="20211222210000 +0900" channel="Asahi.jp">
   <title lang="en">世界の街道をゆく</title>
   <desc lang="en">欧州の歴史と文化を繋ぐ道・フランス</desc>
@@ -1242,9 +1242,13 @@
   <desc lang="en">（延長の場合あり）
 北京五輪代表の座を懸けた戦いの幕が開く！坂本花織、宮原知子、三原舞依、樋口新葉、河辺愛菜ら予測不能の大混戦！！</desc>
 </programme>
-<programme start="20211222193000 +0900" stop="20211222200000 +0900" channel="Tokyo MX">
-  <title lang="en">ヒーリングっど プリキュア</title>
-  <desc lang="en">手と手でキュン！ハートつないで地球をお手当て！</desc>
+<programme start="20211223205400 +0900" stop="20211223210000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">クリスマスＳＰとなるクセスゴ歌謡祭の見どころ＆チョコプラ、ほしのディスコ×ジャンポケ斉藤ら出演芸人をご紹介！</desc>
+</programme>
+<programme start="20211223210000 +0900" stop="20211223215400 +0900" channel="FujiTV.jp">
+  <title lang="en">千鳥のクセがスゴいネタGP</title>
+  <desc lang="en">クリスマス特別編！友近どぶろっくの危険曲！ＩＮＩは生歌唱！伊藤沙莉はあの監督に激怒！？とろサー久保田に異変！？</desc>
 </programme>
 <programme start="20211222200000 +0900" stop="20211222210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1449,6 +1453,10 @@
 <programme start="20211223200000 +0900" stop="20211223210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">オミクロン株に危惧　最新情報は？▼世田谷区保坂区長が生出演　ワクチン３回目接種・第６波対策は</desc>
+</programme>
+<programme start="20211223210000 +0900" stop="20211223215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">梅沢富美男＆金村義明が人生を説く！ＭＣは「新・東京　夜の顔」ふかわりょう＆大島由香里。人生をダンディに語らう１時間。ジュークボックスを修理する電気店に密着</desc>
 </programme>
 <programme start="20211221235000 +0900" stop="20211222001000 +0900" channel="FujiNext.jp">
 <title lang="en">純喫茶に恋をして　17　神奈川県大和 純喫茶「フロリダ」</title>
@@ -2250,7 +2258,7 @@ https//otn.fujitv.co.jp
 <programme start="20211222201500 +0900" stop="20211222210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 17　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211222/7161024/image/866c2a601b3eb9c28f8ad7a1f7e0f451.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211222210000 +0900" stop="20211222220000 +0900" channel="kbsworld.jp">
