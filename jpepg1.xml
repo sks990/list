@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211223135500 +0900" stop="20211223140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、能條貴大、原川愛、戸塚寛子、杉井勇介</desc>
-  </programme>
-  <programme start="20211223140000 +0900" stop="20211223140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211223140500 +0900" stop="20211223145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あてなよる</title>
-    <desc lang="en">今夜は夏野菜の代表選手ピーマン尽くしの飲み会！ワインエキスパートでもある早見優も感激のお酒も続々と！暑い夏をピーマンでさわやかに乗り切りましょう！</desc>
-  </programme>
   <programme start="20211223145000 +0900" stop="20211223150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">「難民認定を却下された外国人に、裁判を受ける機会を与えず強制送還したのは憲法違反」という判決。現行の入管制度の問題点と、入管法改正について考える。</desc>
@@ -362,17 +350,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211223135500 +0900" stop="20211223140000 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 献立帳</title>
-    <desc lang="en">「酢あえ」は、ご住職にとっては、母が正月につくった懐かしの味。保存のため酢を使うが、火を通すためにまろやかになり、ほかの正月料理とはちょっと違った味わいに。</desc>
+  <programme start="20211224140500 +0900" stop="20211224145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">京コトはじめ</title>
+    <desc lang="en">京都では各家庭に「ハレの日のごちそう」が伝わってきた。おせち・白みその雑煮・サバずしなどから、日常の食材をごちそうに昇華していった人々の知恵と工夫をひもとく。</desc>
   </programme>
-  <programme start="20211223140000 +0900" stop="20211223142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 科学と人間生活</title>
-    <desc lang="en">身の回りの自然や暮らしを糸口に、科学を楽しく解き明かしていきます。今回のテーマは「太陽系の中の地球と月」太陽暦と太陰暦、満潮と干潮、大潮・小潮について学びます。</desc>
+  <programme start="20211224145000 +0900" stop="20211224150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">北海道から東北にかけての千島海溝や日本海溝で巨大地震が起きた時の被害想定がまとまった。最悪の場合、死者が１９万人を超えるという被害をどう小さくするのか、考える。</desc>
   </programme>
-  <programme start="20211223142000 +0900" stop="20211223144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 芸術</title>
-    <desc lang="en">今回のテーマは「映像」。テレビや映画などの媒体で表現される映像は、アートの重要な分野のひとつだ。映像の持つ特性や可能性について考えていく。</desc>
+  <programme start="20211224150000 +0900" stop="20211224150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211223144000 +0900" stop="20211223150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 家庭総合</title>
@@ -694,6 +682,18 @@
     <title lang="en">NHK高校講座 日本史</title>
     <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
   </programme>
+  <programme start="20211224142000 +0900" stop="20211224144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 世界史</title>
+    <desc lang="en">２０世紀の二つの世界大戦によってヨーロッパ列強が疲弊すると、その植民地だったアジアで民族独立の運動が高まります。インドを中心にアジアの独立の歴史をひもときます。</desc>
+  </programme>
+  <programme start="20211224144000 +0900" stop="20211224150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地理</title>
+    <desc lang="en">地球上で起きているあらゆる事柄は、「地理」の知識で理解することができます。さぁ一緒に「地理」の知識を深め、世の中の謎を調査・分析！新たな発見をしていきましょう。</desc>
+  </programme>
+  <programme start="20211224150000 +0900" stop="20211224153000 +0900" channel="eTele.jp">
+    <title lang="en">囲碁フォーカス</title>
+    <desc lang="en">大西竜平七段の講座は「石の強さをジャッジ！逆転の手筋」。今回は「隅の三目は形を崩そう」。「フォーカス・オン」は「第４６期名人戦七番勝負を振り返る」。</desc>
+  </programme>
   <programme start="20211223135500 +0900" stop="20211223155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">韓国激震大統領選スキャンダル合戦過熱！４人に１人「投票に影響」何が▽上皇さまきょう米寿▽北日本大荒れ…週末大寒波の最新情報は</desc>
@@ -941,6 +941,10 @@
 <programme start="20211224135400 +0900" stop="20211224144500 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女14</title>
   <desc lang="en">「毛髪鑑定を拒否する舞妓妻！ブラウス姿に日本髪の女の謎‼」沢口靖子(他)▽ブラウス姿に日本髪を結った女性が殺害された。彼女が日本髪を結った理由は何だったのか？</desc>
+</programme>
+<programme start="20211224144500 +0900" stop="20211224153800 +0900" channel="Asahi.jp">
+  <title lang="en">緊急取調室2</title>
+  <desc lang="en">「７７歳孤独な女の哀しい告白 私、人を殺しました」天海祐希(他)▽若い男性配達員が毒殺され、天涯孤独の地味な老女が自首してきた。しかし、状況証拠は不十分で…</desc>
 </programme>
 <programme start="20211223135500 +0900" stop="20211223154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -1204,10 +1208,6 @@
   <title lang="en">午後のロードショー</title>
   <desc lang="en">ペルーからロンドンにやってきた紳士すぎるクマ、初めての都会暮らしで大騒動連発！パディントンが世界中を笑顔に変える、ハッピーエンターテインメント！</desc>
 </programme>
-<programme start="20211223115500 +0900" stop="20211223144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">一体何が？後藤久美子の夫ジャン・アレジ氏一時拘束…事務所を爆竹で破損か▽大阪府で市中感染…オミクロン株どう対策？▽綾小路きみまろの毒舌芸にクレーム！？</desc>
-</programme>
 <programme start="20211223144500 +0900" stop="20211223154500 +0900" channel="FujiTV.jp">
   <title lang="en">イチケイのカラス</title>
   <desc lang="en">自由奔放な裁判員たちに振り回されて困り果てるイチケイメンバー…一体どうなる！？裁判員裁判スタート！▽型破り裁判官×堅物エリート裁判官のリーガルドラマ！</desc>
@@ -1317,17 +1317,9 @@
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20211223135500 +0900" stop="20211223140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211223140000 +0900" stop="20211223143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211223143000 +0900" stop="20211223145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211224144500 +0900" stop="20211224154500 +0900" channel="FujiTV.jp">
+  <title lang="en">イチケイのカラス</title>
+  <desc lang="en">大波乱の最終回につづく事件発生！被告人は訳ありホームレス！嘘だらけの法廷…謎が謎を呼んでいく！その裏に隠された切ない真実とは？一体どうなる…入間みちお</desc>
 </programme>
 <programme start="20211223145900 +0900" stop="20211223150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -1519,6 +1511,10 @@
 </programme>
 <programme start="20211224135900 +0900" stop="20211224150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211224150000 +0900" stop="20211224153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211223000000 +0900" stop="20211223010000 +0900" channel="FujiNext.jp">
