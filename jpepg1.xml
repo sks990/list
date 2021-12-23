@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211224045000 +0900" stop="20211224050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">北海道から東北にかけての千島海溝や日本海溝で巨大地震が起きた時の被害想定がまとまった。最悪の場合、死者が１９万人を超えるという被害をどう小さくするのか、考える。</desc>
-  </programme>
   <programme start="20211224050000 +0900" stop="20211224060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼大阪・放火事件から１週間　わかってきた容疑者の行動　▼子どもの貧困　初の全国調査　▼風疹予防接種　働きかけを国に申し入れ　▼フィギュア羽生　今シーズン初戦へ</desc>
@@ -338,9 +334,25 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211224003000 +0900" stop="20211224053000 +0900" channel="eTele.jp">
+  <programme start="20211225051000 +0900" stop="20211225051500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">香取慎吾さん主演「倫敦ノ山本五十六」３０（木）夜１０時放送！真珠湾攻撃の作戦を指揮した海軍提督・山本五十六の物語を、太平洋戦争から８０年となる今年お届けします。</desc>
+  </programme>
+  <programme start="20211225051500 +0900" stop="20211225054000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うまいッ!</title>
+    <desc lang="en">白い肌と上品な甘みが特徴の「京こかぶ」は京料理に欠かせない高級野菜。コロナ禍で苦境の農家が取り組んだ大胆な試みとは？あなたも作れる豪華京こかぶ料理も紹介します！</desc>
+  </programme>
+  <programme start="20211225054000 +0900" stop="20211225055000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK映像ファイル あの人に会いたい</title>
+    <desc lang="en">平成１３年に亡くなった朝比奈隆さん。風格ある指揮とカリスマ的な存在感で、日本が世界に誇る巨匠。９３歳まで舞台に立ち続け、世界最高齢の現役指揮者として知られた。</desc>
+  </programme>
+  <programme start="20211225055000 +0900" stop="20211225060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20211225060000 +0900" stop="20211225063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20211224053000 +0900" stop="20211224060000 +0900" channel="eTele.jp">
     <title lang="en">アラビーヤ・シャベリーヤ!</title>
@@ -666,9 +678,13 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211224043000 +0900" stop="20211224055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽20代女性「市中感染」京都でも▽尾身会長「複数の地点で感染始まっている」▽シミ消える「無断ネット広告」ナゼ？</desc>
+  <programme start="20211225053000 +0900" stop="20211225055500 +0900" channel="eTele.jp">
+    <title lang="en">レイチェルのおいしい旅レシピ</title>
+    <desc lang="en">イギリス出身のフードライター兼料理人のレイチェル・クーが、ヨーロッパ各地の食文化を紹介、それをヒントにレイチェル流料理を披露する。イタリア・アマルフィが舞台。</desc>
+  </programme>
+  <programme start="20211225055500 +0900" stop="20211225062500 +0900" channel="eTele.jp">
+    <title lang="en">ターシャの森から</title>
+    <desc lang="en">クリスマスと同じくらい楽しいのがクリスマスの準備。アドベントカレンダーを作り、特別なケーキを焼き、ターシャから受け継いだツリーのオーナメントの箱を開けると…</desc>
   </programme>
   <programme start="20211224055000 +0900" stop="20211224080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -758,6 +774,18 @@
   <programme start="20211225045000 +0900" stop="20211225052000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
+  </programme>
+  <programme start="20211225052000 +0900" stop="20211225052500 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">大ヒット上映中「あなたの番です劇場版」。日本中に考察ブームを巻き起こした「あな番」ワールド満載!原田知世＆田中圭▽大ヒットだから、ネタバレありで言っちゃうよ！</desc>
+  </programme>
+  <programme start="20211225052500 +0900" stop="20211225053000 +0900" channel="NipponTV.jp">
+    <title lang="en">笑う大晦日</title>
+    <desc lang="en">今年の大晦日は笑っていい！ネタの祭典！！お笑い界を代表するＭＣの元に人気芸人・豪華ゲストが大集合！！ネタにトークに何が起こるかわからない６時間生放送！</desc>
+  </programme>
+  <programme start="20211225053000 +0900" stop="20211225080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ズームイン!!サタデー</title>
+    <desc lang="en">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタいち押し！</desc>
   </programme>
 <programme start="20211224045500 +0900" stop="20211224080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -872,10 +900,14 @@
   <title lang="en">良心の実弾〜医師・中村哲が遺したもの</title>
   <desc lang="en">2019年、アフガニスタンで凶弾に倒れた福岡市の医師・中村哲さん。彼の人道支援は人々の心を揺さぶる。活動仲間、友人、家族、関わった多くの人が「中村哲」の生き方を語る</desc>
 </programme>
-<programme start="20211224043000 +0900" stop="20211224052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
-ニュースも天気も充実</desc>
+<programme start="20211225055000 +0900" stop="20211225060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20211225060000 +0900" stop="20211225080000 +0900" channel="Asahi.jp">
+  <title lang="en">週刊ニュースリーダー</title>
+  <desc lang="en">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
+城島茂が各界のリーダーを現場取材します！</desc>
 </programme>
 <programme start="20211224052000 +0900" stop="20211224080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
@@ -967,12 +999,13 @@
   <desc lang="en">通販番組（ＴＶショッピング）
 </desc>
 </programme>
-<programme start="20211224042300 +0900" stop="20211224054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20211225051500 +0900" stop="20211225053000 +0900" channel="TBS2.jp">
+  <title lang="en">皇室アルバム</title>
+  <desc lang="en">『上皇さま　米寿を迎えられて』</desc>
+</programme>
+<programme start="20211225053000 +0900" stop="20211225073000 +0900" channel="TBS2.jp">
+  <title lang="en">まるっと!サタデー</title>
+  <desc lang="en">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
 </programme>
 <programme start="20211224054500 +0900" stop="20211224070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1144,9 +1177,13 @@
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20211224045500 +0900" stop="20211224052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20211225053000 +0900" stop="20211225060000 +0900" channel="TVTokyo.jp">
+  <title lang="en">あさモヤさまぁ〜ず2</title>
+  <desc lang="en">山田を歩いているとかなり急な坂道を発見。とれ高を稼ぐために田中アナが全力坂をやってみるがあっさりとクリア。続いて大竹・三村も挑戦するのだが悲劇が待っていて…</desc>
+</programme>
+<programme start="20211225060000 +0900" stop="20211225065400 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
 </programme>
 <programme start="20211224052500 +0900" stop="20211224080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1242,13 +1279,17 @@
   <desc lang="en">「人生１００年時代の人生観」
 藤原和博（教育改革実践家）</desc>
 </programme>
-<programme start="20211224043000 +0900" stop="20211224050000 +0900" channel="Tokyo MX">
-  <title lang="en">YUMENOHANASHI</title>
-  <desc lang="en"> </desc>
+<programme start="20211225052200 +0900" stop="20211225053000 +0900" channel="FujiTV.jp">
+  <title lang="en">ぼのぼの</title>
+  <desc lang="en">「おとうさんたちの年忘れ」</desc>
 </programme>
-<programme start="20211224050000 +0900" stop="20211224053000 +0900" channel="Tokyo MX">
-  <title lang="en">U字工事の旅!発見</title>
-  <desc lang="en">足利の喫茶店</desc>
+<programme start="20211225053000 +0900" stop="20211225060000 +0900" channel="FujiTV.jp">
+  <title lang="en">週刊フジテレビ批評</title>
+  <desc lang="en">年末企画「放送作家が語る２０２１ベスト番組」新番組・新企画が次々に登場！今年の地上波で一番面白かったシーンは？あの大型特番の評価は？今の視聴者が求めている演出</desc>
+</programme>
+<programme start="20211225060000 +0900" stop="20211225083000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましどようび</title>
+  <desc lang="en">めざましどようびニュース＆スポーツを１週間まとめチェック▽今週のエンタメ全見せ未公開＆舞台裏映像▽週末おすすめスポット▽出演者が挑戦！じゃんけん２回＆占い</desc>
 </programme>
 <programme start="20211224053000 +0900" stop="20211224060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1434,6 +1475,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211225053000 +0900" stop="20211225060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211225060000 +0900" stop="20211225063000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211223233000 +0900" stop="20211224010000 +0900" channel="FujiNext.jp">
 <title lang="en">翔太さまと執事西山のオタワムレ リッチエディション</title>
 <desc>＜MC＞蒼井翔太　西山宏太郎
@@ -1476,7 +1525,7 @@
 <title lang="en">鎧美女　74　　歴史と甲冑の“紐を解く”</title>
 <desc>「甲冑足利尊氏」「美女茜紬うた」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7199934/image/62832963787cbfe07d17f083ad3e4d20.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211224060000 +0900" stop="20211224081500 +0900" channel="FujiNext.jp">
@@ -1628,7 +1677,7 @@
 <desc>薄着の女子たちによる新世代ゲーム実況番組!!!
 ＜出演＞RaMu　大貫彩香　小島みゆ　相沢菜々子
 ＜実況＞大村晟　藤井弘輝
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7200005/image/d2ad19a212eb172738e4c18c32017199.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211224060000 +0900" stop="20211224070000 +0900" channel="FujiOne.jp">
@@ -1924,7 +1973,7 @@ https//otn.fujitv.co.jp
 <programme start="20211224053000 +0900" stop="20211224060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7199797/image/3852c6041b5e5fdee10408116fc07361.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211224060000 +0900" stop="20211224071000 +0900" channel="FujiTwo.jp">
@@ -2156,7 +2205,7 @@ https//otn.fujitv.co.jp
 <programme start="20211224050000 +0900" stop="20211224060000 +0900" channel="kbsworld.jp">
 <title lang="en">生き生き情報　[字][再]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7161744/image/6656f3768785e8e17da94b6baf784f63.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211224060000 +0900" stop="20211224070000 +0900" channel="kbsworld.jp">
