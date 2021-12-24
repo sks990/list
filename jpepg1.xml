@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211225025700 +0900" stop="20211225035700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">このドキュメンタリーがヤバい!</title>
-    <desc lang="en">震災前の２００５年から１６年にわたって仙台・荒浜という半農半漁の地域を記録し続けた。大漁と豊作をもたらす風＜イナサ＞とともに暮らしてきた人々を見つめる。</desc>
-  </programme>
   <programme start="20211225035700 +0900" stop="20211225040800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">大空撮!ヒマラヤ山脈</title>
     <desc lang="en">山岳用の特別な小型機を使って８０００ｍ峰が連なるヒマラヤ山脈を上空から撮影した。ネパール第２の都市ポカラから豊饒（じょう）の女神を意味するアンナプルナに向かう。</desc>
@@ -295,6 +291,10 @@
     <desc lang="en">【年末年始はイッキ見！】をご覧の皆さんにお届けする１分ドラマ「イッキ見！ラブストーリー」のスピンオフ。イッキ（佐藤寛太）とキミ（馬場ふみか）２人の恋愛の行方は？</desc>
   </programme>
   <programme start="20211226022800 +0900" stop="20211226031700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">BS世界のドキュメンタリー</title>
+    <desc lang="en">世界中の人々に今も愛されているミッキーマウスの生みの親、ウォルト・ディズニー。独自の感性で一大エンターテインメント王国を築いた天才の知られざる人生を描くシリーズ</desc>
+  </programme>
+  <programme start="20211226031700 +0900" stop="20211226040600 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">BS世界のドキュメンタリー</title>
     <desc lang="en">世界中の人々に今も愛されているミッキーマウスの生みの親、ウォルト・ディズニー。独自の感性で一大エンターテインメント王国を築いた天才の知られざる人生を描くシリーズ</desc>
   </programme>
@@ -676,24 +676,10 @@
     <title lang="en">Hulu傑作シアター</title>
     <desc lang="en">レズビアンたちの日常を赤裸々に描いた人気作「Lの世界」の10年後を描いた「Lの世界 ジェネレーションQ」を特集！▼「未来世紀SHIBUYA」徹底解剖SPを放送！</desc>
   </programme>
-<programme start="20211225024000 +0900" stop="20211225031000 +0900" channel="Asahi.jp">
-  <title lang="en">BeauTV 〜VOCE ビューティーヴィー</title>
-  <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
-今回は、キレイを楽しむ冬ビューティー！</desc>
-</programme>
-<programme start="20211225031000 +0900" stop="20211225033000 +0900" channel="Asahi.jp">
-  <title lang="en">新日ちゃんぴおん。</title>
-  <desc lang="en">第９試合となる今夜は…ここだけを見て！鷹木信悟編　番組Twitterでファンの皆さんにアンケート！ファンが選ぶ好きな技・仕草・試合など鷹木選手の見所を紹介！</desc>
-</programme>
-<programme start="20211225033000 +0900" stop="20211225035000 +0900" channel="Asahi.jp">
-  <title lang="en">あるある土佐カンパニー2</title>
-  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
-</programme>
-<programme start="20211225035000 +0900" stop="20211225035500 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">１２／２９（水）よる７時からは『ナスＤ大冒険ＴＶ 年末４時間半ＳＰ 無人島で２泊３日０円生活』
-フィッシャーズVS井上咲楽VSバイきんぐ西村VSナスＤ　無人島生活で激突</desc>
-</programme>
+  <programme start="20211226035900 +0900" stop="20211226045900 +0900" channel="NipponTV.jp">
+    <title lang="en">通販の女王アン・ミカ ゼヒモノSP</title>
+    <desc lang="en">あらゆる商品に精通した通販の女王アンミカがメーカーおススメの「ゼヒモノ」商品を一刀両断！果たして女王アンミカから認定はもらえるのか？</desc>
+  </programme>
 <programme start="20211225035500 +0900" stop="20211225040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
@@ -847,17 +833,9 @@
   <title lang="en">SBS歌謡大祭典2019</title>
   <desc lang="en">年末恒例の特大K-POP番組「SBS歌謡大祭典」！BTSがクリスマスソングメドレーを！TOMORROW X TOGETHER、ITZYも！まさに神回！動画配信サービス『TELASA（テラサ）』特別編！</desc>
 </programme>
-<programme start="20211225024500 +0900" stop="20211225031500 +0900" channel="TBS2.jp">
-  <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
-  <desc lang="en">◆ＳＴＡＧＥ１３「シャーリーと銃口」▼スザクの操るランスロットと一騎打ちとなるが、その最中、居るはずのないシャーリーの姿を見るルルーシュ……。</desc>
-</programme>
-<programme start="20211225031500 +0900" stop="20211225032700 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!プラス</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
-</programme>
-<programme start="20211225032700 +0900" stop="20211225035000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20211226040000 +0900" stop="20211226040500 +0900" channel="Asahi.jp">
+  <title lang="en">CSテレ朝ナビ!!</title>
+  <desc lang="en">テレビ朝日のＣＳ放送の魅力をお届けする番組！アニメ、ドラマ、バラエティ、スポーツ、ニュース…毎日見られる「ドラえもん」など盛りだくさん‼見逃せない番組をご紹介！</desc>
 </programme>
 <programme start="20211225035000 +0900" stop="20211225040000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -983,13 +961,14 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211225024500 +0900" stop="20211225031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">流派-R since2001</title>
-  <desc lang="en">R-FeatureONE　in　a　Billion▼VIEWSMatt　Cab×BLOOM　VASE／SugLawd　Familiar▼MY　CLASSICS　newサイプレス上野　Rei🄫hi</desc>
+<programme start="20211226035000 +0900" stop="20211226040000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ボクシング井岡一翔世界戦、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211225031500 +0900" stop="20211225033000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">２.５次元舞台を中心に活躍する人気俳優たちが出演！「映画演劇　サクセス荘　〜侵略者Sと西荻窪の奇跡〜」。今夜は映画オリジナルグッズをご紹介します！！</desc>
+<programme start="20211226040000 +0900" stop="20211226043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20211225033000 +0900" stop="20211225040000 +0900" channel="TVTokyo.jp">
   <title lang="en">音流〜ONRYU〜</title>
@@ -1164,13 +1143,13 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
 </programme>
-<programme start="20211225012500 +0900" stop="20211225032500 +0900" channel="FujiTV.jp">
-  <title lang="en">明石家サンタの史上最大のクリスマスプレゼントショー2021</title>
-  <desc lang="en">聖夜に不幸話で大爆笑！激動の芸能界話題のあの有名人からも生電話！？今年も豪華賞品が当たる不幸話電話を生放送で大募集！予測不能、怒涛の２時間生放送！！</desc>
+<programme start="20211226030500 +0900" stop="20211226031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
 </programme>
-<programme start="20211225032500 +0900" stop="20211225035500 +0900" channel="FujiTV.jp">
-  <title lang="en">爆チュー問題のクリスマスプレゼント</title>
-  <desc lang="en">爆チュー問題がゆかいな仲間たちとお届けするクリスマススペシャルコントダイジェストでお見せします！イブの夜に“ぴかり”と“たなチュー”からメッセージも！！</desc>
+<programme start="20211226031500 +0900" stop="20211226040000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20211225035500 +0900" stop="20211225042500 +0900" channel="FujiTV.jp">
   <title lang="en">次ナルTV-S</title>
@@ -1292,14 +1271,6 @@
 <programme start="20211226020000 +0900" stop="20211226041500 +0900" channel="FujiTV.jp">
   <title lang="en">ダイ・ハード4.0</title>
   <desc lang="en">ブルース・ウィリス主演の大ヒットアクション第４弾！全米を大パニックに陥れるサイバー・テロに不死身の男が挑む！</desc>
-</programme>
-<programme start="20211225023500 +0900" stop="20211225030500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211225030500 +0900" stop="20211225033500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20211225033500 +0900" stop="20211225040000 +0900" channel="Tokyo MX">
   <title lang="en">旅猫ロマン</title>
@@ -1513,6 +1484,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211226032900 +0900" stop="20211226035800 +0900" channel="Tokyo MX">
+  <title lang="en">真夜中のおバカ騒ぎ!</title>
+  <desc lang="en">２０２１年残念話！〜原口サンタの贈り物〜（後編）</desc>
+</programme>
+<programme start="20211226035800 +0900" stop="20211226042800 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211224230000 +0900" stop="20211225010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「the telephones」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『the telephones』の出演映像を選りすぐってお届け！
@@ -1528,7 +1507,7 @@
 <programme start="20211225030000 +0900" stop="20211225040000 +0900" channel="FujiNext.jp">
 <title lang="en">松本隆へきくちから！松本隆×筒美京平縛りセットリストで語る音楽雑談</title>
 <desc>『しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村』松本隆×筒美京平縛りで放送した17分58秒を可能な限りそのままの言葉で放送。『フォーク村』映像とともに完全版
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7199947/image/f2d641057a38e38822a4d63cbf6e0d30.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225040000 +0900" stop="20211225050000 +0900" channel="FujiNext.jp">
@@ -1706,7 +1685,7 @@
 <desc>『下賀茂温泉編 後篇』
 撮影地石廊館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7200031/image/1ef8444984a0ea835b8e73a6a9e8b6ac.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225040000 +0900" stop="20211225041500 +0900" channel="FujiOne.jp">
