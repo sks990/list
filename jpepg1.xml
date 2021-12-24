@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211224204500 +0900" stop="20211224210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20211224210000 +0900" stop="20211224220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">オミクロン株市中感染拡大に備えて▽国内初コロナの飲み薬が承認審査へ▽“過去最大”新年度予算のポイントは？▽大阪・放火事件発生から一週間▽大谷翔平・通訳が語る今季</desc>
@@ -310,14 +306,6 @@
     <title lang="en">風の向こうへ駆け抜けろ</title>
     <desc lang="en">緑川厩舎が窮地に立つ。諦めない瑞穂（平手友梨奈）の姿勢に心を動かされた光司（中村蒼）は、成績次第では地方の所属馬でも挑むことができる桜花賞に狙いを定め挑む！</desc>
   </programme>
-  <programme start="20211224204500 +0900" stop="20211224210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20211224210000 +0900" stop="20211224215500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">今年古典芸能の分野で話題となった出来事を振り返る。コロナ影響まだ続く中での公演や、各地での動き、多くの業績を残した方々の情報を織田紘二さんのお話などでご紹介。</desc>
-  </programme>
   <programme start="20211224215500 +0900" stop="20211224220000 +0900" channel="eTele.jp">
     <title lang="en">365日の献立日記</title>
     <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
@@ -542,9 +530,17 @@
     <title lang="en">すくすく子育て</title>
     <desc lang="en">秘策はあるのか？多くの親が悩み苦しむ「イヤイヤ期」。なぜ子どもは「イヤ！」と言い出すのか？専門家とともに、親はどう対応したらいいのか考える。</desc>
   </programme>
-  <programme start="20211224205400 +0900" stop="20211224210000 +0900" channel="NipponTV.jp">
-    <title lang="en">まもなく金曜ロードショー</title>
-    <desc lang="en">世界中で大ヒットしたクリスマスコメディーの決定版！「ホーム・アローン」のみどころを映画大好き芸人・こがけんがお届け★“映画モノマネ”を交えて注目シーンもご紹介！</desc>
+  <programme start="20211225213000 +0900" stop="20211225215500 +0900" channel="eTele.jp">
+    <title lang="en">ウワサの保護者会</title>
+    <desc lang="en">尾木ママこと尾木直樹さんが、保護者と共に子育てや教育について語り合う『ウワサの保護者会』。今回は「子どもの怒り」について。わが子がイライラを爆発させたら…？</desc>
+  </programme>
+  <programme start="20211225215500 +0900" stop="20211225220000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする。今回は「あれっ？と思う人を見かけたら」。講師は認知症ケアの第一人者の介護士・和田行男さん。</desc>
+  </programme>
+  <programme start="20211225220000 +0900" stop="20211225225000 +0900" channel="eTele.jp">
+    <title lang="en">SWITCHインタビュー 達人達(たち)</title>
+    <desc lang="en">豪快にして繊細。迫力の存在感を放つ俳優・青木崇高と、日本を代表する絵本作家のひとり田島征三が世代をこえて創作や命について語り合う。共通点は…へそ曲がり屋さん？</desc>
   </programme>
   <programme start="20211224210000 +0900" stop="20211224225400 +0900" channel="NipponTV.jp">
     <title lang="en">金曜ロードショー</title>
@@ -827,6 +823,10 @@
   <title lang="en">池上彰のニュースそうだったのか!!</title>
   <desc lang="en">2021年も間もなく終わり。皆さんは「今の常識」にしっかりアップデートできていますか？テレビの前でぜひチェックを！</desc>
 </programme>
+<programme start="20211225215400 +0900" stop="20211225225500 +0900" channel="Asahi.jp">
+  <title lang="en">サタデーステーション</title>
+  <desc lang="en">大雪警戒…週末から“強烈寒波”▽オミクロン株が拡大“濃厚接触者”急増▽“世界一幸せな国”フィンランド…コロナ禍の暮らしは▽フィギュア▽スノーボード(他)</desc>
+</programme>
 <programme start="20211224190000 +0900" stop="20211224230000 +0900" channel="TBS2.jp">
   <title lang="en">ザ・ベストワン</title>
   <desc lang="en">M-1戦士…決勝７組の勝負ネタ＆王者錦鯉極上ネタ披露！＆千鳥×鶴瓶×今田爆笑トーク
@@ -952,6 +952,15 @@
 <programme start="20211225185100 +0900" stop="20211225215400 +0900" channel="TBS2.jp">
   <title lang="en">お笑いアカデミー賞2021</title>
   <desc lang="en">🈑お笑い界を盛り上げた豪華芸人56人総出演！最優秀賞は誰の手に！？★超売れっ子過密＆多忙スケ密着★人気ドラマ芸人出演シーン大公開＆秘蔵映像★超巨大セットで運試し</desc>
+</programme>
+<programme start="20211225215400 +0900" stop="20211225220000 +0900" channel="TBS2.jp">
+  <title lang="en">和心百景</title>
+  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
+今回は、新潟『新潟漆器』　笛木優子</desc>
+</programme>
+<programme start="20211225220000 +0900" stop="20211225232400 +0900" channel="TBS2.jp">
+  <title lang="en">新・情報7daysニュースキャスター</title>
+  <desc lang="en">速報！クリスマス寒波…各地で大雪◆東京・大阪・京都で市中感染◆岸田首相の聞く力？アベノマスク廃棄へ◆五輪・災害…２０２１年あの現場は今◆サンタ姿のペンギン大行進</desc>
 </programme>
 <programme start="20211224195500 +0900" stop="20211224220300 +0900" channel="TVTokyo.jp">
   <title lang="en">所さんの学校では教えてくれないそこんトコロ!</title>
@@ -1130,14 +1139,20 @@
   <title lang="en">出没!アド街ック天国</title>
   <desc lang="en">今年最後のアド街は今またブーム到来の「浅草」２時間SP！▽着物女子増殖中＆イケメン人力車▽最新スイーツvs老舗美味▽町中華ブームの総本山▽全国最強パワースポット</desc>
 </programme>
-<programme start="20211224190000 +0900" stop="20211224210400 +0900" channel="FujiTV.jp">
-  <title lang="en">全日本フィギュアスケート選手権2021</title>
-  <desc lang="en">１０分放送を延長してお送りします
-世界最高レベルの五輪代表争い最終決戦！五輪連覇の英雄・羽生結弦はシーズン初演技！今季好調の宇野昌磨＆鍵山優真！</desc>
+<programme start="20211225214800 +0900" stop="20211225215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">生きるを伝える</title>
+  <desc lang="en">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
 </programme>
-<programme start="20211224210400 +0900" stop="20211224211000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">中村勘九郎の長男・勘太郎が９歳で挑む「連獅子」。その逸話さながらの厳しい稽古に勘太郎は…？年末恒例の密着ドキュメントは夜９時から。そのみどころをお送りする。</desc>
+<programme start="20211225215400 +0900" stop="20211225220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">土曜名馬座</title>
+  <desc lang="en">◆第二百十八夜「アップセット」
+人々の記憶に残る、名馬たちの活躍を
+当時のエピソードなどを交えて紹介する。
+俳優・仲村トオルが語る名馬物語………</desc>
+</programme>
+<programme start="20211225220000 +0900" stop="20211225223000 +0900" channel="TVTokyo.jp">
+  <title lang="en">新美の巨人たち</title>
+  <desc lang="en">東京女子大学「礼拝堂」降り注ぐ光の宴！美しきステンドグラスの秘密とは？日本近代建築の父と謳われたアントニン・レーモンドが残した極上の建築群を内田有紀が巡ります。</desc>
 </programme>
 <programme start="20211224211000 +0900" stop="20211224230200 +0900" channel="FujiTV.jp">
   <title lang="en">密着!中村屋ファミリー</title>
@@ -1269,13 +1284,9 @@
   <desc lang="en">（延長の場合あり）
 大混戦の五輪代表争いが遂に決着！坂本花織、樋口新葉、河辺愛菜、宮原知子、三原舞依…夢舞台への切符を掴むのは！？</desc>
 </programme>
-<programme start="20211224200000 +0900" stop="20211224210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">小池知事会見…全国で市中感染相次ぐオミクロン株の最新情報は？▼クリスマスイブ…水族館に“サンタダイバー”▼日に日に寒くなる東京…“クリスマス寒波”は⁉</desc>
-</programme>
-<programme start="20211224210000 +0900" stop="20211224215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">今年ラスト！ゲストは怒髪天・増子直純！金曜テーマは「エンタメ・遊び」。【DANDY Salon】大人が知っておくべき話題をトーク！【DANDY Academy】パチ怪獣の世界をご案内</desc>
+<programme start="20211225211500 +0900" stop="20211225232500 +0900" channel="FujiTV.jp">
+  <title lang="en">土曜プレミアム</title>
+  <desc lang="en">爆笑！明石家さんまと伝説の英語禁止ゴルフ▽菅田将暉とキャンプ！氷水でびしょ濡れ＆ザリガニ掴み＆カレー調理対決！</desc>
 </programme>
 <programme start="20211224215400 +0900" stop="20211224220000 +0900" channel="Tokyo MX">
   <title lang="en">鬼頭明里×監督「キミとフィットボクシング」スペシャル対談</title>
@@ -1496,6 +1507,14 @@
 <programme start="20211225210000 +0900" stop="20211225213000 +0900" channel="Tokyo MX">
   <title lang="en">キングオブモルックのモルック大作戦!!</title>
   <desc lang="en">おそらく世界初のモルック番組！クリスマスの今夜はサンタコスのＡＫＢ４８チーム！前回の完封負けの屈辱を晴らすべく、茂木が新たなメンバーを引き連れやってくるゾ！</desc>
+</programme>
+<programme start="20211225213000 +0900" stop="20211225220000 +0900" channel="Tokyo MX">
+  <title lang="en">音ボケPOPS</title>
+  <desc lang="en">乃木坂46金川紗耶と矢久保美緒が、「Time flies」に収録されたお気に入りの楽曲を、MC中川翔子と、庄司智春（品川庄司）、高田夏帆に紹介！Billboard POPS PICKも！</desc>
+</programme>
+<programme start="20211225220000 +0900" stop="20211225223000 +0900" channel="Tokyo MX">
+  <title lang="en">最果てのパラディン</title>
+  <desc lang="en">死者の街で生きた少年は聖騎士（パラディン）への道を歩み出す</desc>
 </programme>
 <programme start="20211223233000 +0900" stop="20211224010000 +0900" channel="FujiNext.jp">
 <title lang="en">翔太さまと執事西山のオタワムレ リッチエディション</title>
@@ -2104,7 +2123,7 @@ https//otn.fujitv.co.jp
 <programme start="20211224200000 +0900" stop="20211224220000 +0900" channel="FujiTwo.jp">
 <title lang="en">ATEEZ WORLD TOUR THE FELLOWSHIP</title>
 <desc>K-POPアーティスト「ATEEZ」が、2020年2月に韓国ソウルで開催した単独公演。インタビューも収録したフジテレビTWOオリジナルバージョンをお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7199814/image/56b7f29c5e6e83c0cb416088ca41cdf6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211224220000 +0900" stop="20211224223000 +0900" channel="FujiTwo.jp">
@@ -2321,7 +2340,7 @@ https//otn.fujitv.co.jp
 <programme start="20211224210000 +0900" stop="20211224220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211224/7161761/image/46484b5813125f034c7b83b35a9bb4d9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211224220000 +0900" stop="20211224234000 +0900" channel="kbsworld.jp">
