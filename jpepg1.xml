@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211225055000 +0900" stop="20211225060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211225060000 +0900" stop="20211225063000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">▼オミクロン株・各地で市中感染　東京でも初確認▼コロナ飲み薬を承認▼沖縄・世界自然遺産の西表島　現地調査で地図にない新たな発見が！</desc>
-  </programme>
   <programme start="20211225063000 +0900" stop="20211225070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼数年に一度クラスの強い寒気・日本海側中心に大雪のおそれ▼ソビエト崩壊から３０年・再び強まる言論統制　“スパイ”のレッテル貼られたジャーナリストの闘い</desc>
@@ -322,21 +314,29 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211225055500 +0900" stop="20211225062500 +0900" channel="eTele.jp">
-    <title lang="en">ターシャの森から</title>
-    <desc lang="en">クリスマスと同じくらい楽しいのがクリスマスの準備。アドベントカレンダーを作り、特別なケーキを焼き、ターシャから受け継いだツリーのオーナメントの箱を開けると…</desc>
+  <programme start="20211226061000 +0900" stop="20211226064000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">目撃!にっぽん</title>
+    <desc lang="en">世界最大級の四尺玉花火で有名な新潟の「片貝まつり」。二年連続の中止を受け町の成人が動きだした。“大人の仲間入り”を果たす「成人花火」をことしこそ！奮闘の物語。</desc>
   </programme>
-  <programme start="20211225062500 +0900" stop="20211225063500 +0900" channel="eTele.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、幅しげみ、原川愛、吉江晴菜、今井菜津美、新井庸太、石川裕平</desc>
+  <programme start="20211226064000 +0900" stop="20211226065000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">10分で巡る にっぽんの廃線</title>
+    <desc lang="en">「１０分で巡る　にっぽんの廃線」近畿。京都市電、大阪市電、阪神電鉄国道線、南海電鉄平野線、神戸市電、姫路市交通局モノレール線など、７路線を紹介します。</desc>
   </programme>
-  <programme start="20211225063500 +0900" stop="20211225064500 +0900" channel="eTele.jp">
-    <title lang="en">リトル・チャロ</title>
-    <desc lang="en">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。恩人のトモコの映画に出演するため再びニューヨークに戻った子犬のチャロの活躍を描く▽声斎藤アリーナ</desc>
+  <programme start="20211226065000 +0900" stop="20211226065300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK中央放送番組審議会</title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211225064500 +0900" stop="20211225065500 +0900" channel="eTele.jp">
-    <title lang="en">えいごであそぼ with Orton</title>
-    <desc lang="en">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+  <programme start="20211226065300 +0900" stop="20211226065500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211226065500 +0900" stop="20211226070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211226070000 +0900" stop="20211226074000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、日曜の名物・南さんの気象解説！</desc>
   </programme>
   <programme start="20211225065500 +0900" stop="20211225070000 +0900" channel="eTele.jp">
     <title lang="en">あそビーバー</title>
@@ -570,6 +570,18 @@
     <title lang="en">NHK短歌</title>
     <desc lang="en">選者佐伯裕子、ゲスト濱田龍臣（俳優）、小澤愛実（タレント）。テーマ「○○会」。忘年会やお別れ会、個性的なオリジナルの名前の会を詠む秘けつとは。司会小沢一敬</desc>
   </programme>
+  <programme start="20211226062500 +0900" stop="20211226063500 +0900" channel="eTele.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">多胡肇、細貝柊、舘野伶奈、矢作あかり、戸塚寛子、新井庸太、杉井勇介</desc>
+  </programme>
+  <programme start="20211226063500 +0900" stop="20211226070000 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">初心者向け俳句講座「ＮＨＫ俳句部」顧問は櫂未知子さん。部長は塚地武雅さん。部員はいとうまい子さん。題は「炭」俳句では料理用ではなく、暖をとるためのものを詠む。</desc>
+  </programme>
+  <programme start="20211226070000 +0900" stop="20211226070900 +0900" channel="eTele.jp">
+    <title lang="en">わらたまドッカ〜ン</title>
+    <desc lang="en">インスタントジョンソンとなすなかにしという、共に芸歴２０年を超えるベテランどうしの対戦！今回も９人の子どもがＶＴＲでネタを見て判定。ドッカ〜ンと笑わせるのは！？</desc>
+  </programme>
   <programme start="20211225053000 +0900" stop="20211225080000 +0900" channel="NipponTV.jp">
     <title lang="en">ズームイン!!サタデー</title>
     <desc lang="en">▽東京で初オミクロン株の市中感染▽BTS“Butter”今年人気第1位に▽JO1がXmasライブ▽熱過ぎ⁉尾上右近▽フィギュア羽生SP▽G丸＆石川Xmas秘話</desc>
@@ -712,10 +724,18 @@
     <title lang="en">皇室日記</title>
     <desc lang="en">12月に誕生日を迎えられた皇后さま、愛子さま、また上皇さまについてお伝えします。</desc>
   </programme>
-<programme start="20211225055000 +0900" stop="20211225060000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20211226061500 +0900" stop="20211226063000 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNニュース・サンデー</title>
+    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  </programme>
+  <programme start="20211226063000 +0900" stop="20211226070000 +0900" channel="NipponTV.jp">
+    <title lang="en">遠くへ行きたい</title>
+    <desc lang="en">今回は元ボクシング世界王者の内藤大助が静岡の浜名湖へ▽話題のマリンスポーツ▽触れずに奏でる楽器▽オリジナルマスク▽絶品「牡蠣カバ丼」▽ＡＩみかん▽黄金色の大黒様</desc>
+  </programme>
+  <programme start="20211226070000 +0900" stop="20211226073000 +0900" channel="NipponTV.jp">
+    <title lang="en">所さんの目がテン!</title>
+    <desc lang="en">もっと知って欲しい２０２１年の科学ニュースを紹介！▽ミジンコが天敵を欺くための能力とは▽小学生がカブトムシの常識を覆す発見▽パンダの模様は自然に溶け込みやすい？</desc>
+  </programme>
 <programme start="20211225060000 +0900" stop="20211225080000 +0900" channel="Asahi.jp">
   <title lang="en">週刊ニュースリーダー</title>
   <desc lang="en">「今週のニュース気になる人物１０」①東京でオミクロン株初の市中感染確認　②朴前大統領…恩赦へ＆妹が大統領選出馬へ</desc>
@@ -998,13 +1018,13 @@
   <title lang="en">バナナマンの早起きせっかくグルメ</title>
   <desc lang="en">お正月直前の特別企画！日村さんがグルメ探しで出会った全国の料理人の方々が地元ならではの「お雑煮」を紹介！全国から選りすぐりの絶品お雑煮をバナナマンさんが大満喫！</desc>
 </programme>
-<programme start="20211225053000 +0900" stop="20211225060000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あさモヤさまぁ〜ず2</title>
-  <desc lang="en">山田を歩いているとかなり急な坂道を発見。とれ高を稼ぐために田中アナが全力坂をやってみるがあっさりとクリア。続いて大竹・三村も挑戦するのだが悲劇が待っていて…</desc>
+<programme start="20211226064500 +0900" stop="20211226070000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20211225060000 +0900" stop="20211225065400 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
+<programme start="20211226070000 +0900" stop="20211226073000 +0900" channel="TBS2.jp">
+  <title lang="en">健康カプセル!ゲンキの時間</title>
+  <desc lang="en">いよいよ年の瀬。ゲンキな話題で年忘れ！「明るい！健康ニュース2021」をテーマに、驚きの健康対策や未来の医療など日本全国の健康にまつわる明るいニュースをご紹介</desc>
 </programme>
 <programme start="20211225065400 +0900" stop="20211225070000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1177,9 +1197,13 @@
   <title lang="en"></title>
   <desc lang="en">日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。</desc>
 </programme>
-<programme start="20211225053000 +0900" stop="20211225060000 +0900" channel="FujiTV.jp">
-  <title lang="en">週刊フジテレビ批評</title>
-  <desc lang="en">年末企画「放送作家が語る２０２１ベスト番組」新番組・新企画が次々に登場！今年の地上波で一番面白かったシーンは？あの大型特番の評価は？今の視聴者が求めている演出</desc>
+<programme start="20211226065400 +0900" stop="20211226070000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">１２／３０(木)放送「あさこ・梨乃の５万円旅　年末４ＨＳＰ」の見どころをご紹介します！</desc>
+</programme>
+<programme start="20211226070000 +0900" stop="20211226073000 +0900" channel="TVTokyo.jp">
+  <title lang="en">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+  <desc lang="en">忍のルールや仲間との関係になじめない自分は忍者に向いていないのでは、と思い始めるカワキ。そんなカワキに最後のチャンスとして、凪の国への護衛任務が言い渡される。</desc>
 </programme>
 <programme start="20211225060000 +0900" stop="20211225083000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましどようび</title>
@@ -1305,13 +1329,18 @@
   <title lang="en">FNNニュース</title>
   <desc lang="en">日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。</desc>
 </programme>
-<programme start="20211225053000 +0900" stop="20211225060000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211226061500 +0900" stop="20211226063000 +0900" channel="FujiTV.jp">
+  <title lang="en">GO!GO!チャギントン</title>
+  <desc lang="en">世界で大人気の鉄道ＣＧアニメ「チャギントン」！ナビゲーターつるの剛士・佐久間みなみアナ　他▽声小林由美子　他▽＃４８８「チャガー・オブ・ザ・イヤー」</desc>
 </programme>
-<programme start="20211225060000 +0900" stop="20211225063000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211226063000 +0900" stop="20211226070000 +0900" channel="FujiTV.jp">
+  <title lang="en">はやく起きた朝は…</title>
+  <desc lang="en">３人の重大ニュースを紹介し今年を締めくくります。▽リモートで放送事故▽ハナの写真コーナー▽人生はチャレンジの連続！
+〈出演〉松居直美・磯野貴理子・森尾由美</desc>
+</programme>
+<programme start="20211226070000 +0900" stop="20211226073000 +0900" channel="FujiTV.jp">
+  <title lang="en">ボクらの時代</title>
+  <desc lang="en">山田裕貴×遠藤憲一×勝地涼</desc>
 </programme>
 <programme start="20211225063000 +0900" stop="20211225070000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1529,6 +1558,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211226063000 +0900" stop="20211226070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211226070000 +0900" stop="20211226073000 +0900" channel="Tokyo MX">
+  <title lang="en">TAKARAZUKA CAFEBREAK</title>
+  <desc lang="en">東京宝塚劇場星組公演「柳生忍法帖」「モアー・ダンディズム！」に出演！男役の天華えまさんがご来店！</desc>
+</programme>
 <programme start="20211224230000 +0900" stop="20211225010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「the telephones」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『the telephones』の出演映像を選りすぐってお届け！
@@ -1563,7 +1600,7 @@
 <title lang="en">フジサンケイレディスクラシック黄金伝説　7「1996年 第15回大会」</title>
 <desc>15th フジサンケイレディスクラシック（1996年）「岡本綾子 ツアー通算60勝達成」
 ▽フジサンケイレディスクラシックの激闘の歴史をプレイバック！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211225/7199950/image/786c9acaa2e62383dfa4aa9ae2fb1911.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225070000 +0900" stop="20211225090000 +0900" channel="FujiNext.jp">
@@ -1768,7 +1805,7 @@
 <programme start="20211225060000 +0900" stop="20211225070000 +0900" channel="FujiOne.jp">
 <title lang="en">みんなの鉄道　31「豊肥本線」</title>
 <desc>31『豊肥本線』 JR日豊本線との接続駅「大分」から「豊後竹田」「阿蘇」を経由し、JR鹿児島本線との接続駅「熊本」へと至る、営業キロ148km、駅数36の路線
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211225/7200037/image/bf859bc93e3fee201c12e93cb836ea93.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225070000 +0900" stop="20211225073000 +0900" channel="FujiOne.jp">
@@ -2008,7 +2045,7 @@
 <title lang="en">番組PR【12月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211225/7199827/image/bb49a8febe7ca8d208f2fc72d960bbf7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225070000 +0900" stop="20211225081000 +0900" channel="FujiTwo.jp">
@@ -2229,7 +2266,7 @@ https//otn.fujitv.co.jp
 <programme start="20211225060000 +0900" stop="20211225070000 +0900" channel="kbsworld.jp">
 <title lang="en">歌謡舞台　[字]</title>
 <desc>１９８５年から２０年以上続いてきた長寿番組。郷愁が漂う想い出深い伝統歌謡、ブラウン管を離れた歌手の全盛期を再現、昔ながらの姿が見られる唯一の音楽番組。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211225/7164150/image/cee30d943120d62e24ac83201ea26017.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225070000 +0900" stop="20211225073000 +0900" channel="kbsworld.jp">
