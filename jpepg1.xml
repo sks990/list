@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211225130500 +0900" stop="20211225140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">青天を衝（つ）け</title>
-    <desc lang="en">栄一と兼子は、日米関係改善のため渡米。６０都市を特別列車で巡る“民間外交”に奔走する。そして、慶喜の伝記作りが大詰めを迎える中、慶喜は栄一に、ある言葉を伝える…</desc>
-  </programme>
   <programme start="20211225140500 +0900" stop="20211225150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">土曜スタジオパーク</title>
     <desc lang="en">ゲストは、主演の高橋一生さん。独特な役作りや制作秘話、衣装へのこだわりなど、見どころを伺います。癖のある共演者、市川猿之助さんらが不可思議エピソードを語ります。</desc>
@@ -310,9 +306,13 @@
     <title lang="en">男子第72回 全国高校駅伝</title>
     <desc lang="en">都道府県の予選を勝ち上がった高校生たちが年の瀬の京都を駆ける！</desc>
   </programme>
-  <programme start="20211225130000 +0900" stop="20211225140000 +0900" channel="eTele.jp">
-    <title lang="en">こころの時代〜宗教・人生〜</title>
-    <desc lang="en">コロナ禍に響く「コヘレトの言葉」。今回のテーマは「時」。バイデン米大統領も勝利演説で引用した「コヘレトの言葉」でも有名な「時の詩」をさまざまな角度から読み解く</desc>
+  <programme start="20211226145200 +0900" stop="20211226145500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20211226145500 +0900" stop="20211226155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">競馬</title>
+    <desc lang="en">年末の大レース、有馬記念▽ファン投票１位のエフフォーリア、このレースで引退のクロノジェネシスなど、ファンが選んだ競走馬が走る！パドックからレースまで全部見せます</desc>
   </programme>
   <programme start="20211225140000 +0900" stop="20211225150000 +0900" channel="eTele.jp">
     <title lang="en">TVシンポジウム</title>
@@ -518,9 +518,9 @@
     <title lang="en">日本の話芸</title>
     <desc lang="en">神田陽子さんの講談「五郎正宗孝子伝」をお送りします（令和３年９月２４日（金）収録）</desc>
   </programme>
-  <programme start="20211225133000 +0900" stop="20211225143000 +0900" channel="NipponTV.jp">
-    <title lang="en">世界一受けたい授業</title>
-    <desc lang="en">大反響の２授業をおさらい！▼高嶋ちさ子先生の型破りクラシック教室第三弾！豪華演奏で山崎育三郎とスペシャルコラボ！▼今すぐできる『太る人痩せる人』の違い教えます！</desc>
+  <programme start="20211226143000 +0900" stop="20211226152500 +0900" channel="eTele.jp">
+    <title lang="en">世界の教育コンテンツ 日本賞2021</title>
+    <desc lang="en">教育コンテンツの国際コンクール、日本賞。今年も１１の作品に賞が贈られました。今回はその中からギリシャのドキュメンタリー「ヨーロッパへの旅路」をご紹介します。</desc>
   </programme>
   <programme start="20211225143000 +0900" stop="20211225153000 +0900" channel="NipponTV.jp">
     <title lang="en">ニノさん</title>
@@ -675,6 +675,14 @@
     <title lang="en">We NiziU! TV 2</title>
     <desc lang="en">NiziUの魅力満載！待望の冠番組第２弾▽念願のUSJにNiziU大興奮！踊って、笑って、乗って…大はしゃぎ！▽パークの仲間たちと一緒にスペシャルパフォーマンス</desc>
   </programme>
+  <programme start="20211226144500 +0900" stop="20211226145500 +0900" channel="NipponTV.jp">
+    <title lang="en">「笑う大晦日」芸人緊急調査SP</title>
+    <desc lang="en">今年の大晦日は笑っていい！ネタの祭典！！お笑い界を代表するＭＣの元に人気芸人・豪華ゲストが大集合！！ネタにトークに何が起こるかわからない６時間生放送！</desc>
+  </programme>
+  <programme start="20211226145500 +0900" stop="20211226155500 +0900" channel="NipponTV.jp">
+    <title lang="en">しゃべくり007</title>
+    <desc lang="en"></desc>
+  </programme>
 <programme start="20211225133000 +0900" stop="20211225153000 +0900" channel="Asahi.jp">
   <title lang="en">おかしな刑事13</title>
   <desc lang="en">「居眠り刑事とエリート警視の父娘捜査　美しき女流作家の死〜消えた殺害現場と、空き巣の手口“三角破り”の接点・那須塩原〜向島を結ぶ運命の紅い帯」伊東四朗(他)</desc>
@@ -826,13 +834,10 @@
   <title lang="en">家事ヤロウ!!!</title>
   <desc lang="en">28日よる７時から５大女優が大集結＆和田明日香＆平野レミの激ウマ鍋３時間ＳＰ　に先駆けて…家事ヤロウ傑作選！家事ヤロウに出演した豪華ゲストの料理姿大連発！</desc>
 </programme>
-<programme start="20211225115900 +0900" stop="20211225140000 +0900" channel="TBS2.jp">
-  <title lang="en">王様のブランチ</title>
-  <desc lang="en">映えるくまちゃん鍋＆原宿の肉汁ハンバーグ！話題の専門店を特集！▽一度は泊まりたい！絶景が自慢の宿を調査</desc>
-</programme>
-<programme start="20211225140000 +0900" stop="20211225145400 +0900" channel="TBS2.jp">
-  <title lang="en">日本全国ブーブー調査</title>
-  <desc lang="en">🈑全国各地500人に、ちょっとした不満＆小言…つまり「ブーブー言いたいこと」を大調査！すると恐怖の食べ物・呪いのボート・ヤバい滑り台・大学生の涙…発見の連続が！</desc>
+<programme start="20211226145500 +0900" stop="20211226161500 +0900" channel="Asahi.jp">
+  <title lang="en">ナスD大冒険TV</title>
+  <desc lang="en">テレビ朝日の会社員、友寄隆英・通称ナスＤが命がけで無人島０円生活に挑む超本気サバイバルドキュメント。
+ナスＤの無人島で２泊３日０円生活 サメ捕獲大作戦編</desc>
 </programme>
 <programme start="20211225145400 +0900" stop="20211225150000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -982,14 +987,6 @@
 <programme start="20211226140000 +0900" stop="20211226155400 +0900" channel="TBS2.jp">
   <title lang="en">「THE鬼タイジ 大晦日決戦in鬼ヶ島」ナビ</title>
   <desc lang="en">ウエンツ・マヂラブ・乃木坂46初参戦！五輪金メダリストVS史上最強鬼！標高370ｍ巨大吊り橋で鬼から逃げろ！地獄迷路で鬼の罠…メジャーリーガー鬼＆暗闇の二刀流鬼</desc>
-</programme>
-<programme start="20211225132800 +0900" stop="20211225142300 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハーフタイムツアーズ</title>
-  <desc lang="en">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
-</programme>
-<programme start="20211225142300 +0900" stop="20211225143000 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
 </programme>
 <programme start="20211225143000 +0900" stop="20211225150000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1171,10 +1168,6 @@
   <title lang="en">家政婦 春子 他人の不幸は蜜の味 -嫁姑 殺意の接点-</title>
   <desc lang="en">鎌倉の大富豪社長が殺された！遺産10億円、醜い骨肉の争い覗いた誰が？妻のウソ、前妻のアリバイ、姑のナゾ…。</desc>
 </programme>
-<programme start="20211225133500 +0900" stop="20211225143000 +0900" channel="FujiTV.jp">
-  <title lang="en">志村けんとドリフの大爆笑物語〜志村けんを演じる男・山田裕貴の挑戦〜</title>
-  <desc lang="en">２７日よる９時から放送！志村けんの半生を描いたドラマ！志村けん演じる俳優・山田裕貴の挑戦に密着！コントを体に叩き込む…壮絶なドラマの舞台裏ドキュメント</desc>
-</programme>
 <programme start="20211225143000 +0900" stop="20211225152500 +0900" channel="FujiTV.jp">
   <title lang="en">出川・爆問田中・岡村のスモール3今夜9時15分</title>
   <desc lang="en">大泉洋と水上ＳＵＰ対決で全員ずぶ濡れ？炒飯上手く作れるのは？▽今夜明石家さんま＆菅田将暉＆ウルフが参戦！クリスマスプレゼントをかけて、スモール３サンタとガチ対決</desc>
@@ -1197,7 +1190,7 @@
 </programme>
 <programme start="20211225173000 +0900" stop="20211225180000 +0900" channel="FujiTV.jp">
   <title lang="en">FNN Live News イット!</title>
-  <desc lang="en">週末に起きたニュース・スポーツを一挙紹介。どこよりも早く正確な内容で内田嶺衣奈・奥寺健・佐久間みなみの３人のキャスターがお届けします。</desc>
+  <desc lang="en">▼新変異の市中感染警戒…都内でＰＣＲ無料検査始まる▼最強寒波襲来・大雪のおそれ▼全日本フィギュア羽生“圧倒”発進▼速報・村本＆髙橋フリーダンス▼天気予報▼</desc>
 </programme>
 <programme start="20211225180000 +0900" stop="20211225183000 +0900" channel="FujiTV.jp">
   <title lang="en">MUSIC FAIR</title>
@@ -1315,13 +1308,18 @@
   <title lang="en">千鳥の鬼レンチャン 29日水曜は4時間半SP!</title>
   <desc lang="en">１２月２９日は４時間半ＳＰ！１音も外さず１０曲歌えるか？レジェンド島谷ひとみＶＳ鬼ハードモード▽中継先から挑戦！Ｓｎｏｗ　Ｍａｎ向井ＶＳたむけん</desc>
 </programme>
-<programme start="20211225133000 +0900" stop="20211225140000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211226142000 +0900" stop="20211226142500 +0900" channel="FujiTV.jp">
+  <title lang="en">フジナビ!</title>
+  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
+見逃せない番組の見どころを紹介しちゃいます！</desc>
 </programme>
-<programme start="20211225140000 +0900" stop="20211225143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211226142500 +0900" stop="20211226143000 +0900" channel="FujiTV.jp">
+  <title lang="en">ビジネスStyle</title>
+  <desc lang="en">時代を切り拓く企業のトップへのインタビューを始め、商品やサービスなどを多面的に紹介。その理念や哲学からみえてくるビジネスＳｔｙｌｅとは？</desc>
+</programme>
+<programme start="20211226143000 +0900" stop="20211226155000 +0900" channel="FujiTV.jp">
+  <title lang="en">みんなのKEIBA</title>
+  <desc lang="en">競馬の祭典「第６６回・有馬記念」激動の一年を締めくくる２０２１年の総決算レース！３歳馬エフフォーリア＆引退ランのクロノジェネシスなどＧⅠ馬６頭が集結！</desc>
 </programme>
 <programme start="20211225143000 +0900" stop="20211225150000 +0900" channel="Tokyo MX">
   <title lang="en">熱烈!ホットサンド!</title>
@@ -1536,6 +1534,14 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20211226140000 +0900" stop="20211226143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211226143000 +0900" stop="20211226150000 +0900" channel="Tokyo MX">
+  <title lang="en">水曜どうでしょうClassic</title>
+  <desc lang="en">秘蔵ＶＴＲ一挙公開②</desc>
+</programme>
+<programme start="20211226150000 +0900" stop="20211226153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -2080,7 +2086,7 @@ https//otn.fujitv.co.jp
 <programme start="20211225134500 +0900" stop="20211225150000 +0900" channel="FujiTwo.jp">
 <title lang="en">韓国ドラマ「恋愛体質 〜30歳になれば大丈夫〜」12　【日本語字幕版】</title>
 <desc>第12話　＜出演＞チョン・ウヒ　アン・ジェホン　コンミョン　チョン・ヨビン　ハン・ジウン　他　▽30代の恋と友情を赤裸々に綴るリアル・ラブコメディ　（全16話）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211225/7199836/image/9acb18ded442e7c7666955f778638379.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225150000 +0900" stop="20211225152000 +0900" channel="FujiTwo.jp">
@@ -2269,7 +2275,7 @@ https//otn.fujitv.co.jp
 <programme start="20211225132000 +0900" stop="20211225150000 +0900" channel="kbsworld.jp">
 <title lang="en">ミュージックバンク【字幕なし】</title>
 <desc>大人気Ｋ−ＰＯＰアイドルが最近のヒットソングを届ける人気音楽放送！韓国放送日から２４時間以内に放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211225/7164155/image/ec7ffb0f4d631f878bce7d9c73021c37.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211225150000 +0900" stop="20211225172000 +0900" channel="kbsworld.jp">
