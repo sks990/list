@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211226023200 +0900" stop="20211226032100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">BS世界のドキュメンタリー</title>
-    <desc lang="en">世界中の人々に今も愛されているミッキーマウスの生みの親、ウォルト・ディズニー。独自の感性で一大エンターテインメント王国を築いた天才の知られざる人生を描くシリーズ</desc>
-  </programme>
   <programme start="20211226032100 +0900" stop="20211226041000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">BS世界のドキュメンタリー</title>
     <desc lang="en">世界中の人々に今も愛されているミッキーマウスの生みの親、ウォルト・ディズニー。独自の感性で一大エンターテインメント王国を築いた天才の知られざる人生を描くシリーズ</desc>
@@ -290,6 +286,18 @@
     <title lang="en">BS1スペシャル</title>
     <desc lang="en">山本五十六の実像を示す資料が公開された。山本の親友・堀悌吉が保管してきた遺書や書簡。三国同盟に反対しながらも、真珠湾攻撃を立案していく山本の苦悩が浮かび上がる。</desc>
   </programme>
+  <programme start="20211227030700 +0900" stop="20211227033400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏情報 ネタドリ!</title>
+    <desc lang="en">今年１２月は太平洋戦争から８０年、開戦のキーマン「山本五十六」についてお届け。独自取材で見つかった新史料や証言などから、山本五十六を通して戦時下を見つめ直す。</desc>
+  </programme>
+  <programme start="20211227033400 +0900" stop="20211227033900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">香取慎吾さん主演「倫敦ノ山本五十六」３０（木）夜１０時放送！真珠湾攻撃の作戦を指揮した海軍提督・山本五十六の物語を、太平洋戦争から８０年となる今年お届けします。</desc>
+  </programme>
+  <programme start="20211227033900 +0900" stop="20211227041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ノーナレ</title>
+    <desc lang="en">ナレーションのないドキュメンタリー「ノーナレ」。ＳＮＳなどを通じて男性と知り合い、食事やデートをするたびに金銭的な援助を受けるという“パパ活”。その実態に迫る。</desc>
+  </programme>
   <programme start="20211226014500 +0900" stop="20211226050000 +0900" channel="eTele.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -458,10 +466,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211226025900 +0900" stop="20211226035900 +0900" channel="NipponTV.jp">
-    <title lang="en">Hulu傑作シアター</title>
-    <desc lang="en">レズビアンたちの日常を赤裸々に描いた人気作「Lの世界」の10年後を描いた「Lの世界 ジェネレーションQ」を特集！▼「未来世紀SHIBUYA」徹底解剖SPを放送！</desc>
-  </programme>
   <programme start="20211226035900 +0900" stop="20211226045900 +0900" channel="NipponTV.jp">
     <title lang="en">通販の女王アン・ミカ ゼヒモノSP</title>
     <desc lang="en">あらゆる商品に精通した通販の女王アンミカがメーカーおススメの「ゼヒモノ」商品を一刀両断！果たして女王アンミカから認定はもらえるのか？</desc>
@@ -619,10 +623,10 @@
     <title lang="en">にけつッ!!</title>
     <desc lang="en">千原ジュニアとケンドーコバヤシによる二人だけの喋り番組。打ち合わせや、台本は一切ありません。</desc>
   </programme>
-<programme start="20211226024000 +0900" stop="20211226030000 +0900" channel="Asahi.jp">
-  <title lang="en">ももクロちゃんと!</title>
-  <desc lang="en">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
-</programme>
+  <programme start="20211227031600 +0900" stop="20211227041600 +0900" channel="NipponTV.jp">
+    <title lang="en">通販の女王アン・ミカ ゼヒモノSP</title>
+    <desc lang="en">あらゆる商品に精通した通販の女王アンミカがメーカーおススメの「ゼヒモノ」商品を一刀両断！果たして女王アンミカから認定はもらえるのか？</desc>
+  </programme>
 <programme start="20211226030000 +0900" stop="20211226040000 +0900" channel="Asahi.jp">
   <title lang="en">SBS歌謡大祭典2019</title>
   <desc lang="en">年末恒例の特大K-POP番組「SBS歌謡大祭典」！BTSがクリスマスソングメドレーを！TOMORROW X TOGETHER、ITZYも！まさに神回！動画配信サービス『TELASA（テラサ）』特別編！</desc>
@@ -769,9 +773,26 @@
   <title lang="en">ゲームズ・ボンド</title>
   <desc lang="en">ゲーム大好き芸能人がジェームズ・ボンドならぬゲームズ・ボンドとして、この冬の話題作を大調査！さらにＭＣのカミナリ・でんぱ組.inc古川未鈴が“ゲーム実況”を実況‼</desc>
 </programme>
-<programme start="20211226020800 +0900" stop="20211226035000 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20211227031500 +0900" stop="20211227034500 +0900" channel="Asahi.jp">
+  <title lang="en">フィロのス亭</title>
+  <desc lang="en">『国民的エンターテイナー』を目指して絶賛修業中の“フィロソフィーのダンス”が、持てる力を全部使っていろんなことにチャレンジする新感覚バラエティー！</desc>
+</programme>
+<programme start="20211227034500 +0900" stop="20211227035000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">１２／２９（水）よる７時からは『ナスＤ大冒険ＴＶ 年末４時間半ＳＰ 無人島で２泊３日０円生活』
+フィッシャーズVS井上咲楽VSバイきんぐ西村VSナスＤ　無人島生活で激突</desc>
+</programme>
+<programme start="20211227035000 +0900" stop="20211227035500 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
+</programme>
+<programme start="20211227035500 +0900" stop="20211227040000 +0900" channel="Asahi.jp">
+  <title lang="en">おはようゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？</desc>
+</programme>
+<programme start="20211227040000 +0900" stop="20211227045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍V</title>
+  <desc lang="en">「尼さんやくざが突っ走る」松平健(他)▽勘定奉行・奥平伊賀守が天領の材木を横流ししているとの訴状が目安箱に入れられ、吉宗はすぐさま伊賀守を呼び出し事情を糾したが…</desc>
 </programme>
 <programme start="20211226035000 +0900" stop="20211226040000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -904,15 +925,16 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20211226023500 +0900" stop="20211226030500 +0900" channel="TVTokyo.jp">
+<programme start="20211227033500 +0900" stop="20211227034500 +0900" channel="TBS2.jp">
   <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組。</desc>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ＳＡＳＵＫＥ、プロ野球戦力外通告、ネンイチ、ボクシング井岡一翔世界戦、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
 </programme>
-<programme start="20211226030500 +0900" stop="20211226031500 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">テレビ東京主催の注目のイベント、映画、舞台、ＤＶＤ、本など、オススメのエンタメコンテンツを熱血講師たちがアツく講義！深夜の一夜漬け授業が今夜も開講！</desc>
+<programme start="20211227034500 +0900" stop="20211227043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20211226031500 +0900" stop="20211226041500 +0900" channel="TVTokyo.jp">
+<programme start="20211226040000 +0900" stop="20211226041500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -1065,6 +1087,16 @@
   <title lang="en">一夜づけ</title>
   <desc lang="en">2.5次元作品で活躍する、人気俳優たちが共演！大人気シリーズ「テレビ演劇　サクセス荘」の映画版！「映画演劇　サクセス荘　〜侵略者Sと西荻窪の奇跡〜」をご紹介！</desc>
 </programme>
+<programme start="20211227031100 +0900" stop="20211227032600 +0900" channel="TVTokyo.jp">
+  <title lang="en">闇芝居</title>
+  <desc lang="en">第十一闇「祟り」
+第十二闇「糸電話」
+第十三闇「寝言」</desc>
+</programme>
+<programme start="20211227032600 +0900" stop="20211227045600 +0900" channel="TVTokyo.jp">
+  <title lang="en">地球上全てが戦いの場 パルクール日本選手権 in羽田空港</title>
+  <desc lang="en">人類の身体能力を限界まで引き出す究極のスポーツ「パルクール」登る、走る、跳ぶ、世界へと飛び立つ羽田空港を戦いの舞台に、現代版忍者の日本一決定戦が繰り広げられる‼</desc>
+</programme>
 <programme start="20211226021000 +0900" stop="20211226042500 +0900" channel="FujiTV.jp">
   <title lang="en">ダイ・ハード4.0</title>
   <desc lang="en">ブルース・ウィリス主演の大ヒットアクション第４弾！全米を大パニックに陥れるサイバー・テロに不死身の男が挑む！</desc>
@@ -1215,17 +1247,17 @@
   <title lang="en">全日本フィギュアスケート選手権2021</title>
   <desc lang="en">アイスダンス北京五輪代表１枠をかけた一騎打ちの模様を完全詳報！夢舞台への扉を開くのは全日本３連覇の小松原美里＆尊か？急成長遂げた村元哉中＆髙橋大輔か？</desc>
 </programme>
-<programme start="20211226023000 +0900" stop="20211226030000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211227034000 +0900" stop="20211227035000 +0900" channel="FujiTV.jp">
+  <title lang="en">中央競馬ダイジェスト</title>
+  <desc lang="en">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
 </programme>
-<programme start="20211226030000 +0900" stop="20211226032900 +0900" channel="Tokyo MX">
+<programme start="20211227035000 +0900" stop="20211227040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
-<programme start="20211226032900 +0900" stop="20211226035800 +0900" channel="Tokyo MX">
-  <title lang="en">真夜中のおバカ騒ぎ!</title>
-  <desc lang="en">２０２１年残念話！〜原口サンタの贈り物〜（後編）</desc>
+<programme start="20211227040000 +0900" stop="20211227045500 +0900" channel="FujiTV.jp">
+  <title lang="en">発見!タカトシランド</title>
+  <desc lang="en">閑静な住宅街でおもてなし！家族愛につつまれた新旧の名店ぞろい！さらに３年前訪れた時、準備中だったラーメン店にタカリベンジ！超人気店のお味とは？</desc>
 </programme>
 <programme start="20211226035800 +0900" stop="20211226042800 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1431,7 +1463,7 @@
   <title lang="en">青山テルマfeat.東京電波女子2nd</title>
   <desc lang="en"> </desc>
 </programme>
-<programme start="20211227023500 +0900" stop="20211227030000 +0900" channel="Tokyo MX">
+<programme start="20211227023500 +0900" stop="20211227040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
