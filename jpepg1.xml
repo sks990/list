@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211226193000 +0900" stop="20211226200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">中米コスタリカに年間１００万匹ものウミガメが産卵する驚異の海岸がある。浜はカメたちで足の踏み場も無いほど大混雑。いったいなぜ大集団で産卵するの？圧巻の映像で迫る</desc>
-  </programme>
   <programme start="20211226200000 +0900" stop="20211226210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">青天を衝（つ）け</title>
     <desc lang="en">栄一、魂のラストメッセージ！老齢になっても走り続ける栄一は、日米関係改善のため再び渡米。後継者の敬三は、そんな祖父の現状に満足せず前に進む姿を見つめていた…</desc>
@@ -358,13 +354,21 @@
     <title lang="en">子犬が家にやってきた!〜パピーラブラブドキュメント〜</title>
     <desc lang="en">子犬を迎えたその日から一家は激変！思いが通じず泣き出す家族もあればさみしがり屋の子犬をどうしてよいか途方に暮れる家族も。切なくもいとおしいワンコドキュメント！</desc>
   </programme>
-  <programme start="20211226195500 +0900" stop="20211226200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20211227204200 +0900" stop="20211227204300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211226200000 +0900" stop="20211226204500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">ウィーン出身のデザイナー・上野リチは、日本人と結婚し来日。二つの国を行き来し、テキスタイルや小物など、数々の“カワイイ”を生み出した。リチの夢見た世界とは。</desc>
+  <programme start="20211227204300 +0900" stop="20211227204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">紅白カラフルメモリーズ</title>
+    <desc lang="en">出場歌手の皆さんのインタビューを交えながらカラフルな紅白名場面や思い出のシーンをお届けします。今回はＡＩが初出場の時のエピソードや今年の意気込みを語ります！</desc>
+  </programme>
+  <programme start="20211227204500 +0900" stop="20211227210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211227210000 +0900" stop="20211227220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">オミクロン株最新情報東京でも市中感染が…▽晴天時にムダになる太陽光発電・もれなく使う！新たな取り組み▽グラミー賞候補語る「コロナ」の世界は…▽東京五輪パラ名場面</desc>
   </programme>
   <programme start="20211226204500 +0900" stop="20211226210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -674,6 +678,18 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">「認知症とともに生きるまち大賞」の受賞団体が決定！ユニークな活動をもとにオンラインフォーラムを開催。認知症になっても安心して暮らせるまちづくりについて語り合う</desc>
   </programme>
+  <programme start="20211227203000 +0900" stop="20211227204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">漢方薬や鍼灸（しんきゅう）、太極拳などの「東洋医学」の効果が科学的に解明され始め、医療現場で導入が進んでいる。一日目は、漢方薬の正しい使い方を詳しく解説する。</desc>
+  </programme>
+  <programme start="20211227204500 +0900" stop="20211227210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211227210000 +0900" stop="20211227212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">何かと忙しい年末。「スープ作家」として人気の有賀薫さんに、だしを使わず簡単につくれる、体ポカポカ、おなかも満足！な「食べるスープ」を教わります。</desc>
+  </programme>
   <programme start="20211226190000 +0900" stop="20211226215400 +0900" channel="NipponTV.jp">
     <title lang="en">うわっ!ダマされた大賞</title>
     <desc lang="en">小峠＆中岡ドッキリ武者修業▼生き残りかけた恐怖のタコゲーム▼阿佐ヶ谷姉妹にワナ…大量増殖▼M1王者錦鯉に矢が▼白石麻衣バレずに盗み食い生挑戦▼イッテQ女芸人</desc>
@@ -778,6 +794,10 @@
   <programme start="20211227190000 +0900" stop="20211227210000 +0900" channel="NipponTV.jp">
     <title lang="en">有吉ゼミ</title>
     <desc lang="en">食い納め2時間SP▼現役力士に巨人松原＆ロッテ投手陣！超激辛VS松坂大輔＆SixTONES髙地！壁芸人たちも底力▼スギちゃん夫妻＆相撲部屋の驚き年越し準備に密着</desc>
+  </programme>
+  <programme start="20211227210000 +0900" stop="20211227225400 +0900" channel="NipponTV.jp">
+    <title lang="en">しゃべくり007</title>
+    <desc lang="en">YOSHIKI日本帰国‼600日の超厳戒ステーホーム孤独な戦い▽紅白初出場‼上白石萌音としゃべくり歌謡祭▽北村匠海バンドへの異常愛▽韓国大ヒットドラマ主演</desc>
   </programme>
 <programme start="20211226190000 +0900" stop="20211226215600 +0900" channel="Asahi.jp">
   <title lang="en">ポツンと一軒家</title>
@@ -1114,6 +1134,10 @@
   <title lang="en">YOUは何しに日本へ?</title>
   <desc lang="en">▼羽田空港でロケ復活！コロナで帰国できず２年ぶりに家族と再会ＹＯＵ▼養護施設の子どもたちを笑顔に！遊具作りボランティアＹＯＵ▼初出し！ド素人８５０キロ自転車旅</desc>
 </programme>
+<programme start="20211227210000 +0900" stop="20211227225700 +0900" channel="TVTokyo.jp">
+  <title lang="en">古代文明ミステリー たけしの新・世界七不思議大百科</title>
+  <desc lang="en">歴代ファラオのミイラが発見された「王家の隠し場」へ日本のテレビ初潜入！“叫ぶミイラ”からファラオ・ラムセス３世の死の謎に迫る！さらに三大ピラミッドの衝撃新説が！</desc>
+</programme>
 <programme start="20211226190000 +0900" stop="20211226211500 +0900" channel="FujiTV.jp">
   <title lang="en">全日本フィギュアスケート選手権2021</title>
   <desc lang="en">（延長の場合あり）
@@ -1207,17 +1231,9 @@
   <title lang="en">ドリフ志村けんの年末爆笑コント祭り!</title>
   <desc lang="en">志村けん＆ドリフ尽くしの夜！バカ殿様＆変なおじさん＆ひとみばあさん＆貧乏親子まであの人気キャラが大集合して今夜爆笑降臨！ドリフ名作公開コントも復活だ！</desc>
 </programme>
-<programme start="20211226195500 +0900" stop="20211226200000 +0900" channel="Tokyo MX">
-  <title lang="en">シゴト手帖</title>
-  <desc lang="en">〜株式会社４ｔｒｅｓｓ〜</desc>
-</programme>
-<programme start="20211226200000 +0900" stop="20211226203000 +0900" channel="Tokyo MX">
-  <title lang="en">世界の子どもの未来のために</title>
-  <desc lang="en">厳しい貧困に生きる子ども達の生活をドキュメンタリー形式で紹介。</desc>
-</programme>
-<programme start="20211226203000 +0900" stop="20211226205500 +0900" channel="Tokyo MX">
-  <title lang="en">企業魂</title>
-  <desc lang="en">株式会社ｂｙｄｅｓｉｇｎ／株式会社ファクトリージャパングループ／川商フーズ株式会社</desc>
+<programme start="20211227210000 +0900" stop="20211227230300 +0900" channel="FujiTV.jp">
+  <title lang="en">志村けんとドリフの大爆笑物語</title>
+  <desc lang="en">志村けん（山田裕貴）がいかりや長介（遠藤憲一）に弟子入りしドリフに加入して稀代のコメディアンになるまでの汗と笑いと涙の半生を福田雄一監督がドラマ化！</desc>
 </programme>
 <programme start="20211226205500 +0900" stop="20211226210000 +0900" channel="Tokyo MX">
   <title lang="en">Doctor’s eye</title>
@@ -1663,7 +1679,7 @@ https//otn.fujitv.co.jp
 <title lang="en">つば九郎のカンペDEトーク　25「祝！日本一!!Ｖ戦士集結！」</title>
 <desc>「祝！日本一!!つば九郎のカンペDEトーク　Ｖ戦士集結！日本一の裏側何でも話しちゃうぞSP」
 ＜選手ゲスト＞塩見泰隆　山崎晃大朗　田口麗斗　大下佑馬　清水昇
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211226/7341223/image/b3809b9a3003414b2d56184036066a4d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211226210000 +0900" stop="20211227000000 +0900" channel="FujiOne.jp">
@@ -2034,7 +2050,7 @@ https//otn.fujitv.co.jp
 <programme start="20211226194500 +0900" stop="20211226210000 +0900" channel="kbsworld.jp">
 <title lang="en">恋するレモネード　8　[字][再]</title>
 <desc>KBS World初放送！「君の歌を聴かせて」のキム・セジョン、チャン・ドンユン、「愛の不時着」のキム・ジョンヒョン主演！学園青春ロマンス！2017年　全16話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211226/7167681/image/cc50d46b6b770b7accbb4116dd3d2d9d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211226210000 +0900" stop="20211226214000 +0900" channel="kbsworld.jp">
