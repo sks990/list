@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211226211500 +0900" stop="20211226223000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">米中関係が“新冷戦”と呼ばれるほど冷え込む中、台湾海峡で軍事的なせめぎ合いが激化。影響は日本にも及んでいる。安全保障の最前線で何が起きているのか。現場から報告。</desc>
-  </programme>
   <programme start="20211226223000 +0900" stop="20211226233000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">サンデースポーツ</title>
     <desc lang="en">フィギュア全日本男子フリー＆代表発表速報！▽２０２１ハイライト東京オリパラ編アイバズは体操新エース橋本大輝×相葉雅紀！為末大さん生出演で名場面たっぷり▽有馬記念</desc>
@@ -361,6 +357,10 @@
   <programme start="20211227220000 +0900" stop="20211227225000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">岸辺露伴は動かない</title>
     <desc lang="en">「ジョジョの奇妙な冒険」からスピンオフした荒木飛呂彦の同名漫画の映像化第２弾！高橋一生演じる漫画家の岸辺露伴が、遭遇する奇妙な事件にヘブンズ・ドアーを使って挑む</desc>
+  </programme>
+  <programme start="20211227225000 +0900" stop="20211227232000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">笑いをシェアしよう!れこめん堂</title>
+    <desc lang="en">佐藤勝利（Ｓｅｘｙ　Ｚｏｎｅ）と松尾駿（チョコレートプラネット）のお笑い番組。ゲストの岸優太（Ｋｉｎｇ　＆　Ｐｒｉｎｃｅ）と西野七瀬がおすすめのネタ動画をシェア</desc>
   </programme>
   <programme start="20211226210000 +0900" stop="20211226233000 +0900" channel="eTele.jp">
     <title lang="en">古典芸能への招待</title>
@@ -694,9 +694,13 @@
     <title lang="en">グレーテルのかまど</title>
     <desc lang="en">ぷるぷるした生地に、ごまだれをたっぷりかけていただくへらへら餅。農家のおやつとして親しまれてきたこの味を、守り続けてきた人々。懐かしい風景を東伊豆に訪ねました。</desc>
   </programme>
-  <programme start="20211226215700 +0900" stop="20211226220000 +0900" channel="NipponTV.jp">
-    <title lang="en">120秒のターニング映画(シネマ)</title>
-    <desc lang="en">人生が劇的に変わった瞬間=ターニングポイント=を再現VＴＲで紹介。最後にご本人が誰かを明かす番組です。</desc>
+  <programme start="20211227222500 +0900" stop="20211227225000 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">マルクスが最終的に思い描いたコミュニズム。それは、水、土地、エネルギーなど私たちにとっての共有財産である「コモン」を市民の手に取り戻すことを目指したものだった。</desc>
+  </programme>
+  <programme start="20211227225000 +0900" stop="20211227232000 +0900" channel="eTele.jp">
+    <title lang="en">超多様性トークショー!なれそめ</title>
+    <desc lang="en">なれそめの数だけ、いろんな人生の楽しみ方がある！今回は「車いすで人生を激走する彼とそれにトコトンつきあっちゃう彼女」田村淳、ＬｉＬｉＣｏ、河合郁人、井手上漠</desc>
   </programme>
   <programme start="20211226220000 +0900" stop="20211226230000 +0900" channel="NipponTV.jp">
     <title lang="en">おしゃれクリップ</title>
@@ -795,15 +799,14 @@
     <title lang="en">しゃべくり007</title>
     <desc lang="en">YOSHIKI日本帰国‼600日の超厳戒ステーホーム孤独な戦い▽紅白初出場‼上白石萌音としゃべくり歌謡祭▽北村匠海バンドへの異常愛▽韓国大ヒットドラマ主演</desc>
   </programme>
-<programme start="20211226215600 +0900" stop="20211226220000 +0900" channel="Asahi.jp">
-  <title lang="en">食ノ音色</title>
-  <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
-今回の“食ノ音色”を奏でる主役は『沖縄そば』です。</desc>
-</programme>
-<programme start="20211226220000 +0900" stop="20211226225500 +0900" channel="Asahi.jp">
-  <title lang="en">サンデーステーション</title>
-  <desc lang="en">日曜よる１０時。新しい明日へ「再起動」。次の一週間のヒントにつながる報道番組を目指します。ニュースは総力取材、時代が見える独自特集、スポーツ、天気もしっかりと！</desc>
-</programme>
+  <programme start="20211227225400 +0900" stop="20211227230000 +0900" channel="NipponTV.jp">
+    <title lang="en">The Gift</title>
+    <desc lang="en">旬の有名人がお世話になった人へ…ギフト選びに密着するバラエティ。フリーアナウンサーの秋元玲奈さんは義父で元レーシングドライバーの鈴木亜久里さんへギフトを贈る。</desc>
+  </programme>
+  <programme start="20211227230000 +0900" stop="20211227235900 +0900" channel="NipponTV.jp">
+    <title lang="en">news zero</title>
+    <desc lang="en">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
+  </programme>
 <programme start="20211226225500 +0900" stop="20211226230000 +0900" channel="Asahi.jp">
   <title lang="en">EXITのラリージャパン応援宣言</title>
   <desc lang="en">世界の一般道を舞台に繰り広げられる世界ラリー。世界ラリーの魅力とラリージャパンの見どころを、ＥＸＩＴが全開で紹介します。</desc>
@@ -916,14 +919,6 @@
   <title lang="en">報道ステーション</title>
   <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
-<programme start="20211226210000 +0900" stop="20211226224800 +0900" channel="TBS2.jp">
-  <title lang="en">歌ネタゴングSHOW 爆笑!ターンテーブル</title>
-  <desc lang="en">お笑い王者！現役アイドル＆アーティスト！が「笑える神曲」を披露！今回は「ご長寿グランプリ」ともコラボして、明石家さんまが絶賛する替え歌レジェンドが登場！！</desc>
-</programme>
-<programme start="20211226224800 +0900" stop="20211226225400 +0900" channel="TBS2.jp">
-  <title lang="en">まちづくり夢づくりPART2</title>
-  <desc lang="en">まちづくり夢づくりＰＡＲＴ２</desc>
-</programme>
 <programme start="20211226225400 +0900" stop="20211226230000 +0900" channel="TBS2.jp">
   <title lang="en">今晩、Paraviれば</title>
   <desc lang="en">過去の話題作やオリジナル番組が見放題の動画配信サービス【Paravi】！豊富なラインアップから一押しコンテンツをご紹介！今すぐParaviれば！</desc>
@@ -993,6 +988,10 @@
 <programme start="20211227180000 +0900" stop="20211227230000 +0900" channel="TBS2.jp">
   <title lang="en">最前線!密着警察24時</title>
   <desc lang="en">ドラッグ疑惑男が決死の逃走！前代未聞の壮絶現場…職質攻防戦を激撮！ウソつく！隠す！投げる！厄介不審者VS薬物犯罪捜査のプロ軍団▼「殺すぞ！」緊迫の無線で臨場逮捕</desc>
+</programme>
+<programme start="20211227230000 +0900" stop="20211227231000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
 <programme start="20211226215400 +0900" stop="20211226232400 +0900" channel="TVTokyo.jp">
   <title lang="en">CHANGE MAKER U-18 未来を変える高校生 日本一決定戦</title>
@@ -1126,6 +1125,10 @@
   <title lang="en">古代文明ミステリー たけしの新・世界七不思議大百科</title>
   <desc lang="en">歴代ファラオのミイラが発見された「王家の隠し場」へ日本のテレビ初潜入！“叫ぶミイラ”からファラオ・ラムセス３世の死の謎に迫る！さらに三大ピラミッドの衝撃新説が！</desc>
 </programme>
+<programme start="20211227225700 +0900" stop="20211227230300 +0900" channel="TVTokyo.jp">
+  <title lang="en">東京GOOD!</title>
+  <desc lang="en">東京の隠れた魅力を紹介する番組。歴史ある場所、施設、イベントや人など、様々な「GOOD!」と出会います。出会った「GOOD!」は番組公式インスタグラムにも投稿されます。</desc>
+</programme>
 <programme start="20211226212500 +0900" stop="20211226233400 +0900" channel="FujiTV.jp">
   <title lang="en">Mr.サンデー</title>
   <desc lang="en">予定を変更し１０分繰下げお送りします
@@ -1216,14 +1219,6 @@
 <programme start="20211227210000 +0900" stop="20211227230300 +0900" channel="FujiTV.jp">
   <title lang="en">志村けんとドリフの大爆笑物語</title>
   <desc lang="en">志村けん（山田裕貴）がいかりや長介（遠藤憲一）に弟子入りしドリフに加入して稀代のコメディアンになるまでの汗と笑いと涙の半生を福田雄一監督がドラマ化！</desc>
-</programme>
-<programme start="20211226213000 +0900" stop="20211226220000 +0900" channel="Tokyo MX">
-  <title lang="en">ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-</title>
-  <desc lang="en">＃１３「時計塔と日常と未来への第一歩」</desc>
-</programme>
-<programme start="20211226220000 +0900" stop="20211226223000 +0900" channel="Tokyo MX">
-  <title lang="en">アニメ「錆色のアーマ-黎明-」までの道のり 逆2.5次元プロジェクト</title>
-  <desc lang="en">アニメ「錆色のアーマ－黎明－」放送を記念した特別企画。貴重なインタビューや対談でアニメ化までの軌跡を辿ります。出演佐藤大樹ほか、ナレーション佐藤流司</desc>
 </programme>
 <programme start="20211226223000 +0900" stop="20211226230000 +0900" channel="Tokyo MX">
   <title lang="en">宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-</title>
@@ -1397,6 +1392,14 @@
   <title lang="en">色づく世界の明日から</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211227223000 +0900" stop="20211227230000 +0900" channel="Tokyo MX">
+  <title lang="en">〜応援ありがとう!イベント〜 やくならマグカップもin多治見</title>
+  <desc lang="en">応援してくれた皆様へ感謝を込めて、１０月に多治見市で行われたイベントの模様を放送！ロケの思い出や陶芸の魅力、お気に入り名シーンの紹介など盛り沢山でお送りします。</desc>
+</programme>
+<programme start="20211227230000 +0900" stop="20211227233000 +0900" channel="Tokyo MX">
+  <title lang="en">MUTEKING THE Dancing HERO Super Hyper Edition</title>
+  <desc lang="en">Ｓｕｐｅｒ　Ｈｙｐｅｒ　Ｅｄｉｔｉｏｎ</desc>
+</programme>
 <programme start="20211226000000 +0900" stop="20211226020000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「SOIL ＆“PIMP”SESSIONS」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『SOIL ＆“PIMP”SESSIONS』の出演映像を選りすぐってお届け！
@@ -1493,7 +1496,7 @@ https//otn.fujitv.co.jp
 <programme start="20211226220000 +0900" stop="20211226230000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　くるり</title>
 <desc>1998年〜2016年に放送していた、伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『くるり』の出演映像を選りすぐってお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211226/7199974/image/880750bca36c5ecae65b9f70d83eec80.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211226230000 +0900" stop="20211227003000 +0900" channel="FujiNext.jp">
@@ -2040,7 +2043,7 @@ https//otn.fujitv.co.jp
 <programme start="20211226214000 +0900" stop="20211226230000 +0900" channel="kbsworld.jp">
 <title lang="en">紳士とお嬢さん（原題）　5　[字]</title>
 <desc>日本初放送！チ・ヒョヌ＆イ・セヒ主演。自分の選んだ道を突き進んで幸せを探す’お嬢さん’と’紳士’が出会うドタバタ ラブコメ・ホームドラマ！2021年　全50話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211226/7167683/image/bd5e34f2b3be6d2d2915f32d9b2cdd1d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211226230000 +0900" stop="20211227003000 +0900" channel="kbsworld.jp">
