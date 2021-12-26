@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211226085700 +0900" stop="20211226090000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211226090000 +0900" stop="20211226100000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">最後の○○〜日本のレッドデータ〜</title>
     <desc lang="en">国宝級の日本刀の輝きを支える「最後の男」。和食の神髄を体現する「最後の食材」。俳優・草彅剛が「最後の〇〇」に光をあて知られざる価値に迫る知的探求ドキュメンタリー</desc>
@@ -258,13 +254,13 @@
     <title lang="en">あさイチ</title>
     <desc lang="en">年末企画「２０２１年の明るいニュース」ランキング発表！香取慎吾さんと楽しく振り返る▽双子パンダ・ＳＤＧｓ…あさイチ視点で深堀り▽来年はコレがくる！？トレンド予想</desc>
   </programme>
-  <programme start="20211226085500 +0900" stop="20211226090000 +0900" channel="eTele.jp">
-    <title lang="en">365日の献立日記</title>
-    <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+  <programme start="20211227095500 +0900" stop="20211227100000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなの体操</title>
+    <desc lang="en">鈴木大輔、吉江晴菜、矢作あかり、石川裕平</desc>
   </programme>
-  <programme start="20211226090000 +0900" stop="20211226094500 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">天才ピカソの「ゲルニカ」。門外不出の傑作を８Ｋで詳細に撮影し、日本で巨大モニターに映し出す。目前に迫る“実物大”の迫力、子供も大人も体感する衝撃！ゲルニカの引力</desc>
+  <programme start="20211227100000 +0900" stop="20211227100500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211226094500 +0900" stop="20211226100000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館 アートシーン</title>
@@ -458,9 +454,13 @@
     <title lang="en">カラフル!〜世界の子どもたち〜</title>
     <desc lang="en">コロナ禍で夢に向かって走る２人の小学生に密着。ごはんが大好きなヒカリさんは、初めてのお米作りに、児童劇団に通うユウゴさんは、主役オーディションに挑んでいく。</desc>
   </programme>
-  <programme start="20211226073000 +0900" stop="20211226090000 +0900" channel="NipponTV.jp">
-    <title lang="en">有吉ゼミ</title>
-    <desc lang="en">明日のSPは…食べ納めチャレンジグルメ！現役アスリート＆SixTONES＆壁芸人続々▼スギちゃん＆相撲部屋年越し密着も！その前に過去のチャレンジグルメをお届け！</desc>
+  <programme start="20211227093000 +0900" stop="20211227094000 +0900" channel="eTele.jp">
+    <title lang="en">でこぼこポン!</title>
+    <desc lang="en">発達障害などの子が、社会生活で大切なスキルを学べる番組です。困っている子をサポートする方法を描いたドラマやゲーム、体操を通じて、発達を促します。</desc>
+  </programme>
+  <programme start="20211227094000 +0900" stop="20211227101000 +0900" channel="eTele.jp">
+    <title lang="en">チョコっとのぞき見 ファミリールール</title>
+    <desc lang="en">子育て真っ最中のチョコレートプラネットの２人が、ある家族をチョコっとのぞき見！子どもの成長のウラには驚きのルールが！子育て世代必見のドキュメンタリー。</desc>
   </programme>
   <programme start="20211226090000 +0900" stop="20211226102500 +0900" channel="NipponTV.jp">
     <title lang="en">うわっ!ダマされた大賞2021年末 直前スペシャル</title>
@@ -608,17 +608,6 @@
     <title lang="en">スッキリ</title>
     <desc lang="en">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
   </programme>
-<programme start="20211226083000 +0900" stop="20211226090000 +0900" channel="Asahi.jp">
-  <title lang="en">トロピカル〜ジュ!プリキュア</title>
-  <desc lang="en">「わたしの《今、一番 大事なこと》！それは…！」
-メイクでトロピカルチェンジして、やる気全開！
-プリキュアに、学校に、部活に！みんなでトロピカっちゃおー！</desc>
-</programme>
-<programme start="20211226090000 +0900" stop="20211226093000 +0900" channel="Asahi.jp">
-  <title lang="en">仮面ライダーリバイス</title>
-  <desc lang="en">≪仮面ライダーシリーズ生誕５０周年記念作品≫
-しあわせ湯の長男・五十嵐一輝は、体内に住む悪魔・バイスと契約して二人の仮面ライダーに変身！リバイとバイスの大冒険！</desc>
-</programme>
 <programme start="20211226093000 +0900" stop="20211226100000 +0900" channel="Asahi.jp">
   <title lang="en">機界戦隊ゼンカイジャー</title>
   <desc lang="en">１人の人間と４人のロボがすべての世界を守るヒーローになる！その名も機界戦隊ゼンカイジャー！地球に侵略してきた悪のトジテンド王朝を倒せるのか!?みんなで応援しよう！</desc>
@@ -750,9 +739,9 @@
   <title lang="en">羽鳥慎一モーニングショー</title>
   <desc lang="en">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 </programme>
-<programme start="20211226080000 +0900" stop="20211226095400 +0900" channel="TBS2.jp">
-  <title lang="en">サンデーモーニング</title>
-  <desc lang="en">張本さんの総喝23年…レギュラー卒業です▽オミクロン株…国内も市中感染▽アベノマスク廃棄へ▽戦争の危機▽王貞治会長が生出演▽羽生が今季世界最高▽墓碑銘2021(他)</desc>
+<programme start="20211227095500 +0900" stop="20211227102500 +0900" channel="Asahi.jp">
+  <title lang="en">じゅん散歩</title>
+  <desc lang="en">三代目散歩人・高田純次が「原宿」を散策▽五輪橋に代々木競技場 今年話題の街▽純ちゃんが飛び出す３Ｄラテアートに▽新グルメ「ハンバーグオンザライス」</desc>
 </programme>
 <programme start="20211226095400 +0900" stop="20211226113000 +0900" channel="TBS2.jp">
   <title lang="en">サンデー・ジャポン</title>
@@ -869,14 +858,9 @@
   <title lang="en">ラヴィット!</title>
   <desc lang="en">冬休み特別企画！ロバートの鎌倉満喫３人旅！思い出の地で秘話を公開！▼ぼる塾の芸能界スイーツ部！東京駅エリア絶品スイーツ店巡り！田辺がNo.1スイーツ決定</desc>
 </programme>
-<programme start="20211226083000 +0900" stop="20211226090000 +0900" channel="TVTokyo.jp">
-  <title lang="en">デュエル・マスターズ キング!</title>
-  <desc lang="en">見事復活したモモキング！ジョーは進化したモモキングと共に、ハイドに挑む。絆の力で絶好調のジョーだが、常に完璧を求めるハイドも鬼気迫る表情で怯む隙を見せなく…。</desc>
-</programme>
-<programme start="20211226090000 +0900" stop="20211226093000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ビッ友×戦士 キラメキパワーズ!</title>
-  <desc lang="en">大冒険をゲームスタート！ゲームの世界から人間界にきた悪の「マックラ帝国」と戦い、世界の闇を！キラッキラにきらめかせる！
-ガールズ×戦士シリーズ記念すべき第5弾！</desc>
+<programme start="20211227095500 +0900" stop="20211227102500 +0900" channel="TBS2.jp">
+  <title lang="en">Let's!美バディ</title>
+  <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストはフワちゃん＆ミスターSASUKE 山田勝己★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
 </programme>
 <programme start="20211226093000 +0900" stop="20211226100000 +0900" channel="TVTokyo.jp">
   <title lang="en">マジカパーティ</title>
@@ -1030,13 +1014,17 @@
 心に傷を抱えたヒロインと家族の再生を描く、全世代共感のハートフルドラマ！
 【全６５話　日本語字幕付　二カ国語放送】</desc>
 </programme>
-<programme start="20211226085500 +0900" stop="20211226090000 +0900" channel="FujiTV.jp">
-  <title lang="en">千葉の贈り物〜まごころ配達人〜</title>
-  <desc lang="en">心のこもった“まごころ”で、全国から訪れる方々を迎えたい…そんな思いを込めて、千葉県のスポットとその魅力を支える人たちを紹介します。</desc>
+<programme start="20211227091100 +0900" stop="20211227092100 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!プラス</title>
+  <desc lang="en">この後、午前９時２６分から放送「なないろ日和！」のみどころを紹介！暮らしに役立つ情報満載でお送りします！さっそく今日から試してみよう…！▽ショッピング</desc>
 </programme>
-<programme start="20211226090000 +0900" stop="20211226093000 +0900" channel="FujiTV.jp">
-  <title lang="en">デジモンゴーストゲーム</title>
-  <desc lang="en">［不幸ノ手紙］知り合いの教授から届いた不幸の手紙の様な怪しいメールを消去した清司郎。すると突如、ゲームの中から大量のザッソーモンが現れる！</desc>
+<programme start="20211227092100 +0900" stop="20211227092600 +0900" channel="TVTokyo.jp">
+  <title lang="en">Mナビ</title>
+  <desc lang="en">午前９時から取引が開始される東京株式市場。取引開始から３０分間が１日のマーケットの動きを方向づける大切な時間です。この時間の株価の動きをお伝えします。</desc>
+</programme>
+<programme start="20211227092600 +0900" stop="20211227111300 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!</title>
+  <desc lang="en">▽快適ショッピングスタジオ▽電子レンジだけでOK！年末年始のおもてなし料理…ふわふわのカニ玉。ローストビーフも簡単▽「虎ノ門市場」熊野牛のプレミアム焼肉セット</desc>
 </programme>
 <programme start="20211226093000 +0900" stop="20211226100000 +0900" channel="FujiTV.jp">
   <title lang="en">ワンピース</title>
@@ -1159,13 +1147,9 @@
   <title lang="en">めざまし8</title>
   <desc lang="en">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 </programme>
-<programme start="20211226083000 +0900" stop="20211226090000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211226090000 +0900" stop="20211226093000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20211227095000 +0900" stop="20211227112500 +0900" channel="FujiTV.jp">
+  <title lang="en">ノンストップ!</title>
+  <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
 <programme start="20211226093000 +0900" stop="20211226100000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1359,6 +1343,14 @@
   <title lang="en">HISTORY</title>
   <desc lang="en">アルフレド／樋口国際法律事務所／大浅建築／ＣＯＤＩＮＯ　ＰＪ　ＦＵＫ／国際コンサルティング協会／笠間製本印刷</desc>
 </programme>
+<programme start="20211227093000 +0900" stop="20211227100000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211227100000 +0900" stop="20211227103000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211226000000 +0900" stop="20211226020000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「SOIL ＆“PIMP”SESSIONS」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『SOIL ＆“PIMP”SESSIONS』の出演映像を選りすぐってお届け！
@@ -1551,7 +1543,7 @@ https//otn.fujitv.co.jp
 <programme start="20211226083000 +0900" stop="20211226100000 +0900" channel="FujiOne.jp">
 <title lang="en">武豊ＴＶ！２　126「菊花賞プレイバック」</title>
 <desc>アイビーS、紅葉S、カシオペアS、ファンタジーS、2歳未勝利、2歳新馬、みやこS ほか ▽菊花賞、天皇賞・秋、エリザベス女王杯▽ブリーダーズカップ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211226/7200064/image/ca0fcbca3383b3dcedf97d6f08dfe468.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211226100000 +0900" stop="20211226120000 +0900" channel="FujiOne.jp">
