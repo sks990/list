@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211227193000 +0900" stop="20211227204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">子犬が家にやってきた!〜パピーラブラブドキュメント〜</title>
-    <desc lang="en">子犬を迎えたその日から一家は激変！思いが通じず泣き出す家族もあればさみしがり屋の子犬をどうしてよいか途方に暮れる家族も。切なくもいとおしいワンコドキュメント！</desc>
-  </programme>
-  <programme start="20211227204200 +0900" stop="20211227204300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
-  <programme start="20211227204300 +0900" stop="20211227204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">紅白カラフルメモリーズ</title>
-    <desc lang="en">出場歌手の皆さんのインタビューを交えながらカラフルな紅白名場面や思い出のシーンをお届けします。今回はＡＩが初出場の時のエピソードや今年の意気込みを語ります！</desc>
-  </programme>
   <programme start="20211227204500 +0900" stop="20211227210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -326,17 +314,21 @@
     <title lang="en">サラメシ シーズン11</title>
     <desc lang="en">「採用試験はオンライン、入社式で初めて新人の顔を見た」なんて話も聞かれたコロナ禍の新入社員。彼らはこの１年をどう過ごしていたのか？新人たちの奮闘とランチを拝見！</desc>
   </programme>
-  <programme start="20211227195500 +0900" stop="20211227200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20211228204200 +0900" stop="20211228204300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20211227200000 +0900" stop="20211227203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">「認知症とともに生きるまち大賞」の受賞団体が決定！ユニークな活動をもとにオンラインフォーラムを開催。認知症になっても安心して暮らせるまちづくりについて語り合う</desc>
+  <programme start="20211228204300 +0900" stop="20211228204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">紅白カラフルメモリーズ</title>
+    <desc lang="en">出場歌手の皆さんのインタビューを交えながらカラフルな紅白名場面や思い出のシーンをお届けします。今回は氷川きよしが初出場の思い出や今年の意気込みについて語ります！</desc>
   </programme>
-  <programme start="20211227203000 +0900" stop="20211227204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">漢方薬や鍼灸（しんきゅう）、太極拳などの「東洋医学」の効果が科学的に解明され始め、医療現場で導入が進んでいる。一日目は、漢方薬の正しい使い方を詳しく解説する。</desc>
+  <programme start="20211228204500 +0900" stop="20211228210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20211228210000 +0900" stop="20211228220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">オミクロン株市中感染年の瀬帰省どうする？大泉洋さんに和久田が聞く紅白司会は来年の大河は▽気になる年末年始天気は▽大谷翔平２０２１“５つの進化”に迫る！</desc>
   </programme>
   <programme start="20211227204500 +0900" stop="20211227210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -661,6 +653,18 @@
   <programme start="20211228200000 +0900" stop="20211228203000 +0900" channel="eTele.jp">
     <title lang="en">ハートネットTV</title>
     <desc lang="en">シリーズ「バリフリ・タウン」。認知症の人が暮らしやすいバリアフリーな町ってどんな町？京都のデイサービスで作られる魅力的な製品！当事者の力を引き出す秘けつとは！？</desc>
+  </programme>
+  <programme start="20211228203000 +0900" stop="20211228204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">世界中で導入が進む漢方薬や鍼灸（しんきゅう）、太極拳などの「東洋医学」。２日目は、医師や研究者が注目する漢方薬“補剤”の効果を詳しく解説する。</desc>
+  </programme>
+  <programme start="20211228204500 +0900" stop="20211228210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20211228210000 +0900" stop="20211228212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">料理講師たちが自慢の「簡単レシピ」をリレー形式で紹介するシリーズ。今月のお題は「絶品！推しもちレシピ」。年末年始、餅を飽きずにおいしく食べるアイディア満載ですよ</desc>
   </programme>
   <programme start="20211227190000 +0900" stop="20211227210000 +0900" channel="NipponTV.jp">
     <title lang="en">有吉ゼミ</title>
@@ -1159,9 +1163,9 @@ by.The Bird And The Bee</desc>
   <title lang="en">超逆境クイズバトル!!99人の壁</title>
   <desc lang="en">今夜発表！禁断の名曲＆名シーンランキング！アナ雪・アラジン・美女と野獣…名場面一挙に…１位は▽風間俊介考案！東京ディズニーリゾート裏側ツアー▽スター・ウォーズＱ</desc>
 </programme>
-<programme start="20211227193000 +0900" stop="20211227200000 +0900" channel="Tokyo MX">
-  <title lang="en">カードファイト!! ヴァンガード overDress</title>
-  <desc lang="en">キャラクターデザイン原案・ＣＬＡＭＰ、アニメーション制作・キネマシトラス。全く新しいヴァンガードがついに動き出す。</desc>
+<programme start="20211228210000 +0900" stop="20211228232400 +0900" channel="FujiTV.jp">
+  <title lang="en">パンドラTV</title>
+  <desc lang="en">アンタッチャブル＆オードリー春日＆ぺこぱがガチロケで徹底調査▽ほぼ日本最低評価の宿の実情を暴く▽沖縄で新種の巨大深海魚を捕獲⁉▽日本上空の謎の気球の正体とは⁉</desc>
 </programme>
 <programme start="20211227200000 +0900" stop="20211227220000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1374,6 +1378,10 @@ by.The Bird And The Bee</desc>
 <programme start="20211228200000 +0900" stop="20211228210000 +0900" channel="Tokyo MX">
   <title lang="en">F.C.TOKYO COLORS</title>
   <desc lang="en">ＦＣ東京が“リーグ制覇”を果たすためには…来シーズン、チームの中心となるであろう３選手とクラブに深い所縁のある人々へのインタビュー取材から、そのヒントを探る‼</desc>
+</programme>
+<programme start="20211228210000 +0900" stop="20211228220000 +0900" channel="Tokyo MX">
+  <title lang="en">東京大賞典2021 直前予想SP</title>
+  <desc lang="en">大井競馬唯一の国際Ｇ１「東京大賞典」。今年のレース直前情報スペシャル！</desc>
 </programme>
 <programme start="20211226230000 +0900" stop="20211227003000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　怒髪天</title>
@@ -2050,7 +2058,7 @@ https//otn.fujitv.co.jp
 <programme start="20211227201500 +0900" stop="20211227210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 20　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211227/7206130/image/9d9114feae0ec7c3e0be59b399f54be1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211227210000 +0900" stop="20211227220000 +0900" channel="kbsworld.jp">
