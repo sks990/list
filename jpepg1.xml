@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211229022000 +0900" stop="20211229031200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ドキュメントTOKYO MEDAL</title>
-    <desc lang="en">史上初の銀メダルを獲得した車いすバスケ男子。世界１位イギリスとの準決勝は死闘となった。鳥海選手など主力選手やイギリスの主将が、あの戦いの舞台裏を赤裸々に明かす。</desc>
-  </programme>
   <programme start="20211229031200 +0900" stop="20211229040200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">世界でも殺人事件が多発するエリア、ギャングの縄張りにカメラが潜入する。南アフリカ・ケープタウンのスラムで、ギャングの更生の道を探る牧師に密着。人間再生の物語。</desc>
@@ -321,6 +317,10 @@
   <programme start="20211230025000 +0900" stop="20211230033500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">夜光音楽</title>
     <desc lang="en">まふまふがこれまで語ってこなかった音楽への思いを語る特集番組！東京ドーム舞台裏密着＆ＳＰ編集映像も！大学などゆかりの地を巡り１０年を語る▽紅白発表会見にも密着</desc>
+  </programme>
+  <programme start="20211230033500 +0900" stop="20211230040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">六本松ベース feat.BiSH</title>
+    <desc lang="en">ライブを心待ちにしているファンとアーティストをつなぐ新たな音楽番組「六本松ベース」。人気爆発中のＢｉＳＨが福岡から全国のファンと一緒に熱いライブを届ける。</desc>
   </programme>
   <programme start="20211229012500 +0900" stop="20211229053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -650,13 +650,9 @@
     <title lang="en">こころの時代〜宗教・人生〜</title>
     <desc lang="en">ブッダを悟りへと導き仏教の原点となった「心身を観察する」瞑想は、時代と地域を越えて広まる中で多彩に変化した。形を変えながらも大切に受け継がれた仏教の“芯”とは。</desc>
   </programme>
-  <programme start="20211229014900 +0900" stop="20211229031900 +0900" channel="NipponTV.jp">
-    <title lang="en">ふぉ〜ゆ〜の王道テレビ 〜年末のどさくさに紛れて地上波SP</title>
-    <desc lang="en">ジャニーズ事務所所属の崖っぷちアイドル「ふぉ〜ゆ〜」がついに冠番組を奪取！？</desc>
-  </programme>
-  <programme start="20211229031900 +0900" stop="20211229035900 +0900" channel="NipponTV.jp">
-    <title lang="en">笑点</title>
-    <desc lang="en">綾瀬はるかの笑点出演を振り返る…初登場から司会までこれまでの傑作映像を一気にお届け！2022年元日の特番に向けて気持ちが上がります！</desc>
+  <programme start="20211230040000 +0900" stop="20211230053000 +0900" channel="eTele.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211229035900 +0900" stop="20211229055900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
@@ -766,11 +762,10 @@
     <title lang="en">読響・ 第九コンサート2021</title>
     <desc lang="en">ベートーヴェン作曲　交響曲第9番ニ短調作品１２５「合唱付き」</desc>
   </programme>
-<programme start="20211229020000 +0900" stop="20211229030000 +0900" channel="Asahi.jp">
-  <title lang="en">「バラバラ大選挙」SP</title>
-  <desc lang="en">▼前半は「ハマスカ放送部」でハマ＆飛鳥と空気階段が様々な音楽を体当たり検証⁉
-▼後半の「空気観察」はハマスカコンビが悩める若者の恋愛相談に！齋藤飛鳥が名言連発</desc>
-</programme>
+  <programme start="20211230040000 +0900" stop="20211230060000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">年に一度のポシュレの年末年始特別セール！今年ポシュレでリアルに売れた商品をジャンル別で振り返りながら、更にスペシャルな特典でご紹介！お見逃しなく！！</desc>
+  </programme>
 <programme start="20211229030000 +0900" stop="20211229040000 +0900" channel="Asahi.jp">
   <title lang="en">「バラバラ大選挙」SP</title>
   <desc lang="en">１２月２０日（月）〜１月１０日（月）で開催する「TELASA presents バラバラ大選挙」の盛り上げ企画として、バラバラ大作戦の全１４番組が２番組ずつコラボした特番を放送</desc>
@@ -843,14 +838,17 @@
   <title lang="en">「バラバラ大選挙」SP</title>
   <desc lang="en">１２月２０日（月）〜１月１０日（月）で開催する「TELASA presents バラバラ大選挙」の盛り上げ企画として、バラバラ大作戦の全１４番組が２番組ずつコラボした特番を放送</desc>
 </programme>
-<programme start="20211229005000 +0900" stop="20211229033500 +0900" channel="TBS2.jp">
-  <title lang="en">「99.9-刑事専門弁護士-」一挙放送SP</title>
-  <desc lang="en">明日放送！３年ぶりの完全新作ドラマ＆３０日公開の映画に先駆けて、シーズン１の４話から６話を放送！</desc>
-</programme>
-<programme start="20211229033500 +0900" stop="20211229034500 +0900" channel="TBS2.jp">
+<programme start="20211230032500 +0900" stop="20211230033000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
-  <desc lang="en">今年も年末年始はスポーツ祭！
-ネンイチ、ボクシング井岡一翔大晦日世界タイトルマッチ、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+  <desc lang="en">テレビ朝日のおすすめ番組をご紹介！</desc>
+</programme>
+<programme start="20211230033000 +0900" stop="20211230040000 +0900" channel="Asahi.jp">
+  <title lang="en">東京トキメキ百貨店</title>
+  <desc lang="en">手にしたらキュンとトキメク商品を紹介‼履くだけでスタイルアップ⁉㊙レギンス‼２５か所の着圧ポイントで脚長＆細見え‼＆お家でジャンプし放題‼跳ぶだけエクササイズ‼</desc>
+</programme>
+<programme start="20211230040000 +0900" stop="20211230045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍V</title>
+  <desc lang="en">「母の願いは人斬り稼業⁉」松平健(他)▽吉宗の供をしていた孫兵衛は、偶然にも旧友・加納信之丞の妻と十年ぶりに再会した。十年前、沼津藩の江戸留守居役だった信之丞は…</desc>
 </programme>
 <programme start="20211229034500 +0900" stop="20211229040000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -908,6 +906,16 @@
   <desc lang="en">これを見ればもっと楽しくなる！『ぎぼむす２０２２年謹賀新年SP』完全ガイド！</desc>
 </programme>
 <programme start="20211230012000 +0900" stop="20211230035000 +0900" channel="TBS2.jp">
+  <title lang="en">天国と地獄〜サイコな2人〜</title>
+  <desc lang="en">負けず嫌いの女性刑事とサイコパスな連続殺人鬼の魂が入れ替わる！究極のスイッチエンターテインメント！
+▽綾瀬はるか主演・義母と娘のブルース謹賀新年SPは１月２日！</desc>
+</programme>
+<programme start="20211230035000 +0900" stop="20211230040000 +0900" channel="TBS2.jp">
+  <title lang="en"></title>
+  <desc lang="en">今年も年末年始はスポーツ祭！
+ボクシング井岡一翔が10度目の大晦日決戦、ニューイヤー駅伝、第30回全日本高校女子サッカー選手権</desc>
+</programme>
+<programme start="20211230040000 +0900" stop="20211230065000 +0900" channel="TBS2.jp">
   <title lang="en">天国と地獄〜サイコな2人〜</title>
   <desc lang="en">負けず嫌いの女性刑事とサイコパスな連続殺人鬼の魂が入れ替わる！究極のスイッチエンターテインメント！
 ▽綾瀬はるか主演・義母と娘のブルース謹賀新年SPは１月２日！</desc>
@@ -982,14 +990,6 @@
 <programme start="20211230013000 +0900" stop="20211230040000 +0900" channel="TVTokyo.jp">
   <title lang="en">東京、愛だの、恋だの</title>
   <desc lang="en">松本まりか主演、大都会・東京で生きる女性たちのリアルな“いま”を描くParaviオリジナルドラマ！</desc>
-</programme>
-<programme start="20211229015500 +0900" stop="20211229032500 +0900" channel="FujiTV.jp">
-  <title lang="en">寺門ジモンの取材拒否の店</title>
-  <desc lang="en">芸能界一のグルメ王・寺門ジモンが取材拒否だけど絶品料理を出している珠玉の名店に直談判▽焼肉・カレー・うどん…テレビ初解禁が続々▽大阪幻の名店も登場</desc>
-</programme>
-<programme start="20211229032500 +0900" stop="20211229034500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
 <programme start="20211229034500 +0900" stop="20211229040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1079,13 +1079,17 @@
   <title lang="en">大晦日はRIZIN 直前SP</title>
   <desc lang="en">徹底分析！キングカズ次男デビュー戦への道・ＲＥＮＡ強さの秘密・シバターｖｓ久保優太</desc>
 </programme>
-<programme start="20211229023500 +0900" stop="20211229030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211229030500 +0900" stop="20211229033500 +0900" channel="Tokyo MX">
+<programme start="20211230032500 +0900" stop="20211230034500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211230034500 +0900" stop="20211230040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20211230040000 +0900" stop="20211230045500 +0900" channel="FujiTV.jp">
+  <title lang="en">かまいたちの机上の空論城</title>
+  <desc lang="en">日本一のド根性芸人の天竺鼠・瀬下！笑いと涙のバンジー超完全版！１００個以上の空論の中から特に反響の大きかった企画をお届け！</desc>
 </programme>
 <programme start="20211229033500 +0900" stop="20211229040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1291,6 +1295,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20211230033000 +0900" stop="20211230040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211230040000 +0900" stop="20211230043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
+</programme>
 <programme start="20211228223000 +0900" stop="20211229010000 +0900" channel="FujiNext.jp">
 <title lang="en">VIVA LA ROCK 2021　＜DAY2＞</title>
 <desc>アイナ・ジ・エンド、indigo la End、Saucy Dog、SUPER BEAVER、フレデリック、UNISON SQUARE GARDEN　ほか
@@ -1312,7 +1324,7 @@
 <programme start="20211229030000 +0900" stop="20211229040000 +0900" channel="FujiNext.jp">
 <title lang="en">和田薫へきくちから！シャ乱Q・モーニング娘。を売った伝説の戦友と交わす音楽雑談！</title>
 <desc>大西結花から森高千里、シャ乱Q、モーニング娘。、そしてソニンまで30年以上の戦友と交わす1990年代からの音楽雑談。ほのか飛び込み！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211228/7212173/image/af3c3bdac1a4b27cddee4a2158ff5339.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211229040000 +0900" stop="20211229050000 +0900" channel="FujiNext.jp">
@@ -1450,7 +1462,7 @@ https//otn.fujitv.co.jp
 ＜ゲスト＞五十嵐亮太　上田剛史
 ＜出演＞つば九郎　西山喜久恵
 ▽つば九郎が得意のカンペでレジェンドたちに鋭く切り込む！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211228/7211375/image/8955c6a59d3dac876da76c82768074ba.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211229040000 +0900" stop="20211229041500 +0900" channel="FujiOne.jp">
