@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211230011800 +0900" stop="20211230020300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SONGS</title>
-    <desc lang="en">反響のあった「ＳＯＮＧＳ」を再放送！今年度の初回ゲストに迎えたのはＮｉｚｉＵ。責任者・大泉洋とスペシャルトークを展開！意外な特技披露に大泉も大興奮！</desc>
-  </programme>
-  <programme start="20211230020300 +0900" stop="20211230024800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">SONGS</title>
-    <desc lang="en">ソロデビュー１０周年のＬｉＳＡが登場。＜ＬｉＳＡを作り上げた音楽＞をテーマに大泉洋とトーク！ＬｉＳＡの原点ＳＰＥＥＤ島袋寛子がサプライズで登場しＬｉＳＡ号泣！？</desc>
-  </programme>
-  <programme start="20211230024800 +0900" stop="20211230025000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【年末年始はイッキ見！】をご覧の皆さんにお届けする１分ドラマ「イッキ見！ラブストーリー」のスピンオフ。イッキ（佐藤寛太）とキミ（馬場ふみか）２人の恋愛の行方は？</desc>
-  </programme>
   <programme start="20211230025000 +0900" stop="20211230033500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">夜光音楽</title>
     <desc lang="en">まふまふがこれまで語ってこなかった音楽への思いを語る特集番組！東京ドーム舞台裏密着＆ＳＰ編集映像も！大学などゆかりの地を巡り１０年を語る▽紅白発表会見にも密着</desc>
@@ -286,9 +274,21 @@
     <title lang="en">光秀のスマホ</title>
     <desc lang="en">ギャラクシー賞テレビ部門フロンティア賞受賞。明智光秀がスマホを駆使して戦国時代を駆け抜けるＳＦ時代劇の完全版。上司信長からの鬼電！同僚秀吉とのフォロワー争い。</desc>
   </programme>
-  <programme start="20211230010000 +0900" stop="20211230020000 +0900" channel="eTele.jp">
-    <title lang="en">こころの時代〜宗教・人生〜</title>
-    <desc lang="en">脱、煩悩。よい一年を迎えるヒント満載の大好評シリーズを一挙再放送する。初回はブッダが発見した苦しみの正体、心のメカニズムをひも解く。めい想がわかれば仏教がわかる</desc>
+  <programme start="20211231022500 +0900" stop="20211231023000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">夜のテレビ体操</title>
+    <desc lang="en">おやすみ前に軽く体を動かす新習慣始めませんか？寝ながらできる運動で日中動いて疲れた体をクールダウン。出演は多胡肇さん・原川愛さん・新井庸太さん・能條貴大さん</desc>
+  </programme>
+  <programme start="20211231023000 +0900" stop="20211231023500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">夜のテレビ体操</title>
+    <desc lang="en">おやすみ前に軽く体を動かす新習慣始めませんか？座ったままで疲れた体を寝ながらできる運動でクールダウン。出演は岡本美佳さん・吉江晴菜さん・戸塚寛子さん・細貝柊さん</desc>
+  </programme>
+  <programme start="20211231023500 +0900" stop="20211231024000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">夜のテレビ体操</title>
+    <desc lang="en">おやすみ前に軽く体を動かす新習慣始めませんか？ストレスなどで疲れた心と体を軽い運動でクールダウン。出演は鈴木大輔さん、舘野伶奈さん、石川裕平さん、幅しげみさん。</desc>
+  </programme>
+  <programme start="20211231024000 +0900" stop="20211231034000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、チェコ・プラハを旅する。</desc>
   </programme>
   <programme start="20211230020000 +0900" stop="20211230030000 +0900" channel="eTele.jp">
     <title lang="en">こころの時代〜宗教・人生〜</title>
@@ -630,13 +630,9 @@
     <title lang="en">こころの時代〜宗教・人生〜</title>
     <desc lang="en">悩み多き一年、煩悩を手放すためには？インドから中国、日本へ脈々と受け継がれてきためい想。行の世界に息づく仏教の原点を見つめる。最澄、空海が伝えためい想法も紹介。</desc>
   </programme>
-  <programme start="20211230015900 +0900" stop="20211230022900 +0900" channel="NipponTV.jp">
-    <title lang="en">第100回全国高校サッカー選手権大会 茅島みずきの高校サッカー魂</title>
-    <desc lang="en">高校サッカー日本一へ！1回戦15試合をダイジェストで総まとめ！ヒーロー候補の選手は？</desc>
-  </programme>
-  <programme start="20211230022900 +0900" stop="20211230023500 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
+  <programme start="20211231030000 +0900" stop="20211231040000 +0900" channel="eTele.jp">
+    <title lang="en">こころの時代〜宗教・人生〜</title>
+    <desc lang="en">仏教の原点となった「心身を観察する」瞑想は、心を静める一方で「病」ともいえる負の側面も持っていた。瞑想中に煩悩や辛い記憶に悩まされたときの対処法を仏典からみる。</desc>
   </programme>
   <programme start="20211230023500 +0900" stop="20211230040000 +0900" channel="NipponTV.jp">
     <title lang="en">読響・ 第九コンサート2021</title>
@@ -719,10 +715,10 @@
     <desc lang="en">以前オドぜひでティモンディ高岸に完敗した春日にリベンジのチャンス！
 強力な助っ人を引き連れパワー系芸人の頂点をかけて再戦！最後の対決は若林が体を張っちゃうぞ！</desc>
   </programme>
-<programme start="20211230012500 +0900" stop="20211230022500 +0900" channel="Asahi.jp">
-  <title lang="en">「バラバラ大選挙」SP</title>
-  <desc lang="en">「トゲアリトゲナシトゲトゲ」メンバーに2021年起こった超個人的ニュースをぺこぱがポジティブ変換！ぺこぱの代名詞「否定しないツッコミ」に福田・加納・サーヤが挑戦！</desc>
-</programme>
+  <programme start="20211231025900 +0900" stop="20211231035400 +0900" channel="NipponTV.jp">
+    <title lang="en">「あなたの番です劇場版」パラレルワールドドラマ!</title>
+    <desc lang="en">大ヒット上映中「あなたの番です劇場版」へとつながる、それぞれの空白の２年を描く新撮ドラマ！＜菜奈・翔太編＞＜床島編＞＜黒島・二階堂編＞</desc>
+  </programme>
 <programme start="20211230022500 +0900" stop="20211230032500 +0900" channel="Asahi.jp">
   <title lang="en">「バラバラ大選挙」SP</title>
   <desc lang="en">１２月２０日（月）〜１月１０日（月）で開催する「TELASA presents バラバラ大選挙」の盛り上げ企画として、バラバラ大作戦の全１４番組が２番組ずつコラボした特番を放送</desc>
@@ -783,6 +779,11 @@
 <programme start="20211231012000 +0900" stop="20211231022000 +0900" channel="Asahi.jp">
   <title lang="en">もしアニ〜もしも芸能人がアニメを作ったら〜</title>
   <desc lang="en">もしも芸能人がアニメを作ったら…【原作】日向坂46・松丸亮吾・ヒコロヒー×【作画】話題のアニメーター◆異才×天才の化学反応で傑作ショートアニメが誕生！</desc>
+</programme>
+<programme start="20211231022000 +0900" stop="20211231035000 +0900" channel="Asahi.jp">
+  <title lang="en">「バラバラ大選挙」投票呼び掛け大作戦SP</title>
+  <desc lang="en">１２月２０日（月）〜１月１０日（月・祝）で開催中の『TELASA presents バラバラ大選挙』
+あなたの投票で一番面白い番組が決まる！</desc>
 </programme>
 <programme start="20211230012000 +0900" stop="20211230035000 +0900" channel="TBS2.jp">
   <title lang="en">天国と地獄〜サイコな2人〜</title>
@@ -913,10 +914,6 @@
   <title lang="en">東京、愛だの、恋だの</title>
   <desc lang="en">松本まりか主演、大都会・東京で生きる女性たちのリアルな“いま”を描くParaviオリジナルドラマ！</desc>
 </programme>
-<programme start="20211230002500 +0900" stop="20211230022500 +0900" channel="FujiTV.jp">
-  <title lang="en">有吉の冬休み 2021 特別編</title>
-  <desc lang="en">元日よる９時は有吉の冬休み２０２２！気の合う仲間と沖縄で遊び三昧！その前に豪華メンバー勢揃いの冬休み２０２１をお届け！絶品グルメ＆絶景に感動！田中告白</desc>
-</programme>
 <programme start="20211230022500 +0900" stop="20211230032500 +0900" channel="FujiTV.jp">
   <title lang="en">大晦日はRIZIN 直前SP</title>
   <desc lang="en">徹底分析！キングカズ次男デビュー戦への道・ＲＥＮＡ強さの秘密・シバターｖｓ久保優太</desc>
@@ -1012,18 +1009,6 @@
 <programme start="20211231012500 +0900" stop="20211231034000 +0900" channel="FujiTV.jp">
   <title lang="en">オリエント急行殺人事件</title>
   <desc lang="en">列車内で起きた殺人事件…容疑者は乗客全員？！ジョニー・デップ他アカデミー賞俳優陣による巧みなアリバイを解けるか？</desc>
-</programme>
-<programme start="20211230013500 +0900" stop="20211230020500 +0900" channel="Tokyo MX">
-  <title lang="en">宇宙よりも遠い場所</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211230020500 +0900" stop="20211230023400 +0900" channel="Tokyo MX">
-  <title lang="en">MIRAI系アイドルTV</title>
-  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
-</programme>
-<programme start="20211230023400 +0900" stop="20211230023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20211230023500 +0900" stop="20211230030000 +0900" channel="Tokyo MX">
   <title lang="en">せとチャレ!STU48</title>
@@ -1198,6 +1183,18 @@
   <desc lang="en">高校生ラッパーの夢を応援する「高校生、夢のＲＡＰプロジェクト」進行中！大会本戦に向けた東日本予選大会が開幕！東京・札幌オーディション通過者１６名が激闘！</desc>
 </programme>
 <programme start="20211231013500 +0900" stop="20211231020500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211231020500 +0900" stop="20211231023400 +0900" channel="Tokyo MX">
+  <title lang="en">らいコレTV</title>
+  <desc lang="en">独特な暗黒感のある美人ミュージシャンライバー「ｓａｅ」さんが初登場。歌詞に暗黒感があるということで、歌詞を見てみることに！どんな内容なのか？</desc>
+</programme>
+<programme start="20211231023400 +0900" stop="20211231023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211231023500 +0900" stop="20211231030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
