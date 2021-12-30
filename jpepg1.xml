@@ -58,26 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211231045400 +0900" stop="20211231050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニッポン創世 神々の道をたどる</title>
-    <desc lang="en">古くから語り継がれてきた神々の物語、日本神話。その重要な舞台、宮崎・高千穂を巡り、日本人の祈りの原点、神話と暮らす人々に出会う。今回は天岩戸神話の地を紹介。</desc>
-  </programme>
-  <programme start="20211231050000 +0900" stop="20211231051000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211231051000 +0900" stop="20211231054000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲この一年</title>
-    <desc lang="en">大横綱・白鵬の引退　新横綱・照ノ富士の誕生　時代の節目となったこの一年！白鵬最後の土俵となった名古屋場所の舞台裏は？一人横綱となった照ノ富士の決意は！</desc>
-  </programme>
-  <programme start="20211231054000 +0900" stop="20211231055000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">やまと尼寺 四季ごよみ</title>
-    <desc lang="en">師走（１２月）前半は“大雪（たいせつ）”。尼寺では「ゆず仕事」。ゆずコショウ、ゆずみそ、皮は菓子に。後半は“冬至（とうじ）”。「ん」のつく物を食べて幸せを願う。</desc>
-  </programme>
-  <programme start="20211231055000 +0900" stop="20211231055500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">浮世絵EDO-LIFE</title>
-    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！大みそかの夜、満天の星空の下、キツネの群れと無数の火の玉が…この不思議な絵に込められた祈りとは？</desc>
-  </programme>
   <programme start="20211231055500 +0900" stop="20211231060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en">１月８日よる９時放送開始の土曜ドラマ「わげもん〜長崎通訳異聞〜」の見どころを出演者の永瀬廉、小池徹平のインタビューを交えてお届けする。</desc>
@@ -286,13 +266,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20211231040000 +0900" stop="20211231053000 +0900" channel="eTele.jp">
+  <programme start="20220101051000 +0900" stop="20220101053500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">グレーテルのかまど</title>
+    <desc lang="en">うっすら紅色が透ける白いおもちに、顔をのぞかせた甘く柔らかなごぼう…雪をかぶった梅の花のような風情の花びらもち。ヘンゼルが伝統の和菓子で新年を祝います。</desc>
+  </programme>
+  <programme start="20220101053500 +0900" stop="20220101060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん紀行</title>
+    <desc lang="en">土佐足摺沖の黒潮の海で、９３歳になった今もカツオを追い続ける漁師がいる。何十年来の不漁に見舞われたこの春、初鰹との対決に執念を燃やす日々を追う（２００９年放送）</desc>
+  </programme>
+  <programme start="20220101060000 +0900" stop="20220101061000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20211231053000 +0900" stop="20211231055400 +0900" channel="eTele.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">日本各地の風土と暮らしの中から生まれる民藝（げい）の道具。そのまじめで丁寧な手仕事、どこか愛着を感じさせる魅力とは？。盛岡・南部鉄器の魅力を藤井フミヤが旅する。</desc>
   </programme>
   <programme start="20211231055400 +0900" stop="20211231062000 +0900" channel="eTele.jp">
     <title lang="en">趣味どきっ!</title>
@@ -434,6 +418,18 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
+  <programme start="20220101053000 +0900" stop="20220101055500 +0900" channel="eTele.jp">
+    <title lang="en">趣味どきっ!</title>
+    <desc lang="en">沖縄の自然と手仕事によって生み出される芭蕉布（ばしょうふ）。国の重要無形文化財保持者として芭蕉布の伝統を守ってきた平良敏子さんを、沖縄出身の知花くららが取材。</desc>
+  </programme>
+  <programme start="20220101055500 +0900" stop="20220101060000 +0900" channel="eTele.jp">
+    <title lang="en">美の小壺</title>
+    <desc lang="en">ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。私たちの暮らしを足元で支えてきた「畳」の魅力を紹介する。</desc>
+  </programme>
+  <programme start="20220101060000 +0900" stop="20220101060500 +0900" channel="eTele.jp">
+    <title lang="en">美の小壺</title>
+    <desc lang="en">ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。今回のテーマは「山」。長野県の北西部に連なる北アルプスの絶景を紹介する。</desc>
+  </programme>
   <programme start="20211231040000 +0900" stop="20211231060000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">年に一度のポシュレの年末年始特別セール！今年ポシュレでリアルに売れた商品をジャンル別で振り返りながら、更にスペシャルな特典でご紹介！お見逃しなく！！</desc>
@@ -504,10 +500,6 @@
 今回のテーマは「モジり世代闘争」
 超人気若手ＶＳ実力派中堅勢が激突、記念すべき１１代目王者は誰の手に⁉</desc>
   </programme>
-<programme start="20211231042000 +0900" stop="20211231055000 +0900" channel="Asahi.jp">
-  <title lang="en">テレメンタリー2021</title>
-  <desc lang="en">東京オリンピック、東日本大震災10年など2021年はコロナ禍でも大きな出来事がありました。日本のミライを見つめる若者の熱いまなざしと溢れる想いにフォーカスを当てます。</desc>
-</programme>
 <programme start="20211231055000 +0900" stop="20211231060000 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
@@ -567,6 +559,14 @@
   <title lang="en">朝まで生テレビ!</title>
   <desc lang="en">1987年開始の深夜生討論番組。恒例の元旦SP。「激論！ド〜なる？！2022 ポスト・コロナ時代の日本」。豪華論客勢揃い！</desc>
 </programme>
+<programme start="20220101055000 +0900" stop="20220101060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220101060000 +0900" stop="20220101114500 +0900" channel="Asahi.jp">
+  <title lang="en">羽鳥慎一モーニングショー</title>
+  <desc lang="en">元旦からニュース満載▼初日の出を総力中継①「富士山＆ご来光」②Ｗダイヤモンド富士▼紅白名場面＆マツケン舞台裏▼オミクロン株最新情報▼絶景ドローン!!日本三大奇勝</desc>
+</programme>
 <programme start="20211231040000 +0900" stop="20211231075000 +0900" channel="TBS2.jp">
   <title lang="en">天国と地獄〜サイコな2人〜</title>
   <desc lang="en">負けず嫌いの女性刑事とサイコパスな連続殺人鬼の魂が入れ替わる！究極のスイッチエンターテインメント！
@@ -621,13 +621,6 @@
   <title lang="en">ジョブチューン〜アノ職業のヒミツぶっちゃけます!</title>
   <desc lang="en">▼今夜！禁断企画！「セブン‐イレブン」・「ファミリーマート」・「ローソン」が大集結！▼大手コンビニ３社が絶対の自信を持つ人気商品を、超一流料理人がジャッジ！</desc>
 </programme>
-<programme start="20211231042000 +0900" stop="20211231054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
-</programme>
 <programme start="20211231054500 +0900" stop="20211231074500 +0900" channel="TVTokyo.jp">
   <title lang="en">ものまね芸人ランキング“1月2日よる10時”いま本当にスゴい!ものまね</title>
   <desc lang="en">一切忖度なし！ものまねのプロ215人に思い切って聞いてみた！いま本当にスゴいものまね芸人をランキングで大発表！2021年、ものまね界の頂点に輝くのは一体、誰なのか？</desc>
@@ -672,13 +665,9 @@
   <title lang="en">ハンコック</title>
   <desc lang="en">ウィル・スミス、シャーリーズ・セロン競演！粗暴で事件解決のたびに街を壊しちゃう嫌われ者ヒーローが、真のヒーローに！ちょっぴり切ないハートウォーミング・アクション</desc>
 </programme>
-<programme start="20211231045500 +0900" stop="20211231055000 +0900" channel="FujiTV.jp">
-  <title lang="en">グータンヌーボ2</title>
-  <desc lang="en">長谷川京子・田中みな実・西野七瀬・満島真之介がＭＣを務めるトークバラエティ！紗栄子＆高橋真麻、ヒコロヒー＆中田クルミの本音女子会をのぞき見！</desc>
-</programme>
-<programme start="20211231055000 +0900" stop="20211231055500 +0900" channel="FujiTV.jp">
-  <title lang="en">FNNニュース</title>
-  <desc lang="en">最新ニュースをお届けします。</desc>
+<programme start="20220101053000 +0900" stop="20220101070000 +0900" channel="TVTokyo.jp">
+  <title lang="en">新春皇室の窓スペシャル〜伊勢神宮を訪ねて〜</title>
+  <desc lang="en">令和４年元旦、北村一輝、水原恵理アナウンサーは伊勢神宮の宇治橋からスタート。皇室とゆかりの神宮を訪れます。早朝の朝日を浴びて内宮へ、さぁ、ご一緒にお伊勢さん参り</desc>
 </programme>
 <programme start="20211231055500 +0900" stop="20211231070000 +0900" channel="FujiTV.jp">
   <title lang="en">アースウォーカー</title>
@@ -747,14 +736,6 @@
 <programme start="20220101050000 +0900" stop="20220101065500 +0900" channel="FujiTV.jp">
   <title lang="en">千鳥のクセがスゴいネタGP新春SP</title>
   <desc lang="en">新年最初のクセ初め！千鳥が２０２２年にイチオシ！？激クセ芸人続々登場！四千頭身石橋ＶＳ都築の衝撃のピンネタ対決ほか新年最初のＧＰは誰が獲得するのか？</desc>
-</programme>
-<programme start="20211231043000 +0900" stop="20211231050000 +0900" channel="Tokyo MX">
-  <title lang="en">原田伸郎のめざせパーゴルフIII</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20211231050000 +0900" stop="20211231053000 +0900" channel="Tokyo MX">
-  <title lang="en">日本のチカラ</title>
-  <desc lang="en">能登から始めよう！〜めざせ自然栽培の聖地〜</desc>
 </programme>
 <programme start="20211231053000 +0900" stop="20211231060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -904,6 +885,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220101053000 +0900" stop="20220101060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220101060000 +0900" stop="20220101063000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20211230223000 +0900" stop="20211231010000 +0900" channel="FujiNext.jp">
 <title lang="en">THINK of MICHINOKU　完全版</title>
 <desc>＜出演＞ASIAN KUNG-FU GENERATION、BiS、BRAHMAN、ELLEGARDEN、The Birthday、サンボマスター 　ほか
@@ -938,7 +927,7 @@
 <title lang="en">フジサンケイレディスクラシック ハイライト9「2014年優勝フェービー・ヤオ」</title>
 <desc>2014年優勝 フェービー・ヤオ
 「強風の中ノーボギーでツアー初V」
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7240788/image/31d52826354af625050267062d93e448.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211231060000 +0900" stop="20211231083000 +0900" channel="FujiNext.jp">
@@ -1026,7 +1015,7 @@
 ＜アシスタント＞橘ゆりか
 ＜解説＞土田浩翔　パジャマとりや
 　【生放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211230/7240837/image/b05df9a814aa6ef77b5b5cb9ced7bb7c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211231060000 +0900" stop="20211231090000 +0900" channel="FujiOne.jp">
@@ -1222,7 +1211,7 @@ https//otn.fujitv.co.jp
 <programme start="20211231053000 +0900" stop="20211231060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7241019/image/a86c21f071980d6622cde8a2a4dcbe8a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211231060000 +0900" stop="20211231065000 +0900" channel="FujiTwo.jp">
