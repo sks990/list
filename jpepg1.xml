@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211230205500 +0900" stop="20211230210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211230210000 +0900" stop="20211230220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">映像全記録 TOKYO2020 私たちの夏</title>
     <desc lang="en">ＴＯＫＹＯ２０２０とは何だったのか。日本のあらゆる場所にカメラを据え、私たちが経験した「特別な夏」を５００時間を越える映像で記録。後編は五輪からパラリンピックへ</desc>
@@ -294,18 +290,6 @@
     <title lang="en">第72回NHK紅白歌合戦</title>
     <desc lang="en">日本全国津々浦々、大みそかの夜をカラフルに！司会は大泉洋・川口春奈。東京国際フォーラムから生放送。ドラクエ・鬼滅・エヴァも！希望に満ちた２０２２年に向かって！</desc>
   </programme>
-  <programme start="20211230205000 +0900" stop="20211230210000 +0900" channel="eTele.jp">
-    <title lang="en">手話シャワー</title>
-    <desc lang="en">欅坂４６の元メンバー長濱ねるさんがろう学校の生徒たちから手話を学ぶ　全く新しい手話講座番組がタート！街でよく使う手話に挑戦。質問するときの手話も紹介します。</desc>
-  </programme>
-  <programme start="20211230210000 +0900" stop="20211230213000 +0900" channel="eTele.jp">
-    <title lang="en">イギリスで一番美しい庭 ダルメイン</title>
-    <desc lang="en">イギリスで一番美しいと称される庭は、湖水地方の１２世紀から続く屋敷ダルメインの庭。屋敷では人生の節目を庭の草花で祝う。娘の結婚式のブーケを庭の「冬の草木」で！</desc>
-  </programme>
-  <programme start="20211230213000 +0900" stop="20211230215500 +0900" channel="eTele.jp">
-    <title lang="en">すてきにハンドメイド</title>
-    <desc lang="en">はぎれを組み合わせて作った表情豊かなテキスタイルをおしゃれでオリジナリティーあふれるトートバッグに仕立てる。講師はキルト作家の阪本あかねさん。</desc>
-  </programme>
   <programme start="20211230215500 +0900" stop="20211230220000 +0900" channel="eTele.jp">
     <title lang="en">まる得マガジン</title>
     <desc lang="en">のどは呼吸・嚥下（えんげ）・発声をつかさどる大切なところ。のどが老化すると命の危険につながる。のどをトレーニングしよう。</desc>
@@ -477,6 +461,10 @@
   <programme start="20211231200000 +0900" stop="20211231212000 +0900" channel="eTele.jp">
     <title lang="en">N響“第9”演奏会</title>
     <desc lang="en">Ｎ響と５０年共演を重ねてきた指揮者　尾高忠明がＮ響「第９」に初登場！苦難を乗り越え奏でる歓喜の旋律▽２０２１年１２月２６日　東京芸術劇場コンサートホールで収録</desc>
+  </programme>
+  <programme start="20211231212000 +0900" stop="20211231234500 +0900" channel="eTele.jp">
+    <title lang="en">クラシック名演・名舞台</title>
+    <desc lang="en">クラシックのこの１年を振り返る。ショパン・コンクール反田恭平の快挙！▽藤田真央ら躍動する若手演奏家の熱演▽Ｎ響は新時代へ！▽バイロイトやプロムスなど海外の話題も</desc>
   </programme>
   <programme start="20211230200000 +0900" stop="20211230233000 +0900" channel="NipponTV.jp">
     <title lang="en">ぐるぐるナインティナイン</title>
@@ -785,6 +773,10 @@
   <title lang="en">第54回年忘れにっぽんの歌</title>
   <desc lang="en">54回目を迎えた恒例の歌特番。日本を代表する歌手が集結！大晦日に本当に聞きたい名曲をたっぷりお届けします。さらにザ・ドリフターズによるＳＰ企画も！</desc>
 </programme>
+<programme start="20211231220000 +0900" stop="20211231233000 +0900" channel="TVTokyo.jp">
+  <title lang="en">孤独のグルメ 2021大晦日スペシャル 激走！絶景絶品・年忘れロードムービー</title>
+  <desc lang="en">旬の蟹に新鮮ジビエ、車旅の疲れ癒すローカル飯！突然の出会いに困惑！？小さな相棒と巡る初のロードムービー！２０２１年胃袋に悔いは残さない、今年最後の大盤振る舞い！</desc>
+</programme>
 <programme start="20211230183000 +0900" stop="20211230230300 +0900" channel="FujiTV.jp">
   <title lang="en">超ド級!世界のありえない映像大賞</title>
   <desc lang="en">２０２１年の年の瀬は、世界中から選りすぐりのありえない映像１２０連発！究極のありえない映像が今夜決定！衝撃＆感動＆爆笑＆絶景！お楽しみください。</desc>
@@ -884,10 +876,6 @@
 <programme start="20211231180000 +0900" stop="20211231234500 +0900" channel="FujiTV.jp">
   <title lang="en">大晦日はRIZIN</title>
   <desc lang="en">朝倉未来リベンジマッチ！朝倉海バンタム級ＧＰ制覇なるか？那須川天心ＲＩＺＩＮラストマッチ！ツヨカワＲＥＮＡ王者サトシｖｓ矢地！キングカズ次男デビュー戦</desc>
-</programme>
-<programme start="20211230200000 +0900" stop="20211230215000 +0900" channel="Tokyo MX">
-  <title lang="en">ドリームガールズ</title>
-  <desc lang="en">トニー賞で６部門を受賞した伝説のブロードウェイミュージカルを映画化した極上のエンターテインメント作。</desc>
 </programme>
 <programme start="20211230215000 +0900" stop="20211230220000 +0900" channel="Tokyo MX">
   <title lang="en">〜未来に遺したい〜日本の橋</title>
@@ -1076,6 +1064,14 @@
 <programme start="20211231210000 +0900" stop="20211231215700 +0900" channel="Tokyo MX">
   <title lang="en">マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-</title>
   <desc lang="en">特別編集版ＳＰ</desc>
+</programme>
+<programme start="20211231215700 +0900" stop="20211231220000 +0900" channel="Tokyo MX">
+  <title lang="en">へんたつ大晦日特別版</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20211231220000 +0900" stop="20211231235700 +0900" channel="Tokyo MX">
+  <title lang="en">Fate Project 大晦日TVスペシャル2021</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211229223000 +0900" stop="20211230010000 +0900" channel="FujiNext.jp">
 <title lang="en">VIVA LA ROCK 2021　＜DAY4＞</title>
@@ -1526,7 +1522,7 @@ https//otn.fujitv.co.jp
 <programme start="20211230210000 +0900" stop="20211230220000 +0900" channel="FujiTwo.jp">
 <title lang="en">キミは＝LOVEを愛せるか!!!　8　　イコラブの冠番組がついにレギュラー化！</title>
 <desc>＝LOVE（イコールラブ）の冠“王道アイドル”バラエティ番組！新たなソロコーナー昭和割烹おおば爆誕！なーたん＆瞳センターのあの曲をフルサイズでお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211230/7241007/image/04e345c8758bfa9de21453ecb337f69f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211230220000 +0900" stop="20211230230000 +0900" channel="FujiTwo.jp">
@@ -1729,7 +1725,7 @@ https//otn.fujitv.co.jp
 <programme start="20211230210000 +0900" stop="20211230220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211230/7206198/image/ff1b333e5ec4e40fc5612aab4a66ba26.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211230220000 +0900" stop="20211230232000 +0900" channel="kbsworld.jp">
