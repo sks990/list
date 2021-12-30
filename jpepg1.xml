@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211230133600 +0900" stop="20211230142600 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ドキュメント72時間</title>
-    <desc lang="en">年末恒例！この１年の放送回から視聴者リクエスト・トップ１０を一挙に放送！みなさんは、どの「７２時間」が、心に響きましたか？さらに、第８位！</desc>
-  </programme>
   <programme start="20211230142600 +0900" stop="20211230150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ドキュメント72時間</title>
     <desc lang="en">年末恒例！この１年の放送回から視聴者リクエスト・トップ１０を一挙に放送！みなさんは、どの「７２時間」が、心に響きましたか？こんどは、第７位！</desc>
@@ -298,21 +294,25 @@
     <title lang="en">世界はほしいモノにあふれてる</title>
     <desc lang="en">鈴木亮平が恋する“ブルー”で世界旅！ブルー大国トルコに、ロイヤルブルーのイギリス！モロッコでは謎の青い民を大捜索！ＪＵＪＵも魅惑のブルーにキュン！？</desc>
   </programme>
-  <programme start="20211230135500 +0900" stop="20211230140000 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 献立帳</title>
-    <desc lang="en">「たたきゴボウ」。細く長く根を張るゴボウには「家の基礎がしっかりするように」との願いがこめられる。たたいたゴボウをゆで、すりごま、酢、砂糖、塩をからめて作る。</desc>
+  <programme start="20211231144800 +0900" stop="20211231144900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">カムカムエヴリバディ年明けの「るい編」のみどころを紹介。</desc>
   </programme>
-  <programme start="20211230140000 +0900" stop="20211230141000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 体育実技</title>
-    <desc lang="en">体育実技における“主体的・対話的・深い学び”とはいかなる学習か？ＮＨＫ高校講座「体育実技」は２０２２年度から導入される新カリキュラムに対応した新番組です。</desc>
+  <programme start="20211231144900 +0900" stop="20211231145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">１／９（日）大河ドラマ「鎌倉殿の１３人」の放送がスタート！ドラマの放送を前に、豪華キャストが彩る物語の見どころを紹介する。</desc>
   </programme>
-  <programme start="20211230141000 +0900" stop="20211230142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 体育実技</title>
-    <desc lang="en">体育実技における“主体的・対話的・深い学び”とはいかなる学習か？ＮＨＫ高校講座「体育実技」は２０２２年度から導入される新カリキュラムに対応した新番組です。</desc>
+  <programme start="20211231145000 +0900" stop="20211231145500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">１／１０（月・祝）よるドラ「恋せぬふたり」の放送がスタート！放送を前にダブル主演の岸井ゆきのと高橋一生のインタビューやドラマの見どころを紹介する。</desc>
   </programme>
-  <programme start="20211230142000 +0900" stop="20211230144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 総合的な探究の時間</title>
-    <desc lang="en">「総合的な探究の時間」とはいかなる学習か？を、番組独自の学習モデル、学習ノウハウと、現役高校生の探究学習の実践を通して学べるＮＨＫ高校講座の新番組です。</desc>
+  <programme start="20211231145500 +0900" stop="20211231150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">面白さ説明不能！　謎のおじさん・しもべえ（安田顕）と受験に恋にがんばる女子高生ユリナ（白石聖）の、見たことない感満載の青春ドラマ「しもべえ」の魅力をご紹介！</desc>
+  </programme>
+  <programme start="20211231150000 +0900" stop="20211231150500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211230144000 +0900" stop="20211230150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 総合的な探究の時間</title>
@@ -566,6 +566,14 @@
     <title lang="en">バリューの真実</title>
     <desc lang="en">高校生が知りたい「キレイな食べ方」上位「骨のある魚の食べ方」「フォークとナイフの使い方」▽京本大我、マナースクールへ▽森本慎太郎・学ラン　弁当男子を熱演！</desc>
   </programme>
+  <programme start="20211231143000 +0900" stop="20211231150000 +0900" channel="eTele.jp">
+    <title lang="en">シュガーシュガー</title>
+    <desc lang="en">サカナクション・山口一郎が、新しい音楽の楽しみかたを見いだすさまざまな企画コーナーをお届け。</desc>
+  </programme>
+  <programme start="20211231150000 +0900" stop="20211231153000 +0900" channel="eTele.jp">
+    <title lang="en">植物に学ぶ生存戦略5 話す人・山田孝之</title>
+    <desc lang="en">山田孝之が植物の奇妙な生態を大胆な擬人化で解き明かすシリーズ、第５弾を再放送。今回も予想を覆す展開が…。待望の第６弾も放送決定。１／１（土）Ｅテレ夜１１００。</desc>
+  </programme>
   <programme start="20211230115500 +0900" stop="20211230160000 +0900" channel="NipponTV.jp">
     <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
     <desc lang="en">ワケあり元エース刑事×ひよっこ新米警官の凸凹ペアが街の平和のために駆け回る！お巡りさんのリアルな日常を描いた話題作「ハコヅメ」を年末一挙放送！（第５話〜第７話）</desc>
@@ -655,6 +663,10 @@
     <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
     <desc lang="en">ワケあり元エース刑事×ひよっこ新米警官の凸凹ペアが街の平和のために駆け回る！お巡りさんのリアルな日常を描いた話題作「ハコヅメ」を年末一挙放送！（第８話＆最終話）</desc>
   </programme>
+  <programme start="20211231140500 +0900" stop="20211231155500 +0900" channel="NipponTV.jp">
+    <title lang="en">第100回全国高校サッカー選手権大会</title>
+    <desc lang="en">長崎総科大附（長崎）×堀越（東京A）生中継！　尚志×関東第一／鹿島学園×高松商 ハイライト※最大延長10分</desc>
+  </programme>
 <programme start="20211230130000 +0900" stop="20211230160000 +0900" channel="Asahi.jp">
   <title lang="en">緊急取調室4</title>
   <desc lang="en">「制限時間６０分の心理戦ｖｓ蘇った伝説の女神」「あと１５日ｖｓ嘘まみれの女たち…仲間の衝撃逮捕‼真実へのカウントダウン」「解散‼キントリ最後の７日間」天海祐希(他)</desc>
@@ -726,6 +738,10 @@
   <desc lang="en">「ボディ〜死体消失‼富豪一族の完全犯罪」
 「ボディ〜二重の罠」
 【出演】水谷豊、反町隆史(他)</desc>
+</programme>
+<programme start="20211231143000 +0900" stop="20211231153000 +0900" channel="Asahi.jp">
+  <title lang="en">つかえるペアリング</title>
+  <desc lang="en">超最新から新定番まで「キャンプグッズ厳選100製品」を忖度なしの辛口レビュー!!壮絶30時間ロケで実際に試して徹底調査。本当に使えるベスト・バイ商品だけを見つけ出す！</desc>
 </programme>
 <programme start="20211230120000 +0900" stop="20211230154500 +0900" channel="TBS2.jp">
   <title lang="en">ドラゴン桜</title>
@@ -799,10 +815,6 @@
 第一部〜愛と奇跡の１０年の物語〜
 １月２日夜９時放送！２０２２年謹賀新年スペシャル</desc>
 </programme>
-<programme start="20211230123000 +0900" stop="20211230143000 +0900" channel="TVTokyo.jp">
-  <title lang="en">秘境のガソリンスタンドに3日間密着してみたら?</title>
-  <desc lang="en">史上初！秘境のガソリンスタンド密着番組「一体誰が来るの！？」▼最北村の海沿いGS▼日本海離島で島唯一のGS▼山奥の豪雪絶景ぽつんとGS…奇跡の出会いがありました</desc>
-</programme>
 <programme start="20211230143000 +0900" stop="20211230175500 +0900" channel="TVTokyo.jp">
   <title lang="en">1月6日(木)よる6時25分は!最強動画ランキングSP予習復習</title>
   <desc lang="en">▼九死に一生！花嫁乗ったヘリが墜落！機体から炎…奇跡の救出▼妻リモート会議中…マヌケなパンツ夫が登場▼激カワ動物３２連発！爆笑「ドリアンVS猫」＆薬が怖すぎる子犬</desc>
@@ -858,10 +870,6 @@
 <programme start="20211231133000 +0900" stop="20211231160000 +0900" channel="TVTokyo.jp">
   <title lang="en">出川哲朗の充電させてもらえませんか?</title>
   <desc lang="en">明日夜５時５５分から４時間ＳＰを放送！…貴乃花光司＆さまぁ〜ず三村が初充電！いとうあさこも参戦！その前に…今回は飯尾和樹＆ウド鈴木＜九州温泉巡りの旅＞をお届け！</desc>
-</programme>
-<programme start="20211230125000 +0900" stop="20211230144500 +0900" channel="FujiTV.jp">
-  <title lang="en">全日本総合バドミントン選手権大会2021</title>
-  <desc lang="en">バドミントン日本一決定戦＆２０２２年日本代表選考大会！東京五輪会場の武蔵野の森で奥原希望３連覇なるか？激動のバドミントン界に新たなヒーロー誕生なるか？</desc>
 </programme>
 <programme start="20211230144500 +0900" stop="20211230154500 +0900" channel="FujiTV.jp">
   <title lang="en">1月2日よる6時30分お笑いオムニバスGP</title>
@@ -958,6 +966,10 @@
 <programme start="20211231135000 +0900" stop="20211231144500 +0900" channel="FujiTV.jp">
   <title lang="en">まもなく格闘技RIZIN</title>
   <desc lang="en">今夜決戦！！那須川天心ＲＩＺＩＮラストマッチへの思い…朝倉未来リベンジマッチへの戦略は？朝倉海出場バンタム級ＧＰ徹底分析！キングカズ次男デビュー戦へ</desc>
+</programme>
+<programme start="20211231144500 +0900" stop="20211231154500 +0900" channel="FujiTV.jp">
+  <title lang="en">日本全国ならではハウス</title>
+  <desc lang="en">劇団ひとり＆バカリズム＆ＮＭＢ４８渋谷凪咲が日本全国にある土地や環境ならではの家「ならではハウス」を大調査！珍生活とアイデア満載の物件情報バラエティ！</desc>
 </programme>
 <programme start="20211230130000 +0900" stop="20211230152000 +0900" channel="Tokyo MX">
   <title lang="en">競馬</title>
@@ -1150,6 +1162,14 @@
 <programme start="20211231130000 +0900" stop="20211231144500 +0900" channel="Tokyo MX">
   <title lang="en">ぼくらの七日間戦争</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20211231144500 +0900" stop="20211231150000 +0900" channel="Tokyo MX">
+  <title lang="en">ちょっと贅沢!欧州列車旅行</title>
+  <desc lang="en">高速近距離列車アヴァント　マドリッド〜トレド（スペイン）</desc>
+</programme>
+<programme start="20211231150000 +0900" stop="20211231160000 +0900" channel="Tokyo MX">
+  <title lang="en">寺西優真のMUSIC JUMP</title>
+  <desc lang="en">寺西優真が送る豪華、歌の祭典！酒井法子、北山たけし、マシコタツロウ、リル・ノア、Ｆｒａｇｒａｎｔ　Ｄｒｉｖｅ、北條透子、渡辺コウが登場！</desc>
 </programme>
 <programme start="20211229223000 +0900" stop="20211230010000 +0900" channel="FujiNext.jp">
 <title lang="en">VIVA LA ROCK 2021　＜DAY4＞</title>
@@ -1558,7 +1578,7 @@ https//otn.fujitv.co.jp
 <programme start="20211230140000 +0900" stop="20211230150000 +0900" channel="FujiTwo.jp">
 <title lang="en">キミは＝LOVEを愛せるか!!!　1　　イコラブの冠番組がついにレギュラー化！</title>
 <desc>指原莉乃プロデュースの12人組声優アイドルユニット、イコラブこと「＝LOVE（イコールラブ）」の冠“王道アイドル”バラエティ番組がついに待望のレギュラー化！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211230/7241000/image/f2fa95a754992e2fb7991943444853cb.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211230150000 +0900" stop="20211230160000 +0900" channel="FujiTwo.jp">
