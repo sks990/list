@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211231234500 +0900" stop="20220101001500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ゆく年くる年</title>
-    <desc lang="en">今年もコロナ禍が続き、経済や暮らしが大きな影響を受けた一年。「来年こそは笑顔を取り戻したい」という願いを全国各地から生中継でお伝えします。</desc>
-  </programme>
-  <programme start="20220101001500 +0900" stop="20220101002000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220101002000 +0900" stop="20220101023000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">2022年新春生放送!年の初めはさだまさし</title>
     <desc lang="en">新年最初は生さだ！カウントダウンコンサートの勢いそのままに、両国国技館からの生放送！さだまさしと新年を祝うべく、豪華ゲストも駆けつける！新年おすすめ番組も紹介！</desc>
@@ -286,9 +278,9 @@
     <title lang="en">あたらしいテレビ</title>
     <desc lang="en">いま、テレビについて語り合う。社会が大きな変化を迎える時代に、テレビをはじめとする映像コンテンツは、どこへ向かうのか。楽しく、真剣に、徹底トーク！</desc>
   </programme>
-  <programme start="20211231234500 +0900" stop="20220101001000 +0900" channel="eTele.jp">
-    <title lang="en">2355-0655 年越しをご一緒にスペシャル</title>
-    <desc lang="en">「２３５５」「０６５５」がお送りする年越しＳＰ！とら年のえとソングや、恒例の新春たなくじ、大人気「ヨルガヤ姉妹の今夜も眠れません」など盛りだくさんの２５分間！</desc>
+  <programme start="20220102002000 +0900" stop="20220102010600 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">LIFE!</title>
+    <desc lang="en">内村光良のコント番組「ＬＩＦＥ！」。今夜は人気コント「カッツ・アイ」に松本まりかが初登場！塚地、ムロ、じろうの「神メンツ」に江口のりこ困惑？三津谷からご報告も</desc>
   </programme>
   <programme start="20220101001000 +0900" stop="20220101011900 +0900" channel="eTele.jp">
     <title lang="en">あけましてねほりんぱほりん2022</title>
@@ -446,10 +438,6 @@
     <title lang="en">昔話法廷</title>
     <desc lang="en">なじみ深い昔話の登場人物を裁く異色法廷ドラマ「昔話法廷」。これまでの作品の中から選りすぐり作を一挙放送！スタジオゲストと振り返るスペシャル版。</desc>
   </programme>
-  <programme start="20211231183000 +0900" stop="20220101003000 +0900" channel="NipponTV.jp">
-    <title lang="en">笑って年越したい!笑う大晦日</title>
-    <desc lang="en">ナイナイ＆バナナ＆千鳥＆後藤＆直美の代打ＭＣは誰だ！何が起こるか分からない６時間生放送！出川上島が厄払い大暴れ＆最強芸人生ネタ披露＆豪華俳優が芸人と異色コラボ⁉</desc>
-  </programme>
   <programme start="20220101003000 +0900" stop="20220101020000 +0900" channel="NipponTV.jp">
     <title lang="en">ぐるぐるナインティナイン</title>
     <desc lang="en">ぐるナイおもしろ荘！今年もヤバい！１０７５組から発掘！アラフォー美熟女の叫び＆パリピトリオ＆謎の半魚人＆㊙ダンス美女⁉ギター芸人に有吉出川が激怒？白石麻衣成田凌</desc>
@@ -492,10 +480,14 @@
     <title lang="en">King  Princeる。</title>
     <desc lang="en">ビッグボスvsキンプリ墨塗り羽子板バトル▽新宿街頭ゲリラ番宣‼Twitterトレンド1位獲れるか⁉▽最強の男ウルフ・アロンと㊙新種目でガチ対決▽生放送SP企画…</desc>
   </programme>
-<programme start="20211231230000 +0900" stop="20220101003000 +0900" channel="Asahi.jp">
-  <title lang="en">あざとく年越して何が悪いの?</title>
-  <desc lang="en">史上初！みな実×弘中率いる「日本一豪華な女子会」開催！上戸彩が暴露する山里のヤバすぎる過去!?さらに佐藤健が番宣なしで緊急参戦！新年までのカウントダウンを一緒に！</desc>
-</programme>
+  <programme start="20220102002500 +0900" stop="20220102004500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNニューススポーツ</title>
+    <desc lang="en">最新のニュース、スポーツ情報、気になるお天気をお伝えします。</desc>
+  </programme>
+  <programme start="20220102004500 +0900" stop="20220102012400 +0900" channel="NipponTV.jp">
+    <title lang="en">真犯人フラグ</title>
+    <desc lang="en">1月9日【真相編】スタート！真犯人と、世間からの疑惑の目と戦いながら、失踪した家族を捜す男の戦いを描く、半年間のノンストップミステリー！前半の総集編・第1夜！</desc>
+  </programme>
 <programme start="20220101003000 +0900" stop="20220101014500 +0900" channel="Asahi.jp">
   <title lang="en">人気漫画家が選ぶ!本当にすごい漫画はコレだ!2022</title>
   <desc lang="en">レジェンドから新進気鋭までプロの漫画家39名が本当に「スゴイ！」と思うマイベスト漫画を大発表！2022年に読むべき漫画はこれだ！</desc>
@@ -541,6 +533,14 @@
   <title lang="en">下からノゾいてみた!</title>
   <desc lang="en">元日特番の特殊映像バラエティ！世の中の簡単にはノゾけないあらゆる物を下から撮影　▽最新マジックを下から撮ると仕掛けが分かる？▽落雷を下から撮ったら驚きの光景が！</desc>
 </programme>
+<programme start="20220102001500 +0900" stop="20220102002500 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220102002500 +0900" stop="20220102012500 +0900" channel="Asahi.jp">
+  <title lang="en">ナレーションガチャ 〜その通りにできるかな?〜</title>
+  <desc lang="en">MC麒麟・川島＆高山一実の実験型バラエティ！ロケ先で繰り出される先録りされたナレーションに沿って、出川哲朗が乳搾りで感動⁉＆Snow Manが8000個のドミノに挑戦‼</desc>
+</programme>
 <programme start="20211231234500 +0900" stop="20220101050000 +0900" channel="TBS2.jp">
   <title lang="en">CDTVスペシャル!年越しプレミアライブ2021→2022</title>
   <desc lang="en">総勢７３組の人気アーティストが集結！！と朝５時までノンストップ激アツライブをお見逃しなく！！！</desc>
@@ -581,14 +581,13 @@
   <title lang="en">笑いの王者が大集結!ドリーム東西ネタ合戦</title>
   <desc lang="en">🈑今一番見てもらいたい、絶対笑える芸人３０組が東西に分かれ大激突！千鳥かまいたち空気階段サンド華丸大吉！勝者は…西か！？　東か！？総合ＭＣダウンタウン！</desc>
 </programme>
-<programme start="20211231233000 +0900" stop="20220101004500 +0900" channel="TVTokyo.jp">
-  <title lang="en">東急ジルベスターコンサート</title>
-  <desc lang="en">27回目を迎える今回は「乗り越えよう、音楽の力で」をテーマに、新しい時代を担う注目の若手アーティストを中心にお送りする。
-◇５．１サラウンド</desc>
+<programme start="20220102001500 +0900" stop="20220102002500 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20220101004500 +0900" stop="20220101005000 +0900" channel="TVTokyo.jp">
-  <title lang="en">TXNニュース</title>
-  <desc lang="en">日本や世界の最新ニュースをコンパクトにお伝えする。</desc>
+<programme start="20220102002500 +0900" stop="20220102012500 +0900" channel="TBS2.jp">
+  <title lang="en">ラフクライ</title>
+  <desc lang="en">🈑お笑いショートネタの超ガチ勝負！最下位は地上波放送ナシの過酷サバイバル！絶対に負けられない芸人…空気階段＆蛙亭＆ジェラードン！刺客・河合郁人、ラミレスらが参戦</desc>
 </programme>
 <programme start="20220101005000 +0900" stop="20220101015000 +0900" channel="TVTokyo.jp">
   <title lang="en">来世ではちゃんとします お正月初夢SP</title>
@@ -628,9 +627,9 @@
   <title lang="en">エンドロールで見っけ!このNIHONJINって誰?</title>
   <desc lang="en">外国語だらけの海外映画のエンドロールやミュージックビデオ、雑誌などで見つけた謎の“NIHONJIN（日本人）”の正体を明らかにするバラエティー番組。</desc>
 </programme>
-<programme start="20211231234500 +0900" stop="20220101004500 +0900" channel="FujiTV.jp">
-  <title lang="en">東京ドームに2年ぶりの大集合!ジャニーズカウントダウン2021→2022</title>
-  <desc lang="en">２年ぶりに東京ドームからジャニーズカウントダウン生中継！豪華１３組が集結！「王子様」「元気」「セクシー」国民投票で選ばれた上位メンバーで初夢ユニット！</desc>
+<programme start="20220102010000 +0900" stop="20220102010500 +0900" channel="TVTokyo.jp">
+  <title lang="en">TXNニュース</title>
+  <desc lang="en">日本や世界の最新ニュースをコンパクトにお伝えする。</desc>
 </programme>
 <programme start="20220101004500 +0900" stop="20220101031500 +0900" channel="FujiTV.jp">
   <title lang="en">ネタパレ</title>
@@ -675,6 +674,18 @@
 <programme start="20220101233000 +0900" stop="20220102003000 +0900" channel="FujiTV.jp">
   <title lang="en">バチくるオードリー</title>
   <desc lang="en">オードリーのお笑い実験番組！Ｍ１王者・錦鯉も参戦！春日になりきり漫才王▽前回話題ピュア芸人のラブソング歌詞を本物歌手が歌ったら？また号泣？▽ハライチ岩井</desc>
+</programme>
+<programme start="20220102003000 +0900" stop="20220102004000 +0900" channel="FujiTV.jp">
+  <title lang="en">FNNニュース</title>
+  <desc lang="en">最新ニュースをお届けします。</desc>
+</programme>
+<programme start="20220102004000 +0900" stop="20220102005000 +0900" channel="FujiTV.jp">
+  <title lang="en">真夜中のVS魂</title>
+  <desc lang="en">ＶＳ魂メンバーが５夜にわたり年末年始注目番組の見どころをお届け！第４夜は二宮が登場！主演ドラマ「潜水艦カッペリーニ号の冒険」特集！佐藤勝利と潜水対決も？</desc>
+</programme>
+<programme start="20220102005000 +0900" stop="20220102015000 +0900" channel="FujiTV.jp">
+  <title lang="en">オソロー!!</title>
+  <desc lang="en">人気者８人が知られざる共通点＝オソローを探し出すためトーク！オソローが見つかると歓喜！見つからないと…ついつい余計なことをしゃべっちゃう…▽劇団ひとり</desc>
 </programme>
 <programme start="20211231235700 +0900" stop="20220101013000 +0900" channel="Tokyo MX">
   <title lang="en">魔法科高校の劣等生 追憶編</title>
@@ -792,12 +803,20 @@
   <title lang="en">あけましてスターダム元日12時間SP</title>
   <desc lang="en">２０２１年度のＳＴＡＲＤＯＭの全試合の中から公式ツイッターとホームページより募集した「ファンが選んだベストバウト」。２０位から１０位までを一挙公開！</desc>
 </programme>
+<programme start="20220102003000 +0900" stop="20220102010000 +0900" channel="Tokyo MX">
+  <title lang="en">あけましてスターダム元日12時間SP</title>
+  <desc lang="en">ＳＴＡＲＤＯＭ旗揚げの2011年にデビューし、ＳＴＡＲＤＯＭのアイコンとして大活躍の岩谷麻優。10年間の過去映像と共に岩谷麻優と岩谷ファンの別府ともひこが振り返る。</desc>
+</programme>
+<programme start="20220102010000 +0900" stop="20220102013000 +0900" channel="Tokyo MX">
+  <title lang="en">あけましてスターダム元日12時間SP</title>
+  <desc lang="en">２０２１年度のＳＴＡＲＤＯＭ全試合の中から公式ツイッターとホームページより募集した「ファンが選んだベストバウト」。８位と９位の名勝負をお届け！</desc>
+</programme>
 <programme start="20211231193000 +0900" stop="20220101010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]幸せワッハッハ！ COUNTDOWN LIVE IN OKINAWA</title>
 <desc>2021−2022
 ＜出演＞DIAMANTES、HY、かりゆし58、パーシャクラブ、MONGOL800
 ▽沖縄を代表する豪華アーティストが集結！　【生中継】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7240795/image/68b18bba0e52b01d9551be7a156281c9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220101010000 +0900" stop="20220101033000 +0900" channel="FujiNext.jp">
