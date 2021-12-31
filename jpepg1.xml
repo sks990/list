@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220101023400 +0900" stop="20220101032200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">タイムスクープハンター セレクション</title>
-    <desc lang="en">時空ジャーナリストの沢嶋雄一はひょんなことから、明治６年１月１日へタイムワープ。旧暦からグレゴリオ暦への変更で慌てる庶民を密着取材（２０１５年１月１日放送）</desc>
-  </programme>
-  <programme start="20220101032200 +0900" stop="20220101032400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【年末年始はイッキ見！】をご覧の皆さんにお届けする１分ドラマ「イッキ見！ラブストーリー」のスピンオフ。イッキ（佐藤寛太）とキミ（馬場ふみか）２人の恋愛の行方は？</desc>
-  </programme>
   <programme start="20220101032400 +0900" stop="20220101040700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">タイムスクープハンター セレクション</title>
     <desc lang="en">時空ジャーナリストの沢嶋雄一（要潤）は江戸時代の理容師である髪結いに密着。髷（まげ）が結えない武士の深刻な問題とは？（２０１１年５月１９日放送）</desc>
@@ -290,6 +282,14 @@
     <title lang="en">LIFE!</title>
     <desc lang="en">座長・内村光良のコント番組「ＬＩＦＥ！」。今回のメンバーは杉咲花、風間俊介、和牛・川西、シソンヌ・じろう、池谷のぶえ、田中直樹。秋の夜長に全力コントをお届け！</desc>
   </programme>
+  <programme start="20220102032800 +0900" stop="20220102035700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した世界遺産「春日大社」。</desc>
+  </programme>
+  <programme start="20220102035700 +0900" stop="20220102041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
+  </programme>
   <programme start="20220101025100 +0900" stop="20220101041500 +0900" channel="eTele.jp">
     <title lang="en">あけましてねほりんぱほりん2022</title>
     <desc lang="en">モグラになった山里亮太とＹＯＵが顔出しＮＧのゲストからねほりはほりする人形劇赤裸々トークショー。元日の真夜中、秋から放送の６本を振り返る！ニンゲンって面白い！</desc>
@@ -445,6 +445,10 @@
   <programme start="20220102030000 +0900" stop="20220102034400 +0900" channel="eTele.jp">
     <title lang="en">先人たちの底力 知恵泉</title>
     <desc lang="en">約７００年に及んだ“武士の時代”。なぜ武士は貴族に代わり時代の主役に躍り出たのか？平安末期の保元・平治の乱における源義朝・平清盛の姿を通して、その知恵を探る。</desc>
+  </programme>
+  <programme start="20220102034400 +0900" stop="20220102042700 +0900" channel="eTele.jp">
+    <title lang="en">先人たちの底力 知恵泉</title>
+    <desc lang="en">後鳥羽上皇が鎌倉幕府に戦いを挑んだ承久の乱。迎え撃つ北条義時と御家人たち。勝敗を分けたものは何だったのか？武士の時代を確立した戦から、巨大な敵と戦う知恵を探る。</desc>
   </programme>
   <programme start="20220101020000 +0900" stop="20220101062000 +0900" channel="NipponTV.jp">
     <title lang="en">フットンダ王決定戦2022</title>
@@ -617,12 +621,6 @@
   <title lang="en">MIU404</title>
   <desc lang="en">綾野剛＆星野源のＷ主演！警視庁“機動捜査隊”で２人がバディを組み、２４時間というタイムリミットの中で犯人逮捕にすべてを懸けるノンストップエンターテインメント！</desc>
 </programme>
-<programme start="20220101015000 +0900" stop="20220101033000 +0900" channel="TVTokyo.jp">
-  <title lang="en">元旦に爆誕!ネクストブレイク芸人ガチャ2022</title>
-  <desc lang="en">チョコプラ＆ニューヨークＭＣ！
-ブレイク間違いなしの芸人たちが楽屋芸を携え…ガチャで出現！
-マヂラブ・ミキ・オズワルドも登場！</desc>
-</programme>
 <programme start="20220101033000 +0900" stop="20220101053000 +0900" channel="TVTokyo.jp">
   <title lang="en">ハンコック</title>
   <desc lang="en">ウィル・スミス、シャーリーズ・セロン競演！粗暴で事件解決のたびに街を壊しちゃう嫌われ者ヒーローが、真のヒーローに！ちょっぴり切ないハートウォーミング・アクション</desc>
@@ -664,9 +662,9 @@
   <title lang="en">15ビョーーーン</title>
   <desc lang="en">“１ネタ＝１５秒”超ショートネタバトル！年間グランドチャンピオン大会開催！エントリー総数１０００ネタを超える中から厳選した珠玉の１５秒ネタ連発披露！王者は誰に⁉</desc>
 </programme>
-<programme start="20220101004500 +0900" stop="20220101031500 +0900" channel="FujiTV.jp">
-  <title lang="en">ネタパレ</title>
-  <desc lang="en">冒頭まっすーＳＰコラボ▽南原×ゾフィー▽ハナコ×男性ブランコ▽バカリズム・アンガ・スピードワゴン・ロッチ…ＳＰネタ▽宮草ＶＳ四千ＶＳラランドＶＳマミィＶＳかが屋</desc>
+<programme start="20220102033500 +0900" stop="20220102063000 +0900" channel="TVTokyo.jp">
+  <title lang="en">戦場にかける橋</title>
+  <desc lang="en">捕虜という立場ながら誇りを賭け橋梁工事に挑む英国将校。対し橋爆破の命を受け命がけで脱走した収容所を目指す米軍少佐。人の尊厳、戦争の愚かさを描いた映画史に残る傑作</desc>
 </programme>
 <programme start="20220101031500 +0900" stop="20220101050000 +0900" channel="FujiTV.jp">
   <title lang="en">久保みねヒャダ明けましてこじらせナイト寿SP</title>
@@ -728,13 +726,9 @@
   <title lang="en">千原ジュニアの座王</title>
   <desc lang="en">笑いの総合格闘技“座王”女芸人ＳＰ！！Ｒ－１王者にＴＨＥ　Ｗ女王！人気芸人１０名が集結！先輩後輩関係なし！負ければ即退場！座王に輝くのは一体誰だ！？</desc>
 </programme>
-<programme start="20220101013000 +0900" stop="20220101031500 +0900" channel="Tokyo MX">
-  <title lang="en">未知との遭遇</title>
-  <desc lang="en">第５０回アカデミー賞２部門受賞　撮影賞／特別業績賞</desc>
-</programme>
-<programme start="20220101031500 +0900" stop="20220101034500 +0900" channel="Tokyo MX">
-  <title lang="en">真夜中のおバカ騒ぎ!</title>
-  <desc lang="en">マヨバカ！立ちトーク！</desc>
+<programme start="20220102035000 +0900" stop="20220102045000 +0900" channel="FujiTV.jp">
+  <title lang="en">1/9はジャンク豪華3時間SPビックカメラで桐生祥秀多田修平が爆買い!</title>
+  <desc lang="en">１月９日はジャンク３時間ＳＰ①大谷翔平２０２２年の活躍は？独自目線で徹底解剖＆親友が素顔を初告白②桐生祥秀＆多田修平ビックカメラ爆買い③プロ野球若手スター大集結</desc>
 </programme>
 <programme start="20220101034500 +0900" stop="20220101050000 +0900" channel="Tokyo MX">
   <title lang="en">夜光漂流 MIDNIGHT JELLYFISH</title>
@@ -855,6 +849,10 @@
 <programme start="20220102020000 +0900" stop="20220102033000 +0900" channel="Tokyo MX">
   <title lang="en">あけましてスターダム元日12時間SP</title>
   <desc lang="en">２０２１年度のＳＴＡＲＤＯＭの全試合の中からスターダム公式ツイッターとホームページより募集した「ファンが選んだベストバウト」。７位から４位までの名勝負をお届け！</desc>
+</programme>
+<programme start="20220102033000 +0900" stop="20220102050000 +0900" channel="Tokyo MX">
+  <title lang="en">あけましてスターダム元日12時間SP</title>
+  <desc lang="en">２０２１年度のＳＴＡＲＤＯＭ全試合の中から、公式ツイッターとホームページより募集した「ファンが選んだベストバウト」。３位から１位までの名勝負をお届け！</desc>
 </programme>
 <programme start="20211231193000 +0900" stop="20220101010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]幸せワッハッハ！ COUNTDOWN LIVE IN OKINAWA</title>
