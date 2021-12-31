@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211231145500 +0900" stop="20211231150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">面白さ説明不能！　謎のおじさん・しもべえ（安田顕）と受験に恋にがんばる女子高生ユリナ（白石聖）の、見たことない感満載の青春ドラマ「しもべえ」の魅力をご紹介！</desc>
-  </programme>
-  <programme start="20211231150000 +0900" stop="20211231150500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211231150500 +0900" stop="20211231162700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">アーヤと魔女</title>
     <desc lang="en">企画・宮崎駿、監督・宮崎吾朗によるスタジオジブリの最新作！キャストに、寺島しのぶ、豊川悦司、濱田岳、平澤宏々路―――わたしはダレの言いなりにもならない。</desc>
@@ -246,13 +238,13 @@
     <title lang="en">超絶神業!マジックバトル</title>
     <desc lang="en">２０２１年春に放送して大好評だったマジックの祭典が完全版となって復活！勘九郎がなんと宙に浮く！小芝風花に腕利きマジシャンがおそいかかる！その結末は！？</desc>
   </programme>
-  <programme start="20211231143000 +0900" stop="20211231150000 +0900" channel="eTele.jp">
-    <title lang="en">シュガーシュガー</title>
-    <desc lang="en">サカナクション・山口一郎が、新しい音楽の楽しみかたを見いだすさまざまな企画コーナーをお届け。</desc>
+  <programme start="20220101151800 +0900" stop="20220101152300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211231150000 +0900" stop="20211231153000 +0900" channel="eTele.jp">
-    <title lang="en">植物に学ぶ生存戦略5 話す人・山田孝之</title>
-    <desc lang="en">山田孝之が植物の奇妙な生態を大胆な擬人化で解き明かすシリーズ、第５弾を再放送。今回も予想を覆す展開が…。待望の第６弾も放送決定。１／１（土）Ｅテレ夜１１００。</desc>
+  <programme start="20220101152300 +0900" stop="20220101163500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">子犬が家にやってきた!〜パピーラブラブドキュメント〜</title>
+    <desc lang="en">子犬を迎えたその日から一家は激変！思いが通じず泣き出す家族もあればさみしがり屋の子犬をどうしてよいか途方に暮れる家族も。切なくもいとおしいワンコドキュメント！</desc>
   </programme>
   <programme start="20211231153000 +0900" stop="20211231160000 +0900" channel="eTele.jp">
     <title lang="en">ワルイコあつまれ</title>
@@ -398,6 +390,18 @@
     <title lang="en">スマーフ スマーフェットと秘密の大冒険</title>
     <desc lang="en">小さな青い妖精スマーフが、新たな仲間たちを救うため、禁断の森へ旅に出る！みんなを引っ張るのは、村で唯一の女の子スマーフェット。ふしぎな友だち、みつけた！</desc>
   </programme>
+  <programme start="20220101152200 +0900" stop="20220101152500 +0900" channel="eTele.jp">
+    <title lang="en">絵本のおくりもの〜こぐまちゃんえほんシリーズ〜</title>
+    <desc lang="en">こぐまちゃんは花に水をあげるお手伝い。あれ？いつの間にか、手に持っているじょうろがホースにかわって…！？</desc>
+  </programme>
+  <programme start="20220101152500 +0900" stop="20220101153000 +0900" channel="eTele.jp">
+    <title lang="en">プチプチ・アニメ</title>
+    <desc lang="en">寝ぼすけであわてんぼうのパルタ。ガールフレンドのピプコや犬のコロタたちとの、ドタバタだけれども楽しい毎日。海や山、あらゆるところで大冒険が繰り広げられます。</desc>
+  </programme>
+  <programme start="20220101153000 +0900" stop="20220101170000 +0900" channel="eTele.jp">
+    <title lang="en">新春将棋バトル!〜バラエティー五番勝負〜</title>
+    <desc lang="en">プロ棋士による「超高速対局」あり、将棋盤なしの「脳内対局」あり、そしてお笑い芸人サバンナが将棋遊びで火花を散らす！家族全員で楽しめる将棋バトル５番勝負！</desc>
+  </programme>
   <programme start="20211231140500 +0900" stop="20211231160500 +0900" channel="NipponTV.jp">
     <title lang="en">第100回全国高校サッカー選手権大会</title>
     <desc lang="en">長崎総科大附（長崎）×堀越（東京A）生中継！　尚志×関東第一／鹿島学園×高松商 ハイライト※最大延長10分</desc>
@@ -448,10 +452,6 @@
     <title lang="en">笑点</title>
     <desc lang="en">綾瀬はるかが司会に書道パフォーマンスに大活躍！ヒルナンデス！との大喜利対決▽森七菜＆桂文枝＆五輪メダリストら豪華ゲストが続々登場！</desc>
   </programme>
-<programme start="20211231143000 +0900" stop="20211231153000 +0900" channel="Asahi.jp">
-  <title lang="en">つかえるペアリング</title>
-  <desc lang="en">超最新から新定番まで「キャンプグッズ厳選100製品」を忖度なしの辛口レビュー!!壮絶30時間ロケで実際に試して徹底調査。本当に使えるベスト・バイ商品だけを見つけ出す！</desc>
-</programme>
 <programme start="20211231153000 +0900" stop="20211231163000 +0900" channel="Asahi.jp">
   <title lang="en">コレって何の日本地図!?</title>
   <desc lang="en">“日本地図”を使って様々な切り口から県民性を掘り下げる情報バラエティー！
@@ -597,10 +597,6 @@
   <title lang="en">孤独のグルメ イッキ見スペシャル</title>
   <desc lang="en">松重豊主演・人気のグルメドキュメンタリードラマ・お正月イッキ見SP！松重さん新年のあいさつ＆Season６の１０話〜１２話＆最新シリーズのSeason９を全話放送！</desc>
 </programme>
-<programme start="20211231144500 +0900" stop="20211231154500 +0900" channel="FujiTV.jp">
-  <title lang="en">日本全国ならではハウス</title>
-  <desc lang="en">劇団ひとり＆バカリズム＆ＮＭＢ４８渋谷凪咲が日本全国にある土地や環境ならではの家「ならではハウス」を大調査！珍生活とアイデア満載の物件情報バラエティ！</desc>
-</programme>
 <programme start="20211231154500 +0900" stop="20211231164500 +0900" channel="FujiTV.jp">
   <title lang="en">有吉の冬休み前日SP</title>
   <desc lang="en">元日よる９時は有吉の冬休み２０２２！一足先に予習ＳＰ！明日の放送に入り切らなかった貴重なシーンを公開＆峯岸ｖｓ朝日が沖縄スポットを巡りながら対決！</desc>
@@ -649,9 +645,9 @@
   <title lang="en">第55回新春!爆笑ヒットパレード2022</title>
   <desc lang="en">２０２２年最初の笑いの祭典！大御所芸人から漫才＆コント王者に若手人気芸人＆タレントたちが生放送で届ける笑い初め！５５周年を祝い超大物ゲストも登場！</desc>
 </programme>
-<programme start="20211231144500 +0900" stop="20211231150000 +0900" channel="Tokyo MX">
-  <title lang="en">ちょっと贅沢!欧州列車旅行</title>
-  <desc lang="en">高速近距離列車アヴァント　マドリッド〜トレド（スペイン）</desc>
+<programme start="20220101160000 +0900" stop="20220101180000 +0900" channel="FujiTV.jp">
+  <title lang="en">さんタク</title>
+  <desc lang="en">さんま作詞／木村拓哉の新曲テレビ初披露！検証①ふたりで奇跡を超えることができる？検証②ふたりで初詣バレずにお参りできる？サッカー日本代表・堂安も驚き？</desc>
 </programme>
 <programme start="20211231150000 +0900" stop="20211231160000 +0900" channel="Tokyo MX">
   <title lang="en">寺西優真のMUSIC JUMP</title>
@@ -789,6 +785,10 @@
   <title lang="en">わたしの芸術劇場特別編『一生に一度は見よう!片桐仁の妄想美術館』</title>
   <desc lang="en">美術館の名物学芸員たちが、番組から出されたテーマを元に【片桐仁の妄想美術館】に珠玉の名画をプレゼン。ゲストと共に気軽にアートを楽しみませんか？</desc>
 </programme>
+<programme start="20220101160000 +0900" stop="20220101174500 +0900" channel="Tokyo MX">
+  <title lang="en">今日も嫌がらせ弁当</title>
+  <desc lang="en">お弁当に込められる、母からの愛情あふれるメッセージに誰もが心打たれる感動作。</desc>
+</programme>
 <programme start="20211230223000 +0900" stop="20211231010000 +0900" channel="FujiNext.jp">
 <title lang="en">THINK of MICHINOKU　完全版</title>
 <desc>＜出演＞ASIAN KUNG-FU GENERATION、BiS、BRAHMAN、ELLEGARDEN、The Birthday、サンボマスター 　ほか
@@ -860,7 +860,7 @@
 <title lang="en">春の高校バレー  第73回 男子決勝　女子決勝</title>
 <desc>第73回全日本バレーボール高等学校選手権大会　男子決勝「東福岡 vs 駿台学園」　女子決勝「大阪国際滝井 vs 就実」
 ＜開催＞2021年1月10日【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7240792/image/1572da128755c8541acff9c84f1a005e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211231160000 +0900" stop="20211231183000 +0900" channel="FujiNext.jp">
@@ -1198,7 +1198,7 @@ https//otn.fujitv.co.jp
 <desc>＜ホスト＞蒼井翔太　西山宏太朗
 ＜ゲスト＞大平峻也　佐伯大地
 ▽ファンの皆様の熱いリクエストにお応えして2年半ぶりに待望の復活！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7241031/image/144a5f74201f505a59e656479152dca9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211231160000 +0900" stop="20211231170000 +0900" channel="FujiTwo.jp">
