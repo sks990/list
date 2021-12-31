@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211231115400 +0900" stop="20211231120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20211231120000 +0900" stop="20211231121000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20211231121000 +0900" stop="20211231121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20211231121500 +0900" stop="20211231130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">土曜スタジオパーク</title>
     <desc lang="en">第１部のゲストは、正月時代劇『幕末相棒伝』主演・坂本龍馬を演じる永山瑛太さん。撮影秘話や見どころ、土方歳三を演じる向井理さんインタビューも！宝くじ抽せん会中継</desc>
@@ -266,13 +254,17 @@
     <title lang="en"></title>
     <desc lang="en">【キャスター】三條雅幸</desc>
   </programme>
-  <programme start="20211231115100 +0900" stop="20211231122000 +0900" channel="eTele.jp">
-    <title lang="en">リフォーマーズの杖</title>
-    <desc lang="en">２１００年の未来人ヒカルが、だらしない６人の芸人のもとへ！彼らはＳＤＧｓの大切さに気づき世直し隊リフォーマーズを結成。“転ばぬ先の杖”を実現するべく挑み始めた！</desc>
+  <programme start="20220101121000 +0900" stop="20220101121500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20211231122000 +0900" stop="20211231124500 +0900" channel="eTele.jp">
-    <title lang="en">グレーテルのかまど</title>
-    <desc lang="en">人気アニメ“おジャ魔女どれみ”に登場！かわいいうずまき模様の中には、さわやかなムースが。手の込んだケーキ、ヘンゼルは作り上げることができる？</desc>
+  <programme start="20220101121500 +0900" stop="20220101130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">2022年新春!ニッポン“ふるさと”リレー</title>
+    <desc lang="en">全国の冬の風物詩を楽しみ、ふるさとを感じる。伝統芸能や元気なパフォーマンスを披露。北海道・岩手・石川・山口・香川からバラエティー豊かな生中継で各地の正月を紹介。</desc>
+  </programme>
+  <programme start="20220101130000 +0900" stop="20220101130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20211231124500 +0900" stop="20211231133000 +0900" channel="eTele.jp">
     <title lang="en">ムーミン谷のなかまたち</title>
@@ -422,6 +414,10 @@
     <title lang="en">にっぽんの芸能</title>
     <desc lang="en">新春をことほぐ野村萬斎・裕基親子の狂言「獅子」や賑やかな「唐人相撲」、糸あやつり人形の超絶技巧に疾走する尺八。深川麻衣やいとうせいこうが古典の技に体当たりで挑む</desc>
   </programme>
+  <programme start="20220101130000 +0900" stop="20220101134500 +0900" channel="eTele.jp">
+    <title lang="en">ムーミン谷のなかまたち</title>
+    <desc lang="en">フィンランドの国民的作家トーベ・ヤンソンのムーミンをフルＣＧでアニメ化した最新作！美しいムーミン谷を舞台にムーミントロールが仲間たちと繰り広げる日常を描く。</desc>
+  </programme>
   <programme start="20211231115500 +0900" stop="20211231140500 +0900" channel="NipponTV.jp">
     <title lang="en">ハコヅメ〜たたかう!交番女子〜</title>
     <desc lang="en">ワケあり元エース刑事×ひよっこ新米警官の凸凹ペアが街の平和のために駆け回る！お巡りさんのリアルな日常を描いた話題作「ハコヅメ」を年末一挙放送！（第８話＆最終話）</desc>
@@ -464,10 +460,10 @@
     <title lang="en">元日サプライズ!</title>
     <desc lang="en">火サプ名物「アポなしグルメ」が2年ぶりに復活▽市川海老蔵ロケで番組史上初のハプニング▽高畑充希と鎌倉旅▽長嶋一茂自宅でBBQ▽昇太vsSnow Man大喜利</desc>
   </programme>
-<programme start="20211231114500 +0900" stop="20211231120000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20220101130000 +0900" stop="20220101145000 +0900" channel="NipponTV.jp">
+    <title lang="en">スポーツ撮れちゃった!フィルムフェス2022新春</title>
+    <desc lang="en">取材したディレクターが未ＯＡの「撮れちゃった！フィルム」をプレゼン！東京五輪メダリスト＆２０２２年期待のアスリートが続々登場！</desc>
+  </programme>
 <programme start="20211231120000 +0900" stop="20211231143000 +0900" channel="Asahi.jp">
   <title lang="en">相棒season17</title>
   <desc lang="en">「ボディ〜死体消失‼富豪一族の完全犯罪」
@@ -524,10 +520,6 @@
   <desc lang="en">所さんとバナナマンの時間旅行バラエティ
 家電、音、文化、景色、価値観…気づかないうちに消えた・変わったモノを大捜索！
 家族集まってみんなで楽しめるVTR＆クイズ！</desc>
-</programme>
-<programme start="20211231115000 +0900" stop="20211231120000 +0900" channel="TBS2.jp">
-  <title lang="en">JNNニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
 <programme start="20211231120000 +0900" stop="20211231163000 +0900" channel="TBS2.jp">
   <title lang="en">義母と娘のブルース</title>
@@ -624,14 +616,6 @@
   <title lang="en">孤独のグルメ イッキ見スペシャル</title>
   <desc lang="en">松重豊主演・人気のグルメドキュメンタリードラマ・お正月イッキ見SP！松重さん新年のあいさつ＆Season６の１０話〜１２話＆最新シリーズのSeason９を全話放送！</desc>
 </programme>
-<programme start="20211231115000 +0900" stop="20211231120000 +0900" channel="FujiTV.jp">
-  <title lang="en">FNNニュース</title>
-  <desc lang="en">最新ニュースをお届けします。</desc>
-</programme>
-<programme start="20211231120000 +0900" stop="20211231125500 +0900" channel="FujiTV.jp">
-  <title lang="en">ウチの子がお世話になってます</title>
-  <desc lang="en">芸能人の“親”が、普段お世話になっている各所に挨拶にまわり、子供（＝芸能人）の知られざる一面を発見していく。意外な事実に親は感動！親の行動に子供は…⁉</desc>
-</programme>
 <programme start="20211231125500 +0900" stop="20211231135000 +0900" channel="FujiTV.jp">
   <title lang="en">見抜けば儲かる!</title>
   <desc lang="en">日常の何気ない風景からあることを見抜き一獲千金を手に入れた人がいる…公園で４．５億！海辺で２５６億！休憩時間に１０００億！！儲けのヒント教えます！▽若槻朝日ア然</desc>
@@ -683,14 +667,6 @@
 <programme start="20220101070000 +0900" stop="20220101135000 +0900" channel="FujiTV.jp">
   <title lang="en">第55回新春!爆笑ヒットパレード2022</title>
   <desc lang="en">２０２２年最初の笑いの祭典！漫才＆コント王者に人気若手芸人＆タレントたちが届ける笑い初め！５５周年を祝い超大物ゲストも登場！視聴者お年玉プレゼントも！</desc>
-</programme>
-<programme start="20211231115500 +0900" stop="20211231120000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20211231120000 +0900" stop="20211231123000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20211231123000 +0900" stop="20211231130000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -819,6 +795,14 @@
 <programme start="20220101120000 +0900" stop="20220101125500 +0900" channel="Tokyo MX">
   <title lang="en">初春 お茶の間寄席</title>
   <desc lang="en">今年はナイツ、ロケット団、ねづっちをチバテレスタジオにゲストに迎え、お正月にふさわしい爆笑のネタをお茶の間にお届けします！</desc>
+</programme>
+<programme start="20220101125500 +0900" stop="20220101130000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220101130000 +0900" stop="20220101144000 +0900" channel="Tokyo MX">
+  <title lang="en">スタンド・バイ・ミー</title>
+  <desc lang="en">モダン・ホラーの帝王スティーヴン・キングの非ホラー短編を基に、Ｒ・ライナーが少年時代の想い出をさわやかに描き上げた名編。</desc>
 </programme>
 <programme start="20211230223000 +0900" stop="20211231010000 +0900" channel="FujiNext.jp">
 <title lang="en">THINK of MICHINOKU　完全版</title>
@@ -1198,7 +1182,7 @@ https//otn.fujitv.co.jp
 〜さいたまスーパーアリーナ
 ▽トップスケーターたちによる華やかなエキシビション
 ※会場音のみでお届けします
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7241027/image/3ef95fcc55a1e27686e725b41a9fce44.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20211231130000 +0900" stop="20211231135000 +0900" channel="FujiTwo.jp">
