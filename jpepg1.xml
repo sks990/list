@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220101045500 +0900" stop="20220101050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニッポン創世 神々の道をたどる</title>
-    <desc lang="en">古くから語り継がれてきた神々の物語、日本神話。その重要な舞台、宮崎・高千穂を巡り、日本人の祈りの原点、神話と暮らす人々に出会う。</desc>
-  </programme>
-  <programme start="20220101050000 +0900" stop="20220101051000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220101051000 +0900" stop="20220101053500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">グレーテルのかまど</title>
-    <desc lang="en">うっすら紅色が透ける白いおもちに、顔をのぞかせた甘く柔らかなごぼう…雪をかぶった梅の花のような風情の花びらもち。ヘンゼルが伝統の和菓子で新年を祝います。</desc>
-  </programme>
   <programme start="20220101053500 +0900" stop="20220101060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">にっぽん紀行</title>
     <desc lang="en">土佐足摺沖の黒潮の海で、９３歳になった今もカツオを追い続ける漁師がいる。何十年来の不漁に見舞われたこの春、初鰹との対決に執念を燃やす日々を追う（２００９年放送）</desc>
@@ -306,13 +294,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220101041500 +0900" stop="20220101053000 +0900" channel="eTele.jp">
+  <programme start="20220102051000 +0900" stop="20220102053500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">皇室この一年</title>
+    <desc lang="en">新型コロナの影響が続くなか東日本大震災１０年の式典や東京五輪などがあった２０２１年。人びとに寄り添う活動を続けられた天皇皇后両陛下や皇族方の一年を振り返る</desc>
+  </programme>
+  <programme start="20220102053500 +0900" stop="20220102060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん紀行</title>
+    <desc lang="en">７月末、鹿児島市の小学校で行われる鹿児島湾横断４．２キロの遠泳。９１人の子どもたちが挑戦した。遠泳を通して成長する彼らのひと夏を見つめる（２００７年放送）</desc>
+  </programme>
+  <programme start="20220102060000 +0900" stop="20220102061000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20220101053000 +0900" stop="20220101055500 +0900" channel="eTele.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">沖縄の自然と手仕事によって生み出される芭蕉布（ばしょうふ）。国の重要無形文化財保持者として芭蕉布の伝統を守ってきた平良敏子さんを、沖縄出身の知花くららが取材。</desc>
   </programme>
   <programme start="20220101055500 +0900" stop="20220101060000 +0900" channel="eTele.jp">
     <title lang="en">美の小壺</title>
@@ -470,6 +462,14 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
+  <programme start="20220102052300 +0900" stop="20220102055200 +0900" channel="eTele.jp">
+    <title lang="en">にっぽん百名山</title>
+    <desc lang="en">日本人の心の山「富士山」コケむす森を歩き、ダイナミックな火口の風景を眺め、日本最高点の剣ヶ峰（３７７６ｍ）をめざす。“天然の水がめ”から湧き出す泉や清流も紹介。</desc>
+  </programme>
+  <programme start="20220102055200 +0900" stop="20220102062000 +0900" channel="eTele.jp">
+    <title lang="en">ダーウィンが来た!</title>
+    <desc lang="en">“幻のタカ”が東京の街なかにいる！日本最小のタカ、ツミだ。本来山奥で暮らすはずの鳥が、なぜ東京で増えているのか？取材班は都会での子育てに半年密着、その謎に迫る。</desc>
+  </programme>
   <programme start="20220101020000 +0900" stop="20220101062000 +0900" channel="NipponTV.jp">
     <title lang="en">フットンダ王決定戦2022</title>
     <desc lang="en">日本で一番早いお笑いバトル！『フットンダ王決定戦』‼
@@ -532,10 +532,14 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">2022年新春初売り！ポシュレレギュラー出演者からのおススメ商品をスペシャル特典やプライスでご紹介！今年１年日テレポシュレをよろしくお願いします！</desc>
   </programme>
-<programme start="20220101014500 +0900" stop="20220101055000 +0900" channel="Asahi.jp">
-  <title lang="en">朝まで生テレビ!</title>
-  <desc lang="en">1987年開始の深夜生討論番組。恒例の元旦SP。「激論！ド〜なる？！2022 ポスト・コロナ時代の日本」。豪華論客勢揃い！</desc>
-</programme>
+  <programme start="20220102054900 +0900" stop="20220102055000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220102055000 +0900" stop="20220102064500 +0900" channel="NipponTV.jp">
+    <title lang="en">箱根駅伝 絆の物語スタート直前生情報</title>
+    <desc lang="en">往路の号砲まで２時間。長い戦いに挑むランナーと、彼らを支える仲間・恩師・家族との「絆」を描くドキュメンタリー。スタート地点・大手町から最新生情報もお伝えします！</desc>
+  </programme>
 <programme start="20220101055000 +0900" stop="20220101060000 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
@@ -589,9 +593,13 @@
   <title lang="en">消えた初恋 朝まで一緒にキュンしよう 新春初キュンSP</title>
   <desc lang="en">日本中をキュンキュンさせた話題のドラマ「消えた初恋」！道枝駿佑、目黒蓮のＷ主演作！勘違いから始まる高校生の恋と友情の物語‼初出し映像も含めた初キュンな特別番組‼</desc>
 </programme>
-<programme start="20211231234500 +0900" stop="20220101050000 +0900" channel="TBS2.jp">
-  <title lang="en">CDTVスペシャル!年越しプレミアライブ2021→2022</title>
-  <desc lang="en">総勢７３組の人気アーティストが集結！！と朝５時までノンストップ激アツライブをお見逃しなく！！！</desc>
+<programme start="20220102055000 +0900" stop="20220102060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220102060000 +0900" stop="20220102065500 +0900" channel="Asahi.jp">
+  <title lang="en">渡辺篤史と千原ジュニアの建もの探訪デラックス</title>
+  <desc lang="en">「建もの探訪」の大ファン・千原ジュニアが４年ぶりの特番に出演、２軒を探訪。１軒目は明るく開放的＆地下に意外な部屋のある家。２軒目は超人気建築家の洞窟のような自邸</desc>
 </programme>
 <programme start="20220101050000 +0900" stop="20220101062000 +0900" channel="TBS2.jp">
   <title lang="en">ジョブチューン〜アノ職業のヒミツぶっちゃけます!</title>
@@ -641,9 +649,13 @@
   <title lang="en">MIU404</title>
   <desc lang="en">綾野剛＆星野源のＷ主演！警視庁“機動捜査隊”で２人がバディを組み、２４時間というタイムリミットの中で犯人逮捕にすべてを懸けるノンストップエンターテインメント！</desc>
 </programme>
-<programme start="20220101033000 +0900" stop="20220101053000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハンコック</title>
-  <desc lang="en">ウィル・スミス、シャーリーズ・セロン競演！粗暴で事件解決のたびに街を壊しちゃう嫌われ者ヒーローが、真のヒーローに！ちょっぴり切ないハートウォーミング・アクション</desc>
+<programme start="20220102055000 +0900" stop="20220102060000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20220102060000 +0900" stop="20220102080000 +0900" channel="TBS2.jp">
+  <title lang="en">MIU404</title>
+  <desc lang="en">綾野剛＆星野源のＷ主演！警視庁“機動捜査隊”で２人がバディを組み、２４時間というタイムリミットの中で犯人逮捕にすべてを懸けるノンストップエンターテインメント！</desc>
 </programme>
 <programme start="20220101053000 +0900" stop="20220101070000 +0900" channel="TVTokyo.jp">
   <title lang="en">新春皇室の窓スペシャル〜伊勢神宮を訪ねて〜</title>
@@ -685,10 +697,6 @@
 <programme start="20220102033500 +0900" stop="20220102063000 +0900" channel="TVTokyo.jp">
   <title lang="en">戦場にかける橋</title>
   <desc lang="en">捕虜という立場ながら誇りを賭け橋梁工事に挑む英国将校。対し橋爆破の命を受け命がけで脱走した収容所を目指す米軍少佐。人の尊厳、戦争の愚かさを描いた映画史に残る傑作</desc>
-</programme>
-<programme start="20220101031500 +0900" stop="20220101050000 +0900" channel="FujiTV.jp">
-  <title lang="en">久保みねヒャダ明けましてこじらせナイト寿SP</title>
-  <desc lang="en">流行語…裏紅白…話題クリエイター３人が元日深夜に世の中にこじらせる文化的サブカル番組▽１０年目突入！熱海慰安旅行▽年間ゲスト総出演！正月ひとりを応援歌</desc>
 </programme>
 <programme start="20220101050000 +0900" stop="20220101065500 +0900" channel="FujiTV.jp">
   <title lang="en">千鳥のクセがスゴいネタGP新春SP</title>
@@ -758,13 +766,17 @@
   <title lang="en">皇室ご一家</title>
   <desc lang="en">天皇・皇后両陛下をはじめ天皇ご一家のみなさまのご公務や私的なご旅行、そしてご趣味などをくまなく取材。「皇室」の今をできる限り詳しく紹介します。</desc>
 </programme>
-<programme start="20220101034500 +0900" stop="20220101050000 +0900" channel="Tokyo MX">
-  <title lang="en">夜光漂流 MIDNIGHT JELLYFISH</title>
-  <desc lang="en">オリジナルショートドラマ！トラブルに巻き込まれたフード配達員の櫂、彼に何が起きたのか？別の登場人物たちの視点から奇妙な偶然の重なった一夜を辿ってゆく‼</desc>
+<programme start="20220102054000 +0900" stop="20220102055500 +0900" channel="FujiTV.jp">
+  <title lang="en">伊勢神宮舞楽</title>
+  <desc lang="en">毎年恒例の伊勢神宮・正月初神楽。令和４年の楽曲は「五常楽（ごしょうらく）」。</desc>
 </programme>
-<programme start="20220101050000 +0900" stop="20220101053000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220102055500 +0900" stop="20220102060000 +0900" channel="FujiTV.jp">
+  <title lang="en">FNNニュース</title>
+  <desc lang="en">最新ニュースをお届けします。</desc>
+</programme>
+<programme start="20220102060000 +0900" stop="20220102070000 +0900" channel="FujiTV.jp">
+  <title lang="en">はやく起きた朝は…</title>
+  <desc lang="en">あけましておめでとうございます！今回は『Ｚ世代の気持ちを知ろう！』をテーマにゲストを迎えての不平不満ハガキトーク・恒例の今年の一字発表など満載の６０分</desc>
 </programme>
 <programme start="20220101053000 +0900" stop="20220101060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -885,6 +897,14 @@
 <programme start="20220102050000 +0900" stop="20220102053000 +0900" channel="Tokyo MX">
   <title lang="en">あけましてスターダム元日12時間SP</title>
   <desc lang="en">ＳＴＡＲＤＯＭ正規軍・ＳＴＡＲＳが登場！岩谷麻優＆コグマ＆飯田沙耶が経歴や特技を披露。さらに昨年のイチオシ試合を振り返り試合映像も盛りだくさん！</desc>
+</programme>
+<programme start="20220102053000 +0900" stop="20220102060000 +0900" channel="Tokyo MX">
+  <title lang="en">あけましてスターダム元日12時間SP</title>
+  <desc lang="en">新日本プロレスｖｓＳＴＡＲＤＯＭの熾烈な対抗戦！そのファイナルの舞台は世界一⁉有名なプール！人気選手達が水着で大暴れ！早朝の衝撃！超刺激的な日本の正月がここに！</desc>
+</programme>
+<programme start="20220102060000 +0900" stop="20220102064500 +0900" channel="Tokyo MX">
+  <title lang="en">あけましてスターダム元日12時間SP</title>
+  <desc lang="en">ＤＤＭメンバーが総出演し、昨年のイチオシ試合を振り返り！メンバーの特技披露も▼「強くて美しいがＳＴＡＲＤＯＭ流」中野たむが銀座のヘアサロンでピラミンゴカラーに！</desc>
 </programme>
 <programme start="20211231193000 +0900" stop="20220101010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]幸せワッハッハ！ COUNTDOWN LIVE IN OKINAWA</title>
