@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20211231193000 +0900" stop="20211231234500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">第72回NHK紅白歌合戦</title>
-    <desc lang="en">日本全国津々浦々、大みそかの夜をカラフルに！司会は大泉洋・川口春奈。東京国際フォーラムから生放送。ドラクエ・鬼滅・エヴァも！希望に満ちた２０２２年に向かって！</desc>
-  </programme>
   <programme start="20211231234500 +0900" stop="20220101001500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ゆく年くる年</title>
     <desc lang="en">今年もコロナ禍が続き、経済や暮らしが大きな影響を受けた一年。「来年こそは笑顔を取り戻したい」という願いを全国各地から生中継でお伝えします。</desc>
@@ -282,9 +278,13 @@
     <title lang="en">世界はほしいモノにあふれてる</title>
     <desc lang="en">新春ＳＰ！ハワイの食材をフレンチの技法で極上の料理にする“アイランドフレンチ”に注目！若手シェフのメニュー開発の旅に密着する。人気滞在スタイルやショップ事情も。</desc>
   </programme>
-  <programme start="20211231212000 +0900" stop="20211231234500 +0900" channel="eTele.jp">
-    <title lang="en">クラシック名演・名舞台</title>
-    <desc lang="en">クラシックのこの１年を振り返る。ショパン・コンクール反田恭平の快挙！▽藤田真央ら躍動する若手演奏家の熱演▽Ｎ響は新時代へ！▽バイロイトやプロムスなど海外の話題も</desc>
+  <programme start="20220101231500 +0900" stop="20220101232000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220101232000 +0900" stop="20220102002000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">あたらしいテレビ</title>
+    <desc lang="en">いま、テレビについて語り合う。社会が大きな変化を迎える時代に、テレビをはじめとする映像コンテンツは、どこへ向かうのか。楽しく、真剣に、徹底トーク！</desc>
   </programme>
   <programme start="20211231234500 +0900" stop="20220101001000 +0900" channel="eTele.jp">
     <title lang="en">2355-0655 年越しをご一緒にスペシャル</title>
@@ -438,6 +438,14 @@
     <title lang="en">植物に学ぶ生存戦略6 話す人・山田孝之</title>
     <desc lang="en">待望の新作！山田孝之が植物の奇妙な生態を大胆な擬人化で解き明かすシリーズ、第６弾。今回も驚きの演出と予想を覆す展開が待っている。深くてヤバイ、植物の世界。</desc>
   </programme>
+  <programme start="20220101233000 +0900" stop="20220102000000 +0900" channel="eTele.jp">
+    <title lang="en">ワルイコあつまれ</title>
+    <desc lang="en">稲垣吾郎、草彅剛、香取慎吾の３人が視聴者のみなさんといっしょに楽しく社会を学ぶ新しい教育系バラエティー番組。大きな反響をいただいた９月の放送に続く第２弾！</desc>
+  </programme>
+  <programme start="20220102000000 +0900" stop="20220102012600 +0900" channel="eTele.jp">
+    <title lang="en">昔話法廷</title>
+    <desc lang="en">なじみ深い昔話の登場人物を裁く異色法廷ドラマ「昔話法廷」。これまでの作品の中から選りすぐり作を一挙放送！スタジオゲストと振り返るスペシャル版。</desc>
+  </programme>
   <programme start="20211231183000 +0900" stop="20220101003000 +0900" channel="NipponTV.jp">
     <title lang="en">笑って年越したい!笑う大晦日</title>
     <desc lang="en">ナイナイ＆バナナ＆千鳥＆後藤＆直美の代打ＭＣは誰だ！何が起こるか分からない６時間生放送！出川上島が厄払い大暴れ＆最強芸人生ネタ披露＆豪華俳優が芸人と異色コラボ⁉</desc>
@@ -484,10 +492,6 @@
     <title lang="en">King  Princeる。</title>
     <desc lang="en">ビッグボスvsキンプリ墨塗り羽子板バトル▽新宿街頭ゲリラ番宣‼Twitterトレンド1位獲れるか⁉▽最強の男ウルフ・アロンと㊙新種目でガチ対決▽生放送SP企画…</desc>
   </programme>
-<programme start="20211231180000 +0900" stop="20211231230000 +0900" channel="Asahi.jp">
-  <title lang="en">ザワつく!大晦日 一茂良純ちさ子の会</title>
-  <desc lang="en">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
-</programme>
 <programme start="20211231230000 +0900" stop="20220101003000 +0900" channel="Asahi.jp">
   <title lang="en">あざとく年越して何が悪いの?</title>
   <desc lang="en">史上初！みな実×弘中率いる「日本一豪華な女子会」開催！上戸彩が暴露する山里のヤバすぎる過去!?さらに佐藤健が番宣なしで緊急参戦！新年までのカウントダウンを一緒に！</desc>
@@ -533,9 +537,9 @@
 盗撮動画で始まる連続殺人⁉
 巨大権力に挑む特命係の大きな賭けとは…⁉</desc>
 </programme>
-<programme start="20211231200000 +0900" stop="20211231234500 +0900" channel="TBS2.jp">
-  <title lang="en">THE鬼タイジ</title>
-  <desc lang="en">🈑🈓巨大村を丸ごと占拠した鬼１２０体ｖｓ中村アン間宮祥太朗フワちゃん塚田僚一ら２０名の精鋭▽標高1977ｍ雪山壮絶決戦！湖上で貴乃花が水没⁉鬼ヶ島ラスボスを倒せ</desc>
+<programme start="20220101231500 +0900" stop="20220102001500 +0900" channel="Asahi.jp">
+  <title lang="en">下からノゾいてみた!</title>
+  <desc lang="en">元日特番の特殊映像バラエティ！世の中の簡単にはノゾけないあらゆる物を下から撮影　▽最新マジックを下から撮ると仕掛けが分かる？▽落雷を下から撮ったら驚きの光景が！</desc>
 </programme>
 <programme start="20211231234500 +0900" stop="20220101050000 +0900" channel="TBS2.jp">
   <title lang="en">CDTVスペシャル!年越しプレミアライブ2021→2022</title>
@@ -576,10 +580,6 @@
 <programme start="20220101210000 +0900" stop="20220102001500 +0900" channel="TBS2.jp">
   <title lang="en">笑いの王者が大集結!ドリーム東西ネタ合戦</title>
   <desc lang="en">🈑今一番見てもらいたい、絶対笑える芸人３０組が東西に分かれ大激突！千鳥かまいたち空気階段サンド華丸大吉！勝者は…西か！？　東か！？総合ＭＣダウンタウン！</desc>
-</programme>
-<programme start="20211231220000 +0900" stop="20211231233000 +0900" channel="TVTokyo.jp">
-  <title lang="en">孤独のグルメ 2021大晦日スペシャル 激走！絶景絶品・年忘れロードムービー</title>
-  <desc lang="en">旬の蟹に新鮮ジビエ、車旅の疲れ癒すローカル飯！突然の出会いに困惑！？小さな相棒と巡る初のロードムービー！２０２１年胃袋に悔いは残さない、今年最後の大盤振る舞い！</desc>
 </programme>
 <programme start="20211231233000 +0900" stop="20220101004500 +0900" channel="TVTokyo.jp">
   <title lang="en">東急ジルベスターコンサート</title>
@@ -624,9 +624,9 @@
   <title lang="en">中居正広のただただ話すダーケ</title>
   <desc lang="en">夜10時からは…ＭＣ中居正広を中心に、高岡早紀、矢作兼、SHELLY、カズレーザー、河北麻友子、小島瑠璃子の７人が日常生活のとりとめもないことをただただ話す!!</desc>
 </programme>
-<programme start="20211231180000 +0900" stop="20211231234500 +0900" channel="FujiTV.jp">
-  <title lang="en">大晦日はRIZIN</title>
-  <desc lang="en">朝倉未来リベンジマッチ！朝倉海バンタム級ＧＰ制覇なるか？那須川天心ＲＩＺＩＮラストマッチ！ツヨカワＲＥＮＡ王者サトシｖｓ矢地！キングカズ次男デビュー戦</desc>
+<programme start="20220101233000 +0900" stop="20220102010000 +0900" channel="TVTokyo.jp">
+  <title lang="en">エンドロールで見っけ!このNIHONJINって誰?</title>
+  <desc lang="en">外国語だらけの海外映画のエンドロールやミュージックビデオ、雑誌などで見つけた謎の“NIHONJIN（日本人）”の正体を明らかにするバラエティー番組。</desc>
 </programme>
 <programme start="20211231234500 +0900" stop="20220101004500 +0900" channel="FujiTV.jp">
   <title lang="en">東京ドームに2年ぶりの大集合!ジャニーズカウントダウン2021→2022</title>
@@ -672,9 +672,9 @@
   <title lang="en">有吉の冬休み2022 密着77時間in沖縄</title>
   <desc lang="en">沖縄の海と空と旨いもんを満喫！初参加メンバーも続々合流！笑いと癒しの最高の南国旅が始まる！番組初まさかのハプニング発生！一体どうなる？恒例田中の告白も</desc>
 </programme>
-<programme start="20211231220000 +0900" stop="20211231235700 +0900" channel="Tokyo MX">
-  <title lang="en">Fate Project 大晦日TVスペシャル2021</title>
-  <desc lang="en"> </desc>
+<programme start="20220101233000 +0900" stop="20220102003000 +0900" channel="FujiTV.jp">
+  <title lang="en">バチくるオードリー</title>
+  <desc lang="en">オードリーのお笑い実験番組！Ｍ１王者・錦鯉も参戦！春日になりきり漫才王▽前回話題ピュア芸人のラブソング歌詞を本物歌手が歌ったら？また号泣？▽ハライチ岩井</desc>
 </programme>
 <programme start="20211231235700 +0900" stop="20220101013000 +0900" channel="Tokyo MX">
   <title lang="en">魔法科高校の劣等生 追憶編</title>
@@ -784,100 +784,13 @@
   <title lang="en">22/7計算中 シーズン3</title>
   <desc lang="en">秋元康が総合プロデュースするデジタル声優アイドル、22/7(ナナブンノニジュウニ)の冠番組「22/7 計算中」のseason3！</desc>
 </programme>
-<programme start="20211230223000 +0900" stop="20211231010000 +0900" channel="FujiNext.jp">
-<title lang="en">THINK of MICHINOKU　完全版</title>
-<desc>＜出演＞ASIAN KUNG-FU GENERATION、BiS、BRAHMAN、ELLEGARDEN、The Birthday、サンボマスター 　ほか
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
+<programme start="20220101233000 +0900" stop="20220102000000 +0900" channel="Tokyo MX">
+  <title lang="en">「鬼滅の刃」遊郭編</title>
+  <desc lang="en"> </desc>
 </programme>
-<programme start="20211231010000 +0900" stop="20211231020000 +0900" channel="FujiNext.jp">
-<title lang="en">吉田建へきくちから第90回！『LOVELOVE』『堂本』戦友と7年半ぶり音楽雑談</title>
-<desc>72歳を迎えるベーシスト吉田建！50歳年下やまもとひかる、8年ぶり坂崎幸之助を交え『しおこうじフォーク村』リハ前のスタジオ前室でKinKi・SMAP巡る音楽雑談
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231020000 +0900" stop="20211231030000 +0900" channel="FujiNext.jp">
-<title lang="en">スターダストプラネットへおっさんＤときくちから！伊達花彩・市川優月・瀬田さくら！</title>
-<desc>いぎなり東北産・伊達花彩、アメフラっシ・市川優月、ばってん少女隊・瀬田さくら、ＴＶ最強のスタプラＤＤおっさんＤと振り返るスターダストプラネット×音組の歴史的映像
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231030000 +0900" stop="20211231052000 +0900" channel="FujiNext.jp">
-<title lang="en">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村116夜完全版しおこうじ和楽器隊</title>
-<desc>ももクロ玉井詩織×アルフィー坂崎幸之助！宗本康兵音楽監督・加藤いづみ・佐藤大剛・竹上良成・やまもとひかる！ダウンタウンしおこうじ和楽器隊！Awww！新年大反省会
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231052000 +0900" stop="20211231055000 +0900" channel="FujiNext.jp">
-<title lang="en">コアラモード．小幡康裕のガチンコスターダストプラネット第61回あいらもえか森青葉</title>
-<desc>B.O.L.T内藤るな「NEWSEASON」Awww森青葉「裸足で走れ」アメフラっシ市川優月「千恵っ子よされ」小島はな「旅立ち」あいらもえか「白い色は恋人の色」
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231055000 +0900" stop="20211231060000 +0900" channel="FujiNext.jp">
-<title lang="en">フジサンケイレディスクラシック ハイライト9「2014年優勝フェービー・ヤオ」</title>
-<desc>2014年優勝 フェービー・ヤオ
-「強風の中ノーボギーでツアー初V」
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231060000 +0900" stop="20211231083000 +0900" channel="FujiNext.jp">
-<title lang="en">宮里藍 サントリーレディスオープン 2021　第1日</title>
-<desc>大会1日目
-＜開催＞2021年6月10日（木）【再放送】
-＜解説＞森口祐子プロ
-＜ラウンド解説＞大江香織プロ
-＜トーナメントディレクター＞戸張捷
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231083000 +0900" stop="20211231110000 +0900" channel="FujiNext.jp">
-<title lang="en">宮里藍 サントリーレディスオープン 2021　第2日</title>
-<desc>大会2日目
-＜開催＞2021年6月11日（金）【再放送】
-＜解説＞森口祐子プロ
-＜ラウンド解説＞大江香織プロ
-＜トーナメントディレクター＞戸張捷
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231110000 +0900" stop="20211231115000 +0900" channel="FujiNext.jp">
-<title lang="en">宮里藍 サントリーレディスオープン 2021　第3日</title>
-<desc>大会3日目
-＜開催＞2021年6月12日（土）【再放送】
-＜ゲスト解説＞宮里藍プロ
-＜解説＞平瀬真由美プロ
-＜トーナメントディレクター＞戸張捷
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231115000 +0900" stop="20211231160000 +0900" channel="FujiNext.jp">
-<title lang="en">春の高校バレー  第73回 男子決勝　女子決勝</title>
-<desc>第73回全日本バレーボール高等学校選手権大会　男子決勝「東福岡 vs 駿台学園」　女子決勝「大阪国際滝井 vs 就実」
-＜開催＞2021年1月10日【再放送】
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231160000 +0900" stop="20211231183000 +0900" channel="FujiNext.jp">
-<title lang="en">2021 FORMULA 1 前半戦 総集編 永久保存版！</title>
-<desc>歴史に残るチャンピオン争い、HONDAラストイヤー、角田裕毅F1デビュー …歴史的な2021シーズンを徹底的に振り返る総集編！永久保存版
-＜ナレーター＞窪田等
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231183000 +0900" stop="20211231190000 +0900" channel="FujiNext.jp">
-<title lang="en">フジサンケイクラシック ハイライト　4「2013年優勝 松山英樹」</title>
-<desc>2013年優勝 松山英樹
-「プレーオフにもつれる死闘」
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231190000 +0900" stop="20211231193000 +0900" channel="FujiNext.jp">
-<title lang="en">スパイストラベラー　33「石垣島スペシャル 前編」</title>
-<desc>＜MC＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）
-▽名店紹介石垣商店
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
+<programme start="20220102000000 +0900" stop="20220102003000 +0900" channel="Tokyo MX">
+  <title lang="en">あけましてスターダム元日12時間SP</title>
+  <desc lang="en">２０２１年度のＳＴＡＲＤＯＭの全試合の中から公式ツイッターとホームページより募集した「ファンが選んだベストバウト」。２０位から１０位までを一挙公開！</desc>
 </programme>
 <programme start="20211231193000 +0900" stop="20220101010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]幸せワッハッハ！ COUNTDOWN LIVE IN OKINAWA</title>
@@ -899,95 +812,102 @@
 <icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7240797/image/afe1e755bc2ad83c6401f86530379b27.jpg" />
 </desc>
 </programme>
-<programme start="20211231000000 +0900" stop="20211231060000 +0900" channel="FujiOne.jp">
-<title lang="en">[生]芸能界麻雀最強位決定戦 THEわれめDEポン　149</title>
-<desc>＜出演＞坂上忍　中野浩一　萩原聖人　金子昇
-＜MC＞ガダルカナル・タカ
-＜アシスタント＞橘ゆりか
-＜解説＞土田浩翔　パジャマとりや
-　【生放送】
+<programme start="20220101051000 +0900" stop="20220101053000 +0900" channel="FujiNext.jp">
+<title lang="en">MUSIC SOUP -45r.p.m.-　108　中野雅之</title>
+<desc>〜revolution per man〜　108
+　中野雅之
+▽人生に影響を与えた45曲をピックアップ！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-<programme start="20211231060000 +0900" stop="20211231090000 +0900" channel="FujiOne.jp">
-<title lang="en">プロ野球ニュース2021 年末大反省会SP</title>
-<desc>毎年恒例の年末大反省会スペシャル！プロ野球ニュースが誇る豪華解説者が2021年のプロ野球を大統括！
-　【再放送】
+<programme start="20220101053000 +0900" stop="20220101055000 +0900" channel="FujiNext.jp">
+<title lang="en">MUSIC SOUP -45r.p.m.-　133　甲斐よしひろ</title>
+<desc>〜revolution per man〜　133
+　甲斐よしひろ
+▽人生に影響を与えた45曲をピックアップ！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-<programme start="20211231090000 +0900" stop="20211231103000 +0900" channel="FujiOne.jp">
-<title lang="en">ライオンズTV　1　LIONS THANKS FESTA＆シーズン振り返りSP</title>
-<desc>2021年12月4日に開催された埼玉西武ライオンズファン感謝イベント「LIONS THANKS FESTA 2021」の模様をお届け▽2021年シーズン振り返り
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101055000 +0900" stop="20220101073000 +0900" channel="FujiNext.jp">
+<title lang="en">宮里藍 サントリーレディスオープン 2021　最終日 1番ホール中継</title>
+<desc>大会4日目 1番ホール中継
+＜開催＞2021年6月13日（日）【再放送】
+＜解説＞森口祐子プロ
+＜ラウンド解説＞大江香織プロ
+＜実況＞酒主義久
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240800/image/2f3dfeb760dec79a23c7e507c7641fd3.jpg" />
 </desc>
 </programme>
-<programme start="20211231103000 +0900" stop="20211231113000 +0900" channel="FujiOne.jp">
-<title lang="en">つば九郎のカンペDEトーク　25「祝！日本一!!Ｖ戦士集結！」</title>
-<desc>「祝！日本一!!つば九郎のカンペDEトーク　Ｖ戦士集結！日本一の裏側何でも話しちゃうぞSP」
-＜選手ゲスト＞塩見泰隆　山崎晃大朗　田口麗斗　大下佑馬　清水昇
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101073000 +0900" stop="20220101084500 +0900" channel="FujiNext.jp">
+<title lang="en">宮里藍 サントリーレディスオープン 2021　最終日</title>
+<desc>大会4日目
+＜開催＞2021年6月13日（日）【再放送】
+＜ゲスト解説＞宮里藍プロ
+＜解説＞平瀬真由美プロ
+＜ラウンド解説＞大江香織プロ
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240801/image/2491ff41ad97d717130703ab0ee929b4.jpg" />
 </desc>
 </programme>
-<programme start="20211231113000 +0900" stop="20211231120000 +0900" channel="FujiOne.jp">
-<title lang="en">超・つば九郎タイムス　21　　東京ヤクルトスワローズ・つば九郎のレギュラー番組</title>
-<desc>「選手が出題!選手マル秘クイズ！」「2021年逆襲のスワローズその時何が!?」
-＜ゲスト＞元山飛優選手（東京ヤクルトスワローズ）＜出演＞つば九郎　ナイツ　ほか
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101084500 +0900" stop="20220101090000 +0900" channel="FujiNext.jp">
+<title lang="en">ラーメンWalker TV2　301　早稲田「ラーメン巌哲」</title>
+<desc>「ラーメンWalkerグランプリ東京2021」第1位！ 早稲田『ラーメン巌哲』
+＜出演＞田中貴（サニーデイ・サービス）　田中真琴
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240802/image/8d420937cbcf09b80e9765508f00907f.jpg" />
 </desc>
 </programme>
-<programme start="20211231120000 +0900" stop="20211231121500 +0900" channel="FujiOne.jp">
-<title lang="en">ラーメンWalker TV2　311</title>
-<desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101090000 +0900" stop="20220101102000 +0900" channel="FujiNext.jp">
+<title lang="en">次ナルTV-S50回記念！超特急タカシMC就任1年たったで！スペシャル</title>
+<desc>地上波フジテレビ深夜放送中の「次ナルTV-S」に出演する超特急のNG集やオフショットなど、貴重映像を集めた8号車（ファン）必見のスペシャル番組！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240803/image/c26b3f4da8096d189c515eb693ad6dd1.jpg" />
 </desc>
 </programme>
-<programme start="20211231121500 +0900" stop="20211231123000 +0900" channel="FujiOne.jp">
-<title lang="en">ラーメンWalker TV2　312</title>
-<desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101102000 +0900" stop="20220101115000 +0900" channel="FujiNext.jp">
+<title lang="en">次ナルTV-S超特急タカシ メキホ！太陽みたいな恋しようスペシャル</title>
+<desc>地上波フジテレビ深夜放送中の「次ナルTV-S」に出演する超特急のNG集やオフショット映像を集めた8号車（ファン）必見のスペシャル番組！今回は夏をテーマにお届け！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240804/image/7b081e8a2bd7ca21a2881706bb0ca22e.jpg" />
 </desc>
 </programme>
-<programme start="20211231123000 +0900" stop="20211231154500 +0900" channel="FujiOne.jp">
-<title lang="en">[生]Hello！ Project Year-End Party 2021　1</title>
-<desc>〜GOOD BYE ＆ HELLO〜　第1部
-＜出演＞つばきファクトリー プレミアム
-▽ハロプロ恒例！ファン参戦必須の大晦日コンサートを【独占生中継】
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101115000 +0900" stop="20220101120000 +0900" channel="FujiNext.jp">
+<title lang="en">番組PR【1月】</title>
+<desc>＜番組に関する情報は・・・＞
+https//otn.fujitv.co.jp
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240805/image/448be36c03e45b885fe8b51c1a449f54.jpg" />
 </desc>
 </programme>
-<programme start="20211231154500 +0900" stop="20211231190000 +0900" channel="FujiOne.jp">
-<title lang="en">[生]Hello！ Project Year-End Party 2021　2</title>
-<desc>〜GOOD BYE ＆ HELLO〜　第2部
-＜出演＞Juice=Juice プレミアム
-▽ハロプロ恒例！ファン参戦必須の大晦日コンサートを【独占生中継】
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101120000 +0900" stop="20220101160000 +0900" channel="FujiNext.jp">
+<title lang="en">FUJI ROCK FESTIVAL'21　完全版　＜Day1＞</title>
+<desc>RADWIMPS、millennium parade、OKAMOTO'S、くるり、Vaundy、手嶌葵、DYGL、yonige、THE BAWDIES　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240806/image/f72b390b4cd74d2d3078de63c04b30ae.jpg" />
 </desc>
 </programme>
-<programme start="20211231190000 +0900" stop="20211231210000 +0900" channel="FujiOne.jp">
-<title lang="en">[生]Hello！ Project Year-End Party 2021　3</title>
-<desc>〜GOOD BYE ＆ HELLO〜　第3部
-＜出演＞モーニング娘。'21 プレミアム
-▽ハロプロ恒例！ファン参戦必須の大晦日コンサートを【独占生中継】
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101160000 +0900" stop="20220101200000 +0900" channel="FujiNext.jp">
+<title lang="en">FUJI ROCK FESTIVAL'21　完全版　＜Day2＞</title>
+<desc>King Gnu、ザ・クロマニヨンズ、Char、サンボマスター、NUMBER GIRL、Ken Yokoyama、AJICO、The Birthday　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240807/image/799e45d6de4813188f1b7e768c55b2ac.jpg" />
 </desc>
 </programme>
-<programme start="20211231210000 +0900" stop="20211231215800 +0900" channel="FujiOne.jp">
-<title lang="en">ゲームセンターCX　328　武器をキープせよ「ラスタンサーガ２」</title>
-<desc>知る人ぞ知るメガドラソフト「ラスタンサーガ２」に挑戦！▽巷で話題のミニコーナー「Barドリームマッチング」。思わず買い物かごがいっぱいになる？▽1994SFC
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101200000 +0900" stop="20220102000000 +0900" channel="FujiNext.jp">
+<title lang="en">FUJI ROCK FESTIVAL'21　完全版　＜Day3＞</title>
+<desc>MISIA、秦基博、BEGIN、平沢進＋会人(EJIN)、GLIM SPANKY（Acoustic Ver.）、TENDRE、STUTS　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240808/image/acc4fbbb4b1d99b835abc861045c26ed.jpg" />
 </desc>
 </programme>
-<programme start="20211231215800 +0900" stop="20211231225600 +0900" channel="FujiOne.jp">
-<title lang="en">ゲームセンターCX　329　転がせ！「スーパーモンキーボール」</title>
-<desc>ついにゲームキューブ解禁！一発目は「スーパーモンキーボール」に挑戦！勝利で飾れるか？ ▽スマホアラームにマッチングするゲーム音楽 ▽1994SFC
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102000000 +0900" stop="20220102030000 +0900" channel="FujiNext.jp">
+<title lang="en">LOVE MUSIC FESTIVAL 2021　　＜DAY1＞＜DAY2＞</title>
+<desc>＜出演＞Saucy Dog、緑黄色社会、Creepy Nuts、マカロニえんぴつ、SUPER BEAVER、MAN WITH A MISSION、凛として時雨
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240809/image/2d8100af0d4a165e5bb9aff401195caa.jpg" />
 </desc>
 </programme>
-<programme start="20211231225600 +0900" stop="20211231235500 +0900" channel="FujiOne.jp">
-<title lang="en">ゲームセンターCX　330　タテもヨコも…「アクスレイ」</title>
-<desc>KONAMIの隠れた名作シューティング「アクスレイ」に挑戦！今回も挑戦部屋には賑やかしが登場！▽ミニコーナー「Barドリームマッチング」▽1994SFC
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102030000 +0900" stop="20220102043000 +0900" channel="FujiNext.jp">
+<title lang="en">トレスギJO1 完全版 第2弾　　〜CS独占メンバー全員の挑戦や感想トークなど〜</title>
+<desc>トレスギJO1 第2弾の完全版！地上波版やFODではOAできなかった内容を含めた、90分CMなしCS版！全員分の挑戦や収録後の感想トークなど未公開映像をお届け！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240810/image/9bdaaa20cd5362b5b387e0a163d6f6f4.jpg" />
+</desc>
+</programme>
+<programme start="20220102043000 +0900" stop="20220102060000 +0900" channel="FujiNext.jp">
+<title lang="en">ジョン・レノン＆オノ・ヨーコ　ABOVE US ONLY SKY</title>
+<desc>名曲「イマジン」ができるまで、ジョン・レノンとオノ・ヨーコが歩んだ道程を、彼らの秘話と共に紹介したドキュメンタリー。
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240811/image/2380e72c7ae5277e56690840a45aaad4.jpg" />
 </desc>
 </programme>
 <programme start="20211231235500 +0900" stop="20220101001000 +0900" channel="FujiOne.jp">
@@ -1028,206 +948,207 @@
 <icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7240853/image/05349b982a76ba2bc9c085706c1b0222.jpg" />
 </desc>
 </programme>
-<programme start="20211230234000 +0900" stop="20211231001000 +0900" channel="FujiTwo.jp">
-<title lang="en">TOKYO IDOL FESTIVAL 2021 DAY3 ＝LOVE ステージ</title>
-<desc>TIF2021 DAY3から「＝LOVE」のステージをフルバージョン、ノーカットでお届け！
-＜収録＞2021年10月3日（日）　〜お台場・青海周辺エリア
+<programme start="20220101051000 +0900" stop="20220101061000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　318　ガノンを倒せ！「ゼルダの伝説」</title>
+<desc>2日目に突入した第25シーズン最初の挑戦！『ゼルダの伝説』後編。エンディング画面を見る事ができるのか？▽ミニコーナー「月が綺麗でアイラブユー」▽1994SFC
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240854/image/e383a6f6f71745524d45530fa4e3e314.jpg" />
+</desc>
+</programme>
+<programme start="20220101061000 +0900" stop="20220101071000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　319　理不尽と戦え…「ドラゴンズレア」</title>
+<desc>伝説のソフト『ドラゴンズレア』に挑戦！挑戦史に残る激闘、その結末とは… ▽「月が綺麗でアイラブユー」は、あの名作忍者ゲームで英語のレッスン▽1994SFC
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240855/image/6dbe254d63aeeab0c8304291a497c0e2.jpg" />
+</desc>
+</programme>
+<programme start="20220101071000 +0900" stop="20220101081000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　320　頂上めざせ！「風雲少林拳」</title>
+<desc>ファミコン ディスクシステム「風雲少林拳」に挑戦！久しぶりのダブルヘッダーで挑む有野課長！果たして？▽ミニコーナー「月が綺麗でアイラブユー」▽1994SFC
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240856/image/536b271bc6bd73f975c317f6d6aeccda.jpg" />
+</desc>
+</programme>
+<programme start="20220101081000 +0900" stop="20220101091000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　321　戦え！時代ごとに…「ゲイングランド」</title>
+<desc>戦略も重要なアクションシューティング「ゲイングランド」に挑戦！全50ステージ攻略に挑む！▽ミニコーナーは「月が綺麗でアイラブユー」▽1994SFC
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240857/image/77bb9e67c63291ef28680fa30c05a06c.jpg" />
+</desc>
+</programme>
+<programme start="20220101091000 +0900" stop="20220101101000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　322　破壊＆脱出「エアー・フォートレス」</title>
+<desc>ハル研究所の隠れた名作「エアー・フォートレス」に挑戦！有野の窮地を救うマル秘作戦を決行！▽月が綺麗でアイラブユー▽1994SFCは、名作ソフトが登場！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240858/image/6ec6348633b318721916972625cce1aa.jpg" />
+</desc>
+</programme>
+<programme start="20220101101000 +0900" stop="20220101111000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　323　5年ぶり3回目「スーパーワギャンランド」</title>
+<desc>スーファミ「スーパーワギャンランド」に挑戦！▽ミニコーナー「月が綺麗でアイラブユー」▽新プロジェクト！課長オリジナルのメガネ作り
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240859/image/0a915492a8160093338d741dfe649698.jpg" />
+</desc>
+</programme>
+<programme start="20220101111000 +0900" stop="20220101121000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　324　指輪物語的…「ファザナドゥ」</title>
+<desc>久々の王道アクションRPG「ファザナドゥ」に挑戦！▽ミニコーナー「月が綺麗でアイラブユー」▽課長オリジナルメガネのデザインが完成！▽1994SFC
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240860/image/8f657884fd73e1e82f55bdc621c3df4a.jpg" />
+</desc>
+</programme>
+<programme start="20220101121000 +0900" stop="20220101131000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　325　祝！PS2解禁！「THE 地球防衛軍」</title>
+<desc>番組20年ルールでついに挑戦解禁！PlayStation2「SIMPLE2000シリーズ Vol.31 THE 地球防衛軍」▽月が綺麗でアイラブユー最終回　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240861/image/55770f15c53d47beb0ce56aeae001af7.jpg" />
+</desc>
+</programme>
+<programme start="20220101131000 +0900" stop="20220101141000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　326　「東京バス案内 今日からキミも運転手」</title>
+<desc>バックトゥ1999「東京バス案内 今日からキミも運転手」▽新コーナー「Barドリームマッチング」。テーマにマッチングするゲーム音楽をご紹介！▽1994SFC
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240862/image/56e29250d318a1ce45253dac1f7adaf6.jpg" />
+</desc>
+</programme>
+<programme start="20220101141000 +0900" stop="20220101151000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX　327　おのれ龍骨鬼!!「月風魔伝」</title>
+<desc>ファミコン屈指の名作「月風魔伝」に挑戦！果たしてエンディングは見られるのか！▽ミニコーナー「Barドリームマッチング」のテーマはスポーツジム！▽1994SFC
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240863/image/f0f30741ab5c5f75ab3cdcad41ce24d4.jpg" />
+</desc>
+</programme>
+<programme start="20220101151000 +0900" stop="20220101161000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX 有野の挑戦 アーカイブス　117「重力装甲メタルストーム」</title>
+<desc>「重力装甲メタルストーム」に挑戦
+（初回放送日　2011年7月21日）
+▽有野課長が懐かしいゲームに挑戦する「有野の挑戦」を再放送！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240864/image/3a7cf1140dc0b2c15565034648f2c1a9.jpg" />
+</desc>
+</programme>
+<programme start="20220101161000 +0900" stop="20220101171000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX 有野の挑戦 アーカイブス　118</title>
+<desc>「子育てクイズ マイエンジェル」に挑戦
+（初回放送日　2011年8月11日）
+▽有野課長が懐かしいゲームに挑戦する「有野の挑戦」を再放送！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240865/image/790bcb88383ef79ca81ef661d11c6db7.jpg" />
+</desc>
+</programme>
+<programme start="20220101171000 +0900" stop="20220101180000 +0900" channel="FujiOne.jp">
+<title lang="en">ゲームセンターCX 有野の挑戦 アーカイブス　119「バトルフォーミュラ」</title>
+<desc>「バトルフォーミュラ」に挑戦
+（初回放送日　2011年9月8日）
+▽有野課長が懐かしいゲームに挑戦する「有野の挑戦」を再放送！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240866/image/6607fa42c6bd05995548938e6ff682fe.jpg" />
+</desc>
+</programme>
+<programme start="20220101180000 +0900" stop="20220101193000 +0900" channel="FujiOne.jp">
+<title lang="en">ゴリパラ見聞録 2022 Happy New Year SP</title>
+<desc>今年も放送！テレビ西日本の大人気旅バラエティ「ゴリパラ見聞録」の新春スペシャル！　＜出演＞ゴリけん　パラシュート部隊（斉藤優、矢野ぺぺ）
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240867/image/96f8159691db0e321ded4b0c3442ff1d.jpg" />
+</desc>
+</programme>
+<programme start="20220101193000 +0900" stop="20220101194500 +0900" channel="FujiOne.jp">
+<title lang="en">ラーメンWalker TV2　311</title>
+<desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240868/image/7a572f1eb19deb2f8a2de4a6812ca255.jpg" />
+</desc>
+</programme>
+<programme start="20220101194500 +0900" stop="20220101200000 +0900" channel="FujiOne.jp">
+<title lang="en">ラーメンWalker TV2　312</title>
+<desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240869/image/5880d1568e973dad34c9b5e769e9ccc4.jpg" />
+</desc>
+</programme>
+<programme start="20220101200000 +0900" stop="20220101213000 +0900" channel="FujiOne.jp">
+<title lang="en">F1 LEGENDS 2021 8「1988年 日本GP」</title>
+<desc>「1988年 日本GP　A.セナ（マクラーレン・ホンダ） 初の王座獲得 HONDA鈴鹿初優勝」　▽HONDAが輝いた伝説のレースを厳選してお届け！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240870/image/bd5f00573ca3c90c49c3cbebfc9ad73f.jpg" />
+</desc>
+</programme>
+<programme start="20220101213000 +0900" stop="20220101220000 +0900" channel="FujiOne.jp">
+<title lang="en">寺門ジモンの肉専門チャンネル　88「焼肉ホドリ 用賀店」</title>
+<desc>「焼肉ホドリ 用賀店」
+芸能界一食に詳しく、そして肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7351590/image/ac354f328e9c23dfd0e24dd83748fdad.jpg" />
+</desc>
+</programme>
+<programme start="20220101220000 +0900" stop="20220101233000 +0900" channel="FujiOne.jp">
+<title lang="en">ドリームスシリーズボウリング　芸人オールスターチャンピオンボウリング2022</title>
+<desc>＜出演＞松村邦洋　クロちゃん　レイザーラモン　ウエストランド
+＜プロボウラー＞浅田梨奈　川崎由意　飯田菜々　松尾星伽
+＜解説＞棚橋孝太　＜実況＞大川立樹
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240871/image/410a9d93dd5f9ac89393b8d0d54aac98.jpg" />
+</desc>
+</programme>
+<programme start="20220101233000 +0900" stop="20220102010000 +0900" channel="FujiOne.jp">
+<title lang="en">実話怪談倶楽部　46　　　実話怪談の本格派ホラー番組！</title>
+<desc>精霊の住まう地『沖縄』で実話怪談トーク
+＜出演＞兵動大樹　小島みゆ
+＜怪員（怪談師）＞ぁみ（ありがとう）　匠平　上里洋志　ヤースー
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-<programme start="20211231001000 +0900" stop="20211231010000 +0900" channel="FujiTwo.jp">
-<title lang="en">ザ・ノンフィクション　171　私、ツヨくなりました 〜その後の花嫁のれん物語〜</title>
-<desc>借金で社長交代？花嫁のれん…再び大ピンチ　（地上波放送日　2017年4月9日）
-＜語り＞梅津弥英子
-▽石川県和倉温泉に嫁いだ若女将の奮闘ぶりを描いた物語。
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102010000 +0900" stop="20220102011500 +0900" channel="FujiOne.jp">
+<title lang="en">あなたと温泉に行ったら…　93「塩原温泉編 前篇」</title>
+<desc>『塩原温泉編 前篇』
+撮影地赤沢温泉旅館
+▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240873/image/c2a04b0a5e10f9fa145739eb2beae720.jpg" />
 </desc>
 </programme>
-<programme start="20211231010000 +0900" stop="20211231011000 +0900" channel="FujiTwo.jp">
-<title lang="en">番組PR【12月】</title>
-<desc>＜番組に関する情報は・・・＞
-https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102011500 +0900" stop="20220102013000 +0900" channel="FujiOne.jp">
+<title lang="en">あなたと温泉に行ったら…　94「塩原温泉編 後篇」</title>
+<desc>『塩原温泉編 後篇』
+撮影地赤沢温泉旅館
+▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240874/image/74ba6a608f307b754a6939679a2493b1.jpg" />
 </desc>
 </programme>
-<programme start="20211231011000 +0900" stop="20211231023000 +0900" channel="FujiTwo.jp">
-<title lang="en">韓国ドラマ「優雅な一族」11　【日本語字幕版】　（全16話）</title>
-<desc>第11話「1人の人間の歴史」
-＜出演＞イム・スヒャン　イ・ジャンウ　ペ・ジョンオク　キム・ジヌ　ほか
-▽韓国財閥が舞台の新感覚爽快ミステリーラブロマンス！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102013000 +0900" stop="20220102014500 +0900" channel="FujiOne.jp">
+<title lang="en">あなたと温泉に行ったら…　95「小鹿野温泉編 前篇」</title>
+<desc>『小鹿野温泉編 前篇』
+撮影地梁山泊
+▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240875/image/7ae78093ff20c66c9d1b5e3e0b0a72e5.jpg" />
 </desc>
 </programme>
-<programme start="20211231023000 +0900" stop="20211231032000 +0900" channel="FujiTwo.jp">
-<title lang="en">世にも奇妙な物語　6　　　出演別所哲也　うじきつよし　細川俊之　ほか</title>
-<desc>「右手の復讐」別所哲也
-「城」うじきつよし
-「ネチラタ事件」細川俊之
-＜ストーリーテラー＞タモリ
-（地上波放送日　1992年8月13日）
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102014500 +0900" stop="20220102020000 +0900" channel="FujiOne.jp">
+<title lang="en">あなたと温泉に行ったら…　96「小鹿野温泉編 後篇」</title>
+<desc>『小鹿野温泉編 後篇』
+撮影地梁山泊
+▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240876/image/52767caf441099aa8d2a68b9dc114765.jpg" />
 </desc>
 </programme>
-<programme start="20211231032000 +0900" stop="20211231034000 +0900" channel="FujiTwo.jp">
-<title lang="en">実録！オンナの○○事件簿　29「秘密の鍵」　実話をもとにした衝撃の再現ドラマ！</title>
-<desc>第29話『秘密の鍵』
-▽関西テレビで放送していた「ハピくるっ！」の人気コーナー！視聴者から寄せられた実話をもとにした衝撃の再現ドラマ！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102020000 +0900" stop="20220102023000 +0900" channel="FujiOne.jp">
+<title lang="en">よゐこ風呂　1　　芸歴29年目「よゐこ」のリアルドキュメンタリー風バラエティ</title>
+<desc>〜水着で話すほどのことじゃないけれど〜
+＜出演＞よゐこ　由良朱合　美音咲月　冨樫真凜　御子柴かな
+▽よゐこの2人が“男”としてのランクアップを目指す！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240877/image/7fd3960ac73a4aa8c89a5fe662b867e0.jpg" />
 </desc>
 </programme>
-<programme start="20211231034000 +0900" stop="20211231045000 +0900" channel="FujiTwo.jp">
-<title lang="en">ひとつ屋根の下2　12　　6人兄弟のその後が描かれたシリーズ第2弾！</title>
-<desc>最終話「さよなら柏木兄弟−6月の花嫁」
-＜脚本＞野島伸司
-＜出演＞江口洋介　福山雅治　酒井法子　ほか
-（地上波放送日　1997年6月30日）
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102023000 +0900" stop="20220102030000 +0900" channel="FujiOne.jp">
+<title lang="en">よゐこ風呂　2　　芸歴29年目「よゐこ」のリアルドキュメンタリー風バラエティ</title>
+<desc>〜水着で話すほどのことじゃないけれど〜
+＜出演＞よゐこ　谷かえ　茜紬うた　桜田愛音　池尻愛梨
+▽よゐこの2人が“男”としてのランクアップを目指す！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240878/image/c0f5464394a1dae4753b1797a90663c6.jpg" />
 </desc>
 </programme>
-<programme start="20211231045000 +0900" stop="20211231051000 +0900" channel="FujiTwo.jp">
-<title lang="en">純喫茶に恋をして　7　本郷「金魚坂」</title>
-<desc>本郷「金魚坂」
-▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
-＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102030000 +0900" stop="20220102033000 +0900" channel="FujiOne.jp">
+<title lang="en">よゐこ風呂　3　　芸歴29年目「よゐこ」のリアルドキュメンタリー風バラエティ</title>
+<desc>〜水着で話すほどのことじゃないけれど〜
+＜出演＞よゐこ　中崎絵梨奈　桜木美涼　新海まき　AKO
+▽よゐこの2人が“男”としてのランクアップを目指す！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240879/image/4ad8679bc81f9c80cc89553305a8b465.jpg" />
 </desc>
 </programme>
-<programme start="20211231051000 +0900" stop="20211231053000 +0900" channel="FujiTwo.jp">
-<title lang="en">ラーメンWalker TV2　301　早稲田「ラーメン巌哲」</title>
-<desc>「ラーメンWalkerグランプリ東京2021」第1位！ 早稲田『ラーメン巌哲』
-＜出演＞田中貴（サニーデイ・サービス）　田中真琴
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102033000 +0900" stop="20220102040000 +0900" channel="FujiOne.jp">
+<title lang="en">鎧美女　夏の特別版</title>
+<desc>夏の特別版
+「甲冑真田昌幸」「美女緒方咲」
+▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240880/image/00ba408d1cd702e2a5889b0425c0e239.jpg" />
 </desc>
 </programme>
-<programme start="20211231053000 +0900" stop="20211231060000 +0900" channel="FujiTwo.jp">
-<title lang="en">おトクな時間</title>
-<desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231060000 +0900" stop="20211231065000 +0900" channel="FujiTwo.jp">
-<title lang="en">第31回ヤングシナリオ大賞「パニックコマーシャル」　若手俳優・赤楚衛二が主演！</title>
-<desc>＜出演＞赤楚衛二　黒羽麻璃央　北原里英　加治将樹　きづき　川島潤哉　阿南敦子　田中要次　ほか　＜脚本＞中村允俊
-▽CM撮影現場で次々に起こる予想外のトラブル
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231065000 +0900" stop="20211231071000 +0900" channel="FujiTwo.jp">
-<title lang="en">純喫茶に恋をして　11　吉祥寺「ウッドストック」</title>
-<desc>吉祥寺「ウッドストック」
-▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
-＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231071000 +0900" stop="20211231083000 +0900" channel="FujiTwo.jp">
-<title lang="en">韓国ドラマ「優雅な一族」11　【日本語字幕版】　（全16話）</title>
-<desc>第11話「1人の人間の歴史」
-＜出演＞イム・スヒャン　イ・ジャンウ　ペ・ジョンオク　キム・ジヌ　ほか
-▽韓国財閥が舞台の新感覚爽快ミステリーラブロマンス！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231083000 +0900" stop="20211231090000 +0900" channel="FujiTwo.jp">
-<title lang="en">韓国ドラマ「素晴らしい遺産」89　【日本語字幕版】　（全122話）</title>
-<desc>第89話　＜出演＞カン・セジョン　シン・ジョンユン　パク・インファン　ナム・ソンジン　パク・シヌ　ほか
-▽歴史を誇る冷麺屋社長の遺産を巡る大騒動が勃発？
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231090000 +0900" stop="20211231093000 +0900" channel="FujiTwo.jp">
-<title lang="en">韓国ドラマ「素晴らしい遺産」90　【日本語字幕版】　（全122話）</title>
-<desc>第90話　＜出演＞カン・セジョン　シン・ジョンユン　パク・インファン　ナム・ソンジン　パク・シヌ　ほか
-▽歴史を誇る冷麺屋社長の遺産を巡る大騒動が勃発？
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231093000 +0900" stop="20211231100000 +0900" channel="FujiTwo.jp">
-<title lang="en">韓国ドラマ「素晴らしい遺産」91　【日本語字幕版】　（全122話）</title>
-<desc>第91話　＜出演＞カン・セジョン　シン・ジョンユン　パク・インファン　ナム・ソンジン　パク・シヌ　ほか
-▽歴史を誇る冷麺屋社長の遺産を巡る大騒動が勃発？
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231100000 +0900" stop="20211231103000 +0900" channel="FujiTwo.jp">
-<title lang="en">韓国ドラマ「素晴らしい遺産」92　【日本語字幕版】　（全122話）</title>
-<desc>第92話　＜出演＞カン・セジョン　シン・ジョンユン　パク・インファン　ナム・ソンジン　パク・シヌ　ほか
-▽歴史を誇る冷麺屋社長の遺産を巡る大騒動が勃発？
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231103000 +0900" stop="20211231130000 +0900" channel="FujiTwo.jp">
-<title lang="en">全日本フィギュアスケート選手権2021　メダリストオンアイス</title>
-<desc>＜開催＞2021年12月27日（月）
-〜さいたまスーパーアリーナ
-▽トップスケーターたちによる華やかなエキシビション
-※会場音のみでお届けします
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231130000 +0900" stop="20211231135000 +0900" channel="FujiTwo.jp">
-<title lang="en">ザ・ノンフィクション　160「その後の母の涙と罪と罰」</title>
-<desc>▽堕ちた31歳…彼に何が 母の涙と罪と罰その後
-（地上波放送日　2019年4月21日）
-＜語り＞安達祐実
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231135000 +0900" stop="20211231140000 +0900" channel="FujiTwo.jp">
-<title lang="en">番組PR【12月】</title>
-<desc>＜番組に関する情報は・・・＞
-https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231140000 +0900" stop="20211231150000 +0900" channel="FujiTwo.jp">
-<title lang="en">帰ってきた翔太さまと執事西山のオタワムレ　1　　超人気声優×2.5次元俳優！</title>
-<desc>＜ホスト＞蒼井翔太　西山宏太朗
-＜ゲスト＞笹森裕貴　田村升吾
-▽ファンの皆様の熱いリクエストにお応えして2年半ぶりに待望の復活！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231150000 +0900" stop="20211231160000 +0900" channel="FujiTwo.jp">
-<title lang="en">帰ってきた翔太さまと執事西山のオタワムレ　2　　超人気声優×2.5次元俳優！</title>
-<desc>＜ホスト＞蒼井翔太　西山宏太朗
-＜ゲスト＞大平峻也　佐伯大地
-▽ファンの皆様の熱いリクエストにお応えして2年半ぶりに待望の復活！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231160000 +0900" stop="20211231170000 +0900" channel="FujiTwo.jp">
-<title lang="en">翔太さまと執事西山のオタワムレ超　1　　超人気声優×2.5次元俳優！</title>
-<desc>＜ホスト＞蒼井翔太　西山宏太朗
-＜ゲスト＞納谷健　木津つばさ
-▽超人気声優×2.5次元俳優の神番組オタワムレの第3シリーズが登場！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231170000 +0900" stop="20211231180000 +0900" channel="FujiTwo.jp">
-<title lang="en">翔太さまと執事西山のオタワムレ超　2　　超人気声優×2.5次元俳優！</title>
-<desc>＜ホスト＞蒼井翔太　西山宏太朗
-＜ゲスト＞高橋健介　伊万里有
-▽超人気声優×2.5次元俳優の神番組オタワムレの第3シリーズが登場！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231180000 +0900" stop="20211231190000 +0900" channel="FujiTwo.jp">
-<title lang="en">翔太さまと執事西山のオタワムレ超　3　　超人気声優×2.5次元俳優！</title>
-<desc>＜ホスト＞蒼井翔太　西山宏太朗　＜ゲスト＞渡部秀　白又敦　▽超人気声優×2.5次元俳優の神番組オタワムレの第3シリーズ！仮面ライダー俳優先輩＆後輩コンビが登場！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231190000 +0900" stop="20211231233000 +0900" channel="FujiTwo.jp">
-<title lang="en">オールナイト声優フジ　未公開映像付完全版</title>
-<desc>番組MCは、大人気声優・森久保祥太郎！ 2021年の幕開けに新年会と称して若手声優たちが集結！生放送後のオフショットや、全員参加の反省会の模様も含めた完全版！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231233000 +0900" stop="20220101000000 +0900" channel="FujiTwo.jp">
-<title lang="en">オールナイト声優ゆく年くる年</title>
-<desc>「オールナイト声優フジ」の山谷祥生、狩野翔、広瀬裕也、帆世雄一がスピンオフ番組で年越し！▽「オールナイト声優フジ」過去3回の完全版を年またぎ放送中！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7241036/image/1b6ff29ec387e47e251c795eef3c0a63.jpg" />
+<programme start="20220102040000 +0900" stop="20220102050000 +0900" channel="FujiOne.jp">
+<title lang="en">もう！バカリズムさんの超H！ 春の特別版　1</title>
+<desc>＜出演＞バカリズム　中岡創一（ロッチ）　堂島孝平
+＜ゲスト＞安位カヲル　しみけん　森林原人　北野翔　小島みなみ
+▽笑いとチョイエロ全開！春の特別編！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240881/image/5b54bec71fc16b62b12c7d883cb98d27.jpg" />
 </desc>
 </programme>
 <programme start="20220101000000 +0900" stop="20220101043000 +0900" channel="FujiTwo.jp">
@@ -1244,118 +1165,370 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp/monomedia/si/2021/20211231/7241038/image/a0839c379de2eebde88b940b1859c7ca.jpg" />
 </desc>
 </programme>
-<programme start="20211230232000 +0900" stop="20211231003000 +0900" channel="kbsworld.jp">
-<title lang="en">未来の選択　12　[字]</title>
-<desc>3カ月連続企画CNBLUE特集！ジョン・ヨンファ(CNBLUE)、ユン・ウネ主演！32歳見習い放送作家と看板アナウンサー＆御曹司が繰り広げる胸キュンラブストーリー！2013年 全16話
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101090000 +0900" stop="20220101092000 +0900" channel="FujiTwo.jp">
+<title lang="en">男おばさん!!　238</title>
+<desc>▽通称「男おばさん」のフジテレビアナウンサー軽部真一と笠井信輔が送るエンタメ情報番組。映画、音楽、演劇、イベント、DVDなど、あらゆるエンタメ情報を爆裂トーク！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241039/image/06be1829dcdc6213d5ff23f35309dafb.jpg" />
 </desc>
 </programme>
-<programme start="20211231003000 +0900" stop="20211231020000 +0900" channel="kbsworld.jp">
-<title lang="en">国民トークショー　アンニョンハセヨ セレクト　[字][終]</title>
-<desc>トークバラエティ「国民トークショー　アンニョンハセヨ」に人気アイドルやスターが出演した回をセレクト放送！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101092000 +0900" stop="20220101094700 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　1</title>
+<desc>第422話「決死の潜入！海底監獄インペルダウン」
+（地上波放送日　2009年10月18日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241040/image/5c54a0d4b31355822675c2ef6124b94e.jpg" />
 </desc>
 </programme>
-<programme start="20211231020000 +0900" stop="20211231031000 +0900" channel="kbsworld.jp">
-<title lang="en">＊追っかけ放送＊恋するレモネード　1　[字][初]</title>
-<desc>追っかけ放送！「君の歌を聴かせて」のキム・セジョン、「ノクドゥ伝〜花に降る月明り〜」のチャン・ドンユン、キム・ジョンヒョン主演！学園青春ロマンス！2017年　全16話
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101094700 +0900" stop="20220101101400 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　2</title>
+<desc>第423話「地獄で再会!?バラバラの実の能力者！」
+（地上波放送日　2009年10月25日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241041/image/1de84822d54e30fb864cee5bddfd2520.jpg" />
 </desc>
 </programme>
-<programme start="20211231031000 +0900" stop="20211231060000 +0900" channel="kbsworld.jp">
-<title lang="en">＊一挙放送＊プロデューサー　3、4　[字]</title>
-<desc>年末年始 一挙放送！チャ・テヒョン、キム・スヒョン、コン・ヒョジン、IU主演！放送業界を舞台にプロデューサーと芸能人が恋に仕事に奮闘するラブコメディ！2015年全12話
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101101400 +0900" stop="20220101104100 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　3</title>
+<desc>第424話「破れ！紅蓮地獄 バギーのド派手大作戦」
+（地上波放送日　2009年11月1日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241042/image/d3fd6fcfaafd8166a2b35b18a3a71575.jpg" />
 </desc>
 </programme>
-<programme start="20211231060000 +0900" stop="20211231070000 +0900" channel="kbsworld.jp">
-<title lang="en">ニュース広場[生]</title>
-<desc>リアルタイムで最新の韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101104100 +0900" stop="20220101110800 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　4</title>
+<desc>第425話「監獄最強の男！毒人間・マゼラン登場」
+（地上波放送日　2009年11月8日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241043/image/1eb0dfa2111499f121c832d9bb74617c.jpg" />
 </desc>
 </programme>
-<programme start="20211231070000 +0900" stop="20211231073500 +0900" channel="kbsworld.jp">
-<title lang="en">ドキュメンタリー　人間劇場　[字]</title>
-<desc>私たちの周囲で起こる興味深い出来事を紹介するドキュメンタリー人間劇場！ドラマのような人生の舞台に視聴者の皆さんを招待します！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101110800 +0900" stop="20220101113500 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　5</title>
+<desc>第426話「映画連動特別編 動き出す金獅子の野望」
+（地上波放送日　2009年11月15日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241044/image/0d3a8be1e8a0837d99a1c8ecc791c2e2.jpg" />
 </desc>
 </programme>
-<programme start="20211231073500 +0900" stop="20211231083500 +0900" channel="kbsworld.jp">
-<title lang="en">２０世紀ヒットソング　[字][再]</title>
-<desc>日本初放送！ヒチョル(SUPER JUNIOR)がＭＣ担当！韓国の歌謡界の歴史を振り返る！懐かしくも新しいK-POPをお届けする最新音楽バラエティ！2020年
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101113500 +0900" stop="20220101120200 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　6</title>
+<desc>第427話「映画連動特別編 狙われた小さな東の海」
+（地上波放送日　2009年11月22日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241045/image/36745f75e5296301ebb502220c01f439.jpg" />
 </desc>
 </programme>
-<programme start="20211231083500 +0900" stop="20211231094000 +0900" channel="kbsworld.jp">
-<title lang="en">クイズバラエティ〜屋根部屋の問題児たち [字]</title>
-<desc>日本初放送！芸能人たちが様々なジャンルのクイズ10問に正解するまで部屋から出られない韓国　最新バラエティ！2018年
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101120200 +0900" stop="20220101123000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　7</title>
+<desc>第428話「映画連動特別編 アミーゴ海賊団の猛攻」
+（地上波放送日　2009年11月29日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241046/image/9390827b76a44e13033c122b22ba7e66.jpg" />
 </desc>
 </programme>
-<programme start="20211231094000 +0900" stop="20211231101500 +0900" channel="kbsworld.jp">
-<title lang="en">国家代表ワイフ（原題） 23　[字][再]</title>
-<desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101123000 +0900" stop="20220101130000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　8</title>
+<desc>第429話「映画連動特別編 決戦！ルフィvsラルゴ」
+（地上波放送日　2009年12月6日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241047/image/e61e32b44965cb264c84b6c4579a45bc.jpg" />
 </desc>
 </programme>
-<programme start="20211231101500 +0900" stop="20211231104500 +0900" channel="kbsworld.jp">
-<title lang="en">インフォメーション</title>
-<desc> 
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101130000 +0900" stop="20220101133000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　9</title>
+<desc>第430話「囚われの王下七武海！海侠のジンベエ」
+（地上波放送日　2009年12月13日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241048/image/3af405cf04597ee3d3d204793734944f.jpg" />
 </desc>
 </programme>
-<programme start="20211231104500 +0900" stop="20211231115000 +0900" channel="kbsworld.jp">
-<title lang="en">芸能ライブ　[字][再]</title>
-<desc>日本初放送！ＫＢＳの芸能街中継がリニューアルして帰ってきた！韓国の芸能ニュースをいち早くお届けする情報番組！2020年
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101133000 +0900" stop="20220101140000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　10</title>
+<desc>第431話「牢番長サルデスの罠 LV3・飢餓地獄」
+（地上波放送日　2009年12月20日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241049/image/4f95702a099732d5f76045d5092688e6.jpg" />
 </desc>
 </programme>
-<programme start="20211231115000 +0900" stop="20211231122000 +0900" channel="kbsworld.jp">
-<title lang="en">韓国 八道の食事　[字]</title>
-<desc>日本初放送！韓国　江原道の冬の食事、南に位置する済州島の食事、全羅南道の食事など韓国各地の地域ごとの料理をご紹介！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101140000 +0900" stop="20220101143000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　11</title>
+<desc>第432話「解き放たれた白鳥！再会！ボン・クレー」
+（地上波放送日　2009年12月27日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241050/image/043817bcd5bd0db905b951fce070b730.jpg" />
 </desc>
 </programme>
-<programme start="20211231122000 +0900" stop="20211231134500 +0900" channel="kbsworld.jp">
-<title lang="en">ペットバラエティ〜犬は素晴らしい　[字][再]</title>
-<desc>日本初放送！ドッグトレーナー　カン・ヒョンウク、名MC　イ・ギョンギュが犬と幸せに暮らしたい人々が抱える悩みを救う最新ペットバラエティ！　2019年
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101143000 +0900" stop="20220101150000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　12</title>
+<desc>第433話「署長マゼラン動く 完成！麦わら包囲網」
+（地上波放送日　2010年1月10日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241051/image/d748dbe8ef3e9e0f5d42f75e4b1ff88b.jpg" />
 </desc>
 </programme>
-<programme start="20211231134500 +0900" stop="20211231142500 +0900" channel="kbsworld.jp">
-<title lang="en">ドキュメンタリー　人間劇場　[字][再]</title>
-<desc>私たちの周囲で起こる興味深い出来事を紹介するドキュメンタリー人間劇場！ドラマのような人生の舞台に視聴者の皆さんを招待します！
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101150000 +0900" stop="20220101153000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　13</title>
+<desc>第434話「全戦力集結！LV4・焦熱地獄の決戦」
+（地上波放送日　2010年1月17日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241052/image/0d014602e595021eeac6d0a87b760c8e.jpg" />
 </desc>
 </programme>
-<programme start="20211231142500 +0900" stop="20211231151500 +0900" channel="kbsworld.jp">
-<title lang="en">ＴＶ小説　花を咲かせろ！ダルスン（原題）　46　[字]</title>
-<desc>1960年代を舞台に、記憶を失った一人の少女が靴職人として成功するまでの波乱万丈な人生を描くヒューマンラブストーリー！2017年 全129話
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101153000 +0900" stop="20220101160000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　14</title>
+<desc>第435話「マゼラン強し！ボン・クレー敵前逃亡」
+（地上波放送日　2010年1月24日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241053/image/64460adc69fd0fa491817dd45981280d.jpg" />
 </desc>
 </programme>
-<programme start="20211231151500 +0900" stop="20211231174000 +0900" channel="kbsworld.jp">
-<title lang="en">ソル薬局の息子たち　51、52　[字]</title>
-<desc>2009年 全54話
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101160000 +0900" stop="20220101163000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　15</title>
+<desc>第436話「雌雄決す！捨て身のルフィ最後の一撃」
+（地上波放送日　2010年1月31日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241054/image/146ea40183809eaa62234399edf646db.jpg" />
 </desc>
 </programme>
-<programme start="20211231174000 +0900" stop="20211231181000 +0900" channel="kbsworld.jp">
-<title lang="en">スタジオＫ　[字]</title>
-<desc>日本初放送！KBSバラエティ番組のデジタル専門スタジオ「スタジオK」で配信された最新バラエティをオンエア！2020年
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101163000 +0900" stop="20220101170000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　16</title>
+<desc>第437話「友達だから ボン・クレー決死の救出行」
+（地上波放送日　2010年2月7日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241055/image/c290708e443c927e8af076650476946a.jpg" />
 </desc>
 </programme>
-<programme start="20211231181000 +0900" stop="20211231191000 +0900" channel="kbsworld.jp">
-<title lang="en">２０世紀ヒットソング　[字]</title>
-<desc>日本初放送！ヒチョル(SUPER JUNIOR)がＭＣ担当！韓国の歌謡界の歴史を振り返る！懐かしくも新しいK-POPをお届けする最新音楽バラエティ！2020年
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101170000 +0900" stop="20220101173000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　17</title>
+<desc>第438話「地獄に楽園 インペルダウンLV5.5」
+（地上波放送日　2010年2月14日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241056/image/d64e68ff3b54d7a4a014234da911b01a.jpg" />
 </desc>
 </programme>
-<programme start="20211231191000 +0900" stop="20211231201500 +0900" channel="kbsworld.jp">
-<title lang="en">芸能ライブ　[字]</title>
-<desc>日本初放送！ＫＢＳの芸能街中継がリニューアルして帰ってきた！韓国の芸能ニュースをいち早くお届けする情報番組！2020年
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101173000 +0900" stop="20220101180000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　18</title>
+<desc>第439話「ルフィ治療開始 イワさん奇跡の能力！」
+（地上波放送日　2010年2月21日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241057/image/e569a9537d5e2eb17ab8de70014af083.jpg" />
+</desc>
+</programme>
+<programme start="20220101180000 +0900" stop="20220101183000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　19</title>
+<desc>第440話「奇跡を信じて！ボン・クレー魂の声援」
+（地上波放送日　2010年2月28日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241058/image/96acd394bea4556b3c3a662431e30fe7.jpg" />
+</desc>
+</programme>
+<programme start="20220101183000 +0900" stop="20220101190000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　20</title>
+<desc>第441話「ルフィ復活！イワさん脱獄計画始動!!」
+（地上波放送日　2010年3月7日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241059/image/547f31b1bd25c4d21d445cae66c27e83.jpg" />
+</desc>
+</programme>
+<programme start="20220101190000 +0900" stop="20220101193000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　21</title>
+<desc>第442話「エース護送開始 最下層LV6の攻防！」
+（地上波放送日　2010年3月14日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241060/image/b641a5b809e64f2e11e785ccdbc909b5.jpg" />
+</desc>
+</programme>
+<programme start="20220101193000 +0900" stop="20220101200000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　22</title>
+<desc>第443話「最強チーム結成 震撼！インペルダウン」
+（地上波放送日　2010年3月21日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241061/image/4fa9090c6c3ec755ae6500ab96b75c50.jpg" />
+</desc>
+</programme>
+<programme start="20220101200000 +0900" stop="20220101203000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　23</title>
+<desc>第444話「さらなる混乱！黒ひげ・ティーチ襲来」
+（地上波放送日　2010年3月28日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241062/image/88cbb90fcf67cacf2496685735afe829.jpg" />
+</desc>
+</programme>
+<programme start="20220101203000 +0900" stop="20220101210000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　24</title>
+<desc>第445話「危険な出会い！黒ひげと雨のシリュウ」
+（地上波放送日　2010年4月4日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241063/image/613091f5df918c820af2b77451de4f50.jpg" />
+</desc>
+</programme>
+<programme start="20220101210000 +0900" stop="20220101213000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　25</title>
+<desc>第446話「意地でも倒れぬ！本気のハンニャバル」
+（地上波放送日　2010年4月11日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241064/image/4b920a4c137f0ed04f5682ecd4cb9a18.jpg" />
+</desc>
+</programme>
+<programme start="20220101213000 +0900" stop="20220101220000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　26</title>
+<desc>第447話「怒りのJETピストル ルフィvs黒ひげ」
+（地上波放送日　2010年4月18日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241065/image/1ebe7b4c1ec146deca9be9adb423552a.jpg" />
+</desc>
+</programme>
+<programme start="20220101220000 +0900" stop="20220101223000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　27</title>
+<desc>第448話「マゼランを止めろ！イワさん奥義炸裂」
+（地上波放送日　2010年4月25日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241066/image/9bdeb41bab23928186635f77292e63e5.jpg" />
+</desc>
+</programme>
+<programme start="20220101223000 +0900" stop="20220101230000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　28</title>
+<desc>第449話「マゼランの奇策！はばまれた脱獄計画」
+（地上波放送日　2010年5月2日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241067/image/2909700a6f4d17701368b15935e9e766.jpg" />
+</desc>
+</programme>
+<programme start="20220101230000 +0900" stop="20220101233000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　29</title>
+<desc>第450話「脱獄チーム絶体絶命 禁じ手“毒の巨兵”」
+（地上波放送日　2010年5月9日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241068/image/cc3f79657c838017f30ca6a12df53732.jpg" />
+</desc>
+</programme>
+<programme start="20220101233000 +0900" stop="20220102000000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　30</title>
+<desc>第451話「起こせ最後の奇跡 正義の門を突破せよ」
+（地上波放送日　2010年5月16日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241069/image/03341cfc9e89341ce183234e9cd6c38e.jpg" />
+</desc>
+</programme>
+<programme start="20220102000000 +0900" stop="20220102003000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　31</title>
+<desc>第452話「目指せ海軍本部 エース救出への船出！」
+（地上波放送日　2010年5月23日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241070/image/14688841f99d76dd7e8911babe83a93a.jpg" />
+</desc>
+</programme>
+<programme start="20220102003000 +0900" stop="20220102010000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　32</title>
+<desc>第453話「仲間達の行方 空島リポートと改造動物」
+（地上波放送日　2010年5月30日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241071/image/8ff4a7a834da71b3e7cbdfbee0654d1b.jpg" />
+</desc>
+</programme>
+<programme start="20220102010000 +0900" stop="20220102013000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　33</title>
+<desc>第454話「仲間達の行方 巨鳥のヒナと桃色の対決」
+（地上波放送日　2010年6月6日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241072/image/5f1b5bfe15763cf466ac7ae94a699242.jpg" />
+</desc>
+</programme>
+<programme start="20220102013000 +0900" stop="20220102020000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　34</title>
+<desc>第455話「仲間達の行方 革命軍と暴食の森の罠！」
+（地上波放送日　2010年6月13日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241073/image/f45cdbaa55591c1b4e904f20956b8aea.jpg" />
+</desc>
+</programme>
+<programme start="20220102020000 +0900" stop="20220102023000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　35</title>
+<desc>第456話「仲間達の行方 巨大な墓標とパンツの恩」
+（地上波放送日　2010年6月20日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241074/image/f4d46eebea02bbc96456be2776202bb8.jpg" />
+</desc>
+</programme>
+<programme start="20220102023000 +0900" stop="20220102030000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　36</title>
+<desc>第457話「海軍本部直前回想特別編 兄弟の誓い！」
+（地上波放送日　2010年6月27日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241075/image/3b6d59f75347c5d222cc50362ddb9e81.jpg" />
+</desc>
+</programme>
+<programme start="20220102030000 +0900" stop="20220102033000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース インペルダウン編　37</title>
+<desc>第458話「海軍本部直前回想特別編 集結！三大将」
+（地上波放送日　2010年7月11日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241076/image/3bc67ad1f59bfd6c0e4cff7ea3da0211.jpg" />
+</desc>
+</programme>
+<programme start="20220102033000 +0900" stop="20220102040000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース マリンフォード編　1</title>
+<desc>第459話「決戦の刻迫る！海軍最強の布陣完成！」
+（地上波放送日　2010年7月18日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241077/image/003718296a1f90871b931985330e9fc3.jpg" />
+</desc>
+</programme>
+<programme start="20220102040000 +0900" stop="20220102043000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース マリンフォード編　2</title>
+<desc>第460話「巨大艦隊あらわる 襲来！白ひげ海賊団」
+（地上波放送日　2010年8月1日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241078/image/56bb80304c1b1bd72f367b00ed648fdf.jpg" />
+</desc>
+</programme>
+<programme start="20220102043000 +0900" stop="20220102050000 +0900" channel="FujiTwo.jp">
+<title lang="en">ワンピース マリンフォード編　3</title>
+<desc>第461話「決戦の幕開け！エースと白ひげの過去」
+（地上波放送日　2010年8月8日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241079/image/3db2367f7bf4be3c8af6f3356b978d80.jpg" />
 </desc>
 </programme>
 <programme start="20211231201500 +0900" stop="20220101015500 +0900" channel="kbsworld.jp">
@@ -1370,183 +1543,76 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-<programme start="20211231000000 +0900" stop="20211231020000 +0900" channel="mnet.jp">
-<title lang="en">STREET WOMAN FIGHTER 1 カン・ダニエル、BoA、テヨン(NCT 127) ほか</title>
-<desc>カン・ダニエルがMC！BoAとテヨン(NCT 127)が審査員を務める！
-女性ダンサーたちによるリアルなサバイバル番組！
-▼2022年1月4日(火)深130〜再放送スタート
+<programme start="20220101074000 +0900" stop="20220101100000 +0900" channel="kbsworld.jp">
+<title lang="en">国家代表ワイフ（原題） 20〜23　[字][再]</title>
+<desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7209553/image/223918f9671eef7bfa3d7d8f9f817338.jpg" />
+</desc>
+</programme>
+<programme start="20220101100000 +0900" stop="20220101103000 +0900" channel="kbsworld.jp">
+<title lang="en">スターパパ奮闘記！スーパーマンが帰ってきたＢＥＳＴ　[字]</title>
+<desc>48時間ママなしで芸能人パパたちが子育てにチャレンジする番組。
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7209554/image/0d80d6ba2ac7fe8a4930b79e8cf56aba.jpg" />
+</desc>
+</programme>
+<programme start="20220101103000 +0900" stop="20220101115000 +0900" channel="kbsworld.jp">
+<title lang="en">恋するレモネード　9　[字][再]</title>
+<desc>KBS World初放送！「君の歌を聴かせて」のキム・セジョン、チャン・ドンユン、「愛の不時着」のキム・ジョンヒョン主演！学園青春ロマンス！2017年　全16話
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7209555/image/d29f482c4c9b0665009818e9c8b8be6f.jpg" />
+</desc>
+</programme>
+<programme start="20220101115000 +0900" stop="20220101184500 +0900" channel="kbsworld.jp">
+<title lang="en">＊一挙放送＊プロデューサー　9〜12　[字][終]</title>
+<desc>年末年始 一挙放送！チャ・テヒョン、キム・スヒョン、コン・ヒョジン、IU主演！放送業界を舞台にプロデューサーと芸能人が恋に仕事に奮闘するラブコメディ！2015年全12話
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-<programme start="20211231020000 +0900" stop="20211231040000 +0900" channel="mnet.jp">
-<title lang="en">SHOW ME THE MONEY 10 キャッチアップ放送 4</title>
-<desc>韓国のHIPHOPブームを牽引する「SHOW ME THE MONEY」シリーズ第10弾！
-1〜527日〜31日深200
-62022年1月2日深200
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101184500 +0900" stop="20220101195000 +0900" channel="kbsworld.jp">
+<title lang="en">開かれた音楽会　セレクト　[字]</title>
+<desc>日本初放送！人気K-POPアイドルからベテラン歌手まで出演する韓国の長寿音楽番組！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7209557/image/b8cbec5f1a489fb1b296df4a380adbcf.jpg" />
 </desc>
 </programme>
-<programme start="20211231040000 +0900" stop="20211231041500 +0900" channel="mnet.jp">
-<title lang="en">いつまで肩踊りをさせるんだ 5</title>
-<desc>ゲストベクヒョンシウミン(EXO)
-キュヒョン(SUPER JUNIOR)と最高のおつまみ＆お酒を味わう風流バラエティ！
-再28日〜30日深400 ※2話連続放送
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101195000 +0900" stop="20220101211000 +0900" channel="kbsworld.jp">
+<title lang="en">紳士とお嬢さん（原題）　5　[字][再]</title>
+<desc>日本初放送！チ・ヒョヌ＆イ・セヒ主演。自分の選んだ道を突き進んで幸せを探す’お嬢さん’と’紳士’が出会うドタバタ ラブコメ・ホームドラマ！2021年　全50話（予定）
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7209558/image/0c27b2fb0f6b3b256a8bdc07a4234c03.jpg" />
 </desc>
 </programme>
-<programme start="20211231041500 +0900" stop="20211231043000 +0900" channel="mnet.jp">
-<title lang="en">いつまで肩踊りをさせるんだ 6(終)</title>
-<desc>ゲストDinDin、K.will、ソン・シギョン
-キュヒョン(SUPER JUNIOR)と最高のおつまみ＆お酒を味わう風流バラエティ！
-再28日〜30日深400 ※2話連続放送
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101211000 +0900" stop="20220101223000 +0900" channel="kbsworld.jp">
+<title lang="en">紳士とお嬢さん（原題）　6　[字]</title>
+<desc>日本初放送！チ・ヒョヌ＆イ・セヒ主演。自分の選んだ道を突き進んで幸せを探す’お嬢さん’と’紳士’が出会うドタバタ ラブコメ・ホームドラマ！2021年　全50話（予定）
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7209559/image/3ec3cc56660d4b2dc5f8316dfb7a2383.jpg" />
 </desc>
 </programme>
-<programme start="20211231043000 +0900" stop="20211231050000 +0900" channel="mnet.jp">
-<title lang="en">ユン・ドゥジュンのモグモグモッパン 3</title>
-<desc>元祖モッパンアイドル ユン・ドゥジュン(Highlight)のASMRモッパンショー！
-2021年 全5回
-再13日(月)深300〜、30日(木)深430〜
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220101223000 +0900" stop="20220102001000 +0900" channel="kbsworld.jp">
+<title lang="en">１泊２日 シーズン４　[字]</title>
+<desc>日本初放送！１泊２日で旅をして、地元の人々と触れあうKBSの大人気バラエティの最新シーズンをオンエア！俳優ヨン・ジョンフン、K-POPアイドル　ラビ（VIXX）出演！2019年
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7209560/image/f2a8b5562b190dbd00024711c297c82e.jpg" />
 </desc>
 </programme>
-<programme start="20211231050000 +0900" stop="20211231061500 +0900" channel="mnet.jp">
-<title lang="en">ピノキオ アンコール放送 12</title>
-<desc>イ・ジョンソク×パク・シネ主演！「君の声が聞こえる」制作陣が贈る
-この冬いちばんのピュアラブストーリー！
-2014年
-放送日27日〜2022年1月2日500 ※3話連続放送
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102001000 +0900" stop="20220102013000 +0900" channel="kbsworld.jp">
+<title lang="en">魔女の法廷　8　[字]</title>
+<desc>野心家 女性検事＆元精神科医のイケメン新人検事がコンビを組み犯罪事件解決に挑む法廷サスペンス＆ラブコメディ！2017年　全16話
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7210854/image/dd675e44878ca7c2b6f884cfab006b83.jpg" />
 </desc>
 </programme>
-<programme start="20211231061500 +0900" stop="20211231073000 +0900" channel="mnet.jp">
-<title lang="en">ピノキオ アンコール放送 13</title>
-<desc>イ・ジョンソク×パク・シネ主演！「君の声が聞こえる」制作陣が贈る
-この冬いちばんのピュアラブストーリー！
-2014年
-放送日27日〜2022年1月2日500 ※3話連続放送
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102013000 +0900" stop="20220102023500 +0900" channel="kbsworld.jp">
+<title lang="en">家事をする男たち　シーズン２　[字][再]</title>
+<desc>日本初放送！韓国のスターたちが家事に奮闘するリアルバラエティ！韓国放送日2021年9月18日〜
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7210855/image/7dff925cc9665e99e42c0e4aebdb3118.jpg" />
 </desc>
 </programme>
-<programme start="20211231073000 +0900" stop="20211231084500 +0900" channel="mnet.jp">
-<title lang="en">ピノキオ アンコール放送 14</title>
-<desc>イ・ジョンソク×パク・シネ主演！「君の声が聞こえる」制作陣が贈る
-この冬いちばんのピュアラブストーリー！
-2014年
-放送日27日〜2022年1月2日500 ※3話連続放送
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102023500 +0900" stop="20220102025000 +0900" channel="kbsworld.jp">
+<title lang="en">ユ・ヒヨルのスケッチブックＢＥＳＴ　[字]</title>
+<desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7210856/image/cb43503eb87f1c544dedb3d3d33622b3.jpg" />
 </desc>
 </programme>
-<programme start="20211231084500 +0900" stop="20211231090000 +0900" channel="mnet.jp">
-<title lang="en">Mnetライブ 【TREASURE】</title>
-<desc>一人ひとりが才能溢れる大型新人グループTREASURE！そんな彼らの迫力あるライブパフォーマンスをまとめてお届け！
-2021年
-※再放送情報はMnet HPにてご確認ください
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231090000 +0900" stop="20211231101500 +0900" channel="mnet.jp">
-<title lang="en">相続者たち アンコール放送 19</title>
-<desc>イ・ミンホ＆パク・シネなど豪華共演！逃れられない宿命を背負った若者たちの甘く切ないラブストーリー！
-放送日27日(月)〜31日(金)900〜 ※5話連続放送
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231101500 +0900" stop="20211231113000 +0900" channel="mnet.jp">
-<title lang="en">相続者たち アンコール放送 20(終)</title>
-<desc>イ・ミンホ＆パク・シネなど豪華共演！逃れられない宿命を背負った若者たちの甘く切ないラブストーリー！
-放送日27日(月)〜31日(金)900〜 ※5話連続放送
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231113000 +0900" stop="20211231124500 +0900" channel="mnet.jp">
-<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 1</title>
-<desc>パク・ソジュン×パク・ミニョン 初共演
-ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
-放送日12月31日〜3日900※5話連続
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231124500 +0900" stop="20211231140000 +0900" channel="mnet.jp">
-<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 2</title>
-<desc>パク・ソジュン×パク・ミニョン 初共演
-ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
-放送日12月31日〜3日900※5話連続
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231140000 +0900" stop="20211231151500 +0900" channel="mnet.jp">
-<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 3</title>
-<desc>パク・ソジュン×パク・ミニョン 初共演
-ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
-放送日12月31日〜3日900※5話連続
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231151500 +0900" stop="20211231153000 +0900" channel="mnet.jp">
-<title lang="en">MUSIC VIDEO</title>
-<desc>最新曲からちょっと懐かしい曲まで、様々なK-POPのミュージックビデオをお届けします
-◆曲目リストはMnet HPをご覧ください
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231153000 +0900" stop="20211231155800 +0900" channel="mnet.jp">
-<title lang="en">MタメBANG！7 P1Harmony ほか　[解]</title>
-<desc>ゲストP1Harmony
-Mnetがお届けする韓流情報番組「MタメBANG！」がリニューアル！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231155800 +0900" stop="20211231160000 +0900" channel="mnet.jp">
-<title lang="en">インフォメーション</title>
-<desc> 
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231160000 +0900" stop="20211231173000 +0900" channel="mnet.jp">
-<title lang="en">君の声が見える ８ チャン・ヒョク 出演回 11</title>
-<desc>ゲストチャン・ヒョク
-音楽推理プログラム「君の声が見える」シリーズ第8弾！
-2021年
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231173000 +0900" stop="20211231180000 +0900" channel="mnet.jp">
-<title lang="en">PENTAGON ユウトのはじめてソロキャンプするンデ！ 1</title>
-<desc>PENTAGONの日本人メンバー ユウト“初”の冠番組！
-はじめてづくしのソロキャンプに密着！
-再20日2030、23日2200、28日深130、31日1730
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231180000 +0900" stop="20211231200000 +0900" channel="mnet.jp">
-<title lang="en">MAMAベストパフォーマンス BTS 2014-2020</title>
-<desc>歴代のMAMAで披露されたBTSのパフォーマンスステージをまとめてお届け！
-MAMAでしか見られない特別なステージをお見逃しなく！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231200000 +0900" stop="20211231210000 +0900" channel="mnet.jp">
-<title lang="en">MAMAベストパフォーマンス TWICE 2016-2020</title>
-<desc>歴代のMAMAで披露されたTWICEのパフォーマンスステージをまとめてお届け！
-MAMAでしか見られない特別なステージをお見逃しなく！
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231210000 +0900" stop="20211231221500 +0900" channel="mnet.jp">
-<title lang="en">悪魔判事(原題) キャッチアップ放送 9</title>
-<desc>チソン＆ジニョン(GOT7)出演！
-ライブ法廷ショーを通じて正義に対するメッセージを伝える法廷ドラマ
-放送日(月)(火)2200〜
-<icon src="https://tvguide.myjcom.jp" />
-</desc>
-</programme>
-<programme start="20211231221500 +0900" stop="20220101000000 +0900" channel="mnet.jp">
-<title lang="en">賢い山村生活 1話先行放送</title>
-<desc>ナ・ヨンソクPDの人気バラエティ「三食ごはん」×人気ドラマ「賢い医師生活」の特別コラボ番組
-再31日2215、1月2日1745
-▼1月16日1845 本放送スタート
-<icon src="https://tvguide.myjcom.jp" />
+<programme start="20220102025000 +0900" stop="20220102051000 +0900" channel="kbsworld.jp">
+<title lang="en">＊アンコール放送＊優雅な友達（原題）　6、7　[字][再]</title>
+<desc>アンコール放送！JTBCが贈る親友5人とその妻たちに隠された秘密、2つの殺人事件、友人の死から驚愕の真実が明らかなっていくミステリー　コメディメロドラマ！2020年全17話
+<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7210857/image/6f9a68402541c09d407e54eb3ce53077.jpg" />
 </desc>
 </programme>
 <programme start="20220101000000 +0900" stop="20220101020000 +0900" channel="mnet.jp">
@@ -1583,6 +1649,187 @@ MAMAでしか見られない特別なステージをお見逃しなく！
 <desc>元祖モッパンアイドル ユン・ドゥジュン(Highlight)のASMRモッパンショー！
 2021年 全5回
 再17日(金)深330〜、31日(金)深430〜
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101050000 +0900" stop="20220101061500 +0900" channel="mnet.jp">
+<title lang="en">ピノキオ アンコール放送 15</title>
+<desc>イ・ジョンソク×パク・シネ主演！「君の声が聞こえる」制作陣が贈る
+この冬いちばんのピュアラブストーリー！
+2014年
+放送日27日〜2022年1月2日500 ※3話連続放送
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101061500 +0900" stop="20220101073000 +0900" channel="mnet.jp">
+<title lang="en">ピノキオ アンコール放送 16</title>
+<desc>イ・ジョンソク×パク・シネ主演！「君の声が聞こえる」制作陣が贈る
+この冬いちばんのピュアラブストーリー！
+2014年
+放送日27日〜2022年1月2日500 ※3話連続放送
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101073000 +0900" stop="20220101084500 +0900" channel="mnet.jp">
+<title lang="en">ピノキオ アンコール放送 17</title>
+<desc>イ・ジョンソク×パク・シネ主演！「君の声が聞こえる」制作陣が贈る
+この冬いちばんのピュアラブストーリー！
+2014年
+放送日27日〜2022年1月2日500 ※3話連続放送
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101084500 +0900" stop="20220101090000 +0900" channel="mnet.jp">
+<title lang="en">MUSIC VIDEO</title>
+<desc>最新曲からちょっと懐かしい曲まで、様々なK-POPのミュージックビデオをお届けします
+◆曲目リストはMnet HPをご覧ください
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101090000 +0900" stop="20220101101500 +0900" channel="mnet.jp">
+<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 4</title>
+<desc>パク・ソジュン×パク・ミニョン 初共演
+ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
+放送日12月31日〜3日900※5話連続
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101101500 +0900" stop="20220101113000 +0900" channel="mnet.jp">
+<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 5</title>
+<desc>パク・ソジュン×パク・ミニョン 初共演
+ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
+放送日12月31日〜3日900※5話連続
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101113000 +0900" stop="20220101124500 +0900" channel="mnet.jp">
+<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 6</title>
+<desc>パク・ソジュン×パク・ミニョン 初共演
+ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
+放送日12月31日〜3日900※5話連続
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101124500 +0900" stop="20220101140000 +0900" channel="mnet.jp">
+<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 7</title>
+<desc>パク・ソジュン×パク・ミニョン 初共演
+ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
+放送日12月31日〜3日900※5話連続
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101140000 +0900" stop="20220101151500 +0900" channel="mnet.jp">
+<title lang="en">キム秘書はいったい、なぜ？ アンコール放送 8</title>
+<desc>パク・ソジュン×パク・ミニョン 初共演
+ツンデレ御曹司と敏腕秘書の甘い恋の駆け引きに心ときめく、ロマンチック・ラブコメディ
+放送日12月31日〜3日900※5話連続
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101151500 +0900" stop="20220101153000 +0900" channel="mnet.jp">
+<title lang="en">Mnetライブ 【CRAVITY】</title>
+<desc>パフォーマンスとビジュアル どちらもハイレベルなCRAVITY！そんな彼らのエネルギッシュなステージをまとめてお届け！
+2021年
+※再放送情報はMnet HPにてご確認ください
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101153000 +0900" stop="20220101155800 +0900" channel="mnet.jp">
+<title lang="en">MタメBANG！8 2PM ほか　[解]</title>
+<desc>ゲスト2PM、MIRAE
+Mnetがお届けする韓流情報番組「MタメBANG！」がリニューアル！
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101155800 +0900" stop="20220101160000 +0900" channel="mnet.jp">
+<title lang="en">インフォメーション</title>
+<desc> 
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101160000 +0900" stop="20220101173000 +0900" channel="mnet.jp">
+<title lang="en">お貸しします 車輪のついた家 キャッチアップ放送 1</title>
+<desc>俳優 カン・ハヌル、EXO セフンら出演！「車輪のついた家」スピンオフ番組！
+全3回
+放送日(金)2000〜
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101173000 +0900" stop="20220101180000 +0900" channel="mnet.jp">
+<title lang="en">PENTAGON ユウトのはじめてソロキャンプするンデ！ 2(終)</title>
+<desc>PENTAGONの日本人メンバー ユウト“初”の冠番組！
+はじめてづくしのソロキャンプに密着！
+再2022年1月1日1730
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101180000 +0900" stop="20220101220000 +0900" channel="mnet.jp">
+<title lang="en">KCONTACT HI 5 字幕版</title>
+<desc>9月にオンラインで開催された「KCONTACT HI 5」のコンサートの様子をオンエア！
+再31日(月)1300〜1700
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101220000 +0900" stop="20220101223000 +0900" channel="mnet.jp">
+<title lang="en">FUN！FAN！HWAN！〜BTSSEVENTEEN編 1</title>
+<desc>K-POPファン必見！Mnetスペシャル特番「BTS＆SEVENTEEN編」をお届け！
+2020年
+再4日(火)深400、14日(金)1200 ※2話連続放送
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101223000 +0900" stop="20220101230000 +0900" channel="mnet.jp">
+<title lang="en">FUN！FAN！HWAN！〜BTSSEVENTEEN編 2(終)</title>
+<desc>K-POPファン必見！Mnetスペシャル特番「BTS＆SEVENTEEN編」をお届け！
+2020年
+再4日(火)深400、14日(金)1200 ※2話連続放送
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220101230000 +0900" stop="20220102000000 +0900" channel="mnet.jp">
+<title lang="en">SEVENTEEN COMEBACK SHOW Henggarae 字幕版</title>
+<desc>SEVENTEENのカムバックスペシャル番組を日本語字幕版でお届け！
+2020年
+再12日(水)1900〜2000、19日(水)深300〜400
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220102000000 +0900" stop="20220102013000 +0900" channel="mnet.jp">
+<title lang="en">驚きの土曜日 JISOOROSE(BLACKPINK) 出演回 129</title>
+<desc>ゲストJISOOROSE(BLACKPINK)
+キー(SHINee)ほか出演！
+韓国の絶品グルメをかけてクイズに挑戦！
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220102013000 +0900" stop="20220102020000 +0900" channel="mnet.jp">
+<title lang="en">Mnetライブ 【SEVENTEEN】</title>
+<desc>1月「今月のアーティスト」SEVENTEEN！13人が魅せる迫力あるライブパフォーマンスをまとめてお届け！
+2018年
+※再放送情報はMnet HPにてご確認ください
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220102020000 +0900" stop="20220102033000 +0900" channel="mnet.jp">
+<title lang="en">M COUNTDOWN 字幕版 過去放送回</title>
+<desc>出演ドンヘ (SUPER JUNIOR)、ITZY、ATEEZ、ENHYPEN ほか
+【2021年10月14日M COUNTDOWN】
+再2022年1月1日、2日、4日、5日
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220102033000 +0900" stop="20220102040000 +0900" channel="mnet.jp">
+<title lang="en">MUSIC VIDEO</title>
+<desc>最新曲からちょっと懐かしい曲まで、様々なK-POPのミュージックビデオをお届けします
+◆曲目リストはMnet HPをご覧ください
+<icon src="https://tvguide.myjcom.jp" />
+</desc>
+</programme>
+<programme start="20220102040000 +0900" stop="20220102050000 +0900" channel="mnet.jp">
+<title lang="en">M COUNTDOWN バックステージ 過去放送回</title>
+<desc>出演SHINee、ソンミ、STORAGE M（(G)I-DLE  IZ*ONE  Weki Meki）、Wei他
+2021年2月25日M COUNTDOWN
+再2022年1月1日深400
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
