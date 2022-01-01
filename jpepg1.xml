@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220101115400 +0900" stop="20220101120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220101120000 +0900" stop="20220101121000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20220101121000 +0900" stop="20220101121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220101121500 +0900" stop="20220101130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">2022年新春!ニッポン“ふるさと”リレー</title>
     <desc lang="en">全国の冬の風物詩を楽しみ、ふるさとを感じる。伝統芸能や元気なパフォーマンスを披露。北海道・岩手・石川・山口・香川からバラエティー豊かな生中継で各地の正月を紹介。</desc>
@@ -318,9 +306,13 @@
     <title lang="en"></title>
     <desc lang="en">【キャスター】佐藤誠太</desc>
   </programme>
-  <programme start="20220101111500 +0900" stop="20220101120000 +0900" channel="eTele.jp">
-    <title lang="en">グレーテルのかまど スピンオフドラマ〜パティシエ・ヘンゼル しあわせの魔法〜</title>
-    <desc lang="en">古今東西のスイーツにまつわる物語を紹介して１０年。「グレーテルのかまど」から、新年にぴったりの“もうひとつの物語”が、スピンオフドラマとして誕生！</desc>
+  <programme start="20220102121000 +0900" stop="20220102121500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220102121500 +0900" stop="20220102164000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">第58回全国大学ラグビー選手権</title>
+    <desc lang="en">大学日本一をかけてベスト４が激突！４季ぶりのＶを目指す優勝候補の帝京。挑むのは関西１位の京産。関東リーグ戦４連覇の東海と戦力充実の明治。重量ＦＷ対決にも注目。</desc>
   </programme>
   <programme start="20220101120000 +0900" stop="20220101130000 +0900" channel="eTele.jp">
     <title lang="en">にっぽんの芸能</title>
@@ -474,6 +466,18 @@
     <title lang="en">映画 ねこねこ日本史 〜龍馬のはちゃめちゃタイムトラベルぜよ!〜</title>
     <desc lang="en">日本の歴史上の人物が「ねこ」になって登場する「ねこねこ日本史」。シリーズ初の劇場版では、小学生ねこのフクと坂本龍馬がタイムトラベルを繰り広げる。２０２０年公開。</desc>
   </programme>
+  <programme start="20220102121500 +0900" stop="20220102124500 +0900" channel="eTele.jp">
+    <title lang="en">世界の教育コンテンツ 日本賞2021</title>
+    <desc lang="en">教育コンテンツの国際コンクール、日本賞。２０２１年は１１の作品に賞が贈られました。今回はその中から、幼児、児童向けの受賞作品をクイズ形式でご紹介します。</desc>
+  </programme>
+  <programme start="20220102124500 +0900" stop="20220102125000 +0900" channel="eTele.jp">
+    <title lang="en">プチプチ・アニメ</title>
+    <desc lang="en">氷の世界に住む少女レシオとその友だち、毛むくじゃらのジャモン。出かけ先で会った精霊や不思議な生き物たちから、さまざまなことを学んでゆきます。</desc>
+  </programme>
+  <programme start="20220102125000 +0900" stop="20220102133500 +0900" channel="eTele.jp">
+    <title lang="en">ムーミン谷のなかまたち</title>
+    <desc lang="en">フィンランドの国民的作家トーベ・ヤンソンのムーミンをフルＣＧでアニメ化した最新作！美しいムーミン谷を舞台にムーミントロールが仲間たちと繰り広げる日常を描く。</desc>
+  </programme>
   <programme start="20220101103000 +0900" stop="20220101130000 +0900" channel="NipponTV.jp">
     <title lang="en">元日サプライズ!</title>
     <desc lang="en">火サプ名物「アポなしグルメ」が2年ぶりに復活▽市川海老蔵ロケで番組史上初のハプニング▽高畑充希と鎌倉旅▽長嶋一茂自宅でBBQ▽昇太vsSnow Man大喜利</desc>
@@ -546,10 +550,6 @@
     <title lang="en">第98回東京箱根間往復大学駅伝競走</title>
     <desc lang="en">大正・昭和・平成・令和とつながれてきた「箱根駅伝」９８回目の継走。今年は大混戦＆超高速レース必至か！？東海道箱根路を２１本のタスキが駆け抜ける▽往路Ｖの行方は？</desc>
   </programme>
-<programme start="20220101114500 +0900" stop="20220101120000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
 <programme start="20220101120000 +0900" stop="20220101163000 +0900" channel="Asahi.jp">
   <title lang="en">おしょうバズTV</title>
   <desc lang="en">所さんとバナナマンの時間旅行バラエティ
@@ -602,6 +602,10 @@
 <programme start="20220102065500 +0900" stop="20220102130000 +0900" channel="Asahi.jp">
   <title lang="en">ポツンと一軒家</title>
   <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
+</programme>
+<programme start="20220102130000 +0900" stop="20220102160000 +0900" channel="Asahi.jp">
+  <title lang="en">路線バスで寄り道の旅</title>
+  <desc lang="en">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回は、箱根〜熱海〜伊豆で“80年代アイドル”同窓会旅！</desc>
 </programme>
 <programme start="20220101073000 +0900" stop="20220101143000 +0900" channel="TBS2.jp">
   <title lang="en">ヤマザキ新春スポーツスペシャル ニューイヤー駅伝2022第66回全日本実業団駅伝</title>
@@ -708,6 +712,10 @@
   <title lang="en">新春！大食い女王決定戦2022〜爆食の新女王誕生SP〜</title>
   <desc lang="en">２０２２年も新たな大食い戦士たちが大集結！餃子に牛丼にピザにラーメン食べまくりでペロリッ！新春の大食い決戦！驚異の大記録連発の爆食ニューヒロインが誕生する！</desc>
 </programme>
+<programme start="20220102123000 +0900" stop="20220102140000 +0900" channel="TVTokyo.jp">
+  <title lang="en">男子ごはん</title>
+  <desc lang="en">国分太一と栗原心平の同世代の男２人が日曜のお昼にお届けする料理番組。ほのぼのとした雰囲気の中、２人で仲良くおしゃべりしながら、様々なレシピを紹介します。</desc>
+</programme>
 <programme start="20220101070000 +0900" stop="20220101135000 +0900" channel="FujiTV.jp">
   <title lang="en">第55回新春!爆笑ヒットパレード2022</title>
   <desc lang="en">２０２２年最初の笑いの祭典！漫才＆コント王者に人気若手芸人＆タレントたちが届ける笑い初め！５５周年を祝い超大物ゲストも登場！視聴者お年玉プレゼントも！</desc>
@@ -796,13 +804,9 @@
   <title lang="en">くいしん坊!万才</title>
   <desc lang="en">くいしん坊松岡修造が全国各地の名物料理や郷土の味・珍味に挑戦！その土地の歴史や文化、人々の暮らしにふれ、食べることの喜びや出会いの楽しさを伝えます。</desc>
 </programme>
-<programme start="20220101115500 +0900" stop="20220101120000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20220101120000 +0900" stop="20220101125500 +0900" channel="Tokyo MX">
-  <title lang="en">初春 お茶の間寄席</title>
-  <desc lang="en">今年はナイツ、ロケット団、ねづっちをチバテレスタジオにゲストに迎え、お正月にふさわしい爆笑のネタをお茶の間にお届けします！</desc>
+<programme start="20220102120500 +0900" stop="20220102153000 +0900" channel="FujiTV.jp">
+  <title lang="en">フリーター、家を買う。</title>
+  <desc lang="en">ダメダメなフリーターがうつ病にかかった母親のために立ち上がる！新しい社会派ホームドラマスタート！二宮和也　香里奈　井川遥　竹中直人　浅野温子　ほか</desc>
 </programme>
 <programme start="20220101125500 +0900" stop="20220101130000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -931,6 +935,10 @@
 <programme start="20220102120000 +0900" stop="20220102130000 +0900" channel="Tokyo MX">
   <title lang="en">F.C.TOKYO COLORS</title>
   <desc lang="en">ＦＣ東京が“リーグ制覇”を果たすためには…来シーズン、チームの中心となるであろう３選手とクラブに深い所縁のある人々へのインタビュー取材から、そのヒントを探る‼</desc>
+</programme>
+<programme start="20220102130000 +0900" stop="20220102144500 +0900" channel="Tokyo MX">
+  <title lang="en">〜映画監督への登竜門SP〜『スーパーミキンコリニスタ』 PFFアワード2019</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20211231193000 +0900" stop="20220101010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]幸せワッハッハ！ COUNTDOWN LIVE IN OKINAWA</title>
@@ -1380,7 +1388,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2009年12月6日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241047/image/e61e32b44965cb264c84b6c4579a45bc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220101130000 +0900" stop="20220101133000 +0900" channel="FujiTwo.jp">
