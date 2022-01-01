@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220101141800 +0900" stop="20220101151800 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">超絶神業!マジックバトル</title>
-    <desc lang="en">２０２１年春に放送して大好評だったマジックの祭典が完全版となって復活！勘九郎がなんと宙に浮く！小芝風花に腕利きマジシャンがおそいかかる！その結末は！？</desc>
-  </programme>
-  <programme start="20220101151800 +0900" stop="20220101152300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220101152300 +0900" stop="20220101163500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">子犬が家にやってきた!〜パピーラブラブドキュメント〜</title>
     <desc lang="en">子犬を迎えたその日から一家は激変！思いが通じず泣き出す家族もあればさみしがり屋の子犬をどうしてよいか途方に暮れる家族も。切なくもいとおしいワンコドキュメント！</desc>
@@ -302,18 +294,6 @@
     <title lang="en">第58回全国大学ラグビー選手権</title>
     <desc lang="en">大学日本一をかけてベスト４が激突！４季ぶりのＶを目指す優勝候補の帝京。挑むのは関西１位の京産。関東リーグ戦４連覇の東海と戦力充実の明治。重量ＦＷ対決にも注目。</desc>
   </programme>
-  <programme start="20220101140000 +0900" stop="20220101152200 +0900" channel="eTele.jp">
-    <title lang="en">スマーフ スマーフェットと秘密の大冒険</title>
-    <desc lang="en">小さな青い妖精スマーフが、新たな仲間たちを救うため、禁断の森へ旅に出る！みんなを引っ張るのは、村で唯一の女の子スマーフェット。ふしぎな友だち、みつけた！</desc>
-  </programme>
-  <programme start="20220101152200 +0900" stop="20220101152500 +0900" channel="eTele.jp">
-    <title lang="en">絵本のおくりもの〜こぐまちゃんえほんシリーズ〜</title>
-    <desc lang="en">こぐまちゃんは花に水をあげるお手伝い。あれ？いつの間にか、手に持っているじょうろがホースにかわって…！？</desc>
-  </programme>
-  <programme start="20220101152500 +0900" stop="20220101153000 +0900" channel="eTele.jp">
-    <title lang="en">プチプチ・アニメ</title>
-    <desc lang="en">寝ぼすけであわてんぼうのパルタ。ガールフレンドのピプコや犬のコロタたちとの、ドタバタだけれども楽しい毎日。海や山、あらゆるところで大冒険が繰り広げられます。</desc>
-  </programme>
   <programme start="20220101153000 +0900" stop="20220101170000 +0900" channel="eTele.jp">
     <title lang="en">新春将棋バトル!〜バラエティー五番勝負〜</title>
     <desc lang="en">プロ棋士による「超高速対局」あり、将棋盤なしの「脳内対局」あり、そしてお笑い芸人サバンナが将棋遊びで火花を散らす！家族全員で楽しめる将棋バトル５番勝負！</desc>
@@ -462,9 +442,9 @@
     <title lang="en">おかあさんといっしょ</title>
     <desc lang="en">「おかあさんといっしょ」に届いた歌のリクエストにおこたえし、人気の歌をたくさん紹介する特別番組！</desc>
   </programme>
-  <programme start="20220101145000 +0900" stop="20220101150000 +0900" channel="NipponTV.jp">
-    <title lang="en">NNNニュース</title>
-    <desc lang="en">最新のニュース、スポーツ情報、気になるお天気をお伝えします。</desc>
+  <programme start="20220102153000 +0900" stop="20220102170000 +0900" channel="eTele.jp">
+    <title lang="en">新春囲碁スペシャル 人気チームでリレーGOバトル!</title>
+    <desc lang="en">人気プロ棋士と芸能人が４人１チームを組み、五手ずつ打ち合うリレー碁対決！トッププロの真剣勝負あり、アマチュア同士の奇想天外な手あり、の面白正月囲碁特番です。</desc>
   </programme>
   <programme start="20220101150000 +0900" stop="20220101170000 +0900" channel="NipponTV.jp">
     <title lang="en">笑点</title>
@@ -530,6 +510,10 @@
     <title lang="en">第100回全国高校サッカー選手権大会</title>
     <desc lang="en">関東第一（関東B）×矢板中央（栃木）生中継！　前橋育英（群馬）×鹿島学園（茨城）ハイライト※最大延長10分</desc>
   </programme>
+  <programme start="20220102155500 +0900" stop="20220102160500 +0900" channel="NipponTV.jp">
+    <title lang="en">第100回全国高校サッカー選手権大会</title>
+    <desc lang="en">3回戦注目試合！</desc>
+  </programme>
 <programme start="20220101120000 +0900" stop="20220101163000 +0900" channel="Asahi.jp">
   <title lang="en">おしょうバズTV</title>
   <desc lang="en">所さんとバナナマンの時間旅行バラエティ
@@ -587,9 +571,9 @@
   <title lang="en">路線バスで寄り道の旅</title>
   <desc lang="en">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回は、箱根〜熱海〜伊豆で“80年代アイドル”同窓会旅！</desc>
 </programme>
-<programme start="20220101143000 +0900" stop="20220101150000 +0900" channel="TBS2.jp">
-  <title lang="en"></title>
-  <desc lang="en">これを見ればもっと楽しくなる！『ぎぼむす２０２２年謹賀新年SP』完全ガイド！</desc>
+<programme start="20220102160000 +0900" stop="20220102180000 +0900" channel="Asahi.jp">
+  <title lang="en">緊急取調室</title>
+  <desc lang="en">「容疑者をマル裸に‼不可能連続殺人を自首⁉女たちの嘘と裏切りを暴く緊迫のバトルが今始まる」天海祐希(他)▽自白した被疑者には遂行不可能な殺人事件…その真実とは⁉</desc>
 </programme>
 <programme start="20220101150000 +0900" stop="20220101163000 +0900" channel="TBS2.jp">
   <title lang="en">マツコの知らない世界</title>
@@ -701,6 +685,10 @@
   <desc lang="en">サンドウィッチマンvsナイツ漫才対決！
 爆笑問題、神田伯山、錦鯉ら豪華メンバーで初笑い！フワちゃんコラボ漫才！小朝の美人大喜利は人気アイドルとＩＫＫＯが対決！</desc>
 </programme>
+<programme start="20220102160000 +0900" stop="20220102175500 +0900" channel="TVTokyo.jp">
+  <title lang="en">2022超激ウマ大捜索!ラーメン食べまくりバトル</title>
+  <desc lang="en">ラーメン好きのタレントが２チームに分かれ、東京のラーメン激戦区で、人気＆話題の店を訪れ看板ラーメンを実食。完食後、ラーメン情報サイトのポイントで勝敗を決定！</desc>
+</programme>
 <programme start="20220101140000 +0900" stop="20220101160000 +0900" channel="FujiTV.jp">
   <title lang="en">第55回新春!爆笑ヒットパレード2022</title>
   <desc lang="en">２０２２年最初の笑いの祭典！大御所芸人から漫才＆コント王者に若手人気芸人＆タレントたちが生放送で届ける笑い初め！５５周年を祝い超大物ゲストも登場！</desc>
@@ -785,9 +773,13 @@
   <title lang="en">フリーター、家を買う。</title>
   <desc lang="en">ダメダメなフリーターがうつ病にかかった母親のために立ち上がる！新しい社会派ホームドラマスタート！二宮和也　香里奈　井川遥　竹中直人　浅野温子　ほか</desc>
 </programme>
-<programme start="20220101144500 +0900" stop="20220101150000 +0900" channel="Tokyo MX">
-  <title lang="en">新春・美しき百人一首への旅</title>
-  <desc lang="en">比叡山編（２０２２年）</desc>
+<programme start="20220102153000 +0900" stop="20220102154500 +0900" channel="FujiTV.jp">
+  <title lang="en">FNNニュース</title>
+  <desc lang="en">最新ニュースをお届けします。</desc>
+</programme>
+<programme start="20220102154500 +0900" stop="20220102183000 +0900" channel="FujiTV.jp">
+  <title lang="en">さんまのまんま</title>
+  <desc lang="en">紅白司会の裏で大泉洋がさんまに猛クレーム▽大泉・劇団ひとりとの演技対決に上戸彩参戦＆子育て話▽１９年ぶり長谷川京子に田中みな実が失礼発言？▽ほぼ初共演バカリズム</desc>
 </programme>
 <programme start="20220101150000 +0900" stop="20220101160000 +0900" channel="Tokyo MX">
   <title lang="en">わたしの芸術劇場特別編『一生に一度は見よう!片桐仁の妄想美術館』</title>
@@ -913,6 +905,10 @@
   <title lang="en">ミュージック・モア 正月特別番組「OTONANOコンサート」</title>
   <desc lang="en">１９７９年に発売された「異邦人」を再びライブの場で！永久保存版の「ＯＴＯＮＡＮＯ」コンサートです。ぜひ、お楽しみください。</desc>
 </programme>
+<programme start="20220102160000 +0900" stop="20220102174500 +0900" channel="Tokyo MX">
+  <title lang="en">東京藝大で教わる西洋美術の見かた</title>
+  <desc lang="en">東京藝大准教授が、授業そのままに「西洋美術史」を分かりやすく解説！ルネサンスの３大巨匠の１人で、“模倣”と“加工”の天才と言われるラファエッロの凄さとは？</desc>
+</programme>
 <programme start="20211231193000 +0900" stop="20220101010000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]幸せワッハッハ！ COUNTDOWN LIVE IN OKINAWA</title>
 <desc>2021−2022
@@ -998,7 +994,7 @@ https//otn.fujitv.co.jp
 <programme start="20220101120000 +0900" stop="20220101160000 +0900" channel="FujiNext.jp">
 <title lang="en">FUJI ROCK FESTIVAL'21　完全版　＜Day1＞</title>
 <desc>RADWIMPS、millennium parade、OKAMOTO'S、くるり、Vaundy、手嶌葵、DYGL、yonige、THE BAWDIES　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240806/image/f72b390b4cd74d2d3078de63c04b30ae.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220101160000 +0900" stop="20220101200000 +0900" channel="FujiNext.jp">
@@ -1415,7 +1411,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2010年1月24日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241053/image/64460adc69fd0fa491817dd45981280d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220101160000 +0900" stop="20220101163000 +0900" channel="FujiTwo.jp">
