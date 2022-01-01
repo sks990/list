@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220101232000 +0900" stop="20220102002000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あたらしいテレビ</title>
-    <desc lang="en">いま、テレビについて語り合う。社会が大きな変化を迎える時代に、テレビをはじめとする映像コンテンツは、どこへ向かうのか。楽しく、真剣に、徹底トーク！</desc>
-  </programme>
   <programme start="20220102002000 +0900" stop="20220102010600 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">LIFE!</title>
     <desc lang="en">内村光良のコント番組「ＬＩＦＥ！」。今夜は人気コント「カッツ・アイ」に松本まりかが初登場！塚地、ムロ、じろうの「神メンツ」に江口のりこ困惑？三津谷からご報告も</desc>
@@ -286,9 +282,13 @@
     <title lang="en">新選組!スペシャル</title>
     <desc lang="en">２００４年大河ドラマ「新選組！」の総集編スペシャル第１部。近藤勇が、試衛館の仲間たちと京都へ旅立つまでを描く。エンディングは、試衛館メンバーによるトークショー。</desc>
   </programme>
-  <programme start="20220101233000 +0900" stop="20220102000000 +0900" channel="eTele.jp">
-    <title lang="en">ワルイコあつまれ</title>
-    <desc lang="en">稲垣吾郎、草彅剛、香取慎吾の３人が視聴者のみなさんといっしょに楽しく社会を学ぶ新しい教育系バラエティー番組。大きな反響をいただいた９月の放送に続く第２弾！</desc>
+  <programme start="20220103002100 +0900" stop="20220103002300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">【年末年始はイッキ見！】をご覧の皆さんにお届けする１分ドラマ「イッキ見！ラブストーリー」のスピンオフ。イッキ（佐藤寛太）とキミ（馬場ふみか）２人の恋愛の行方は？</desc>
+  </programme>
+  <programme start="20220103002300 +0900" stop="20220103013800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新選組!スペシャル</title>
+    <desc lang="en">２００４年大河ドラマ「新選組！」の総集編スペシャル第２部。寄せ集め集団の壬生浪士組が新選組となるまでを描く。エンディングは、試衛館メンバーによるトークショー。</desc>
   </programme>
   <programme start="20220102000000 +0900" stop="20220102012600 +0900" channel="eTele.jp">
     <title lang="en">昔話法廷</title>
@@ -450,13 +450,13 @@
     <title lang="en">不滅のあなたへ</title>
     <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
   </programme>
-  <programme start="20220101230000 +0900" stop="20220102002500 +0900" channel="NipponTV.jp">
-    <title lang="en">King  Princeる。</title>
-    <desc lang="en">ビッグボスvsキンプリ墨塗り羽子板バトル▽新宿街頭ゲリラ番宣‼Twitterトレンド1位獲れるか⁉▽最強の男ウルフアロンと㊙新種目でガチ対決▽生放送SP企画…</desc>
+  <programme start="20220103001600 +0900" stop="20220103004100 +0900" channel="eTele.jp">
+    <title lang="en">不滅のあなたへ</title>
+    <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
   </programme>
-  <programme start="20220102002500 +0900" stop="20220102004500 +0900" channel="NipponTV.jp">
-    <title lang="en">NNNニューススポーツ</title>
-    <desc lang="en">最新のニュース、スポーツ情報、気になるお天気をお伝えします。</desc>
+  <programme start="20220103004100 +0900" stop="20220103010600 +0900" channel="eTele.jp">
+    <title lang="en">不滅のあなたへ</title>
+    <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
   </programme>
   <programme start="20220102004500 +0900" stop="20220102012400 +0900" channel="NipponTV.jp">
     <title lang="en">真犯人フラグ</title>
@@ -538,14 +538,14 @@
     <title lang="en">千鳥かまいたちアワー</title>
     <desc lang="en">今のテレビはジャンボが足りない？ジャンボだるま落とし・羽子板・叩いて被ってジャンケンポン対決！ユーモア教室に通っていた杉山君が再登場！結婚式スピーチを練習＆披露</desc>
   </programme>
-<programme start="20220101231500 +0900" stop="20220102001500 +0900" channel="Asahi.jp">
-  <title lang="en">下からノゾいてみた!</title>
-  <desc lang="en">元日特番の特殊映像バラエティ！世の中の簡単にはノゾけないあらゆる物を下から撮影　▽最新マジックを下から撮ると仕掛けが分かる？▽落雷を下から撮ったら驚きの光景が！</desc>
-</programme>
-<programme start="20220102001500 +0900" stop="20220102002500 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20220103002500 +0900" stop="20220103004500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNニューススポーツ</title>
+    <desc lang="en">箱根駅伝往路は？最新のニュース、スポーツ情報、気になるお天気をお伝えします。</desc>
+  </programme>
+  <programme start="20220103004500 +0900" stop="20220103012400 +0900" channel="NipponTV.jp">
+    <title lang="en">真犯人フラグ</title>
+    <desc lang="en">1月9日【真相編】スタート！真犯人と、世間からの疑惑の目と戦いながら、失踪した家族を捜す男の戦いを描く、半年間のノンストップミステリー！前半の総集編・第2夜！</desc>
+  </programme>
 <programme start="20220102002500 +0900" stop="20220102012500 +0900" channel="Asahi.jp">
   <title lang="en">ナレーションガチャ 〜その通りにできるかな?〜</title>
   <desc lang="en">MC麒麟・川島＆高山一実の実験型バラエティ！ロケ先で繰り出される先録りされたナレーションに沿って、出川哲朗が乳搾りで感動⁉＆Snow Manが8000個のドミノに挑戦‼</desc>
@@ -590,13 +590,13 @@
   <title lang="en">チョコプラCUP</title>
   <desc lang="en">【ＭＣチョコレートプラネット＆松村沙友理】「錦鯉＆マヂラブ＆霜降りせいや」М－１王者が大集結してチョコプラ考案の「○○ＣＵＰ」で激突！櫻坂46もまさかの参戦！</desc>
 </programme>
-<programme start="20220101210000 +0900" stop="20220102001500 +0900" channel="TBS2.jp">
-  <title lang="en">笑いの王者が大集結!ドリーム東西ネタ合戦</title>
-  <desc lang="en">🈑今一番見てもらいたい、絶対笑える芸人３０組が東西に分かれ大激突！千鳥かまいたち空気階段サンド華丸大吉！勝者は…西か！？　東か！？総合ＭＣダウンタウン！</desc>
+<programme start="20220103003000 +0900" stop="20220103004000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
 </programme>
-<programme start="20220102001500 +0900" stop="20220102002500 +0900" channel="TBS2.jp">
-  <title lang="en">JNNニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
+<programme start="20220103004000 +0900" stop="20220103021000 +0900" channel="Asahi.jp">
+  <title lang="en">マッドマックスTV</title>
+  <desc lang="en">大人気「ひろゆきディベート企画」90分ぶち抜きSP！打倒ひろゆきに番組MCさらば森田をはじめ、ゆりやん、友近、ロッシーなどが挑む！さらに亀田興毅＆大毅も緊急参戦！</desc>
 </programme>
 <programme start="20220102002500 +0900" stop="20220102012500 +0900" channel="TBS2.jp">
   <title lang="en">ラフクライ</title>
@@ -651,6 +651,14 @@
   <desc lang="en">レギュラー陣が集合で、やりたいこと発表会！
 まさかのＶＴＲやクイズが飛び出し、スタジオは爆笑と怒号が飛び交う展開に！
 朝じゃ見られない、ここだけのラヴィット！</desc>
+</programme>
+<programme start="20220103004000 +0900" stop="20220103005000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20220103005000 +0900" stop="20220103055000 +0900" channel="TBS2.jp">
+  <title lang="en">MIU404</title>
+  <desc lang="en">綾野剛＆星野源のＷ主演！警視庁“機動捜査隊”で２人がバディを組み、２４時間というタイムリミットの中で犯人逮捕にすべてを懸けるノンストップエンターテインメント！</desc>
 </programme>
 <programme start="20220101233000 +0900" stop="20220102010000 +0900" channel="TVTokyo.jp">
   <title lang="en">エンドロールで見っけ!このNIHONJINって誰?</title>
@@ -710,18 +718,6 @@
   <title lang="en">この世は【ご報告】であふれてる!?</title>
   <desc lang="en">近年SNSで爆発的に発信されているワード【ご報告】を検索して追いかけてみると人生の転機に出会えた！
 【ＭＣ】ハライチ、髙橋ひかる</desc>
-</programme>
-<programme start="20220101233000 +0900" stop="20220102003000 +0900" channel="FujiTV.jp">
-  <title lang="en">バチくるオードリー</title>
-  <desc lang="en">オードリーのお笑い実験番組！Ｍ１王者・錦鯉も参戦！春日になりきり漫才王▽前回話題ピュア芸人のラブソング歌詞を本物歌手が歌ったら？また号泣？▽ハライチ岩井</desc>
-</programme>
-<programme start="20220102003000 +0900" stop="20220102004000 +0900" channel="FujiTV.jp">
-  <title lang="en">FNNニュース</title>
-  <desc lang="en">最新ニュースをお届けします。</desc>
-</programme>
-<programme start="20220102004000 +0900" stop="20220102005000 +0900" channel="FujiTV.jp">
-  <title lang="en">真夜中のVS魂</title>
-  <desc lang="en">ＶＳ魂メンバーが５夜にわたり年末年始注目番組の見どころをお届け！第４夜は二宮が登場！主演ドラマ「潜水艦カッペリーニ号の冒険」特集！佐藤勝利と潜水対決も？</desc>
 </programme>
 <programme start="20220102005000 +0900" stop="20220102015000 +0900" channel="FujiTV.jp">
   <title lang="en">オソロー!!</title>
@@ -803,13 +799,13 @@
   <title lang="en">FNNニュース</title>
   <desc lang="en">最新ニュースをお届けします。</desc>
 </programme>
-<programme start="20220101233000 +0900" stop="20220102000000 +0900" channel="Tokyo MX">
-  <title lang="en">「鬼滅の刃」遊郭編</title>
-  <desc lang="en"> </desc>
+<programme start="20220103001000 +0900" stop="20220103002000 +0900" channel="FujiTV.jp">
+  <title lang="en">真夜中のVS魂</title>
+  <desc lang="en">ＶＳ魂メンバーがお届け！明日放送「ＶＳ魂超豪華新春３時間ＳＰ」＆二宮和也主演ドラマ「潜水艦カッペリーニ号の冒険」見どころ▽相葉が今年挑戦したい事を発表</desc>
 </programme>
-<programme start="20220102000000 +0900" stop="20220102003000 +0900" channel="Tokyo MX">
-  <title lang="en">あけましてスターダム元日12時間SP</title>
-  <desc lang="en">２０２１年度のＳＴＡＲＤＯＭの全試合の中から公式ツイッターとホームページより募集した「ファンが選んだベストバウト」。２０位から１０位までを一挙公開！</desc>
+<programme start="20220103002000 +0900" stop="20220103012000 +0900" channel="FujiTV.jp">
+  <title lang="en">最高のミスマッチ</title>
+  <desc lang="en">特殊能力の“超人”たちが未体験ゾーンに挑戦①ドローン天才少年×かくし芸②ミシュランシェフ×臭すぎる魚③記憶力日本一の大学生×プロポーカー世界王者</desc>
 </programme>
 <programme start="20220102003000 +0900" stop="20220102010000 +0900" channel="Tokyo MX">
   <title lang="en">あけましてスターダム元日12時間SP</title>
@@ -979,6 +975,14 @@
 <programme start="20220103000000 +0900" stop="20220103003000 +0900" channel="Tokyo MX">
   <title lang="en">新春!朝までバンドリ!TV2022</title>
   <desc lang="en">バンドリ！プロジェクトのリアルライブ映像をピックアップする番組「バンステ！」から、Ｐｏｐｐｉｎ’Ｐａｒｔｙ戸山香澄役の愛美さんによる選曲回をお送りします！</desc>
+</programme>
+<programme start="20220103003000 +0900" stop="20220103010000 +0900" channel="Tokyo MX">
+  <title lang="en">新春!朝までバンドリ!TV2022</title>
+  <desc lang="en">スマートフォン向けゲーム「バンドリ！　ガールズバンドパーティ！」の開発・運営を行っている「Ｃｒａｆｔ　Ｅｇｇ」に大塚紗英さん、夏芽さんが潜入するオフィス探検ツア</desc>
+</programme>
+<programme start="20220103010000 +0900" stop="20220103013000 +0900" channel="Tokyo MX">
+  <title lang="en">新春!朝までバンドリ!TV2022</title>
+  <desc lang="en">相羽あいなさんＭＣのスタジオトーク「相羽の部屋」！パート２のゲストにはＰａｓｔｅｌ・Ｐａｌｅｔｔｅｓより前島亜美さん、小澤亜李さんをお迎えします！</desc>
 </programme>
 <programme start="20220102000000 +0900" stop="20220102030000 +0900" channel="FujiNext.jp">
 <title lang="en">LOVE MUSIC FESTIVAL 2021　　＜DAY1＞＜DAY2＞</title>
@@ -1378,7 +1382,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2010年5月30日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241071/image/8ff4a7a834da71b3e7cbdfbee0654d1b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102010000 +0900" stop="20220102013000 +0900" channel="FujiTwo.jp">
