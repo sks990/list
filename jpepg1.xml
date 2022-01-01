@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220102045400 +0900" stop="20220102050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ニッポン創世 神々の道をたどる</title>
-    <desc lang="en">古くから語り継がれてきた神々の物語、日本神話。その重要な舞台、島根出雲地方を巡り、日本人の祈りの原点、神話と暮らす人々に出会う。今回は出雲大社とその周辺を巡る。</desc>
-  </programme>
-  <programme start="20220102050000 +0900" stop="20220102051000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220102051000 +0900" stop="20220102053500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">皇室この一年</title>
-    <desc lang="en">新型コロナの影響が続くなか東日本大震災１０年の式典や東京五輪などがあった２０２１年。人びとに寄り添う活動を続けられた天皇皇后両陛下や皇族方の一年を振り返る</desc>
-  </programme>
   <programme start="20220102053500 +0900" stop="20220102060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">にっぽん紀行</title>
     <desc lang="en">７月末、鹿児島市の小学校で行われる鹿児島湾横断４．２キロの遠泳。９１人の子どもたちが挑戦した。遠泳を通して成長する彼らのひと夏を見つめる（２００７年放送）</desc>
@@ -266,13 +254,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220102043000 +0900" stop="20220102052300 +0900" channel="eTele.jp">
+  <programme start="20220103051000 +0900" stop="20220103053500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">もふもふモフモフ</title>
+    <desc lang="en">恒松祐里が出生確立３万分の１といわれるオスの三毛猫をスケッチ！奥野壮が９ニャンズが暮らす森の楽園を訪問！人間年齢１００歳のご長寿ニャンコの秘けつ！案内人は堤真一</desc>
+  </programme>
+  <programme start="20220103053500 +0900" stop="20220103060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん紀行</title>
+    <desc lang="en">新潟県の海水浴場に８２歳の隊長が率いる水難救助隊がある。海を知りつくした男の元で育っていくライフセーバーたち。案内人は俳優の藤岡弘、さん。（２００９年放送）</desc>
+  </programme>
+  <programme start="20220103060000 +0900" stop="20220103061000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20220102052300 +0900" stop="20220102055200 +0900" channel="eTele.jp">
-    <title lang="en">にっぽん百名山</title>
-    <desc lang="en">日本人の心の山「富士山」コケむす森を歩き、ダイナミックな火口の風景を眺め、日本最高点の剣ヶ峰（３７７６ｍ）をめざす。“天然の水がめ”から湧き出す泉や清流も紹介。</desc>
   </programme>
   <programme start="20220102055200 +0900" stop="20220102062000 +0900" channel="eTele.jp">
     <title lang="en">ダーウィンが来た!</title>
@@ -454,13 +446,9 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220102022900 +0900" stop="20220102054900 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">2022年新春初売り！ポシュレレギュラー出演者からのおススメ商品をスペシャル特典やプライスでご紹介！今年１年日テレポシュレをよろしくお願いします！</desc>
-  </programme>
-  <programme start="20220102054900 +0900" stop="20220102055000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
+  <programme start="20220103053000 +0900" stop="20220103062000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理60周年記念 土井善晴 家庭料理と民藝をめぐる旅</title>
+    <desc lang="en">「家庭料理は民藝だ！」料理研究家の土井善晴さんが、伊賀、浄法寺、小鹿田を旅し、美しき味、器、道具、暮らしと出会う。自然豊かな風景をめぐりながらの日本再発見の旅！</desc>
   </programme>
   <programme start="20220102055000 +0900" stop="20220102064500 +0900" channel="NipponTV.jp">
     <title lang="en">箱根駅伝 絆の物語スタート直前生情報</title>
@@ -542,10 +530,14 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">2022年新春初売り！ポシュレレギュラー出演者からのおススメ商品をスペシャル特典やプライスでご紹介！今年１年日テレポシュレをよろしくお願いします！</desc>
   </programme>
-<programme start="20220102015500 +0900" stop="20220102055000 +0900" channel="Asahi.jp">
-  <title lang="en">消えた初恋 朝まで一緒にキュンしよう 新春初キュンSP</title>
-  <desc lang="en">日本中をキュンキュンさせた話題のドラマ「消えた初恋」！道枝駿佑、目黒蓮のＷ主演作！勘違いから始まる高校生の恋と友情の物語‼初出し映像も含めた初キュンな特別番組‼</desc>
-</programme>
+  <programme start="20220103054900 +0900" stop="20220103055000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220103055000 +0900" stop="20220103064500 +0900" channel="NipponTV.jp">
+    <title lang="en">箱根駅伝 往路ダイジェスト＆復路直前生情報</title>
+    <desc lang="en">「９８回目の継走」復路の号砲まで２時間。往路のダイジェストとともに、激闘から一夜明けた各校の戦略やスタート前の緊張感を、箱根・芦ノ湖から生中継でお伝えします。</desc>
+  </programme>
 <programme start="20220102055000 +0900" stop="20220102060000 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
@@ -604,9 +596,13 @@
 ☆ブラックシンデレラ
 ☆会社は学校じゃねぇんだよ 新世代逆襲編</desc>
 </programme>
-<programme start="20220102012500 +0900" stop="20220102055000 +0900" channel="TBS2.jp">
-  <title lang="en">MIU404</title>
-  <desc lang="en">綾野剛＆星野源のＷ主演！警視庁“機動捜査隊”で２人がバディを組み、２４時間というタイムリミットの中で犯人逮捕にすべてを懸けるノンストップエンターテインメント！</desc>
+<programme start="20220103055000 +0900" stop="20220103060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220103060000 +0900" stop="20220103070000 +0900" channel="Asahi.jp">
+  <title lang="en">ぐっさんの東北でっかいジャーニー 激走!東北縦断1060km!</title>
+  <desc lang="en">東北最南端の福島県・矢祭町をスタートし、最北端の青森県・大間崎まで1060km！その途中で、いくつかの“でっかい夢”をクリアしながら、ぐっさんがゴールを目指します！</desc>
 </programme>
 <programme start="20220102055000 +0900" stop="20220102060000 +0900" channel="TBS2.jp">
   <title lang="en">JNNニュース</title>
@@ -661,6 +657,14 @@
 <programme start="20220103005000 +0900" stop="20220103055000 +0900" channel="TBS2.jp">
   <title lang="en">MIU404</title>
   <desc lang="en">綾野剛＆星野源のＷ主演！警視庁“機動捜査隊”で２人がバディを組み、２４時間というタイムリミットの中で犯人逮捕にすべてを懸けるノンストップエンターテインメント！</desc>
+</programme>
+<programme start="20220103055000 +0900" stop="20220103060000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20220103060000 +0900" stop="20220103115000 +0900" channel="TBS2.jp">
+  <title lang="en">オー!マイ・ボス!恋は別冊で</title>
+  <desc lang="en">上白石萌音×菜々緒×玉森裕太のボス恋一挙放送！“人並みが一番”女子がファッション雑誌編集部で鬼上司と子犬系男子に振り回され奮闘する胸キュン♥お仕事ラブコメディ</desc>
 </programme>
 <programme start="20220102033500 +0900" stop="20220102063000 +0900" channel="TVTokyo.jp">
   <title lang="en">戦場にかける橋</title>
@@ -720,17 +724,9 @@
   <title lang="en">U.M.Aレイク・ブラシッド</title>
   <desc lang="en">人里離れた静かな湖で、ダイバーの胴体をまっぷたつに食いちぎられる事件が発生。調査を進めていくうちに、付近で多くの行方不明者や家畜の骨が発見されるが…</desc>
 </programme>
-<programme start="20220102045000 +0900" stop="20220102050000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-</programme>
-<programme start="20220102050000 +0900" stop="20220102054000 +0900" channel="FujiTV.jp">
-  <title lang="en">皇室ご一家</title>
-  <desc lang="en">天皇・皇后両陛下をはじめ天皇ご一家のみなさまのご公務や私的なご旅行、そしてご趣味などをくまなく取材。「皇室」の今をできる限り詳しく紹介します。</desc>
-</programme>
-<programme start="20220102054000 +0900" stop="20220102055500 +0900" channel="FujiTV.jp">
-  <title lang="en">伊勢神宮舞楽</title>
-  <desc lang="en">毎年恒例の伊勢神宮・正月初神楽。令和４年の楽曲は「五常楽（ごしょうらく）」。</desc>
+<programme start="20220103060000 +0900" stop="20220103083000 +0900" channel="TVTokyo.jp">
+  <title lang="en">巨大マグロ戦争2022 予習復習SP</title>
+  <desc lang="en">昨年…マグロ漁師達が新型コロナで大ピンチに陥っていた！逆境に燃える男達が荒海へ！▽大間最年少漁師が化物マグロと死闘▽やもめ漁師、娘の決意に涙マグロ爆釣映像</desc>
 </programme>
 <programme start="20220102055500 +0900" stop="20220102060000 +0900" channel="FujiTV.jp">
   <title lang="en">FNNニュース</title>
@@ -821,13 +817,13 @@
   <title lang="en">FNSドキュメンタリー大賞</title>
   <desc lang="en">ＦＮＳドキュメンタリー２７作品の頂点決定▽生か死か…命の選択を迫られるＡＬＳ患者がコロナ禍で発するメッセージ▽震災１０年“釜石の奇跡”伝える葛藤ほか</desc>
 </programme>
-<programme start="20220102033000 +0900" stop="20220102050000 +0900" channel="Tokyo MX">
-  <title lang="en">あけましてスターダム元日12時間SP</title>
-  <desc lang="en">２０２１年度のＳＴＡＲＤＯＭ全試合の中から、公式ツイッターとホームページより募集した「ファンが選んだベストバウト」。３位から１位までの名勝負をお届け！</desc>
+<programme start="20220103055500 +0900" stop="20220103060000 +0900" channel="FujiTV.jp">
+  <title lang="en">FNNニュース</title>
+  <desc lang="en">最新ニュースをお届けします。</desc>
 </programme>
-<programme start="20220102050000 +0900" stop="20220102053000 +0900" channel="Tokyo MX">
-  <title lang="en">あけましてスターダム元日12時間SP</title>
-  <desc lang="en">ＳＴＡＲＤＯＭ正規軍・ＳＴＡＲＳが登場！岩谷麻優＆コグマ＆飯田沙耶が経歴や特技を披露。さらに昨年のイチオシ試合を振り返り試合映像も盛りだくさん！</desc>
+<programme start="20220103060000 +0900" stop="20220103070000 +0900" channel="FujiTV.jp">
+  <title lang="en">宮川大輔 宮島でマジなやつやん!</title>
+  <desc lang="en">シリーズ第５弾！今回はおせち料理を作ろうと、安芸の宮島近海で「マジな」釣りに挑戦。新春にふさわしい魚を使っておせち料理を完成させることができるのか？</desc>
 </programme>
 <programme start="20220102053000 +0900" stop="20220102060000 +0900" channel="Tokyo MX">
   <title lang="en">あけましてスターダム元日12時間SP</title>
@@ -1006,6 +1002,14 @@
   <title lang="en">新春!朝までバンドリ!TV2022</title>
   <desc lang="en">「ガルパ」などに登場する「羽丘女子学園に通うキャラクター達を演じる佐倉綾音さん、中上育実さんがお餅をついたりお茶をたてたりお正月企画に挑戦します！</desc>
 </programme>
+<programme start="20220103053000 +0900" stop="20220103060000 +0900" channel="Tokyo MX">
+  <title lang="en">新春!朝までバンドリ!TV2022</title>
+  <desc lang="en">相羽あいなさんＭＣのスタジオトーク「相羽の部屋」！パート６のゲストにはＭｏｒｆｏｎｉｃａより進藤あまねさん、直田姫奈さんをお迎えします！</desc>
+</programme>
+<programme start="20220103060000 +0900" stop="20220103063000 +0900" channel="Tokyo MX">
+  <title lang="en">新春!朝までバンドリ!TV2022</title>
+  <desc lang="en">富士急ハイランドコニファーフォレストでの初パフォーマンスをはじめ、リアルバンド「Ｍｏｒｆｏｎｉｃａ」としての軌跡をお届けします！</desc>
+</programme>
 <programme start="20220102000000 +0900" stop="20220102030000 +0900" channel="FujiNext.jp">
 <title lang="en">LOVE MUSIC FESTIVAL 2021　　＜DAY1＞＜DAY2＞</title>
 <desc>＜出演＞Saucy Dog、緑黄色社会、Creepy Nuts、マカロニえんぴつ、SUPER BEAVER、MAN WITH A MISSION、凛として時雨
@@ -1021,7 +1025,7 @@
 <programme start="20220102043000 +0900" stop="20220102060000 +0900" channel="FujiNext.jp">
 <title lang="en">ジョン・レノン＆オノ・ヨーコ　ABOVE US ONLY SKY</title>
 <desc>名曲「イマジン」ができるまで、ジョン・レノンとオノ・ヨーコが歩んだ道程を、彼らの秘話と共に紹介したドキュメンタリー。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240811/image/2380e72c7ae5277e56690840a45aaad4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102060000 +0900" stop="20220102070000 +0900" channel="FujiNext.jp">
@@ -1491,7 +1495,7 @@ https//otn.fujitv.co.jp
 <programme start="20220102053000 +0900" stop="20220102060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220102/7241081/image/05def6f130f764f1e515841782c34bbf.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102060000 +0900" stop="20220102063000 +0900" channel="FujiTwo.jp">
@@ -1941,7 +1945,7 @@ https//otn.fujitv.co.jp
 <programme start="20220102051000 +0900" stop="20220102060000 +0900" channel="kbsworld.jp">
 <title lang="en">リアル韓国滞在記〜となりのチャルス　[字][再]</title>
 <desc>日本初放送！韓国で暮らす外国人の生活に密着！外国人として韓国で生きていく中で感じている幸せ、孤独と葛藤、悩みなどリアルな姿をお届けする。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220102/7210858/image/4d6aa909402bca59d4f6bbaf975c0ba3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102060000 +0900" stop="20220102071000 +0900" channel="kbsworld.jp">
