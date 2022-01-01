@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220102015500 +0900" stop="20220102024000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">LIFE!</title>
-    <desc lang="en">座長・内村光良のコント番組「ＬＩＦＥ！」。リニューアル第二弾のメンバーは木村多江、山田裕貴、西野七瀬、シソンヌ、吉住、塚地武雅。全力コントで夏を盛り上げます</desc>
-  </programme>
   <programme start="20220102024000 +0900" stop="20220102032800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">LIFE!</title>
     <desc lang="en">座長・内村光良のコント番組「ＬＩＦＥ！」。今回のメンバーは杉咲花、風間俊介、和牛・川西、シソンヌ・じろう、池谷のぶえ、田中直樹。秋の夜長に全力コントをお届け！</desc>
@@ -282,6 +278,10 @@
     <title lang="en">新選組!スペシャル</title>
     <desc lang="en">２００４年大河ドラマ「新選組！」の総集編スペシャル第３部。徳川幕府の終えんから新選組の最期までを描く。エンディングは、試衛館メンバーによるトークショー。</desc>
   </programme>
+  <programme start="20220103025700 +0900" stop="20220103032700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北条義時ゆかりの地をめぐる</title>
+    <desc lang="en">２０２２年の大河ドラマ「鎌倉殿の１３人」の主人公は、鎌倉幕府の二代執権となる北条義時。その足跡をゆかりの地である伊豆と鎌倉に訪ねる。</desc>
+  </programme>
   <programme start="20220102012600 +0900" stop="20220102030000 +0900" channel="eTele.jp">
     <title lang="en">昔話法廷</title>
     <desc lang="en">なじみ深い昔話の登場人物を裁く異色法廷ドラマ「昔話法廷」。これまでの作品の中から選りすぐり作を一挙放送！スタジオゲストと振り返るスペシャル版。</desc>
@@ -458,9 +458,13 @@
     <title lang="en">不滅のあなたへ</title>
     <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
   </programme>
-  <programme start="20220102015900 +0900" stop="20220102022900 +0900" channel="NipponTV.jp">
-    <title lang="en">第100回全国高校サッカー選手権大会 茅島みずきの高校サッカー魂</title>
-    <desc lang="en">2回戦全試合をダイジェストでお届け！前回王者・山梨学院、準優勝・青森山田、シード校・帝京長岡、矢板中央が登場！</desc>
+  <programme start="20220103022100 +0900" stop="20220103024600 +0900" channel="eTele.jp">
+    <title lang="en">不滅のあなたへ</title>
+    <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
+  </programme>
+  <programme start="20220103024600 +0900" stop="20220103031100 +0900" channel="eTele.jp">
+    <title lang="en">不滅のあなたへ</title>
+    <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
   </programme>
   <programme start="20220102022900 +0900" stop="20220102054900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
@@ -546,6 +550,10 @@
     <title lang="en">第100回全国高校サッカー選手権大会 茅島みずきの高校サッカー魂</title>
     <desc lang="en">高校サッカー日本一へ！記念すべき100回大会が開幕！</desc>
   </programme>
+  <programme start="20220103022900 +0900" stop="20220103054900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">2022年新春初売り！ポシュレレギュラー出演者からのおススメ商品をスペシャル特典やプライスでご紹介！今年１年日テレポシュレをよろしくお願いします！</desc>
+  </programme>
 <programme start="20220102015500 +0900" stop="20220102055000 +0900" channel="Asahi.jp">
   <title lang="en">消えた初恋 朝まで一緒にキュンしよう 新春初キュンSP</title>
   <desc lang="en">日本中をキュンキュンさせた話題のドラマ「消えた初恋」！道枝駿佑、目黒蓮のＷ主演作！勘違いから始まる高校生の恋と友情の物語‼初出し映像も含めた初キュンな特別番組‼</desc>
@@ -589,6 +597,18 @@
 <programme start="20220103004000 +0900" stop="20220103021000 +0900" channel="Asahi.jp">
   <title lang="en">マッドマックスTV</title>
   <desc lang="en">大人気「ひろゆきディベート企画」90分ぶち抜きSP！打倒ひろゆきに番組MCさらば森田をはじめ、ゆりやん、友近、ロッシーなどが挑む！さらに亀田興毅＆大毅も緊急参戦！</desc>
+</programme>
+<programme start="20220103021000 +0900" stop="20220103024000 +0900" channel="Asahi.jp">
+  <title lang="en">鶴瓶ナイナイの体当たりカレンダー2022 スペシャルダイジェスト版</title>
+  <desc lang="en">笑福亭鶴瓶とナインティナイン（岡村隆史・矢部浩之）による本気の体当たり企画！ド派手なロケとお色気が盛り沢山の“新たなお正月の風物詩”番組！</desc>
+</programme>
+<programme start="20220103024000 +0900" stop="20220103044000 +0900" channel="Asahi.jp">
+  <title lang="en">アベマ笑撃ラインナップ!傑作選</title>
+  <desc lang="en">インターネットテレビ局「ＡＢＥＭＡ」人気バラエティ番組の特別編！
+☆チャンスの時間
+☆ぜにいたち
+☆見取り図エール
+☆ニューヨーク恋愛市場</desc>
 </programme>
 <programme start="20220102012500 +0900" stop="20220102055000 +0900" channel="TBS2.jp">
   <title lang="en">MIU404</title>
@@ -648,11 +668,6 @@
   <title lang="en">MIU404</title>
   <desc lang="en">綾野剛＆星野源のＷ主演！警視庁“機動捜査隊”で２人がバディを組み、２４時間というタイムリミットの中で犯人逮捕にすべてを懸けるノンストップエンターテインメント！</desc>
 </programme>
-<programme start="20220102010500 +0900" stop="20220102020500 +0900" channel="TVTokyo.jp">
-  <title lang="en">二軒目どうする?〜ツマミのハナシ〜</title>
-  <desc lang="en">１時間ＳＰ！ゲストは井ノ原快彦＆観月ありさ！
-ＴＯＫＩＯ松岡＆博多大吉と居酒屋で飲み歩く！</desc>
-</programme>
 <programme start="20220102020500 +0900" stop="20220102033500 +0900" channel="TVTokyo.jp">
   <title lang="en">15ビョーーーン</title>
   <desc lang="en">“１ネタ＝１５秒”超ショートネタバトル！年間グランドチャンピオン大会開催！エントリー総数１０００ネタを超える中から厳選した珠玉の１５秒ネタ連発披露！王者は誰に⁉</desc>
@@ -706,10 +721,6 @@
 <programme start="20220103013500 +0900" stop="20220103031000 +0900" channel="TVTokyo.jp">
   <title lang="en">「どうして私がフラれたの？」〜壮絶フラれ話！美女限定の失恋バラエティ〜</title>
   <desc lang="en">フラれる姿が想像もつかない美女たちの壮絶なフラれエピソードをドラマ化！▼美女たちの恋愛を上から目線で鑑賞しながら皆で好き勝手に口を出していく失恋恋愛バラエティ！</desc>
-</programme>
-<programme start="20220102015000 +0900" stop="20220102025000 +0900" channel="FujiTV.jp">
-  <title lang="en">2日夕方さんまのまんま</title>
-  <desc lang="en">ムロとシソンヌが人気ゲームで即興演技対決▽松たか子＆神木隆之介超人気アニメ声優㊙裏話▽さんまに会いたい五輪メダリスト集合！ハラミちゃん即興ピアノに興奮</desc>
 </programme>
 <programme start="20220102025000 +0900" stop="20220102035000 +0900" channel="FujiTV.jp">
   <title lang="en">千原ジュニアの座王</title>
@@ -795,9 +806,9 @@
   <title lang="en">突然ですが占ってもいいですか?1月19日は2時間SP!</title>
   <desc lang="en">サンドウィッチマン＆雨宮萌果ガチ占い！富澤“お尻の星”＆赤面㊙癖⁉伊達ＬＩＮＥやらない衝撃㊙理由⁉▽レスリング金メダリスト川井姉妹…五輪舞台裏＆㊙恋愛</desc>
 </programme>
-<programme start="20220102013000 +0900" stop="20220102020000 +0900" channel="Tokyo MX">
-  <title lang="en">あけましてスターダム元日12時間SP</title>
-  <desc lang="en">ＳＴＡＲＤＯＭと新日本プロレスがＴＣＧ『Ｒｅバース』で対決！「逸材イラスト対決」や「ジェスチャーカルタ対決」で珍プレー＆好プレー連発</desc>
+<programme start="20220103022000 +0900" stop="20220103032000 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!ドレミファドン!</title>
+  <desc lang="en">６日は新春３時間ＳＰ▽菅田将暉・浜辺美波・黒木華・吉田鋼太郎が人気アニメ＆ディズニー＆ドラマ名曲イントロで激突！鬼滅・エヴァ・古畑…名シーンも全部見せ</desc>
 </programme>
 <programme start="20220102020000 +0900" stop="20220102033000 +0900" channel="Tokyo MX">
   <title lang="en">あけましてスターダム元日12時間SP</title>
@@ -972,10 +983,14 @@
   <title lang="en">新春!朝までバンドリ!TV2022</title>
   <desc lang="en">相羽あいなさんＭＣのスタジオトーク「相羽の部屋」！パート３のゲストにはＲｏｓｅｌｉａより工藤晴香さんをお迎えします！</desc>
 </programme>
+<programme start="20220103023000 +0900" stop="20220103040000 +0900" channel="Tokyo MX">
+  <title lang="en">新春!朝までバンドリ!TV2022</title>
+  <desc lang="en">Ｒｏｓｅｌｉａリアルライブのセレクション放送。武道館ライブの他、富士急ハイランドコニファーフォレストで行われた野外ライブの模様などをお届けします！</desc>
+</programme>
 <programme start="20220102000000 +0900" stop="20220102030000 +0900" channel="FujiNext.jp">
 <title lang="en">LOVE MUSIC FESTIVAL 2021　　＜DAY1＞＜DAY2＞</title>
 <desc>＜出演＞Saucy Dog、緑黄色社会、Creepy Nuts、マカロニえんぴつ、SUPER BEAVER、MAN WITH A MISSION、凛として時雨
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240809/image/2d8100af0d4a165e5bb9aff401195caa.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102030000 +0900" stop="20220102043000 +0900" channel="FujiNext.jp">
@@ -1146,7 +1161,7 @@
 <desc>〜水着で話すほどのことじゃないけれど〜
 ＜出演＞よゐこ　谷かえ　茜紬うた　桜田愛音　池尻愛梨
 ▽よゐこの2人が“男”としてのランクアップを目指す！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7240878/image/c0f5464394a1dae4753b1797a90663c6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102030000 +0900" stop="20220102033000 +0900" channel="FujiOne.jp">
@@ -1406,7 +1421,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2010年6月27日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220101/7241075/image/3b6d59f75347c5d222cc50362ddb9e81.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102030000 +0900" stop="20220102033000 +0900" channel="FujiTwo.jp">
