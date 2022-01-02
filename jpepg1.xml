@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220102121500 +0900" stop="20220102163500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">第58回全国大学ラグビー選手権</title>
-    <desc lang="en">大学日本一をかけてベスト４が激突！４季ぶりのＶを目指す優勝候補の帝京。挑むのは関西１位の京産。関東リーグ戦４連覇の東海と戦力充実の明治。重量ＦＷ対決にも注目。</desc>
-  </programme>
-  <programme start="20220102163500 +0900" stop="20220102164000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220102164000 +0900" stop="20220102170300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">インタビュー ここから</title>
     <desc lang="en">２０２１年、現役を引退したラグビー元日本代表の五郎丸歩さん。いまだから語れる、挫折と成功。そして、ラグビーの本質とは何か。自身の原点である静岡でインタビュー。</desc>
@@ -294,6 +286,10 @@
     <title lang="en">新春生放送!東西笑いの殿堂2022</title>
     <desc lang="en">ＮＨＫ放送センターと東西４か所の寄席から生放送。爆笑問題、中川家、阪神・巨人、おぼん・こぼん、ナイツ、銀シャリ、和牛など３５組をこえる出演者。【中断Ｎあり】</desc>
   </programme>
+  <programme start="20220103170000 +0900" stop="20220103173000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">新春蔵出し! 大河ドラマ名場面スペシャル</title>
+    <desc lang="en">これまでの大河ドラマ６０作の中から、懐かしの名場面を大公開！渡辺謙が「独眼竜政宗」を、宮﨑あおいが「篤姫」が語る舞台裏や、名俳優の若かりし姿など秘蔵映像満載！</desc>
+  </programme>
   <programme start="20220102153000 +0900" stop="20220102170000 +0900" channel="eTele.jp">
     <title lang="en">新春囲碁スペシャル 人気チームでリレーGOバトル!</title>
     <desc lang="en">人気プロ棋士と芸能人が４人１チームを組み、五手ずつ打ち合うリレー碁対決！トッププロの真剣勝負あり、アマチュア同士の奇想天外な手あり、の面白正月囲碁特番です。</desc>
@@ -510,9 +506,17 @@
     <title lang="en">NHK俳句</title>
     <desc lang="en">旬の食材と俳句を味わう歳時記食堂。新年を迎え素敵な句が集まった。本日のお客様　夢枕獏さん。女将　宇多喜代子さん。若女将　小林聡美さん。常連客　ビビる大木さん。</desc>
   </programme>
-  <programme start="20220102155500 +0900" stop="20220102160500 +0900" channel="NipponTV.jp">
-    <title lang="en">第100回全国高校サッカー選手権大会</title>
-    <desc lang="en">3回戦注目試合！鹿島学園（茨城）×前橋育英（群馬）ほか</desc>
+  <programme start="20220103161000 +0900" stop="20220103161500 +0900" channel="eTele.jp">
+    <title lang="en">美の小壺</title>
+    <desc lang="en">ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。テーマは「抹茶」。</desc>
+  </programme>
+  <programme start="20220103161500 +0900" stop="20220103170000 +0900" channel="eTele.jp">
+    <title lang="en">ふるカフェ系 ハルさんの休日</title>
+    <desc lang="en">お待たせしました！ふるカフェ正月ＳＰ。鉄道ファンもこうご期待の宮城県のかつてのローカル鉄道と移住者が元気な街の商店街が舞台。個性的なお店ぞろいの中心にふるカフェ</desc>
+  </programme>
+  <programme start="20220103170000 +0900" stop="20220103180000 +0900" channel="eTele.jp">
+    <title lang="en">かわ善い民藝 いとお菓子</title>
+    <desc lang="en">お菓子も民藝（みんげい）だ！今からおよそ１００年前にうまれた民藝は、生活道具だけじゃなかった！各地の手仕事から生まれるお菓子は、かわいい、おいしい、心地よい！</desc>
   </programme>
   <programme start="20220102160500 +0900" stop="20220102180000 +0900" channel="NipponTV.jp">
     <title lang="en">浜田が豪華ゲストと専門店で新春爆買いツアー!2022</title>
@@ -598,10 +602,12 @@
     <title lang="en">市川海老蔵に、ござりまする 2022</title>
     <desc lang="en">密着１３年！姉弟の成長物語▽ぼたん１０歳…ママに捧げるリベンジ舞台＆連ドラ子役初挑戦▽勸玄８歳父も驚くモテモテぶり＆メイク㊙こだわり▽再婚は…？父の本音</desc>
   </programme>
-<programme start="20220102130000 +0900" stop="20220102160000 +0900" channel="Asahi.jp">
-  <title lang="en">路線バスで寄り道の旅</title>
-  <desc lang="en">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回は、箱根〜熱海〜伊豆で“80年代アイドル”同窓会旅！</desc>
-</programme>
+  <programme start="20220103163000 +0900" stop="20220103173000 +0900" channel="NipponTV.jp">
+    <title lang="en">っぽいネタ</title>
+    <desc lang="en">「どこかで見たことあるようで・・・ない！」
+日常に溢れる様々な光景を人気芸人が独自の発想でネタ化‼
+「〇〇っぽい！」と言わせたもん勝ちの新ジャンルのお笑い番組！</desc>
+  </programme>
 <programme start="20220102160000 +0900" stop="20220102180000 +0900" channel="Asahi.jp">
   <title lang="en">緊急取調室</title>
   <desc lang="en">「容疑者をマル裸に‼不可能連続殺人を自首⁉女たちの嘘と裏切りを暴く緊迫のバトルが今始まる」天海祐希(他)▽自白した被疑者には遂行不可能な殺人事件…その真実とは⁉</desc>
@@ -679,10 +685,6 @@
   <title lang="en">相棒season14</title>
   <desc lang="en">「英雄〜罪深き者たち…首相候補を狙う連続爆破‼人質は全都民１３００万人の命！占拠された豪華客船上で特命係が絶体絶命‼」水谷豊、反町隆史(他)</desc>
 </programme>
-<programme start="20220102150000 +0900" stop="20220102163000 +0900" channel="TBS2.jp">
-  <title lang="en">超私的ナイスバイ〜コレ買ったの私です!</title>
-  <desc lang="en">チョコプラ決意の５００万超＆習い事▼大吉の夜を変えた五百円▼華丸の五十肩対策▼バーキン手に入れた後…変化▼人格ごと変えたアレ▼極貧時代の憧れ▼海外にも持参体重計</desc>
-</programme>
 <programme start="20220102163000 +0900" stop="20220102170000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">▼新年を迎えた各地の表情は？初売りも▼北京冬季五輪の開幕まで約１か月…課題山積？現地レポ▼スポーツ最新情報</desc>
@@ -733,10 +735,9 @@
   <title lang="en">Nスタ</title>
   <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20220102140000 +0900" stop="20220102160000 +0900" channel="TVTokyo.jp">
-  <title lang="en">新春!お笑い名人寄席</title>
-  <desc lang="en">サンドウィッチマンvsナイツ漫才対決！
-爆笑問題、神田伯山、錦鯉ら豪華メンバーで初笑い！フワちゃんコラボ漫才！小朝の美人大喜利は人気アイドルとＩＫＫＯが対決！</desc>
+<programme start="20220103170000 +0900" stop="20220103210000 +0900" channel="TBS2.jp">
+  <title lang="en">アイアム冒険少年</title>
+  <desc lang="en">🈑Sexy Zone菊池風磨が地球一セクシーな脱出！親友ストーンズ田中樹が登場！結成１９年ハリセンボンがコンビ愛深めるため初参戦！王者あばれる君30時間脱出狙う</desc>
 </programme>
 <programme start="20220102160000 +0900" stop="20220102175500 +0900" channel="TVTokyo.jp">
   <title lang="en">2022超激ウマ大捜索!ラーメン食べまくりバトル</title>
@@ -882,9 +883,9 @@
   <title lang="en">FNNニュース</title>
   <desc lang="en">最新ニュースをお届けします。</desc>
 </programme>
-<programme start="20220102150000 +0900" stop="20220102160000 +0900" channel="Tokyo MX">
-  <title lang="en">ミュージック・モア 正月特別番組「OTONANOコンサート」</title>
-  <desc lang="en">１９７９年に発売された「異邦人」を再びライブの場で！永久保存版の「ＯＴＯＮＡＮＯ」コンサートです。ぜひ、お楽しみください。</desc>
+<programme start="20220103161500 +0900" stop="20220103180000 +0900" channel="FujiTV.jp">
+  <title lang="en">キスマイFOOD!!</title>
+  <desc lang="en">キスマイが那須＆伊東のご当地グルメをキンプリ岸と大捜索！浜辺美波＆松下奈緒が大絶賛の地元食材が続出▽ジャニーズ屈指の料理人横尾渉の創作料理に入江聖奈が大ハシャギ</desc>
 </programme>
 <programme start="20220102160000 +0900" stop="20220102174500 +0900" channel="Tokyo MX">
   <title lang="en">東京藝大で教わる西洋美術の見かた</title>
@@ -1730,7 +1731,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2011年1月23日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220102/7241103/image/a754dd0f3287e67345eba5b344a8d183.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220102170000 +0900" stop="20220102173000 +0900" channel="FujiTwo.jp">
