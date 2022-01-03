@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220104045000 +0900" stop="20220104050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北条義時ゆかりの地をめぐる</title>
-    <desc lang="en">２０２２年の大河ドラマ「鎌倉殿の１３人」の主人公は、鎌倉幕府の二代執権となる北条義時。その足跡をゆかりの地である鎌倉に訪ねる。</desc>
-  </programme>
   <programme start="20220104050000 +0900" stop="20220104060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">【広島】「自分研究」で学習の困りごとを解決【名古屋】保育士を目指す高校生が作った“子ども教室”【静岡】熱海土石流から半年【徳島】山あいに登場「未来コンビニ」</desc>
@@ -342,13 +338,9 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20220104043100 +0900" stop="20220104053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220104053000 +0900" stop="20220104055500 +0900" channel="eTele.jp">
-    <title lang="en">ロシアゴスキー</title>
-    <desc lang="en">現地のリポーターの案内による街歩きと、楽しいアニメーションで学ぶ、スタイリッシュなロシア語講座。モスクワの風景を楽しみながら、旅で役立つロシア語を覚えましょう！</desc>
+  <programme start="20220105060000 +0900" stop="20220105063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20220104055500 +0900" stop="20220104060000 +0900" channel="eTele.jp">
     <title lang="en">楽ラクワンポイント介護</title>
@@ -686,9 +678,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220104043000 +0900" stop="20220104055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽オミクロン株、各地に広がる▽各地で火災▽箱根　青山学院が総合V▽高校サッカー</desc>
+  <programme start="20220105053000 +0900" stop="20220105055500 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">マルクスが最終的に思い描いたコミュニズム。それは、水、土地、エネルギーなど私たちにとっての共有財産である「コモン」を市民の手に取り戻すことを目指したものだった。</desc>
+  </programme>
+  <programme start="20220105055500 +0900" stop="20220105060000 +0900" channel="eTele.jp">
+    <title lang="en">浮世絵EDO-LIFE</title>
+    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！今回は、ニューイヤーコンサート。お正月に箏（そう）曲の演奏を楽しむ女性たち。その特等席に…犬！？</desc>
+  </programme>
+  <programme start="20220105060000 +0900" stop="20220105062500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのイタリア語</title>
+    <desc lang="en">旅に役立つイタリア語を楽しく学べる講座。今シリーズは、さらに使える「応用編」。もちろん初心者にもわかりやすくお伝えします。</desc>
   </programme>
   <programme start="20220104055000 +0900" stop="20220104080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -777,6 +777,10 @@
   <programme start="20220105043000 +0900" stop="20220105055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20220105055000 +0900" stop="20220105080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20220104045500 +0900" stop="20220104080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -893,11 +897,6 @@ by.Annett Louisan</desc>
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
-<programme start="20220104043000 +0900" stop="20220104052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
-ニュースも天気も充実</desc>
-</programme>
 <programme start="20220104052000 +0900" stop="20220104080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
   <desc lang="en">３か月ぶり…東京１０３人新規感染▼年末年始ジャニーズ・エンタメまとめ▼仕事始め通勤駅ウォッチ▼米倉涼子インタビュー</desc>
@@ -975,12 +974,9 @@ by.Annett Louisan</desc>
   <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
 ニュースも天気も充実</desc>
 </programme>
-<programme start="20220104042300 +0900" stop="20220104054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20220105052000 +0900" stop="20220105080000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME,</title>
+  <desc lang="en">安住紳一郎と香川照之のＷ司会で、明るく楽しく丁寧に、そして正直にお伝えします！</desc>
 </programme>
 <programme start="20220104054500 +0900" stop="20220104070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1139,9 +1135,9 @@ by.Annett Louisan</desc>
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20220104045500 +0900" stop="20220104052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20220105054500 +0900" stop="20220105070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20220104052500 +0900" stop="20220104080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1239,13 +1235,9 @@ by.Annett Louisan</desc>
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20220104044500 +0900" stop="20220104050000 +0900" channel="Tokyo MX">
-  <title lang="en">ふるさと百景</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220104050000 +0900" stop="20220104053000 +0900" channel="Tokyo MX">
-  <title lang="en">日本のチカラ</title>
-  <desc lang="en">食べてビックリ！〜夫婦で作る具志頭ピーマン〜</desc>
+<programme start="20220105052500 +0900" stop="20220105080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20220104053000 +0900" stop="20220104060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1439,6 +1431,14 @@ by.Annett Louisan</desc>
   <title lang="en">旅猫ロマン</title>
   <desc lang="en">那須高原　前編</desc>
 </programme>
+<programme start="20220105053000 +0900" stop="20220105060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220105060000 +0900" stop="20220105070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+</programme>
 <programme start="20220104000000 +0900" stop="20220104013000 +0900" channel="FujiNext.jp">
 <title lang="en">ジューダス・プリースト　30 Years of British Steelライブ</title>
 <desc>「ジューダス・プリースト　30 Years of British Steel Live in Hollywood」
@@ -1491,7 +1491,7 @@ by.Annett Louisan</desc>
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220104/7253553/image/b52e273d72f0f15ea4b580d7f37d4f95.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104060000 +0900" stop="20220104100000 +0900" channel="FujiNext.jp">
@@ -1645,7 +1645,7 @@ https//otn.fujitv.co.jp
 <desc>『小鹿野温泉編 後篇』
 撮影地梁山泊
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220104/7253233/image/9592c68062e17c6b2bdfc72673bd8c52.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104060000 +0900" stop="20220104070000 +0900" channel="FujiOne.jp">
@@ -1866,7 +1866,7 @@ https//otn.fujitv.co.jp
 <programme start="20220104053000 +0900" stop="20220104060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220104/7253297/image/be17fd1a90b95cd1ada13b93eaeb7a44.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104060000 +0900" stop="20220104070000 +0900" channel="FujiTwo.jp">
@@ -2065,7 +2065,7 @@ https//otn.fujitv.co.jp
 <programme start="20220104050000 +0900" stop="20220104060000 +0900" channel="kbsworld.jp">
 <title lang="en">クイズバラエティ〜屋根部屋の問題児たち [字][再]</title>
 <desc>日本初放送！芸能人たちが様々なジャンルのクイズ10問に正解するまで部屋から出られない韓国　最新バラエティ！2018年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220104/7254262/image/d148dfb1d3110320248102de13fc1e32.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104060000 +0900" stop="20220104070000 +0900" channel="kbsworld.jp">
