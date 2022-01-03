@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220104035300 +0900" stop="20220104043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">空からクルージング特別編</title>
-    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
-  </programme>
-  <programme start="20220104043500 +0900" stop="20220104044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「おばけでいいからはやくきて」うたクリープハイプ／「童神　〜天の子守唄〜」うた山本潤子</desc>
-  </programme>
-  <programme start="20220104044000 +0900" stop="20220104045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「１００歳　ピアノとともに」室井摩耶子（ピアニスト）</desc>
-  </programme>
   <programme start="20220104045000 +0900" stop="20220104050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北条義時ゆかりの地をめぐる</title>
     <desc lang="en">２０２２年の大河ドラマ「鎌倉殿の１３人」の主人公は、鎌倉幕府の二代執権となる北条義時。その足跡をゆかりの地である鎌倉に訪ねる。</desc>
@@ -338,13 +326,21 @@
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回はオランダ・アムステルダムを旅する。</desc>
   </programme>
-  <programme start="20220104034100 +0900" stop="20220104040600 +0900" channel="eTele.jp">
-    <title lang="en">不滅のあなたへ</title>
-    <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
+  <programme start="20220105043500 +0900" stop="20220105044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「いろはまつり」うた森みゆき、ひばり児童合唱団／「カメレオン」うたシュガー</desc>
   </programme>
-  <programme start="20220104040600 +0900" stop="20220104043100 +0900" channel="eTele.jp">
-    <title lang="en">不滅のあなたへ</title>
-    <desc lang="en">不死身の主人公・フシがさまざまな出会いと別れを繰り返し、成長する姿を描く。「聲（こえ）の形」大今良時原作の壮大な冒険ファンタジー。今、永遠の旅がはじまる。</desc>
+  <programme start="20220105044000 +0900" stop="20220105045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「新たな時代の創造力」中島さち子（ジャズピアニスト・数学研究者）</desc>
+  </programme>
+  <programme start="20220105045000 +0900" stop="20220105050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">コロナ禍で浮かび上がった不平等という傷口はさらに深まり、世界の大きな不安定要素となっています。世界が抱える大きな課題について考えます。</desc>
+  </programme>
+  <programme start="20220105050000 +0900" stop="20220105060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20220104043100 +0900" stop="20220104053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -690,14 +686,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220104035900 +0900" stop="20220104042900 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
-  </programme>
-  <programme start="20220104042900 +0900" stop="20220104043000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220104043000 +0900" stop="20220104055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽オミクロン株、各地に広がる▽各地で火災▽箱根　青山学院が総合V▽高校サッカー</desc>
@@ -782,14 +770,14 @@
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">年に一度のポシュレの年末年始特別セール！ポシュレでリアルに売れた商品をジャンル別で振り返りながら、更にスペシャルな特典でご紹介！お見逃しなく！！</desc>
   </programme>
-<programme start="20220104011500 +0900" stop="20220104040000 +0900" channel="Asahi.jp">
-  <title lang="en">「ドクターX」スピンオフ「ドクターエッグス」初放送話題作続々テラサセレクション</title>
-  <desc lang="en">『ドクターX』新スピンオフ『ドクターエッグス』前編＆カメ止め監督作『ウワキな現場』冒頭６分＆『僕らが殺した、最愛のキミ』＆『Bad Buddy Series』！テラサ特別編‼</desc>
-</programme>
-<programme start="20220104040000 +0900" stop="20220104045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍V</title>
-  <desc lang="en">「ろくでなし長屋殺人事件」松平健(他)▽め組の小頭・安次郎がふとしたことから鶴之助という遊び人殺しの罪で北町奉行所に捕えられてしまった。安次郎の無実を信じる吉宗は…</desc>
-</programme>
+  <programme start="20220105042900 +0900" stop="20220105043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220105043000 +0900" stop="20220105055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20220104045500 +0900" stop="20220104080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">神社クラスター発生‼“初詣”中止に参拝客は…東京で3ヵ月ぶり100人超に▽各地で“年始大行列”100万円限定福袋も…▽芸能人年末年始“結婚＆熱愛”(他)</desc>
@@ -901,9 +889,9 @@ by.Annett Louisan</desc>
   <title lang="en">暴れん坊将軍V</title>
   <desc lang="en">「一目惚れ、仲良く危機一髪！」松平健(他)▽高取藩主・次男と西条藩主・長女との養子縁組願いが出された。吉宗に異存はなかったが、大目付・酒井日向守だけが強硬に反対し…</desc>
 </programme>
-<programme start="20220104034500 +0900" stop="20220104043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20220105045500 +0900" stop="20220105080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20220104043000 +0900" stop="20220104052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -982,13 +970,10 @@ by.Annett Louisan</desc>
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20220104020000 +0900" stop="20220104040000 +0900" channel="TVTokyo.jp">
-  <title lang="en">シティーハンター THE MOVIE 史上最香のミッション</title>
-  <desc lang="en">北条司の大ヒット漫画を実写化した痛快コメディ・アクション！その香をかいだ者を虜にする香水奪回を依頼されたリョウ。タイムリミットは48時間。時間内に奪還出来るのか!?</desc>
-</programme>
-<programme start="20220104040000 +0900" stop="20220104042300 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20220105043000 +0900" stop="20220105052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20220104042300 +0900" stop="20220104054500 +0900" channel="TVTokyo.jp">
   <title lang="en">ものスタ</title>
@@ -1143,13 +1128,16 @@ by.Annett Louisan</desc>
   <title lang="en"></title>
   <desc lang="en">１／７(金)よる８時放送！家族“絆”と“再生”を描いた土屋太鳳・主演の新春ドラマスペシャル「優しい音楽〜ティアーズ・イン・ヘヴン　天国のきみへ」の見どころを紹介！</desc>
 </programme>
-<programme start="20220104035500 +0900" stop="20220104040000 +0900" channel="FujiTV.jp">
+<programme start="20220105040000 +0900" stop="20220105042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+  <desc lang="en"></desc>
 </programme>
-<programme start="20220104040000 +0900" stop="20220104045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+<programme start="20220105042300 +0900" stop="20220105054500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20220104045500 +0900" stop="20220104052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1247,17 +1235,9 @@ by.Annett Louisan</desc>
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20220104033500 +0900" stop="20220104040000 +0900" channel="Tokyo MX">
-  <title lang="en">JOYnt! JOYのASOBU-TV</title>
-  <desc lang="en">ネルソンズと温泉旅リターンズ　後編</desc>
-</programme>
-<programme start="20220104040000 +0900" stop="20220104043000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220104043000 +0900" stop="20220104044500 +0900" channel="Tokyo MX">
-  <title lang="en">夜光漂流 MIDNIGHT JELLYFISH</title>
-  <desc lang="en">オリジナルショートドラマ！フード配達員の櫂に起こった事件がついに明かされる！偶然が重なった若者たちそれぞれが起こした行動とは⁉</desc>
+<programme start="20220105045500 +0900" stop="20220105052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20220104044500 +0900" stop="20220104050000 +0900" channel="Tokyo MX">
   <title lang="en">ふるさと百景</title>
@@ -1451,6 +1431,14 @@ by.Annett Louisan</desc>
   <title lang="en">MUSIC B.B.</title>
   <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
 </programme>
+<programme start="20220105043000 +0900" stop="20220105050000 +0900" channel="Tokyo MX">
+  <title lang="en">うたなび!</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220105050000 +0900" stop="20220105053000 +0900" channel="Tokyo MX">
+  <title lang="en">旅猫ロマン</title>
+  <desc lang="en">那須高原　前編</desc>
+</programme>
 <programme start="20220104000000 +0900" stop="20220104013000 +0900" channel="FujiNext.jp">
 <title lang="en">ジューダス・プリースト　30 Years of British Steelライブ</title>
 <desc>「ジューダス・プリースト　30 Years of British Steel Live in Hollywood」
@@ -1474,14 +1462,14 @@ by.Annett Louisan</desc>
 <programme start="20220104034500 +0900" stop="20220104045500 +0900" channel="FujiNext.jp">
 <title lang="en">The Who　Live at Kilburn 1977</title>
 <desc>1977年12月にロンドンで行われた「The Who」オリジナルメンバーでの最後のライブを放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220103/7253549/image/4577c06a5cf1102f7786ead9f0070c1e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104045500 +0900" stop="20220104050000 +0900" channel="FujiNext.jp">
 <title lang="en">フジサンケイクラシック ハイライト　10「2006年優勝 片山晋呉」</title>
 <desc>2006年優勝 片山晋呉
 「大会初Vは節目の20勝！」
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220103/7253550/image/7a283d8c25017ce7aed51197e622386b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104050000 +0900" stop="20220104053000 +0900" channel="FujiNext.jp">
@@ -1625,7 +1613,7 @@ https//otn.fujitv.co.jp
 <title lang="en">ラーメンWalker TV2　283　神保町「覆麺 智」</title>
 <desc>中毒性抜群！“がんこ”の流れを汲む超濃密出汁ラーメン！　神保町「覆麺 智」
 ＜出演＞田中貴（サニーデイ・サービス）　伊藤かりん　赤池洋文
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220103/7253229/image/d27915b92452c36ac333a6345fc22290.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104050000 +0900" stop="20220104051500 +0900" channel="FujiOne.jp">
@@ -2071,7 +2059,7 @@ https//otn.fujitv.co.jp
 <programme start="20220104042000 +0900" stop="20220104050000 +0900" channel="kbsworld.jp">
 <title lang="en">家族を守れ　113　[字]</title>
 <desc>2015年 全123話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220103/7254261/image/f2bace4b071de27f2c7713b05f2e59df.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220104050000 +0900" stop="20220104060000 +0900" channel="kbsworld.jp">
