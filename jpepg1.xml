@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220105045000 +0900" stop="20220105050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">コロナ禍で浮かび上がった不平等という傷口はさらに深まり、世界の大きな不安定要素となっています。世界が抱える大きな課題について考えます。</desc>
-  </programme>
   <programme start="20220105050000 +0900" stop="20220105060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼“副業先生”でセキュリティー技術者の育成を・高知　▼重症心身障害者が挑んだ演劇　演じた先に見えたもの・宮崎</desc>
@@ -338,13 +334,9 @@
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20220105002500 +0900" stop="20220105053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220105053000 +0900" stop="20220105055500 +0900" channel="eTele.jp">
-    <title lang="en">100分de名著</title>
-    <desc lang="en">マルクスが最終的に思い描いたコミュニズム。それは、水、土地、エネルギーなど私たちにとっての共有財産である「コモン」を市民の手に取り戻すことを目指したものだった。</desc>
+  <programme start="20220106060000 +0900" stop="20220106063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20220105055500 +0900" stop="20220105060000 +0900" channel="eTele.jp">
     <title lang="en">浮世絵EDO-LIFE</title>
@@ -690,9 +682,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220105043000 +0900" stop="20220105055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽東京151人の感染確認▽高齢ドライバーの車が逆走▽双子パンダ最新映像▽高校サッカー、ハロプロ</desc>
+  <programme start="20220106053000 +0900" stop="20220106055500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのドイツ語</title>
+    <desc lang="en">▽現地映像をたっぷり味わいながら旅先で役立つドイツ語フレーズを学びます！▽ドイツ三都周遊記、ハンブルク編スタート！</desc>
+  </programme>
+  <programme start="20220106055500 +0900" stop="20220106060000 +0900" channel="eTele.jp">
+    <title lang="en">no art，no life</title>
+    <desc lang="en">今まで見たことのない芸術に圧倒される５分間。各地のアーティストを取材、作品が生まれていく過程を記録する。自分が大好きな乗り物や動物をつくり続ける長谷川豊を紹介。</desc>
+  </programme>
+  <programme start="20220106060000 +0900" stop="20220106062500 +0900" channel="eTele.jp">
+    <title lang="en">テレビで中国語</title>
+    <desc lang="en">「痴漢」の意味を勘違いしていた中国人女性。来日した後、駅で大失敗をしてしまう▽イモトアヤコ「あけましておめでとう」を学ぶ▽熊と詩、誤解がとけて二人の恋は…</desc>
   </programme>
   <programme start="20220105055000 +0900" stop="20220105080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -772,6 +772,10 @@
   <programme start="20220106043000 +0900" stop="20220106055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20220106055000 +0900" stop="20220106080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20220105045500 +0900" stop="20220105080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -883,11 +887,6 @@
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
-<programme start="20220105043000 +0900" stop="20220105052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
-ニュースも天気も充実</desc>
-</programme>
 <programme start="20220105052000 +0900" stop="20220105080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
   <desc lang="en">中継！新春お雑煮対決！具だくさん？名物くるみも▽速報！マグロの初競り▽仕事始めで新年抱負は▽乾燥…着衣着火に注意▽感染拡大どうなる観光▽木村拓哉メイキング！</desc>
@@ -966,12 +965,9 @@
   <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
 ニュースも天気も充実</desc>
 </programme>
-<programme start="20220105042300 +0900" stop="20220105054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20220106052000 +0900" stop="20220106080000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME,</title>
+  <desc lang="en">安住紳一郎と香川照之のＷ司会で、明るく楽しく丁寧に、そして正直にお伝えします！</desc>
 </programme>
 <programme start="20220105054500 +0900" stop="20220105070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1136,9 +1132,9 @@
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20220105045500 +0900" stop="20220105052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20220106054500 +0900" stop="20220106070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20220105052500 +0900" stop="20220105080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1228,13 +1224,9 @@
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20220105043000 +0900" stop="20220105050000 +0900" channel="Tokyo MX">
-  <title lang="en">うたなび!</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220105050000 +0900" stop="20220105053000 +0900" channel="Tokyo MX">
-  <title lang="en">旅猫ロマン</title>
-  <desc lang="en">那須高原　前編</desc>
+<programme start="20220106052500 +0900" stop="20220106080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20220105053000 +0900" stop="20220105060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1424,6 +1416,14 @@
   <title lang="en">LOVE HOKKAIDO</title>
   <desc lang="en">ウポポイの開業で注目される白老町へ。まだ知られていない白老の魅力を探る！▼人情味あふれるマチの商店街で過ごす癒しの時間▼知る人ぞ知るプレミアホテルをテレビ初取材</desc>
 </programme>
+<programme start="20220106053000 +0900" stop="20220106060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220106060000 +0900" stop="20220106063000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220104220000 +0900" stop="20220105010000 +0900" channel="FujiNext.jp">
 <title lang="en">第33回出雲全日本大学選抜駅伝競走　完全版</title>
 <desc>学生三大駅伝の開幕戦！レースはもちろん全チームの襷リレー＆フィニッシュを網羅！選手のインタビューもたっぷりと！
@@ -1472,7 +1472,7 @@
 <desc>＜主宰＞兵動大樹
 ＜ゲスト＞相沢菜々子
 ＜怪員（怪談師）＞西浦和也　山口綾子　伊山亮吉
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220104/7253564/image/6ef50ed7db1dc33e2e9619d867620d5b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220105060000 +0900" stop="20220105072000 +0900" channel="FujiNext.jp">
@@ -1576,7 +1576,7 @@
 <desc>〜熱波乃章弐〜
 「甲冑上杉謙信」「美女片岡沙耶」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220105/7253258/image/3585a3635bd1af10f446ab1d21d88c6a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220105060000 +0900" stop="20220105080000 +0900" channel="FujiOne.jp">
@@ -1675,7 +1675,7 @@ https//otn.fujitv.co.jp
 <programme start="20220105053000 +0900" stop="20220105060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220105/7253323/image/aac4b367a5b325d66d761558c6737cba.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220105060000 +0900" stop="20220105074000 +0900" channel="FujiTwo.jp">
@@ -1764,7 +1764,7 @@ https//otn.fujitv.co.jp
 <programme start="20220105050000 +0900" stop="20220105060000 +0900" channel="kbsworld.jp">
 <title lang="en">韓国人の食卓　[字][再]</title>
 <desc>地理的環境に人々の息づかいと知恵が合わさったその地域の代表食を紹介する新ドキュメンタリー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220105/7254287/image/f1cbbc1a59cb3326b5332d22e0aab49d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220105060000 +0900" stop="20220105070000 +0900" channel="kbsworld.jp">
