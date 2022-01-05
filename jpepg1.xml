@@ -58,22 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220106032000 +0900" stop="20220106042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北アルプス 美の点描</title>
-    <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
-  </programme>
-  <programme start="20220106042000 +0900" stop="20220106043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">空からクルージング特別編</title>
-    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像を再編集し、フランスのロワール川を源流から河口まで紹介する。</desc>
-  </programme>
-  <programme start="20220106043500 +0900" stop="20220106044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「おばけでいいからはやくきて」うたクリープハイプ／「童神　〜天の子守唄〜」うた山本潤子</desc>
-  </programme>
-  <programme start="20220106044000 +0900" stop="20220106045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「人間が幸福になる経済を求めて」神野直彦（東京大学名誉教授）</desc>
-  </programme>
   <programme start="20220106045000 +0900" stop="20220106050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">新型コロナウイルス対策を最大の課題として始まったといってよい２０２２年の日本政治。この流れを夏の参議院選挙など主な政治日程をみながら展望します。</desc>
@@ -329,6 +313,22 @@
   <programme start="20220107034700 +0900" stop="20220107043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスの山々の四季</desc>
+  </programme>
+  <programme start="20220107043500 +0900" stop="20220107044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「いろはまつり」うた森みゆき、ひばり児童合唱団／「カメレオン」うたシュガー</desc>
+  </programme>
+  <programme start="20220107044000 +0900" stop="20220107045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニッポンの里山 ふるさとの絶景に出会う旅</title>
+    <desc lang="en">全国から注目されるパン屋が中国山地の里にある。水に恵まれ、自然豊かな田んぼから採取した麹菌を使ってパンを焼いているのだ。パン作りを核に里山がより豊かになった。</desc>
+  </programme>
+  <programme start="20220107045000 +0900" stop="20220107050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">新型コロナウイルスのオミクロン株の新規感染者が急増。第６波に向け、過去の教訓を生かして対策の徹底について解説します。</desc>
+  </programme>
+  <programme start="20220107050000 +0900" stop="20220107060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20220106010000 +0900" stop="20220106053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -702,14 +702,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220106022900 +0900" stop="20220106042900 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">年に一度のポシュレの年末年始特別セール！ポシュレでリアルに売れた商品をジャンル別で振り返りながら、更にスペシャルな特典でご紹介！お見逃しなく！！</desc>
-  </programme>
-  <programme start="20220106042900 +0900" stop="20220106043000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレみどころ</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220106043000 +0900" stop="20220106055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽東京390人の感染確認▽トラが飼育員襲う▽ＡＴＭから現金1億円盗む▽菅田将暉、JO1</desc>
@@ -798,14 +790,34 @@
     <title lang="en">NFL倶楽部</title>
     <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
   </programme>
-<programme start="20220106033000 +0900" stop="20220106040000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-</programme>
-<programme start="20220106040000 +0900" stop="20220106045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍V</title>
-  <desc lang="en">「悲恋の仇討ち免状」松平健(他)▽久しぶりに山田朝右衛門の家を訪れた吉宗。ところが朝右衛門は居らず、鉢巻にたすき掛けの男女三人が“父の仇”と吉宗に斬りかかってきて…</desc>
-</programme>
+  <programme start="20220107040500 +0900" stop="20220107041000 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">大ヒット上映中「あなたの番です劇場版」。日本中に考察ブームを巻き起こした「あな番」ワールド満載!原田知世＆田中圭▽大ヒットだから、ネタバレありで言っちゃうよ！</desc>
+  </programme>
+  <programme start="20220107041000 +0900" stop="20220107041500 +0900" channel="NipponTV.jp">
+    <title lang="en">JMF2022</title>
+    <desc lang="en">豪華ミュージカル界のトップスターが集結するコンサートの内容を紹介。実力派から若手、2.5次元で活躍する俳優がミュージカルの魅力を語る。</desc>
+  </programme>
+  <programme start="20220107041500 +0900" stop="20220107042000 +0900" channel="NipponTV.jp">
+    <title lang="en">あなたの番です劇場版</title>
+    <desc lang="en">日本中に考察ブームを巻き起こしたドラマ「あなたの番です」待望の映画化!! ドラマを凌ぐあな番ワールドが展開!豪華キャストが映画の魅力を語ります!!</desc>
+  </programme>
+  <programme start="20220107042000 +0900" stop="20220107042500 +0900" channel="NipponTV.jp">
+    <title lang="en">映画『ノイズ』のココが凄い!!</title>
+    <desc lang="en">映画『デスノート』から15年！藤原竜也×松山ケンイチW主演の映画『ノイズ』がついに公開！新感覚サスペンスの凄い所とは！？</desc>
+  </programme>
+  <programme start="20220107042500 +0900" stop="20220107042900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレNEWS24</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220107042900 +0900" stop="20220107043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220107043000 +0900" stop="20220107055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20220106045500 +0900" stop="20220106080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">全国で２０００人超が感染…東京３９０人２日で４倍、大阪２４４人…第６波に、沖縄６２３人知事がく然…対策は？専門家生解説▼関東南部でも積雪？(他)</desc>
@@ -921,9 +933,9 @@
   <title lang="en">暴れん坊将軍V</title>
   <desc lang="en">「二人妻の用心棒」松平健(他)▽両替商が結託して金銀相場を動かし大儲けしていると知った忠相は、厳しい詮議に乗り出す。しかし勘定奉行が横槍を入れ、両替商追及は頓挫し…</desc>
 </programme>
-<programme start="20220106034500 +0900" stop="20220106043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20220107045500 +0900" stop="20220107080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20220106043000 +0900" stop="20220106052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -1013,13 +1025,10 @@
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20220106035500 +0900" stop="20220106040000 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">１／７(金)よる８時放送！家族“絆”と“再生”を描いた土屋太鳳・主演の新春ドラマスペシャル「優しい音楽〜ティアーズ・イン・ヘヴン　天国のきみへ」の見どころを紹介！</desc>
-</programme>
-<programme start="20220106040000 +0900" stop="20220106042300 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20220107043000 +0900" stop="20220107052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20220106042300 +0900" stop="20220106054500 +0900" channel="TVTokyo.jp">
   <title lang="en">ものスタ</title>
@@ -1176,13 +1185,20 @@
   <title lang="en">ラビッツ インベージョン</title>
   <desc lang="en">実験中に生み出されてしまった巨大ラビッツ。キングコングのように凶暴化することを恐れた研究員ラビッツは、キングコングラビッツを深い森へ連れていこうとするが⁉</desc>
 </programme>
-<programme start="20220106035000 +0900" stop="20220106040000 +0900" channel="FujiTV.jp">
+<programme start="20220107040500 +0900" stop="20220107041000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en">１／７(金)よる８時放送！家族“絆”と“再生”を描いた土屋太鳳・主演の新春ドラマスペシャル「優しい音楽〜ティアーズ・イン・ヘヴン　天国のきみへ」の見どころを紹介！</desc>
 </programme>
-<programme start="20220106040000 +0900" stop="20220106045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+<programme start="20220107041000 +0900" stop="20220107042300 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
+</programme>
+<programme start="20220107042300 +0900" stop="20220107054500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20220106045500 +0900" stop="20220106052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -1276,13 +1292,9 @@
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20220106033000 +0900" stop="20220106040000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220106040000 +0900" stop="20220106043000 +0900" channel="Tokyo MX">
-  <title lang="en">CM INDEX</title>
-  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
+<programme start="20220107045500 +0900" stop="20220107052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20220106043000 +0900" stop="20220106050000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1479,6 +1491,14 @@
 <programme start="20220107040000 +0900" stop="20220107043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20220107043000 +0900" stop="20220107050000 +0900" channel="Tokyo MX">
+  <title lang="en">原田伸郎のめざせパーゴルフIII</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220107050000 +0900" stop="20220107053000 +0900" channel="Tokyo MX">
+  <title lang="en">U字工事の旅!発見</title>
+  <desc lang="en">わたらせ渓谷鐡道</desc>
 </programme>
 <programme start="20220106000000 +0900" stop="20220106020000 +0900" channel="FujiNext.jp">
 <title lang="en">いいすぽ！　62「eBASEBALL パワフルプロ野球2020」</title>
@@ -1719,7 +1739,7 @@ https//otn.fujitv.co.jp
 <programme start="20220106042000 +0900" stop="20220106050000 +0900" channel="kbsworld.jp">
 <title lang="en">家族を守れ　115　[字]</title>
 <desc>2015年 全123話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220105/7254309/image/f4f5473bfed6145be03ed66336bb79e7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220106050000 +0900" stop="20220106060000 +0900" channel="kbsworld.jp">
