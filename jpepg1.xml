@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220106015500 +0900" stop="20220106024000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">パーフェクトプラネット</title>
-    <desc lang="en">プラネットアースの新シリーズいよいよ放送！生命あふれる惑星・地球。広大な宇宙の中でなぜ地球だけに多様な生きものの世界が誕生したのか？最終回は水をもたらす大気循環</desc>
-  </programme>
   <programme start="20220106024000 +0900" stop="20220106032000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2022</title>
     <desc lang="en">▽北朝鮮弾道ミサイル発射か　北の狙いは▽米　１日のコロナ感染者１００万人超に▽カザフスタン　燃料費高騰で抗議活動▽メキシコ　伝統食で革命を起こす先住民女性シェフ</desc>
@@ -325,6 +321,10 @@
   <programme start="20220107011800 +0900" stop="20220107020800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">進撃の巨人 -特別総集編-</title>
     <desc lang="en">新作エピソード放送直前！「進撃の巨人」全７５話を６話に再編集した特別総集編の第３夜。ナレーション小野大輔、小林ゆう</desc>
+  </programme>
+  <programme start="20220107020800 +0900" stop="20220107030700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">７７兆円。昨年度の国の「コロナ予算」総額の数字だ。空前の巨額予算はどう使われたのか。膨大なデータをＡＩに読み込ませ、徹底検証。７７兆円が問いかける教訓とは…。</desc>
   </programme>
   <programme start="20220106010000 +0900" stop="20220106053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -698,10 +698,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220106015900 +0900" stop="20220106022900 +0900" channel="NipponTV.jp">
-    <title lang="en">浜ちゃんが!</title>
-    <desc lang="en">ペナルティ・ヒデ進行のもと浜田と渡部篤郎、乃木坂４６梅澤美波が賞金獲得を目指して編集なし！ノーカットの散歩ロケ企画に挑む！散歩コースは代官山から恵比寿まで！後編</desc>
-  </programme>
   <programme start="20220106022900 +0900" stop="20220106042900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">年に一度のポシュレの年末年始特別セール！ポシュレでリアルに売れた商品をジャンル別で振り返りながら、更にスペシャルな特典でご紹介！お見逃しなく！！</desc>
@@ -782,10 +778,14 @@
     <title lang="en">サッカー★アース</title>
     <desc lang="en">高校サッカー準決勝・決勝特集▽２月開催FIFAクラブワールドカップ▽日本サッカー新シーズンの幕開け！FUJIFILM SUPER CUP</desc>
   </programme>
-<programme start="20220106015600 +0900" stop="20220106025600 +0900" channel="Asahi.jp">
-  <title lang="en">新日本プロレス1.5東京ドーム!ワールドプロレスリングSP</title>
-  <desc lang="en">新日本プロレス50周年イヤーの幕開け・東京ドーム2連戦2日目！IWGP世界ヘビー級王座ついに決着戦！勝者が新たな歴史を創る‼▽棚橋弘至が何でもあり過酷ルールでUS王座戦！</desc>
-</programme>
+  <programme start="20220107022900 +0900" stop="20220107023500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220107023500 +0900" stop="20220107030500 +0900" channel="NipponTV.jp">
+    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
+    <desc lang="en">甘いものが食べたいというキックボクシング元世界王者。動体視力はいまだ健在なのか！？オドぜひ流にチェック！複数でのじゃんけんの結果がすぐわかるという男…。ホント？</desc>
+  </programme>
 <programme start="20220106025600 +0900" stop="20220106030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -901,9 +901,14 @@
   <title lang="en">坂上・良純・宇賀のニッポンの酒</title>
   <desc lang="en">福島・新潟・長野・石川・熊本・大分・沖縄のテレ朝系列７局が厳選した地酒を紹介！坂上忍・石原良純・宇賀なつみ。芸能界のお酒好き３人が、ニッポンの酒を堪能します！</desc>
 </programme>
-<programme start="20220106015800 +0900" stop="20220106020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20220107025600 +0900" stop="20220107030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20220107030000 +0900" stop="20220107033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
 <programme start="20220106020500 +0900" stop="20220106034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -990,17 +995,13 @@
   <desc lang="en">明日(ミライ)の「赤の矢」と奏の「白の矢」の戦いが始まる。
 そして、奏の秘められた想いが次第に明らかとなる。</desc>
 </programme>
-<programme start="20220106013000 +0900" stop="20220106020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ザ・ドキュメンタリー</title>
-  <desc lang="en">熱気球が浮かぶ幻想的な風景の裏で、知られざる戦いが！？アジア人初の世界王者に輝いた熱気球競技の申し子・藤田雄大に独占密着。ナレーターは人気俳優・佐藤隆太が担当。</desc>
+<programme start="20220107022800 +0900" stop="20220107023500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
-<programme start="20220106020000 +0900" stop="20220106020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">１／７(金)よる８時放送！家族“絆”と“再生”を描いた土屋太鳳・主演の新春ドラマスペシャル「優しい音楽〜ティアーズ・イン・ヘヴン　天国のきみへ」の見どころを紹介！</desc>
-</programme>
-<programme start="20220106020500 +0900" stop="20220106023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20220107023500 +0900" stop="20220107034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20220106023500 +0900" stop="20220106030500 +0900" channel="TVTokyo.jp">
   <title lang="en">テレビ演劇 サクセス荘</title>
@@ -1160,9 +1161,14 @@
   <title lang="en"></title>
   <desc lang="en">１／７(金)よる８時放送！家族“絆”と“再生”を描いた土屋太鳳・主演の新春ドラマスペシャル「優しい音楽〜ティアーズ・イン・ヘヴン　天国のきみへ」の見どころを紹介！</desc>
 </programme>
-<programme start="20220106012000 +0900" stop="20220106022000 +0900" channel="FujiTV.jp">
-  <title lang="en">ドラマツアーズ2022新春</title>
-  <desc lang="en">豪華俳優陣が芸人たちと夢のコラボレーション！絶品グルメや、旬の芸人たちが続々登場します！最新のネタも注目です</desc>
+<programme start="20220107020500 +0900" stop="20220107023500 +0900" channel="TVTokyo.jp">
+  <title lang="en">きらきらアフロTM</title>
+  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
+【出演】笑福亭鶴瓶、松嶋尚美</desc>
+</programme>
+<programme start="20220107023500 +0900" stop="20220107030500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
 <programme start="20220106022000 +0900" stop="20220106032000 +0900" channel="FujiTV.jp">
   <title lang="en">西村キャンプ場</title>
@@ -1252,17 +1258,13 @@
   <title lang="en">ウワサのお客さま 次回1月7日(金)よる7時</title>
   <desc lang="en">サンドウィッチマン・麒麟川島ＭＣ。店員さんの間でウワサになっているお客さまにディープに密着！謎すぎる生態をウォッチング。消費者密着バラエティ。</desc>
 </programme>
-<programme start="20220106013500 +0900" stop="20220106020500 +0900" channel="Tokyo MX">
-  <title lang="en">幼女戦記</title>
-  <desc lang="en"> </desc>
+<programme start="20220107022500 +0900" stop="20220107025500 +0900" channel="FujiTV.jp">
+  <title lang="en">いいすぽ!</title>
+  <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！世界標準サッカーゲーム！「ＦＩＦＡ　２２」最強トーナメントセカンドステージ！！ＭＣバカリズム</desc>
 </programme>
-<programme start="20220106020500 +0900" stop="20220106023400 +0900" channel="Tokyo MX">
-  <title lang="en">MIRAI系アイドルTV</title>
-  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
-</programme>
-<programme start="20220106023400 +0900" stop="20220106023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20220107025500 +0900" stop="20220107032500 +0900" channel="FujiTV.jp">
+  <title lang="en">Tune</title>
+  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
 <programme start="20220106023500 +0900" stop="20220106030000 +0900" channel="Tokyo MX">
   <title lang="en">せとチャレ!STU48</title>
@@ -1450,6 +1452,18 @@
 </programme>
 <programme start="20220107013500 +0900" stop="20220107020500 +0900" channel="Tokyo MX">
   <title lang="en">バリふり!!!</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220107020500 +0900" stop="20220107023400 +0900" channel="Tokyo MX">
+  <title lang="en">らいコレTV</title>
+  <desc lang="en">配信アプのイベント初代アプリ広告モデル決定戦で１位を獲得。女王に君臨する美人経営者ライバー「ｍｉｍａｍｏｎ」さんが登場！</desc>
+</programme>
+<programme start="20220107023400 +0900" stop="20220107023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220107023500 +0900" stop="20220107030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220106000000 +0900" stop="20220106020000 +0900" channel="FujiNext.jp">
