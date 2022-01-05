@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220106024000 +0900" stop="20220106032000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2022</title>
-    <desc lang="en">▽北朝鮮弾道ミサイル発射か　北の狙いは▽米　１日のコロナ感染者１００万人超に▽カザフスタン　燃料費高騰で抗議活動▽メキシコ　伝統食で革命を起こす先住民女性シェフ</desc>
-  </programme>
   <programme start="20220106032000 +0900" stop="20220106042000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス 美の点描</title>
     <desc lang="en">北アルプスの四季折々の珠玉の風景を収めた美の点描集。槍ヶ岳の雲海、日本最大の落差を持つ称名滝、立山の美しい紅葉、上高地のダイヤモンドダストなど、見どころ満載。</desc>
@@ -325,6 +321,14 @@
   <programme start="20220107020800 +0900" stop="20220107030700 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">７７兆円。昨年度の国の「コロナ予算」総額の数字だ。空前の巨額予算はどう使われたのか。膨大なデータをＡＩに読み込ませ、徹底検証。７７兆円が問いかける教訓とは…。</desc>
+  </programme>
+  <programme start="20220107030700 +0900" stop="20220107034700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2022</title>
+    <desc lang="en">▽アメリカ　２０２２年はメタバース元年「メタバース御殿を買った男」※ＳＤＧｓ▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20220107034700 +0900" stop="20220107043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北アルプス</title>
+    <desc lang="en">北アルプスの山々の四季</desc>
   </programme>
   <programme start="20220106010000 +0900" stop="20220106053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -786,15 +790,14 @@
     <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <desc lang="en">甘いものが食べたいというキックボクシング元世界王者。動体視力はいまだ健在なのか！？オドぜひ流にチェック！複数でのじゃんけんの結果がすぐわかるという男…。ホント？</desc>
   </programme>
-<programme start="20220106025600 +0900" stop="20220106030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20220106030000 +0900" stop="20220106033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-今回はあの有名店とコラボ！「美味すぎ！グルメ委員会〜究極のお取り寄せを完成させよ〜」</desc>
-</programme>
+  <programme start="20220107030500 +0900" stop="20220107033500 +0900" channel="NipponTV.jp">
+    <title lang="en">川島・山内のマンガ沼</title>
+    <desc lang="en">和牛・水田プレゼンツ！最高のマンガ帯を考える「マンガ帯喜利」後半戦！今ハマっているおすすめマンガの帯を考案しよう！話題作続々で珍回答も続々！</desc>
+  </programme>
+  <programme start="20220107033500 +0900" stop="20220107040500 +0900" channel="NipponTV.jp">
+    <title lang="en">NFL倶楽部</title>
+    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
+  </programme>
 <programme start="20220106033000 +0900" stop="20220106040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -910,10 +913,13 @@
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20220106020500 +0900" stop="20220106034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20220107033000 +0900" stop="20220107040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
+</programme>
+<programme start="20220107040000 +0900" stop="20220107045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍V</title>
+  <desc lang="en">「二人妻の用心棒」松平健(他)▽両替商が結託して金銀相場を動かし大儲けしていると知った忠相は、厳しい詮議に乗り出す。しかし勘定奉行が横槍を入れ、両替商追及は頓挫し…</desc>
 </programme>
 <programme start="20220106034500 +0900" stop="20220106043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -1003,22 +1009,9 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20220106023500 +0900" stop="20220106030500 +0900" channel="TVTokyo.jp">
-  <title lang="en">テレビ演劇 サクセス荘</title>
-  <desc lang="en">2.5次元舞台などで活躍する俳優が挑む新感覚ドラマ！本番一発勝負の“テレビ演劇”が開幕◇今日から新しく入居希望者が来ることに！しかしアパートで雨漏りが発生して…</desc>
-</programme>
-<programme start="20220106030500 +0900" stop="20220106032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">突然美少女に変身してしまったおじさんのお話！「異世界美少女受肉おじさんと」をご紹介。今夜は、ゲストとして主人公・橘日向（女）役を演じる、M・A・Oが登場！！</desc>
-</programme>
-<programme start="20220106032000 +0900" stop="20220106035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">30歳まで童貞だと魔法使いになれるらしい</title>
-  <desc lang="en">赤楚衛二×町田啓太で好意丸見え純愛BLをドラマ化◇「触れた人の心が読める魔法」を手に入れた30歳童貞の安達は、ひょんなことから同期・黒沢の心の声を読んでしまい…</desc>
-</programme>
-<programme start="20220106035000 +0900" stop="20220106035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20220107034500 +0900" stop="20220107043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20220106035500 +0900" stop="20220106040000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1170,13 +1163,18 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
-<programme start="20220106022000 +0900" stop="20220106032000 +0900" channel="FujiTV.jp">
-  <title lang="en">西村キャンプ場</title>
-  <desc lang="en">バイきんぐの西村瑞樹が、地元広島で趣味のキャンプをただ楽しむだけの番組。「じゃがいも収穫編」と「北広島町でアポありキャンプ旅編」の豪華？二本立てでお届けする。</desc>
+<programme start="20220107030500 +0900" stop="20220107035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">Paraviで大人気！「紙とさまぁ〜ず」「東野幸治のネイチャーなの？」をご紹介▽「異世界美少女受肉おじさんと」主人公・橘日向（女）役のM・A・Oがスタジオに登場！</desc>
 </programme>
-<programme start="20220106032000 +0900" stop="20220106035000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+<programme start="20220107035000 +0900" stop="20220107035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20220107035500 +0900" stop="20220107040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ラビッツ インベージョン</title>
+  <desc lang="en">実験中に生み出されてしまった巨大ラビッツ。キングコングのように凶暴化することを恐れた研究員ラビッツは、キングコングラビッツを深い森へ連れていこうとするが⁉</desc>
 </programme>
 <programme start="20220106035000 +0900" stop="20220106040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1192,7 +1190,7 @@
 </programme>
 <programme start="20220106052500 +0900" stop="20220106080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
-  <desc lang="en">体長３ｍベンガルトラが飼育員襲い３人ケガ▼東京３９０人前週５倍▼首都圏で積雪か？▼ディズニー予約変化▼今年注目新オープン▼ＪＯ１胸キュン一言▼老舗新美味をイノ調</desc>
+  <desc lang="en">体長２ｍベンガルトラが飼育員襲い３人ケガ▼東京３９０人前週５倍▼首都圏で積雪か？▼ディズニー予約変化▼今年注目新オープン▼ＪＯ１胸キュン一言▼老舗新美味をイノ調</desc>
 </programme>
 <programme start="20220106080000 +0900" stop="20220106095000 +0900" channel="FujiTV.jp">
   <title lang="en">めざまし8</title>
@@ -1266,13 +1264,17 @@
   <title lang="en">Tune</title>
   <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
-<programme start="20220106023500 +0900" stop="20220106030000 +0900" channel="Tokyo MX">
-  <title lang="en">せとチャレ!STU48</title>
-  <desc lang="en">舞台は瀬戸内！感動と興奮を生み出す育成型挑戦バラエティ！過酷なチャレンジから、ゆる〜いチャレンジまでSTU48が全力で挑みます！</desc>
-</programme>
-<programme start="20220106030000 +0900" stop="20220106033000 +0900" channel="Tokyo MX">
+<programme start="20220107032500 +0900" stop="20220107034500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20220107034500 +0900" stop="20220107040000 +0900" channel="FujiTV.jp">
+  <title lang="en"></title>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20220107040000 +0900" stop="20220107045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20220106033000 +0900" stop="20220106040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1463,6 +1465,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220107023500 +0900" stop="20220107030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220107030500 +0900" stop="20220107033400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220107033400 +0900" stop="20220107040000 +0900" channel="Tokyo MX">
+  <title lang="en">白黒アンジャッシュ</title>
+  <desc lang="en">アンジャッシュ児嶋一哉がチバテレにゲストを招いて、じっくり話を聞いていくトークバラエティ！</desc>
+</programme>
+<programme start="20220107040000 +0900" stop="20220107043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
