@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220107020800 +0900" stop="20220107030700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">７７兆円。昨年度の国の「コロナ予算」総額の数字だ。空前の巨額予算はどう使われたのか。膨大なデータをＡＩに読み込ませ、徹底検証。７７兆円が問いかける教訓とは…。</desc>
-  </programme>
-  <programme start="20220107030700 +0900" stop="20220107034700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2022</title>
-    <desc lang="en">▽カザフスタン　抗議活動が暴徒化▽北朝鮮「極超音速ミサイルを発射」▽豪がジョコビッチ選手をワクチン未接種で入国拒否▽米「メタバース御殿」を買った男※ＳＤＧｓ企画</desc>
-  </programme>
   <programme start="20220107034700 +0900" stop="20220107043500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスの山々の四季</desc>
@@ -325,6 +317,10 @@
   <programme start="20220108025300 +0900" stop="20220108033300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2022</title>
     <desc lang="en">▽観光客４５人…限界を超えたバリ島はいま▽日本の外交▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20220108033300 +0900" stop="20220108040800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">沖縄 慶良間諸島</title>
+    <desc lang="en">〜沖縄県・慶良間諸島〜</desc>
   </programme>
   <programme start="20220107012500 +0900" stop="20220107053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -694,14 +690,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220107023500 +0900" stop="20220107030500 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">甘いものが食べたいというキックボクシング元世界王者。動体視力はいまだ健在なのか！？オドぜひ流にチェック！複数でのじゃんけんの結果がすぐわかるという男…。ホント？</desc>
-  </programme>
-  <programme start="20220107030500 +0900" stop="20220107033500 +0900" channel="NipponTV.jp">
-    <title lang="en">川島・山内のマンガ沼</title>
-    <desc lang="en">和牛・水田プレゼンツ！最高のマンガ帯を考える「マンガ帯喜利」後半戦！今ハマっているおすすめマンガの帯を考案しよう！話題作続々で珍回答も続々！</desc>
-  </programme>
   <programme start="20220107033500 +0900" stop="20220107040500 +0900" channel="NipponTV.jp">
     <title lang="en">NFL倶楽部</title>
     <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
@@ -812,15 +800,10 @@
     <title lang="en">夜バゲット</title>
     <desc lang="en">金曜深夜に贈る新しいエンターテインメント情報番組！MCに日テレアナウンサー川畑一志と郡司恭子。新年最初の放送は『今年公開の注目映画大放出スペシャル』〜！！</desc>
   </programme>
-<programme start="20220107025600 +0900" stop="20220107030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20220107030000 +0900" stop="20220107033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20220108032400 +0900" stop="20220108040000 +0900" channel="NipponTV.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
 <programme start="20220107033000 +0900" stop="20220107040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
@@ -920,9 +903,14 @@
   <title lang="en">F4 Thailand/BOYS OVER FLOWERS</title>
   <desc lang="en">タイの大ヒットドラマ「2gether」で世界中に旋風を巻き起こしたブライトとウィンがタイ版「花より男子」で“F4”として登場！CSテレ朝チャンネルで好評放送中の特別編！</desc>
 </programme>
-<programme start="20220107023500 +0900" stop="20220107034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
+<programme start="20220108033500 +0900" stop="20220108040000 +0900" channel="Asahi.jp">
+  <title lang="en">イベ検</title>
+  <desc lang="en">テレビ朝日がオススメするイベント情報！
+イベントの詳しい情報は『テレビ朝日　イベント』で検索‼</desc>
+</programme>
+<programme start="20220108040000 +0900" stop="20220108043000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
 </programme>
 <programme start="20220107034500 +0900" stop="20220107043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -1004,18 +992,17 @@
   <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
   <desc lang="en">◆ＳＴＡＧＥ１４「ギアス対ギアス」▼シャーリーに秘密を知られたのではないかと疑い後を追うルルーシュ。どう始末をつけるのかＣ．Ｃ．に問われるが、答えは持たなかった</desc>
 </programme>
-<programme start="20220107023500 +0900" stop="20220107030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20220108032500 +0900" stop="20220108033700 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
-<programme start="20220107030500 +0900" stop="20220107035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">Paraviで大人気！「紙とさまぁ〜ず」「東野幸治のネイチャーなの？」をご紹介▽「異世界美少女受肉おじさんと」主人公・橘日向（女）役のM・A・Oがスタジオに登場！</desc>
+<programme start="20220108033700 +0900" stop="20220108040000 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20220107035000 +0900" stop="20220107035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
-◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+<programme start="20220108040000 +0900" stop="20220108041500 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20220107035500 +0900" stop="20220107040500 +0900" channel="TVTokyo.jp">
   <title lang="en">ラビッツ インベージョン</title>
@@ -1182,13 +1169,19 @@
   <title lang="en">一夜づけ</title>
   <desc lang="en">おっさん×元おじさんによる、トラブル続きの旅のお話！「異世界美少女受肉おじさんと」をご紹介。今夜も、主人公・橘日向（女）役のM・A・Oがスタジオに登場！</desc>
 </programme>
-<programme start="20220107025500 +0900" stop="20220107032500 +0900" channel="FujiTV.jp">
-  <title lang="en">Tune</title>
-  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
+<programme start="20220108031500 +0900" stop="20220108034500 +0900" channel="TVTokyo.jp">
+  <title lang="en">音流〜ONRYU〜</title>
+  <desc lang="en">▼今週は、LIVE　RUSH〜ONRYU　Show　Must　Go　On〜下北沢にて’21特集をOA！</desc>
 </programme>
-<programme start="20220107032500 +0900" stop="20220107034500 +0900" channel="FujiTV.jp">
+<programme start="20220108034500 +0900" stop="20220108035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">今勢いのある若手声優達の魅力を日替わりでお届けする「〜声優のひと息〜」企画
+◆ひと息が続く限りの「自己PR」◆人気ラノベから抜粋された「セリフの朗読」</desc>
+</programme>
+<programme start="20220108035000 +0900" stop="20220108040500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en">あなたの生活をより楽しく！より快適に！
+ワクワクする商品を厳選して紹介するショッピング番組。</desc>
 </programme>
 <programme start="20220107034500 +0900" stop="20220107040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1278,13 +1271,9 @@
   <title lang="en">爆チュー問題コントライブ</title>
   <desc lang="en">爆チュー問題がゆかいな仲間たちとお届けする季節外れのクリスマススペシャルコント！！</desc>
 </programme>
-<programme start="20220107023500 +0900" stop="20220107030500 +0900" channel="Tokyo MX">
+<programme start="20220108035000 +0900" stop="20220108041500 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220107030500 +0900" stop="20220107033400 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
 </programme>
 <programme start="20220107033400 +0900" stop="20220107040000 +0900" channel="Tokyo MX">
   <title lang="en">白黒アンジャッシュ</title>
@@ -1467,6 +1456,22 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220108023500 +0900" stop="20220108030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220108030500 +0900" stop="20220108033500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220108033500 +0900" stop="20220108035000 +0900" channel="Tokyo MX">
+  <title lang="en">ふるさと百景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220108035000 +0900" stop="20220108040000 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220108040000 +0900" stop="20220108043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
