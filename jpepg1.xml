@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220107045000 +0900" stop="20220107050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">新型コロナウイルスのオミクロン株の新規感染者が急増。第６波に向け、過去の教訓を生かして対策の徹底について解説します。</desc>
-  </programme>
   <programme start="20220107050000 +0900" stop="20220107060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼関東南部で積雪　交通影響や路面凍結などに注意　▼カザフスタン大規模抗議活動　千人以上死傷　▼東日本大震災の仮設住宅に再利用の動き　▼景勝地で“一棟貸し”が人気</desc>
@@ -330,9 +326,25 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220107012500 +0900" stop="20220107053000 +0900" channel="eTele.jp">
+  <programme start="20220108051000 +0900" stop="20220108051500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Nスペ5min．</title>
+    <desc lang="en">ＮＨＫスペシャルの魅力を５分間に凝縮した「Ｎスペ５ｍｉｎ．」。今回は『北の海　よみがえる絶景』のダイジェストをご紹介する。</desc>
+  </programme>
+  <programme start="20220108051500 +0900" stop="20220108054000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うまいッ!</title>
+    <desc lang="en">高級黒毛和牛の中でも最高品質と言われる「仙台牛」。宮城ならではの特製のエサが絶品の霜降り肉を育みます。年末年始、大切な人のおもてなしにぴったりのレシピもご紹介！</desc>
+  </programme>
+  <programme start="20220108054000 +0900" stop="20220108055000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK映像ファイル あの人に会いたい</title>
+    <desc lang="en">平成３１年１月に亡くなった兼高かおるさん。海外旅行がまだ珍しかった昭和３０年代から３０年以上にわたって世界１５０か国以上を旅し、テレビを通じてその魅力を伝えた。</desc>
+  </programme>
+  <programme start="20220108055000 +0900" stop="20220108060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20220108060000 +0900" stop="20220108063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20220107053000 +0900" stop="20220107060000 +0900" channel="eTele.jp">
     <title lang="en">アラビーヤ・シャベリーヤ!</title>
@@ -698,9 +710,17 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220107043000 +0900" stop="20220107055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽東京で積雪…４年ぶりの「大雪警報」▽東京の感染６４１人…先週の１０倍▽３県に「まん延防止」適用へ</desc>
+  <programme start="20220108053000 +0900" stop="20220108055000 +0900" channel="eTele.jp">
+    <title lang="en">レイチェル・クーのチョコレート</title>
+    <desc lang="en">フードライター兼料理人のレイチェル・クーがチョコレートをたっぷり使ったお菓子や料理を披露、ヨーロッパのチョコクリエイターを訪ねて、チョコレートの魅力を探る。</desc>
+  </programme>
+  <programme start="20220108055000 +0900" stop="20220108055500 +0900" channel="eTele.jp">
+    <title lang="en">びじゅチューン!</title>
+    <desc lang="en">ブリューゲル「バベルの塔」が発想源。大勢が働く塔の建設現場にカフェを開店したら大もうけできるかもしれない。ＤＪみそしるとＭＣごはんとのコラボ楽曲。</desc>
+  </programme>
+  <programme start="20220108055500 +0900" stop="20220108062500 +0900" channel="eTele.jp">
+    <title lang="en">猫のしっぽ カエルの手</title>
+    <desc lang="en">朝のめい想を楽しんだベニシアさんは、お散歩がてらお気に入りのカフェへ。その後友人の編集者で野草に詳しい藤井さんと自宅の庭で食べられる野草探し。摘み菜でピザを焼く</desc>
   </programme>
   <programme start="20220107055000 +0900" stop="20220107080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -780,9 +800,17 @@
     <title lang="en">夜バゲット</title>
     <desc lang="en">金曜深夜に贈る新しいエンターテインメント情報番組！MCに日テレアナウンサー川畑一志と郡司恭子。新年最初の放送は『今年公開の注目映画大放出スペシャル』〜！！</desc>
   </programme>
-  <programme start="20220108032400 +0900" stop="20220108050000 +0900" channel="NipponTV.jp">
+  <programme start="20220108032400 +0900" stop="20220108052800 +0900" channel="NipponTV.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20220108052800 +0900" stop="20220108053000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220108053000 +0900" stop="20220108080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ズームイン!!サタデー</title>
+    <desc lang="en">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタいち押し！</desc>
   </programme>
 <programme start="20220107045500 +0900" stop="20220107080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -892,10 +920,18 @@
   <title lang="en">おかずのクッキング</title>
   <desc lang="en">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
 </programme>
-<programme start="20220107043000 +0900" stop="20220107052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
-ニュースも天気も充実</desc>
+<programme start="20220108052000 +0900" stop="20220108055000 +0900" channel="Asahi.jp">
+  <title lang="en">日本のチカラ</title>
+  <desc lang="en">さまざまな試練を乗り越え、理想のワイナリーを目指す男性の物語。ワインで地域を元気にしたい…明るく前向きな男性の日常を見つめます。</desc>
+</programme>
+<programme start="20220108055000 +0900" stop="20220108060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220108060000 +0900" stop="20220108080000 +0900" channel="Asahi.jp">
+  <title lang="en">週刊ニュースリーダー</title>
+  <desc lang="en">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
+城島茂が各界のリーダーを現場取材します！</desc>
 </programme>
 <programme start="20220107052000 +0900" stop="20220107080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
@@ -984,12 +1020,13 @@
   <title lang="en">開運音楽堂</title>
   <desc lang="en">声優アーティストユニット・DIALOGUEから稗田寧々と宮原颯希、さらに「FF14」のサウンドディレクター・祖堅正慶をスタジオに迎えて「未来神曲」が大復活！！</desc>
 </programme>
-<programme start="20220107042300 +0900" stop="20220107054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20220108051500 +0900" stop="20220108053000 +0900" channel="TBS2.jp">
+  <title lang="en">皇室アルバム</title>
+  <desc lang="en">『新春の天皇ご一家』 </desc>
+</programme>
+<programme start="20220108053000 +0900" stop="20220108073000 +0900" channel="TBS2.jp">
+  <title lang="en">まるっと!サタデー</title>
+  <desc lang="en">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
 </programme>
 <programme start="20220107054500 +0900" stop="20220107070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -1162,9 +1199,13 @@
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20220107045500 +0900" stop="20220107052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20220108053000 +0900" stop="20220108060000 +0900" channel="TVTokyo.jp">
+  <title lang="en">あさモヤさまぁ〜ず2</title>
+  <desc lang="en">山田を歩いていると遊具がある神社を発見。急なすべり台があったので三村が滑ってみる事に。すると三村はあまり耳なじみのない言葉を口にし、現場を騒然とさせる…</desc>
+</programme>
+<programme start="20220108060000 +0900" stop="20220108065400 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
 </programme>
 <programme start="20220107052500 +0900" stop="20220107080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -1263,13 +1304,18 @@
   <desc lang="en">「親はカーナビかエアバッグか」
 山田ルイ５３世（タレント）</desc>
 </programme>
-<programme start="20220107043000 +0900" stop="20220107050000 +0900" channel="Tokyo MX">
-  <title lang="en">原田伸郎のめざせパーゴルフIII</title>
-  <desc lang="en"> </desc>
+<programme start="20220108052200 +0900" stop="20220108053000 +0900" channel="FujiTV.jp">
+  <title lang="en">ぼのぼの</title>
+  <desc lang="en">「ぼのちゃん〜ボクと海とおとうさん」
+登場キャラクターぼのちゃん　ぼのちゃんのおとうさん　アライグマちゃん</desc>
 </programme>
-<programme start="20220107050000 +0900" stop="20220107053000 +0900" channel="Tokyo MX">
-  <title lang="en">U字工事の旅!発見</title>
-  <desc lang="en">わたらせ渓谷鐡道</desc>
+<programme start="20220108053000 +0900" stop="20220108060000 +0900" channel="FujiTV.jp">
+  <title lang="en">週刊フジテレビ批評</title>
+  <desc lang="en">フジテレビ金光社長に若者研究の第一人者・原田曜平氏が問う！「配信時代に突入！２０２２年のフジテレビは？」海外配信事業者との関係は？女性視聴者獲得のカギは？</desc>
+</programme>
+<programme start="20220108060000 +0900" stop="20220108083000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましどようび</title>
+  <desc lang="en">めざましどようびニュース＆スポーツを１週間まとめチェック▽今週のエンタメ全見せ未公開＆舞台裏映像▽週末おすすめスポット▽出演者が挑戦！じゃんけん２回＆占い</desc>
 </programme>
 <programme start="20220107053000 +0900" stop="20220107060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1463,6 +1509,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220108053000 +0900" stop="20220108060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220108060000 +0900" stop="20220108063000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220106223000 +0900" stop="20220107001000 +0900" channel="FujiNext.jp">
 <title lang="en">フジサンケイクラシック黄金伝説　41「2014年 第42回大会」</title>
 <desc>42nd フジサンケイクラシック（2014年）
@@ -1515,7 +1569,7 @@
 <programme start="20220107053000 +0900" stop="20220107060000 +0900" channel="FujiNext.jp">
 <title lang="en">コアラモード．小幡康裕のガチンコスターダストプラネット第54回！ひなた！咲良菜緒</title>
 <desc>B.O.L.Ｔ白浜あや、アメフラっシ鈴木萌花・愛来、TEAM SHACHI咲良菜緒、私立恵比寿中学・柏木ひなた。小幡康裕音楽監督。VOJA増村エミコ先生
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220107/7292368/image/abda7c81d9c62cfa2b706705d51d86a2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220107060000 +0900" stop="20220107080000 +0900" channel="FujiNext.jp">
@@ -1850,7 +1904,7 @@ https//otn.fujitv.co.jp
 <programme start="20220107050000 +0900" stop="20220107060000 +0900" channel="kbsworld.jp">
 <title lang="en">生き生き情報　[字][再]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220107/7254334/image/afcce7e52bdbc281507c22ce88ca83c9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220107060000 +0900" stop="20220107070000 +0900" channel="kbsworld.jp">
