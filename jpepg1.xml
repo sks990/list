@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220108055000 +0900" stop="20220108060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220108060000 +0900" stop="20220108063000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">▼オミクロン株・感染拡大　３県にまん延防止措置へ▼大横綱大鵬の孫・王鵬が新入幕！あすから初場所に挑む▼「理系離れ」を食い止めたい！高校生が開くユニーク実験教室</desc>
-  </programme>
   <programme start="20220108063000 +0900" stop="20220108070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼「市役所ちゃんねる」で動画配信！学校の消毒も　学生パワーで町を支える▼夢はデザイナー　がん患うベトナムの少女が挑む絵画コンテスト</desc>
@@ -334,21 +326,29 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220108055500 +0900" stop="20220108062500 +0900" channel="eTele.jp">
-    <title lang="en">猫のしっぽ カエルの手</title>
-    <desc lang="en">朝のめい想を楽しんだベニシアさんは、お散歩がてらお気に入りのカフェへ。その後友人の編集者で野草に詳しい藤井さんと自宅の庭で食べられる野草探し。摘み菜でピザを焼く</desc>
+  <programme start="20220109061000 +0900" stop="20220109064000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">目撃!にっぽん</title>
+    <desc lang="en">待望のアンコール放送！被害総額１兆円の「オーナー商法」が法改正で原則禁止となった。その陰の立役者はかつて被害にあった７１歳の男性。闘い続けた半世紀を見つめる</desc>
   </programme>
-  <programme start="20220108062500 +0900" stop="20220108063500 +0900" channel="eTele.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、幅しげみ、原川愛、吉江晴菜、今井菜津美、新井庸太、石川裕平</desc>
+  <programme start="20220109064000 +0900" stop="20220109065000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">10分で巡る にっぽんの廃線</title>
+    <desc lang="en">「１０分で巡る　にっぽんの廃線」、中国四国編。大社線、西大寺鉄道、下津井電鉄、三江線、宇品線、尾道鉄道、小松島線、可部線（一部区間）など、９路線を紹介します。</desc>
   </programme>
-  <programme start="20220108063500 +0900" stop="20220108064500 +0900" channel="eTele.jp">
-    <title lang="en">リトル・チャロ</title>
-    <desc lang="en">感動の英語アニメ「リトル・チャロ」を１０分に再編集して放送。恩人のトモコの映画に出演するため、再びニューヨークに戻った子犬のチャロの活躍を描く▽声斎藤アリーナ</desc>
+  <programme start="20220109065000 +0900" stop="20220109065300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK関東甲信越地方放送番組審議会</title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220108064500 +0900" stop="20220108065500 +0900" channel="eTele.jp">
-    <title lang="en">えいごであそぼ with Orton</title>
-    <desc lang="en">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+  <programme start="20220109065300 +0900" stop="20220109065500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220109065500 +0900" stop="20220109070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220109070000 +0900" stop="20220109074000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、日曜の名物・南さんの気象解説！</desc>
   </programme>
   <programme start="20220108065500 +0900" stop="20220108070000 +0900" channel="eTele.jp">
     <title lang="en">あそビーバー</title>
@@ -562,6 +562,18 @@
     <title lang="en">NHK短歌</title>
     <desc lang="en">選者田村元、ゲスト平野ノラ（お笑いタレント）、テーマ「肴（さかな）」。エレベーターと名付けられた肴が登場。どんな料理？出演者がその肴の写真で作歌チャレンジ。</desc>
   </programme>
+  <programme start="20220109062500 +0900" stop="20220109063500 +0900" channel="eTele.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">多胡肇、細貝柊、舘野伶奈、矢作あかり、戸塚寛子、新井庸太、杉井勇介</desc>
+  </programme>
+  <programme start="20220109063500 +0900" stop="20220109070000 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">選者は片山由美子さん。ゲストはフェンシング男子エペ日本代表の加納虹輝さん。題は探梅。東京オリンピックで金メダルを獲得した加納さん。梅には思い出があるという。</desc>
+  </programme>
+  <programme start="20220109070000 +0900" stop="20220109070900 +0900" channel="eTele.jp">
+    <title lang="en">わらたまドッカ〜ン</title>
+    <desc lang="en">漫才の大舞台で２度優勝を経験しているパンクブーブーと、孤高の芸人・とにかく明るい安村の対戦！今回も９人の子どもがＶＴＲでネタを見て判定。ドッカンと笑わせるのは？</desc>
+  </programme>
   <programme start="20220108053000 +0900" stop="20220108080000 +0900" channel="NipponTV.jp">
     <title lang="en">ズームイン!!サタデー</title>
     <desc lang="en">▽東京922人が感染…3県に“まん延防止”▽邦楽ナンバーワン曲・優里“ドライフラワー”街声▽かわいすぎる“ミニ獅童”▽Ｇ坂本語る今年の“意外な抱負”▽全国生中継</desc>
@@ -716,10 +728,18 @@
     <title lang="en">日テレアップDate!</title>
     <desc lang="en">日本テレビの「今」を様々に発信します。</desc>
   </programme>
-<programme start="20220108055000 +0900" stop="20220108060000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20220109061500 +0900" stop="20220109063000 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNニュース・サンデー</title>
+    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  </programme>
+  <programme start="20220109063000 +0900" stop="20220109070000 +0900" channel="NipponTV.jp">
+    <title lang="en">遠くへ行きたい</title>
+    <desc lang="en">今回は初登場の松下奈緒が異国情緒あふれる長崎へ▽出島であの名探偵に遭遇！？▽“食べる”ミルクセーキ▽焼きたて極上カステラ▽伝統のオランダ料理▽眼鏡橋の㊙スポット</desc>
+  </programme>
+  <programme start="20220109070000 +0900" stop="20220109073000 +0900" channel="NipponTV.jp">
+    <title lang="en">所さんの目がテン!</title>
+    <desc lang="en">かがくの里に協力してくれている各プロジェクトの科学者たちが一堂に会して座談会を実施！▽かがくの里が豊かな里山へと生まれ変わっていく足かけ８年の様子を一挙大公開！</desc>
+  </programme>
 <programme start="20220108060000 +0900" stop="20220108080000 +0900" channel="Asahi.jp">
   <title lang="en">週刊ニュースリーダー</title>
   <desc lang="en">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
@@ -1012,13 +1032,13 @@
   <title lang="en">バナナマンの早起きせっかくグルメ</title>
   <desc lang="en">２０２２年初放送は大盤振る舞い！これまで番組で紹介した全国の絶品グルメの数々をどこよりも遅いお年玉プレゼント★設楽さんが番組にまつわる㊙スポットに聖地巡礼！</desc>
 </programme>
-<programme start="20220108053000 +0900" stop="20220108060000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あさモヤさまぁ〜ず2</title>
-  <desc lang="en">山田を歩いていると遊具がある神社を発見。急なすべり台があったので三村が滑ってみる事に。すると三村はあまり耳なじみのない言葉を口にし、現場を騒然とさせる…</desc>
+<programme start="20220109064500 +0900" stop="20220109070000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20220108060000 +0900" stop="20220108065400 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
+<programme start="20220109070000 +0900" stop="20220109073000 +0900" channel="TBS2.jp">
+  <title lang="en">健康カプセル!ゲンキの時間</title>
+  <desc lang="en">高血圧の人は非常に多く、推定４３００万人にものぼるとか。今回は、今日からできる高血圧対策をご紹介していきます。高血圧予防につながるマル秘体操も必見です！</desc>
 </programme>
 <programme start="20220108065400 +0900" stop="20220108070000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1206,9 +1226,13 @@ TOKIO松岡・博多大吉と新年会で語り尽くす！</desc>
   <title lang="en"></title>
   <desc lang="en">日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。</desc>
 </programme>
-<programme start="20220108053000 +0900" stop="20220108060000 +0900" channel="FujiTV.jp">
-  <title lang="en">週刊フジテレビ批評</title>
-  <desc lang="en">フジテレビ金光社長に若者研究の第一人者・原田曜平氏が問う！「配信時代に突入！２０２２年のフジテレビは？」海外配信事業者との関係は？女性視聴者獲得のカギは？</desc>
+<programme start="20220109065400 +0900" stop="20220109070000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">毎週木曜放送「有吉の世界同時中継〜今、そっちってどうなってますか？〜」の見どころをご紹介します。</desc>
+</programme>
+<programme start="20220109070000 +0900" stop="20220109073000 +0900" channel="TVTokyo.jp">
+  <title lang="en">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+  <desc lang="en">謎の忍に襲われチョウチョウが負傷、モズクの荷物が奪われた。シカダイは危険と判断し一旦里に引き返すことを決断。しかしカワキはその命令を無視して謎の忍の後を追う。</desc>
 </programme>
 <programme start="20220108060000 +0900" stop="20220108083000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましどようび</title>
@@ -1343,13 +1367,18 @@ TOKIO松岡・博多大吉と新年会で語り尽くす！</desc>
   <title lang="en">FNNニュース</title>
   <desc lang="en">日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。</desc>
 </programme>
-<programme start="20220108053000 +0900" stop="20220108060000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220109061500 +0900" stop="20220109063000 +0900" channel="FujiTV.jp">
+  <title lang="en">GO!GO!チャギントン</title>
+  <desc lang="en">世界で大人気の鉄道ＣＧアニメ「チャギントン」！ナビゲーターつるの剛士・佐久間みなみアナ　他▽声小林由美子　他▽＃４８９「ココとブースター」</desc>
 </programme>
-<programme start="20220108060000 +0900" stop="20220108063000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220109063000 +0900" stop="20220109070000 +0900" channel="FujiTV.jp">
+  <title lang="en">はやく起きた朝は…</title>
+  <desc lang="en">同じ夢を何度も見ることありませんか？▽息子の既読スルーにモヤモヤ▽将来の夢と女性専用車両▽夫婦円満のヒケツ▽平和が一番！
+〈出演〉松居直美　磯野貴理子　森尾由美</desc>
+</programme>
+<programme start="20220109070000 +0900" stop="20220109073000 +0900" channel="FujiTV.jp">
+  <title lang="en">ボクらの時代</title>
+  <desc lang="en">空気階段・鈴木もぐら×ニューヨーク・嶋佐和也×鬼越トマホーク・坂井良多</desc>
 </programme>
 <programme start="20220108063000 +0900" stop="20220108070000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1563,6 +1592,14 @@ TOKIO松岡・博多大吉と新年会で語り尽くす！</desc>
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220109063000 +0900" stop="20220109070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220109070000 +0900" stop="20220109073000 +0900" channel="Tokyo MX">
+  <title lang="en">TAKARAZUKA CAFEBREAK</title>
+  <desc lang="en">東京宝塚劇場星組公演「柳生忍法帖」「モアー・ダンディズム！」に出演！男役の天飛華音さんがご来店！</desc>
+</programme>
 <programme start="20220108000000 +0900" stop="20220108013000 +0900" channel="FujiNext.jp">
 <title lang="en">実話怪談倶楽部　The LIVE！ 〜第四十怪〜　40</title>
 <desc>＜主宰＞兵動大樹
@@ -1614,7 +1651,7 @@ TOKIO松岡・博多大吉と新年会で語り尽くす！</desc>
 <title lang="en">SKY EYE 〜空からのメッセージ〜　8「長崎編」</title>
 <desc>日本各地の魅力をこれまでにない空からの視点でご紹介する、ANA機内で上映されているオリジナル番組を放送。
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220108/7292382/image/be689f7ef0632fe1d9cd3dee8ddd3190.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220108070000 +0900" stop="20220108085000 +0900" channel="FujiNext.jp">
@@ -1920,7 +1957,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220108/7292486/image/d8c40200ab18fa1727d06711f74b5874.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220108070000 +0900" stop="20220108080000 +0900" channel="FujiTwo.jp">
@@ -2150,7 +2187,7 @@ https//otn.fujitv.co.jp
 <programme start="20220108060000 +0900" stop="20220108070000 +0900" channel="kbsworld.jp">
 <title lang="en">歌謡舞台　[字]</title>
 <desc>１９８５年から２０年以上続いてきた長寿番組。郷愁が漂う想い出深い伝統歌謡、ブラウン管を離れた歌手の全盛期を再現、昔ながらの姿が見られる唯一の音楽番組。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220108/7254357/image/6a20947b9174fce78ab9c31d3e76a6f3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220108070000 +0900" stop="20220108073000 +0900" channel="kbsworld.jp">
