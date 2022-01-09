@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220109121500 +0900" stop="20220109130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKのど自慢</title>
-    <desc lang="en">熊本県熊本市から放送▽ゲストは石川さゆり、前川清▽司会小田切千アナウンサー／　鐘秋山気清▽歌で思いを届ける！予選で選ばれた皆さんによる熱唱・熱演</desc>
-  </programme>
-  <programme start="20220109130000 +0900" stop="20220109130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220109130500 +0900" stop="20220109150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">第58回全国大学ラグビー選手権</title>
     <desc lang="en">大学日本一はどちらか！今季負けなし、９連覇以来の復活Ｖなるか「帝京」。対抗戦３位から頂点をねらう「明治」。帝京への雪辱を果たせるか！前評判は互角、注目の生中継！</desc>
@@ -334,6 +326,10 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
+  <programme start="20220110130500 +0900" stop="20220110150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">スパイの妻</title>
+    <desc lang="en">第７７回ベネチア国際映画祭で黒沢清監督が銀獅子賞を受賞した話題作を地上波初放送！戦争という時代のうねりに翻弄されながらも自らの信念と愛を貫く女性を蒼井優が熱演！</desc>
+  </programme>
   <programme start="20220109123000 +0900" stop="20220109140000 +0900" channel="eTele.jp">
     <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
     <desc lang="en">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。３回戦第６局は許家元十段と高尾紳路九段の対戦。</desc>
@@ -562,9 +558,21 @@
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】工藤咲子</desc>
   </programme>
-  <programme start="20220109124500 +0900" stop="20220109130000 +0900" channel="NipponTV.jp">
-    <title lang="en">笑神様は突然に…</title>
-    <desc lang="en">今夜７時５８分の新春ＳＰの前に、千鳥の名場面集をプレイバック！２０１３年の初登場シーンでは、大悟のふるさと・北木島への里帰り！大悟が笑神様でガチお引越し！</desc>
+  <programme start="20220110130500 +0900" stop="20220110133500 +0900" channel="eTele.jp">
+    <title lang="en">ハートネットTV</title>
+    <desc lang="en">「認知症とともに生きるまち大賞」の受賞団体が決定！ユニークな活動をもとにオンラインフォーラムを開催。認知症になっても安心して暮らせるまちづくりについて語り合う</desc>
+  </programme>
+  <programme start="20220110133500 +0900" stop="20220110135000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">世界中で導入が進む漢方薬や鍼灸（しんきゅう）、太極拳などの「東洋医学」。４日目は、最新の研究で明らかになった太極拳の健康効果について詳しく解説する。</desc>
+  </programme>
+  <programme start="20220110135000 +0900" stop="20220110140000 +0900" channel="eTele.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「高校生裁判員時代の法教育」今井秀智（弁護士）</desc>
+  </programme>
+  <programme start="20220110140000 +0900" stop="20220110141000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 ベーシック数学</title>
+    <desc lang="en">今回のテーマは「確率」です。確率はどうやって求めるのでしょうか。キーワードは「事象」です。パパっとマスターしちゃいましょう。</desc>
   </programme>
   <programme start="20220109130000 +0900" stop="20220109145500 +0900" channel="NipponTV.jp">
     <title lang="en">超プロ野球 ULTRA</title>
@@ -707,15 +715,14 @@
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">▼新成人おめでとう‼久保建英＆めるる＆加藤清史郎！M1王者錦鯉＆ミルクボーイのお祝いネタ＆生歌も‼▼フワちゃんを㊙スタイルに大改造！▼ニコル埼玉愛爆発</desc>
   </programme>
-<programme start="20220109125500 +0900" stop="20220109132500 +0900" channel="Asahi.jp">
-  <title lang="en">新婚さんいらっしゃい!</title>
-  <desc lang="en">▽神奈川県・小俣夫妻…愛妻のため！夫が男気全開！２１歳年の差婚カップル！
-▽愛知県・植田夫妻…浮気に関して珍妙な自論を展開する夫は誠実？もしくはバカ正直？</desc>
-</programme>
-<programme start="20220109132500 +0900" stop="20220109135500 +0900" channel="Asahi.jp">
-  <title lang="en">あなたの代わりに見てきます!リア突WEST</title>
-  <desc lang="en">重岡＆桐山が石垣島へ！洞窟ロケを終えたばかりの二人を早朝４時に叩き起こし、次なるロケへ！山頂にしか生息しない伝説のアリ探し…撮影に成功すれば世界初らしい⁉</desc>
-</programme>
+  <programme start="20220110135500 +0900" stop="20220110140000 +0900" channel="NipponTV.jp">
+    <title lang="en">第100回全国高校サッカー選手権大会</title>
+    <desc lang="en">高校サッカー日本一へ！決勝の舞台へ選手達が入場</desc>
+  </programme>
+  <programme start="20220110140000 +0900" stop="20220110161000 +0900" channel="NipponTV.jp">
+    <title lang="en">第100回全国高校サッカー選手権大会</title>
+    <desc lang="en">高校サッカー日本一が決まる決勝戦を生中継！　大津（熊本）×　青森山田（青森）※最大延長35分</desc>
+  </programme>
 <programme start="20220109135500 +0900" stop="20220109152000 +0900" channel="Asahi.jp">
   <title lang="en">家事ヤロウ!!!</title>
   <desc lang="en">バカリズム・中丸雄一・カズレーザーの家事初心者３人が家事をゼロから学ぶドキュメントバラエティー！家事の基礎を狭く・ユルく・深く学んでいく！</desc>
@@ -827,17 +834,22 @@
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜８歳と１０歳！父の誕生日は手料理でお祝い〜中村勘太郎さん＆中村長三郎さん兄弟が今日のゲストです。</desc>
 </programme>
-<programme start="20220109125400 +0900" stop="20220109130000 +0900" channel="TBS2.jp">
-  <title lang="en">dai-docoro☆ベジタ</title>
-  <desc lang="en">白菜のビタミンＣ×鶏肉のたんぱく質やコラーゲンが加わると美肌効果が期待♪★白菜＆チーズはカルシウムの相乗効果が！★レモンの皮をトッピングして、香りが爽やかに〜〜</desc>
+<programme start="20220110133000 +0900" stop="20220110134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理は、冬らしい組み合わせが美味しい汁物</desc>
 </programme>
-<programme start="20220109130000 +0900" stop="20220109133000 +0900" channel="TBS2.jp">
-  <title lang="en">それSnow Manにやらせて下さい</title>
-  <desc lang="en">斎藤工、志願の対決企画…M-1王者へのドッキリ…ROLAND直伝のオレ様名言…実は色々な事をしていたけど、尺の都合で泣く泣くカットされた未公開シーンを大発表！</desc>
+<programme start="20220110134500 +0900" stop="20220110134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">東京の伝統工芸品・江戸指物は、金属の釘を使わず、接合部の加工だけで板を組み合わせて作られています。隙間なく組み立てられているので、空気の逃げ場すらありません。</desc>
 </programme>
-<programme start="20220109133000 +0900" stop="20220109135700 +0900" channel="TBS2.jp">
-  <title lang="en">ラフクライ</title>
-  <desc lang="en">🈖🈑天国か地獄か？お笑いショートネタの真剣勝負！ビリ４位は地上波放送ナシのサバイバル！オードリー春日＆空気階段＆男性ブランコ爆笑ショートネタで金銀銅メダル目指す</desc>
+<programme start="20220110134900 +0900" stop="20220110135400 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220110135400 +0900" stop="20220110154800 +0900" channel="Asahi.jp">
+  <title lang="en">おかしな刑事8</title>
+  <desc lang="en">「居眠り刑事とエリート警視の父娘捜査！東京タワーは見ていた！消えた少女の秘密・血痕が描く謎のルート！」伊東四朗、羽田美智子(他)▽会社社長が刺される事件が発生し…</desc>
 </programme>
 <programme start="20220109135700 +0900" stop="20220109140000 +0900" channel="TBS2.jp">
   <title lang="en">四季折々の贈り物</title>
@@ -927,6 +939,10 @@
 <programme start="20220110102500 +0900" stop="20220110135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
+</programme>
+<programme start="20220110135500 +0900" stop="20220110145500 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
 <programme start="20220109125400 +0900" stop="20220109140000 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -1083,9 +1099,9 @@
   <title lang="en">沖縄段取りしました!</title>
   <desc lang="en">段取りさせたら日本一のプロアルバイター西尾一男が「沖縄で海外旅行気分」をテーマで段取り！ずん飯尾＆TKO木本＆はいだしょうこを沖縄でおもてなし！抱腹絶倒の１時間！</desc>
 </programme>
-<programme start="20220109120000 +0900" stop="20220109133000 +0900" channel="FujiTV.jp">
-  <title lang="en">なりゆき街道旅</title>
-  <desc lang="en">今年最初のなりゆき街道旅は浅草へ！落語家・瀧川鯉斗＆平野ノラと浅草寺で初詣！豪華すき焼き＆絶品お雑煮に舌鼓！人気落語家・瀧川の衝撃デビュー秘話も！</desc>
+<programme start="20220110135500 +0900" stop="20220110150000 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
+  <desc lang="en">あなたのご飯見せて下さい▽栃木県大田原市…農家さん直撃！アスパラ＆ニラ絶品料理▽東京都品川区…商店街の総菜天国！憧れのアイランドキッチンで作り置きランチ</desc>
 </programme>
 <programme start="20220109133000 +0900" stop="20220109145500 +0900" channel="FujiTV.jp">
   <title lang="en">第74回全日本バレーボール高等学校選手権大会(春の高校バレー)</title>
@@ -1197,14 +1213,6 @@
 <programme start="20220110115500 +0900" stop="20220110144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
-</programme>
-<programme start="20220109125500 +0900" stop="20220109130000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20220109130000 +0900" stop="20220109133000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220109133000 +0900" stop="20220109140000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1381,6 +1389,14 @@
 <programme start="20220110130000 +0900" stop="20220110135500 +0900" channel="Tokyo MX">
   <title lang="en">知ってるワイフ</title>
   <desc lang="en">チソン×ハン・ジミン共演！もしもあのときに戻れるなら…私の人生たった一度の“if”</desc>
+</programme>
+<programme start="20220110135500 +0900" stop="20220110140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220110140000 +0900" stop="20220110143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220108210000 +0900" stop="20220109010000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ デビュー25周年 SPECIAL LIVE</title>
@@ -1615,7 +1631,7 @@
 <programme start="20220109130000 +0900" stop="20220109140000 +0900" channel="FujiOne.jp">
 <title lang="en">ゲームセンターCX　311　ついに…「美少女戦士セーラームーン」</title>
 <desc>スーパーファミコンソフト「美少女戦士セーラームーン」に挑戦！▽たまゲー傑作選は「石神井公園駅前センター」▽木曜オープニングだけ劇場▽1994SFC
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220109/7292450/image/fbcdbe555a028225cd8068511996960b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220109140000 +0900" stop="20220109145000 +0900" channel="FujiOne.jp">
