@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220109193000 +0900" stop="20220109200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">秘蔵映像一挙蔵出し！猛獣界最強とされる驚異の身体能力を徹底分析。さらに「色」の秘密から、日本人に熱狂的に愛される理由まで、知られざるトラの不思議を大研究する。</desc>
-  </programme>
   <programme start="20220109200000 +0900" stop="20220109210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">鎌倉殿の13人</title>
     <desc lang="en">１１７５年、平清盛（松平健）が君臨する日本。伊豆では北条義時（小栗旬）がのんびり暮らしていた。しかし、源頼朝（大泉洋）が八重（新垣結衣）と恋仲になり状況は一変し</desc>
@@ -326,9 +322,21 @@
     <title lang="en">東洋医学ホントのチカラ</title>
     <desc lang="en">肩こりや腰痛など「慢性痛」の最新治療。さらに、生理痛や更年期症状など「女性のお悩み」の解決に役立つセルフケアなど「体が整う」メソッドの数々をたっぷり紹介します！</desc>
   </programme>
-  <programme start="20220109195500 +0900" stop="20220109200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】赤堀仁美</desc>
+  <programme start="20220110204300 +0900" stop="20220110205300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">突撃!ストリートシェフ @東京</title>
+    <desc lang="en">胃袋から、世界を知り尽くすグルメドキュメンタリー。舞台は、東京上野のアメ横。この街で人気のお店を築き上げた中国人シェフが登場する。珍しい本場の中国料理は必見！</desc>
+  </programme>
+  <programme start="20220110205300 +0900" stop="20220110205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">２０２２年１月スタートのＮＨＫドラマをまとめて紹介。ドラマ１０「しもべえ」、土曜ドラマ「わげもん」、大河ドラマ「鎌倉殿の１３人」、よるドラ「恋せぬふたり」</desc>
+  </programme>
+  <programme start="20220110205500 +0900" stop="20220110210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220110210000 +0900" stop="20220110220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽感染急拡大最新情報▽オミクロン株わかっていることは？感染制御の専門家に聞く▽成人の日被災と向き合う</desc>
   </programme>
   <programme start="20220109200000 +0900" stop="20220109210000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館</title>
@@ -618,6 +626,26 @@
     <title lang="en">ハートネットTV</title>
     <desc lang="en">福祉の知識がイチから学べる新企画！最初のテーマは「視覚障害」。当事者の日常から知られざる歴史まで！知っているようで知らない奥深い世界を風間俊介さんと学びます。</desc>
   </programme>
+  <programme start="20220110203000 +0900" stop="20220110204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">「尿漏れ」は男女問わず誰にでも起こりうるもの。最近進化の著しい尿漏れグッズや自身の排尿について記録する排尿日誌など、安心して外出できる対策を詳しくお伝えする。</desc>
+  </programme>
+  <programme start="20220110204500 +0900" stop="20220110205200 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">【キャスター】赤堀仁美</desc>
+  </programme>
+  <programme start="20220110205200 +0900" stop="20220110205700 +0900" channel="eTele.jp">
+    <title lang="en">ワンポイント手話</title>
+    <desc lang="en">初歩的な手話の単語を２５回に分けて紹介します。最終的には手話で簡単な自己紹介をできるのが目標です。読書、俳句など、趣味を表す手話を学習します</desc>
+  </programme>
+  <programme start="20220110205700 +0900" stop="20220110210000 +0900" channel="eTele.jp">
+    <title lang="en">わたしはパパゲーノ〜死にたい、でも、生きてる人の物語〜</title>
+    <desc lang="en">一度は死のうとしたが思いとどまった、オペラ『魔笛』の登場人物“パパゲーノ”。これは「死にたい」けれども「生きてる」人の物語。今回は、小林美穂子（５３）の場合。</desc>
+  </programme>
+  <programme start="20220110210000 +0900" stop="20220110212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">寒い冬、心も体も温まる料理ですこやかに！人気料理研究家のワタナベマキさんが、冬こそ味わってほしいというお気に入りの「蒸し料理」と「乾物使い」を紹介します。</desc>
+  </programme>
   <programme start="20220109195800 +0900" stop="20220109215400 +0900" channel="NipponTV.jp">
     <title lang="en">笑神様は突然に…</title>
     <desc lang="en">▽橋本環奈と上白石萌音が笑神降ろしに大奮闘▽千鳥Ｍ－１王者・錦鯉…待望ロケ競演▽クズＢＩＧ４と行く金沢１０万円旅▽スーパーサラリーマンにジェシー参戦！</desc>
@@ -738,10 +766,10 @@
     <title lang="en">世界まる見え!テレビ特捜部</title>
     <desc lang="en">戦慄映像カウントダウン＆マヌケ動物連発▽地球を救った旧ソ連の2人の宇宙飛行士！地球に落下するかもしれない宇宙ステーションを命がけドッキング作戦！高畑＆成田も感動</desc>
   </programme>
-<programme start="20220109195800 +0900" stop="20220109205600 +0900" channel="Asahi.jp">
-  <title lang="en">ポツンと一軒家</title>
-  <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
-</programme>
+  <programme start="20220110210000 +0900" stop="20220110225400 +0900" channel="NipponTV.jp">
+    <title lang="en">人生が変わる1分間の深イイ話</title>
+    <desc lang="en">激闘！箱根駅伝実況アナの舞台裏に完全密着▼海上自衛隊の最高機密…潜水艦に潜入▼大スター加藤茶４５歳差夫婦に密着！伝説ドリフが武道館ライブ▼羽鳥激レア海に潜る！</desc>
+  </programme>
 <programme start="20220109205600 +0900" stop="20220109210000 +0900" channel="Asahi.jp">
   <title lang="en">食ノ音色</title>
   <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
@@ -918,6 +946,10 @@
 <programme start="20220110190000 +0900" stop="20220110210000 +0900" channel="TBS2.jp">
   <title lang="en">さんま・玉緒のお年玉!あんたの夢をかなえたろかスペシャル</title>
   <desc lang="en">🈑NiziU×宇宙一のファン８才少女☆尾田栄一郎が手がけた感動の夢×天才外国人☆憧れの落とし穴×ドッキリ大好き女性☆Snow Man×岩手の純朴少年！超絶ダンス</desc>
+</programme>
+<programme start="20220110210000 +0900" stop="20220110225700 +0900" channel="TBS2.jp">
+  <title lang="en">呪術廻戦</title>
+  <desc lang="en">🈑３人の男が似た状況で死亡…呪霊による事件かと虎杖、伏黒、釘崎が調査に派遣される。行きついた伏黒の母校…受肉した呪胎九相図には兄弟の絆があり…見逃せない一挙放送</desc>
 </programme>
 <programme start="20220109183000 +0900" stop="20220109210000 +0900" channel="TVTokyo.jp">
   <title lang="en">巨大マグロ戦争2022</title>
@@ -1165,9 +1197,9 @@
   <title lang="en">ネプリーグ</title>
   <desc lang="en">菅田将暉、浜辺美波ら豪華ドラマ俳優陣が常識クイズ対決！「お正月の楽しみと言えば？」人気俳優陣が世間の感覚に頭を抱える！？▼ｄボタンで極上毛ガニ当たる！</desc>
 </programme>
-<programme start="20220109190000 +0900" stop="20220109203000 +0900" channel="Tokyo MX">
-  <title lang="en">堀潤モーニングFLAGスピンオフ技能五輪全国大会SP</title>
-  <desc lang="en">２３歳以下の若き技能者達が己のスキルを全力でぶつけ合いその頂点を決める国内唯一の技能大会「技能五輪全国大会」、第５９回の今回は東京で開催！若者の本気を刮目せよ！</desc>
+<programme start="20220110210000 +0900" stop="20220110222400 +0900" channel="FujiTV.jp">
+  <title lang="en">ミステリと言う勿れ</title>
+  <desc lang="en">菅田将暉主演！天然パーマで変わり者の大学生・久能整がただただ喋りまくるうちに事件の謎も人の心も解きほぐす新感覚ミステリー！彼の言葉は屁理屈か、哲学か。</desc>
 </programme>
 <programme start="20220109203000 +0900" stop="20220109210000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1354,6 +1386,10 @@
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">ｎｅｗｓ　ＴＯＫＹＯ　ＦＬＡＧ×バラいろダンディコラボＳＰ！ふかわ＆大島＆武井壮がスタジオに！▼コロナ禍の成人式▼新型コロナ最新情報は…？▼今週天気は？敷波さん</desc>
 </programme>
+<programme start="20220110210000 +0900" stop="20220110215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">バラいろダンディコラボＳＰ▼武井×平井×青山×鈴木激論！月曜は「ビジネス・マネー」をテーマにお届け。いま知るべき世の中の話題をトーク＆今年の経済動向を大予想！</desc>
+</programme>
 <programme start="20220108210000 +0900" stop="20220109010000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ デビュー25周年 SPECIAL LIVE</title>
 <desc>2014年1月11日、さいたまスーパーアリーナでのエレファントカシマシ デビュー25周年記念 SPECIAL LIVE、全37曲の4時間に及ぶステージを放送！
@@ -1462,7 +1498,7 @@
 <programme start="20220109200000 +0900" stop="20220109210000 +0900" channel="FujiNext.jp">
 <title lang="en">『僕らの音楽』presents 武部聡志 ピアノデイズ　後篇</title>
 <desc>一青窈・和田彩花・あいらもえか・新浜レオン・Ms.OOJA・森保まどか・清水翔太・大黒摩季が武部聡志音楽監督のピアノ1本で歌う後篇！プロデュース・MCクレイ勇輝
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220109/7292407/image/dcd9ff97aa8c6c270495e1eb077f9ced.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220109210000 +0900" stop="20220110003000 +0900" channel="FujiNext.jp">
