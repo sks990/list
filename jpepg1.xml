@@ -58,18 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220109200000 +0900" stop="20220109210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">鎌倉殿の13人</title>
-    <desc lang="en">１１７５年、平清盛（松平健）が君臨する日本。伊豆では北条義時（小栗旬）がのんびり暮らしていた。しかし、源頼朝（大泉洋）が八重（新垣結衣）と恋仲になり状況は一変し</desc>
-  </programme>
-  <programme start="20220109210000 +0900" stop="20220109211000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220109211000 +0900" stop="20220109211500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220109211500 +0900" stop="20220109220500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">突如真っ白に染まる海、海原に突如現れる謎の大渦。北海道の海で今、謎に満ちた「幻の絶景」が次々と目撃され始めている。一体何が起きているのか？徹底取材で真相に迫る。</desc>
@@ -338,9 +326,9 @@
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽感染急拡大最新情報▽オミクロン株わかっていることは？感染制御の専門家に聞く▽成人の日被災と向き合う</desc>
   </programme>
-  <programme start="20220109200000 +0900" stop="20220109210000 +0900" channel="eTele.jp">
-    <title lang="en">日曜美術館</title>
-    <desc lang="en">「再生」の２０２２年、出会えるアートは？絶対見逃せない展覧会から熱狂の祝祭まで紹介。出演小野正嗣　水原希子　原田マハ　橋本愛　永山瑛太　菅原小春　荒木飛呂彦他</desc>
+  <programme start="20220110220000 +0900" stop="20220110224500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">落合陽一と考える コロナシフトで変わる日本のものづくり</title>
+    <desc lang="en">コロナ禍が浮き彫りにした日本の課題のひとつが弱くなったイノベーションの力をどうするかだ。中国のユニコーン企業、日本の巨大企業の挑戦を追い、落合陽一さんと考える。</desc>
   </programme>
   <programme start="20220109210000 +0900" stop="20220109230000 +0900" channel="eTele.jp">
     <title lang="en">クラシック音楽館</title>
@@ -646,13 +634,21 @@
     <title lang="en">きょうの料理</title>
     <desc lang="en">寒い冬、心も体も温まる料理ですこやかに！人気料理研究家のワタナベマキさんが、冬こそ味わってほしいというお気に入りの「蒸し料理」と「乾物使い」を紹介します。</desc>
   </programme>
-  <programme start="20220109195800 +0900" stop="20220109215400 +0900" channel="NipponTV.jp">
-    <title lang="en">笑神様は突然に…</title>
-    <desc lang="en">▽橋本環奈と上白石萌音が笑神降ろしに大奮闘▽千鳥Ｍ－１王者・錦鯉…待望ロケ競演▽クズＢＩＧ４と行く金沢１０万円旅▽スーパーサラリーマンにジェシー参戦！</desc>
+  <programme start="20220110212500 +0900" stop="20220110213000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理ビギナーズ</title>
+    <desc lang="en">かぶは火が通りやすいのでビギナー向きの野菜。薄めのくし形にし、鶏むね肉と一緒にカレー味の炒めものに。また小さく切ったかぶは、ご飯とチーズと一緒に炊いておかゆに。</desc>
   </programme>
-  <programme start="20220109215400 +0900" stop="20220109215700 +0900" channel="NipponTV.jp">
-    <title lang="en">音のソノリティ</title>
-    <desc lang="en">環境で変化する自然や天然の音、各地に根付く情緒溢れる文化の音、地球や生命の息遣いや生物の奏でる音楽など、様々なサウンドの世界を紹介。音の原風景を届けます。</desc>
+  <programme start="20220110213000 +0900" stop="20220110215500 +0900" channel="eTele.jp">
+    <title lang="en">趣味どきっ!</title>
+    <desc lang="en">着物は特別な日だけ…タンスに眠ったままだったりそもそも着たことがないというあなたへ！自分流着物の楽しみ方をお届け！東京・日本橋にある老舗百貨店本店女将が登場！</desc>
+  </programme>
+  <programme start="20220110215500 +0900" stop="20220110220000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">お風呂でゆったりリラックスしながら簡単なトレーニングはいかが？水圧や水の抵抗を利用するので、陸上とは一味違ったトレーニングができます。</desc>
+  </programme>
+  <programme start="20220110220000 +0900" stop="20220110222500 +0900" channel="eTele.jp">
+    <title lang="en">グレーテルのかまど</title>
+    <desc lang="en">長崎県、五島列島で長く愛され続ける、素朴な味わいのかんころ餅。島の歴史を物語る、そのやさしい味わいの物語とは？ヘンゼルも大好きなさつまいもの入ったお餅に挑戦！</desc>
   </programme>
   <programme start="20220109215700 +0900" stop="20220109220000 +0900" channel="NipponTV.jp">
     <title lang="en">120秒のターニング映画(シネマ)</title>
@@ -770,11 +766,6 @@
     <title lang="en">人生が変わる1分間の深イイ話</title>
     <desc lang="en">激闘！箱根駅伝実況アナの舞台裏に完全密着▼海上自衛隊の最高機密…潜水艦に潜入▼大スター加藤茶４５歳差夫婦に密着！伝説ドリフが武道館ライブ▼羽鳥激レア海に潜る！</desc>
   </programme>
-<programme start="20220109205600 +0900" stop="20220109210000 +0900" channel="Asahi.jp">
-  <title lang="en">食ノ音色</title>
-  <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
-今回の“食ノ音色”を奏でる主役は『瓦そば』です。</desc>
-</programme>
 <programme start="20220109210000 +0900" stop="20220109225500 +0900" channel="Asahi.jp">
   <title lang="en">必殺仕事人2022</title>
   <desc lang="en">東山紀之主演の痛快時代劇シリーズ最新作‼15年目という節目で、ゲストに「King  Prince」の岸優太と「なにわ男子」西畑大吾を迎える。2022年も仕事人たちが悪を斬る！</desc>
@@ -872,9 +863,9 @@
   <desc lang="en">①帰れま10…松本潤＆上戸彩が参戦！大人気回転すしチェーン店でベスト10当てろ！
 ②バスサンド…サンド＆アンタの爆笑秘境バス旅！日光東照宮・世界遺産ルート！</desc>
 </programme>
-<programme start="20220109183000 +0900" stop="20220109210000 +0900" channel="TBS2.jp">
-  <title lang="en">坂上指原のつぶれない店</title>
-  <desc lang="en">🈑ぼる塾田辺さん新商品スイーツ開発第４弾！１０年連続赤字…街の古びたケーキ屋を救いたい▼東西肉丼チェーン対決！衝撃にんにく「すた丼」VS500円カルビ丼「韓丼」</desc>
+<programme start="20220110215400 +0900" stop="20220110231000 +0900" channel="Asahi.jp">
+  <title lang="en">報道ステーション</title>
+  <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
 <programme start="20220109210000 +0900" stop="20220109224800 +0900" channel="TBS2.jp">
   <title lang="en">日曜日の初耳学</title>
@@ -950,14 +941,6 @@
 <programme start="20220110210000 +0900" stop="20220110225700 +0900" channel="TBS2.jp">
   <title lang="en">呪術廻戦</title>
   <desc lang="en">🈑３人の男が似た状況で死亡…呪霊による事件かと虎杖、伏黒、釘崎が調査に派遣される。行きついた伏黒の母校…受肉した呪胎九相図には兄弟の絆があり…見逃せない一挙放送</desc>
-</programme>
-<programme start="20220109183000 +0900" stop="20220109210000 +0900" channel="TVTokyo.jp">
-  <title lang="en">巨大マグロ戦争2022</title>
-  <desc lang="en">今年は巨大マグロが釣れまくり！衝撃の爆釣映像の連続！昨年津軽海峡から消えた巨大マグロが大間の海に帰ってきた！コロナ禍で窮地に陥ったマグロ漁師達の逆転劇が始まる！</desc>
-</programme>
-<programme start="20220109210000 +0900" stop="20220109215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">〜夢のオーディションバラエティー〜 Dreamer Z</title>
-  <desc lang="en">スタジオゲストにEXILE　AKIRAが登場！これまでのアーティスト人生を振り返り！▼弾き語りオーディションは三次審査に突入…候補者同士の対戦形式のバトルに！</desc>
 </programme>
 <programme start="20220109215400 +0900" stop="20220109224800 +0900" channel="TVTokyo.jp">
   <title lang="en">有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?</title>
@@ -1109,9 +1092,13 @@
   <title lang="en">3秒聴けば誰でもわかる名曲ベスト100</title>
   <desc lang="en">今だから聴きたい名曲１００曲！世代を越えて愛される歌謡史に輝く名曲が続々登場！！</desc>
 </programme>
-<programme start="20220109190000 +0900" stop="20220109215400 +0900" channel="FujiTV.jp">
-  <title lang="en">ジャンクSPORTS</title>
-  <desc lang="en">大谷翔平昨年の活躍を徹底解剖＆旧友が素顔を告白▽桐生祥秀＆多田修平が爆買い！五輪バトンミス真相▽プロ野球の新星集結！ＭＶＰ村上＆山本が激闘の舞台裏㊙話</desc>
+<programme start="20220110215400 +0900" stop="20220110220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">東京GOOD!</title>
+  <desc lang="en">東京の隠れた魅力を紹介する番組。歴史ある場所、施設、イベントや人など、様々な「GOOD!」と出会います。出会った「GOOD!」は番組公式インスタグラムにも投稿されます。</desc>
+</programme>
+<programme start="20220110220000 +0900" stop="20220110225800 +0900" channel="TVTokyo.jp">
+  <title lang="en">WBS</title>
+  <desc lang="en">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 </programme>
 <programme start="20220109215400 +0900" stop="20220109220000 +0900" channel="FujiTV.jp">
   <title lang="en">1Hセンス</title>
@@ -1200,14 +1187,6 @@
 <programme start="20220110210000 +0900" stop="20220110222400 +0900" channel="FujiTV.jp">
   <title lang="en">ミステリと言う勿れ</title>
   <desc lang="en">菅田将暉主演！天然パーマで変わり者の大学生・久能整がただただ喋りまくるうちに事件の謎も人の心も解きほぐす新感覚ミステリー！彼の言葉は屁理屈か、哲学か。</desc>
-</programme>
-<programme start="20220109203000 +0900" stop="20220109210000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220109210000 +0900" stop="20220109213000 +0900" channel="Tokyo MX">
-  <title lang="en">ぐらぶるTVちゃんねるっ!</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220109213000 +0900" stop="20220109220000 +0900" channel="Tokyo MX">
   <title lang="en">時光代理人 -LINK CLICK-</title>
@@ -1389,6 +1368,14 @@
 <programme start="20220110210000 +0900" stop="20220110215400 +0900" channel="Tokyo MX">
   <title lang="en">バラいろダンディ</title>
   <desc lang="en">バラいろダンディコラボＳＰ▼武井×平井×青山×鈴木激論！月曜は「ビジネス・マネー」をテーマにお届け。いま知るべき世の中の話題をトーク＆今年の経済動向を大予想！</desc>
+</programme>
+<programme start="20220110215400 +0900" stop="20220110220000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220110220000 +0900" stop="20220110223000 +0900" channel="Tokyo MX">
+  <title lang="en">藤田玲のカモマイ -ムチャぶりすごろくバラエティー-</title>
+  <desc lang="en">俳優・アーティスト・バラエティーなどでマルチに活躍し、“ＭＣとしてのムチャぶりにも定評がある”藤田玲がメインＭＣを務める“ムチャぶりすごろくバラエティー”</desc>
 </programme>
 <programme start="20220108210000 +0900" stop="20220109010000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ デビュー25周年 SPECIAL LIVE</title>
@@ -1898,7 +1885,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220109/7292532/image/835ce18533f96c9933f6b904c8a1f5f1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220109220000 +0900" stop="20220110000000 +0900" channel="FujiTwo.jp">
