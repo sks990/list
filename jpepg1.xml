@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220109085700 +0900" stop="20220109090000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220109090000 +0900" stop="20220109103800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">日曜討論</title>
     <desc lang="en">２０２２年政治はどう動くのか、各党党首にインタビュー。オミクロン株感染急拡大への対応は？経済立て直しは？一方で日本外交・安全保障の課題は？今後の政局への対応は？</desc>
@@ -318,9 +314,17 @@
     <title lang="en">平野レミの早わざレシピ! 2022初春</title>
     <desc lang="en">料理愛好家・平野レミが、料理を次々と作るハラハラドキドキの生放送。今回は、冬の食材をふんだんに使った、元気が出るレシピを紹介。どんな意外な料理が飛び出すのか！？</desc>
   </programme>
-  <programme start="20220109085500 +0900" stop="20220109090000 +0900" channel="eTele.jp">
-    <title lang="en">365日の献立日記</title>
-    <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+  <programme start="20220110092500 +0900" stop="20220110095500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">朝ごはんLab.</title>
+    <desc lang="en">井川遥と朝ごはん研究。チーズ職人が実践！みそ汁にチーズで新食感？▽突撃！エチオピア人家族の朝ごはん。ラブラブの秘訣は朝食にあり▽山岳専門の気象予報士のこだわりは</desc>
+  </programme>
+  <programme start="20220110095500 +0900" stop="20220110100000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">１／１０（月・祝）よるドラ「恋せぬふたり」の放送がスタート！放送を前にダブル主演の岸井ゆきのと高橋一生のインタビューやドラマの見どころを紹介する。</desc>
+  </programme>
+  <programme start="20220110100000 +0900" stop="20220110100500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20220109090000 +0900" stop="20220109100000 +0900" channel="eTele.jp">
     <title lang="en">日曜美術館</title>
@@ -522,6 +526,10 @@
     <title lang="en">きかんしゃトーマス</title>
     <desc lang="en">「きかんしゃトーマス」の長い歴史を記念して制作された特別版は、作品のふるさとイギリスが舞台。女王陛下に招かれ、トーマスたちはなんとロンドンへと向かうことに…。</desc>
   </programme>
+  <programme start="20220110092500 +0900" stop="20220110102500 +0900" channel="eTele.jp">
+    <title lang="en">ギョギョッとサカナ★スター</title>
+    <desc lang="en">極寒の北海道の海から産卵場所の川まで。日本人が大好きなサケのフシギな生態を、さかなクンが大調査。ホワイトボードを使った解説でサケの謎をアツく、深く、掘り下げる！</desc>
+  </programme>
   <programme start="20220109073000 +0900" stop="20220109102500 +0900" channel="NipponTV.jp">
     <title lang="en">シューイチ</title>
     <desc lang="en">青学箱根“圧勝のワケ”原監督の育成術▼高校サッカー名場面▼大人気“マカえん”▼海老蔵一家ドライブ＆中山中丸徳島しまなみ自転車旅▼桐生祥秀が東京五輪リレー裏側告白</desc>
@@ -671,17 +679,6 @@
     <title lang="en">スッキリ</title>
     <desc lang="en">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
   </programme>
-<programme start="20220109083000 +0900" stop="20220109090000 +0900" channel="Asahi.jp">
-  <title lang="en">トロピカル〜ジュ!プリキュア</title>
-  <desc lang="en">「わたしの《今、一番 大事なこと》！それは…！」
-メイクでトロピカルチェンジして、やる気全開！
-プリキュアに、学校に、部活に！みんなでトロピカっちゃおー！</desc>
-</programme>
-<programme start="20220109090000 +0900" stop="20220109093000 +0900" channel="Asahi.jp">
-  <title lang="en">仮面ライダーリバイス</title>
-  <desc lang="en">≪仮面ライダーシリーズ生誕５０周年記念作品≫
-しあわせ湯の長男・五十嵐一輝は、体内に住む悪魔・バイスと契約して二人の仮面ライダーに変身！リバイとバイスの大冒険！</desc>
-</programme>
 <programme start="20220109093000 +0900" stop="20220109100000 +0900" channel="Asahi.jp">
   <title lang="en">機界戦隊ゼンカイジャー</title>
   <desc lang="en">１人の人間と４人のロボがすべての世界を守るヒーローになる！その名も機界戦隊ゼンカイジャー！地球に侵略してきた悪のトジテンド王朝を倒せるのか!?みんなで応援しよう！</desc>
@@ -815,9 +812,9 @@
   <title lang="en">羽鳥慎一モーニングショー</title>
   <desc lang="en">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
 </programme>
-<programme start="20220109073000 +0900" stop="20220109095400 +0900" channel="TBS2.jp">
-  <title lang="en">サンデーモーニング</title>
-  <desc lang="en">新春ＳＰ　中国の台頭「引き裂かれる世界」専制主義vs民主主義▽新ご意見番・上原浩治さんが２０２２年に向け「喝！」と「あっぱれ」▽“超音速”オミクロン株・感染爆発</desc>
+<programme start="20220110095500 +0900" stop="20220110102500 +0900" channel="Asahi.jp">
+  <title lang="en">じゅん散歩</title>
+  <desc lang="en">三代目散歩人・高田純次が「虎ノ門」を散策▽祝！成人の日 大人を魅了する逸品探し▽１本１００万円も！人気ガラスペンで一筆▽一流シェフの味を手軽に…斬新「虎サンド」</desc>
 </programme>
 <programme start="20220109095400 +0900" stop="20220109113000 +0900" channel="TBS2.jp">
   <title lang="en">サンデー・ジャポン</title>
@@ -928,14 +925,9 @@
   <title lang="en">ラヴィット!</title>
   <desc lang="en">祝日スペシャルＩＮ横浜！田辺が憧れの人とサプライズ対面で号泣！絶品スイーツに大興奮！▼ロバートが鎌倉＆葉山で３人旅！クルージング！温泉で癒し！絶品グルメを堪能！</desc>
 </programme>
-<programme start="20220109083000 +0900" stop="20220109090000 +0900" channel="TVTokyo.jp">
-  <title lang="en">デュエル・マスターズ キング!</title>
-  <desc lang="en">ジョーとモモキングによって自らの理想の世界が崩れてしまうことに苛立ちを隠せないジェンドル。いつも冷静な姿を見せていたために、ガットルズは戸惑い始めていた…。</desc>
-</programme>
-<programme start="20220109090000 +0900" stop="20220109093000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ビッ友×戦士 キラメキパワーズ!</title>
-  <desc lang="en">大冒険をゲームスタート！ゲームの世界から人間界にきた悪の「マックラ帝国」と戦い、世界の闇を！キラッキラにきらめかせる！
-ガールズ×戦士シリーズ記念すべき第5弾！</desc>
+<programme start="20220110095500 +0900" stop="20220110102500 +0900" channel="TBS2.jp">
+  <title lang="en">Let's!美バディ</title>
+  <desc lang="en">★YouTubeで人気の竹脇まりなが指導★ゲストは芸人マヂカルラブリー★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
 </programme>
 <programme start="20220109093000 +0900" stop="20220109100000 +0900" channel="TVTokyo.jp">
   <title lang="en">マジカパーティ</title>
@@ -1090,13 +1082,9 @@
 心に傷を抱えたヒロインと家族の再生を描く、全世代共感のハートフルドラマ！
 【全６５話　日本語字幕付　二カ国語放送】</desc>
 </programme>
-<programme start="20220109085500 +0900" stop="20220109090000 +0900" channel="FujiTV.jp">
-  <title lang="en">千葉の贈り物〜まごころ配達人〜</title>
-  <desc lang="en">心のこもった“まごころ”で、全国から訪れる方々を迎えたい…そんな思いを込めて、千葉県のスポットとその魅力を支える人たちを紹介します。</desc>
-</programme>
-<programme start="20220109090000 +0900" stop="20220109093000 +0900" channel="FujiTV.jp">
-  <title lang="en">デジモンゴーストゲーム</title>
-  <desc lang="en">［処刑人］街のデジモンたちが、突如飛来するナイフによって殺されるという事件が頻発。宙たちとクロックモンが事件を調べる事になるのだが、、、</desc>
+<programme start="20220110091100 +0900" stop="20220110100500 +0900" channel="TVTokyo.jp">
+  <title lang="en">なないろ日和!</title>
+  <desc lang="en">若々しい顔を取り戻せ！「マスク老け」は頭のコリ解消で対策？顔の筋トレ！家事の合間でもＯＫ！</desc>
 </programme>
 <programme start="20220109093000 +0900" stop="20220109100000 +0900" channel="FujiTV.jp">
   <title lang="en">ワンピース</title>
@@ -1217,13 +1205,9 @@
   <title lang="en">めざまし8</title>
   <desc lang="en">谷原章介＆永島優美と新しい朝を始めよう！目が覚めるような今日一番のニュースを「分かるまで解説」します。天達天気＆生活情報＆エンタメで楽しい朝をお届け！</desc>
 </programme>
-<programme start="20220109083000 +0900" stop="20220109090000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220109090000 +0900" stop="20220109093000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220110095000 +0900" stop="20220110112500 +0900" channel="FujiTV.jp">
+  <title lang="en">ノンストップ!</title>
+  <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
 <programme start="20220109093000 +0900" stop="20220109100000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1398,6 +1382,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220110090000 +0900" stop="20220110090500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220110090500 +0900" stop="20220110093000 +0900" channel="Tokyo MX">
+  <title lang="en">ごりやくさん</title>
+  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４K撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+</programme>
+<programme start="20220110093000 +0900" stop="20220110100000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220110100000 +0900" stop="20220110103000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1606,7 +1602,7 @@
 <programme start="20220109083000 +0900" stop="20220109100000 +0900" channel="FujiOne.jp">
 <title lang="en">武豊ＴＶ！２　125「凱旋門賞プレイバック」</title>
 <desc>ケフェウスS、2歳未勝利、2歳新馬、ヤマボウシ賞、野路菊S、ききょうS、京都大賞典、2歳未勝利▽角田大和騎手から質問▽スプリンターズS、秋華賞▽凱旋門賞　他
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220109/7292446/image/8dcf7095ff3b5878193dfb4316db60ae.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220109100000 +0900" stop="20220109120000 +0900" channel="FujiOne.jp">
