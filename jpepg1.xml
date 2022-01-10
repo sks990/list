@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220111004800 +0900" stop="20220111013000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">あの日、偶然そこにいて</title>
-    <desc lang="en">あの「夢と魔法の国」オープンの日やマイケルの単独初来日。時代を象徴するあの日の映像に映り込んだ人を徹底捜索！その後をたどると驚きと感動の人生が　【語り】小芝風花</desc>
-  </programme>
   <programme start="20220111013000 +0900" stop="20220111021400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">スポーツ×ヒューマン</title>
     <desc lang="en">平成の怪物、松坂大輔が引退した。日本の野球史に残る数々の記録とファンの脳裏に刻んだ鮮明な記憶。ＮＨＫに残る秘蔵映像や当時の関係者の証言を元に、怪物の足跡を追う。</desc>
@@ -301,6 +297,14 @@
   <programme start="20220112002000 +0900" stop="20220112010900 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">突如真っ白に染まる海、海原に突如現れる謎の大渦。北海道の海で今、謎に満ちた「幻の絶景」が次々と目撃され始めている。一体何が起きているのか？徹底取材で真相に迫る。</desc>
+  </programme>
+  <programme start="20220112010900 +0900" stop="20220112015400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">しもべえ</title>
+    <desc lang="en">謎のおじさんと女子高生の青春ドラマ！　謎のおじさん（安田顕）はユリナ（白石聖）が困っているとなぜか現れる。ユリナは辰馬（金子大地）と再会し、すごい決意をする！</desc>
+  </programme>
+  <programme start="20220112015400 +0900" stop="20220112023400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2022</title>
+    <desc lang="en">▽ウクライナ巡り試練を迎える欧米▽アメリカ竜巻被害から１か月〜生後２か月の娘を失った父親の後悔〜▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20220111005000 +0900" stop="20220111053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,14 +658,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220111005900 +0900" stop="20220111012900 +0900" channel="NipponTV.jp">
-    <title lang="en">新水曜ドラマ「ムチャブリ!わたしが社長になるなんて」見どころ先取りSP!</title>
-    <desc lang="en">高畑充希・主演！１２日水曜よるスタートの「ムチャブリ！」の見どころを徹底解説！出世欲なし、どこにでもいるイチ会社員・高梨雛子が、ある日突然…子会社の社長に！？</desc>
-  </programme>
-  <programme start="20220111012900 +0900" stop="20220111015900 +0900" channel="NipponTV.jp">
-    <title lang="en">乃木坂スター誕生!2</title>
-    <desc lang="en">乃木坂４６が昭和・平成スーパーアイドル名曲熱唱▽渡辺美奈代＆筒井があやや「桃色片想い」ぺこぱ興奮▽清宮「スマイル・フォー・ミー」▽理々杏「ツイてるねノッてるね」</desc>
-  </programme>
   <programme start="20220111015900 +0900" stop="20220111035900 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">年に一度のポシュレの年末年始特別セール！ポシュレでリアルに売れた商品をジャンル別で振り返りながら、更にスペシャルな特典でご紹介！お見逃しなく！！</desc>
@@ -746,18 +742,14 @@
     <title lang="en">Who is Princess?</title>
     <desc lang="en">日本全国から応募者を募り開催してきた、従来のオーディション番組とはひと味違う“デビュー・サバイバル・プログラム”が、今秋誕生！</desc>
   </programme>
-<programme start="20220111005000 +0900" stop="20220111012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">「さらば青春の光」「見取り図」がオリジナルゲームを配信!?▼ロングコートダディをゲーム化しよう▼ニッポンの社長ケツがボールに当たって音を奏でる「バッセンおじさん」</desc>
-</programme>
-<programme start="20220111012000 +0900" stop="20220111012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20220111012600 +0900" stop="20220111015600 +0900" channel="Asahi.jp">
-  <title lang="en">musicる TV</title>
-  <desc lang="en">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
-</programme>
+  <programme start="20220112012900 +0900" stop="20220112013500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="NipponTV.jp">
+    <title lang="en">HUNTER×HUNTER</title>
+    <desc lang="en">＃１３８「オネダリ×ト×オネガイ」</desc>
+  </programme>
 <programme start="20220111015600 +0900" stop="20220111021600 +0900" channel="Asahi.jp">
   <title lang="en">イグナッツ!!</title>
   <desc lang="en">番組初のイベント『イグナッツ!! LIVE　生業ブッかま!!2022』が開催決定‼今回はイベントの内容について緊急会議‼</desc>
@@ -875,13 +867,17 @@ by.Die Prinzen</desc>
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
 </programme>
-<programme start="20220111005800 +0900" stop="20220111012800 +0900" channel="TBS2.jp">
-  <title lang="en"></title>
-  <desc lang="en">主演・清原果耶×脚本・岡田惠和！夢破れたスポ根女子と変人ミュージシャン、そして一途な幼馴染の恋と成長のヒューマンラブコメディ！放送直前ナビで予習！</desc>
+<programme start="20220112012000 +0900" stop="20220112012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20220111012800 +0900" stop="20220111013500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20220112012600 +0900" stop="20220112015600 +0900" channel="Asahi.jp">
+  <title lang="en">フリースタイルティーチャー</title>
+  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！</desc>
+</programme>
+<programme start="20220112015600 +0900" stop="20220112021600 +0900" channel="Asahi.jp">
+  <title lang="en">ホリケンのみんなともだち</title>
+  <desc lang="en">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルな唯一無二のバラエティー番組</desc>
 </programme>
 <programme start="20220111013500 +0900" stop="20220111034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -946,13 +942,18 @@ by.Die Prinzen</desc>
   <title lang="en">パパジャニWEST</title>
   <desc lang="en">子どもが喜び狂うリアクションを目指すサプライズ系新企画！7人が力を合わせミッションクリアなるか！？</desc>
 </programme>
-<programme start="20220111003000 +0900" stop="20220111010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">Dreamer 乙</title>
-  <desc lang="en">DreamerZと連動＆iCONZ応援番組！GENERATIONS　from　EXILE　TRIBEやTHE　RAMPAGE　from　EXILE　TRIBEの超貴重オーディション映像も盛り沢山！</desc>
+<programme start="20220112011000 +0900" stop="20220112011300 +0900" channel="TBS2.jp">
+  <title lang="en">ビジネス・クリック</title>
+  <desc lang="en">最新の金融マーケット情報をＮＹから中継。
+注目の経済ニュースも</desc>
 </programme>
-<programme start="20220111010000 +0900" stop="20220111013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハロドリ。</title>
-  <desc lang="en">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼アンジュルム新メンバーに決定した研修生の舞台裏＆お披露目の瞬間▼ＯＣＨＡ　ＮＯＲＭＡにサプライズ発表が！</desc>
+<programme start="20220112011300 +0900" stop="20220112015000 +0900" channel="TBS2.jp">
+  <title lang="en">居酒屋新幹線</title>
+  <desc lang="en">食のマリアージュに、妻とのマリアージュを思う▼昨晩の妻との喧嘩を思い出しため息を抑えて仕込んだ肴は、焼き立て熱々で肉汁あふれる餃子など。店員おススメのタレは…⁉</desc>
+</programme>
+<programme start="20220112015000 +0900" stop="20220112023000 +0900" channel="TBS2.jp">
+  <title lang="en">アカデミーナイトG</title>
+  <desc lang="en">「99.9-刑事専門弁護士-THEMOVIE」松本潤と西島秀俊が語り合う…初共演の印象＆驚き撮影現場！ミュージカル「メリー・ポピンズ」メインキャストの４人が登場</desc>
 </programme>
 <programme start="20220111013000 +0900" stop="20220111020000 +0900" channel="TVTokyo.jp">
   <title lang="en">境界戦機</title>
@@ -1111,13 +1112,13 @@ by.Die Prinzen</desc>
   <title lang="en">激!今夜もドル箱</title>
   <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
 </programme>
-<programme start="20220111005500 +0900" stop="20220111010500 +0900" channel="FujiTV.jp">
-  <title lang="en">コンフィデンスマンJP学園 英雄編</title>
-  <desc lang="en">１月１４日に全国公開する最新作「コンフィデンスマンＪＰ　英雄編」の公開記念特別番組。長澤まさみを筆頭に映画に出演する豪華キャストが登場！！</desc>
+<programme start="20220112013000 +0900" stop="20220112013500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">毎週木曜放送「有吉の世界同時中継〜今、そっちってどうなってますか？〜」の見どころをご紹介します。</desc>
 </programme>
-<programme start="20220111010500 +0900" stop="20220111013500 +0900" channel="FujiTV.jp">
-  <title lang="en">私の正しいお兄ちゃん</title>
-  <desc lang="en">恋した相手は、殺人者！？</desc>
+<programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="TVTokyo.jp">
+  <title lang="en">紙とさまぁ〜ず</title>
+  <desc lang="en">誰もが知っている著名人に紙(アンケート)を投げ、返って来た回答だけを使って、さまぁ〜ずが、独自の視点でトークする全く新しいゲスト不在のトーク番組！</desc>
 </programme>
 <programme start="20220111013500 +0900" stop="20220111020500 +0900" channel="FujiTV.jp">
   <title lang="en">花にけだもの</title>
@@ -1219,17 +1220,9 @@ by.Die Prinzen</desc>
   <title lang="en">ラスト シンデレラ</title>
   <desc lang="en">ある朝、ヒゲが生えてきた！ホルモンが乱れてオス化したおやじ女子のちょっとエッチなラブコメディ！！「金魚妻」や映画の主演で話題の篠原涼子が体当りで熱演！</desc>
 </programme>
-<programme start="20220111003000 +0900" stop="20220111010000 +0900" channel="Tokyo MX">
-  <title lang="en">錆喰いビスコ</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220111010000 +0900" stop="20220111010500 +0900" channel="Tokyo MX">
-  <title lang="en">BanG Dream! ガルパ☆ピコ ふぃーばー!</title>
-  <desc lang="en">＃１４「ペンションアンダンテ」</desc>
-</programme>
-<programme start="20220111010500 +0900" stop="20220111013500 +0900" channel="Tokyo MX">
-  <title lang="en">理系が恋に落ちたので証明してみた。</title>
-  <desc lang="en"> </desc>
+<programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドラゴンボール改</title>
+  <desc lang="en">「超絶変身‼悟飯ピンチ」</desc>
 </programme>
 <programme start="20220111013500 +0900" stop="20220111020500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1423,6 +1416,14 @@ by.Die Prinzen</desc>
 <programme start="20220112010000 +0900" stop="20220112010500 +0900" channel="Tokyo MX">
   <title lang="en">イロドリミドリ</title>
   <desc lang="en">ゆるゆる日常系ガールズバンドストーリー開演！</desc>
+</programme>
+<programme start="20220112010500 +0900" stop="20220112013500 +0900" channel="Tokyo MX">
+  <title lang="en">ゴルゴ13</title>
+  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+</programme>
+<programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="Tokyo MX">
+  <title lang="en">69号室の住人</title>
+  <desc lang="en">デビュー６年目を迎えた、沖縄県伊江島出身のシンガーソングライター、Ａｎｌｙが登場！彼女の代名詞ともいえるループペダルの魅力、そして即興も披露！</desc>
 </programme>
 <programme start="20220110190000 +0900" stop="20220111050500 +0900" channel="FujiNext.jp">
 <title lang="en">春の高校バレー　男子準決勝　女子準決勝</title>
@@ -2091,7 +2092,7 @@ https//otn.fujitv.co.jp
 <programme start="20220111003000 +0900" stop="20220111020000 +0900" channel="kbsworld.jp">
 <title lang="en">ユ・ヒヨルのスケッチブック　[字]</title>
 <desc>K-POPファン必見！グループトイ（TOY）のユ・ヒヨルがお贈りする、多彩なミュージシャンを迎えての音楽ショー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220110/7302067/image/59b0511cfd64f2f5cf97ed9e57a19a85.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220111020000 +0900" stop="20220111031000 +0900" channel="kbsworld.jp">
