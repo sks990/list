@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220112023400 +0900" stop="20220112033400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、オーストリア・ウィーンを旅する。</desc>
-  </programme>
   <programme start="20220112033400 +0900" stop="20220112040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">日本の名峰</title>
     <desc lang="en"></desc>
@@ -309,6 +305,14 @@
   <programme start="20220113020200 +0900" stop="20220113030200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
+  </programme>
+  <programme start="20220113030200 +0900" stop="20220113033200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">プラネットアース 絶景・天空の旅</title>
+    <desc lang="en">大型シリーズ「プラネットアース」で好評を博した最新鋭の機材で撮影した空撮。一部しか使えなかった絶品カットや未編集素材を生かして、天空からの地球絶景の旅を送る。</desc>
+  </programme>
+  <programme start="20220113033200 +0900" stop="20220113040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ヨーロッパ トラムの旅</title>
+    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ポーランド・クラクフを旅する。</desc>
   </programme>
   <programme start="20220112002500 +0900" stop="20220112053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -650,10 +654,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220112020500 +0900" stop="20220112033000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">スタイルアップスパッツ、ポシュレ№１枕、伊皮革メーカーコラボ財布＆バッグ、最新鋭暖房、ダイソン掃除機、寝具福袋、特許取得スピーカーなどお得満載でお送りします！</desc>
-  </programme>
   <programme start="20220112033000 +0900" stop="20220112043000 +0900" channel="NipponTV.jp">
     <title lang="en">通販の女王アン・ミカ ゼヒモノSP</title>
     <desc lang="en">あらゆる商品に精通した通販の女王アンミカがメーカーおススメの「ゼヒモノ」商品を一刀両断！果たして女王アンミカから認定はもらえるのか？</desc>
@@ -749,15 +749,10 @@
     <title lang="en">浜ちゃんが!</title>
     <desc lang="en">ペナルティ・ヒデ進行のもと浜田と数原龍友、日向坂４６の佐々木久美が賞金獲得を目指して編集なし！ノーカットの散歩ロケ企画に挑む！散歩コースは原宿から渋谷まで！</desc>
   </programme>
-<programme start="20220112025600 +0900" stop="20220112030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20220112030000 +0900" stop="20220112033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-今回はあの有名店とコラボ！「美味すぎ！グルメ委員会〜究極のお取り寄せを完成させよ〜」</desc>
-</programme>
+  <programme start="20220113030500 +0900" stop="20220113043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">スタイルアップスパッツ、ポシュレ№１枕、伊皮革メーカーコラボ財布＆バッグ、最新鋭暖房、ダイソン掃除機、寝具福袋、特許取得スピーカーなどお得満載でお送りします！</desc>
+  </programme>
 <programme start="20220112033000 +0900" stop="20220112040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -880,10 +875,13 @@
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
 </programme>
-<programme start="20220112023700 +0900" stop="20220112034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20220113033000 +0900" stop="20220113040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+</programme>
+<programme start="20220113040000 +0900" stop="20220113045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍V</title>
+  <desc lang="en">「おんな事件屋、江戸を斬る！」松平健(他)▽吉宗は、ふとしたことから武州石田村と平井村の水争いの訴訟で、石田村の代理人を務めているという女公事師・お紺と出会う。</desc>
 </programme>
 <programme start="20220112034500 +0900" stop="20220112043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -966,21 +964,9 @@
   <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
 「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
 </programme>
-<programme start="20220112023500 +0900" stop="20220112030500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">世界のアッと驚くイチオシ商品をご紹介！</desc>
-</programme>
-<programme start="20220112030500 +0900" stop="20220112032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">カッコイイ車がたくさん展示されるカーイベント！！「東京オートサロン2022」をご紹介。今夜もイメージガールA-classから沙倉しずか、日南まみがゲストに登場！！</desc>
-</programme>
-<programme start="20220112032000 +0900" stop="20220112032500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">アイドル専門情報番組。毎週ゲストを迎え、近況等、本音ガールズトークを展開！様々なテーマを通し各々のアイドルとしてのスタイル＝流儀をファイルしていきます。</desc>
-</programme>
-<programme start="20220112032500 +0900" stop="20220112035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">女ともだち</title>
-  <desc lang="en">流産後、すぐにイタリア行きを決めたセツは引越の準備をしていた。一方、ちさとはどっちつかずのまま。そんな時、亮が昔の恋人と再会する予感がすると言いだした。それは…</desc>
+<programme start="20220113034500 +0900" stop="20220113043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20220112035500 +0900" stop="20220112040000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1127,17 +1113,21 @@
   <title lang="en">テレビ演劇 サクセス荘</title>
   <desc lang="en">2.5次元舞台などで活躍する俳優が挑む新感覚ドラマ！本番一発勝負の“テレビ演劇”が開幕◇映画の撮影中に監督のチャップが家を出ていってしまった！撮影は一体どうなる⁉</desc>
 </programme>
-<programme start="20220112020500 +0900" stop="20220112030500 +0900" channel="FujiTV.jp">
-  <title lang="en">第∞世代 〜ここまでどうですか?〜</title>
-  <desc lang="en">明日のバラエティを担う若手タレント、若手制作陣が実験的に企画を実施。ＶＴＲの改善点を怒涛のツッコミ芸人、小峠英二が見極め、ゴールデン進出を目指す超育成型番組。</desc>
+<programme start="20220113030500 +0900" stop="20220113032000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">ド派手な車がたくさん見られる、車の祭典！「東京オートサロン2022」をご紹介。今夜もイメージガールを務めるA-classから、松田蘭と米倉みゆがゲストに登場します！</desc>
 </programme>
-<programme start="20220112030500 +0900" stop="20220112033500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+<programme start="20220113032000 +0900" stop="20220113035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">30歳まで童貞だと魔法使いになれるらしい</title>
+  <desc lang="en">赤楚衛二×町田啓太で好意丸見え純愛BLをドラマ化◇終電を逃し黒沢の家に泊まることになった安達。二人っきりの夜次々と伝わってくる黒沢の妄想に戸惑いを隠せない安達は…</desc>
 </programme>
-<programme start="20220112033500 +0900" stop="20220112035000 +0900" channel="FujiTV.jp">
+<programme start="20220113035000 +0900" stop="20220113035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">アイドル専門情報番組。毎週ゲストを迎え、近況等、本音ガールズトークを展開！様々なテーマを通し各々のアイドルとしてのスタイル＝流儀をファイルしていきます。</desc>
+</programme>
+<programme start="20220113035500 +0900" stop="20220113040000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+  <desc lang="en">１／１４(金)スタート「駐在刑事　Ｓｅａｓｏｎ３」の見どころをご紹介します。</desc>
 </programme>
 <programme start="20220112035000 +0900" stop="20220112040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1227,13 +1217,13 @@
   <title lang="en">アートフルワールド 〜たぶん、すばらしき芸術の世界〜</title>
   <desc lang="en">「世界はアートに満ちている。」をテーマに、アートの世界を様々な視点から紹介し、その多種多様な楽しみ方も合わせてお伝えする。</desc>
 </programme>
-<programme start="20220112023500 +0900" stop="20220112030500 +0900" channel="Tokyo MX">
-  <title lang="en">キラ×バズTV!?</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220112030500 +0900" stop="20220112033500 +0900" channel="Tokyo MX">
+<programme start="20220113034500 +0900" stop="20220113040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20220113040000 +0900" stop="20220113045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20220112033500 +0900" stop="20220112040000 +0900" channel="Tokyo MX">
   <title lang="en">ごりやくさん</title>
@@ -1431,6 +1421,14 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220113033000 +0900" stop="20220113040000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220113040000 +0900" stop="20220113043000 +0900" channel="Tokyo MX">
+  <title lang="en">CM INDEX</title>
+  <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
+</programme>
 <programme start="20220111180000 +0900" stop="20220112003000 +0900" channel="FujiNext.jp">
 <title lang="en">春の高校バレー　男子決勝　女子決勝</title>
 <desc>第74回全日本バレーボール高等学校選手権大会
@@ -1444,14 +1442,14 @@
 <title lang="en">2021-22 Vリーグ DIVISION 1　男子 JT広島×東レ</title>
 <desc>バレーボール　2021-22 Vリーグ DIVISION 1「JTサンダーズ広島 vs 東レアローズ」
 ＜開催＞2022年1月8日（土）【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220111/7341236/image/6e2b831377590193260a4e95fe7230f8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220112035500 +0900" stop="20220112040000 +0900" channel="FujiNext.jp">
 <title lang="en">フジサンケイレディスクラシック ハイライト　10「2012年優勝 大江香織」</title>
 <desc>2012年優勝 大江香織
 「プロ4年目で悲願の初優勝！」
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220111/7341237/image/c9bf7e23fbdbc852979d9ee2fe254615.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220112040000 +0900" stop="20220112060000 +0900" channel="FujiNext.jp">
@@ -1592,7 +1590,7 @@
 <desc>＜出演＞バカリズム　堂島孝平
 ＜ゲスト＞ジューン・ラブジョイ　桂正和　三宮つばき　小島みなみ
 ▽笑いとチョイエロ全開の新感覚バラエティ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220111/7305200/image/100cc31d8a51ddfcd082ee779b820215.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220112040000 +0900" stop="20220112060000 +0900" channel="FujiOne.jp">
