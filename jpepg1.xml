@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220112002000 +0900" stop="20220112010900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKスペシャル</title>
-    <desc lang="en">突如真っ白に染まる海、海原に突如現れる謎の大渦。北海道の海で今、謎に満ちた「幻の絶景」が次々と目撃され始めている。一体何が起きているのか？徹底取材で真相に迫る。</desc>
-  </programme>
-  <programme start="20220112010900 +0900" stop="20220112015400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">しもべえ</title>
-    <desc lang="en">謎のおじさんと女子高生の青春ドラマ！　謎のおじさん（安田顕）はユリナ（白石聖）が困っているとなぜか現れる。ユリナは辰馬（金子大地）と再会し、すごい決意をする！</desc>
-  </programme>
   <programme start="20220112015400 +0900" stop="20220112023400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2022</title>
     <desc lang="en">▽北朝鮮が飛しょう体発射　専門家は▽ウクライナ情勢　米ロ協議も溝浮き彫りに▽カザフスタンへの部隊投入にプーチン氏「全く合法的」▽米竜巻被害１か月　娘失った父親は</desc>
@@ -313,6 +305,10 @@
   <programme start="20220113005100 +0900" stop="20220113012200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">不可避研究中</title>
     <desc lang="en">誰もが悩む「見た目」問題。“ムダ毛”の歴史を探求！「横綱」と呼ばれた少女・心の旅。自撮り写真家が語るルッキズムとの戦い方。人気イベントの案内人に稲垣吾郎が聞く！</desc>
+  </programme>
+  <programme start="20220113012200 +0900" stop="20220113020200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">国際報道2022</title>
+    <desc lang="en">▽コロナ感染者１日１００万人突破　アメリカの現状は▽中国化が進む香港立法会▽最新の国際ニュース　※変更の可能性あり</desc>
   </programme>
   <programme start="20220112002500 +0900" stop="20220112053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,14 +650,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220112005900 +0900" stop="20220112012900 +0900" channel="NipponTV.jp">
-    <title lang="en">Who is Princess?</title>
-    <desc lang="en">日本全国から応募者を募り開催してきた、従来のオーディション番組とはひと味違う“デビュー・サバイバル・プログラム”が、今秋誕生！</desc>
-  </programme>
-  <programme start="20220112012900 +0900" stop="20220112013500 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="NipponTV.jp">
     <title lang="en">HUNTER×HUNTER</title>
     <desc lang="en">＃１３８「オネダリ×ト×オネガイ」</desc>
@@ -753,19 +741,14 @@
     <title lang="en">秘密のケンミンSHOW極</title>
     <desc lang="en">１月１３日よる７時５６分超豪華３時間ＳＰ大阪熱愛カニがどっさり入った鍋料理かにすき＆北関東３県の超個性的な焼きそばを徹底調査！さらに超田舎ケンミンＳＰも開催！</desc>
   </programme>
-<programme start="20220112005000 +0900" stop="20220112012000 +0900" channel="Asahi.jp">
-  <title lang="en">お願い!ランキング</title>
-  <desc lang="en">今夜の「声優わちゃわちゃ」は、
-低音ボイス声優 安元洋貴・速水奨・増元拓也の３人で様々な企画でわちゃわちゃ。</desc>
-</programme>
-<programme start="20220112012000 +0900" stop="20220112012600 +0900" channel="Asahi.jp">
-  <title lang="en">全力坂</title>
-  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-</programme>
-<programme start="20220112012600 +0900" stop="20220112015600 +0900" channel="Asahi.jp">
-  <title lang="en">フリースタイルティーチャー</title>
-  <desc lang="en">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！</desc>
-</programme>
+  <programme start="20220113012900 +0900" stop="20220113013500 +0900" channel="NipponTV.jp">
+    <title lang="en">ガイド</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220113013500 +0900" stop="20220113020500 +0900" channel="NipponTV.jp">
+    <title lang="en">東野・岡村の旅猿20</title>
+    <desc lang="en">「何も決めずに島根県の旅」第２話　今回は地元でも有名な刀剣の館へ向かう一行。貴重な体験をしつつ、その後はとあるパワースポットへ。果たしてどんな旅となるのか・・・</desc>
+  </programme>
 <programme start="20220112015600 +0900" stop="20220112021600 +0900" channel="Asahi.jp">
   <title lang="en">ホリケンのみんなともだち</title>
   <desc lang="en">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルな唯一無二のバラエティー番組。親子で漫才「完熟フレッシュ」が登場!!</desc>
@@ -880,18 +863,17 @@
   <title lang="en">お願い!ランキング</title>
   <desc lang="en">気になるあの人！話題のスポット！新グルメ！新商品などなど…！毎晩ホットな話題をお届けします！</desc>
 </programme>
-<programme start="20220112001100 +0900" stop="20220112011000 +0900" channel="TBS2.jp">
-  <title lang="en">パパジャニWEST</title>
-  <desc lang="en">子どもが喜び狂うリアクションを目指すサプライズ系新企画！7人が力を合わせミッションクリアなるか！？</desc>
+<programme start="20220113012000 +0900" stop="20220113012600 +0900" channel="Asahi.jp">
+  <title lang="en">全力坂</title>
+  <desc lang="en">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
 </programme>
-<programme start="20220112011000 +0900" stop="20220112011300 +0900" channel="TBS2.jp">
-  <title lang="en">ビジネス・クリック</title>
-  <desc lang="en">最新の金融マーケット情報をＮＹから中継。
-注目の経済ニュースも</desc>
+<programme start="20220113012600 +0900" stop="20220113015600 +0900" channel="Asahi.jp">
+  <title lang="en">Break Out</title>
+  <desc lang="en">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
 </programme>
-<programme start="20220112011300 +0900" stop="20220112015000 +0900" channel="TBS2.jp">
-  <title lang="en">居酒屋新幹線</title>
-  <desc lang="en">食のマリアージュに、妻とのマリアージュを思う▼昨晩の妻との喧嘩を思い出しため息を抑えて仕込んだ肴は、焼き立て熱々で肉汁あふれる餃子など。店員おススメのタレは…⁉</desc>
+<programme start="20220113015600 +0900" stop="20220113021600 +0900" channel="Asahi.jp">
+  <title lang="en">まんが未知</title>
+  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◆新プロジェクト始動…宮下兼史鷹（宮下草薙）が実の弟と共にプロ漫画家を目指す！</desc>
 </programme>
 <programme start="20220112015000 +0900" stop="20220112023000 +0900" channel="TBS2.jp">
   <title lang="en">アカデミーナイトG</title>
@@ -974,17 +956,13 @@
   <desc lang="en">カリスマ教授陣＆学生１６１名を徹底取材！
 最先端研究・ＳＤＧｓ・学園祭…「明治大学の今」を大特集！</desc>
 </programme>
-<programme start="20220112003000 +0900" stop="20220112010000 +0900" channel="TVTokyo.jp">
-  <title lang="en">マヂカルクリエイターズ2</title>
-  <desc lang="en">マヂカルラブリーがお金の匂いがするエンタメにいっちょかみして独自のお笑い企画を粗製乱造するバラエティがまさかのシーズン２！全７回のお試し復活です！</desc>
+<programme start="20220113012800 +0900" stop="20220113015800 +0900" channel="TBS2.jp">
+  <title lang="en">ムビきゅん</title>
+  <desc lang="en">日本全国大ヒット中！『99.9 THE MOVIE』大特集！松本潤杉咲花が登場！作品の魅力と驚きの撮影裏話を語り尽くす！さらに豪華キャスト集結の舞台挨拶も！</desc>
 </programme>
-<programme start="20220112010000 +0900" stop="20220112013000 +0900" channel="TVTokyo.jp">
-  <title lang="en">激!今夜もドル箱</title>
-  <desc lang="en">元祖パチンコ・バラエティー‼制限時間２時間でモノマネ芸人ホリと岸明日香ＶＳゲストの出玉対決‼人気女性ライターも登場！最新パチンコ情報も満載です！</desc>
-</programme>
-<programme start="20220112013000 +0900" stop="20220112013500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">毎週木曜放送「有吉の世界同時中継〜今、そっちってどうなってますか？〜」の見どころをご紹介します。</desc>
+<programme start="20220113015800 +0900" stop="20220113020500 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
 <programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="TVTokyo.jp">
   <title lang="en">紙とさまぁ〜ず</title>
@@ -1139,9 +1117,13 @@
   <title lang="en">僕ドラ</title>
   <desc lang="en">ドラマの原作になる漫画をコンテストで応募し、漫画が生まれドラマになるまで、一部始終を追った前代未聞のドキュメンタリー＆ドラマ企画。俳優・町田啓太が全面的に参加。</desc>
 </programme>
-<programme start="20220112003500 +0900" stop="20220112013500 +0900" channel="FujiTV.jp">
-  <title lang="en">ラスト シンデレラ</title>
-  <desc lang="en">ある朝、ヒゲが生えてきた！ホルモンが乱れてオス化したおやじ女子のちょっとエッチなラブコメディ！！「金魚妻」や映画の主演で話題の篠原涼子が体当りで熱演！</desc>
+<programme start="20220113013000 +0900" stop="20220113020000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ラブコメの掟〜こじらせ女子と年下男子〜</title>
+  <desc lang="en">栗山千明×小関裕太で送る王道ラブコメドラマ！恋愛経験豊富な仮面を被ったこじらせ姫と笑顔の下に本音を隠した年下王子の嘘から始まる、トキメキ必至のラブコメディ！</desc>
+</programme>
+<programme start="20220113020000 +0900" stop="20220113020500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">毎週木曜放送「有吉の世界同時中継〜今、そっちってどうなってますか？〜」の見どころをご紹介します。</desc>
 </programme>
 <programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="FujiTV.jp">
   <title lang="en">ドラゴンボール改</title>
@@ -1235,17 +1217,13 @@
   <title lang="en">ワンピースバラエティ 海賊王におれはなるTV</title>
   <desc lang="en">かまいたち主催！ワンピ愛が最も溢れるネタを決めるコンテスト「ワンピネタ－１グランプリ」人気芸人から若手までマニアックなネタ勢揃い！</desc>
 </programme>
-<programme start="20220112003000 +0900" stop="20220112010000 +0900" channel="Tokyo MX">
-  <title lang="en">賢者の弟子を名乗る賢者</title>
-  <desc lang="en"> </desc>
+<programme start="20220113010500 +0900" stop="20220113013500 +0900" channel="FujiTV.jp">
+  <title lang="en">平家物語</title>
+  <desc lang="en">第一話　平家にあらざれば人にあらず</desc>
 </programme>
-<programme start="20220112010000 +0900" stop="20220112010500 +0900" channel="Tokyo MX">
-  <title lang="en">イロドリミドリ</title>
-  <desc lang="en">ゆるゆる日常系ガールズバンドストーリー開演！</desc>
-</programme>
-<programme start="20220112010500 +0900" stop="20220112013500 +0900" channel="Tokyo MX">
-  <title lang="en">ゴルゴ13</title>
-  <desc lang="en">デューク東郷、通称「ゴルゴ13」。常人では狙撃不可能な標的を神のごとき技術によって狙い撃つ、すべてが謎に包まれた超A級スナイパー。</desc>
+<programme start="20220113013500 +0900" stop="20220113025000 +0900" channel="FujiTV.jp">
+  <title lang="en">ゴシップ 彼女が知りたい本当の○○</title>
+  <desc lang="en">筋金入りの空気の読めない女が三流ネットニュースの編集部員に…！？フェイクなのは、彼らか世界か。完全オリジナルのネットニュース・エンターテインメント！</desc>
 </programme>
 <programme start="20220112013500 +0900" stop="20220112020500 +0900" channel="Tokyo MX">
   <title lang="en">69号室の住人</title>
@@ -1439,6 +1417,14 @@
   <title lang="en">コミックBAR Renta!</title>
   <desc lang="en">街角にひっそりと佇む「コミックＢＡＲ　Ｒｅｎｔａ！」マンガ好きのマスター森嶋秀太が毎週男性声優ゲストに話題のマンガを紹介！</desc>
 </programme>
+<programme start="20220113010500 +0900" stop="20220113013500 +0900" channel="Tokyo MX">
+  <title lang="en">ハコヅメ 〜交番女子の逆襲〜</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220113013500 +0900" stop="20220113020500 +0900" channel="Tokyo MX">
+  <title lang="en">幼女戦記</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220111180000 +0900" stop="20220112003000 +0900" channel="FujiNext.jp">
 <title lang="en">春の高校バレー　男子決勝　女子決勝</title>
 <desc>第74回全日本バレーボール高等学校選手権大会
@@ -1577,7 +1563,7 @@
 <title lang="en">めちゃ2イケてるッ！　269　　　ちょっと懐かしい映像、貴重な映像満載！</title>
 <desc>「めちゃ×2ダマシてるッ！天空の谷の崖の上のとなりの菅田くんも武井咲姫もドキリがいっぱいSP」
 （地上波放送日　2017年4月8日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220111/7305197/image/a78ee6c836b0c4bed1f670e9734a1829.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220112020000 +0900" stop="20220112023000 +0900" channel="FujiOne.jp">
@@ -2076,7 +2062,7 @@ https//otn.fujitv.co.jp
 <programme start="20220112003000 +0900" stop="20220112020000 +0900" channel="kbsworld.jp">
 <title lang="en">社長の耳はロバの耳　[字]</title>
 <desc>日本初放送！最新バラエティ！トップクラスの各界のボスたちと職員たちの日常に密着する考察バラエティ！2019年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220111/7302092/image/64c45833209b3ba1b317d01dcdfb6a63.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220112020000 +0900" stop="20220112031000 +0900" channel="kbsworld.jp">
