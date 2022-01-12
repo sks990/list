@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220113012200 +0900" stop="20220113020200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2022</title>
-    <desc lang="en">▽北朝鮮が極超音速ミサイル発射「完成度向上か」▽ＷＨＯ「欧州等で人口半数超感染のおそれ」▽中国化進む香港立法会▽ウクライナ大使「プーチン氏の目標はソビエト復活」</desc>
-  </programme>
   <programme start="20220113020200 +0900" stop="20220113030200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">空からクルージング特別編</title>
     <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
@@ -309,6 +305,10 @@
   <programme start="20220114013300 +0900" stop="20220114021300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2022</title>
     <desc lang="en">▽もう争わないで〜イラン旅客機撃墜事故　遺族の思い〜▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20220114021300 +0900" stop="20220114031300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">魂のタキ火</title>
+    <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
   </programme>
   <programme start="20220113010000 +0900" stop="20220113053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,10 +654,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220113013500 +0900" stop="20220113020500 +0900" channel="NipponTV.jp">
-    <title lang="en">東野・岡村の旅猿20</title>
-    <desc lang="en">「何も決めずに島根県の旅」第２話　今回は地元でも有名な刀剣の館へ向かう一行。貴重な体験をしつつ、その後はとあるパワースポットへ。果たしてどんな旅となるのか・・・</desc>
-  </programme>
   <programme start="20220113020500 +0900" stop="20220113030500 +0900" channel="NipponTV.jp">
     <title lang="en">浜ちゃんが!</title>
     <desc lang="en">ペナルティ・ヒデ進行のもと浜田と数原龍友、日向坂４６の佐々木久美が賞金獲得を目指して編集なし！ノーカットの散歩ロケ企画に挑む！散歩コースは原宿から渋谷まで！</desc>
@@ -738,18 +734,14 @@
     <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <desc lang="en">兄の「ウィ　ムッシュ」がフランス人並みにウマいと言う妹。でも実はウィムッシュ以外もウマかった⁉見た相手を腹立たせる顔ができるという男。春日は怒ってしまうのか？</desc>
   </programme>
-<programme start="20220113015600 +0900" stop="20220113021600 +0900" channel="Asahi.jp">
-  <title lang="en">まんが未知</title>
-  <desc lang="en">《芸能人×漫画家》未知なる才能を掛け算する新感覚漫画バラエティ！◆新プロジェクト始動…宮下兼史鷹（宮下草薙）が実の弟と共にプロ漫画家を目指す！</desc>
-</programme>
-<programme start="20220113021600 +0900" stop="20220113023600 +0900" channel="Asahi.jp">
-  <title lang="en">空気階段の空気観察</title>
-  <desc lang="en">空気階段が世の中の様々な空気を現場で観察するバラエティー▼空気階段VSコウメ太夫！声のデシベル数が大きい人が正解の“絶叫クイズ”に挑戦！大波乱＆コウメが㊙暴露</desc>
-</programme>
-<programme start="20220113023600 +0900" stop="20220113025600 +0900" channel="Asahi.jp">
-  <title lang="en">ぺこぱポジティブNEWS</title>
-  <desc lang="en">ぺこぱが10代と未来を語る「ポジティベート」！その後篇。前篇のテーマ「日本の教育」を超え、討論は「平等」「幸福」へと発展！忖度なしの熱い討論の行く先は？</desc>
-</programme>
+  <programme start="20220114020500 +0900" stop="20220114023500 +0900" channel="NipponTV.jp">
+    <title lang="en">川島・山内のマンガ沼</title>
+    <desc lang="en">謎多き大注目のマンガ家！ジャスミン・ギュ先生を徹底解剖！「ケンシロウによろしく」裏話が続々！</desc>
+  </programme>
+  <programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="NipponTV.jp">
+    <title lang="en">NFL倶楽部</title>
+    <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
+  </programme>
 <programme start="20220113025600 +0900" stop="20220113030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -866,9 +858,23 @@
   <title lang="en">NEWニューヨーク</title>
   <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
 </programme>
-<programme start="20220113015800 +0900" stop="20220113020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20220114021600 +0900" stop="20220114023600 +0900" channel="Asahi.jp">
+  <title lang="en">ハマスカ放送部</title>
+  <desc lang="en">OKAMOTO'S ハマ・オカモトと乃木坂46 齋藤飛鳥が都内某所の放送室からお届けする音楽トーク番組！
+齋藤飛鳥のプロフィールを2022年版に更新！新しい髪型に挑戦⁉</desc>
+</programme>
+<programme start="20220114023600 +0900" stop="20220114025600 +0900" channel="Asahi.jp">
+  <title lang="en">野田レーザーの逆算</title>
+  <desc lang="en">“理詰めマニア”が集う秘密の夜会▼漫画４コマ目を見て内容を考察！野田クリスタル「コボちゃん逆算」▼曲の合いの手だけを見て曲を逆算！カズレーザー「合いの手逆算」</desc>
+</programme>
+<programme start="20220114025600 +0900" stop="20220114030000 +0900" channel="Asahi.jp">
+  <title lang="en">よふかしゴーちゃん。</title>
+  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
+</programme>
+<programme start="20220114030000 +0900" stop="20220114033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
+今回はあの有名店とコラボ！「美味すぎ！グルメ委員会〜究極のお取り寄せを完成させよ〜」</desc>
 </programme>
 <programme start="20220113020500 +0900" stop="20220113034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -944,17 +950,9 @@
   <title lang="en">イベントGO!</title>
   <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
-<programme start="20220113013000 +0900" stop="20220113020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ラブコメの掟〜こじらせ女子と年下男子〜</title>
-  <desc lang="en">栗山千明×小関裕太で送る王道ラブコメドラマ！恋愛経験豊富な仮面を被ったこじらせ姫と笑顔の下に本音を隠した年下王子の嘘から始まる、トキメキ必至のラブコメディ！</desc>
-</programme>
-<programme start="20220113020000 +0900" stop="20220113020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">毎週木曜放送「有吉の世界同時中継〜今、そっちってどうなってますか？〜」の見どころをご紹介します。</desc>
-</programme>
-<programme start="20220113020500 +0900" stop="20220113023500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+<programme start="20220114020500 +0900" stop="20220114034500 +0900" channel="TBS2.jp">
+  <title lang="en">カイモノラボ</title>
+  <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
 <programme start="20220113023500 +0900" stop="20220113030500 +0900" channel="TVTokyo.jp">
   <title lang="en">テレビ演劇 サクセス荘</title>
@@ -1117,9 +1115,14 @@
   <title lang="en"></title>
   <desc lang="en">１／１６(日)放送「ＴＨＥカラオケ★バトル」の見どころをご紹介します！</desc>
 </programme>
-<programme start="20220113013500 +0900" stop="20220113025000 +0900" channel="FujiTV.jp">
-  <title lang="en">ゴシップ 彼女が知りたい本当の○○</title>
-  <desc lang="en">筋金入りの空気の読めない女が三流ネットニュースの編集部員に…！？フェイクなのは、彼らか世界か。完全オリジナルのネットニュース・エンターテインメント！</desc>
+<programme start="20220114020500 +0900" stop="20220114023500 +0900" channel="TVTokyo.jp">
+  <title lang="en">きらきらアフロTM</title>
+  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
+【出演】笑福亭鶴瓶、松嶋尚美</desc>
+</programme>
+<programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
 <programme start="20220113025000 +0900" stop="20220113034500 +0900" channel="FujiTV.jp">
   <title lang="en">アートフルワールド 〜たぶん、すばらしき芸術の世界〜</title>
@@ -1213,17 +1216,9 @@
   <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
   <desc lang="en">ＥＸＩＴ単独ＭＣ▽今井翼が登場しフラメンコ体験＆ハワイのベストスポットを熱弁▽「ＶｉＶｉ」インフルエンサーと対決！りんたろー。がある後輩に不満爆発！？</desc>
 </programme>
-<programme start="20220113013500 +0900" stop="20220113020500 +0900" channel="Tokyo MX">
-  <title lang="en">幼女戦記</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220113020500 +0900" stop="20220113023400 +0900" channel="Tokyo MX">
-  <title lang="en">MIRAI系アイドルTV</title>
-  <desc lang="en">未来で活躍するアイドルを創造・発掘・育成する新型未来系バラエティ番組！品川庄司がＭＣを担当！どんな未来系アイドルが誕生するのか⁉</desc>
-</programme>
-<programme start="20220113023400 +0900" stop="20220113023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="FujiTV.jp">
+  <title lang="en">いいすぽ!</title>
+  <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！世界的人気バトルロワイヤル！「フォートナイト」スペシャルマッチ！！ＭＣバカリズム</desc>
 </programme>
 <programme start="20220113023500 +0900" stop="20220113030000 +0900" channel="Tokyo MX">
   <title lang="en">せとチャレ!STU48</title>
@@ -1412,6 +1407,18 @@
   <title lang="en">バズッchuLaTV</title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220114020500 +0900" stop="20220114023400 +0900" channel="Tokyo MX">
+  <title lang="en">らいコレTV</title>
+  <desc lang="en">アプリストアモデルVOL.1初代アプリ広告モデル決定戦で2位を獲得した「世界の中心君」が登場！会社を複数所有する超セレブリティライバー「世界の中心君」の甘い言葉に…？</desc>
+</programme>
+<programme start="20220114023400 +0900" stop="20220114023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220112210000 +0900" stop="20220113014000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ  2009年10月24、25日 日比谷野外音楽堂</title>
 <desc>20年連続で開催されたエレファントカシマシの野音ライブの中から、2009年10月24日、25日のライブをアーカイブ放送！絶品パフォーマンスをお届けする。
@@ -1597,7 +1604,7 @@ https//otn.fujitv.co.jp
 <title lang="en">お笑いライブセレクション9　5　ラバーガールLIVE 「大水が出た！」</title>
 <desc>ラバーガールLIVE 「大水が出た！」
 ▽独自の空気感、ポーカーフェイスのコント職人・ラバーガールのコントライブをお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220112/7305223/image/b82aaec9e96bc0853c1ebc1be282f24d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220113030000 +0900" stop="20220113040000 +0900" channel="FujiOne.jp">
