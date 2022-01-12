@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220113020200 +0900" stop="20220113030200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">空からクルージング特別編</title>
-    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中から、ヨーロッパならではの美しい街や村を紹介する。</desc>
-  </programme>
-  <programme start="20220113030200 +0900" stop="20220113033200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">プラネットアース 絶景・天空の旅</title>
-    <desc lang="en">大型シリーズ「プラネットアース」で好評を博した最新鋭の機材で撮影した空撮。一部しか使えなかった絶品カットや未編集素材を生かして、天空からの地球絶景の旅を送る。</desc>
-  </programme>
   <programme start="20220113033200 +0900" stop="20220113040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ヨーロッパ トラムの旅</title>
     <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、ポーランド・クラクフを旅する。</desc>
@@ -309,6 +301,10 @@
   <programme start="20220114021300 +0900" stop="20220114031300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">魂のタキ火</title>
     <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
+  </programme>
+  <programme start="20220114031300 +0900" stop="20220114040500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">空からクルージング特別編</title>
+    <desc lang="en">世界各地の絶景の中を空からゆったりと旅をする紀行番組「空からクルージング」。８Ｋで撮影した美しい映像の中からヨーロッパ各国の城と宮殿を紹介する。</desc>
   </programme>
   <programme start="20220113010000 +0900" stop="20220113053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -654,10 +650,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220113020500 +0900" stop="20220113030500 +0900" channel="NipponTV.jp">
-    <title lang="en">浜ちゃんが!</title>
-    <desc lang="en">ペナルティ・ヒデ進行のもと浜田と数原龍友、日向坂４６の佐々木久美が賞金獲得を目指して編集なし！ノーカットの散歩ロケ企画に挑む！散歩コースは原宿から渋谷まで！</desc>
-  </programme>
   <programme start="20220113030500 +0900" stop="20220113043000 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">スタイルアップスパッツ、ポシュレ№１枕、伊皮革メーカーコラボ財布＆バッグ、最新鋭暖房、ダイソン掃除機、寝具福袋、特許取得スピーカーなどお得満載でお送りします！</desc>
@@ -742,15 +734,10 @@
     <title lang="en">NFL倶楽部</title>
     <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
   </programme>
-<programme start="20220113025600 +0900" stop="20220113030000 +0900" channel="Asahi.jp">
-  <title lang="en">よふかしゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
-</programme>
-<programme start="20220113030000 +0900" stop="20220113033000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
-お得な商品・こだわりの商品を皆様のご自宅にお届けします。</desc>
-</programme>
+  <programme start="20220114030500 +0900" stop="20220114043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">スタイルアップスパッツ、ポシュレ№１枕、伊皮革メーカーコラボ財布＆バッグ、最新鋭暖房、ダイソン掃除機、寝具福袋、特許取得スピーカーなどお得満載でお送りします！</desc>
+  </programme>
 <programme start="20220113033000 +0900" stop="20220113040000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
@@ -876,10 +863,13 @@
   <desc lang="en">テレ朝通販のロッピングライフが厳選した商品を自信をもってご紹介！！
 今回はあの有名店とコラボ！「美味すぎ！グルメ委員会〜究極のお取り寄せを完成させよ〜」</desc>
 </programme>
-<programme start="20220113020500 +0900" stop="20220113034500 +0900" channel="TBS2.jp">
-  <title lang="en">カイモノラボ</title>
-  <desc lang="en">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
-「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
+<programme start="20220114033000 +0900" stop="20220114040000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
+</programme>
+<programme start="20220114040000 +0900" stop="20220114045500 +0900" channel="Asahi.jp">
+  <title lang="en">暴れん坊将軍V</title>
+  <desc lang="en">「剣も躍る！阿波おどり」松平健(他)▽町奉行所の調べで、物産問屋・鳴門屋の火災が“失火”と判断されたことに納得がいかない様子の辰五郎。その思いは吉宗も同じだったが…</desc>
 </programme>
 <programme start="20220113034500 +0900" stop="20220113043000 +0900" channel="TBS2.jp">
   <title lang="en">TBS NEWS</title>
@@ -954,21 +944,9 @@
   <title lang="en">カイモノラボ</title>
   <desc lang="en">見ているだけでも楽しめるオシャレな通販番組。ＴＢＳショッピングのイチ押し商品を女性レポーターが体験してご紹介します！</desc>
 </programme>
-<programme start="20220113023500 +0900" stop="20220113030500 +0900" channel="TVTokyo.jp">
-  <title lang="en">テレビ演劇 サクセス荘</title>
-  <desc lang="en">2.5次元舞台などで活躍する俳優が挑む新感覚ドラマ！本番一発勝負の“テレビ演劇”が開幕◇映画の撮影中に監督のチャップが家を出ていってしまった！撮影は一体どうなる⁉</desc>
-</programme>
-<programme start="20220113030500 +0900" stop="20220113032000 +0900" channel="TVTokyo.jp">
-  <title lang="en">一夜づけ</title>
-  <desc lang="en">ド派手な車がたくさん見られる、車の祭典！「東京オートサロン2022」をご紹介。今夜もイメージガールを務めるA-classから、松田蘭と米倉みゆがゲストに登場します！</desc>
-</programme>
-<programme start="20220113032000 +0900" stop="20220113035000 +0900" channel="TVTokyo.jp">
-  <title lang="en">30歳まで童貞だと魔法使いになれるらしい</title>
-  <desc lang="en">赤楚衛二×町田啓太で好意丸見え純愛BLをドラマ化◇終電を逃し黒沢の家に泊まることになった安達。二人っきりの夜次々と伝わってくる黒沢の妄想に戸惑いを隠せない安達は…</desc>
-</programme>
-<programme start="20220113035000 +0900" stop="20220113035500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュージックブレイク</title>
-  <desc lang="en">アイドル専門情報番組。毎週ゲストを迎え、近況等、本音ガールズトークを展開！様々なテーマを通し各々のアイドルとしてのスタイル＝流儀をファイルしていきます。</desc>
+<programme start="20220114034500 +0900" stop="20220114043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
 <programme start="20220113035500 +0900" stop="20220113040000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1124,9 +1102,17 @@
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
-<programme start="20220113025000 +0900" stop="20220113034500 +0900" channel="FujiTV.jp">
-  <title lang="en">アートフルワールド 〜たぶん、すばらしき芸術の世界〜</title>
-  <desc lang="en">「世界はアートに満ちている。」をテーマに、アートの世界を様々な視点から紹介し、その多種多様な楽しみ方も合わせてお伝えする。</desc>
+<programme start="20220114030500 +0900" stop="20220114035000 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">「〜夢のオーディションバラエティ〜Dreamer　Z」「Dreamer　乙」！本編に加えParavi版ちょい見せ▽赤ちゃんの世界が「ぷしゅっ」と広がる「シナぷしゅ」のDVD＆CD</desc>
+</programme>
+<programme start="20220114035000 +0900" stop="20220114035500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュージックブレイク</title>
+  <desc lang="en">アイドル専門情報番組。毎週ゲストを迎え、近況等、本音ガールズトークを展開！様々なテーマを通し各々のアイドルとしてのスタイル＝流儀をファイルしていきます。</desc>
+</programme>
+<programme start="20220114035500 +0900" stop="20220114040500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ラビッツ インベージョン</title>
+  <desc lang="en">とある画家のアトリエにタイムスリップしたラビッツ。そこで名画に描かれた絶世の美女に一目ぼれする。名画を持ち帰ったラビッツだが、静かに名画鑑賞するはずもなく…</desc>
 </programme>
 <programme start="20220113034500 +0900" stop="20220113040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -1220,13 +1206,17 @@
   <title lang="en">いいすぽ!</title>
   <desc lang="en">今話題のｅＳｐｏｒｔｓ専門番組！世界的人気バトルロワイヤル！「フォートナイト」スペシャルマッチ！！ＭＣバカリズム</desc>
 </programme>
-<programme start="20220113023500 +0900" stop="20220113030000 +0900" channel="Tokyo MX">
-  <title lang="en">せとチャレ!STU48</title>
-  <desc lang="en">STU48が瀬戸内の魅力を再発見！MCは「Miker!」の6名！リニューアルした「せとチャレ」、ゲストと共にいろんなテーマにチャレンジします！</desc>
+<programme start="20220114030500 +0900" stop="20220114033500 +0900" channel="FujiTV.jp">
+  <title lang="en">Tune</title>
+  <desc lang="en">日本や世界の音楽シーンを代表するアーティストから、次世代を担うネクストブレイクアーティストまで、旬な情報をお届けする音楽番組です。</desc>
 </programme>
-<programme start="20220113030000 +0900" stop="20220113033000 +0900" channel="Tokyo MX">
+<programme start="20220114033500 +0900" stop="20220114040000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
-  <desc lang="en"> </desc>
+  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+</programme>
+<programme start="20220114040000 +0900" stop="20220114045500 +0900" channel="FujiTV.jp">
+  <title lang="en">クイズ!脳ベルSHOW</title>
+  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
 <programme start="20220113033000 +0900" stop="20220113040000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1416,6 +1406,18 @@
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220114030500 +0900" stop="20220114033400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220114033400 +0900" stop="20220114040000 +0900" channel="Tokyo MX">
+  <title lang="en">白黒アンジャッシュ</title>
+  <desc lang="en">アンジャッシュ児嶋一哉がチバテレにゲストを招いて、じっくり話を聞いていくトークバラエティ！</desc>
+</programme>
+<programme start="20220114040000 +0900" stop="20220114043000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -1612,7 +1614,7 @@ https//otn.fujitv.co.jp
 <desc>「野爆のコンビ愛が溢れ出す！基地の街でヴィンテージ古着をコーディネート！」
 ＜出演＞野性爆弾　藤木由貴
 ▽物欲と知識欲をダブルで満たす新たなバラエティ番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220112/7305224/image/0701b99a163363602e54d840369496f4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220113040000 +0900" stop="20220113050000 +0900" channel="FujiOne.jp">
@@ -1855,7 +1857,7 @@ https//otn.fujitv.co.jp
 <title lang="en">スパイストラベラー　2　第2話「高田馬場のブラザーと八王子のシスター」</title>
 <desc>＜MC＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）　＜ゲスト＞ナヲ（マキシマム ザ ホルモン）
 ▽名店紹介「カレーライス専門店ブラザー」
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220112/7305319/image/38b4dc4cd88f13801ddddb231d80d72f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220113040000 +0900" stop="20220113045000 +0900" channel="FujiTwo.jp">
