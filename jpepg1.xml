@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220114013900 +0900" stop="20220114021900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">国際報道2022</title>
-    <desc lang="en">▽英ジョンソン首相がパーティー参加で謝罪　辞任要求も▽ＮＡＴＯロシア会合も隔たり埋まらず▽中国天津　オミクロン株で２回目検査▽イラン旅客機撃墜事故　遺族の思い</desc>
-  </programme>
-  <programme start="20220114021900 +0900" stop="20220114022200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220114022200 +0900" stop="20220114031300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">魂のタキ火</title>
     <desc lang="en">主役は、炎とあなたです。極上の炎と向き合い、心解きほぐす、穏やかなひとときを。異色トーク番組「魂のタキ火」から、炎、焚（た）き火の映像のみをお送りします。</desc>
@@ -329,6 +321,10 @@
   <programme start="20220115014800 +0900" stop="20220115022800 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2022</title>
     <desc lang="en">▽日本刀文化を未来につなぐイギリス人▽日本の外交▽最新の国際ニュース　※変更の可能性あり</desc>
+  </programme>
+  <programme start="20220115022800 +0900" stop="20220115032800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">映像詩</title>
+    <desc lang="en">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
   </programme>
   <programme start="20220114003000 +0900" stop="20220114053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -658,14 +654,6 @@
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220114013500 +0900" stop="20220114020500 +0900" channel="NipponTV.jp">
-    <title lang="en">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <desc lang="en">兄の「ウィ　ムッシュ」がフランス人並みにウマいと言う妹。でも実はウィムッシュ以外もウマかった⁉見た相手を腹立たせる顔ができるという男。春日は怒ってしまうのか？</desc>
-  </programme>
-  <programme start="20220114020500 +0900" stop="20220114023500 +0900" channel="NipponTV.jp">
-    <title lang="en">川島・山内のマンガ沼</title>
-    <desc lang="en">謎多き大注目のマンガ家！ジャスミン・ギュ先生を徹底解剖！「ケンシロウによろしく」裏話が続々！</desc>
-  </programme>
   <programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="NipponTV.jp">
     <title lang="en">NFL倶楽部</title>
     <desc lang="en">世界最大プロスポーツ　アメフト「NFL」の魅力を、このスポーツに青春をかけたオードリーの二人がわかりやすく楽しくお届けする、日本で唯一のNFL番組です！</desc>
@@ -755,19 +743,10 @@
     <title lang="en">夜バゲット</title>
     <desc lang="en">金曜深夜に贈る新しいエンターテインメント情報番組！MCに日テレアナウンサー川畑一志と郡司恭子。公開まであと２週間！『ノイズ』豪華キャストインタビュー！</desc>
   </programme>
-<programme start="20220114015600 +0900" stop="20220114021600 +0900" channel="Asahi.jp">
-  <title lang="en">NEWニューヨーク</title>
-  <desc lang="en">お笑い芸人ニューヨークの地上波初冠番組！ニューヨークがＮＥＷな笑いを生み出すため、今までにない画期的なロケに体当たりで挑む！抱腹絶倒！純度１００％のお笑い番組</desc>
-</programme>
-<programme start="20220114021600 +0900" stop="20220114023600 +0900" channel="Asahi.jp">
-  <title lang="en">ハマスカ放送部</title>
-  <desc lang="en">OKAMOTO'S ハマ・オカモトと乃木坂46 齋藤飛鳥が都内某所の放送室からお届けする音楽トーク番組！
-齋藤飛鳥のプロフィールを2022年版に更新！新しい髪型に挑戦⁉</desc>
-</programme>
-<programme start="20220114023600 +0900" stop="20220114025600 +0900" channel="Asahi.jp">
-  <title lang="en">野田レーザーの逆算</title>
-  <desc lang="en">“理詰めマニア”が集う秘密の夜会▼漫画４コマ目を見て内容を考察！野田クリスタル「コボちゃん逆算」▼曲の合いの手だけを見て曲を逆算！カズレーザー「合いの手逆算」</desc>
-</programme>
+  <programme start="20220115024400 +0900" stop="20220115040900 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレポシュレ</title>
+    <desc lang="en">スタイルアップスパッツ、ポシュレ№１枕、伊皮革メーカーコラボ財布＆バッグ、最新鋭暖房、ダイソン掃除機、寝具福袋、特許取得スピーカーなどお得満載でお送りします！</desc>
+  </programme>
 <programme start="20220114025600 +0900" stop="20220114030000 +0900" channel="Asahi.jp">
   <title lang="en">よふかしゴーちゃん。</title>
   <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今夜の注目はなにかな？</desc>
@@ -875,9 +854,17 @@
   <desc lang="en">夜更かしするとキレイになる…。「ＶＯＣＥ」監修、情報盛り沢山のビューティー番組！
 今回は、プロの美ワザでキレイ磨き！</desc>
 </programme>
-<programme start="20220114015800 +0900" stop="20220114020500 +0900" channel="TBS2.jp">
-  <title lang="en">イベントGO!</title>
-  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+<programme start="20220115022000 +0900" stop="20220115024000 +0900" channel="Asahi.jp">
+  <title lang="en">新日ちゃんぴおん。</title>
+  <desc lang="en">新日本プロレスとテレ朝によるプロレスバラエティ！</desc>
+</programme>
+<programme start="20220115024000 +0900" stop="20220115030000 +0900" channel="Asahi.jp">
+  <title lang="en">あるある土佐カンパニー2</title>
+  <desc lang="en">土佐兄弟×ねお×三谷紬「あるある」から、今アツい界隈を学ぶ番組。話題沸騰中の業界・企業など、最先端トレンドを取り上げ、知られざる“あるある”を掘り起こします!!</desc>
+</programme>
+<programme start="20220115030000 +0900" stop="20220115033000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
 </programme>
 <programme start="20220114020500 +0900" stop="20220114034500 +0900" channel="TBS2.jp">
   <title lang="en">カイモノラボ</title>
@@ -956,18 +943,13 @@
   <title lang="en">CUE!</title>
   <desc lang="en">所属初日からアニメのオーディションを受けることになった新人声優の陽菜たちは、見事合格を勝ち取ることができるか？</desc>
 </programme>
-<programme start="20220114013000 +0900" stop="20220114020000 +0900" channel="TVTokyo.jp">
-  <title lang="en">僕ドラ</title>
-  <desc lang="en">ドラマの原作になる漫画をコンテストで応募し、漫画が生まれドラマになるまで、一部始終を追った前代未聞のドキュメンタリー＆ドラマ企画。俳優・町田啓太が全面的に参加。</desc>
+<programme start="20220115022500 +0900" stop="20220115025500 +0900" channel="TBS2.jp">
+  <title lang="en">15周年 コードギアス 反逆のルルーシュ</title>
+  <desc lang="en">◆ＳＴＡＧＥ１５「喝采のマオ」▼ルルーシュとの契約を破棄し、マオの元へ戻ると言い出したＣ．Ｃ．目的が自分であること…そして責任を取るためマオと会うことを決意した</desc>
 </programme>
-<programme start="20220114020000 +0900" stop="20220114020500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">１／１６(日)放送「ＴＨＥカラオケ★バトル」の見どころをご紹介します！</desc>
-</programme>
-<programme start="20220114020500 +0900" stop="20220114023500 +0900" channel="TVTokyo.jp">
-  <title lang="en">きらきらアフロTM</title>
-  <desc lang="en">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
-【出演】笑福亭鶴瓶、松嶋尚美</desc>
+<programme start="20220115025500 +0900" stop="20220115030700 +0900" channel="TBS2.jp">
+  <title lang="en">イベントGO!プラス</title>
+  <desc lang="en">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
 </programme>
 <programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -1136,9 +1118,19 @@
   <title lang="en">シンニュウ!見取り図</title>
   <desc lang="en">お笑いコンビの見取り図が今話題の注目企業に『新入（侵入）社員』を送り込み、意外と知られてない企業の㊙情報に笑いとスリルを届けるシンニュウ社員派遣バラエティ！</desc>
 </programme>
-<programme start="20220114013500 +0900" stop="20220114023500 +0900" channel="FujiTV.jp">
-  <title lang="en">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
-  <desc lang="en">ＥＸＩＴ単独ＭＣ▽今井翼が登場しフラメンコ体験＆ハワイのベストスポットを熱弁▽「ＶｉＶｉ」インフルエンサーと対決！りんたろー。がある後輩に不満爆発！？</desc>
+<programme start="20220115022300 +0900" stop="20220115023000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">１／１６(日)放送「ＴＨＥカラオケ★バトル」の見どころをご紹介します！</desc>
+</programme>
+<programme start="20220115023000 +0900" stop="20220115030000 +0900" channel="TVTokyo.jp">
+  <title lang="en">流派-R since2001</title>
+  <desc lang="en">▼R-Featureweek　dudus
+▼VIEWSサイプレス上野/risano/Nasty　Men$ah/高木“JET”晋一郎
+▼VIEWS「P25　Music」</desc>
+</programme>
+<programme start="20220115030000 +0900" stop="20220115031500 +0900" channel="TVTokyo.jp">
+  <title lang="en">一夜づけ</title>
+  <desc lang="en">赤ちゃんたちが夢中になる、大人気コンテンツ！「シナぷしゅ」のDVDCDをご紹介。今夜は、ジャンポケ・斉藤の子供とおたけのお気に入り曲をそれぞれちょい見せします！！</desc>
 </programme>
 <programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="FujiTV.jp">
   <title lang="en">いいすぽ!</title>
@@ -1228,17 +1220,13 @@
   <title lang="en">おいハンサム!!</title>
   <desc lang="en">何かと融通が利かない父・源太郎と、男を見る目がない三姉妹、そして全てを超越した母。伊藤家が織り成すまったく新しいＬＯＶＥ＆ＦＡＭＩＬＹコメディ！</desc>
 </programme>
-<programme start="20220114013500 +0900" stop="20220114020500 +0900" channel="Tokyo MX">
-  <title lang="en">バズッchuLaTV</title>
-  <desc lang="en"> </desc>
+<programme start="20220115023000 +0900" stop="20220115030000 +0900" channel="FujiTV.jp">
+  <title lang="en">次ナルTV-S</title>
+  <desc lang="en">人気番組がスマホでも見られるＣＳ放送フジテレビＴＷＯでレギュラー放送中の「キミは＝ＬＯＶＥを愛せるか！！！」ダイジェスト</desc>
 </programme>
-<programme start="20220114020500 +0900" stop="20220114023400 +0900" channel="Tokyo MX">
-  <title lang="en">らいコレTV</title>
-  <desc lang="en">アプリストアモデルVOL.1初代アプリ広告モデル決定戦で2位を獲得した「世界の中心君」が登場！会社を複数所有する超セレブリティライバー「世界の中心君」の甘い言葉に…？</desc>
-</programme>
-<programme start="20220114023400 +0900" stop="20220114023500 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
+<programme start="20220115030000 +0900" stop="20220115040500 +0900" channel="FujiTV.jp">
+  <title lang="en">フジボクシング 石澤開(MT)×森且貴(大橋)</title>
+  <desc lang="en">２０２２年プロボクシング開幕！日本ミニマム級王座決定戦１０回戦石澤開（ＭＴ）×森且貴（大橋）▽９戦全勝の森且貴とＫＯ率８０％強打の石澤開が激突！</desc>
 </programme>
 <programme start="20220114023500 +0900" stop="20220114030500 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1420,6 +1408,18 @@
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220115020500 +0900" stop="20220115023400 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220115023400 +0900" stop="20220115023500 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220115023500 +0900" stop="20220115030500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220113214000 +0900" stop="20220114002000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ　復活の野音</title>
 <desc>2013年9月15日、日比谷野外大音楽堂で行われたエレファントカシマシ復活ライブを放送！エレカシの25年を詰め込んだ全27曲のベストライブ！
@@ -1445,7 +1445,7 @@ https//otn.fujitv.co.jp
 <programme start="20220114020000 +0900" stop="20220114030000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　1「しなの鉄道」</title>
 <desc>長野新幹線開業により、信越本線の軽井沢から篠ノ井間を第3セクター化し開業した「しなの鉄道・しなの鉄道線」に入線。営業キロ65.1km、駅数19の路線。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220113/7341268/image/bf33a99c82aa57639cb5030274cf4bd9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220114030000 +0900" stop="20220114050000 +0900" channel="FujiNext.jp">
@@ -1608,7 +1608,7 @@ https//otn.fujitv.co.jp
 ＜怪員（怪談師）＞BBゴロー　Apsu Shusei　クダマツヒロシ
 ▽実話怪談の本格派ホラー番組
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220113/7341348/image/9d589fab14112ea84549b575651b0ec1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220114030000 +0900" stop="20220114040000 +0900" channel="FujiOne.jp">
