@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220113195700 +0900" stop="20220113204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">日本人のおなまえ</title>
-    <desc lang="en">ヒット曲の真相に迫るシリーズの第６弾。今回は、「元気と勇気を与えてくれたヒット曲」を特集。『ガッツだぜ！！』『それが大事』『魅せられて』の３曲を徹底取材。</desc>
-  </programme>
-  <programme start="20220113204200 +0900" stop="20220113204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20220113204500 +0900" stop="20220113210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -310,17 +302,17 @@
     <title lang="en">チコちゃんに叱られる!</title>
     <desc lang="en">今回のチコちゃんの素朴な疑問は…食後にコーヒーを飲むのはなぜ？平熱が３６度くらいなのはなぜ？マンホールが曲がり角に多いのはなぜ？みなさんわかりますか？</desc>
   </programme>
-  <programme start="20220113195500 +0900" stop="20220113200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20220114204200 +0900" stop="20220114204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20220113200000 +0900" stop="20220113203000 +0900" channel="eTele.jp">
-    <title lang="en">バリバラ〜障害者情報バラエティー〜</title>
-    <desc lang="en">「俳優になれるのは心身ともに健康な人」をアップデート後編▽俳優志望の障害のある人たちがオーディション最終審査へ！過去の痛みを即興で演じる▽常盤貴子涙の理由は？</desc>
+  <programme start="20220114204500 +0900" stop="20220114210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
   </programme>
-  <programme start="20220113203000 +0900" stop="20220113204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">「尿と便」に関する質問にお答えする。学校での尿漏れ対策は？夜間に何度も排尿で目覚めてしまうが？細い便は大腸ポリープと関係ある？ガス失禁を防ぐ方法は？</desc>
+  <programme start="20220114210000 +0900" stop="20220114220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽新型コロナ急増の感染者数は？病床使用率は？最新情報を詳しく▽日本人映画監督「等身大の中国人」を描く</desc>
   </programme>
   <programme start="20220113204500 +0900" stop="20220113210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -666,6 +658,14 @@
     <title lang="en">あしたも晴れ!人生レシピ</title>
     <desc lang="en">今年は体を動かしたい！という方にオススメしたいのは、散歩。街歩きの達人や散歩ライターから、散歩を習慣にする方法をひもときます。</desc>
   </programme>
+  <programme start="20220114204500 +0900" stop="20220114210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20220114210000 +0900" stop="20220114215500 +0900" channel="eTele.jp">
+    <title lang="en">にっぽんの芸能</title>
+    <desc lang="en">新歌舞伎十八番の内「春興鏡獅子」令和３年５月歌舞伎座。歴代の名人が築き上げた歌舞伎名作舞踊を尾上菊之助が華やかに舞う。好評にお応えし、去年９月の再放送を新春に！</desc>
+  </programme>
   <programme start="20220113195600 +0900" stop="20220113225400 +0900" channel="NipponTV.jp">
     <title lang="en">秘密のケンミンSHOW極</title>
     <desc lang="en">大阪熱愛カニがどっさり入った鍋料理かにすき＆北関東３県の超個性的な焼きそばを徹底調査！さらに超田舎ケンミンＳＰも開催！野菜干しすぎ！？超巨大な蔵！？衝撃㊙ライフ</desc>
@@ -759,11 +759,14 @@
     <title lang="en">クイズ!あなたは小学5年生より賢いの?</title>
     <desc lang="en">今年が大事な芸人SP！THEW優勝オダウエダはIQ132以上？M-1準優勝オズワルド300万円獲得？キングオブコント準優勝ザ・マミィは林田が筑波大学の頭脳で挑戦</desc>
   </programme>
-<programme start="20220113195400 +0900" stop="20220113200000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">容疑者全員…科捜研⁉シリーズ最大の難事件！
-各地の科捜研が集まる研修中に殺人事件発生！容疑者全員が科学捜査のプロという超・難事件にマリコが挑む…衝撃ラスト！</desc>
-</programme>
+  <programme start="20220114205400 +0900" stop="20220114210000 +0900" channel="NipponTV.jp">
+    <title lang="en">まもなく金曜ロードショー</title>
+    <desc lang="en">宮崎駿監督珠玉の名作！青い空ときらめく海を愛するひとりの豚（おとこ）の物語「紅の豚」のみどころをわかりやすくご紹介！</desc>
+  </programme>
+  <programme start="20220114210000 +0900" stop="20220114225400 +0900" channel="NipponTV.jp">
+    <title lang="en">金曜ロードショー</title>
+    <desc lang="en">★宮崎駿監督珠玉の名作★豚になったパイロットが空をかける★ライバルとの対決、２人のヒロインとの淡いロマンス★青い空ときらめく海を愛するひとりの豚（おとこ）の物語</desc>
+  </programme>
 <programme start="20220113200000 +0900" stop="20220113215400 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女</title>
   <desc lang="en">容疑者全員…科捜研⁉シリーズ最大の難事件！
@@ -965,9 +968,9 @@
   <title lang="en">オオカミ少年</title>
   <desc lang="en">阿部寛ら冬ドラマ俳優陣が本気の演技でダマすウソを見破れ！阿部寛に耳こちょこちょ！堤真一に激ニガ茶！清原果耶に足ツボ！菊池風磨に空手キック！横浜流星も大爆笑</desc>
 </programme>
-<programme start="20220113182500 +0900" stop="20220113205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">有吉の世界同時中継</title>
-  <desc lang="en">世界一危険！地上80Ｍ宙づりで採取㊙王室献上ハチミツ▼全米№1深夜食堂のセレブ絶賛デカ盛りサンドイッチ▼イタリア巨大市場の絶品煮込み▼世界の激ウマ漁港飯７連発</desc>
+<programme start="20220114205700 +0900" stop="20220114230000 +0900" channel="TBS2.jp">
+  <title lang="en">中居正広の金曜日のスマイルたちへ</title>
+  <desc lang="en">▼「神様、ここで嵐に試練を与えるんだ」先輩中居だから語った…嵐、活動休止に秘められた真実▼小栗が心揺さぶられた…松本珠玉の名シーン！「花男」松本が見た小栗の葛藤</desc>
 </programme>
 <programme start="20220113205400 +0900" stop="20220113210000 +0900" channel="TVTokyo.jp">
   <title lang="en">Beeワールド</title>
@@ -1149,10 +1152,6 @@
   <title lang="en">駐在刑事 Season3</title>
   <desc lang="en">絶景の奥多摩・水根渓谷でロボット開発を巡る連続殺人事件が発生！容疑者は１億円をもって奥多摩に逃走か……山狩りで追い詰める捜査陣！だが衝撃の展開が待ち受ける！</desc>
 </programme>
-<programme start="20220113190000 +0900" stop="20220113200000 +0900" channel="FujiTV.jp">
-  <title lang="en">VS魂</title>
-  <desc lang="en">相葉＆流星がアーチェリーに挑戦！東京パラリンピック日本代表の上山選手が登場も意外すぎる展開に！ＤＡＩＧＯも挑戦▽ＵＳＪロケ未公開対決公開＆下半期反省会</desc>
-</programme>
 <programme start="20220113200000 +0900" stop="20220113215400 +0900" channel="FujiTV.jp">
   <title lang="en">奇跡体験!アンビリバボー</title>
   <desc lang="en">家族に訪れたマサカを連発！▽爆笑＆キュート！家族映像▽幸せな親子を突如襲った驚愕の事件▽多くの試練を抱えながらも明るく生きる日本人家族の感動の実話！</desc>
@@ -1248,10 +1247,6 @@
 <programme start="20220114190000 +0900" stop="20220114215800 +0900" channel="FujiTV.jp">
   <title lang="en">坂上どうぶつ王国</title>
   <desc lang="en">どうぶつ大家族が秘境登山で奇跡絶景＆絶品冬グルメ▽猫８０匹＆島民１４人！話題の猫島に潜入▽必ず救う！熱き保護猫活動家の破天荒生活▽第２の坂上家完成間近</desc>
-</programme>
-<programme start="20220113193000 +0900" stop="20220113200000 +0900" channel="Tokyo MX">
-  <title lang="en">スイートプリキュア♪</title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220113200000 +0900" stop="20220113210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1445,6 +1440,10 @@
 <programme start="20220114200000 +0900" stop="20220114210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">小池知事会見…感染者数が急増…最新情報は？▼飲食店の現状は？　２０２１年の居酒屋の倒産は過去２番目の多さに</desc>
+</programme>
+<programme start="20220114210000 +0900" stop="20220114215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">デーブ・スペクター＆グローバー！金曜テーマは「エンタメ・遊び」。【DANDY Salon】大人が知っておくべき話題をトーク＆【DANDY Academy】グローバーの「ウラ美術館」</desc>
 </programme>
 <programme start="20220112210000 +0900" stop="20220113014000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ  2009年10月24、25日 日比谷野外音楽堂</title>
@@ -2261,7 +2260,7 @@ https//otn.fujitv.co.jp
 <programme start="20220113201500 +0900" stop="20220113210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 24　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220113/7302135/image/cfda855277eecb02e7fc431f7681922c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220113210000 +0900" stop="20220113220000 +0900" channel="kbsworld.jp">
