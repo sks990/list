@@ -58,14 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220114195700 +0900" stop="20220114204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">チコちゃんに叱られる!</title>
-    <desc lang="en">今回のチコちゃんの素朴な疑問は…食後にコーヒーを飲むのはなぜ？平熱が３６度くらいなのはなぜ？マンホールが曲がり角に多いのはなぜ？みなさんわかりますか？</desc>
-  </programme>
-  <programme start="20220114204200 +0900" stop="20220114204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20220114204500 +0900" stop="20220114210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -290,13 +282,21 @@
     <title lang="en">ブラタモリ</title>
     <desc lang="en">江戸時代に御三家のひとつだった紀州。江戸から離れていながら全国有数の大都市となった秘密をタモリさんがブラブラ歩いて解き明かす！▽将軍家に２人も送り出した紀伊の謎</desc>
   </programme>
-  <programme start="20220114195500 +0900" stop="20220114200000 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「虹色ラブレター」うた諫山実生</desc>
+  <programme start="20220115201500 +0900" stop="20220115204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">有吉のお金発見 突撃!カネオくん</title>
+    <desc lang="en">今回は…日本が生んだ食の大発明・カニカマのお金の秘密を大調査！世界で最もカニカマを食べているのはフランス！アメリカの国民的行事にカニカマ！？ＭＣ有吉もビックリ！</desc>
   </programme>
-  <programme start="20220114200000 +0900" stop="20220114204500 +0900" channel="eTele.jp">
-    <title lang="en">あしたも晴れ!人生レシピ</title>
-    <desc lang="en">今年は体を動かしたい！という方にオススメしたいのは、散歩。街歩きの達人や散歩ライターから、散歩を習慣にする方法をひもときます。</desc>
+  <programme start="20220115204500 +0900" stop="20220115205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220115205500 +0900" stop="20220115210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220115210000 +0900" stop="20220115215000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">わげもん〜長崎通訳異聞〜</title>
+    <desc lang="en">壮多（永瀬廉）は漂流民のカイを神頭（髙嶋政宏）のつてで逃がすことに成功し安どする。一方アメリカ軍艦で通訳をする森山栄之助（小池徹平）は見知らぬ男の存在に気づく。</desc>
   </programme>
   <programme start="20220114204500 +0900" stop="20220114210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -534,9 +534,13 @@
     <title lang="en">チョイス＠病気になったとき</title>
     <desc lang="en">過去の放送をコンパクトにまとめて紹介する「まとめスペシャル」。今回は、月経のトラブルと更年期障害の悩みについて。患者の体験談をもとに、自分に合う対策を探す。</desc>
   </programme>
-  <programme start="20220114190000 +0900" stop="20220114205400 +0900" channel="NipponTV.jp">
-    <title lang="en">クイズ!あなたは小学5年生より賢いの?</title>
-    <desc lang="en">今年が大事な芸人SP！THEW優勝オダウエダはIQ132以上？M-1準優勝オズワルド300万円獲得？キングオブコント準優勝ザ・マミィは林田が筑波大学の頭脳で挑戦</desc>
+  <programme start="20220115204500 +0900" stop="20220115210000 +0900" channel="eTele.jp">
+    <title lang="en">ろうを生きる 難聴を生きる</title>
+    <desc lang="en">１０月に開かれた全国高校生手話パフォーマンス甲子園。将来の進路への不安や、ろう学校の減少など、高校生たちが作品に込めた思いに迫る２本シリーズの前編。</desc>
+  </programme>
+  <programme start="20220115210000 +0900" stop="20220115213000 +0900" channel="eTele.jp">
+    <title lang="en">すくすく子育て</title>
+    <desc lang="en">「コロナの影響で外あそびが減って子ども同士の交流がなくなった」「外に出てもすぐにだっこ。これで運動になるの？」など、子どもたちの外あそびについて考える。</desc>
   </programme>
   <programme start="20220114205400 +0900" stop="20220114210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなく金曜ロードショー</title>
@@ -671,10 +675,14 @@
     <title lang="en">世界一受けたい授業</title>
     <desc lang="en">日本のすごい技術！ひび割れを自分で直すコンクリート！液体ガラスって何？？山瀬まみ君の声をAＩが完全再現？▼日本の若者２００人に聞いた皇室に関する疑問を解明します</desc>
   </programme>
-<programme start="20220114185000 +0900" stop="20220114200000 +0900" channel="Asahi.jp">
-  <title lang="en">ザワつく!金曜日</title>
-  <desc lang="en">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
-</programme>
+  <programme start="20220115205400 +0900" stop="20220115210000 +0900" channel="NipponTV.jp">
+    <title lang="en">ワーズハウスへようこそ</title>
+    <desc lang="en">身近な「日本語」の意外に知らない正しい意味や使い方、おもしろい語源がホームドラマで楽しくわかる！</desc>
+  </programme>
+  <programme start="20220115210000 +0900" stop="20220115215400 +0900" channel="NipponTV.jp">
+    <title lang="en">1億3000万人のSHOWチャンネル</title>
+    <desc lang="en">ＥＸＩＴの事件簿チャート！りんたろー。と兼近に起こった驚きの事件とは？▽櫻井翔＆森七菜が名店のオムライス再現に挑む！▽みやぞんがブリの１本釣り漁を体当たり取材</desc>
+  </programme>
 <programme start="20220114200000 +0900" stop="20220114215400 +0900" channel="Asahi.jp">
   <title lang="en">ミュージックステーション</title>
   <desc lang="en">「Ｍステ最強パフォーマンスGP ベスト30」発表！視聴者３万人とアーティストが厳選…V6ラスト出演・マツケンサンバ・YOASOBI初登場・なにわ男子デビュー No.1に輝くのは!?</desc>
@@ -838,9 +846,9 @@
   <title lang="en">カレン食堂</title>
   <desc lang="en">長嶋一茂、梅沢富美男、市川猿之助、白石麻衣、SixTONES髙地優吾＆田中樹、ジャニーズWEST重岡大毅＆小瀧望など豪華ゲストに料理自慢の滝沢カレンが絶品料理を振舞う！</desc>
 </programme>
-<programme start="20220114190000 +0900" stop="20220114205700 +0900" channel="TBS2.jp">
-  <title lang="en">オオカミ少年</title>
-  <desc lang="en">阿部寛ら冬ドラマ俳優陣が本気の演技でダマすウソを見破れ！阿部寛に耳こちょこちょ！堤真一に激ニガ茶！清原果耶に足ツボ！菊池風磨に空手キック！横浜流星も大爆笑</desc>
+<programme start="20220115205400 +0900" stop="20220115215500 +0900" channel="Asahi.jp">
+  <title lang="en">サタデーステーション</title>
+  <desc lang="en">最新情報…感染者急増で影響拡大▽大学入試も厳戒態勢▽濃厚接触者“隔離”今後は▽五輪迫る中国の感染対策▽藤井竜王…勝利でコスプレも▽五輪で５種目挑戦！髙木美帆(他)</desc>
 </programme>
 <programme start="20220114205700 +0900" stop="20220114230000 +0900" channel="TBS2.jp">
   <title lang="en">中居正広の金曜日のスマイルたちへ</title>
@@ -963,6 +971,10 @@
 <programme start="20220115185100 +0900" stop="20220115210000 +0900" channel="TBS2.jp">
   <title lang="en">生放送で満点出せるか 100点カラオケ音楽祭</title>
   <desc lang="en">人気アニメ東京リベンジャーズ声優が…音楽一族！倖田ファミリー母が…THEW決勝芸人が…タッキーが認めた美声ジャニーズが…熱唱！生放送で満点出せたら100万円🈑</desc>
+</programme>
+<programme start="20220115210000 +0900" stop="20220115215400 +0900" channel="TBS2.jp">
+  <title lang="en">世界ふしぎ発見!</title>
+  <desc lang="en">噴火によって一夜にして消え去った都市ポンペイ！何百年も調査が続く発掘現場で新発見！セレブが愛した豪華な遺物とは▽日本のポンペイ？江戸時代のタイムカプセルの真実</desc>
 </programme>
 <programme start="20220114195500 +0900" stop="20220114214800 +0900" channel="TVTokyo.jp">
   <title lang="en">駐在刑事 Season3</title>
@@ -1144,6 +1156,14 @@
   <title lang="en">出川哲朗の充電させてもらえませんか?</title>
   <desc lang="en">行くぞ！山陰最強パワスポ街道１２０キロ！＜出雲大社＞通って＜世界遺産の石見銀山＞へ！ですが初登場！＜藤原紀香＞がミラクル連発でヤバいよヤバいよＳＰ</desc>
 </programme>
+<programme start="20220115205400 +0900" stop="20220115210000 +0900" channel="TVTokyo.jp">
+  <title lang="en">生きるを伝える</title>
+  <desc lang="en">毎回、逆境を乗り越えて一生懸命生きている人、あるいは生き抜いた人の生きざまを紹介する、ヒューマンドキュメンタリー番組です。</desc>
+</programme>
+<programme start="20220115210000 +0900" stop="20220115215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">出没!アド街ック天国</title>
+  <desc lang="en">ほぼ東京！？埼玉「戸田」に初出没したら県内No.１だらけの凄い街だった▼超お買い得工場直売＆黒毛和牛の大行列精肉店＆爆盛り人情食堂▼藤田ニコルが育った戸田市の魅力</desc>
+</programme>
 <programme start="20220114190000 +0900" stop="20220114215800 +0900" channel="FujiTV.jp">
   <title lang="en">坂上どうぶつ王国</title>
   <desc lang="en">どうぶつ大家族が秘境登山で奇跡絶景＆絶品冬グルメ▽猫８０匹＆島民１４人！話題の猫島に潜入▽必ず救う！熱き保護猫活動家の破天荒生活▽第２の坂上家完成間近</desc>
@@ -1288,9 +1308,9 @@
   <title lang="en">新しいカギ</title>
   <desc lang="en">長澤まさみ浜辺美波コント参戦＆長田地元バカイジ京都旅！大規模ギャンブル対決で大波乱！長田の母登場…ＴＶ初出し過去激恥映像公開▽新作コント力見＆櫻坂４６</desc>
 </programme>
-<programme start="20220114193000 +0900" stop="20220114200000 +0900" channel="Tokyo MX">
-  <title lang="en">やくならマグカップも 二番窯</title>
-  <desc lang="en">最高気温40.9度！焼き物の町多治見市を舞台にした、“アニメ×陶芸”の物語はまだまだ続く！▽後半は主演声優が多治見市を紹介する実写パート「やくもの放課後」</desc>
+<programme start="20220115210000 +0900" stop="20220115234000 +0900" channel="FujiTV.jp">
+  <title lang="en">土曜プレミアム</title>
+  <desc lang="en">シリーズ最高傑作！「コンフィデンスマンＪＰ　英雄編」の公開を記念して　コンフィデンスマンＪＰスペシャル！今夜は第２作〈プリンセス編〉を地上波初放送！</desc>
 </programme>
 <programme start="20220114200000 +0900" stop="20220114210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -1512,6 +1532,14 @@
   <title lang="en">斬波ZANMAI</title>
   <desc lang="en">２０２２年！どこよりも早い紅白歌合戦！斬波メンバーがそれぞれの持ち歌を披露。果たして紅白どちらが勝ったのか？</desc>
 </programme>
+<programme start="20220115203000 +0900" stop="20220115210000 +0900" channel="Tokyo MX">
+  <title lang="en">遊戯配信 e-Strangers</title>
+  <desc lang="en">次世代の配信スターを発掘！▼初見でドラムを叩く動画がジワジワきてるドラマーが登場▼カードゲーム《ナンジャモンジャ》で対決！▼ザ・峠公式大会・準決勝戦！</desc>
+</programme>
+<programme start="20220115210000 +0900" stop="20220115213000 +0900" channel="Tokyo MX">
+  <title lang="en">サバンナ高橋の、サウナの神さま</title>
+  <desc lang="en">今回“ととのう”ゲストは、巨人軍球団社長付アドバイザーを務める宮本和知さん。ロス五輪金メダルの逸話から投手王国巨人での生き残り術＆女子野球の話まで赤裸々トーク！</desc>
+</programme>
 <programme start="20220113214000 +0900" stop="20220114002000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ　復活の野音</title>
 <desc>2013年9月15日、日比谷野外大音楽堂で行われたエレファントカシマシ復活ライブを放送！エレカシの25年を詰め込んだ全27曲のベストライブ！
@@ -1635,7 +1663,7 @@ https//otn.fujitv.co.jp
 <desc>格闘ゲームの王道が満を持してe-Sports参入！「バーチャファイター」最強トーナメント！　＜MC＞バカリズム
 ※第2音声ゲーム音のみ
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220114/7341281/image/10e0963ab6f39c49f3896cdd148cb076.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220114210000 +0900" stop="20220114213000 +0900" channel="FujiNext.jp">
@@ -2304,7 +2332,7 @@ https//otn.fujitv.co.jp
 <programme start="20220114201500 +0900" stop="20220114210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 25　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220114/7302158/image/1c7e2a7b69e3e04bcd958053aa1453a9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220114210000 +0900" stop="20220114220000 +0900" channel="kbsworld.jp">
