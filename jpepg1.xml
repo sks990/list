@@ -58,10 +58,6 @@
     <display-name>kbs-world</display-name>
     <icon src="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/552.png" />
   </channel>
-  <programme start="20220114204500 +0900" stop="20220114210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20220114210000 +0900" stop="20220114220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽体操界のレジェンド内村航平選手が生出演▽新型コロナ急増の感染者数は？病床使用率は？最新情報を詳しく</desc>
@@ -298,13 +294,9 @@
     <title lang="en">わげもん〜長崎通訳異聞〜</title>
     <desc lang="en">壮多（永瀬廉）は漂流民のカイを神頭（髙嶋政宏）のつてで逃がすことに成功し安どする。一方アメリカ軍艦で通訳をする森山栄之助（小池徹平）は見知らぬ男の存在に気づく。</desc>
   </programme>
-  <programme start="20220114204500 +0900" stop="20220114210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20220114210000 +0900" stop="20220114215500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">新歌舞伎十八番の内「春興鏡獅子」令和３年５月歌舞伎座。歴代の名人が築き上げた歌舞伎名作舞踊を尾上菊之助が華やかに舞う。好評にお応えし、去年９月の再放送を新春に！</desc>
+  <programme start="20220115215000 +0900" stop="20220115222000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">有田P おもてなす</title>
+    <desc lang="en">超壮大な「お笑い×音楽」のコラボレーションネタを厳選したベストネタセレクションをお届けします。トレンディエンジェル、しずるの感動オリジナルネタをお楽しみ下さい！</desc>
   </programme>
   <programme start="20220114215500 +0900" stop="20220114220000 +0900" channel="eTele.jp">
     <title lang="en">365日の献立日記</title>
@@ -542,9 +534,17 @@
     <title lang="en">すくすく子育て</title>
     <desc lang="en">「コロナの影響で外あそびが減って子ども同士の交流がなくなった」「外に出てもすぐにだっこ。これで運動になるの？」など、子どもたちの外あそびについて考える。</desc>
   </programme>
-  <programme start="20220114205400 +0900" stop="20220114210000 +0900" channel="NipponTV.jp">
-    <title lang="en">まもなく金曜ロードショー</title>
-    <desc lang="en">宮崎駿監督珠玉の名作！青い空ときらめく海を愛するひとりの豚（おとこ）の物語「紅の豚」のみどころをわかりやすくご紹介！</desc>
+  <programme start="20220115213000 +0900" stop="20220115215500 +0900" channel="eTele.jp">
+    <title lang="en">ウワサの保護者会</title>
+    <desc lang="en">尾木ママこと教育評論家・尾木直樹さんと小中学生の保護者が教育や子育てについて語り合い、解決のヒントを探る。今回は不登校の子どもと、その家族にまつわる悩みについて</desc>
+  </programme>
+  <programme start="20220115215500 +0900" stop="20220115220000 +0900" channel="eTele.jp">
+    <title lang="en">楽ラクワンポイント介護</title>
+    <desc lang="en">認知症の家族の介護についてアドバイスする。今回は「認知症の家族とどう暮らしていくか」。講師は認知症ケアの第一人者の介護福祉士の和田行男さん。</desc>
+  </programme>
+  <programme start="20220115220000 +0900" stop="20220115225000 +0900" channel="eTele.jp">
+    <title lang="en">SWITCHインタビュー 達人達(たち)</title>
+    <desc lang="en">ＬＡ在住のミュージシャンＹＯＳＨＩＫＩを、アジアトップクラスのファッションフォトグラファー・レスリー・キーが訪ねる。コロナ禍での思い、アーティストの使命とは？</desc>
   </programme>
   <programme start="20220114210000 +0900" stop="20220114225400 +0900" channel="NipponTV.jp">
     <title lang="en">金曜ロードショー</title>
@@ -683,10 +683,14 @@
     <title lang="en">1億3000万人のSHOWチャンネル</title>
     <desc lang="en">ＥＸＩＴの事件簿チャート！りんたろー。と兼近に起こった驚きの事件とは？▽櫻井翔＆森七菜が名店のオムライス再現に挑む！▽みやぞんがブリの１本釣り漁を体当たり取材</desc>
   </programme>
-<programme start="20220114200000 +0900" stop="20220114215400 +0900" channel="Asahi.jp">
-  <title lang="en">ミュージックステーション</title>
-  <desc lang="en">「Ｍステ最強パフォーマンスGP ベスト30」発表！視聴者３万人とアーティストが厳選…V6ラスト出演・マツケンサンバ・YOASOBI初登場・なにわ男子デビュー No.1に輝くのは!?</desc>
-</programme>
+  <programme start="20220115215400 +0900" stop="20220115220000 +0900" channel="NipponTV.jp">
+    <title lang="en">Creator’s Space</title>
+    <desc lang="en">人気クリエイターの仕事空間を訪ねて、職場や道具やクリエイティブのこだわりを伺う。そこで「オリジナル作品」の制作を依頼。作品のテーマは［SPACE/スペース］</desc>
+  </programme>
+  <programme start="20220115220000 +0900" stop="20220115225400 +0900" channel="NipponTV.jp">
+    <title lang="en">逃亡医F</title>
+    <desc lang="en">恋人殺しの濡れ衣を着せられた天才外科医！追跡者が迫る中、その場にあるわずかな道具だけで命を救う…前代未聞のサバイバル・ドクター・エンターテインメントが開幕!!</desc>
+  </programme>
 <programme start="20220114215400 +0900" stop="20220114231000 +0900" channel="Asahi.jp">
   <title lang="en">報道ステーション</title>
   <desc lang="en">感染から３日で発症…オミクロンの特徴判明…政府の対策変更は？▽上空に強い寒気が流入…大雪・猛吹雪に警戒を▽体操・内村航平が引退…会見に密着</desc>
@@ -850,6 +854,11 @@
   <title lang="en">サタデーステーション</title>
   <desc lang="en">最新情報…感染者急増で影響拡大▽大学入試も厳戒態勢▽濃厚接触者“隔離”今後は▽五輪迫る中国の感染対策▽藤井竜王…勝利でコスプレも▽五輪で５種目挑戦！髙木美帆(他)</desc>
 </programme>
+<programme start="20220115215500 +0900" stop="20220115225500 +0900" channel="Asahi.jp">
+  <title lang="en">電脳ワールドワイ動ショー</title>
+  <desc lang="en">ネットが発達しても、世の中知らないことだらけ。日本の常識でものを見ていませんか？
+今回の「ワイ動ショー」は、動画を見て「日本人が知らない中国」を深掘りします。</desc>
+</programme>
 <programme start="20220114205700 +0900" stop="20220114230000 +0900" channel="TBS2.jp">
   <title lang="en">中居正広の金曜日のスマイルたちへ</title>
   <desc lang="en">▼「神様、ここで嵐に試練を与えるんだ」先輩中居だから語った…嵐、活動休止に秘められた真実▼小栗が心揺さぶられた…松本珠玉の名シーン！「花男」松本が見た小栗の葛藤</desc>
@@ -976,13 +985,14 @@
   <title lang="en">世界ふしぎ発見!</title>
   <desc lang="en">噴火によって一夜にして消え去った都市ポンペイ！何百年も調査が続く発掘現場で新発見！セレブが愛した豪華な遺物とは▽日本のポンペイ？江戸時代のタイムカプセルの真実</desc>
 </programme>
-<programme start="20220114195500 +0900" stop="20220114214800 +0900" channel="TVTokyo.jp">
-  <title lang="en">駐在刑事 Season3</title>
-  <desc lang="en">絶景の奥多摩・水根渓谷でロボット開発を巡る連続殺人事件が発生！容疑者は１億円をもって奥多摩に逃走か……山狩りで追い詰める捜査陣！だが衝撃の展開が待ち受ける！</desc>
+<programme start="20220115215400 +0900" stop="20220115220000 +0900" channel="TBS2.jp">
+  <title lang="en">和心百景</title>
+  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
+今回は、東京『江戸硝子』　笛木優子</desc>
 </programme>
-<programme start="20220114214800 +0900" stop="20220114215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">インテリア日和</title>
-  <desc lang="en">毎回テーマをもってプロのインテリアコーディネーターがその部屋を魅力ある空間に大改造します。</desc>
+<programme start="20220115220000 +0900" stop="20220115232400 +0900" channel="TBS2.jp">
+  <title lang="en">新・情報7daysニュースキャスター</title>
+  <desc lang="en">ビートたけし＆安住紳一郎アナが１週間の事件・事故・政治・経済・芸能・スポーツを生放送で総まとめ！▽独自潜入取材〜感動の密着まで…いま見つめます</desc>
 </programme>
 <programme start="20220114215400 +0900" stop="20220114220000 +0900" channel="TVTokyo.jp">
   <title lang="en">わたしのヒュッゲ</title>
@@ -1164,9 +1174,16 @@
   <title lang="en">出没!アド街ック天国</title>
   <desc lang="en">ほぼ東京！？埼玉「戸田」に初出没したら県内No.１だらけの凄い街だった▼超お買い得工場直売＆黒毛和牛の大行列精肉店＆爆盛り人情食堂▼藤田ニコルが育った戸田市の魅力</desc>
 </programme>
-<programme start="20220114190000 +0900" stop="20220114215800 +0900" channel="FujiTV.jp">
-  <title lang="en">坂上どうぶつ王国</title>
-  <desc lang="en">どうぶつ大家族が秘境登山で奇跡絶景＆絶品冬グルメ▽猫８０匹＆島民１４人！話題の猫島に潜入▽必ず救う！熱き保護猫活動家の破天荒生活▽第２の坂上家完成間近</desc>
+<programme start="20220115215400 +0900" stop="20220115220000 +0900" channel="TVTokyo.jp">
+  <title lang="en">土曜名馬座</title>
+  <desc lang="en">◆第二百二十夜「血と運命」
+人々の記憶に残る、名馬たちの活躍を
+当時のエピソードなどを交えて紹介する。
+俳優・仲村トオルが語る名馬物語………</desc>
+</programme>
+<programme start="20220115220000 +0900" stop="20220115223000 +0900" channel="TVTokyo.jp">
+  <title lang="en">新美の巨人たち</title>
+  <desc lang="en">日本橋・麒麟像は小説「麒麟の翼」でも話題になりました。ところが…その翼はどうやら翼ではないと解ってきました！誕生の秘密を探ると見えてきた麒麟像の意外な事実とは？</desc>
 </programme>
 <programme start="20220114215800 +0900" stop="20220114225200 +0900" channel="FujiTV.jp">
   <title lang="en">人志松本の酒のツマミになる話</title>
@@ -1311,14 +1328,6 @@
 <programme start="20220115210000 +0900" stop="20220115234000 +0900" channel="FujiTV.jp">
   <title lang="en">土曜プレミアム</title>
   <desc lang="en">シリーズ最高傑作！「コンフィデンスマンＪＰ　英雄編」の公開を記念して　コンフィデンスマンＪＰスペシャル！今夜は第２作〈プリンセス編〉を地上波初放送！</desc>
-</programme>
-<programme start="20220114200000 +0900" stop="20220114210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">小池知事会見…感染者数が急増…最新情報は？▼飲食店の現状は？　２０２１年の居酒屋の倒産は過去２番目の多さに</desc>
-</programme>
-<programme start="20220114210000 +0900" stop="20220114215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">デーブ・スペクター＆グローバー！金曜テーマは「エンタメ・遊び」。【DANDY Salon】大人が知っておくべき話題をトーク＆【DANDY Academy】グローバーの「ウラ美術館」</desc>
 </programme>
 <programme start="20220114215400 +0900" stop="20220114220000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -1540,6 +1549,14 @@
   <title lang="en">サバンナ高橋の、サウナの神さま</title>
   <desc lang="en">今回“ととのう”ゲストは、巨人軍球団社長付アドバイザーを務める宮本和知さん。ロス五輪金メダルの逸話から投手王国巨人での生き残り術＆女子野球の話まで赤裸々トーク！</desc>
 </programme>
+<programme start="20220115213000 +0900" stop="20220115220000 +0900" channel="Tokyo MX">
+  <title lang="en">音ボケPOPS</title>
+  <desc lang="en">THE RAMPAGE from EXILE TRIBEの熱いトークに、MC中川翔子と、庄司智春（品川庄司）、高田夏帆が感動！メンバー間の意識調査を大発表！Billboard POPS PICKも！</desc>
+</programme>
+<programme start="20220115220000 +0900" stop="20220115223000 +0900" channel="Tokyo MX">
+  <title lang="en">失格紋の最強賢者</title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220113214000 +0900" stop="20220114002000 +0900" channel="FujiNext.jp">
 <title lang="en">エレファントカシマシ　復活の野音</title>
 <desc>2013年9月15日、日比谷野外大音楽堂で行われたエレファントカシマシ復活ライブを放送！エレカシの25年を詰め込んだ全27曲のベストライブ！
@@ -1677,7 +1694,7 @@ https//otn.fujitv.co.jp
 <title lang="en">寺門ジモンの肉専門チャンネル　91「ホルモン人生タロちゃん」</title>
 <desc>「ホルモン人生タロちゃん」
 芸能界一食に詳しく、そして肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220114/7341283/image/cefbe0b846cc3b7f80557b638834878b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220114220000 +0900" stop="20220114233000 +0900" channel="FujiNext.jp">
@@ -1894,7 +1911,7 @@ https//otn.fujitv.co.jp
 <title lang="en">プロ野球ここだけの話　53「巨人歴代四番ここだけの話」</title>
 <desc>＜ゲスト＞中畑清（第45代四番）　大久保博元（第59代四番）　鷲田康（スポーツジャーナリスト）
 ＜MC＞酒主義久　杉原千尋
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220114/7341371/image/8df1b4977cf9145b8a27ff222d2efebd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220114220000 +0900" stop="20220114230000 +0900" channel="FujiOne.jp">
@@ -2338,7 +2355,7 @@ https//otn.fujitv.co.jp
 <programme start="20220114210000 +0900" stop="20220114220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220114/7302159/image/179e3283544ae420eaa85bbe504b022d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220114220000 +0900" stop="20220114234000 +0900" channel="kbsworld.jp">
