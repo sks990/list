@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220119140000 +0900" stop="20220119150000 +0900" channel="ANIMAX.jp">
-  <title lang="en">機動戦士Zガンダム</title>
-  <desc lang="en">19「シンデレラ・フォウ」
-20「灼熱の脱出」
-反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターン…</desc>
-</programme>
 <programme start="20220119150000 +0900" stop="20220119160000 +0900" channel="ANIMAX.jp">
   <title lang="en">テニスの王子様</title>
   <desc lang="en">171「親愛なる友へ」
@@ -235,6 +229,12 @@ TVアニメ「マクロス7」の未放送エピソード。
   <desc lang="en">173「サムライニューヨーク」
 174「手塚国光VS不二周助」
 アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前…</desc>
+</programme>
+<programme start="20220120160000 +0900" stop="20220120170000 +0900" channel="ANIMAX.jp">
+  <title lang="en">七つの大罪 神々の逆鱗</title>
+  <desc lang="en">5「感情メイルシュトローム」
+6「それをボクらは愛と呼ぶ」
+三千年の時を経て復活した、魔神族の精鋭“十戒”との戦…</desc>
 </programme>
 <programme start="20220118210000 +0900" stop="20220119025000 +0900" channel="FujiNext.jp">
 <title lang="en">LUNA SEA THE FINAL ACT TOKYO DOME</title>
@@ -535,7 +535,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220119/7358822/image/dd43a26690b536959cc45fb27f2dc3c5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220119160000 +0900" stop="20220119170000 +0900" channel="FujiOne.jp">
@@ -1548,26 +1548,6 @@ https//otn.fujitv.co.jp
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220119144000 +0900" stop="20220119150000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 地学基礎</title>
-    <desc lang="en">私たちの身の回りの自然の成り立ちについて学ぶ地学基礎。今回のテーマは地震です。地震はなぜ大きな災害を引き起こすのか、そのメカニズムについて知ります。</desc>
-  </programme>
-  <programme start="20220119150000 +0900" stop="20220119152500 +0900" channel="eTele.jp">
-    <title lang="en">NHK俳句</title>
-    <desc lang="en">選者は阪西敦子さん。題はラグビー。ゲストはラグビー元日本代表選手の大野均さん。ラグビーへの理解が深まるにつれ、詠まれる俳句に変化が起きているという。岸本葉子</desc>
-  </programme>
-  <programme start="20220119152500 +0900" stop="20220119153000 +0900" channel="eTele.jp">
-    <title lang="en">ワンポイント手話</title>
-    <desc lang="en">初歩的な手話の単語を２５回に分けて紹介します。最終的には手話で簡単な自己紹介をできるのが目標です。読書、俳句など、趣味を表す手話を学習します</desc>
-  </programme>
-  <programme start="20220119153000 +0900" stop="20220119154000 +0900" channel="eTele.jp">
-    <title lang="en">アクティブ10 ミライのしごとーく</title>
-    <desc lang="en">カズレーザーのキャリア教育番組！同じ業界で働く大人３人が集まり、「仕事のやりがい」や「業界の未来」をトークする。今回のテーマは「建設」の未来。</desc>
-  </programme>
-  <programme start="20220119154000 +0900" stop="20220119154500 +0900" channel="eTele.jp">
-    <title lang="en">プチプチ・アニメ</title>
-    <desc lang="en">まっ白ボディーにつぶらなひとみ。きれいが大好きユニコーンのキュピちゃん。どんな汚れもみのがさない！ゴシゴシ、キュッキュッ、小さな体であちこち磨いてまわります。</desc>
-  </programme>
   <programme start="20220119154500 +0900" stop="20220119160000 +0900" channel="eTele.jp">
     <title lang="en">ノージーのひらめき工房</title>
     <desc lang="en">４〜５歳からの子どもたちに向けた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
@@ -1900,9 +1880,21 @@ https//otn.fujitv.co.jp
     <title lang="en">将棋フォーカス</title>
     <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
   </programme>
-  <programme start="20220119135500 +0900" stop="20220119155000 +0900" channel="NipponTV.jp">
-    <title lang="en">情報ライブ ミヤネ屋</title>
-    <desc lang="en">過去最多！大阪など全国感染拡大「まん延防止」要請の神奈川県・黒岩知事に今後の対策を生直撃！▽北日本に寒気居座る</desc>
+  <programme start="20220120153000 +0900" stop="20220120154000 +0900" channel="eTele.jp">
+    <title lang="en">SEED なやみのタネ</title>
+    <desc lang="en">がんの治療を続ける水戸部さん。「家族の幸せのために、できることって何だろう…」今の時代を生きる人たちのリアルな「なやみ」を描くドキュメンタリー番組。</desc>
+  </programme>
+  <programme start="20220120154000 +0900" stop="20220120154500 +0900" channel="eTele.jp">
+    <title lang="en">プチプチ・アニメ</title>
+    <desc lang="en">リコラは、小枝や木の実、ボトルのふたやあきかんで、なんでも作っちゃう森の元気なおともだち。ほら、きこえてきたよ！ギコギコ！トン！カン！今日はどこへおでかけかな？</desc>
+  </programme>
+  <programme start="20220120154500 +0900" stop="20220120160000 +0900" channel="eTele.jp">
+    <title lang="en">なりきり! むーにゃん生きもの学園</title>
+    <desc lang="en">「ＳＤＧｓ」について学ぶ３回シリーズ。２回目のテーマはなんと「うんち」！みんな「うんち」って汚いだけのものだと思ってない？実はあっと驚く大切な役割があるんだよ！</desc>
+  </programme>
+  <programme start="20220120160000 +0900" stop="20220120160500 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「調子をそろえてクリック・クリック・クリック」ペギー葉山、西六郷少年少女合唱団／「シャーロックホームズとワトソン博士」谷啓／「ゆりかごのうた」ボニージャックス</desc>
   </programme>
   <programme start="20220119155000 +0900" stop="20220119190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
@@ -2011,10 +2003,10 @@ https//otn.fujitv.co.jp
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20220119145200 +0900" stop="20220119154800 +0900" channel="Asahi.jp">
-  <title lang="en">科捜研の女15</title>
-  <desc lang="en">「塀の中からアリバイ工作⁉内出血が暴く偽装自殺の謎」沢口靖子(他)▽自殺に偽装した殺人事件が発生。スピード逮捕された男は、裁判前に突然犯行を否認、アリバイを主張し…</desc>
-</programme>
+  <programme start="20220120155000 +0900" stop="20220120190000 +0900" channel="NipponTV.jp">
+    <title lang="en">news every.</title>
+    <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+  </programme>
 <programme start="20220119154800 +0900" stop="20220119164500 +0900" channel="Asahi.jp">
   <title lang="en">相棒season12</title>
   <desc lang="en">「エントリーシート」水谷豊、成宮寛貴(他)▽就職活動中の女子大生の遺体が発見された。事件当日の夕方に面接を受けていたが、家を出てから面接までの足取りはわからない。</desc>
@@ -2148,9 +2140,9 @@ https//otn.fujitv.co.jp
   <title lang="en">科捜研の女15</title>
   <desc lang="en">「マリコ最後の鑑定！完全犯罪を暴く衝撃のＤＮＡ奪取」沢口靖子(他)▽死神・落合刑事にまたもや証拠ねつ造疑惑が浮上。歪んだ正義の果て、彼女がとった驚愕の行動とは…</desc>
 </programme>
-<programme start="20220119135500 +0900" stop="20220119154900 +0900" channel="TBS2.jp">
-  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
-  <desc lang="en">感染全国拡大…いつ収束？▼各地の最新雪予報　いつからどこで降る？▼鬼怒川に「廃ホテル」３棟　不法侵入に不法投棄も…長年放置で地元困惑　ほか(予定)</desc>
+<programme start="20220120154800 +0900" stop="20220120164500 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season7</title>
+  <desc lang="en">「悪意の行方」水谷豊(他)▽右京と陣川が何者かに拉致監禁されるが、幸いある女性の通報がきっかけで救出された。陣川が特命係にいたころに逮捕した人間の恨みによる犯行か…</desc>
 </programme>
 <programme start="20220119154900 +0900" stop="20220119190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
@@ -2235,9 +2227,9 @@ https//otn.fujitv.co.jp
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
-<programme start="20220119134000 +0900" stop="20220119154000 +0900" channel="TVTokyo.jp">
-  <title lang="en">午後のロードショー</title>
-  <desc lang="en">若くハンサムな出版界の実力者デビッド。完璧な人生を送っていたはずが、自動車事故に遭ってしまい一転。夢と現実の区別がつかなくなった男の運命とは…！？</desc>
+<programme start="20220120154900 +0900" stop="20220120190000 +0900" channel="TBS2.jp">
+  <title lang="en">Nスタ</title>
+  <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
 </programme>
 <programme start="20220119154000 +0900" stop="20220119165400 +0900" channel="TVTokyo.jp">
   <title lang="en">よじごじDays</title>
@@ -2392,9 +2384,9 @@ https//otn.fujitv.co.jp
   <title lang="en">午後のロードショー</title>
   <desc lang="en">誘拐された娘を救うためタイに乗り込む元ＣＩＡ工作員。行く手には壮絶な闘いと巨大な陰謀が待ち受ける！スティーブン・セガール主演のアクションサスペンス</desc>
 </programme>
-<programme start="20220119144500 +0900" stop="20220119154500 +0900" channel="FujiTV.jp">
-  <title lang="en">コンフィデンスマンJP</title>
-  <desc lang="en">最終決戦！目に見えるものが真実とは限らない…何が本当で何が嘘か！？ダー子（長澤まさみ）たちに迫る絶体絶命の大ピンチ！謎に包まれた過去が明らかに！</desc>
+<programme start="20220120154000 +0900" stop="20220120165400 +0900" channel="TVTokyo.jp">
+  <title lang="en">よじごじDays</title>
+  <desc lang="en">武田家の湯として受け継がれる下部温泉郷へ。そこには知る人ぞ知る信玄公の伝説が…。さらに信玄の隠し金山や本栖湖の絶景、名物!?バカ丼の正体とは？周辺スポットも満喫！</desc>
 </programme>
 <programme start="20220119154500 +0900" stop="20220119190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
@@ -2488,17 +2480,9 @@ https//otn.fujitv.co.jp
   <title lang="en">ゴシップ 彼女が知りたい本当の○○</title>
   <desc lang="en">娘たちを心配する源太郎（吉田鋼太郎）は取引先の大森（浜野謙太）を気に入り酔った勢いで自宅に連れてくるが…</desc>
 </programme>
-<programme start="20220119145900 +0900" stop="20220119150000 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220119150000 +0900" stop="20220119153000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220119153000 +0900" stop="20220119155800 +0900" channel="Tokyo MX">
-  <title lang="en">花道だけ歩きましょう 〜恋の花が咲きました〜</title>
-  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+<programme start="20220120154500 +0900" stop="20220120190000 +0900" channel="FujiTV.jp">
+  <title lang="en">Live News イット!</title>
+  <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
 <programme start="20220119155800 +0900" stop="20220119160000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -2693,6 +2677,18 @@ https//otn.fujitv.co.jp
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220120150000 +0900" stop="20220120153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220120153000 +0900" stop="20220120155800 +0900" channel="Tokyo MX">
+  <title lang="en">花道だけ歩きましょう 〜恋の花が咲きました〜</title>
+  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+</programme>
+<programme start="20220120155800 +0900" stop="20220120160000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220120160000 +0900" stop="20220120163000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -2995,7 +2991,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220119/7358822/image/dd43a26690b536959cc45fb27f2dc3c5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220119160000 +0900" stop="20220119170000 +0900" channel="FujiOne.jp">
