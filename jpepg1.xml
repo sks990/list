@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220120130000 +0900" stop="20220120140000 +0900" channel="ANIMAX.jp">
-  <title lang="en">名探偵コナン</title>
-  <desc lang="en">771,772「腹話術師の錯覚（前後編）」
-小五郎、コナン、蘭は人気腹話術師の天願リイチのライブにやってくる。小五郎…</desc>
-</programme>
 <programme start="20220120140000 +0900" stop="20220120150000 +0900" channel="ANIMAX.jp">
   <title lang="en">機動戦士Zガンダム</title>
   <desc lang="en">21「ゼータの鼓動」
@@ -225,6 +220,12 @@ Jリーグ、ビッグ大阪の比護隆佑とアイドルの沖野ヨーコが�
   <desc lang="en">23「ムーン・アタック」
 24「反撃」
 反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと闘う…</desc>
+</programme>
+<programme start="20220121150000 +0900" stop="20220121160000 +0900" channel="ANIMAX.jp">
+  <title lang="en">テニスの王子様</title>
+  <desc lang="en">175「三年目の本気」
+176「クライマックス」
+アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テ…</desc>
 </programme>
 <programme start="20220120000000 +0900" stop="20220120010000 +0900" channel="FujiNext.jp">
 <title lang="en">みんなの鉄道　25「くりはら田園鉄道」</title>
@@ -1346,10 +1347,6 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220120135500 +0900" stop="20220120140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220120140000 +0900" stop="20220120170000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
@@ -1525,18 +1522,6 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <programme start="20220121130000 +0900" stop="20220121160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20220120135500 +0900" stop="20220120140000 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 献立帳</title>
-    <desc lang="en">今日の料理は「ゆず大根」。とれたての大根をザクザクと切り、にんじん、昆布、赤唐辛子、たっぷりのゆずを加えて漬ける。お寺では一度に大根１０キロ分つくるとか！</desc>
-  </programme>
-  <programme start="20220120140000 +0900" stop="20220120142000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 科学と人間生活</title>
-    <desc lang="en">身の回りの自然や暮らしを糸口に、科学を楽しく解き明かしていきます。今回は、「地球温暖化の確実な予測」でノーベル物理学賞を受賞した真鍋淑郎の研究の軌跡を伝えます。</desc>
-  </programme>
-  <programme start="20220120142000 +0900" stop="20220120144000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 芸術</title>
-    <desc lang="en">私たちが生きる社会はアート作品にどのような影響を与えているのだろうか。また、社会はどのようにアートとかかわっているのだろうか。社会とアートとの深い関係を考える。</desc>
   </programme>
   <programme start="20220120144000 +0900" stop="20220120150000 +0900" channel="eTele.jp">
     <title lang="en">NHK高校講座 家庭総合</title>
@@ -1882,6 +1867,18 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
     <title lang="en">NHK高校講座 日本史</title>
     <desc lang="en">「歴カフェ」へようこそ！ここは歴史好きな人たちが集い各時代について語り合う茶屋です。日本はどんな歴史を歩んできたのか。日本史について知る楽しさを、さぁご一緒に！</desc>
   </programme>
+  <programme start="20220121142000 +0900" stop="20220121144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 世界史</title>
+    <desc lang="en">第二次世界大戦後、世界はアメリカを中心とする西側・資本主義陣営とソ連を中心とする東側・社会主義陣営に分かれ競うようになります。東西対立の歴史をひもときます。</desc>
+  </programme>
+  <programme start="20220121144000 +0900" stop="20220121150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地理</title>
+    <desc lang="en">地球上で起きているあらゆる事柄は、「地理」の知識で理解することができます。さぁ一緒に「地理」の知識を深め、世の中の謎を調査・分析！新たな発見をしていきましょう。</desc>
+  </programme>
+  <programme start="20220121150000 +0900" stop="20220121153000 +0900" channel="eTele.jp">
+    <title lang="en">囲碁フォーカス</title>
+    <desc lang="en">大西竜平七段の逆転の手筋講座。１月は「シュッ！と分断　ビシッ！と連絡」。今回は「強じんなツギ」。「フォーカス・オン」は「マルチに大活躍！星合志保三段」。</desc>
+  </programme>
   <programme start="20220120135500 +0900" stop="20220120155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">▽二十四節気「大寒」厳しい寒さと急な積雪に警戒！▽“まん延防止”大阪・京都・兵庫はどうなる？▽観光庁が支援！地方の観光地の対策とは？</desc>
@@ -1989,10 +1986,6 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20220120135400 +0900" stop="20220120145200 +0900" channel="Asahi.jp">
-  <title lang="en">ゴンゾウ〜伝説の刑事</title>
-  <desc lang="en">「幻の拳銃」内野聖陽(他)▽特捜本部は凶器の銃の出所を捜査するため、暴力団事務所などを一斉検挙。その結果、古い国産拳銃を売りに来たブローカーの存在が明らかになり…</desc>
-</programme>
 <programme start="20220120145200 +0900" stop="20220120154800 +0900" channel="Asahi.jp">
   <title lang="en">科捜研の女15</title>
   <desc lang="en">「マリコ最後の鑑定！完全犯罪を暴く衝撃のＤＮＡ奪取」沢口靖子(他)▽死神・落合刑事にまたもや証拠ねつ造疑惑が浮上。歪んだ正義の果て、彼女がとった驚愕の行動とは…</desc>
@@ -2123,6 +2116,10 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
 <programme start="20220121135400 +0900" stop="20220121145200 +0900" channel="Asahi.jp">
   <title lang="en">ゴンゾウ〜伝説の刑事</title>
   <desc lang="en">「潜入捜査」内野聖陽(他)▽もなみ殺害の容疑者として思想団体会長・岡林が急浮上した。鶴の目撃証言とも一致。さらに、岡林が自宅に銃を何丁も所持しているとの情報もあり…</desc>
+</programme>
+<programme start="20220121145200 +0900" stop="20220121154800 +0900" channel="Asahi.jp">
+  <title lang="en">科捜研の女16</title>
+  <desc lang="en">「雪山カップルを狙う銃弾！５℃以下で白く光る美女⁉」沢口靖子(他)▽登山道で左腕を撃たれた若い女性が保護された。彼女が持っていた２枚の写真に疑問を抱いたマリコは…</desc>
 </programme>
 <programme start="20220120135500 +0900" stop="20220120154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -2366,10 +2363,6 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <title lang="en">午後のロードショー</title>
   <desc lang="en">クリント・イーストウッド主演。懸賞金を騙し取っていたコンビに凄腕ガンマンが参戦。２０万ドルのお宝争奪戦！３人が騙し騙され合う痛快ウエスタン！</desc>
 </programme>
-<programme start="20220120115500 +0900" stop="20220120144500 +0900" channel="FujiTV.jp">
-  <title lang="en">バイキングMORE</title>
-  <desc lang="en">４大大会全て不参加も？ジョコビッチの今後は▽新型コロナ東京新規感染は過去最多７３７７人▽諏訪神社“お家騒動”女性がセクハラで提訴…パワハラ訴訟も法廷へ</desc>
-</programme>
 <programme start="20220120144500 +0900" stop="20220120154500 +0900" channel="FujiTV.jp">
   <title lang="en">ゴシップ 彼女が知りたい本当の○○</title>
   <desc lang="en">娘たちを心配する源太郎（吉田鋼太郎）は取引先の大森（浜野謙太）を気に入り酔った勢いで自宅に連れてくるが…</desc>
@@ -2470,17 +2463,9 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20220120135500 +0900" stop="20220120140000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20220120140000 +0900" stop="20220120143000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220120143000 +0900" stop="20220120145900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220121144500 +0900" stop="20220121154500 +0900" channel="FujiTV.jp">
+  <title lang="en">ドクターホワイト</title>
+  <desc lang="en">「それ、誤診です」医者をも凌駕する医療知識の持ち主は記憶喪失で社会性ゼロ！？謎に包まれた女性・白夜が天才的な診断能力で誤診を覆し患者の命を救う！彼女は一体何者？</desc>
 </programme>
 <programme start="20220120145900 +0900" stop="20220120150000 +0900" channel="Tokyo MX">
   <title lang="en">フラッシュ天気</title>
@@ -2677,6 +2662,10 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
 </programme>
 <programme start="20220121135900 +0900" stop="20220121150000 +0900" channel="Tokyo MX">
   <title lang="en">都知事定例会見</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220121150000 +0900" stop="20220121153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220120000000 +0900" stop="20220120010000 +0900" channel="FujiNext.jp">
