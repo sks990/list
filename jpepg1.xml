@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220120140000 +0900" stop="20220120150000 +0900" channel="ANIMAX.jp">
-  <title lang="en">機動戦士Zガンダム</title>
-  <desc lang="en">21「ゼータの鼓動」
-22「シロッコの眼」
-反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと…</desc>
-</programme>
 <programme start="20220120150000 +0900" stop="20220120160000 +0900" channel="ANIMAX.jp">
   <title lang="en">テニスの王子様</title>
   <desc lang="en">173「サムライニューヨーク」
@@ -227,6 +221,12 @@ Jリーグ、ビッグ大阪の比護隆佑とアイドルの沖野ヨーコが�
 176「クライマックス」
 アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テ…</desc>
 </programme>
+<programme start="20220121160000 +0900" stop="20220121170000 +0900" channel="ANIMAX.jp">
+  <title lang="en">七つの大罪 神々の逆鱗</title>
+  <desc lang="en">7「いざ　大罪集結へ!!」
+8「人形は愛を乞う」
+三千年の時を経て復活した、魔神族の精鋭“十戒”との戦いに“七つの…</desc>
+</programme>
 <programme start="20220120000000 +0900" stop="20220120010000 +0900" channel="FujiNext.jp">
 <title lang="en">みんなの鉄道　25「くりはら田園鉄道」</title>
 <desc>25『くりはら田園鉄道』　JR東北本線との接続駅「石越」から「細倉マインパーク前」へと至る、駅数16、営業キロ25.7kmの路線。　＜ナレーション＞堺正幸アナ
@@ -300,7 +300,7 @@ Jリーグ、ビッグ大阪の比護隆佑とアイドルの沖野ヨーコが�
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220120/7359876/image/010f2c14801b0951506f9e2b4f030bd1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220120160000 +0900" stop="20220120170000 +0900" channel="FujiNext.jp">
@@ -580,7 +580,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220120/7358855/image/bca2d0e917bb6a89e1b9ba3c3419af75.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220120160000 +0900" stop="20220120170000 +0900" channel="FujiOne.jp">
@@ -1523,21 +1523,9 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220120144000 +0900" stop="20220120150000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 家庭総合</title>
-    <desc lang="en">これからの生活に必要な知識や技術を学ぶ「家庭総合」。身近な問題について、地域・社会・歴史など、さまざまな視点でとらえ、りゅうちぇるさんと一緒に考えましょう！</desc>
-  </programme>
-  <programme start="20220120150000 +0900" stop="20220120153000 +0900" channel="eTele.jp">
-    <title lang="en">将棋フォーカス</title>
-    <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
-  </programme>
-  <programme start="20220120153000 +0900" stop="20220120154000 +0900" channel="eTele.jp">
-    <title lang="en">SEED なやみのタネ</title>
-    <desc lang="en">がんの治療を続ける水戸部さん。「家族の幸せのために、できることって何だろう…」今の時代を生きる人たちのリアルな「なやみ」を描くドキュメンタリー番組。</desc>
-  </programme>
-  <programme start="20220120154000 +0900" stop="20220120154500 +0900" channel="eTele.jp">
-    <title lang="en">プチプチ・アニメ</title>
-    <desc lang="en">リコラは、小枝や木の実、ボトルのふたやあきかんで、なんでも作っちゃう森の元気なおともだち。ほら、きこえてきたよ！ギコギコ！トン！カン！今日はどこへおでかけかな？</desc>
+  <programme start="20220121160000 +0900" stop="20220121160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20220120154500 +0900" stop="20220120160000 +0900" channel="eTele.jp">
     <title lang="en">なりきり! むーにゃん生きもの学園</title>
@@ -1879,9 +1867,29 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
     <title lang="en">囲碁フォーカス</title>
     <desc lang="en">大西竜平七段の逆転の手筋講座。１月は「シュッ！と分断　ビシッ！と連絡」。今回は「強じんなツギ」。「フォーカス・オン」は「マルチに大活躍！星合志保三段」。</desc>
   </programme>
-  <programme start="20220120135500 +0900" stop="20220120155000 +0900" channel="NipponTV.jp">
-    <title lang="en">情報ライブ ミヤネ屋</title>
-    <desc lang="en">▽二十四節気「大寒」厳しい寒さと急な積雪に警戒！▽“まん延防止”大阪・京都・兵庫はどうなる？▽観光庁が支援！地方の観光地の対策とは？</desc>
+  <programme start="20220121153000 +0900" stop="20220121153500 +0900" channel="eTele.jp">
+    <title lang="en">ブレイクッ!</title>
+    <desc lang="en">まじめな学習サイト「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ」で一緒に楽しく学ぼう！面白い動画を、歌やクイズなどの演出でアレンジするぞ！今回は「ヤバイよ」な動画検索だ。</desc>
+  </programme>
+  <programme start="20220121153500 +0900" stop="20220121154000 +0900" channel="eTele.jp">
+    <title lang="en">すたあと</title>
+    <desc lang="en">新しく学校生活をスタートする小学１年生をサポートする番組。今回は、身の回りのものを楽しく数えながら、順序数の概念に親しむ活動を紹介する。</desc>
+  </programme>
+  <programme start="20220121154000 +0900" stop="20220121154500 +0900" channel="eTele.jp">
+    <title lang="en">プチプチ・アニメ</title>
+    <desc lang="en">キッチンカウンターに、ぽつんととりのこされたツナの空き缶がひとつ。カラカラ回転すると、むっくりと起き上がり歩き出しました。空き缶のツナの冒険が始まります。</desc>
+  </programme>
+  <programme start="20220121154500 +0900" stop="20220121155500 +0900" channel="eTele.jp">
+    <title lang="en">エイゴビート</title>
+    <desc lang="en">英語のリズムを耳と体で感じる番組。ストレッチで体の柔らかさを競う子どもたち。体が固いマサトも参加するが…。ゲームコーナーのＭＣは栗原類。ゲストはあばれる君。</desc>
+  </programme>
+  <programme start="20220121155500 +0900" stop="20220121160000 +0900" channel="eTele.jp">
+    <title lang="en">びじゅチューン!</title>
+    <desc lang="en">バルセロナのサグラダ・ファミリアがテーマ。糸巻きのような形の鐘塔、町を覆うストールが編めそう。「神は急いでいない」というガウディの言葉どおり、ゆったりペースで。</desc>
+  </programme>
+  <programme start="20220121160000 +0900" stop="20220121160500 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「新呼吸」うた三浦大知／「ギターケースの中の僕」うた中嶋ユキノ</desc>
   </programme>
   <programme start="20220120155000 +0900" stop="20220120190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
@@ -1986,10 +1994,10 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20220120145200 +0900" stop="20220120154800 +0900" channel="Asahi.jp">
-  <title lang="en">科捜研の女15</title>
-  <desc lang="en">「マリコ最後の鑑定！完全犯罪を暴く衝撃のＤＮＡ奪取」沢口靖子(他)▽死神・落合刑事にまたもや証拠ねつ造疑惑が浮上。歪んだ正義の果て、彼女がとった驚愕の行動とは…</desc>
-</programme>
+  <programme start="20220121155000 +0900" stop="20220121190000 +0900" channel="NipponTV.jp">
+    <title lang="en">news every.</title>
+    <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+  </programme>
 <programme start="20220120154800 +0900" stop="20220120164500 +0900" channel="Asahi.jp">
   <title lang="en">相棒season7</title>
   <desc lang="en">「悪意の行方」水谷豊(他)▽右京と陣川が何者かに拉致監禁されるが、幸いある女性の通報がきっかけで救出された。陣川が特命係にいたころに逮捕した人間の恨みによる犯行か…</desc>
@@ -2121,9 +2129,9 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <title lang="en">科捜研の女16</title>
   <desc lang="en">「雪山カップルを狙う銃弾！５℃以下で白く光る美女⁉」沢口靖子(他)▽登山道で左腕を撃たれた若い女性が保護された。彼女が持っていた２枚の写真に疑問を抱いたマリコは…</desc>
 </programme>
-<programme start="20220120135500 +0900" stop="20220120154900 +0900" channel="TBS2.jp">
-  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
-  <desc lang="en">▼速報！吉村知事会見　まん延防止　大阪への適用は？感染全国拡大…いつ収束？▼きょうは大寒！京都も雪？生中継▼淡路島の巨大観音解体　生中継！どう解体？ほか(予定）</desc>
+<programme start="20220121154800 +0900" stop="20220121164500 +0900" channel="Asahi.jp">
+  <title lang="en">相棒 season 15</title>
+  <desc lang="en">「フェイク」水谷豊、反町隆史(他)▽児童誘拐事件が発生した。誘拐犯との極限の頭脳戦。二転三転する事態の中、疑惑の母親が右京と亘を翻弄⁉事件は驚がくの結末を迎える…</desc>
 </programme>
 <programme start="20220120154900 +0900" stop="20220120190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
@@ -2199,9 +2207,9 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
-<programme start="20220120134000 +0900" stop="20220120154000 +0900" channel="TVTokyo.jp">
-  <title lang="en">午後のロードショー</title>
-  <desc lang="en">誘拐された娘を救うためタイに乗り込む元ＣＩＡ工作員。行く手には壮絶な闘いと巨大な陰謀が待ち受ける！スティーブン・セガール主演のアクションサスペンス</desc>
+<programme start="20220121154900 +0900" stop="20220121190000 +0900" channel="TBS2.jp">
+  <title lang="en">Nスタ</title>
+  <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
 </programme>
 <programme start="20220120154000 +0900" stop="20220120165400 +0900" channel="TVTokyo.jp">
   <title lang="en">よじごじDays</title>
@@ -2363,9 +2371,9 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <title lang="en">午後のロードショー</title>
   <desc lang="en">クリント・イーストウッド主演。懸賞金を騙し取っていたコンビに凄腕ガンマンが参戦。２０万ドルのお宝争奪戦！３人が騙し騙され合う痛快ウエスタン！</desc>
 </programme>
-<programme start="20220120144500 +0900" stop="20220120154500 +0900" channel="FujiTV.jp">
-  <title lang="en">ゴシップ 彼女が知りたい本当の○○</title>
-  <desc lang="en">娘たちを心配する源太郎（吉田鋼太郎）は取引先の大森（浜野謙太）を気に入り酔った勢いで自宅に連れてくるが…</desc>
+<programme start="20220121154000 +0900" stop="20220121165400 +0900" channel="TVTokyo.jp">
+  <title lang="en">よじごじDays</title>
+  <desc lang="en">ほのか＆和地つかさが冬の草津温泉へ▽２３種の湯めぐりが自慢！全室露天風呂付きの湯宿▽名物グルメ！舞茸天ぷらと熊笹うどん▽伝統の湯もみ体験▽足湯ならぬ顔湯とは？</desc>
 </programme>
 <programme start="20220120154500 +0900" stop="20220120190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
@@ -2467,17 +2475,9 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <title lang="en">ドクターホワイト</title>
   <desc lang="en">「それ、誤診です」医者をも凌駕する医療知識の持ち主は記憶喪失で社会性ゼロ！？謎に包まれた女性・白夜が天才的な診断能力で誤診を覆し患者の命を救う！彼女は一体何者？</desc>
 </programme>
-<programme start="20220120145900 +0900" stop="20220120150000 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220120150000 +0900" stop="20220120153000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220120153000 +0900" stop="20220120155800 +0900" channel="Tokyo MX">
-  <title lang="en">花道だけ歩きましょう 〜恋の花が咲きました〜</title>
-  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+<programme start="20220121154500 +0900" stop="20220121190000 +0900" channel="FujiTV.jp">
+  <title lang="en">Live News イット!</title>
+  <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
 <programme start="20220120155800 +0900" stop="20220120160000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -2668,6 +2668,18 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220121153000 +0900" stop="20220121155800 +0900" channel="Tokyo MX">
+  <title lang="en">花道だけ歩きましょう 〜恋の花が咲きました〜</title>
+  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+</programme>
+<programme start="20220121155800 +0900" stop="20220121160000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220121160000 +0900" stop="20220121163000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220120000000 +0900" stop="20220120010000 +0900" channel="FujiNext.jp">
 <title lang="en">みんなの鉄道　25「くりはら田園鉄道」</title>
 <desc>25『くりはら田園鉄道』　JR東北本線との接続駅「石越」から「細倉マインパーク前」へと至る、駅数16、営業キロ25.7kmの路線。　＜ナレーション＞堺正幸アナ
@@ -2741,7 +2753,7 @@ THE BOYZのメンバーが出演したシーンをまとめてお届け！
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220120/7359876/image/010f2c14801b0951506f9e2b4f030bd1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220120160000 +0900" stop="20220120170000 +0900" channel="FujiNext.jp">
@@ -3021,7 +3033,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【1月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220120/7358855/image/bca2d0e917bb6a89e1b9ba3c3419af75.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220120160000 +0900" stop="20220120170000 +0900" channel="FujiOne.jp">
