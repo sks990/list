@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220123150000 +0900" stop="20220123160000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ルパン三世(PART2)</title>
-  <desc lang="en">90「悪い奴ほど大悪党」
-91「時を駆ける少女」
-ルパン一味が日本から脱出して5年。世界に散っていたルパン・ファミ…</desc>
-</programme>
 <programme start="20220123160000 +0900" stop="20220123170000 +0900" channel="ANIMAX.jp">
   <title lang="en">ブラッククローバー</title>
   <desc lang="en">91「メレオレオナVS不実のライア」
@@ -207,6 +201,12 @@
 10「それが僕らの生きる道」
 三千年の時を経て復活した、魔神族の精鋭“十戒”との戦いに“…</desc>
 </programme>
+<programme start="20220124170000 +0900" stop="20220124180000 +0900" channel="ANIMAX.jp">
+  <title lang="en">ダイヤのA‐SECOND SEASON‐</title>
+  <desc lang="en">32「背負う覚悟」33「エースの本能」
+もう一度、あのミットに投げ込みたい…。
+捕手・御幸一也との出会いが、少年・…</desc>
+</programme>
 <programme start="20220123000000 +0900" stop="20220123010000 +0900" channel="FujiNext.jp">
 <title lang="en">西川貴教の僕らの音楽！第29回Little Glee Monster・ASCA他</title>
 <desc>帰って来た西川貴教の僕らの音楽！武部聡志ピアノデイズ続篇Little Glee Monster・ASCA！林青空「Summer Blizzard」クレイ勇輝も！
@@ -328,7 +328,7 @@
 <title lang="en">ラーメンWalker TV2　301　早稲田「ラーメン巌哲」</title>
 <desc>「ラーメンWalkerグランプリ東京2021」第1位！ 早稲田『ラーメン巌哲』
 ＜出演＞田中貴（サニーデイ・サービス）　田中真琴
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7359940/image/ea2425b13a9946d041f3cdeb5be49561.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123170000 +0900" stop="20220123190000 +0900" channel="FujiNext.jp">
@@ -530,7 +530,7 @@
 <desc>大森「珈琲亭 ルアン」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7358935/image/13e57ecf1be3c04c4678bf3fac91a3ca.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123170000 +0900" stop="20220123180000 +0900" channel="FujiOne.jp">
@@ -732,7 +732,7 @@ https//otn.fujitv.co.jp
 <desc>最終話　＜出演＞ソル・イナ　キム・ジェヨン　チョ・ユニ　ユン・バク　オ・ミンソク　ほか
 ▽2つの家族の再生を描くハートフル・ホームドラマ
 （全50話）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7359134/image/14550b40f64fec752ae1b84c64c7d63c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123170000 +0900" stop="20220123175000 +0900" channel="FujiTwo.jp">
@@ -1380,9 +1380,9 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220123151500 +0900" stop="20220123161500 +0900" channel="eTele.jp">
-    <title lang="en">美輪明宏 愛のモヤモヤ相談室</title>
-    <desc lang="en">正月からモヤモヤしたお悩みを、スッキリしませんか？！　美輪明宏さんが、高瀬アナと共に愛があふれる言葉でお答えする５９分。ゲストはＹＯＵ、ファーストサマーウイカ</desc>
+  <programme start="20220124170000 +0900" stop="20220124175700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース シブ5時</title>
+    <desc lang="en">▽「値上げの冬」家計を直撃　野菜主要産地の不作影響いつまで？　▽大相撲初場所振り返り　能町みね子さん生出演</desc>
   </programme>
   <programme start="20220123161500 +0900" stop="20220123170000 +0900" channel="eTele.jp">
     <title lang="en">令和の寺子屋</title>
@@ -1672,13 +1672,25 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">みんなのうた</title>
     <desc lang="en">「新呼吸」うた三浦大知／「ギターケースの中の僕」うた中嶋ユキノ</desc>
   </programme>
-  <programme start="20220123153000 +0900" stop="20220123165000 +0900" channel="NipponTV.jp">
-    <title lang="en">有吉ゼミ</title>
-    <desc lang="en">明日のSPはチャレンジグルメに五輪選手＆Mー1ファイナリストが参戦！激辛VSＨｉＨｉ▼工藤農園に父工藤公康も緊急参戦で幻野菜に挑む！その前に過去の傑作選をお届け</desc>
+  <programme start="20220124160500 +0900" stop="20220124162000 +0900" channel="eTele.jp">
+    <title lang="en">いないいないばあっ!</title>
+    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
   </programme>
-  <programme start="20220123165000 +0900" stop="20220123165500 +0900" channel="NipponTV.jp">
-    <title lang="en">一行ポップ</title>
-    <desc lang="en">言葉のプロ＝コピーライターが、一行のコピーで番組の魅力を表現します。</desc>
+  <programme start="20220124162000 +0900" stop="20220124164400 +0900" channel="eTele.jp">
+    <title lang="en">おかあさんといっしょ</title>
+    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+  </programme>
+  <programme start="20220124164400 +0900" stop="20220124164500 +0900" channel="eTele.jp">
+    <title lang="en">あおきいろ</title>
+    <desc lang="en">子ども向けＳＤＧｓ番組「あおきいろ」のテーマソング「ツバメ」のダンスミュージックビデオの１分版。今回は、みんなが踊れる「子ツバメ」バージョンだよ！</desc>
+  </programme>
+  <programme start="20220124164500 +0900" stop="20220124170000 +0900" channel="eTele.jp">
+    <title lang="en">みいつけた!</title>
+    <desc lang="en">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+  </programme>
+  <programme start="20220124170000 +0900" stop="20220124171000 +0900" channel="eTele.jp">
+    <title lang="en">にほんごであそぼ</title>
+    <desc lang="en">今週は「にほんごであそぼコンサート」を開く福井県の各地を、あもん、さつき、まりの３人が訪ねます。福井で「たのしみ」を探す旅の始まりです。</desc>
   </programme>
   <programme start="20220123165500 +0900" stop="20220123170000 +0900" channel="NipponTV.jp">
     <title lang="en">Huluはじめました。</title>
@@ -1809,10 +1821,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">news every.</title>
     <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
   </programme>
-<programme start="20220123152000 +0900" stop="20220123161500 +0900" channel="Asahi.jp">
-  <title lang="en">坂上くんが試してみた!!通販☆家事スクール</title>
-  <desc lang="en">坂上忍VS大ヒット商品‼あの有名寝具メーカーの極ふわ毛布セットが大特価‼コゲない⁉高級㊙フライパン＆たった１分ジャンプするだけで驚きの変化⁉最新健康グッズが登場‼</desc>
-</programme>
 <programme start="20220123161500 +0900" stop="20220123172500 +0900" channel="Asahi.jp">
   <title lang="en">路線バスで寄り道お買い物の旅</title>
   <desc lang="en">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回、目指すのは渋谷〜初台〜笹塚で渋谷区の人気エリアを巡る旅！</desc>
@@ -1943,6 +1951,10 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">相棒 season16</title>
   <desc lang="en">「騙し討ち」水谷豊、反町隆史(他)▽自宅で殺害されたＩＴ社員に贈収賄疑惑が…。一課ｖｓ二課の対立が勃発する中、二課の刑事と秘密裏に捜査協力を結んだ特命係が動き出す。</desc>
 </programme>
+<programme start="20220124164500 +0900" stop="20220124190000 +0900" channel="Asahi.jp">
+  <title lang="en">スーパーJチャンネル</title>
+  <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+</programme>
 <programme start="20220123153000 +0900" stop="20220123170000 +0900" channel="TBS2.jp">
   <title lang="en">妻、小学生になる。</title>
   <desc lang="en">堤真一主演！金曜ドラマ「妻、小学生になる。」第１話をもう一度！</desc>
@@ -2035,10 +2047,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220124154900 +0900" stop="20220124190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
-</programme>
-<programme start="20220123140000 +0900" stop="20220123160000 +0900" channel="TVTokyo.jp">
-  <title lang="en">さすらい署長スペシャル 金沢〜輪島・金箔殺人事件</title>
-  <desc lang="en">北大路欣也主演の人気シリーズ！さすらい署長・風間昭平が帰ってきた▼犯人は姿を消した刑事!?金沢の転落死と輪島の刺殺事件…狙われた花嫁とふたつを繋ぐ15年前の悲劇！</desc>
 </programme>
 <programme start="20220123160000 +0900" stop="20220123171500 +0900" channel="TVTokyo.jp">
   <title lang="en">イラッと経済〜不満の先に金脈あり!家電…タレ袋…美容に大革命〜</title>
@@ -2187,17 +2195,13 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">よじごじDays</title>
   <desc lang="en">鉄道専門家と巡る西武＆秩父の鉄道旅！デザインに隠された秘密＆窓やつり革の知られざる工夫を専門家が解説！駅舎の豆知識や途中下車での冬の絶景、終着駅のご当地グルメも</desc>
 </programme>
-<programme start="20220123150000 +0900" stop="20220123160000 +0900" channel="FujiTV.jp">
-  <title lang="en">みんなのKEIBA</title>
-  <desc lang="en">今年の古馬戦線を占う伝統の一戦！第６３回ＡＪＣＣ・ＧⅡ▽菊花賞２着オーソクレースが始動！春ＧⅠへ飛躍を遂げるのは？▽注目中京ダートＧⅡ・東海ステークス</desc>
+<programme start="20220124165400 +0900" stop="20220124170000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ゆうがたサテライト</title>
+  <desc lang="en">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
 </programme>
-<programme start="20220123160000 +0900" stop="20220123160500 +0900" channel="FujiTV.jp">
+<programme start="20220124170000 +0900" stop="20220124171000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
-  <desc lang="en">　</desc>
-</programme>
-<programme start="20220123160500 +0900" stop="20220123162500 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">今夜７時は大人気企画スポーツ名門校ＳＰ！世界で活躍するアスリートを排出する青森山田＆宮崎・延岡学園＆金メダリスト輩出・白樺学園のスケート部寮生活に密着！</desc>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
 <programme start="20220123162500 +0900" stop="20220123172500 +0900" channel="FujiTV.jp">
   <title lang="en">ミステリと言う勿れ</title>
@@ -2301,14 +2305,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220124154500 +0900" stop="20220124190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-</programme>
-<programme start="20220123155900 +0900" stop="20220123160000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220123160000 +0900" stop="20220123163000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220123163000 +0900" stop="20220123170000 +0900" channel="Tokyo MX">
   <title lang="en">おぎやはぎのハピキャン</title>
@@ -2490,6 +2486,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220124163000 +0900" stop="20220124170000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220124170000 +0900" stop="20220124180000 +0900" channel="Tokyo MX">
+  <title lang="en">5時に夢中!</title>
+  <desc lang="en">ゲストコメンテーターに「バラいろダンディ」からアナウンサー安東弘樹登場！マツコと井戸端ワイドショー開演！▼やっつけ晩御飯で夕飯レシピ完全攻略！</desc>
+</programme>
 <programme start="20220123000000 +0900" stop="20220123010000 +0900" channel="FujiNext.jp">
 <title lang="en">西川貴教の僕らの音楽！第29回Little Glee Monster・ASCA他</title>
 <desc>帰って来た西川貴教の僕らの音楽！武部聡志ピアノデイズ続篇Little Glee Monster・ASCA！林青空「Summer Blizzard」クレイ勇輝も！
@@ -2611,7 +2615,7 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <title lang="en">ラーメンWalker TV2　301　早稲田「ラーメン巌哲」</title>
 <desc>「ラーメンWalkerグランプリ東京2021」第1位！ 早稲田『ラーメン巌哲』
 ＜出演＞田中貴（サニーデイ・サービス）　田中真琴
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7359940/image/ea2425b13a9946d041f3cdeb5be49561.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123170000 +0900" stop="20220123190000 +0900" channel="FujiNext.jp">
@@ -2813,7 +2817,7 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <desc>大森「珈琲亭 ルアン」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7358935/image/13e57ecf1be3c04c4678bf3fac91a3ca.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123170000 +0900" stop="20220123180000 +0900" channel="FujiOne.jp">
@@ -3015,7 +3019,7 @@ https//otn.fujitv.co.jp
 <desc>最終話　＜出演＞ソル・イナ　キム・ジェヨン　チョ・ユニ　ユン・バク　オ・ミンソク　ほか
 ▽2つの家族の再生を描くハートフル・ホームドラマ
 （全50話）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7359134/image/14550b40f64fec752ae1b84c64c7d63c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123170000 +0900" stop="20220123175000 +0900" channel="FujiTwo.jp">
