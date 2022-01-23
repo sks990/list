@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220123160000 +0900" stop="20220123170000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ブラッククローバー</title>
-  <desc lang="en">91「メレオレオナVS不実のライア」
-92「魔法帝VS白夜の魔眼頭首」
-魔法がすべての、とある世界…。生まれながらに魔…</desc>
-</programme>
 <programme start="20220123170000 +0900" stop="20220123180000 +0900" channel="ANIMAX.jp">
   <title lang="en">SK∞ エスケーエイト</title>
   <desc lang="en">11 PART「キング VS ザコ」
@@ -206,6 +200,12 @@
   <desc lang="en">32「背負う覚悟」33「エースの本能」
 もう一度、あのミットに投げ込みたい…。
 捕手・御幸一也との出会いが、少年・…</desc>
+</programme>
+<programme start="20220124180000 +0900" stop="20220124190000 +0900" channel="ANIMAX.jp">
+  <title lang="en">僕のヒーローアカデミア</title>
+  <desc lang="en">7「デクvsかっちゃん」
+8「スタートライン、爆豪の。」
+人口の8割が何らかの特異体質である超人社会となった現在。…</desc>
 </programme>
 <programme start="20220123000000 +0900" stop="20220123010000 +0900" channel="FujiNext.jp">
 <title lang="en">西川貴教の僕らの音楽！第29回Little Glee Monster・ASCA他</title>
@@ -537,7 +537,7 @@
 <title lang="en">野性爆弾のヴィンテージ王国　9「超マニアックショップに潜入！」</title>
 <desc>「超マニアックショップに潜入！くっきー歓喜の英国バイクアイテム＆超マッチョなアメ車発見！」
 ＜出演＞野性爆弾　本郷杏奈
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7358936/image/b6df1bc64092f6d15d19f5376a741f1d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123180000 +0900" stop="20220123193000 +0900" channel="FujiOne.jp">
@@ -1384,21 +1384,13 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">ニュース シブ5時</title>
     <desc lang="en">▽「値上げの冬」家計を直撃　野菜主要産地の不作影響いつまで？　▽大相撲初場所振り返り　能町みね子さん生出演</desc>
   </programme>
-  <programme start="20220123161500 +0900" stop="20220123170000 +0900" channel="eTele.jp">
-    <title lang="en">令和の寺子屋</title>
-    <desc lang="en">京都醍醐寺で行われた未来を担う子どもたちのための特別授業。演出家・宮本亞門が伝えるのは相手の気持ちに寄り添うことの大切さ。みんなが知るおとぎ話が違って見える！？</desc>
+  <programme start="20220124175700 +0900" stop="20220124180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220123170000 +0900" stop="20220123172500 +0900" channel="eTele.jp">
-    <title lang="en">ニャンちゅう!宇宙!放送チュー!</title>
-    <desc lang="en">地球のネコ「ニャンちゅう」と宇宙人の仲間たちが、地球の魅力を全宇宙人に向けて発信する幼児向け国際理解の番組。月にある宇宙放送カーから楽しく放送チュー！</desc>
-  </programme>
-  <programme start="20220123172500 +0900" stop="20220123173000 +0900" channel="eTele.jp">
-    <title lang="en">ミッフィーのぼうけん</title>
-    <desc lang="en">ミッフィーは学校で、ダンのかばんをまちがえて持ち帰ってしまう。かばんのなかにはワニのおもちゃが入っていた……。</desc>
-  </programme>
-  <programme start="20220123173000 +0900" stop="20220123175000 +0900" channel="eTele.jp">
-    <title lang="en">きかんしゃトーマス</title>
-    <desc lang="en">世界的知名度を誇るアニメ「きかんしゃトーマス」に待望の新シリーズが登場。トーマスが世界各地で出会いと冒険を繰り広げるほか、ソドー島にも新しい仲間がやってくる。</desc>
+  <programme start="20220124180000 +0900" stop="20220124181000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース シブ5時</title>
+    <desc lang="en">▽最新のニュースをお伝えします。</desc>
   </programme>
   <programme start="20220123175000 +0900" stop="20220123180000 +0900" channel="eTele.jp">
     <title lang="en">こども手話ウイークリー</title>
@@ -1692,17 +1684,33 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">にほんごであそぼ</title>
     <desc lang="en">今週は「にほんごであそぼコンサート」を開く福井県の各地を、あもん、さつき、まりの３人が訪ねます。福井で「たのしみ」を探す旅の始まりです。</desc>
   </programme>
-  <programme start="20220123165500 +0900" stop="20220123170000 +0900" channel="NipponTV.jp">
-    <title lang="en">Huluはじめました。</title>
-    <desc lang="en">法廷を舞台に州検事の少数精鋭チームが世論や権力闘争に苦悩しながらも正義を追求▼大人気「シカゴ」シリーズの４作目「シカゴ・ジャスティス」を特集</desc>
+  <programme start="20220124171000 +0900" stop="20220124172000 +0900" channel="eTele.jp">
+    <title lang="en">えいごであそぼ with Orton</title>
+    <desc lang="en">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
   </programme>
-  <programme start="20220123170000 +0900" stop="20220123172500 +0900" channel="NipponTV.jp">
-    <title lang="en">上田晋也の日本メダル話</title>
-    <desc lang="en">北京五輪特集▼羽生結弦を荒川静香が直撃！知られざる苦悩そして新たな挑戦▼スピードスケート最強姉妹髙木菜那＆美帆</desc>
+  <programme start="20220124172000 +0900" stop="20220124172500 +0900" channel="eTele.jp">
+    <title lang="en">おちゃめなシモン</title>
+    <desc lang="en">スーパーヒーローごっこをして遊ぶシモンとガスパール。赤ちゃん用のハンカチを手放せないでいる弟をスーパーヒーローにするため、シモンはハンカチと決別させようとする。</desc>
   </programme>
-  <programme start="20220123172500 +0900" stop="20220123173000 +0900" channel="NipponTV.jp">
-    <title lang="en">もう笑点</title>
-    <desc lang="en">１７時３０分から放送する「笑点」よりも５分早く「笑点」をみる事が出来るのが「もう笑点」です。昇太師匠をメインとした司会とメンバーによるおひとりさま大喜利。</desc>
+  <programme start="20220124172500 +0900" stop="20220124173500 +0900" channel="eTele.jp">
+    <title lang="en">はなかっぱ</title>
+    <desc lang="en">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+  </programme>
+  <programme start="20220124173500 +0900" stop="20220124174500 +0900" channel="eTele.jp">
+    <title lang="en">ミミクリーズ</title>
+    <desc lang="en">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
+  </programme>
+  <programme start="20220124174500 +0900" stop="20220124175500 +0900" channel="eTele.jp">
+    <title lang="en">ゴー!ゴー!キッチン戦隊クックルン</title>
+    <desc lang="en">アニメ×実写の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルン伝説の島を舞台に、クックルン３人と遠い星からきた姫が繰り広げる大冒険の物語。</desc>
+  </programme>
+  <programme start="20220124175500 +0900" stop="20220124180000 +0900" channel="eTele.jp">
+    <title lang="en">オトッペ</title>
+    <desc lang="en">音から生まれた不思議な生きもの・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
+  </programme>
+  <programme start="20220124180000 +0900" stop="20220124181000 +0900" channel="eTele.jp">
+    <title lang="en">わしも</title>
+    <desc lang="en">おばあちゃん型ロボット「わしも」が、小学生の女の子「ひよりちゃん」のもとにやってきた。新幹線より速いスーパーおばあちゃんが、楽しい騒動を巻き起こす！</desc>
   </programme>
   <programme start="20220123173000 +0900" stop="20220123180000 +0900" channel="NipponTV.jp">
     <title lang="en">笑点</title>
@@ -1821,17 +1829,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">news every.</title>
     <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
   </programme>
-<programme start="20220123161500 +0900" stop="20220123172500 +0900" channel="Asahi.jp">
-  <title lang="en">路線バスで寄り道お買い物の旅</title>
-  <desc lang="en">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回、目指すのは渋谷〜初台〜笹塚で渋谷区の人気エリアを巡る旅！</desc>
-</programme>
-<programme start="20220123172500 +0900" stop="20220123173000 +0900" channel="Asahi.jp">
-  <title lang="en">二十歳の挑戦</title>
-  <desc lang="en">番組では、それぞれが歩みだした２０歳前後の日々を、
-ドキュメント感あふれる映像で紹介。
-答えは一つではない
-一歩を踏み出した本気の「挑戦」にエールを送ります。</desc>
-</programme>
 <programme start="20220123173000 +0900" stop="20220123180000 +0900" channel="Asahi.jp">
   <title lang="en">ANNスーパーJチャンネル</title>
   <desc lang="en">感染拡大…まん延防止対象地域は▽感染者数(他)</desc>
@@ -1955,14 +1952,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">スーパーJチャンネル</title>
   <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
 </programme>
-<programme start="20220123153000 +0900" stop="20220123170000 +0900" channel="TBS2.jp">
-  <title lang="en">妻、小学生になる。</title>
-  <desc lang="en">堤真一主演！金曜ドラマ「妻、小学生になる。」第１話をもう一度！</desc>
-</programme>
-<programme start="20220123170000 +0900" stop="20220123173000 +0900" channel="TBS2.jp">
-  <title lang="en">所さんお届けモノです!</title>
-  <desc lang="en">寒〜い冬を楽しく乗り切る個性派家電＆ほかほかグルメをお届けします▼所さんも欲しいーと叫んだ逸品、スゴイです！▼この時期絶対に欲しい最新グッズの数々をお楽しみに！</desc>
-</programme>
 <programme start="20220123173000 +0900" stop="20220123180000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">▼新型コロナ最新情報▼シリーズＳＤＧｓ「庭木のマッチング」環境・文化を守る造園業者の取り組み</desc>
@@ -2047,18 +2036,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220124154900 +0900" stop="20220124190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
-</programme>
-<programme start="20220123160000 +0900" stop="20220123171500 +0900" channel="TVTokyo.jp">
-  <title lang="en">イラッと経済〜不満の先に金脈あり!家電…タレ袋…美容に大革命〜</title>
-  <desc lang="en">あの飛び散りにイラッ！納豆の「液体タレ袋」問題に迫る！▼化粧品こっそり使う夫にイラッ！男性コスメ熱狂の謎▼家電の多すぎる機能にイラッ！㊙ウラ事情を企業に突撃取材</desc>
-</programme>
-<programme start="20220123171500 +0900" stop="20220123172000 +0900" channel="TVTokyo.jp">
-  <title lang="en">My Green Life 脱炭素でかなう心地よい暮らし</title>
-  <desc lang="en">全てに関わる“脱炭素”に意識を向け、ビジネスや暮らしを心地よく変えた人たちがいます。そんな人たちから、何かヒントが得られる日曜夕方のひとときです。</desc>
-</programme>
-<programme start="20220123172000 +0900" stop="20220123173000 +0900" channel="TVTokyo.jp">
-  <title lang="en">TXNニュース</title>
-  <desc lang="en">日本や世界の最新ニュースをコンパクトにお伝えする。</desc>
 </programme>
 <programme start="20220123173000 +0900" stop="20220123180000 +0900" channel="TVTokyo.jp">
   <title lang="en">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
@@ -2203,13 +2180,13 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en"></title>
   <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
 </programme>
-<programme start="20220123162500 +0900" stop="20220123172500 +0900" channel="FujiTV.jp">
-  <title lang="en">ミステリと言う勿れ</title>
-  <desc lang="en">菅田将暉主演！奇妙なバスジャックに巻き込まれた整。ただただ喋ってあぶり出すバスジャックの真の目的とは？！第２話で描かれたバスジャック前編をおさらい！</desc>
+<programme start="20220124171000 +0900" stop="20220124173000 +0900" channel="TVTokyo.jp">
+  <title lang="en">虎ノ門市場 〜毎日、幸せごはん。〜</title>
+  <desc lang="en">地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。テレビ東京「虎ノ門市場」でお取り寄せも可能です！</desc>
 </programme>
-<programme start="20220123172500 +0900" stop="20220123173000 +0900" channel="FujiTV.jp">
-  <title lang="en">うたつむぎ</title>
-  <desc lang="en">今週のアーティストは花村想太さんとキタニタツヤさん。ここでしか見られない音楽のコラボレーションをお届けします。</desc>
+<programme start="20220124173000 +0900" stop="20220124182500 +0900" channel="TVTokyo.jp">
+  <title lang="en">記憶捜査 新宿東署事件ファイル</title>
+  <desc lang="en">新宿東署の司法係長・鬼塚一路（北大路欣也）が「昭和」と「平成」ふたつの時代の街の記憶から犯行現場を描き出し事件の真相に迫る本格的な推理エンターテインメントドラマ</desc>
 </programme>
 <programme start="20220123173000 +0900" stop="20220123180000 +0900" channel="FujiTV.jp">
   <title lang="en">FNN Live News イット!</title>
@@ -2305,14 +2282,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220124154500 +0900" stop="20220124190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-</programme>
-<programme start="20220123163000 +0900" stop="20220123170000 +0900" channel="Tokyo MX">
-  <title lang="en">おぎやはぎのハピキャン</title>
-  <desc lang="en">キャンプ初心者のおぎやはぎが、ハッピーな仲間と一緒にキャンプを体験する「アウトドア・ドキュメント・バラエティ」</desc>
-</programme>
-<programme start="20220123170000 +0900" stop="20220123175500 +0900" channel="Tokyo MX">
-  <title lang="en">探偵!ナイトスクープ</title>
-  <desc lang="en">依頼は、橋本直探偵が調査した『もう一度「銃剣道」で戦いたい』、真栄田賢探偵の『父のお腹をつねって１００万円⁉』、石田靖探偵の『暗闇が怖いボクシング元世界王者』</desc>
 </programme>
 <programme start="20220123175500 +0900" stop="20220123180000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2493,6 +2462,10 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220124170000 +0900" stop="20220124180000 +0900" channel="Tokyo MX">
   <title lang="en">5時に夢中!</title>
   <desc lang="en">ゲストコメンテーターに「バラいろダンディ」からアナウンサー安東弘樹登場！マツコと井戸端ワイドショー開演！▼やっつけ晩御飯で夕飯レシピ完全攻略！</desc>
+</programme>
+<programme start="20220124180000 +0900" stop="20220124183000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220123000000 +0900" stop="20220123010000 +0900" channel="FujiNext.jp">
 <title lang="en">西川貴教の僕らの音楽！第29回Little Glee Monster・ASCA他</title>
@@ -2824,7 +2797,7 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <title lang="en">野性爆弾のヴィンテージ王国　9「超マニアックショップに潜入！」</title>
 <desc>「超マニアックショップに潜入！くっきー歓喜の英国バイクアイテム＆超マッチョなアメ車発見！」
 ＜出演＞野性爆弾　本郷杏奈
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220123/7358936/image/b6df1bc64092f6d15d19f5376a741f1d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220123180000 +0900" stop="20220123193000 +0900" channel="FujiOne.jp">
