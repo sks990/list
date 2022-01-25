@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220125193000 +0900" stop="20220125200000 +0900" channel="ANIMAX.jp">
-  <title lang="en">うらみちお兄さん</title>
-  <desc lang="en">1「うらみちお兄さん」
-教育番組「ママンとトゥギャザー」の体操のお兄さん、表田裏道。通称・うらみちお兄さんは子…</desc>
-</programme>
 <programme start="20220125200000 +0900" stop="20220125210000 +0900" channel="ANIMAX.jp">
   <title lang="en">機動戦士Zガンダム</title>
   <desc lang="en">29「サイド2の危機」
@@ -225,6 +220,12 @@
 32「謎のモビルスーツ」
 反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティ…</desc>
 </programme>
+<programme start="20220126210000 +0900" stop="20220126220000 +0900" channel="ANIMAX.jp">
+  <title lang="en">転生したらスライムだった件</title>
+  <desc lang="en">3「ゴブリン村での戦い」
+4「ドワーフの王国にて」
+三上悟は通り魔に刺され死亡し、気がつくと異世界に転生していた…</desc>
+</programme>
 <programme start="20220125000000 +0900" stop="20220125010000 +0900" channel="FujiNext.jp">
 <title lang="en">翔太さまと執事西山のオタワムレ超　1　　超人気声優×2.5次元俳優！</title>
 <desc>＜ホスト＞蒼井翔太　西山宏太朗
@@ -350,7 +351,7 @@ https//otn.fujitv.co.jp
 <title lang="en">春の高校バレー ハイライト　3　2003年 女子決勝「成徳学園×文京学院女大」</title>
 <desc>2003年 女子決勝「成徳学園 vs 文京学院女大」
 ▽木村沙織 春高連覇へ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220125/7419820/image/215205cbed5b935bf423c36cba63e3a4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220125210000 +0900" stop="20220125220000 +0900" channel="FujiNext.jp">
@@ -579,7 +580,7 @@ https//otn.fujitv.co.jp
 ＜怪員（怪談師）＞ぁみ　黒史郎　藤田第六感
 ▽実話怪談の本格派ホラー番組！
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220125/7419865/image/49b47de7e28e51a466ed3a97ba58205c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220125210000 +0900" stop="20220125220000 +0900" channel="FujiOne.jp">
@@ -1047,7 +1048,7 @@ https//otn.fujitv.co.jp
 <programme start="20220125201500 +0900" stop="20220125210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 32　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220125/7427194/image/cc3a2bcf04626431d8614954ffd48b58.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220125210000 +0900" stop="20220125220000 +0900" channel="kbsworld.jp">
@@ -1323,14 +1324,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220125195700 +0900" stop="20220125204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">うたコン</title>
-    <desc lang="en">ＢＲＥＡＫＥＲＺコナン新曲▽久々登場！和田アキ子▽祝周年！堀内孝雄・伍代夏子・松本伊代デビュー当時の貴重映像も▽三山・福田・おかゆ・クミコ・モー娘。</desc>
-  </programme>
-  <programme start="20220125204200 +0900" stop="20220125204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHK</title>
-    <desc lang="en">【キャスター】林田理沙</desc>
-  </programme>
   <programme start="20220125204500 +0900" stop="20220125210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -1571,17 +1564,21 @@ https//otn.fujitv.co.jp
     <title lang="en">たけしのその時カメラは回っていた</title>
     <desc lang="en">ビートたけし＆桑子真帆アナが冬季五輪の裏側に迫る！冬の大会は初めは夏のおまけだった？札幌大会での日本チームの猛練習法とは？今では見られない幻のスキー競技とは？</desc>
   </programme>
-  <programme start="20220125195500 +0900" stop="20220125200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20220126201500 +0900" stop="20220126204200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ロコだけが知っている</title>
+    <desc lang="en">お宝ＳＰ▼６０００万人以上動員した伝説の大阪万博。そのお宝を調べると…人生激変した関西人に重岡大毅が仰天▼鹿児島“子宝の島”の秘密に哀川翔も感心▼サンド×地元愛</desc>
   </programme>
-  <programme start="20220125200000 +0900" stop="20220125203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">その日初めて出会った障害者と旅に出て、世界を広げようという企画。ヤンキー×難病の車いすユーザー。ギャル×視覚障害者。果たして、どんな結末が待っているのか！？</desc>
+  <programme start="20220126204200 +0900" stop="20220126204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20220125203000 +0900" stop="20220125204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">肩が激しく痛む、腕が上がらない、多くの中高年に起こる五十肩。治療で大切なのはタイミング。これを誤ると回復が遅れたり悪い状態に逆戻りする。治療の秘けつを徹底解説</desc>
+  <programme start="20220126204500 +0900" stop="20220126210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20220126210000 +0900" stop="20220126220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽新型コロナ国内の感染拡大は？▽アメリカ進む子どものワクチン接種最前線を取材▽男性にも「更年期症状」</desc>
   </programme>
   <programme start="20220125204500 +0900" stop="20220125210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -1919,9 +1916,17 @@ https//otn.fujitv.co.jp
     <title lang="en">ハートネットTV</title>
     <desc lang="en">「動画ばかり見る」「不登校になった」「一人暮らしができるか」など発達障害に関する悩みごとに、キャリア３０年のスペシャリスト、精神科医の本田秀夫先生が全力回答！</desc>
   </programme>
-  <programme start="20220125195600 +0900" stop="20220125205400 +0900" channel="NipponTV.jp">
-    <title lang="en">踊る!さんま御殿!!</title>
-    <desc lang="en">竹内由恵と川田裕美の女性アナ同士のマウント合戦勃発！話題の関西ギャルゆうちゃみが東京男に物申す！エセ関西弁を使ってしまった港区女子ｃｈａｙになにわ軍団が猛口撃！</desc>
+  <programme start="20220126203000 +0900" stop="20220126204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">肩が激しく痛む、腕が上がらない、症状は五十肩と似ているが腱（けん）板断裂の可能性も。腱板断裂は五十肩のようには自然と治らない。見分け方と治療法を特集する</desc>
+  </programme>
+  <programme start="20220126204500 +0900" stop="20220126210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20220126210000 +0900" stop="20220126212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">みんなが喜ぶ定番料理を簡単に！調理の手間を省き納得のおいしさをかなえるコツを、ゆーママが伝授。ゲストは関西ジャニーズＪｒ．／Ａぇ！　ｇｒｏｕｐの福本大晴さん。</desc>
   </programme>
   <programme start="20220125205400 +0900" stop="20220125210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなく仰天ニュース</title>
@@ -2023,10 +2028,14 @@ https//otn.fujitv.co.jp
     <title lang="en">1億人の大質問!?笑ってコラえて!</title>
     <desc lang="en">若槻千夏がハシゴの旅へ！おしゃべり姉妹＆おもしろ夫婦など強キャラが続々！神木隆之介が小１に悩み相談で㊙私生活が！世界の驚きの年越しに藤原竜也＆小峠が大興奮！</desc>
   </programme>
-<programme start="20220125195400 +0900" stop="20220125200000 +0900" channel="Asahi.jp">
-  <title lang="en">まだまだ家事ヤロウ!!!</title>
-  <desc lang="en">バカリズム・中丸雄一・カズレーザーの家事初心者３人が家事をゼロから学ぶドキュメントバラエティー！家事の基礎を狭く・ユルく・深く学んでいく！</desc>
-</programme>
+  <programme start="20220126205400 +0900" stop="20220126210000 +0900" channel="NipponTV.jp">
+    <title lang="en">まだまだ笑ってコラえて!</title>
+    <desc lang="en">「湖ができるくらい泣ける！」ROLANDが何度見ても号泣する名作アニメの感動ストーリーとは？20年来の親友！山田孝之と松本まりかが栗山千明のオタクっぷりを暴露！</desc>
+  </programme>
+  <programme start="20220126210000 +0900" stop="20220126215400 +0900" channel="NipponTV.jp">
+    <title lang="en">今夜くらべてみました</title>
+    <desc lang="en">「湖ができるくらい泣ける！」ROLANDが何度見ても号泣する名作アニメの感動ストーリーとは？20年来の親友！山田孝之と松本まりかが栗山千明のオタクっぷりを暴露！</desc>
+  </programme>
 <programme start="20220125200000 +0900" stop="20220125215400 +0900" channel="Asahi.jp">
   <title lang="en">林修の今でしょ!講座</title>
   <desc lang="en">普段は教える立場の林修先生が生徒に変身！様々な分野に精通した講師が集まり、林修先生に知らない世界をレクチャーします！このタメになる講座いつ受けるか？今でしょ！</desc>
@@ -2147,9 +2156,19 @@ by.Tony Renis</desc>
   <title lang="en">あいつ今何してる?</title>
   <desc lang="en">バナナマン日村が絶交した親友と衝撃再会…設楽㊙お宝映像も▽市川海老蔵…中学留年⁉破天荒同級生が驚異の大転身▽88年デビュー・西田＆田中＆相田が気になる同期アイドル</desc>
 </programme>
-<programme start="20220125190000 +0900" stop="20220125205700 +0900" channel="TBS2.jp">
-  <title lang="en">バナナサンド</title>
-  <desc lang="en">🈑「バナナマンに仙台を案内したかった」念願の旅ロケでサンド一押しの仙台激アツスポット連発！グルメ＆温泉＆テレビ初公開の感動秘話▼憧れの吉川晃司とコント挑戦で爆笑</desc>
+<programme start="20220126205400 +0900" stop="20220126210000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">第１３話「死者の結婚」
+１３年前に死んだ少女が帰ってきた⁉
+弔いの“冥婚絵”と第二の殺人の謎！
+特命係が驚愕の真相に迫る‼</desc>
+</programme>
+<programme start="20220126210000 +0900" stop="20220126215400 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season20</title>
+  <desc lang="en">第１３話「死者の結婚」
+１３年前に死んだ少女が帰ってきた⁉
+弔いの“冥婚絵”と第二の殺人の謎！
+特命係が驚愕の真相に迫る‼</desc>
 </programme>
 <programme start="20220125205700 +0900" stop="20220125220000 +0900" channel="TBS2.jp">
   <title lang="en">マツコの知らない世界</title>
@@ -2232,10 +2251,6 @@ by.Tony Renis</desc>
 <programme start="20220126190000 +0900" stop="20220126215700 +0900" channel="TBS2.jp">
   <title lang="en">世界くらべてみたら</title>
   <desc lang="en">🈑🈓　世界の大阪王将！驚きの餃子が続々登場★アラスカ世界最北レストラン★湖池屋新作スナックは世界で通用する？★有村架純ノルウェー中継オーロラ見られるか？</desc>
-</programme>
-<programme start="20220125182500 +0900" stop="20220125205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">世界が騒然!本当にあった(秘)衝撃ファイル</title>
-  <desc lang="en">ハワイ・マウイ島を執念の大捜索！27歳妊婦失踪殺人ミステリー▼わずか24時間で大赤字のどん底レストランを救うカリスマ３つ星シェフ▼ニュージーランド空港税関密着</desc>
 </programme>
 <programme start="20220125205400 +0900" stop="20220125215400 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -2390,9 +2405,9 @@ by.Tony Renis</desc>
   <title lang="en">内村のツボる動画</title>
   <desc lang="en">浜口京子がショベルカーを人力で動かす!?天竺鼠瀬下が200キロ超剛速球キャッチ!?…それ本当？▼激ムズ！映像に紛れた芸能人は誰？▼世界衝撃映像…この後何が起こる!?</desc>
 </programme>
-<programme start="20220125190000 +0900" stop="20220125200000 +0900" channel="FujiTV.jp">
-  <title lang="en">今夜はナゾトレ</title>
-  <desc lang="en">Ｍ－１王者・錦鯉ＶＳこの冬知りたい流行グルメ＆絶景温泉ＳＰ！杉野遥亮ＶＳハナコＶＳフワちゃん…ＳＮＳで大人気の映えグルメ＆絶景温泉クイズで大白熱！？</desc>
+<programme start="20220126210000 +0900" stop="20220126215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">家、ついて行ってイイですか?</title>
+  <desc lang="en">高校生で妊娠＆結婚…波瀾万丈の同級生夫婦が抱える今の悩みとは！？▽話題！美容系おじさまの家で…衝撃の施し▽世界王者！マッチョな美男美女▽48歳独身“井戸男子”</desc>
 </programme>
 <programme start="20220125200000 +0900" stop="20220125210000 +0900" channel="FujiTV.jp">
   <title lang="en">潜在能力テスト</title>
@@ -2495,9 +2510,9 @@ by.Tony Renis</desc>
   <title lang="en">世界の何だコレ!?ミステリー</title>
   <desc lang="en">先月公開！ケネディ大統領暗殺事件の機密ファイル！緊急分析…謎だらけの事件に新展開？▽かつて日本に「鬼を倒す組織」が本当にいた？学術的に迫る鬼の正体▽長澤まさみも</desc>
 </programme>
-<programme start="20220125190000 +0900" stop="20220125200000 +0900" channel="Tokyo MX">
-  <title lang="en">トムとジェリー</title>
-  <desc lang="en">＃１５「西部のあばれもの／油断大敵／ふんだりけったり」＃１６「ただいまお昼寝中／ダンスは楽し／腹ぺこブッチ」</desc>
+<programme start="20220126210000 +0900" stop="20220126215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ホンマでっか!?TV</title>
+  <desc lang="en">アンガ田中＆ブラマヨ小杉＆島太星！街中の強風…エレベーター監視カメラ…日常に潜む恐怖を薄毛男子が告白▽薄毛レジェンド・はるか師匠がアレでフサフサに！</desc>
 </programme>
 <programme start="20220125200000 +0900" stop="20220125210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -2704,6 +2719,10 @@ by.Tony Renis</desc>
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">政府分科会の小林慶一郎氏生出演▼自宅療養急増…“診療”に変化？▼注目！世界初？全裸で読む浴槽限定の連載漫画「セイントセントー」</desc>
 </programme>
+<programme start="20220126210000 +0900" stop="20220126215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">ふかわりょう＆大島由香里と安東弘樹＆前園真聖が「衣食住」をダンディに語らう１時間。ダンディアカデミーでは平原綾香が登場！「衣食住」にまつわるクラシック音楽を語る</desc>
+</programme>
 <programme start="20220125000000 +0900" stop="20220125010000 +0900" channel="FujiNext.jp">
 <title lang="en">翔太さまと執事西山のオタワムレ超　1　　超人気声優×2.5次元俳優！</title>
 <desc>＜ホスト＞蒼井翔太　西山宏太朗
@@ -2829,7 +2848,7 @@ https//otn.fujitv.co.jp
 <title lang="en">春の高校バレー ハイライト　3　2003年 女子決勝「成徳学園×文京学院女大」</title>
 <desc>2003年 女子決勝「成徳学園 vs 文京学院女大」
 ▽木村沙織 春高連覇へ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220125/7419820/image/215205cbed5b935bf423c36cba63e3a4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220125210000 +0900" stop="20220125220000 +0900" channel="FujiNext.jp">
@@ -3058,7 +3077,7 @@ https//otn.fujitv.co.jp
 ＜怪員（怪談師）＞ぁみ　黒史郎　藤田第六感
 ▽実話怪談の本格派ホラー番組！
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220125/7419865/image/49b47de7e28e51a466ed3a97ba58205c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220125210000 +0900" stop="20220125220000 +0900" channel="FujiOne.jp">
@@ -3526,7 +3545,7 @@ https//otn.fujitv.co.jp
 <programme start="20220125201500 +0900" stop="20220125210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 32　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220125/7427194/image/cc3a2bcf04626431d8614954ffd48b58.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220125210000 +0900" stop="20220125220000 +0900" channel="kbsworld.jp">
