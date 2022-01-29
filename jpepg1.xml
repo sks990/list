@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220129093000 +0900" stop="20220129103000 +0900" channel="ANIMAX.jp">
-  <title lang="en">名探偵コナン</title>
-  <desc lang="en">743「あやつられた名探偵（後編）」744「少年探偵団vs老人（シルバー）探偵団」
-高校生探偵・工藤新一は、正体不明…</desc>
-</programme>
 <programme start="20220129103000 +0900" stop="20220129110000 +0900" channel="ANIMAX.jp">
   <title lang="en">情報</title>
   <desc lang="en">この時間は情報番組をお送りしております。</desc>
@@ -183,6 +178,17 @@
   <desc lang="en">777「県警の黒い闇（後編）」
 高校生探偵・工藤新一は、正体不明の「黒の組織」の取引現場を目撃した事から、毒薬を…</desc>
 </programme>
+<programme start="20220130103000 +0900" stop="20220130110000 +0900" channel="ANIMAX.jp">
+  <title lang="en">情報</title>
+  <desc lang="en">この時間は情報番組をお送りしております。</desc>
+</programme>
+<programme start="20220130110000 +0900" stop="20220130133000 +0900" channel="ANIMAX.jp">
+  <title lang="en">名探偵コナン</title>
+  <desc lang="en">761「ボディーガード　毛利小五郎」
+762「若奥様が消えた秘密」
+763「おしどり夫婦の策略」
+764「夢みる乙女の迷…</desc>
+</programme>
 <programme start="20220129000000 +0900" stop="20220129023000 +0900" channel="FujiNext.jp">
 <title lang="en">SATANIC CARNIVAL 2021　＜DAY1＞</title>
 <desc>ROTTENGRAFFTY、Dizzy Sunfist、NAMBA69、Fear，and Loathing in Las Vegas、SiM、WANIMA　ほか
@@ -236,7 +242,7 @@ https//otn.fujitv.co.jp
 <title lang="en">みんなの鉄道リターンズ　73「嵯峨野観光鉄道（トロッコ列車）」</title>
 <desc>73『嵯峨野観光鉄道（トロッコ列車）』
 「トロッコ亀岡」から「トロッコ嵯峨」までを走る、営業キロ7.3km、駅数4の路線。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220129/7427671/image/0871675fb169e709652a6cfcf752a1d4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220129110000 +0900" stop="20220129120000 +0900" channel="FujiNext.jp">
@@ -1132,22 +1138,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220129093000 +0900" stop="20220129100000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">鎌倉DAYS</title>
-    <desc lang="en">“鎌倉殿の１３人”の舞台、鎌倉。昼までの生放送中に“鎌倉ＬＯＶＥの１３人”を紹介できるのか。大河ドラマ出演の坂東彌十郎、宮澤エマ、坪倉由幸の「わたしの鎌倉」とは</desc>
-  </programme>
-  <programme start="20220129100000 +0900" stop="20220129100500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220129100500 +0900" stop="20220129105000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">日本人のおなまえ</title>
-    <desc lang="en">大河ドラマ「鎌倉殿の１３人」から中川大志＆山本耕史が参戦！「北条氏」って実は「平氏」！？ナゾだらけ「源」「平」誕生秘話＆頼朝ゆかりの不思議すぎる地名！</desc>
-  </programme>
-  <programme start="20220129105000 +0900" stop="20220129105500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">鎌倉DAYS</title>
-    <desc lang="en">“鎌倉殿の１３人”の舞台、鎌倉。昼までの生放送中に“鎌倉ＬＯＶＥの１３人”を紹介できるのか。大河ドラマ出演の坂東彌十郎、宮澤エマ、坪倉由幸の「わたしの鎌倉」とは</desc>
-  </programme>
   <programme start="20220129105500 +0900" stop="20220129112200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏情報 ネタドリ!</title>
     <desc lang="en">いま困窮支援のデジタル化が加速している。ＳＮＳで簡易に現金給付や食料支援が受けられたりネットで生活保護が申請できる仕組みも。変わる困窮支援の最前線をネタドリ！</desc>
@@ -1420,21 +1410,17 @@ https//otn.fujitv.co.jp
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220129095500 +0900" stop="20220129102000 +0900" channel="eTele.jp">
-    <title lang="en">すイエんサー</title>
-    <desc lang="en">環境破壊で地球は崩壊寸前！？そんな未来を変えるため、担任の横山だいすけといとうあさこ、そして転校生の柴田英嗣とすイエんサーガールズが地球を守るクイズに挑戦！</desc>
+  <programme start="20220130100500 +0900" stop="20220130105500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">明日をまもるナビ</title>
+    <desc lang="en">阪神淡路大震災から２７年▽被災前の日常を描く取り組みが注目を集めている▽大災害によって奪われたものとは？▽大震災を知らない世代が増える中で備える心をどう育むか？</desc>
   </programme>
-  <programme start="20220129102000 +0900" stop="20220129102500 +0900" channel="eTele.jp">
-    <title lang="en">ブレイクッ!</title>
-    <desc lang="en">まじめな学習サイト「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ」で一緒に楽しく学ぼう！面白い動画を、劇や歌、クイズなどの演出でアレンジするぞ！今回は劇と歌の２本立てだ。</desc>
+  <programme start="20220130105500 +0900" stop="20220130110000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「新呼吸」うた三浦大知／「ギターケースの中の僕」うた中嶋ユキノ</desc>
   </programme>
-  <programme start="20220129102500 +0900" stop="20220129103000 +0900" channel="eTele.jp">
-    <title lang="en">ポップイン!クラフト</title>
-    <desc lang="en">パールビーズとワイヤーで作る軽やかなイヤーカフ。市販の土台にワイヤーを巻きつけて、パールビーズを通していくだけ。カジュアルなコーデも格上げしてくれるよ！</desc>
-  </programme>
-  <programme start="20220129103000 +0900" stop="20220129105500 +0900" channel="eTele.jp">
-    <title lang="en">ムーミン谷のなかまたち</title>
-    <desc lang="en">フィンランドの国民的作家トーベ・ヤンソンのムーミンをフルＣＧでアニメ化した最新作！美しいムーミン谷を舞台にムーミントロールが仲間たちと繰り広げる日常を描く。</desc>
+  <programme start="20220130110000 +0900" stop="20220130111500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">るい（深津絵里）は、東京から帰ってきた錠一郎（オダギリジョー）の口から信じられないような言葉を聞き、大きなショックを受けます。</desc>
   </programme>
   <programme start="20220129105500 +0900" stop="20220129110000 +0900" channel="eTele.jp">
     <title lang="en">ごちそんぐDJ</title>
@@ -1664,9 +1650,9 @@ https//otn.fujitv.co.jp
     <title lang="en">将棋フォーカス</title>
     <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
   </programme>
-  <programme start="20220129092500 +0900" stop="20220129103000 +0900" channel="NipponTV.jp">
-    <title lang="en">ぶらり途中下車の旅</title>
-    <desc lang="en">Ａ.Ｂ.Ｃ―Ｚ塚田僚一が横須賀線でぶらり▽花のカヌレ専門店▽ゆるカワな動物の陶芸作品▽アーチェリーに初挑戦！驚きの結果が！▽チーズがたっぷり！激ウマな焼きおでん</desc>
+  <programme start="20220130103000 +0900" stop="20220130120000 +0900" channel="eTele.jp">
+    <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
+    <desc lang="en">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。３回戦第８局は佐藤天彦九段と日浦市郎八段の対戦。</desc>
   </programme>
   <programme start="20220129103000 +0900" stop="20220129114500 +0900" channel="NipponTV.jp">
     <title lang="en">ゼロイチ</title>
@@ -1810,14 +1796,10 @@ https//otn.fujitv.co.jp
     <title lang="en">シューイチ</title>
     <desc lang="en">▼北澤が分析！中国戦▼Ａｄｏインタビュー▼究極食感パンケーキ▼大沢あかね藤本美貴安めぐみ芸人妻トリオ▼最新デジタルグッズ</desc>
   </programme>
-<programme start="20220129095500 +0900" stop="20220129100000 +0900" channel="Asahi.jp">
-  <title lang="en">挑戦者の原点〜My Episode 0〜</title>
-  <desc lang="en">未来を変えるイノベーターたちの原体験（＝My Episode 0　マイ・エピソード・ゼロ）を紐解くショートドキュメンタリー！</desc>
-</programme>
-<programme start="20220129100000 +0900" stop="20220129103000 +0900" channel="Asahi.jp">
-  <title lang="en">題名のない音楽会</title>
-  <desc lang="en">「知っているようで知らない『チャイム』の音楽会」…「のど自慢」の合格の鐘の音でお馴染みの楽器「チャイム」の新しい活用法をご提案します！</desc>
-</programme>
+  <programme start="20220130102500 +0900" stop="20220130112500 +0900" channel="NipponTV.jp">
+    <title lang="en">ニノさん</title>
+    <desc lang="en">食通・寺門ジモンが通う絶品料理店を土屋太鳳にご紹介！▽音ゲーム３番勝負！ニノ＆朝日VS太鳳＆風磨で大熱狂の戦い！擬音語伝言ゲームでニノが爆笑波乱を巻き起こす…！</desc>
+  </programme>
 <programme start="20220129103000 +0900" stop="20220129110000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en">佐世保のスタジオから旬な商品をお届けするテレビショッピング！期間限定商品を手にする大チャンス！是非お見逃しなく！</desc>
@@ -1995,6 +1977,10 @@ https//otn.fujitv.co.jp
   <title lang="en">週刊!じゅん散歩</title>
   <desc lang="en">三代目散歩人・高田純次が「大宮・浦和」を散策▽爆笑名場面＆未公開シーンを大公開▽新５００円硬貨の製造工場へ▽埼玉スタジアムでベッカムのサインに大興奮</desc>
 </programme>
+<programme start="20220130105000 +0900" stop="20220130114500 +0900" channel="Asahi.jp">
+  <title lang="en">坂上くんが試してみた!!通販☆家事スクール</title>
+  <desc lang="en">坂上忍VS大ヒット商品‼あの有名寝具メーカーの極ふわ毛布セットが大特価‼コゲない⁉高級㊙フライパン＆たった１分ジャンプするだけで驚きの変化⁉最新健康グッズが登場‼</desc>
+</programme>
 <programme start="20220129093000 +0900" stop="20220129114500 +0900" channel="TBS2.jp">
   <title lang="en">王様のブランチ</title>
   <desc lang="en">▽藤原竜也＆松山ケンイチ＆神木隆之介直撃！ついイラッとすることを告白▽有村架純が森田剛の意外なギャップを暴露▽愛媛みかん＆新潟鮭！全国お取り寄せグルメ特集</desc>
@@ -2123,14 +2109,6 @@ https//otn.fujitv.co.jp
 <programme start="20220130095400 +0900" stop="20220130113000 +0900" channel="TBS2.jp">
   <title lang="en">サンデー・ジャポン</title>
   <desc lang="en">１週間のニュースを総まとめ！爆笑問題＆超辛口パネラーに旬なゲスト加え、独自取材と激アツトークでお送りする嵐のような９０分！唯一無二のジャーナリズムバラエティ！</desc>
-</programme>
-<programme start="20220129093000 +0900" stop="20220129100000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ドラゴンクエスト ダイの大冒険</title>
-  <desc lang="en">大破邪呪文（ミナカトール）を発動すべくアバンのしるしを光らせていくダイたち。だがポップのものだけが一向に光らない。焦りを募らせるアバンの使徒に対し邪悪な企みが…</desc>
-</programme>
-<programme start="20220129100000 +0900" stop="20220129103000 +0900" channel="TVTokyo.jp">
-  <title lang="en">シャドウバース</title>
-  <desc lang="en">「肉味噌チャーハン、お待たせじゃんねー」夢の中、理想の中、幻の中。それでもカズキは「いつも」と変わらない。どんな試練が訪れたっていつものように乗り越えるだけ。</desc>
 </programme>
 <programme start="20220129103000 +0900" stop="20220129110000 +0900" channel="TVTokyo.jp">
   <title lang="en">ニンジャラ</title>
@@ -2303,9 +2281,13 @@ https//otn.fujitv.co.jp
   <title lang="en">ワッチャプリマジ!</title>
   <desc lang="en">「プリマジ」それは歌とダンスとファッションで作り上げるエンターテイメント！魔法のように輝くステージには秘密がありました。そう、それは本当に「魔法」だったんです！</desc>
 </programme>
-<programme start="20220129095500 +0900" stop="20220129102500 +0900" channel="FujiTV.jp">
-  <title lang="en">ライオンのグータッチ</title>
-  <desc lang="en">元箱根ランナーの俳優和田正人が駅伝チームを猛特訓！８人から４人へ…大会メンバーを選ぶ運命のタイムトライアル！火花散るライバル争い、レース結果に歓喜＆涙</desc>
+<programme start="20220130103000 +0900" stop="20220130110000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ミュークルドリーミーみっくす!</title>
+  <desc lang="en">『いっちーなる』、そして『みゅー』が色々な事にチャレンジ！今回はなんと、「コトコト」みたいなロボット作りに挑戦するみたい？上手にできるかな？</desc>
+</programme>
+<programme start="20220130110000 +0900" stop="20220130112500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ゴルフのキズナ</title>
+  <desc lang="en">夢に向かって挑戦するゴルファーを名コーチが成功に導くゴルフリアリティ番組！二人三脚で奮闘する本音や葛藤をリアルに描く。今回は内藤雄士プロコーチと井上莉花のキズナ</desc>
 </programme>
 <programme start="20220129102500 +0900" stop="20220129110500 +0900" channel="FujiTV.jp">
   <title lang="en">いただきハイジャンプ</title>
@@ -2474,14 +2456,6 @@ https//otn.fujitv.co.jp
 <programme start="20220130100000 +0900" stop="20220130111500 +0900" channel="FujiTV.jp">
   <title lang="en">ワイドナショー</title>
   <desc lang="en">松本人志と東野幸治が送るワイドショー。今話題の芸能ニュースや社会問題に熱い持論を展開！</desc>
-</programme>
-<programme start="20220129093000 +0900" stop="20220129100000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220129100000 +0900" stop="20220129103000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220129103000 +0900" stop="20220129110000 +0900" channel="Tokyo MX">
   <title lang="en">岡崎体育の京の観察日記</title>
@@ -2695,6 +2669,18 @@ https//otn.fujitv.co.jp
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220130103000 +0900" stop="20220130105500 +0900" channel="Tokyo MX">
+  <title lang="en">DOGENGERS〜NICE BUDDY〜</title>
+  <desc lang="en">不祥事で人気が無くなったドゲンジャーズが後番組に怪人を引き抜かれたので、その番組に映り込みながら人気と怪人を取り戻す自称感動超大作！</desc>
+</programme>
+<programme start="20220130105500 +0900" stop="20220130110000 +0900" channel="Tokyo MX">
+  <title lang="en">ぷちセカ</title>
+  <desc lang="en">＃３「アイドルの才能」</desc>
+</programme>
+<programme start="20220130110000 +0900" stop="20220130115500 +0900" channel="Tokyo MX">
+  <title lang="en">京都浪漫〜美と伝統を訪ねる〜</title>
+  <desc lang="en">比叡山延暦寺〜初公開！神秘の釈迦堂内陣〜</desc>
+</programme>
 <programme start="20220129000000 +0900" stop="20220129023000 +0900" channel="FujiNext.jp">
 <title lang="en">SATANIC CARNIVAL 2021　＜DAY1＞</title>
 <desc>ROTTENGRAFFTY、Dizzy Sunfist、NAMBA69、Fear，and Loathing in Las Vegas、SiM、WANIMA　ほか
@@ -2748,7 +2734,7 @@ https//otn.fujitv.co.jp
 <title lang="en">みんなの鉄道リターンズ　73「嵯峨野観光鉄道（トロッコ列車）」</title>
 <desc>73『嵯峨野観光鉄道（トロッコ列車）』
 「トロッコ亀岡」から「トロッコ嵯峨」までを走る、営業キロ7.3km、駅数4の路線。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220129/7427671/image/0871675fb169e709652a6cfcf752a1d4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220129110000 +0900" stop="20220129120000 +0900" channel="FujiNext.jp">
