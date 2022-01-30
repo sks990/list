@@ -63,10 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220130103000 +0900" stop="20220130110000 +0900" channel="ANIMAX.jp">
-  <title lang="en">情報</title>
-  <desc lang="en">この時間は情報番組をお送りしております。</desc>
-</programme>
 <programme start="20220130110000 +0900" stop="20220130133000 +0900" channel="ANIMAX.jp">
   <title lang="en">名探偵コナン</title>
   <desc lang="en">761「ボディーガード　毛利小五郎」
@@ -191,6 +187,12 @@
   <desc lang="en">1「出会っちゃった！」
 2「やっちゃった！」
 幼い頃、星空を見上げた時に聴こえた『星の鼓動』のように、キラキラで…</desc>
+</programme>
+<programme start="20220131120000 +0900" stop="20220131130000 +0900" channel="ANIMAX.jp">
+  <title lang="en">マクロスF</title>
+  <desc lang="en">13「メモリー・オブ・グローバル」
+14「マザーズ・ララバイ」
+かつて巨大な異星人との星間戦争で滅亡の危機に瀕した…</desc>
 </programme>
 <programme start="20220129230000 +0900" stop="20220130010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「SPECIAL OTHERS」</title>
@@ -453,7 +455,7 @@ https//otn.fujitv.co.jp
 ＜司会＞見栄晴　横山ルリカ
 ＜出演＞松本ヒロシ　競馬予想専門家4名
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220130/7429860/image/5b3108121e417a4bd29c42a1d05d4ad0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220130120000 +0900" stop="20220130121500 +0900" channel="FujiOne.jp">
@@ -1142,22 +1144,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220130101000 +0900" stop="20220130110000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">明日をまもるナビ</title>
-    <desc lang="en">阪神淡路大震災から２７年▽被災前の日常を描く取り組みが注目を集めている▽大災害によって奪われたものとは？▽大震災を知らない世代が増える中で備える心をどう育むか？</desc>
-  </programme>
-  <programme start="20220130110000 +0900" stop="20220130110500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220130110500 +0900" stop="20220130112000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
-    <desc lang="en">るい（深津絵里）は、東京から帰ってきた錠一郎（オダギリジョー）の口から信じられないような言葉を聞き、大きなショックを受けます。</desc>
-  </programme>
-  <programme start="20220130112000 +0900" stop="20220130115400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">どーも、NHK</title>
-    <desc lang="en">１週間のおすすめ番組▽北京オリンピック・パラリンピックＮＨＫの放送予定は？▽地域の「お困りごと」を取材し、解決策を探る番組を特集。</desc>
-  </programme>
   <programme start="20220130115400 +0900" stop="20220130120000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -1426,6 +1412,22 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
+  <programme start="20220131110500 +0900" stop="20220131113000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ひるまえほっと</title>
+    <desc lang="en">▽解剖学者・養老孟司さんにとっての「わたしの鎌倉」は▽東京パラの車いすバスケットボール選手・特別支援学校の子どもたちと交流▽病の経験から生まれたケアグッズ</desc>
+  </programme>
+  <programme start="20220131113000 +0900" stop="20220131115400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ひるまえほっと</title>
+    <desc lang="en">▽おかずにも！スイーツにも！「余ったおもち」でユニークなレシピ▽「塩さばとじゃがいものスープ」のレシピ</desc>
+  </programme>
+  <programme start="20220131115400 +0900" stop="20220131120000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220131120000 +0900" stop="20220131121500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">【キャスター】三條雅幸</desc>
+  </programme>
   <programme start="20220130103000 +0900" stop="20220130120000 +0900" channel="eTele.jp">
     <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
     <desc lang="en">ＮＨＫ杯テレビ将棋トーナメントは、トップ棋士たち５０名がトーナメント方式で戦う早指し棋戦。３回戦第８局は佐藤天彦九段と日浦市郎八段の対戦。</desc>
@@ -1666,17 +1668,21 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">きょうの料理</title>
     <desc lang="en">みんなが喜ぶ定番料理を簡単に！調理の手間を省き納得のおいしさをかなえるコツを、ゆーママが伝授。ゲストは関西ジャニーズＪｒ．／Ａぇ！　ｇｒｏｕｐの福本大晴さん。</desc>
   </programme>
-  <programme start="20220130102500 +0900" stop="20220130112500 +0900" channel="NipponTV.jp">
-    <title lang="en">ニノさん</title>
-    <desc lang="en">食通・寺門ジモンが通う絶品料理店を土屋太鳳にご紹介！▽音ゲーム３番勝負！ニノ＆朝日VS太鳳＆風磨で大熱狂の戦い！擬音語伝言ゲームでニノが爆笑波乱を巻き起こす…！</desc>
+  <programme start="20220131112500 +0900" stop="20220131113000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理ビギナーズ</title>
+    <desc lang="en">小松菜も冬が旬。ゆでることなく、手軽に調理できることが魅力。牛こま肉や豆腐と一緒に炒めて甘辛の味つけで軽く煮たり、また食べやすく切ってソーセージと蒸し焼きに。</desc>
   </programme>
-  <programme start="20220130112500 +0900" stop="20220130113000 +0900" channel="NipponTV.jp">
-    <title lang="en">biz search</title>
-    <desc lang="en">話題の企業の新商品、キャンペーン、イベントなどを日本テレビアナウンサーが徹底調査！</desc>
+  <programme start="20220131113000 +0900" stop="20220131115500 +0900" channel="eTele.jp">
+    <title lang="en">趣味どきっ!</title>
+    <desc lang="en">着物は特別な日だけ…タンスに眠ったままだったり、着たことがないというあなたへ！自分流着物の楽しみ方をお届け！今回は年間３００日、料理も掃除も着物という達人登場！</desc>
   </programme>
-  <programme start="20220130113000 +0900" stop="20220130114500 +0900" channel="NipponTV.jp">
-    <title lang="en">NNN ストレイトニュース</title>
-    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  <programme start="20220131115500 +0900" stop="20220131120000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">土鍋は肉料理も得意。優しく火が入るので、柔らかく仕上がります。牛肉をじっくり楽しむ“牛鍋”、うまみ凝縮“鶏とえびのシューマイ”。ごちそうレシピが勢ぞろいです。</desc>
+  </programme>
+  <programme start="20220131120000 +0900" stop="20220131125500 +0900" channel="eTele.jp">
+    <title lang="en">にっぽんの芸能</title>
+    <desc lang="en">６００年以上の歴史を持つ笑いの宝庫・狂言。「○○の精」「あやしい人たち」など登場する強烈なキャラクターをご紹介。シュールな世界を、いとうせいこうさんと読み解く。</desc>
   </programme>
   <programme start="20220130114500 +0900" stop="20220130124500 +0900" channel="NipponTV.jp">
     <title lang="en">スクール革命!</title>
@@ -1815,14 +1821,18 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">バゲット</title>
     <desc lang="en">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
   </programme>
-<programme start="20220130105000 +0900" stop="20220130114500 +0900" channel="Asahi.jp">
-  <title lang="en">坂上くんが試してみた!!通販☆家事スクール</title>
-  <desc lang="en">坂上忍VS大ヒット商品‼あの有名寝具メーカーの極ふわ毛布セットが大特価‼コゲない⁉高級㊙フライパン＆たった１分ジャンプするだけで驚きの変化⁉最新健康グッズが登場‼</desc>
-</programme>
-<programme start="20220130114500 +0900" stop="20220130115000 +0900" channel="Asahi.jp">
-  <title lang="en">発進!ミライクリエイター</title>
-  <desc lang="en">世界や日本の未来を変えるかもしれない「研究」「活動」「提案」「起業」「挑戦」に奮闘している若きミライクリエイターをご紹介！</desc>
-</programme>
+  <programme start="20220131113000 +0900" stop="20220131114500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNN ストレイトニュース</title>
+    <desc lang="en">最新のニュースをストレートに！　必要とされる情報を、コンパクトにまとめてお伝えします。</desc>
+  </programme>
+  <programme start="20220131114500 +0900" stop="20220131115500 +0900" channel="NipponTV.jp">
+    <title lang="en">キユーピー3分クッキング</title>
+    <desc lang="en">油揚げにもちを入れた巾着をはじめ、魚介も鶏肉も入った具だくさんの鍋。ていねいに下ごしらえをした具材のそれぞれからだしが出て、うまみたっぷりの煮汁に。</desc>
+  </programme>
+  <programme start="20220131115500 +0900" stop="20220131135500 +0900" channel="NipponTV.jp">
+    <title lang="en">ヒルナンデス!</title>
+    <desc lang="en">▽業務スーパーで徹底調査＆活用術…鶏の丸焼き＆唐辛子ピザ⁉大家族千葉家に密着！▽正月太り…ダイエットSP！5週間みそスープ食べるだけ激痩せ５キロも減る⁉</desc>
+  </programme>
 <programme start="20220130115000 +0900" stop="20220130120000 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
@@ -1953,18 +1963,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220131102500 +0900" stop="20220131130000 +0900" channel="Asahi.jp">
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
-</programme>
-<programme start="20220130095400 +0900" stop="20220130113000 +0900" channel="TBS2.jp">
-  <title lang="en">サンデー・ジャポン</title>
-  <desc lang="en">濃厚接触者の待機期間「７日間」短縮案、「検査なしで陽性判断」…対策が次々にアップデート▽沖縄警察署を若者３００人が包囲…SNSで拡散▽ひろゆき×メタバース</desc>
-</programme>
-<programme start="20220130113000 +0900" stop="20220130114000 +0900" channel="TBS2.jp">
-  <title lang="en">JNNニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
-</programme>
-<programme start="20220130114000 +0900" stop="20220130114500 +0900" channel="TBS2.jp">
-  <title lang="en">デジタル一番星</title>
-  <desc lang="en">日々の生活、家事も趣味もやることがたくさん・・・そんなお悩みに、知的家事プロデューサー本間朝子さんが自分の時間を簡単に作れる解決方法をご紹介します！</desc>
 </programme>
 <programme start="20220130114500 +0900" stop="20220130125400 +0900" channel="TBS2.jp">
   <title lang="en">アッコにおまかせ!</title>
@@ -2103,18 +2101,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220131102500 +0900" stop="20220131135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
-</programme>
-<programme start="20220130103000 +0900" stop="20220130110000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュークルドリーミーみっくす!</title>
-  <desc lang="en">『いっちーなる』、そして『みゅー』が色々な事にチャレンジ！今回はなんと、「コトコト」みたいなロボット作りに挑戦するみたい？上手にできるかな？</desc>
-</programme>
-<programme start="20220130110000 +0900" stop="20220130112500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ゴルフのキズナ</title>
-  <desc lang="en">夢に向かって挑戦するゴルファーを名コーチが成功に導くゴルフリアリティ番組！二人三脚で奮闘する本音や葛藤をリアルに描く。今回は内藤雄士プロコーチと井上莉花のキズナ</desc>
-</programme>
-<programme start="20220130112500 +0900" stop="20220130115500 +0900" channel="TVTokyo.jp">
-  <title lang="en">男子ごはん</title>
-  <desc lang="en">国分太一と栗原心平の同世代の男２人が日曜のお昼にお届けする料理番組。ほのぼのとした雰囲気の中、２人で仲良くおしゃべりしながら、様々なレシピを紹介します。</desc>
 </programme>
 <programme start="20220130115500 +0900" stop="20220130125400 +0900" channel="TVTokyo.jp">
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
@@ -2257,21 +2243,17 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">なないろ日和!</title>
   <desc lang="en">▽快適ショッピングスタジオ▽身体スッキリ！トントン・モーモー？楽しい声出し運動で…イスを使った筋トレ。運動嫌いでもOK▽「虎ノ門市場」徳島の熟成貯蔵みかん</desc>
 </programme>
-<programme start="20220130100000 +0900" stop="20220130111500 +0900" channel="FujiTV.jp">
-  <title lang="en">ワイドナショー</title>
-  <desc lang="en">相次ぐ芸能人コロナ感染▽濃厚接触待機期間７日に見直し▽サラリーマン川柳ベスト１００発表▽なかやまきんに君出演で吉本退所報告▽“返信不要”は冷たい印象？</desc>
+<programme start="20220131111300 +0900" stop="20220131113500 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼サテ</title>
+  <desc lang="en">最新のニュースとマーケット情報をいち早くお伝えします。</desc>
 </programme>
-<programme start="20220130111500 +0900" stop="20220130114500 +0900" channel="FujiTV.jp">
-  <title lang="en">ミライ☆モンスター</title>
-  <desc lang="en">ミライに羽ばたく金のタマゴ応援番組。アメリカンフットボール小林伸光（高２）常勝軍団・佼成学園の司令塔。正確無比なパスでクリスマスボウル２連覇を目指す。</desc>
+<programme start="20220131113500 +0900" stop="20220131114000 +0900" channel="TVTokyo.jp">
+  <title lang="en">月〜金お昼のソングショー ひるソン!</title>
+  <desc lang="en">月曜〜金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！</desc>
 </programme>
-<programme start="20220130114500 +0900" stop="20220130115000 +0900" channel="FujiTV.jp">
-  <title lang="en">くいしん坊!万才</title>
-  <desc lang="en">くいしん坊松岡修造が全国各地の名物料理や郷土の味・珍味に挑戦！その土地の歴史や文化、人々の暮らしにふれ、食べることの喜びや出会いの楽しさを伝えます。</desc>
-</programme>
-<programme start="20220130115000 +0900" stop="20220130115500 +0900" channel="FujiTV.jp">
-  <title lang="en">FNN Live News days</title>
-  <desc lang="en">週末の昼も「ライブニュース　デイズ」をお見逃しなく。民放で最大級の全国ネットワークを持つＦＮＮの記者が取材したニュースをお届けします。</desc>
+<programme start="20220131114000 +0900" stop="20220131134000 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
+  <desc lang="en">あなたのご飯見せて下さい▽千葉県市川市…マグロ白ワインパスタ＆焼きナスの田楽みそ＆野菜の皮でお好み焼き▽東京都杉並区…あまりご飯で本格和食！葛あんかけおこげ</desc>
 </programme>
 <programme start="20220130115500 +0900" stop="20220130120000 +0900" channel="FujiTV.jp">
   <title lang="en"></title>
@@ -2374,13 +2356,17 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">ノンストップ!</title>
   <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
-<programme start="20220130105500 +0900" stop="20220130110000 +0900" channel="Tokyo MX">
-  <title lang="en">ぷちセカ</title>
-  <desc lang="en">＃３「アイドルの才能」</desc>
+<programme start="20220131112500 +0900" stop="20220131113000 +0900" channel="FujiTV.jp">
+  <title lang="en">国分太一のお気楽さんぽ〜Happy Go Lucky〜</title>
+  <desc lang="en">国分太一が日本全国の街を手ぶらでおさんぽ！ここに行けば楽しめる！あそこに行けば幸せになれる！街の魅力を伝えながらハッピーとラッキーを発見しに行きます！</desc>
 </programme>
-<programme start="20220130110000 +0900" stop="20220130115500 +0900" channel="Tokyo MX">
-  <title lang="en">京都浪漫〜美と伝統を訪ねる〜</title>
-  <desc lang="en">比叡山延暦寺〜初公開！神秘の釈迦堂内陣〜</desc>
+<programme start="20220131113000 +0900" stop="20220131115500 +0900" channel="FujiTV.jp">
+  <title lang="en">FNN Live News days</title>
+  <desc lang="en">世の中の動きを素早くキャッチ！最新ニュースをわかりやすく、丁寧にお届けします。気になるポイントは深掘りして、役に立つニュースをお伝えします。</desc>
+</programme>
+<programme start="20220131115500 +0900" stop="20220131144500 +0900" channel="FujiTV.jp">
+  <title lang="en">バイキングMORE</title>
+  <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
 <programme start="20220130115500 +0900" stop="20220130125000 +0900" channel="Tokyo MX">
   <title lang="en">日曜はカラフル!!!</title>
@@ -2569,6 +2555,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220131110000 +0900" stop="20220131115500 +0900" channel="Tokyo MX">
   <title lang="en">蘭陵王妃〜王と皇帝に愛された女〜</title>
   <desc lang="en">大ヒット作「蘭陵王」では描かれなかった もう一つのラブストーリーが今、始まる――</desc>
+</programme>
+<programme start="20220131115500 +0900" stop="20220131120000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220131120000 +0900" stop="20220131123000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220129230000 +0900" stop="20220130010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「SPECIAL OTHERS」</title>
@@ -2831,7 +2825,7 @@ https//otn.fujitv.co.jp
 ＜司会＞見栄晴　横山ルリカ
 ＜出演＞松本ヒロシ　競馬予想専門家4名
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220130/7429860/image/5b3108121e417a4bd29c42a1d05d4ad0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220130120000 +0900" stop="20220130121500 +0900" channel="FujiOne.jp">
