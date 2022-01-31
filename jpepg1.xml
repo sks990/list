@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220131110000 +0900" stop="20220131120000 +0900" channel="ANIMAX.jp">
-  <title lang="en">BanG Dream!</title>
-  <desc lang="en">1「出会っちゃった！」
-2「やっちゃった！」
-幼い頃、星空を見上げた時に聴こえた『星の鼓動』のように、キラキラで…</desc>
-</programme>
 <programme start="20220131120000 +0900" stop="20220131130000 +0900" channel="ANIMAX.jp">
   <title lang="en">マクロスF</title>
   <desc lang="en">13「メモリー・オブ・グローバル」
@@ -225,6 +219,12 @@
   <desc lang="en">15「ロスト・ピース」
 16「ランカ・アタック」
 かつて巨大な異星人との星間戦争で滅亡の危機に瀕した地球人類は、新…</desc>
+</programme>
+<programme start="20220201130000 +0900" stop="20220201140000 +0900" channel="ANIMAX.jp">
+  <title lang="en">転生したらスライムだった件</title>
+  <desc lang="en">7「爆炎の支配者」
+8「受け継がれる想い」
+三上悟は通り魔に刺され死亡し、気がつくと異世界に転生していた。…ただ…</desc>
 </programme>
 <programme start="20220131000000 +0900" stop="20220131013000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　怒髪天</title>
@@ -463,7 +463,7 @@ https//otn.fujitv.co.jp
 <desc>第5ゲーム
 ＜出演＞萩原聖人（日本プロ麻雀連盟）　阿部亮平　大村朋宏（トータルテンボス）　瀬川晶司（日本将棋連盟）
 ＜MC＞柴田英嗣（アンタッチャブル）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220131/7439947/image/6ba743808f3ea7f490407399d87bbba2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220131130000 +0900" stop="20220131140000 +0900" channel="FujiOne.jp">
@@ -1231,26 +1231,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220131115400 +0900" stop="20220131120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220131120000 +0900" stop="20220131121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】三條雅幸</desc>
-  </programme>
-  <programme start="20220131121500 +0900" stop="20220131122000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220131122000 +0900" stop="20220131124300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">うまいッ!</title>
-    <desc lang="en">朱色の体にうまみが詰まった「キンメダイ」。高知では漁場の近さを生かし取れた魚をその日のうちに新鮮なまま市場に届けます！地元ならではの驚きレシピもたっぷりご紹介。</desc>
-  </programme>
-  <programme start="20220131124300 +0900" stop="20220131124500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">新型コロナ 命を守る行動を</title>
-    <desc lang="en">英国の保健当局の調査ではファイザーのワクチンの場合、２回目の接種から時間がたつとオミクロン株の発症予防効果は低下。しかし３回目の接種で大きく回復するデータを紹介</desc>
-  </programme>
   <programme start="20220131124500 +0900" stop="20220131130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
     <desc lang="en">るい（深津絵里）は女の子を出産し、ひなたと名前をつけました。それから１０年の時が流れて、１９７５年。ひなた（新津ちせ）は時代劇が大好きな女の子に成長しました。</desc>
@@ -1443,13 +1423,21 @@ https//otn.fujitv.co.jp
     <title lang="en"></title>
     <desc lang="en">【キャスター】佐藤誠太</desc>
   </programme>
-  <programme start="20220131115500 +0900" stop="20220131120000 +0900" channel="eTele.jp">
-    <title lang="en">まる得マガジン</title>
-    <desc lang="en">土鍋は肉料理も得意。優しく火が入るので、柔らかく仕上がります。牛肉をじっくり楽しむ“牛鍋”、うまみ凝縮“鶏とえびのシューマイ”。ごちそうレシピが勢ぞろいです。</desc>
+  <programme start="20220201121500 +0900" stop="20220201122000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220131120000 +0900" stop="20220131125500 +0900" channel="eTele.jp">
-    <title lang="en">にっぽんの芸能</title>
-    <desc lang="en">６００年以上の歴史を持つ笑いの宝庫・狂言。「○○の精」「あやしい人たち」など登場する強烈なキャラクターをご紹介。シュールな世界を、いとうせいこうさんと読み解く。</desc>
+  <programme start="20220201122000 +0900" stop="20220201124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">BENTO EXPO</title>
+    <desc lang="en">ドイツの国民食ソーセージ弁当、タイのさつま揚げ弁当の投稿を紹介。また浅草の江戸時代から伝わる天丼弁当を紹介。東京湾でとれた魚をごま油で揚げ香りよく仕上げる。</desc>
+  </programme>
+  <programme start="20220201124500 +0900" stop="20220201130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">夏休みに遊んでばかりいたひなた（新津ちせ）は、山積みの宿題に途方に暮れます。そんな姿を見たるい（深津絵里）は、ひなたを厳しく叱るのですが…</desc>
+  </programme>
+  <programme start="20220201130000 +0900" stop="20220201130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20220131125500 +0900" stop="20220131130000 +0900" channel="eTele.jp">
     <title lang="en">みんなのうた</title>
@@ -1787,6 +1775,18 @@ https//otn.fujitv.co.jp
     <title lang="en">先人たちの底力 知恵泉</title>
     <desc lang="en">混沌とした室町期。当時の画壇にフィットせず「落ちこぼれ」の雪舟。後世に残る画聖はいかにメジャーになったのか？おきて破りの大胆さを貫いた雪舟のサバイバルの知恵とは</desc>
   </programme>
+  <programme start="20220201124500 +0900" stop="20220201125500 +0900" channel="eTele.jp">
+    <title lang="en">365日の献立日記</title>
+    <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+  </programme>
+  <programme start="20220201125500 +0900" stop="20220201130000 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「コックのポルカ」天地総子、東京放送児童合唱団／「白い道」ハイファイセット／「草競馬」東京荒川少年少女合唱隊／「バケツの穴」熊倉一雄、東京放送児童合唱団</desc>
+  </programme>
+  <programme start="20220201130000 +0900" stop="20220201130500 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース</title>
+    <desc lang="en">【キャスター】小野寺善子</desc>
+  </programme>
   <programme start="20220131115500 +0900" stop="20220131135500 +0900" channel="NipponTV.jp">
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">▽業務スーパーで徹底調査＆活用術…鶏の丸焼き＆唐辛子ピザ⁉大家族千葉家に密着！▽正月太り…ダイエットSP！5週間みそスープ食べるだけ激痩せ５キロも減る⁉</desc>
@@ -2013,6 +2013,10 @@ by.Luigi Tenco</desc>
 <programme start="20220201102500 +0900" stop="20220201130000 +0900" channel="Asahi.jp">
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
+</programme>
+<programme start="20220201130000 +0900" stop="20220201133000 +0900" channel="Asahi.jp">
+  <title lang="en">徹子の部屋</title>
+  <desc lang="en">〜初対面！“関西のご意見番”が憧れの黒柳に人生相談⁉〜上沼恵美子さんが今日のゲストです。</desc>
 </programme>
 <programme start="20220131102500 +0900" stop="20220131135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
@@ -2369,14 +2373,6 @@ by.Luigi Tenco</desc>
   <title lang="en">バイキングMORE</title>
   <desc lang="en">ＭＣ坂上忍と進行ＭＣ安宅晃樹が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
 </programme>
-<programme start="20220131115500 +0900" stop="20220131120000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20220131120000 +0900" stop="20220131123000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20220131123000 +0900" stop="20220131130000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
@@ -2572,6 +2568,14 @@ by.Luigi Tenco</desc>
 <programme start="20220201120000 +0900" stop="20220201123000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20220201123000 +0900" stop="20220201130000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220201130000 +0900" stop="20220201135500 +0900" channel="Tokyo MX">
+  <title lang="en">無法弁護士〜最高のパートナー</title>
+  <desc lang="en">イ・ジュンギ主演作！無法者の弁護士が、愛すべきパートナーと法と拳を武器に巨大権力に立ち向かう！僕たちの未来はここにある！</desc>
 </programme>
 <programme start="20220131000000 +0900" stop="20220131013000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　怒髪天</title>
@@ -2810,7 +2814,7 @@ https//otn.fujitv.co.jp
 <desc>第5ゲーム
 ＜出演＞萩原聖人（日本プロ麻雀連盟）　阿部亮平　大村朋宏（トータルテンボス）　瀬川晶司（日本将棋連盟）
 ＜MC＞柴田英嗣（アンタッチャブル）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220131/7439947/image/6ba743808f3ea7f490407399d87bbba2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220131130000 +0900" stop="20220131140000 +0900" channel="FujiOne.jp">
