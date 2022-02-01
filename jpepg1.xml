@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220201150000 +0900" stop="20220201160000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ドラゴン、家を買う。</title>
-  <desc lang="en">5軒目「集まってる家」
-6軒目「ドラゴン、緊急事態。」
-一族から勘当された臆病なドラゴンの子・レティ。多種多様な種…</desc>
-</programme>
 <programme start="20220201160000 +0900" stop="20220201170000 +0900" channel="ANIMAX.jp">
   <title lang="en">七つの大罪 神々の逆鱗</title>
   <desc lang="en">21「聖戦の幕開け」
@@ -201,6 +195,12 @@
   <title lang="en">七つの大罪 神々の逆鱗</title>
   <desc lang="en">23「闇に歪む者」24「暴走する愛」END
 三千年の時を経て復活した、魔神族の精鋭“十戒”との戦いに“七つの大罪”は…</desc>
+</programme>
+<programme start="20220202170000 +0900" stop="20220202180000 +0900" channel="ANIMAX.jp">
+  <title lang="en">ダイヤのA‐SECOND SEASON‐</title>
+  <desc lang="en">46「独断」47「パートナーシップ」
+もう一度、あのミットに投げ込みたい…。
+捕手・御幸一也との出会いが、少年・沢…</desc>
 </programme>
 <programme start="20220131230000 +0900" stop="20220201010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　サンボマスター</title>
@@ -468,7 +468,7 @@ OPBF東洋太平洋S・バンタム級タイトルマッチ「和氣慎吾 vs �
 ＜出演＞御徒町凧　志名坂高次　近藤くみこ（ニッチェ）　醍醐大（最高位戦日本プロ麻雀協会）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞松嶋桃
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7439969/image/e055e975899ec99fa4db6c104b6c193e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201170000 +0900" stop="20220201180000 +0900" channel="FujiOne.jp">
@@ -705,7 +705,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2001年10月7日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7440499/image/9998adaef7e50581057a22afb5e0eec4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201170000 +0900" stop="20220201173000 +0900" channel="FujiTwo.jp">
@@ -1119,26 +1119,6 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220201153400 +0900" stop="20220201160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">今回はハンバーグシリーズの総集編。極上ハンバーグのオンパレードをおたのしみください。</desc>
-  </programme>
-  <programme start="20220201160000 +0900" stop="20220201160500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220201160500 +0900" stop="20220201162000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">世界ふれあい街歩き ちょっとお散歩</title>
-    <desc lang="en">世界各地の街角を旅人の視線で訪ね歩く、新感覚の紀行番組「世界ふれあい街歩き」の１５分版。独自の文化を誇るコルシカ島（初回放送２０１６年４月）</desc>
-  </programme>
-  <programme start="20220201162000 +0900" stop="20220201163500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 純ちゃんの応援歌</title>
-    <desc lang="en">甲子園球場近くに旅館を開業し、「高校球児の母」と呼ばれる女将（おかみ）として活躍する純子を、涙と笑いとペーソスで描く青春奮戦記。１９８８年放送の連続テレビ小説。</desc>
-  </programme>
-  <programme start="20220201163500 +0900" stop="20220201165000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 純ちゃんの応援歌</title>
-    <desc lang="en">甲子園球場近くに旅館を開業し、「高校球児の母」と呼ばれる女将（おかみ）として活躍する純子を、涙と笑いとペーソスで描く青春奮戦記。１９８８年放送の連続テレビ小説。</desc>
-  </programme>
   <programme start="20220201165000 +0900" stop="20220201180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュース シブ5時</title>
     <desc lang="en">▽今月から高齢者３回目接種が本格化　交互接種も可能・選択は　▽静岡・伊豆の「土肥桜」一足早い春を中継で</desc>
@@ -1375,25 +1355,21 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220201154500 +0900" stop="20220201160000 +0900" channel="eTele.jp">
-    <title lang="en">しぜんとあそぼ</title>
-    <desc lang="en">自然と縁遠くなったといわれる子どもたちに身近な生きものたちの生態をていねいに紹介し、生きものへの優しい気持ちと、自然の不思議や命の輝きに対する好奇心を育みます。</desc>
+  <programme start="20220202160500 +0900" stop="20220202162000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">グレートトラバース 15min．</title>
+    <desc lang="en">田中陽希が百名山一筆書き人力踏破に挑んだ「グレートトラバース」。今回の舞台は、福島と新潟の県境に位置する吾妻山。</desc>
   </programme>
-  <programme start="20220201160000 +0900" stop="20220201160500 +0900" channel="eTele.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「光のゲンちゃん」うたＳＨＯＷＴＡ．／「僕らのヒーロー」うた郷ひろみ／「道」うたｙｕｍｉｒｏｓｅ／「ｗｉｓｈ　〜キボウ〜」うた藤田麻衣子</desc>
+  <programme start="20220202162000 +0900" stop="20220202163500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 純ちゃんの応援歌</title>
+    <desc lang="en">甲子園球場近くに旅館を開業し、「高校球児の母」と呼ばれる女将（おかみ）として活躍する純子を、涙と笑いとペーソスで描く青春奮戦記。１９８８年放送の連続テレビ小説。</desc>
   </programme>
-  <programme start="20220201160500 +0900" stop="20220201162000 +0900" channel="eTele.jp">
-    <title lang="en">いないいないばあっ!</title>
-    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+  <programme start="20220202163500 +0900" stop="20220202165000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 純ちゃんの応援歌</title>
+    <desc lang="en">甲子園球場近くに旅館を開業し、「高校球児の母」と呼ばれる女将（おかみ）として活躍する純子を、涙と笑いとペーソスで描く青春奮戦記。１９８８年放送の連続テレビ小説。</desc>
   </programme>
-  <programme start="20220201162000 +0900" stop="20220201164400 +0900" channel="eTele.jp">
-    <title lang="en">おかあさんといっしょ</title>
-    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
-  </programme>
-  <programme start="20220201164400 +0900" stop="20220201164500 +0900" channel="eTele.jp">
-    <title lang="en">あおきいろ</title>
-    <desc lang="en">子ども向けＳＤＧｓ番組「あおきいろ」のテーマソング「ツバメ」のダンスミュージックビデオの１分版。今回は、全国のみなさんの「ツバメダンス」を紹介します！</desc>
+  <programme start="20220202165000 +0900" stop="20220202180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュース シブ5時</title>
+    <desc lang="en">▽上昇抑制策適用で各地のガソリン価格どうなった？　▽元「Ｖ６」三宅健さんの宝物は母親との思い出詰まった品</desc>
   </programme>
   <programme start="20220201164500 +0900" stop="20220201170000 +0900" channel="eTele.jp">
     <title lang="en">みいつけた!</title>
@@ -1723,6 +1699,26 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
     <title lang="en">みんなのうた</title>
     <desc lang="en">「ふつうとは」うた東京事変／「想い出に話しかけてみた」うた財津和夫</desc>
   </programme>
+  <programme start="20220202160500 +0900" stop="20220202162000 +0900" channel="eTele.jp">
+    <title lang="en">いないいないばあっ!</title>
+    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+  </programme>
+  <programme start="20220202162000 +0900" stop="20220202164400 +0900" channel="eTele.jp">
+    <title lang="en">おかあさんといっしょ</title>
+    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+  </programme>
+  <programme start="20220202164400 +0900" stop="20220202164500 +0900" channel="eTele.jp">
+    <title lang="en">あおきいろ</title>
+    <desc lang="en">こども向けＳＤＧｓ番組シリーズ「ひろがれ！いろとりどり」のテーマソング「ツバメ」を人気番組の出演者・キャラクターが躍るよ！今回は「いないいないばあっ！」版！</desc>
+  </programme>
+  <programme start="20220202164500 +0900" stop="20220202170000 +0900" channel="eTele.jp">
+    <title lang="en">みいつけた!</title>
+    <desc lang="en">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」などさまざまな「発見」を通して楽しむことができる番組です。</desc>
+  </programme>
+  <programme start="20220202170000 +0900" stop="20220202171000 +0900" channel="eTele.jp">
+    <title lang="en">にほんごであそぼ</title>
+    <desc lang="en">今週は福井県からの「いいとこコンサート」。今回は冬のうた「ベベンの冬が来た」「スキー」「北風小僧の寒太郎」をお送りします。「切れ者寿限無」もお楽しみください。</desc>
+  </programme>
   <programme start="20220201155000 +0900" stop="20220201190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
     <desc lang="en">東京で１万人超続き…子供と高齢者入院増加受験会場でも対策強化▽23区の人口…初流出転職しない移住とは？▽北京開会式まで３日春節に「花火禁止令」</desc>
@@ -1819,10 +1815,6 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
     <title lang="en">news every.</title>
     <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
   </programme>
-<programme start="20220201154800 +0900" stop="20220201164500 +0900" channel="Asahi.jp">
-  <title lang="en">相棒 season11</title>
-  <desc lang="en">「シンデレラの靴」水谷豊、成宮寛貴(他)▽実業団陸上部の監督が遺体で発見された。同陸上部の次期監督と噂される元銀メダリストの女性マラソンランナーが気になる右京は…</desc>
-</programme>
 <programme start="20220201164500 +0900" stop="20220201184500 +0900" channel="Asahi.jp">
   <title lang="en">スーパーJチャンネル</title>
   <desc lang="en">感染増で医療ひっ迫は？気になる重症病棟の今…全自動ＰＣＲ検査とは▽ビッグボス劇場開幕‼斬新な特訓また出るか▽マスク生活で急増？あご不調の危険サイン(他)</desc>
@@ -1950,6 +1942,10 @@ by.Jane Birkin</desc>
   <title lang="en">相棒season14</title>
   <desc lang="en">「物理学者と猫」水谷豊、反町隆史(他)▽ノーベル賞にも値する大実験に成功した物理学者・成田知子が、実験中に事故死した。遺留品の返却で知子の大学を訪れた右京と亘は…</desc>
 </programme>
+<programme start="20220202164500 +0900" stop="20220202190000 +0900" channel="Asahi.jp">
+  <title lang="en">スーパーJチャンネル</title>
+  <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+</programme>
 <programme start="20220201154900 +0900" stop="20220201190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">東京への宣言は不要？病床使用率５０％寸前　岸田首相の発言に波紋　自宅療養でも不安続出▽コロナ禍に負けない　おうちバレンタイン！今年の推しチョコは？ほか</desc>
@@ -2035,10 +2031,6 @@ by.Jane Birkin</desc>
 <programme start="20220202154900 +0900" stop="20220202190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
-</programme>
-<programme start="20220201154000 +0900" stop="20220201165400 +0900" channel="TVTokyo.jp">
-  <title lang="en">よじごじDays</title>
-  <desc lang="en">日光を中心にツアーしているバスガイドが今の時季おすすめの奥日光をご案内！一面に銀世界が広がる雪の絶景から地元ブランド牛を使った絶品暖かグルメ＆雪見温泉をご紹介！</desc>
 </programme>
 <programme start="20220201165400 +0900" stop="20220201170000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゆうがたサテライト</title>
@@ -2199,6 +2191,14 @@ by.Jane Birkin</desc>
   <title lang="en">よじごじDays</title>
   <desc lang="en">地元ガイドが案内する雪の絶景が自慢のグルメスポット▽藻岩山の洋食店でブランド和牛ハンバーグ▽赤れんが庁舎の絶品すしランチ▽白い恋人パークでアフタヌーンティー！</desc>
 </programme>
+<programme start="20220202165400 +0900" stop="20220202170000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ゆうがたサテライト</title>
+  <desc lang="en">オミクロン株の感染拡大で東京都の病床利用率も上がっている。最新感染情報は？</desc>
+</programme>
+<programme start="20220202170000 +0900" stop="20220202171000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
 <programme start="20220201154500 +0900" stop="20220201190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">東京病床率ほぼ５０％“緊急事態”どう判断？追試に面接中止も中学受験も異例の対応▽新庄ビッグボス劇場！キャンプに熱視線▽爆売れ！お惣菜１日１万個売れる焼売</desc>
@@ -2287,14 +2287,6 @@ by.Jane Birkin</desc>
 <programme start="20220202154500 +0900" stop="20220202190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-</programme>
-<programme start="20220201155800 +0900" stop="20220201160000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20220201160000 +0900" stop="20220201163000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220201163000 +0900" stop="20220201170000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2487,6 +2479,14 @@ by.Jane Birkin</desc>
 <programme start="20220202160000 +0900" stop="20220202163000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20220202163000 +0900" stop="20220202170000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220202170000 +0900" stop="20220202180000 +0900" channel="Tokyo MX">
+  <title lang="en">5時に夢中!</title>
+  <desc lang="en">東京の夕方を彩る井戸端ワイドショー！▼アーティスト松田ゆう姫とやさぐれ芸人ヒコロヒー！▼ブラスはトリプル！「トイレットペーパー」の今昔▼「ゴミ」に注目な新企画</desc>
 </programme>
 <programme start="20220131230000 +0900" stop="20220201010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　サンボマスター</title>
@@ -2754,7 +2754,7 @@ OPBF東洋太平洋S・バンタム級タイトルマッチ「和氣慎吾 vs �
 ＜出演＞御徒町凧　志名坂高次　近藤くみこ（ニッチェ）　醍醐大（最高位戦日本プロ麻雀協会）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞松嶋桃
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7439969/image/e055e975899ec99fa4db6c104b6c193e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201170000 +0900" stop="20220201180000 +0900" channel="FujiOne.jp">
@@ -2991,7 +2991,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2001年10月7日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7440499/image/9998adaef7e50581057a22afb5e0eec4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201170000 +0900" stop="20220201173000 +0900" channel="FujiTwo.jp">
