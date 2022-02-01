@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220201193000 +0900" stop="20220201200000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ちびまる子ちゃん</title>
-  <desc lang="en">2「家庭教師がやってきた」「まるちゃん目覚まし時計を買う」
-お姉ちゃんに、男性の家庭教師がつくこととなった。前…</desc>
-</programme>
 <programme start="20220201200000 +0900" stop="20220201210000 +0900" channel="ANIMAX.jp">
   <title lang="en">機動戦士Zガンダム</title>
   <desc lang="en">39「湖畔」
@@ -201,6 +196,11 @@
 42「さよならロザミィ」
 反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと闘…</desc>
 </programme>
+<programme start="20220202210000 +0900" stop="20220202220000 +0900" channel="ANIMAX.jp">
+  <title lang="en">転生したらスライムだった件</title>
+  <desc lang="en">9「大鬼族の襲撃」10「オークロード」
+サラリーマンの三上悟は通り魔に刺され死亡し、気がつくと異世界に転生してい…</desc>
+</programme>
 <programme start="20220131230000 +0900" stop="20220201010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　サンボマスター</title>
 <desc>1998年〜2016年に放送していた、伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『サンボマスター』の出演映像を選りすぐってお届け！
@@ -278,7 +278,7 @@
 <desc>順位決定予備戦「日本 vs オーストラリア」　＜開催＞2021年9月17日【再放送】
 〜千葉市・千葉ポートアリーナ　
 ＜解説＞古賀幸一郎　＜実況＞谷岡慎一
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7440440/image/3547688778e1cc888a15210f30bc95a2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201210000 +0900" stop="20220201234000 +0900" channel="FujiNext.jp">
@@ -492,7 +492,7 @@ OPBF東洋太平洋S・バンタム級タイトルマッチ「和氣慎吾 vs �
 ＜怪員（怪談師）＞ぁみ　黒史郎　藤田第六感
 ▽実話怪談の本格派ホラー番組！
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7439972/image/261d6a3ba4a0d5e901752e05ab0b37aa.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201210000 +0900" stop="20220201220000 +0900" channel="FujiOne.jp">
@@ -930,7 +930,7 @@ https//otn.fujitv.co.jp
 <programme start="20220201201500 +0900" stop="20220201210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 37　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7433141/image/643c1d8b2c0bb20bb5d0da01ba33dd00.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201210000 +0900" stop="20220201220000 +0900" channel="kbsworld.jp">
@@ -1118,14 +1118,6 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220201193300 +0900" stop="20220201200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">サラメシ シーズン11</title>
-    <desc lang="en">開幕が迫る北京五輪。日本人選手のメダルの期待が高まるなか、サラメシが注目するのはオリンピアンを支える職人たち。熱戦の陰に匠の技あり？！仕事とランチを拝見します！</desc>
-  </programme>
-  <programme start="20220201200000 +0900" stop="20220201204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">うたコン</title>
-    <desc lang="en">▽沖縄本土復帰５０年…宮沢和史・夏川りみ・大城クラウディア▽秋川雅史「千の風になって」▽ふるさとを想う歌…五木ひろし・坂本冬美・藤あや子▽辰巳ゆうと</desc>
-  </programme>
   <programme start="20220201204500 +0900" stop="20220201210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">首都圏ニュース845</title>
     <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
@@ -1282,17 +1274,21 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
     <title lang="en">ガッテン!</title>
     <desc lang="en">あなたのその「目のぼやけ」…もしかして新しい目の病気かも！？女性がなりやすい？独自調査で疲れ目や乱視と大きな違いを発見！１分でできるチェック法から、最新治療まで</desc>
   </programme>
-  <programme start="20220201195500 +0900" stop="20220201200000 +0900" channel="eTele.jp">
-    <title lang="en">まいにちスクスク</title>
-    <desc lang="en">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+  <programme start="20220202201500 +0900" stop="20220202204200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ロコだけが知っている</title>
+    <desc lang="en">▼撮りに行きたい！映える絶景スペシャル！▼冬が美しい工場夜景の世界▼知られざる富山の絶景カイニョの魅力▼ゲストは神奈川出身・キスマイ宮田俊哉＆富山出身・室井滋</desc>
   </programme>
-  <programme start="20220201200000 +0900" stop="20220201203000 +0900" channel="eTele.jp">
-    <title lang="en">ハートネットTV</title>
-    <desc lang="en">フォトジャーナリスト・安田菜津紀さんの父親は、在日コリアンであることを隠したまま他界した。なぜ父は出自を語らなかったのか、差別について考え続ける安田さんに聞く。</desc>
+  <programme start="20220202204200 +0900" stop="20220202204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK</title>
+    <desc lang="en">【キャスター】林田理沙</desc>
   </programme>
-  <programme start="20220201203000 +0900" stop="20220201204500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの健康</title>
-    <desc lang="en">新型コロナ発生初期から、感染すると脳梗塞の発症リスクを高めるのではないかと海外の研究者を中心に危惧されてきた。そのメカニズムと日本での最新データを紹介する</desc>
+  <programme start="20220202204500 +0900" stop="20220202210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">首都圏ニュース845</title>
+    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
+  </programme>
+  <programme start="20220202210000 +0900" stop="20220202220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースウオッチ9</title>
+    <desc lang="en">▽新型コロナ最新情報家庭でもできる有効な消毒方法とは？プロの仕事から探る▽高値が続くガソリン価格政府の対策でどうなる？▽プロ野球キャンプ情報北京五輪まであと２日</desc>
   </programme>
   <programme start="20220201204500 +0900" stop="20220201210000 +0900" channel="eTele.jp">
     <title lang="en">NHK手話ニュース845</title>
@@ -1630,9 +1626,17 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
     <title lang="en">ハートネットTV</title>
     <desc lang="en">飲み込む力が弱くなった人のための食事「えん下食」。さまざまな食材をえん下食に変えるスゴ腕の料理人が山形にいる。食べたい思いに応えようと挑戦する料理人に密着！</desc>
   </programme>
-  <programme start="20220201195600 +0900" stop="20220201205400 +0900" channel="NipponTV.jp">
-    <title lang="en">踊る!さんま御殿!!</title>
-    <desc lang="en">今夜ディーン様の意外な㊙素顔が明らかに⁉愛犬に嫉妬⁉塚田僚一のヤバすぎる闇とは？佐々木美玲＆景井ひながドキドキする事とは？めるるがマリトッツォおじさんブッタ斬り</desc>
+  <programme start="20220202203000 +0900" stop="20220202204500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">脳卒中というと高齢者のイメージもあるが、意外な原因で若者が発症することもある。脳卒中のリスクとなるがん、妊娠、エコノミー症候群の３つについて紹介</desc>
+  </programme>
+  <programme start="20220202204500 +0900" stop="20220202210000 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース845</title>
+    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+  </programme>
+  <programme start="20220202210000 +0900" stop="20220202212500 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理</title>
+    <desc lang="en">韓国料理が大好きなはるみさんが寒い日に食べたくなる「骨付き鶏の韓国風水炊き」。だしがたっぷりでおいしい煮汁が絶品。「白身魚のタルタル仕立て」は盛りつけに注目！</desc>
   </programme>
   <programme start="20220201205400 +0900" stop="20220201210000 +0900" channel="NipponTV.jp">
     <title lang="en">まもなく仰天ニュース</title>
@@ -1727,6 +1731,14 @@ SUPER JUNIORヒチョル、シン・ドンヨプ等がお酒とともにゲス�
     <desc lang="en">成田凌＆ネタ探し天才犬が海沿いの街へ出動
 新コーナー祭その①「爆発させたい想いを叫べ！」本気の大爆発で身も心もスッキリ
 その②あなたの最多いいね教えてください！</desc>
+  </programme>
+  <programme start="20220202205400 +0900" stop="20220202210000 +0900" channel="NipponTV.jp">
+    <title lang="en">まだまだ笑コラまもなく今くら!</title>
+    <desc lang="en">韓国スター・ジェジュンの「2LDKSBRDR」豪邸新居＆自らデザインした6億円の実家公開！▽蛙亭・イワクラが予算100万円で新居の家具をガチ購入！</desc>
+  </programme>
+  <programme start="20220202210000 +0900" stop="20220202215400 +0900" channel="NipponTV.jp">
+    <title lang="en">今夜くらべてみました</title>
+    <desc lang="en">韓国スター・ジェジュンの「2LDKSBRDR」豪邸新居＆自らデザインした6億円の実家公開！▽蛙亭・イワクラが予算100万円で新居の家具をガチ購入！</desc>
   </programme>
 <programme start="20220201184500 +0900" stop="20220201211500 +0900" channel="Asahi.jp">
   <title lang="en">2022FIFAワールドカップカタール アジア地区予選</title>
@@ -1859,9 +1871,19 @@ by.Jane Birkin</desc>
   <title lang="en">くりぃむクイズ ミラクル9</title>
   <desc lang="en">久々登場！生瀬キャプテンが闘志むき出し！澤・川島・和泉・紺野・王林ら豪華メンバー集結で激レア展開２時間ＳＰ！</desc>
 </programme>
-<programme start="20220201190000 +0900" stop="20220201205700 +0900" channel="TBS2.jp">
-  <title lang="en">笑える!泣ける!動物スクープ100連発</title>
-  <desc lang="en">衝撃！激ギレ＆田んぼ落下ドジ犬▽ご主人をガン無視するネコの謎▽カワイイ…ボストン・テリア大集結！▽爆笑…風で口がバー＆変顔犬▽世界一有名な柴犬「かぼす」の秘密</desc>
+<programme start="20220202205400 +0900" stop="20220202210000 +0900" channel="Asahi.jp">
+  <title lang="en"></title>
+  <desc lang="en">第１４話「ディアボロス」
+二度も婚約者を失った男！
+これは裏切りか…悪魔の仕業か…
+特命係が辿り着いた真実とは⁉</desc>
+</programme>
+<programme start="20220202210000 +0900" stop="20220202215400 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season20</title>
+  <desc lang="en">第１４話「ディアボロス」
+二度も婚約者を失った男！
+これは裏切りか…悪魔の仕業か…
+特命係が辿り着いた真実とは⁉</desc>
 </programme>
 <programme start="20220201205700 +0900" stop="20220201220000 +0900" channel="TBS2.jp">
   <title lang="en">マツコの知らない世界</title>
@@ -1945,9 +1967,9 @@ by.Jane Birkin</desc>
   <title lang="en">東大王</title>
   <desc lang="en">🈑🈓タメになる日本語Q続々▽間違えやすい日本語「短い」「短かい」正しくは▽伊沢VS辞書の神様！売れる辞書の秘密を探る▽最後の早押しは予想外の結末▽そして重大発表</desc>
 </programme>
-<programme start="20220201182500 +0900" stop="20220201205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">ありえへん∞世界</title>
-  <desc lang="en">▼空爆で家を失った一家…残った扉が１億円⁉ナゼ？▼体重２９７ｋｇおデブ女性が激ヤセ！大変身▼動物園のライオン…岩に座るのナゼ？缶切り無くても缶詰が開く裏技</desc>
+<programme start="20220202210000 +0900" stop="20220202225700 +0900" channel="TBS2.jp">
+  <title lang="en">ワールド極限ミステリー</title>
+  <desc lang="en">★SixTONES田中樹MC…身近な食の危険！要注意バレンタインデー症候群＆花粉症に新たな危険…あの食べ物で命の危険★映画「南極物語」実はもう１頭生き延びた犬が</desc>
 </programme>
 <programme start="20220201205400 +0900" stop="20220201215400 +0900" channel="TVTokyo.jp">
   <title lang="en">開運!なんでも鑑定団</title>
@@ -2200,9 +2222,9 @@ by.Jane Birkin</desc>
   <title lang="en">林修のニッポンドリル</title>
   <desc lang="en">超激安スーパー・ジャパンミート売上番付！カツ丼・焼肉・しゃぶしゃぶ…業務田スー子オススメ絶品レシピ▼人気Ｎｏ１丸源ラーメン売上番付！肉そばの秘密</desc>
 </programme>
-<programme start="20220201190000 +0900" stop="20220201200000 +0900" channel="Tokyo MX">
-  <title lang="en">トムとジェリー</title>
-  <desc lang="en">＃１７「恋のとりこ／水兵さんも楽じゃない／猫はやっぱり猫でした」＃１８「ここまでおいで／南へ行こう／お好みサンド」</desc>
+<programme start="20220202210000 +0900" stop="20220202215400 +0900" channel="FujiTV.jp">
+  <title lang="en">ホンマでっか!?TV</title>
+  <desc lang="en">ホンマでっか！？な情報大連発！博識人たちだけが知る常識を覆す裏話の数々にスタジオ騒然！強烈キャラクターの頭脳軍団と明石家さんまの化学反応トークは見逃すべからず！</desc>
 </programme>
 <programme start="20220201200000 +0900" stop="20220201210000 +0900" channel="Tokyo MX">
   <title lang="en">news TOKYO FLAG</title>
@@ -2408,6 +2430,10 @@ by.Jane Birkin</desc>
   <title lang="en">news TOKYO FLAG</title>
   <desc lang="en">分科会の小林慶一郎氏生出演…東京への緊急事態宣言の発令は？▼医療ひっ迫…現場の医師に聞く現状は？課題は？▼江東区長生出演！新年度予算案で今後のコロナ対策は？</desc>
 </programme>
+<programme start="20220202210000 +0900" stop="20220202215400 +0900" channel="Tokyo MX">
+  <title lang="en">バラいろダンディ</title>
+  <desc lang="en">ロバート　キャンベル＆内山信二とふかわりょう＆大島由香里が「衣食住」をダンディに語らう１時間！</desc>
+</programme>
 <programme start="20220131230000 +0900" stop="20220201010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES　サンボマスター</title>
 <desc>1998年〜2016年に放送していた、伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『サンボマスター』の出演映像を選りすぐってお届け！
@@ -2485,7 +2511,7 @@ by.Jane Birkin</desc>
 <desc>順位決定予備戦「日本 vs オーストラリア」　＜開催＞2021年9月17日【再放送】
 〜千葉市・千葉ポートアリーナ　
 ＜解説＞古賀幸一郎　＜実況＞谷岡慎一
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7440440/image/3547688778e1cc888a15210f30bc95a2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201210000 +0900" stop="20220201234000 +0900" channel="FujiNext.jp">
@@ -2699,7 +2725,7 @@ OPBF東洋太平洋S・バンタム級タイトルマッチ「和氣慎吾 vs �
 ＜怪員（怪談師）＞ぁみ　黒史郎　藤田第六感
 ▽実話怪談の本格派ホラー番組！
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7439972/image/261d6a3ba4a0d5e901752e05ab0b37aa.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201210000 +0900" stop="20220201220000 +0900" channel="FujiOne.jp">
@@ -3137,7 +3163,7 @@ https//otn.fujitv.co.jp
 <programme start="20220201201500 +0900" stop="20220201210000 +0900" channel="kbsworld.jp">
 <title lang="en">国家代表ワイフ（原題） 37　[字]</title>
 <desc>日本初放送！家を江南（カンナム）に買ってワンランク上の人生を過ごすために奮闘する主婦が本当の幸せを見つけるラブコメ・ホームドラマ！2021年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220201/7433141/image/643c1d8b2c0bb20bb5d0da01ba33dd00.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220201210000 +0900" stop="20220201220000 +0900" channel="kbsworld.jp">
