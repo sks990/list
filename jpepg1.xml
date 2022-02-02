@@ -63,10 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220202113000 +0900" stop="20220202120000 +0900" channel="ANIMAX.jp">
-  <title lang="en">情報</title>
-  <desc lang="en">この時間は情報番組をお送りしております。</desc>
-</programme>
 <programme start="20220202120000 +0900" stop="20220202130000 +0900" channel="ANIMAX.jp">
   <title lang="en">マクロスF</title>
   <desc lang="en">17「グッバイ・シスター」
@@ -223,6 +219,11 @@
   <desc lang="en">19「トライアングラー」
 20「ダイアモンド・クレバス」
 かつて巨大な異星人との星間戦争で滅亡の危機に瀕した地球人…</desc>
+</programme>
+<programme start="20220203130000 +0900" stop="20220203140000 +0900" channel="ANIMAX.jp">
+  <title lang="en">転生したらスライムだった件</title>
+  <desc lang="en">9「大鬼族の襲撃」10「オークロード」
+サラリーマンの三上悟は通り魔に刺され死亡し、気がつくと異世界に転生してい…</desc>
 </programme>
 <programme start="20220201235000 +0900" stop="20220202000500 +0900" channel="FujiNext.jp">
 <title lang="en">ラーメンWalker TV2　311　国分寺「中華そばムタヒロ 本店」</title>
@@ -477,7 +478,7 @@ https//otn.fujitv.co.jp
 <title lang="en">寺門ジモンの肉専門チャンネル　89「ヤウメイ」</title>
 <desc>「ヤウメイ」
 芸能界一食に詳しく、そして肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220202/7439990/image/16b2c68e21276b6e7e93e8600420bf03.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220202130000 +0900" stop="20220202141000 +0900" channel="FujiOne.jp">
@@ -1307,26 +1308,6 @@ Mnetがお届けする韓流情報番組「MタメBANG！」がリニューア�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220202115400 +0900" stop="20220202120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220202120000 +0900" stop="20220202121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">【キャスター】佐藤誠太</desc>
-  </programme>
-  <programme start="20220202121500 +0900" stop="20220202122000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220202122000 +0900" stop="20220202124300 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">梅沢富美男と東野幸治のまんぷくメシ!</title>
-    <desc lang="en">根っこまで食べられるセリは、天ぷらや温かいセリ鍋で！色・味・香りと三拍子そろった赤貝は握り寿司（ずし）や特製なめろうに！宮城県名取市のご当地メシをいただきます！</desc>
-  </programme>
-  <programme start="20220202124300 +0900" stop="20220202124500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">新型コロナ 命を守る行動を</title>
-    <desc lang="en">ウイルスが体内で増え他人に感染を広げるまでの期間。デルタ株は約５日だがオミクロン株はわずか２日ほど。この短さが感染爆発を生むメカニズムを図を使い分かりやすく説明</desc>
-  </programme>
   <programme start="20220202124500 +0900" stop="20220202130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
     <desc lang="en">時代劇が大好きなひなた（新津ちせ）の元にビッグニュースが！条映という映画会社が太秦に撮影現場を見学できる映画村というテーマパークをオープンさせたというのです。</desc>
@@ -1527,17 +1508,21 @@ Mnetがお届けする韓流情報番組「MタメBANG！」がリニューア�
     <title lang="en"></title>
     <desc lang="en">【キャスター】佐藤誠太</desc>
   </programme>
-  <programme start="20220202115500 +0900" stop="20220202120000 +0900" channel="eTele.jp">
-    <title lang="en">まる得マガジン</title>
-    <desc lang="en">豆は土鍋で時間をかけて優しく火を入れることで、ふっくらしっとり。今回は豆料理です。“ひよこ豆のカレー”や“大豆とするめの煮物”。豆はまさに土鍋向きの食材です。</desc>
+  <programme start="20220203121500 +0900" stop="20220203122000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220202120000 +0900" stop="20220202122500 +0900" channel="eTele.jp">
-    <title lang="en">100分de名著</title>
-    <desc lang="en">金子みすゞの手書きの詩５１２作は弟の雅輔が大切に保管していた。昭和５９年その全作が出版、死後５０年以上たって初めてみすゞ全集が刊行。国語教科書にも掲載される。</desc>
+  <programme start="20220203122000 +0900" stop="20220203124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">サラメシ シーズン11</title>
+    <desc lang="en">開幕が迫る北京五輪。日本人選手のメダルの期待が高まるなか、サラメシが注目するのはオリンピアンを支える職人たち。熱戦の陰に匠の技あり？！仕事とランチを拝見します！</desc>
   </programme>
-  <programme start="20220202122500 +0900" stop="20220202125500 +0900" channel="eTele.jp">
-    <title lang="en">ソーイング・ビー4</title>
-    <desc lang="en">ＢＢＣ・裁縫バトル番組「ソーイング・ビー」日本語版の第４弾！イギリス全土から集められた裁縫自慢たちが腕を競い、チャンピオンの座を目指す</desc>
+  <programme start="20220203124500 +0900" stop="20220203130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">るい（深津絵里）は悩んでいました。急激に回転焼きの売り上げが落ちていたのです。その原因は…？一方ひなた（新津ちせ）には映画村で運命的な出会いが…</desc>
+  </programme>
+  <programme start="20220203130000 +0900" stop="20220203130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20220202125500 +0900" stop="20220202130000 +0900" channel="eTele.jp">
     <title lang="en">みんなのうた</title>
@@ -1871,6 +1856,22 @@ Mnetがお届けする韓流情報番組「MタメBANG！」がリニューア�
     <title lang="en">趣味の園芸 やさいの時間</title>
     <desc lang="en">２０２１年１月１７日のアンコール放送。牛乳パックを使って室内で野菜作り。根が深くはらないラディッシュとシュンギクのベビーリーフなら１か月ほどで収穫できる。</desc>
   </programme>
+  <programme start="20220203122500 +0900" stop="20220203123000 +0900" channel="eTele.jp">
+    <title lang="en">趣味の園芸 京も一日陽だまり屋</title>
+    <desc lang="en">お客さんは知りたがりの受験生。カラフルなラッパのような筒状の花を咲かせるラケナリアについて知りたがる。原産地はいろいろな花が咲く南アフリカだというのだが…。</desc>
+  </programme>
+  <programme start="20220203123000 +0900" stop="20220203125500 +0900" channel="eTele.jp">
+    <title lang="en">趣味の園芸</title>
+    <desc lang="en">村雨が冬の信州のガーデンへ。１年中花が途切れない魅惑のガーデンをつくる秘けつは冬にあり。この時期１年分の植栽計画を立てるガーデナーからそのノウハウを学ぶ。</desc>
+  </programme>
+  <programme start="20220203125500 +0900" stop="20220203130000 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「天使の羽のマーチ」上條恒彦／「お兄ちゃんずるい」北本敦也／「あなたが見える」ＴＥＡ　ＦＯＲ　ＴＨＲＥＥ／「メッセージ・ソング」ピチカート・ファイヴ</desc>
+  </programme>
+  <programme start="20220203130000 +0900" stop="20220203130500 +0900" channel="eTele.jp">
+    <title lang="en">NHK手話ニュース</title>
+    <desc lang="en">【キャスター】河合祐三子</desc>
+  </programme>
   <programme start="20220202115500 +0900" stop="20220202135500 +0900" channel="NipponTV.jp">
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">子どもの笑顔を引き出すプロ写真家と忖度無し春日が写真館でガチ対決キッチン便利グッズと春日の素手どちらが早い？▼㊙食材で簡単とろとろ参鶏湯餃子！とり肉対決</desc>
@@ -2111,6 +2112,10 @@ Mnetがお届けする韓流情報番組「MタメBANG！」がリニューア�
 <programme start="20220203102500 +0900" stop="20220203130000 +0900" channel="Asahi.jp">
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
+</programme>
+<programme start="20220203130000 +0900" stop="20220203133000 +0900" channel="Asahi.jp">
+  <title lang="en">徹子の部屋</title>
+  <desc lang="en">〜“コサキン”が徹子で初トーク！黒柳も参戦⁉爆笑モノマネ披露〜関根勤さん＆小堺一機さんが今日のゲストです。</desc>
 </programme>
 <programme start="20220202102500 +0900" stop="20220202135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
@@ -2447,14 +2452,6 @@ Mnetがお届けする韓流情報番組「MタメBANG！」がリニューア�
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆酒主義久アナが豪華ゲストと送るニュース＆ホンネトークショー！政治・事件・国際問題から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
-<programme start="20220202115500 +0900" stop="20220202120000 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
-</programme>
-<programme start="20220202120000 +0900" stop="20220202123000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
 <programme start="20220202123000 +0900" stop="20220202130000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
@@ -2654,6 +2651,14 @@ Mnetがお届けする韓流情報番組「MタメBANG！」がリニューア�
 <programme start="20220203120000 +0900" stop="20220203123000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20220203123000 +0900" stop="20220203130000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220203130000 +0900" stop="20220203135500 +0900" channel="Tokyo MX">
+  <title lang="en">七日の王妃</title>
+  <desc lang="en">ひとりの女性と、二人の王。宿命に翻弄されながらも想いを貫く三人の甘く切ない愛に胸が震える、涙のシンデレラロマンス史劇！</desc>
 </programme>
 <programme start="20220201235000 +0900" stop="20220202000500 +0900" channel="FujiNext.jp">
 <title lang="en">ラーメンWalker TV2　311　国分寺「中華そばムタヒロ 本店」</title>
@@ -2908,7 +2913,7 @@ https//otn.fujitv.co.jp
 <title lang="en">寺門ジモンの肉専門チャンネル　89「ヤウメイ」</title>
 <desc>「ヤウメイ」
 芸能界一食に詳しく、そして肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220202/7439990/image/16b2c68e21276b6e7e93e8600420bf03.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220202130000 +0900" stop="20220202141000 +0900" channel="FujiOne.jp">
