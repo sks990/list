@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220205050000 +0900" stop="20220205060000 +0900" channel="ANIMAX.jp">
-  <title lang="en">BanG Dream!</title>
-  <desc lang="en">9「バイトしちゃった！」
-10「驚いちゃった！」
-幼い頃、星空を見上げた時に聴こえた『星の鼓動』のように、キラキ…</desc>
-</programme>
-<programme start="20220205060000 +0900" stop="20220205063000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ちびまる子ちゃん</title>
-  <desc lang="en">535「まる子の秋探し」の巻／「まる子の新しい貯金箱」の巻
-静岡県清水市に住む小学3年生のももこは、みんなから“ま…</desc>
-</programme>
 <programme start="20220205063000 +0900" stop="20220205073000 +0900" channel="ANIMAX.jp">
   <title lang="en">ルパン三世(PART2)</title>
   <desc lang="en">109「ルパン史上最大の苦戦」
@@ -178,6 +167,12 @@
 230「旅人さんがやって来た」
 231「コヒグマくんとヤマビーくん」
 232「いろいろ…</desc>
+</programme>
+<programme start="20220206063000 +0900" stop="20220206073000 +0900" channel="ANIMAX.jp">
+  <title lang="en">2.43 清陰高校男子バレー部</title>
+  <desc lang="en">9「常勝とダークホース」
+10「英雄と天才1」
+東京の強豪中学バレーチームで深刻なトラブルを起こしてしまった灰島公…</desc>
 </programme>
 <programme start="20220205000000 +0900" stop="20220205020000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　40　東日本旅客鉄道・北海道旅客鉄道「寝台特急カシオペア」</title>
@@ -437,7 +432,7 @@
 <title lang="en">パチンコLAB 〜10th season〜　14</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7477071/image/337177d515eb700cbdcb5ef3f1bbefd5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205070000 +0900" stop="20220205080000 +0900" channel="FujiOne.jp">
@@ -630,7 +625,7 @@
 <title lang="en">番組PR【2月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7477172/image/b02828758ba95ab380f986484d7878d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205070000 +0900" stop="20220205080000 +0900" channel="FujiTwo.jp">
@@ -914,7 +909,7 @@ https//otn.fujitv.co.jp
 <programme start="20220205060000 +0900" stop="20220205070000 +0900" channel="kbsworld.jp">
 <title lang="en">歌謡舞台　[字]</title>
 <desc>１９８５年から２０年以上続いてきた長寿番組。郷愁が漂う想い出深い伝統歌謡、ブラウン管を離れた歌手の全盛期を再現、昔ながらの姿が見られる唯一の音楽番組。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7437613/image/0524cd7474dbd6a8cc340d0d36b62314.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205070000 +0900" stop="20220205073000 +0900" channel="kbsworld.jp">
@@ -1261,14 +1256,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220205055000 +0900" stop="20220205060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220205060000 +0900" stop="20220205063000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">▼北京五輪が開幕　コロナ禍で開会式は▼フィギュアスケート団体予選・宇野昌磨選手が自己ベスト▼コロナ感染拡大止まらず　死者・重症者が増加</desc>
-  </programme>
   <programme start="20220205063000 +0900" stop="20220205070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">▼夢に向かって「夜間中学」に集う人々・フィリピン出身の２児の母　めざすは高校進学▼インド・知られざる民族の祭り　独自の伝統受け継ぐ若者</desc>
@@ -1493,21 +1480,29 @@ https//otn.fujitv.co.jp
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220205055500 +0900" stop="20220205062500 +0900" channel="eTele.jp">
-    <title lang="en">やまと尼寺 精進日記</title>
-    <desc lang="en">音羽山観音寺。初もうで客でにぎわうお正月が過ぎると、７日にはお寺周りの野草で作る「七草粥」で無病息災を願い、１５日には「小豆粥」で庭の木々の豊かな実りを祈る。</desc>
+  <programme start="20220206061000 +0900" stop="20220206064000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">目撃!にっぽん</title>
+    <desc lang="en">二度の水害に、コロナ…トリプルパンチを受けた佐賀県武雄市。疲弊した中小企業と向き合い、支えようとする地元の信用金庫。再生のカギはあるのか、１００日の記録。</desc>
   </programme>
-  <programme start="20220205062500 +0900" stop="20220205063500 +0900" channel="eTele.jp">
-    <title lang="en">テレビ体操</title>
-    <desc lang="en">岡本美佳、幅しげみ、舘野伶奈、今井菜津美、矢作あかり、杉井勇介、新井庸太</desc>
+  <programme start="20220206064000 +0900" stop="20220206065000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">10分で巡る にっぽんの廃線</title>
+    <desc lang="en">「１０分で巡る　にっぽんの廃線」東北編。南部縦貫鉄道、庄内交通湯野浜線、下北交通大畑線、日中線、同和鉱業花岡線、山形交通尾花沢線など、８路線を紹介します。</desc>
   </programme>
-  <programme start="20220205063500 +0900" stop="20220205064500 +0900" channel="eTele.jp">
-    <title lang="en">リトル・チャロ</title>
-    <desc lang="en">アニメ・「リトル・チャロ〜東北編〜」の英語版をテキストに、民話を題材にした「日本的」な表現を英語で表すコツや、物語に出てきた、印象深いフレーズを学びます。</desc>
+  <programme start="20220206065000 +0900" stop="20220206065300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">にっぽん百名山ミニ 3min</title>
+    <desc lang="en">北海道の増毛山地そびえる暑寒別岳（１４９２ｍ）、山腹の雨竜沼湿原は北海道最大の高層湿原、夏はニッコウキスゲが咲き誇る。山頂部には増毛山地でしか見られない花も！</desc>
   </programme>
-  <programme start="20220205064500 +0900" stop="20220205065500 +0900" channel="eTele.jp">
-    <title lang="en">えいごであそぼ with Orton</title>
-    <desc lang="en">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+  <programme start="20220206065300 +0900" stop="20220206065500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220206065500 +0900" stop="20220206070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220206070000 +0900" stop="20220206074000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【７時台】新着のニュースを分かりやすく。社会の深層に鋭く迫る特集。スポーツ、日曜の名物・南さんの気象解説！</desc>
   </programme>
   <programme start="20220205065500 +0900" stop="20220205070000 +0900" channel="eTele.jp">
     <title lang="en">あそビーバー</title>
@@ -1733,6 +1728,18 @@ https//otn.fujitv.co.jp
     <title lang="en">NHK短歌</title>
     <desc lang="en">選者田村元、ゲスト酒井一圭（コーラスグループ「純烈」リーダー）。題「温泉」。ゲストが四万温泉の写真で作歌に挑戦。温泉を愛した歌人の歌を紹介。司会星野真里</desc>
   </programme>
+  <programme start="20220206062500 +0900" stop="20220206063500 +0900" channel="eTele.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">多胡肇、細貝柊、吉江晴菜、今井菜津美、戸塚寛子、石川裕平、新井庸太</desc>
+  </programme>
+  <programme start="20220206063500 +0900" stop="20220206070000 +0900" channel="eTele.jp">
+    <title lang="en">NHK俳句</title>
+    <desc lang="en">選者は片山由美子さん。ゲストはいとうせいこうさん。故金子兜太と共に、俳句賞の選者をしていたいとうさん。金子さんに選の機微を教えてもらったという。司会　武井壮</desc>
+  </programme>
+  <programme start="20220206070000 +0900" stop="20220206070900 +0900" channel="eTele.jp">
+    <title lang="en">わらたまドッカ〜ン</title>
+    <desc lang="en">絶叫漫才のおいでやすこがが、コント職人のラバーガールと対戦する！２年弱ぶりに子どもたちがスタジオで観覧し玉入れ審査が復活！ドッカ〜ンと笑わせるのはどっち！？</desc>
+  </programme>
   <programme start="20220205053000 +0900" stop="20220205080000 +0900" channel="NipponTV.jp">
     <title lang="en">ズームイン!!サタデー</title>
     <desc lang="en">▽北京オリンピック開会式▽魅せた！宇野昌磨▽羽生結弦推し曲はBTS⁉▽竹内涼真が声優に▽山田涼介が特撮に▽Ｇ坂本＆菅野＆丸＆岡本“推し中華料理”</desc>
@@ -1864,10 +1871,18 @@ https//otn.fujitv.co.jp
     <title lang="en">日テレアップDate!</title>
     <desc lang="en">日本テレビの「今」を様々に発信します。</desc>
   </programme>
-<programme start="20220205055000 +0900" stop="20220205060000 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20220206061500 +0900" stop="20220206063000 +0900" channel="NipponTV.jp">
+    <title lang="en">NNNニュース・サンデー</title>
+    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  </programme>
+  <programme start="20220206063000 +0900" stop="20220206070000 +0900" channel="NipponTV.jp">
+    <title lang="en">遠くへ行きたい</title>
+    <desc lang="en">今回は副島淳が佐賀へ▽鷹匠に挑戦！▽老舗酒造で発見！１５０年前の浴場▽公園で整える！？テントサウナ▽名物！鯉の洗い▽大隈重信が愛したスイーツ▽伝統のガラス技法</desc>
+  </programme>
+  <programme start="20220206070000 +0900" stop="20220206073000 +0900" channel="NipponTV.jp">
+    <title lang="en">所さんの目がテン!</title>
+    <desc lang="en">寒さに強い動物の冬にしか見られない貴重な姿▽ホッキョクグマ、レッサーパンダ…なぜ冬に強い？▽旭山動物園の冬の風物詩ペンギンの散歩▽野生のラッコを探しに霧多布岬へ</desc>
+  </programme>
 <programme start="20220205060000 +0900" stop="20220205080000 +0900" channel="Asahi.jp">
   <title lang="en">週刊ニュースリーダー</title>
   <desc lang="en">「今週のニュース気になる人物１０」追悼…石原慎太郎さん（89）死去 秘蔵映像から振り返るその“生き様”＆親子対談で見せた家庭での素顔など</desc>
@@ -2165,13 +2180,13 @@ https//otn.fujitv.co.jp
   <title lang="en">バナナマンの早起きせっかくグルメ</title>
   <desc lang="en">全国の今しか食べられない冬の極上食材をスタジオへ直送！生産者さんオススメの食べ方で堪能する「せっかく今すぐグルメ」！設楽さんが愛してやまない㊙冬グルメも登場！</desc>
 </programme>
-<programme start="20220205053000 +0900" stop="20220205060000 +0900" channel="TVTokyo.jp">
-  <title lang="en">あさモヤさまぁ〜ず2</title>
-  <desc lang="en">ヨーロッパ風の住宅街でご主人とコール＆レスポンス▼田中アナが名言「これが私の食べ方です。」に大竹苦笑▼超極寒の江戸川沿いで田中アナが衝撃の過去を告白に三村呆然</desc>
+<programme start="20220206064500 +0900" stop="20220206070000 +0900" channel="TBS2.jp">
+  <title lang="en">JNNニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
 </programme>
-<programme start="20220205060000 +0900" stop="20220205065400 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
+<programme start="20220206070000 +0900" stop="20220206073000 +0900" channel="TBS2.jp">
+  <title lang="en">健康カプセル!ゲンキの時間</title>
+  <desc lang="en">眠不足に気づいていない人の中に「かくれ不眠」が潜んでる可能性が！放置すると高血圧や糖尿病、更には寿命に悪影響を及ぼす可能性が…⁉原因や対策を専門医に学びます。</desc>
 </programme>
 <programme start="20220205065400 +0900" stop="20220205070000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
@@ -2340,9 +2355,13 @@ https//otn.fujitv.co.jp
   <title lang="en"></title>
   <desc lang="en">日曜日の朝に送る情報番組。お得な情報をダイレクトに皆様の家庭にお届けします。</desc>
 </programme>
-<programme start="20220205053000 +0900" stop="20220205060000 +0900" channel="FujiTV.jp">
-  <title lang="en">週刊フジテレビ批評</title>
-  <desc lang="en">冬ドラマ辛口放談！演技派俳優たちが躍動！注目作「ミステリと言う勿れ」「ＤＣＵ」の評価は？ＴＶウォッチャー３人が忖度なしでぶっちゃける</desc>
+<programme start="20220206065400 +0900" stop="20220206070000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">毎週金曜よる８時放送「駐在刑事　Ｓｅａｓｏｎ３」の見どころをご紹介します。</desc>
+</programme>
+<programme start="20220206070000 +0900" stop="20220206073000 +0900" channel="TVTokyo.jp">
+  <title lang="en">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+  <desc lang="en">水の国での式典の最中、飛行船が爆破される事件が発生した。かぐらが所長の刑務所を訪れていたボルトは現場へ向かおうとするが、その時、刑務所が何者かに襲撃される。</desc>
 </programme>
 <programme start="20220205060000 +0900" stop="20220205083000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましどようび</title>
@@ -2478,13 +2497,18 @@ https//otn.fujitv.co.jp
   <title lang="en">FNNニュース</title>
   <desc lang="en">日曜日の朝は「ＦＮＮニュース」。コンパクトながら情報満載。全国のＦＮＮ系列の記者がしのぎを削って集めたニュースをしっかりお届けします。</desc>
 </programme>
-<programme start="20220205053000 +0900" stop="20220205060000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220206061500 +0900" stop="20220206063000 +0900" channel="FujiTV.jp">
+  <title lang="en">GO!GO!チャギントン</title>
+  <desc lang="en">世界で大人気の鉄道ＣＧアニメ「チャギントン」！ナビゲーターつるの剛士・佐久間みなみアナ　他▽声小林由美子　他▽＃＃４９３「ハリソンを引っ張れ！」</desc>
 </programme>
-<programme start="20220205060000 +0900" stop="20220205063000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220206063000 +0900" stop="20220206070000 +0900" channel="FujiTV.jp">
+  <title lang="en">はやく起きた朝は…</title>
+  <desc lang="en">今ハマっているスイーツは？▽パパの手作り弁当▽実家のモノが欲しくなる▽ケンコウコツとコウケンテツ再び▽さようならは美しい
+〈出演〉松居直美　磯野貴理子　森尾由美</desc>
+</programme>
+<programme start="20220206070000 +0900" stop="20220206073000 +0900" channel="FujiTV.jp">
+  <title lang="en">ボクらの時代</title>
+  <desc lang="en">小日向文世×角野卓造×松重豊</desc>
 </programme>
 <programme start="20220205063000 +0900" stop="20220205070000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2693,6 +2717,14 @@ https//otn.fujitv.co.jp
 <programme start="20220206060000 +0900" stop="20220206063000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20220206063000 +0900" stop="20220206070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220206070000 +0900" stop="20220206073000 +0900" channel="Tokyo MX">
+  <title lang="en">TAKARAZUKA CAFEBREAK</title>
+  <desc lang="en">月組トップスター月城かなとさんのカフェブレイク出演回を振り返るパート②</desc>
 </programme>
 <programme start="20220205000000 +0900" stop="20220205020000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　40　東日本旅客鉄道・北海道旅客鉄道「寝台特急カシオペア」</title>
@@ -2952,7 +2984,7 @@ https//otn.fujitv.co.jp
 <title lang="en">パチンコLAB 〜10th season〜　14</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7477071/image/337177d515eb700cbdcb5ef3f1bbefd5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205070000 +0900" stop="20220205080000 +0900" channel="FujiOne.jp">
@@ -3145,7 +3177,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【2月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7477172/image/b02828758ba95ab380f986484d7878d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205070000 +0900" stop="20220205080000 +0900" channel="FujiTwo.jp">
@@ -3429,7 +3461,7 @@ https//otn.fujitv.co.jp
 <programme start="20220205060000 +0900" stop="20220205070000 +0900" channel="kbsworld.jp">
 <title lang="en">歌謡舞台　[字]</title>
 <desc>１９８５年から２０年以上続いてきた長寿番組。郷愁が漂う想い出深い伝統歌謡、ブラウン管を離れた歌手の全盛期を再現、昔ながらの姿が見られる唯一の音楽番組。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7437613/image/0524cd7474dbd6a8cc340d0d36b62314.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205070000 +0900" stop="20220205073000 +0900" channel="kbsworld.jp">
