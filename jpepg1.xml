@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220205110000 +0900" stop="20220205163000 +0900" channel="ANIMAX.jp">
-  <title lang="en">Dr.STONE第2期</title>
-  <desc lang="en">1〜11 END
-全人類が、謎の現象により石化して数千年…。超人的な頭脳を持つ、科学少年・千空が目覚めた。文明が滅ん…</desc>
-</programme>
 <programme start="20220205163000 +0900" stop="20220205173000 +0900" channel="ANIMAX.jp">
   <title lang="en">ちびまる子ちゃん</title>
   <desc lang="en">3「今日は家庭訪問」「生き物係のキザ野郎参上」
@@ -209,6 +204,12 @@
 96「黒の暴牛団長VS深紅の野薔薇」
 魔法がすべての、とある世界…。生まれながらに魔法が使えない少年・…</desc>
 </programme>
+<programme start="20220206170000 +0900" stop="20220206180000 +0900" channel="ANIMAX.jp">
+  <title lang="en">進撃の巨人 Season 1</title>
+  <desc lang="en">3「絶望の中で鈍く光る」
+4「解散式の夜」
+巨人が支配する世界。人類は巨大な壁を築き、壁外への自由と引き換えに侵…</desc>
+</programme>
 <programme start="20220205000000 +0900" stop="20220205020000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　40　東日本旅客鉄道・北海道旅客鉄道「寝台特急カシオペア」</title>
 <desc>オール2階建ての専用客車を使用し、上野−札幌間（走行距離1214.7km）を約17時間かけて走破する「寝台特急カシオペア」をご紹介！
@@ -331,7 +332,7 @@
 <programme start="20220205160000 +0900" stop="20220205170000 +0900" channel="FujiNext.jp">
 <title lang="en">フジサンケイレディスクラシック黄金伝説　8「1999年 第18回大会」</title>
 <desc>18th フジサンケイレディスクラシック（1999年）「米山みどり プロ入り370日でツアー初優勝」 ▽フジサンケイレディスクラシックの激闘の歴史をプレイバック
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7476990/image/e1e3eee0832c38fdf9fc68774f7ec455.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205170000 +0900" stop="20220205183000 +0900" channel="FujiNext.jp">
@@ -532,7 +533,7 @@
 ＜MC＞大川立樹
 “プロ野球情報満載！”
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7477077/image/6decd8325c6e8ebdac37d919b6be063b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205170000 +0900" stop="20220205173000 +0900" channel="FujiOne.jp">
@@ -1523,14 +1524,6 @@ https//otn.fujitv.co.jp
     <title lang="en">北京2022オリンピック</title>
     <desc lang="en">◇フィギュアスケート　団体・予選　女子シングル・ショートプログラム、団体・決勝　男子シングル・フリー（録画）　【出演】中井孝治，町田樹ほか</desc>
   </programme>
-  <programme start="20220205155500 +0900" stop="20220205160000 +0900" channel="eTele.jp">
-    <title lang="en">NHKウィンタースポーツテーマソング「Fly High」</title>
-    <desc lang="en">紅白歌合戦でも披露された、ＮＨＫウィンタースポーツテーマソング、ｍｉｌｅｔの「Ｆｌｙ　Ｈｉｇｈ」をＮＨＫ交響楽団とのスペシャルな共演でお届けする５分番組。</desc>
-  </programme>
-  <programme start="20220205160000 +0900" stop="20220205163000 +0900" channel="eTele.jp">
-    <title lang="en">沼にハマってきいてみた</title>
-    <desc lang="en">北京オリンピック注目競技のひとつ、カーリング。体験リポートや観戦するポイントなど、必見です！また、熊本でカーリングに熱中する中学生のドキュメントもご紹介します。</desc>
-  </programme>
   <programme start="20220205163000 +0900" stop="20220205170000 +0900" channel="eTele.jp">
     <title lang="en">思考実験バラエティー!もしもの世界</title>
     <desc lang="en">空想科学で頭の体操！劇団ひとり＆滝沢カレンの笑って学べるバラエティー▽もしも地底人がいたら？河合郁人・ラランドサーヤ・伊集院光の想像力がぶっとび大爆発！</desc>
@@ -1711,9 +1704,25 @@ https//otn.fujitv.co.jp
     <title lang="en">連食テレビエッセー きみと食べたい</title>
     <desc lang="en">「食」をテーマに送るテレビエッセー第２弾。女優・杉咲花さんとフードエッセイスト・平野紗季子さんが岩手県遠野市のレストランを訪ねる。語りは俳優・成田凌さん。</desc>
   </programme>
-  <programme start="20220205155500 +0900" stop="20220205165500 +0900" channel="NipponTV.jp">
-    <title lang="en">I LOVE みんなのどうぶつ園</title>
-    <desc lang="en">今夜は2時間SP！サンシャイン池崎が預かる子猫、先輩猫と仲良くなれるのか？そして青いダウンジャケットがきっかけで…▽相葉は福士蒼汰と超大型の保護犬をトリミング</desc>
+  <programme start="20220206161000 +0900" stop="20220206161500 +0900" channel="eTele.jp">
+    <title lang="en">手話シャワー</title>
+    <desc lang="en">長濱ねるさんがろう学校の生徒たちから手話を学ぶ　全く新しい手話講座番組！今回は「旅編」のパート２と３</desc>
+  </programme>
+  <programme start="20220206161500 +0900" stop="20220206164000 +0900" channel="eTele.jp">
+    <title lang="en">バビブベボディ</title>
+    <desc lang="en">みやぞんが「バビブベボディ」に登場！今回は小学校とつないでオンライン授業！給食で食べたものはおなかの中でどうなっていくの？臓器のキャラたちが面白クイズを出題！</desc>
+  </programme>
+  <programme start="20220206164000 +0900" stop="20220206165000 +0900" channel="eTele.jp">
+    <title lang="en">ボクを食べないキミへ〜人生の食敵〜</title>
+    <desc lang="en">「嫌いな食べもの」＝「食敵」（しょくてき）に挑戦する異色の料理番組▽今回は長濱ねるＶＳレバー（ゆりやんレトリィバァ）▽料理研究家リュウジが特別メニューを披露！</desc>
+  </programme>
+  <programme start="20220206165000 +0900" stop="20220206170000 +0900" channel="eTele.jp">
+    <title lang="en">ボクを食べないキミへ〜人生の食敵〜</title>
+    <desc lang="en">「嫌いな食べもの」＝「食敵」（しょくてき）に挑戦する「異色の料理番組」▽今回は鈴木福ＶＳいか（ゆりやんレトリィバァ）▽料理研究家リュウジが秘蔵メニューを伝授！</desc>
+  </programme>
+  <programme start="20220206170000 +0900" stop="20220206172500 +0900" channel="eTele.jp">
+    <title lang="en">ニャンちゅう!宇宙!放送チュー!</title>
+    <desc lang="en">地球のネコ「ニャンちゅう」と宇宙人の仲間たちが、地球の魅力を全宇宙人に向けて発信する幼児向け国際理解の番組。月にある宇宙放送カーから楽しく放送チュー！</desc>
   </programme>
   <programme start="20220205165500 +0900" stop="20220205170000 +0900" channel="NipponTV.jp">
     <title lang="en">声の正体は人気芸人!マスコット漫才2022</title>
@@ -1856,14 +1865,18 @@ https//otn.fujitv.co.jp
     <title lang="en">サッカークラブ世界一へ!さんまの開幕SP</title>
     <desc lang="en">世界30万1000クラブの頂点を決める「FIFAクラブワールドカップUAE2021」が遂に開幕！各大陸王者が集結する世界最高峰の大会の魅力をご紹介します！</desc>
   </programme>
-<programme start="20220205153000 +0900" stop="20220205160000 +0900" channel="Asahi.jp">
-  <title lang="en">まだアプデしてないの?</title>
-  <desc lang="en">「家を持たない」が密かなブームに!?車中泊生活を選んだ夫婦の新たな価値観を徹底調査！驚きの決断を下した瞬間をなにわ男子・道枝＆藤原が人気芸人と再現ドラマ化！</desc>
-</programme>
-<programme start="20220205160000 +0900" stop="20220205163000 +0900" channel="Asahi.jp">
-  <title lang="en">裸の少年</title>
-  <desc lang="en">今回は特別編『極寒の大自然で１泊２日のバトル合宿！！』</desc>
-</programme>
+  <programme start="20220206165000 +0900" stop="20220206165500 +0900" channel="NipponTV.jp">
+    <title lang="en">声の正体は人気芸人!マスコット漫才2022</title>
+    <desc lang="en">Ｊリーグマスコットふろん太＆レディアが漫才を披露！実は、声の正体は人気芸人！いったい誰？【ヒント】2022上方漫才協会大賞！！</desc>
+  </programme>
+  <programme start="20220206165500 +0900" stop="20220206170000 +0900" channel="NipponTV.jp">
+    <title lang="en">Huluはじめました。</title>
+    <desc lang="en">元Wanna Oneのオン・ソンウが新人バリスタ役に挑戦！韓国で配信され話題になったヒューマンドラマ「コーヒーを飲みましょうか？」を特集</desc>
+  </programme>
+  <programme start="20220206170000 +0900" stop="20220206172500 +0900" channel="NipponTV.jp">
+    <title lang="en">上田晋也の日本メダル話</title>
+    <desc lang="en">北京五輪特集▼スピードスケート髙木美帆＆スキージャンプ髙梨沙羅が登場！</desc>
+  </programme>
 <programme start="20220205163000 +0900" stop="20220205170000 +0900" channel="Asahi.jp">
   <title lang="en">クレヨンしんちゃん</title>
   <desc lang="en">しんのすけとひまわりが兄妹ゲンカ!!間に入ったシロは!?…ひまわりのおむつをしんのすけが変えなかったことでケンカになる。シロは何とか二人を仲直りさせようとするが!?</desc>
@@ -2036,9 +2049,9 @@ https//otn.fujitv.co.jp
   <desc lang="en">大人気のスクラッチ宝くじいくら当たる？当せん金だけで旅を満喫出来るか検証
 松坂桃李＆井浦新＆キスマイ宮田＆オードリー春日が挑む</desc>
 </programme>
-<programme start="20220205153000 +0900" stop="20220205163000 +0900" channel="TBS2.jp">
-  <title lang="en">火曜ドラマ「ファイトソング」4話までを復習!衝撃の5話は2月8日!</title>
-  <desc lang="en">清原果耶間宮祥太朗菊池風磨が送る、不器用な３人のヒューマンラブコメを総復習！これを見ればすべてがわかる！３話までのスペシャルダイジェスト＆４話リピート！</desc>
+<programme start="20220206161500 +0900" stop="20220206172500 +0900" channel="Asahi.jp">
+  <title lang="en">路線バスで寄り道お買い物の旅</title>
+  <desc lang="en">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回は二子玉川〜武蔵小杉で多摩川沿いのマダム人気の街を巡る旅！</desc>
 </programme>
 <programme start="20220205163000 +0900" stop="20220205170000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
@@ -2169,16 +2182,9 @@ https//otn.fujitv.co.jp
   <title lang="en">マツコの知らない世界</title>
   <desc lang="en">🈑製餡所の絶品こしあん＆つぶあん×㊙食材…意外な組み合わせレシピ▽買えば人と差がつく！中身が楽しいご当地まんじゅう▽絶滅危機!?全国の天然たい焼き！揚げたい焼き</desc>
 </programme>
-<programme start="20220205150000 +0900" stop="20220205160000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ウイニング競馬</title>
-  <desc lang="en">【東京】10Ｒテレビ山梨杯、11Ｒ早春Ｓ
-【中京】10ＲエルフィンＳ（L）
-　11ＲアルデバランＳ
-【小倉】11Ｒ玄海特別</desc>
-</programme>
-<programme start="20220205160000 +0900" stop="20220205165500 +0900" channel="TVTokyo.jp">
-  <title lang="en"></title>
-  <desc lang="en">まだまだ人生を元気に楽しみたい方に、健康の秘訣をご紹介。</desc>
+<programme start="20220206170000 +0900" stop="20220206215400 +0900" channel="TBS2.jp">
+  <title lang="en">北京2022オリンピック</title>
+  <desc lang="en">アイスホッケー女子日本代表予選第３戦の相手は開催国・中国！よる７５０頃からはスキージャンプノーマルヒル決勝！大注目は金メダル最右翼の小林陵侑</desc>
 </programme>
 <programme start="20220205165500 +0900" stop="20220205171500 +0900" channel="TVTokyo.jp">
   <title lang="en">本家が聴かせてもらいます</title>
@@ -2343,15 +2349,6 @@ https//otn.fujitv.co.jp
   <title lang="en">ぼくらの青春軽音楽部 1st 〜音楽がつないだ仲間との絆・友情の物語〜</title>
   <desc lang="en">高校生軽音学部の全国大会「スニーカーエイジ」の舞台裏に密着！コロナ禍で制限された学校生活。仲間とのかけがえのない時間を軽音楽に注いだ生徒たちを追いました</desc>
 </programme>
-<programme start="20220205153000 +0900" stop="20220205163000 +0900" channel="FujiTV.jp">
-  <title lang="en">新しいカギ特別版</title>
-  <desc lang="en">傑作選＆新作コント集▽今夜８時からニセ菅田将暉ミステリ第２話▽スターがっかり㊙報告で渋谷凪咲に爆笑サプライズ涙？▽粗品新コント偏見さん＆櫻坂４６鍵天堂</desc>
-</programme>
-<programme start="20220205163000 +0900" stop="20220205163500 +0900" channel="FujiTV.jp">
-  <title lang="en">フジナビ!</title>
-  <desc lang="en">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
-</programme>
 <programme start="20220205163500 +0900" stop="20220205173000 +0900" channel="FujiTV.jp">
   <title lang="en">爆買い☆スター恩返し 来週金曜よる7時〜3時間SP</title>
   <desc lang="en">来週のＳＰは篠原涼子が群馬県桐生市で１００万円使い切る挑戦！遊園地を貸し切りで仰天値段▽堺正章は高橋克典＆小堺一機ひき連れ鎌倉で爆買い！みのもんた参戦</desc>
@@ -2486,13 +2483,9 @@ https//otn.fujitv.co.jp
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20220205155900 +0900" stop="20220205160000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220205160000 +0900" stop="20220205163000 +0900" channel="Tokyo MX">
-  <title lang="en">おにぎりあたためますか</title>
-  <desc lang="en">「視聴者リクエスト・ランキングＴＯＰ１０」第８位と第９位を発表！おにぎりファミリーの登竜門というべき恐怖の食材が再び。準レギュラーが引き起こした前代未聞の事件⁉</desc>
+<programme start="20220206160500 +0900" stop="20220206172000 +0900" channel="FujiTV.jp">
+  <title lang="en">日本大相撲トーナメント 第四十六回大会</title>
+  <desc lang="en">元横綱稀勢の里・元白鵬豪華そろい踏みで振り返る大相撲名勝負列伝▽バズる！凄い技も！</desc>
 </programme>
 <programme start="20220205163000 +0900" stop="20220205170000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2698,6 +2691,14 @@ https//otn.fujitv.co.jp
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220206163000 +0900" stop="20220206170000 +0900" channel="Tokyo MX">
+  <title lang="en">おぎやはぎのハピキャン</title>
+  <desc lang="en">キャンプ初心者のおぎやはぎが、ハッピーな仲間と一緒にキャンプを体験する「アウトドア・ドキュメント・バラエティ」</desc>
+</programme>
+<programme start="20220206170000 +0900" stop="20220206175500 +0900" channel="Tokyo MX">
+  <title lang="en">探偵!ナイトスクープ</title>
+  <desc lang="en">依頼は、田村裕探偵が調査した『谷底に落ちた買ったばかりのバイク』、橋本直探偵の『開けると祟られる禁断の箱⁉』、たむらけんじ探偵の『ニヤニヤせずに怒りたい⁉』。</desc>
+</programme>
 <programme start="20220205000000 +0900" stop="20220205020000 +0900" channel="FujiNext.jp">
 <title lang="en">新・みんなの鉄道　40　東日本旅客鉄道・北海道旅客鉄道「寝台特急カシオペア」</title>
 <desc>オール2階建ての専用客車を使用し、上野−札幌間（走行距離1214.7km）を約17時間かけて走破する「寝台特急カシオペア」をご紹介！
@@ -2820,7 +2821,7 @@ https//otn.fujitv.co.jp
 <programme start="20220205160000 +0900" stop="20220205170000 +0900" channel="FujiNext.jp">
 <title lang="en">フジサンケイレディスクラシック黄金伝説　8「1999年 第18回大会」</title>
 <desc>18th フジサンケイレディスクラシック（1999年）「米山みどり プロ入り370日でツアー初優勝」 ▽フジサンケイレディスクラシックの激闘の歴史をプレイバック
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7476990/image/e1e3eee0832c38fdf9fc68774f7ec455.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205170000 +0900" stop="20220205183000 +0900" channel="FujiNext.jp">
@@ -3021,7 +3022,7 @@ https//otn.fujitv.co.jp
 ＜MC＞大川立樹
 “プロ野球情報満載！”
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220205/7477077/image/6decd8325c6e8ebdac37d919b6be063b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220205170000 +0900" stop="20220205173000 +0900" channel="FujiOne.jp">
