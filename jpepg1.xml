@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220207033000 +0900" stop="20220207040000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ゲゲゲの鬼太郎</title>
-  <desc lang="en">65「建国！？魔猫の大鳥取帝国」
-21世紀も20年近くが経ち、人々が妖怪の存在を忘れた現代。科学では解明が出来ない現…</desc>
-</programme>
 <programme start="20220207040000 +0900" stop="20220207050000 +0900" channel="ANIMAX.jp">
   <title lang="en">ちびまる子ちゃん</title>
   <desc lang="en">504「階段の怪談」の巻／「影絵で遊ぼう」の巻
@@ -244,6 +239,12 @@ OAD(2…</desc>
 今もなお世界中から熱烈な支持を受ける最強のダークファンタジー。
 中世ヨーロッパ…</desc>
 </programme>
+<programme start="20220208050000 +0900" stop="20220208060000 +0900" channel="ANIMAX.jp">
+  <title lang="en">BanG Dream!</title>
+  <desc lang="en">11「歌えなくなっちゃった」
+12「キラキラしちゃった！？」
+幼い頃、星空を見上げた時に聴こえた『星の鼓動』のよう…</desc>
+</programme>
 <programme start="20220207000000 +0900" stop="20220207030000 +0900" channel="FujiNext.jp">
 <title lang="en">This is ACIDMAN</title>
 <desc>今年結成25周年イヤーに突入したACIDMANが、その皮切りとして2021年10月29日（金）に開催したワンマンライブ「This is ACIDMAN」を放送！
@@ -405,7 +406,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【2月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220206/7477108/image/06d01a3851d7ccb876a1dc72a53e1e9c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220207050000 +0900" stop="20220207053000 +0900" channel="FujiOne.jp">
@@ -1291,26 +1292,6 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220207031000 +0900" stop="20220207041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ヨーロッパ トラムの旅</title>
-    <desc lang="en">欧州各地の都市を走る路面電車・トラム。車窓から見る美しいヨーロッパの街並み。街の名所旧跡も巡る１時間。今回は、オーストリア・ウィーンを旅する。</desc>
-  </programme>
-  <programme start="20220207041000 +0900" stop="20220207043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">プラネットアース 絶景・天空の旅</title>
-    <desc lang="en">大型シリーズ「プラネットアース」で好評を博した最新鋭の機材で撮影した空撮。一部しか使えなかった絶品カットや未編集素材を生かして、天空からの地球絶景の旅を送る。</desc>
-  </programme>
-  <programme start="20220207043500 +0900" stop="20220207044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「宗谷岬」うたダ・カーポ／「アオゾラ」うた吉本佳代</desc>
-  </programme>
-  <programme start="20220207044000 +0900" stop="20220207044500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">キャラとおたまじゃくし島</title>
-    <desc lang="en">まっすぐで愛にあふれた少女戦士キャラが、不思議なガッキアニマルたちと出会い心を通わせる中で、音楽を奪われた島の謎を次々と解き明かす冒険ファンタジー第１５話。</desc>
-  </programme>
-  <programme start="20220207044500 +0900" stop="20220207045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">Doki Doki! NHKワールド JAPAN</title>
-    <desc lang="en">各界の先駆者たちを追ったドキュメンタリーシリーズ「Ｒｉｓｉｎｇ」より、フリーズドライ製法でフードロス減少に挑む木下昌之さんを追った回を取り上げる。</desc>
-  </programme>
   <programme start="20220207045000 +0900" stop="20220207050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">過去最多を更新した新型コロナの新規感染者数。感染の急拡大を止めるには何が必要なのか、高齢者のワクチン３回目接種など、今、求められる対策について考える。</desc>
@@ -1474,6 +1455,26 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
   <programme start="20220208033200 +0900" stop="20220208043200 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北アルプス</title>
     <desc lang="en">北アルプスに位置する百名山をはじめとする名峰の数々</desc>
+  </programme>
+  <programme start="20220208043200 +0900" stop="20220208043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">プラネットアース 絶景・天空の旅</title>
+    <desc lang="en">大型シリーズ「プラネットアース」で好評を博した最新鋭の機材で撮影した空撮。一部しか使えなかった絶品カットや未編集素材を生かして、天空からの地球絶景の旅を送る。</desc>
+  </programme>
+  <programme start="20220208043500 +0900" stop="20220208044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「天まで飛ばそ」うた七尾旅人／「Ｃａｒｏｌ」うた須田景凪</desc>
+  </programme>
+  <programme start="20220208044000 +0900" stop="20220208045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「巨大地震　厳冬期の対策」根本昌宏（日本赤十字北海道看護大学教授）</desc>
+  </programme>
+  <programme start="20220208045000 +0900" stop="20220208050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">ウクライナをめぐってロシアと欧米諸国の間で緊張が高まっている。ウクライナを取り巻く兵力の状況とこれまでの外交交渉をふまえ、欧米とロシア、双方の思惑を考察する。</desc>
+  </programme>
+  <programme start="20220208050000 +0900" stop="20220208060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20220207004500 +0900" stop="20220207053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -1783,15 +1784,6 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220207035600 +0900" stop="20220207042600 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレポシュレ</title>
-    <desc lang="en">「ヤマダデンキ」リフォーム大特集　高性能シャワートイレリフォーム、先端機能満載！キッチンリフォーム、お風呂まるごとリフォーム、洗面化粧台リフォームをご紹介！</desc>
-  </programme>
-  <programme start="20220207042600 +0900" stop="20220207043000 +0900" channel="NipponTV.jp">
-    <title lang="en">日テレNEWS24</title>
-    <desc lang="en">最新ニュースを２４時間お伝えするニュース専門チャンネル・日テレＮＥＷＳ２４。
-スカパー、ＪＣＯＭ、全国ＣＡＴＶで視聴可能。詳しくは番組ＨＰまで。</desc>
-  </programme>
   <programme start="20220207043000 +0900" stop="20220207055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽小林陵侑「金メダル」第１号！▽モーグル「銅」堀島 喜びの声▽羽生選手が北京到着▽全国の感染者 日曜日で過去最多</desc>
@@ -1860,14 +1852,18 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">クッショントランポリン、ブランケット型ヒーター、EMSかっさ、コードレスクリーナー、シャワーヘッド、豪華ジュエリー＆寝具福袋などなどお得情報満載でお送りします！</desc>
   </programme>
-<programme start="20220207035000 +0900" stop="20220207040000 +0900" channel="Asahi.jp">
-  <title lang="en">おはようゴーちゃん。</title>
-  <desc lang="en">テレ朝マスコット『ゴーちゃん。』が番組・映画・イベントなど最新情報をおとどけ！エクスパンダ星から地球にやってきたゴーちゃん。今朝の注目はなにかな？</desc>
-</programme>
-<programme start="20220207040000 +0900" stop="20220207045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍V</title>
-  <desc lang="en">「廓祝言・一夜の花嫁」松平健(他)▽川に身を投げ心中した纏持ち・周蔵と女郎おこの。幸いおこのの命は助かるが、周蔵の死体を調べた医師は、彼は別の場所で殺されたといい…</desc>
-</programme>
+  <programme start="20220208042400 +0900" stop="20220208042900 +0900" channel="NipponTV.jp">
+    <title lang="en">5分で分かる「鹿の王」</title>
+    <desc lang="en">『もののけ姫』『千と千尋の神隠し』『君の名は。』の作画監督を担った安藤雅司初監督作品！堤真一・竹内涼真・杏もボイスキャストとして参加した話題作の魅力に迫ります！</desc>
+  </programme>
+  <programme start="20220208042900 +0900" stop="20220208043000 +0900" channel="NipponTV.jp">
+    <title lang="en">日テレみどころ</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220208043000 +0900" stop="20220208055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20220207045500 +0900" stop="20220207080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">羽生結弦選手が北京入り‼練習に登場か▽“食料配達”も中止に…孤立化する自宅療養者▽「みなし陽性」急増中…検査なしで感染に不安の声▽記録的大雪▽北京五輪最新情報(他)</desc>
@@ -1987,9 +1983,9 @@ by L.E.J</desc>
   <title lang="en">暴れん坊将軍V</title>
   <desc lang="en">「争奪！石田三成の密書」松平健(他)▽目安箱への訴状や才三からの報告で、信濃松代藩に何やら不穏な動きがあることを知った吉宗。その内容を探るため信濃へと旅立つが…</desc>
 </programme>
-<programme start="20220207020500 +0900" stop="20220207043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20220208045500 +0900" stop="20220208080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20220207043000 +0900" stop="20220207052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -2061,7 +2057,12 @@ by L.E.J</desc>
   <title lang="en">TBS NEWS</title>
   <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
 </programme>
-<programme start="20220207040000 +0900" stop="20220207051000 +0900" channel="TVTokyo.jp">
+<programme start="20220208043000 +0900" stop="20220208052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
+</programme>
+<programme start="20220207050000 +0900" stop="20220207051000 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -2220,13 +2221,20 @@ by L.E.J</desc>
   <title lang="en">ミュージックブレイク</title>
   <desc lang="en">演歌・歌謡曲の最新ミュージックビデオと歌手のコメントをお届け。</desc>
 </programme>
-<programme start="20220207034000 +0900" stop="20220207040000 +0900" channel="FujiTV.jp">
-  <title lang="en"></title>
-  <desc lang="en">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+<programme start="20220208040500 +0900" stop="20220208042000 +0900" channel="TVTokyo.jp">
+  <title lang="en">家、ついて行ってイイですか?(明け方)</title>
+  <desc lang="en">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
 </programme>
-<programme start="20220207040000 +0900" stop="20220207045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+<programme start="20220208042000 +0900" stop="20220208042300 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en"></desc>
+</programme>
+<programme start="20220208042300 +0900" stop="20220208054500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20220207045500 +0900" stop="20220207052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -2324,9 +2332,9 @@ by L.E.J</desc>
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20220207040000 +0900" stop="20220207050000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"></desc>
+<programme start="20220208045500 +0900" stop="20220208052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20220207050000 +0900" stop="20220207051500 +0900" channel="Tokyo MX">
   <title lang="en">感動地球紀行 世界遺産ものがたり</title>
@@ -2524,6 +2532,18 @@ by L.E.J</desc>
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220208043000 +0900" stop="20220208043500 +0900" channel="Tokyo MX">
+  <title lang="en">路面電車のある風景</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220208043500 +0900" stop="20220208050000 +0900" channel="Tokyo MX">
+  <title lang="en">洋上の楽園クルーズ</title>
+  <desc lang="en">「グルメを楽しむファンシップ　メキシコリゾートクルーズ」</desc>
+</programme>
+<programme start="20220208050000 +0900" stop="20220208053000 +0900" channel="Tokyo MX">
+  <title lang="en">ロンブー亮の釣りならまかせろ!</title>
+  <desc lang="en">タイラバならまかせろ！〜後編〜なんでもアリ⁉　釣れる魚を追いかけろ！</desc>
+</programme>
 <programme start="20220207000000 +0900" stop="20220207030000 +0900" channel="FujiNext.jp">
 <title lang="en">This is ACIDMAN</title>
 <desc>今年結成25周年イヤーに突入したACIDMANが、その皮切りとして2021年10月29日（金）に開催したワンマンライブ「This is ACIDMAN」を放送！
@@ -2685,7 +2705,7 @@ https//otn.fujitv.co.jp
 <title lang="en">番組PR【2月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220206/7477108/image/06d01a3851d7ccb876a1dc72a53e1e9c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220207050000 +0900" stop="20220207053000 +0900" channel="FujiOne.jp">
