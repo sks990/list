@@ -63,10 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220206103000 +0900" stop="20220206110000 +0900" channel="ANIMAX.jp">
-  <title lang="en">情報</title>
-  <desc lang="en">この時間は情報番組をお送りしております。</desc>
-</programme>
 <programme start="20220206110000 +0900" stop="20220206123000 +0900" channel="ANIMAX.jp">
   <title lang="en">映画 すみっコぐらし とびだす絵本とひみつのコ</title>
   <desc lang="en">ある日すみっコたちは、お気に入りのおみせ「喫茶すみっコ」の地下室で、古くなった一冊のとびだす絵本をみつける。絵…</desc>
@@ -216,6 +212,12 @@ OAD(2…</desc>
   <desc lang="en">9「バイトしちゃった！」
 10「驚いちゃった！」
 幼い頃、星空を見上げた時に聴こえた『星の鼓動』のように、キラキ…</desc>
+</programme>
+<programme start="20220207120000 +0900" stop="20220207130000 +0900" channel="ANIMAX.jp">
+  <title lang="en">マクロスF</title>
+  <desc lang="en">23「トゥルー・ビギン」
+24「ラスト・フロンティア」
+かつて巨大な異星人との星間戦争で滅亡の危機に瀕した地球人類…</desc>
 </programme>
 <programme start="20220206000000 +0900" stop="20220206010000 +0900" channel="FujiNext.jp">
 <title lang="en">翔太さまと執事西山のオタワムレ超　3　　超人気声優×2.5次元俳優！</title>
@@ -1161,10 +1163,6 @@ MCカン・ダニエル
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220206100500 +0900" stop="20220206115400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北京2022オリンピック</title>
-    <desc lang="en">◇スノーボード　女子スロープスタイル・決勝（中継）　【出演】中井孝治，藤森由香，【アナウンサー】西川典孝，【スノーボード】解説…渡辺伸一，アナウンサー…新タ悦男</desc>
-  </programme>
   <programme start="20220206115400 +0900" stop="20220206120000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -1348,6 +1346,14 @@ MCカン・ダニエル
   <programme start="20220207090000 +0900" stop="20220207115400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20220207115400 +0900" stop="20220207120000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220207120000 +0900" stop="20220207121500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">【キャスター】三條雅幸</desc>
   </programme>
   <programme start="20220206103000 +0900" stop="20220206120000 +0900" channel="eTele.jp">
     <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
@@ -1573,17 +1579,9 @@ MCカン・ダニエル
     <title lang="en">北京2022オリンピック</title>
     <desc lang="en">◇ジャンプ　男子ノーマルヒル・決勝（録画）</desc>
   </programme>
-  <programme start="20220206102500 +0900" stop="20220206112500 +0900" channel="NipponTV.jp">
-    <title lang="en">ニノさん</title>
-    <desc lang="en">白石麻衣が今一番気になる白浜エネルギーランドのオススメベスト５！絶品タン料理をかけてタンがつく単語バトル▽身近なものＴＯＰ１０！ブラックジャックを制したのは？</desc>
-  </programme>
-  <programme start="20220206112500 +0900" stop="20220206113000 +0900" channel="NipponTV.jp">
-    <title lang="en">biz search</title>
-    <desc lang="en">話題の企業の新商品、キャンペーン、イベントなどを日本テレビアナウンサーが徹底調査！</desc>
-  </programme>
-  <programme start="20220206113000 +0900" stop="20220206114500 +0900" channel="NipponTV.jp">
-    <title lang="en">NNN ストレイトニュース</title>
-    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  <programme start="20220207110500 +0900" stop="20220207130000 +0900" channel="eTele.jp">
+    <title lang="en">北京2022オリンピック</title>
+    <desc lang="en">◇アルペン　女子大回転・１回目（中継）</desc>
   </programme>
   <programme start="20220206114500 +0900" stop="20220206124500 +0900" channel="NipponTV.jp">
     <title lang="en">スクール革命!</title>
@@ -1719,15 +1717,18 @@ MCカン・ダニエル
     <title lang="en">バゲット</title>
     <desc lang="en">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
   </programme>
-<programme start="20220206100000 +0900" stop="20220206114500 +0900" channel="Asahi.jp">
-  <title lang="en">激レアさんを連れてきた。</title>
-  <desc lang="en">とんでもなく珍しい体験をした“激レアさん”を研究室に連れ込んで、体験談を聞きまくる！
-今回は過去の激レアさんから特に衝撃的だったお話を一挙ご紹介！！</desc>
-</programme>
-<programme start="20220206114500 +0900" stop="20220206115000 +0900" channel="Asahi.jp">
-  <title lang="en">発進!ミライクリエイター</title>
-  <desc lang="en">世界や日本の未来を変えるかもしれない「研究」「活動」「提案」「起業」「挑戦」に奮闘している若きミライクリエイターをご紹介！</desc>
-</programme>
+  <programme start="20220207113000 +0900" stop="20220207114500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNN ストレイトニュース</title>
+    <desc lang="en">最新のニュースをストレートに！　必要とされる情報を、コンパクトにまとめてお伝えします。</desc>
+  </programme>
+  <programme start="20220207114500 +0900" stop="20220207115500 +0900" channel="NipponTV.jp">
+    <title lang="en">キユーピー3分クッキング</title>
+    <desc lang="en">ベーコンやパルメザンチーズのうまみと生クリームのコクが、きのこと好相性。ブロッコリーはパスタをゆでている途中で加えて一緒にゆで上げます。</desc>
+  </programme>
+  <programme start="20220207115500 +0900" stop="20220207135500 +0900" channel="NipponTV.jp">
+    <title lang="en">ヒルナンデス!</title>
+    <desc lang="en">▽飛行機乗り放題が19800円⁉1泊2日で長崎＆大阪▽優香感動‼自宅㊙グッズを一気にご紹介▽松本薫＆吉田沙保里の霊長類最強の女子会も！</desc>
+  </programme>
 <programme start="20220206115000 +0900" stop="20220206120000 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
@@ -1862,18 +1863,6 @@ MCカン・ダニエル
   <title lang="en">北京2022オリンピック</title>
   <desc lang="en">フィギュアスケート「団体」のメダルが決まる最終決戦！▽団体最終日は女子シングル、ペア、アイスダンスで争う総力戦▽チーム日本が「団体」初のメダル獲得を狙う！</desc>
 </programme>
-<programme start="20220206095400 +0900" stop="20220206113000 +0900" channel="TBS2.jp">
-  <title lang="en">サンデー・ジャポン</title>
-  <desc lang="en">サンジャポ現地取材！“ハイテク五輪”のウラ側▽羽生結弦３連覇へのカギを村主章枝が生解説▽臨時コーチ武井壮！新庄ウラ話▽なかねかなＴｉｋＴｏｋ新企画を初出し</desc>
-</programme>
-<programme start="20220206113000 +0900" stop="20220206114000 +0900" channel="TBS2.jp">
-  <title lang="en">JNNニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
-</programme>
-<programme start="20220206114000 +0900" stop="20220206115000 +0900" channel="TBS2.jp">
-  <title lang="en">デジタル一番星</title>
-  <desc lang="en">身だしなみを整えたい！そんなお悩みに、家事ジャーナリスト山田亮さんが、肌荒れの原因や誰もができる男になれる簡単スキンケア方法を紹介します。</desc>
-</programme>
 <programme start="20220206115000 +0900" stop="20220206142400 +0900" channel="TBS2.jp">
   <title lang="en">70回記念 2022別府大分毎日マラソン</title>
   <desc lang="en">パリ五輪の代表を決めるMGCへの出場権をかけたレース。名門・旭化成の大六野秀畝や箱根Vの青学大が出場！瀬古利彦、原晋、大迫傑らの豪華解説で生中継。</desc>
@@ -1950,21 +1939,6 @@ MCカン・ダニエル
 <programme start="20220207102500 +0900" stop="20220207135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
-</programme>
-<programme start="20220206103000 +0900" stop="20220206110000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュークルドリーミーみっくす!</title>
-  <desc lang="en">『ゆに』達は、ついに『ちあ』と『パチパチブー』の入れ替え作戦に成功！でもなんだか浮かない顔のゆに達…。パチパチブーがいなくて寂しくなってしまいました…。</desc>
-</programme>
-<programme start="20220206110000 +0900" stop="20220206112500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ゴルフのキズナ</title>
-  <desc lang="en">夢に向かって挑戦するゴルファーを名コーチが成功に導くゴルフリアリティ番組！二人三脚で奮闘する本音や葛藤をリアルに描きながら４組の“キズナ”に密着します！</desc>
-</programme>
-<programme start="20220206112500 +0900" stop="20220206115500 +0900" channel="TVTokyo.jp">
-  <title lang="en">男子ごはん</title>
-  <desc lang="en">ラー油にこだわった絶品料理３品
-①あんかけラー油茶碗蒸し
-②よだれ鶏
-③ラー油の炊き込み　自家製ラー油のせ</desc>
 </programme>
 <programme start="20220206115500 +0900" stop="20220206125400 +0900" channel="TVTokyo.jp">
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
@@ -2110,6 +2084,18 @@ MCカン・ダニエル
   <title lang="en">なないろ日和!</title>
   <desc lang="en">▽快適ショッピングスタジオ▽健康な口になるために…鍛える運動？舌出しごっくん体操？繰り返し“パタカラ”▽「虎ノ門市場」魚と野菜のお総菜</desc>
 </programme>
+<programme start="20220207111300 +0900" stop="20220207113500 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼サテ</title>
+  <desc lang="en">最新のニュースとマーケット情報をいち早くお伝えします。</desc>
+</programme>
+<programme start="20220207113500 +0900" stop="20220207114000 +0900" channel="TVTokyo.jp">
+  <title lang="en">月〜金お昼のソングショー ひるソン!</title>
+  <desc lang="en">月曜〜金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！</desc>
+</programme>
+<programme start="20220207114000 +0900" stop="20220207134000 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
+  <desc lang="en">あなたのご飯見せて下さい▽群馬県高崎市…老舗豆腐店のソフト木綿＆手作りソース豆腐ドリア＆ヘルシーおからサラダ▽埼玉県毛呂山町…宮大工ベーコン店の土鍋炊き込みご飯</desc>
+</programme>
 <programme start="20220206100000 +0900" stop="20220206140000 +0900" channel="FujiTV.jp">
   <title lang="en">北京2022オリンピック</title>
   <desc lang="en">フィギュアスケート団体戦。悲願の団体でのメダルへカギ握る女子ショート＆男子フリー！大きくポイント獲得しメダルへ近づけるか？</desc>
@@ -2217,13 +2203,17 @@ MCカン・ダニエル
   <title lang="en">ノンストップ!</title>
   <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
-<programme start="20220206105500 +0900" stop="20220206110000 +0900" channel="Tokyo MX">
-  <title lang="en">ぷちセカ</title>
-  <desc lang="en">＃４「こはね寿鳥糸ＤＥＢＵＴ！」</desc>
+<programme start="20220207112500 +0900" stop="20220207113000 +0900" channel="FujiTV.jp">
+  <title lang="en">国分太一のお気楽さんぽ〜Happy Go Lucky〜</title>
+  <desc lang="en">国分太一が日本全国の街を手ぶらでおさんぽ！ここに行けば楽しめる！あそこに行けば幸せになれる！街の魅力を伝えながらハッピーとラッキーを発見しに行きます！</desc>
 </programme>
-<programme start="20220206110000 +0900" stop="20220206115500 +0900" channel="Tokyo MX">
-  <title lang="en">京都浪漫〜美と伝統を訪ねる〜</title>
-  <desc lang="en"> </desc>
+<programme start="20220207113000 +0900" stop="20220207115500 +0900" channel="FujiTV.jp">
+  <title lang="en">FNN Live News days</title>
+  <desc lang="en">世の中の動きを素早くキャッチ！最新ニュースをわかりやすく、丁寧にお届けします。気になるポイントは深掘りして、役に立つニュースをお伝えします。</desc>
+</programme>
+<programme start="20220207115500 +0900" stop="20220207144500 +0900" channel="FujiTV.jp">
+  <title lang="en">バイキングMORE</title>
+  <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
 <programme start="20220206115500 +0900" stop="20220206125000 +0900" channel="Tokyo MX">
   <title lang="en">日曜はカラフル!!!</title>
@@ -2404,6 +2394,14 @@ MCカン・ダニエル
 <programme start="20220207110000 +0900" stop="20220207115500 +0900" channel="Tokyo MX">
   <title lang="en">蘭陵王妃〜王と皇帝に愛された女〜</title>
   <desc lang="en">大ヒット作「蘭陵王」では描かれなかった もう一つのラブストーリーが今、始まる――</desc>
+</programme>
+<programme start="20220207115500 +0900" stop="20220207120000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220207120000 +0900" stop="20220207123000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220206000000 +0900" stop="20220206010000 +0900" channel="FujiNext.jp">
 <title lang="en">翔太さまと執事西山のオタワムレ超　3　　超人気声優×2.5次元俳優！</title>
