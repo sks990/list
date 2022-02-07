@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220207120000 +0900" stop="20220207130000 +0900" channel="ANIMAX.jp">
-  <title lang="en">マクロスF</title>
-  <desc lang="en">23「トゥルー・ビギン」
-24「ラスト・フロンティア」
-かつて巨大な異星人との星間戦争で滅亡の危機に瀕した地球人類…</desc>
-</programme>
 <programme start="20220207130000 +0900" stop="20220207140000 +0900" channel="ANIMAX.jp">
   <title lang="en">転生したらスライムだった件</title>
   <desc lang="en">13「大激突」14「全てを喰らう者」
@@ -243,6 +237,12 @@ OAD(2…</desc>
   <desc lang="en">15「ジュラの森大同盟」
 16「魔王ミリム来襲」
 三上悟は通り魔に刺され死亡し、気がつくと異世界に転生していた。……</desc>
+</programme>
+<programme start="20220208140000 +0900" stop="20220208150000 +0900" channel="ANIMAX.jp">
+  <title lang="en">機動戦士Zガンダム</title>
+  <desc lang="en">47「宇宙(そら)の渦」
+48「ロザミアの中で」
+反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターン…</desc>
 </programme>
 <programme start="20220207000000 +0900" stop="20220207030000 +0900" channel="FujiNext.jp">
 <title lang="en">This is ACIDMAN</title>
@@ -1291,10 +1291,6 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220207124500 +0900" stop="20220207130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
-    <desc lang="en">大月家に古びたラジオがやってきました。るい（深津絵里）は、英語がしゃべれるようになりたいというひなた（新津ちせ）に、毎朝ラジオ英語講座を聞くよう提案し…</desc>
-  </programme>
   <programme start="20220207130000 +0900" stop="20220207170000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
@@ -1457,7 +1453,7 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
   </programme>
   <programme start="20220208101500 +0900" stop="20220208113500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北京2022オリンピック</title>
-    <desc lang="en">◇ジャンプ　混合団体（録画）</desc>
+    <desc lang="en">◇ジャンプ　混合団体（録画）　【出演】佐々木耕司，【アナウンサー】西川典孝，【ジャンプ】解説…一戸剛，アナウンサー…筒井亮太郎</desc>
   </programme>
   <programme start="20220208113500 +0900" stop="20220208115300 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">北京2022オリンピック</title>
@@ -1483,13 +1479,17 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en">北京2022オリンピック</title>
     <desc lang="en">◇スノーボード　女子パラレル大回転・予選、男子パラレル大回転・予選（中継）</desc>
   </programme>
-  <programme start="20220207125900 +0900" stop="20220207130000 +0900" channel="eTele.jp">
+  <programme start="20220208133000 +0900" stop="20220208133500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
-    <desc lang="en">サブチャンネルで放送している番組をご覧になるには、リモコンの「選局」ボタンや「チャンネル」ボタンの上側を押してください。</desc>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220207130000 +0900" stop="20220207130500 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】河合祐三子</desc>
+  <programme start="20220208133500 +0900" stop="20220208135000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
+    <desc lang="en">ラジオで英語講座を聞き始めたひなた（新津ちせ）でしたが、だんだんと英語の勉強はあとまわしに…。そんなある日、初恋の相手・ビリーが一人で店を訪ねてきます。</desc>
+  </programme>
+  <programme start="20220208135000 +0900" stop="20220208150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">北京2022オリンピック</title>
+    <desc lang="en">◇フリースタイル　女子ビッグエア・決勝（録画）</desc>
   </programme>
   <programme start="20220207130500 +0900" stop="20220207143500 +0900" channel="eTele.jp">
     <title lang="en">北京2022オリンピック</title>
@@ -1823,9 +1823,21 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】小野寺善子</desc>
   </programme>
-  <programme start="20220207115500 +0900" stop="20220207135500 +0900" channel="NipponTV.jp">
-    <title lang="en">ヒルナンデス!</title>
-    <desc lang="en">▽飛行機乗り放題が19800円⁉1泊2日で長崎＆大阪▽優香感動‼自宅㊙グッズを一気にご紹介▽松本薫＆吉田沙保里の霊長類最強の女子会も！</desc>
+  <programme start="20220208130500 +0900" stop="20220208133500 +0900" channel="eTele.jp">
+    <title lang="en">ハートネットTV</title>
+    <desc lang="en">フォトジャーナリスト・安田菜津紀さんの父親は、在日コリアンであることを隠したまま他界した。なぜ父は出自を語らなかったのか、差別について考え続ける安田さんに聞く。</desc>
+  </programme>
+  <programme start="20220208133500 +0900" stop="20220208135000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの健康</title>
+    <desc lang="en">新型コロナ発生初期から、感染すると脳梗塞の発症リスクを高めるのではないかと海外の研究者を中心に危惧されてきた。そのメカニズムと日本での最新データを紹介する</desc>
+  </programme>
+  <programme start="20220208135000 +0900" stop="20220208140000 +0900" channel="eTele.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「日本の賃金はなぜ上がらないか」樋口美雄（労働政策研究・研修機構理事長）</desc>
+  </programme>
+  <programme start="20220208140000 +0900" stop="20220208141000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 あらためまして ベーシック国語</title>
+    <desc lang="en">国語の基本を学ぶ講座バラエティー。滝沢カレン、金田一秀穂先生、謎のオウムが授業を行う。テーマは「小説の読解」小説を読み、楽しむためのコツを金田一先生が伝授する。</desc>
   </programme>
   <programme start="20220207135500 +0900" stop="20220207155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
@@ -1891,15 +1903,15 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en">北京2022オリンピック</title>
     <desc lang="en">羽生結弦、男子94年ぶり五輪３連覇へ全世界注目のＳＰ▼宇野昌磨２大会連続メダルへ▼18歳鍵山優真は初出場で偉業なるか！夢の日本表彰台独占への挑戦※最大延長４５分</desc>
   </programme>
-<programme start="20220207095500 +0900" stop="20220207135500 +0900" channel="Asahi.jp">
+<programme start="20220207095500 +0900" stop="20220207140500 +0900" channel="Asahi.jp">
   <title lang="en">北京2022オリンピック</title>
   <desc lang="en">▼日本３位で最終日へ！「団体」史上初のメダル獲得なるか、歴史的快挙に挑む！▼フィギュアスケート「団体」のメダルが決まる最終決戦！</desc>
 </programme>
-<programme start="20220207135500 +0900" stop="20220207140500 +0900" channel="Asahi.jp">
+<programme start="20220207140500 +0900" stop="20220207141500 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
 </programme>
-<programme start="20220207140500 +0900" stop="20220207145000 +0900" channel="Asahi.jp">
+<programme start="20220207141500 +0900" stop="20220207145000 +0900" channel="Asahi.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
@@ -2022,9 +2034,22 @@ by L.E.J</desc>
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜医師直伝！コロナ禍を元気に過ごす秘訣〜医師・鎌田實さんが今日のゲストです。</desc>
 </programme>
-<programme start="20220207102500 +0900" stop="20220207135500 +0900" channel="TBS2.jp">
-  <title lang="en">ひるおび!</title>
-  <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
+<programme start="20220208133000 +0900" stop="20220208134500 +0900" channel="Asahi.jp">
+  <title lang="en">上沼恵美子のおしゃべりクッキング</title>
+  <desc lang="en">家にいる今こそ料理を楽しもう♪番組開始25年を超え上沼恵美子が辻調理師専門学校の先生と簡単で美味しい料理をご紹介！
+今日の料理は、ミックススパイスが香る中華の一品</desc>
+</programme>
+<programme start="20220208134500 +0900" stop="20220208134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">1934（昭和9）年に建てられた築地本願寺本堂は国の重要文化財です。建築家の伊東忠太がインドなどアジアの古代仏教建築を元に設計。本堂内の柱にある当時の最新設備とは…</desc>
+</programme>
+<programme start="20220208134900 +0900" stop="20220208135400 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220208135400 +0900" stop="20220208154800 +0900" channel="Asahi.jp">
+  <title lang="en">人類学者・岬久美子の殺人鑑定6</title>
+  <desc lang="en">「骨の叫びを聞く女！１８年前に消えた不倫カップルの謎‼結婚指輪が暴く痛みの記憶…母親の背中から見た偽りの風景⁉」大塚寧々(他)▽刺殺された男性の車から出てきたのは…</desc>
 </programme>
 <programme start="20220207135500 +0900" stop="20220207154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -2097,9 +2122,9 @@ by L.E.J</desc>
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
-<programme start="20220207114000 +0900" stop="20220207134000 +0900" channel="TVTokyo.jp">
-  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
-  <desc lang="en">あなたのご飯見せて下さい▽群馬県高崎市…老舗豆腐店のソフト木綿＆手作りソース豆腐ドリア＆ヘルシーおからサラダ▽埼玉県毛呂山町…宮大工ベーコン店の土鍋炊き込みご飯</desc>
+<programme start="20220208135500 +0900" stop="20220208154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
 <programme start="20220207134000 +0900" stop="20220207154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -2264,6 +2289,10 @@ by L.E.J</desc>
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽千葉県木更津市…海苔漁師の鉄砲巻き＆磯の香りとパリパリ食感の春巻き▽埼玉県深谷市…深谷ねぎピリ辛丼＆豚バラ豆乳キムチ鍋の野菜しゃぶ</desc>
 </programme>
+<programme start="20220208134000 +0900" stop="20220208154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">アドレナリン爆発のダイナミック・カースタント再び！クルマ好きなら思わずニヤリとする名車の数々が、熱いレースを展開する大ヒットアクション第２弾！</desc>
+</programme>
 <programme start="20220207115500 +0900" stop="20220207144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">北京五輪・開会式の“最終ランナー”に海外メディアから批判の声▽“トップ選手”感染出場できないケースも▽アンジャッシュ渡部復帰へ…芸能活動“再開”を発表</desc>
@@ -2363,14 +2392,6 @@ by L.E.J</desc>
 <programme start="20220208115500 +0900" stop="20220208144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">ＭＣ坂上忍と進行ＭＣ伊藤利尋が送るニュース＆ホンネトークショー！曜日ＭＣブラマヨとヒロミ＆ミッツ・マングローブらが話題のニュースを生放送でぶった斬る！</desc>
-</programme>
-<programme start="20220207123000 +0900" stop="20220207130000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220207130000 +0900" stop="20220207135500 +0900" channel="Tokyo MX">
-  <title lang="en">知ってるワイフ</title>
-  <desc lang="en">チソン×ハン・ジミン共演！もしもあのときに戻れるなら…私の人生たった一度の“if”</desc>
 </programme>
 <programme start="20220207135500 +0900" stop="20220207140000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -2567,6 +2588,14 @@ by L.E.J</desc>
 <programme start="20220208130000 +0900" stop="20220208135500 +0900" channel="Tokyo MX">
   <title lang="en">無法弁護士〜最高のパートナー</title>
   <desc lang="en">イ・ジュンギ主演作！無法者の弁護士が、愛すべきパートナーと法と拳を武器に巨大権力に立ち向かう！僕たちの未来はここにある！</desc>
+</programme>
+<programme start="20220208135500 +0900" stop="20220208140000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220208140000 +0900" stop="20220208143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220207000000 +0900" stop="20220207030000 +0900" channel="FujiNext.jp">
 <title lang="en">This is ACIDMAN</title>
