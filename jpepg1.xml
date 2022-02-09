@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220209140000 +0900" stop="20220209150000 +0900" channel="ANIMAX.jp">
-  <title lang="en">機動戦士Zガンダム</title>
-  <desc lang="en">49「生命散って」
-50「宇宙(そら)を駆ける」END
-反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティタ…</desc>
-</programme>
 <programme start="20220209150000 +0900" stop="20220209160000 +0900" channel="ANIMAX.jp">
   <title lang="en">グラゼニ</title>
   <desc lang="en">5「安全な株・危険な株」
@@ -227,6 +221,12 @@ MISSION 04「衝撃 デビューステージ」
   <desc lang="en">7「二軍なのに一軍」
 8「球場までの通勤事情」
 凡田夏之介はプロ野球・神宮スパイダースの左の中継ぎ投手。入団8年…</desc>
+</programme>
+<programme start="20220210160000 +0900" stop="20220210170000 +0900" channel="ANIMAX.jp">
+  <title lang="en">七つの大罪 憤怒の審判</title>
+  <desc lang="en">11「神と対峙する人」
+12「みんながキミの力になる」
+いまだ人と、人ならざるものの世界が、分かたれてはいなかった…</desc>
 </programme>
 <programme start="20220208230000 +0900" stop="20220209010000 +0900" channel="FujiNext.jp">
 <title lang="en">FACTORY ARCHIVES「SOIL ＆“PIMP”SESSIONS」</title>
@@ -519,7 +519,7 @@ https//otn.fujitv.co.jp
 <title lang="en">THEわれめDEポン24時間頂上決戦SP 2019（1時間Ver.）Part11</title>
 <desc>＜出演＞中野浩一　小柳ルミ子　見栄晴　萩原聖人　金子昇　梶原雄太（キングコング）　内山信二　宮川一朗太
 ＜MC＞ガダルカナル・タカ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220209/7484667/image/082e4fbbb467954cb55d05c26eb8648e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220209160000 +0900" stop="20220209170000 +0900" channel="FujiOne.jp">
@@ -1626,26 +1626,6 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en">北京2022オリンピック</title>
     <desc lang="en">◇スノーボード　男子スノーボードクロス・決勝（中継）　【出演】藤森由香，川端絵美，伊藤みき，【アナウンサー】中川安奈，【スノーボード】解説…鶴岡剣太郎ほか</desc>
   </programme>
-  <programme start="20220209144000 +0900" stop="20220209150000 +0900" channel="eTele.jp">
-    <title lang="en">NHK高校講座 地学基礎</title>
-    <desc lang="en">私たちの身の回りの自然の成り立ちについて学ぶ地学基礎。今回は地球温暖化などの環境問題について、どのように考えればよいかを学びます。</desc>
-  </programme>
-  <programme start="20220209150000 +0900" stop="20220209152500 +0900" channel="eTele.jp">
-    <title lang="en">NHK俳句</title>
-    <desc lang="en">選者は片山由美子さん。ゲストはいとうせいこうさん。故金子兜太と共に、俳句賞の選者をしていたいとうさん。金子さんに選の機微を教えてもらったという。司会　武井壮</desc>
-  </programme>
-  <programme start="20220209152500 +0900" stop="20220209153000 +0900" channel="eTele.jp">
-    <title lang="en">ワンポイント手話</title>
-    <desc lang="en">初歩的な手話の会話を２５回に分けて紹介します。最終的には手話で簡単な自己紹介ができるようになるのが目標です。自転車、バス、電車、地下鉄などの単語を学びます。</desc>
-  </programme>
-  <programme start="20220209153000 +0900" stop="20220209154000 +0900" channel="eTele.jp">
-    <title lang="en">アクティブ10 ミライのしごとーく</title>
-    <desc lang="en">カズレーザーのキャリア教育番組！同じ業界で働く大人３人が集まり、「仕事のやりがい」や「業界の未来」をトークする。今回のテーマは「ゲーム業界」の仕事。</desc>
-  </programme>
-  <programme start="20220209154000 +0900" stop="20220209154500 +0900" channel="eTele.jp">
-    <title lang="en">プチプチ・アニメ</title>
-    <desc lang="en">ボーシタウンに住んでいる元気な男の子キャッピとニッティは遊ぶことが大好き。でも大人の人たちはいつもいそがしそう。今日あったあの人は何のお仕事をしてるのかな？</desc>
-  </programme>
   <programme start="20220209154500 +0900" stop="20220209160000 +0900" channel="eTele.jp">
     <title lang="en">ノージーのひらめき工房</title>
     <desc lang="en">４〜５歳からの子どもたちにむけた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
@@ -1970,9 +1950,21 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en">将棋フォーカス</title>
     <desc lang="en">将棋の総合情報番組。講座は戸辺誠七段が、じっくりと指導。番組の司会は、乃木坂４６の向井葉月と、髙見泰地七段・都成竜馬七段が交替で担当。</desc>
   </programme>
-  <programme start="20220209135500 +0900" stop="20220209155000 +0900" channel="NipponTV.jp">
-    <title lang="en">情報ライブ ミヤネ屋</title>
-    <desc lang="en">最新天気！あす関東平野部で雪か交通機関乱れなど注意▽速報！フィギュア羽生選手ら公式練習に登場！</desc>
+  <programme start="20220210153000 +0900" stop="20220210154000 +0900" channel="eTele.jp">
+    <title lang="en">SEED なやみのタネ</title>
+    <desc lang="en">実家の仕事を継ぐか、自分の夢を追いかけるか…今の時代を生きる人たちの、リアルな「なやみ」を描くドキュメンタリー番組。</desc>
+  </programme>
+  <programme start="20220210154000 +0900" stop="20220210154500 +0900" channel="eTele.jp">
+    <title lang="en">プチプチ・アニメ</title>
+    <desc lang="en">氷の世界に住む少女レシオとその友だち、毛むくじゃらのジャモン。ふたりで出かけた先で出あった精霊や不思議な生き物たちから、さまざまなことを学んでゆきます。</desc>
+  </programme>
+  <programme start="20220210154500 +0900" stop="20220210160000 +0900" channel="eTele.jp">
+    <title lang="en">なりきり! むーにゃん生きもの学園</title>
+    <desc lang="en">クジラにも襲いかかるほど、どう猛なシャチ。でも実はとっても頭がいい動物だと言われる。狩りの時に自分の姿を見事に隠したり、仲間同士で「言葉」を使ってしゃべったり！</desc>
+  </programme>
+  <programme start="20220210160000 +0900" stop="20220210160500 +0900" channel="eTele.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「コックのポルカ」天地総子、東京放送児童合唱団／「白い道」ハイファイセット／「草競馬」東京荒川少年少女合唱隊／「バケツの穴」熊倉一雄、東京放送児童合唱団</desc>
   </programme>
   <programme start="20220209155000 +0900" stop="20220209190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
@@ -2045,10 +2037,10 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20220209145100 +0900" stop="20220209154800 +0900" channel="Asahi.jp">
-  <title lang="en">科捜研の女13</title>
-  <desc lang="en">「美人すぎる仲居殺人 残された灰の謎⁉広報警官の闇！漏洩した捜査情報‼」沢口靖子(他)▽老舗旅館に勤務する仲居が殺され、旅館の社長が容疑者として浮上するが…</desc>
-</programme>
+  <programme start="20220210155000 +0900" stop="20220210190000 +0900" channel="NipponTV.jp">
+    <title lang="en">news every.</title>
+    <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+  </programme>
 <programme start="20220209154800 +0900" stop="20220209164500 +0900" channel="Asahi.jp">
   <title lang="en">相棒 season 15</title>
   <desc lang="en">「出来心」水谷豊、反町隆史(他)▽ある夜、ひったくりの現場に遭遇した詐欺師の男は、なぜか体を張って犯人を撃退。しかし、男は何も言わずにその場を立ち去ってしまう…</desc>
@@ -2190,9 +2182,9 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
   <title lang="en">となりのチカラ</title>
   <desc lang="en">「全てを忘れる祖母…孫が流す１１年分の涙」松本潤(他)▽ある朝、突然上の階から“助けて！”という声が。駆けつけたチカラが見たのは、孫を強盗と間違える祖母の姿だった…</desc>
 </programme>
-<programme start="20220209130000 +0900" stop="20220209153000 +0900" channel="TBS2.jp">
-  <title lang="en">北京2022オリンピック</title>
-  <desc lang="en">五輪２大会連続銀メダル・平野歩夢が頂点を目指し出陣！世界選手権金の戸塚優斗・ユース五輪金の平野流佳・平野歩夢の弟海祝も登場！２５人中上位１２人が決勝へ！</desc>
+<programme start="20220210154800 +0900" stop="20220210164500 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season5</title>
+  <desc lang="en">「殺人シネマ」水谷豊、寺脇康文(他)▽かつてヒット作を連発した映画監督が自ら監督した作品を上映していた映画館で殺害された。偶然映画を観に来ていた第一発見者の右京は…</desc>
 </programme>
 <programme start="20220209153000 +0900" stop="20220209190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
@@ -2277,9 +2269,9 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
 </programme>
-<programme start="20220209134000 +0900" stop="20220209154000 +0900" channel="TVTokyo.jp">
-  <title lang="en">午後のロードショー</title>
-  <desc lang="en">キーファー・サザーランド出演！ベスビオ火山大噴火！イタリアの都市ポンペイに迫る自然の猛威とそれに翻弄されながらも懸命に生きようとする男女描いたパニックアクション</desc>
+<programme start="20220210154900 +0900" stop="20220210190000 +0900" channel="TBS2.jp">
+  <title lang="en">Nスタ</title>
+  <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
 </programme>
 <programme start="20220209154000 +0900" stop="20220209165400 +0900" channel="TVTokyo.jp">
   <title lang="en">よじごじDays</title>
@@ -2439,10 +2431,9 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
   <title lang="en">午後のロードショー</title>
   <desc lang="en">スティーブン・セガール初監督・製作・主演大炎上アクション！巨大石油基地に潜む悪意がアラスカの大自然をぶち壊すことを知り、男は負けられない戦いに挑む！</desc>
 </programme>
-<programme start="20220209144500 +0900" stop="20220209154500 +0900" channel="FujiTV.jp">
-  <title lang="en">東京DOGS</title>
-  <desc lang="en">「仲間の悲しき逮捕」
-小栗旬　水嶋ヒロ　吉高由里子　勝地涼　大塚寧々　三浦友和　ほか</desc>
+<programme start="20220210154000 +0900" stop="20220210165400 +0900" channel="TVTokyo.jp">
+  <title lang="en">よじごじDays</title>
+  <desc lang="en">人気企画「脳トレドリル」で楽しみながら脳を刺激しましょう！さらに自宅で手軽に作れるプロの味！人気店の料理人が、フライパン１つで簡単にマネできる絶品料理を大公開！</desc>
 </programme>
 <programme start="20220209154500 +0900" stop="20220209190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
@@ -2526,17 +2517,9 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
   <desc lang="en">「宿敵からの挑戦状」
 小栗旬　水嶋ヒロ　吉高由里子　勝地涼　大塚寧々　三浦友和　ほか</desc>
 </programme>
-<programme start="20220209145900 +0900" stop="20220209150000 +0900" channel="Tokyo MX">
-  <title lang="en">フラッシュ天気</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220209150000 +0900" stop="20220209153000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220209153000 +0900" stop="20220209155800 +0900" channel="Tokyo MX">
-  <title lang="en">花道だけ歩きましょう 〜恋の花が咲きました〜</title>
-  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+<programme start="20220210154500 +0900" stop="20220210190000 +0900" channel="FujiTV.jp">
+  <title lang="en">Live News イット!</title>
+  <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
 <programme start="20220209155800 +0900" stop="20220209160000 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
@@ -2733,6 +2716,18 @@ K-POPファン必見！MnetファンによるMnetファンのための授賞式�
   <desc lang="en"> </desc>
 </programme>
 <programme start="20220210150000 +0900" stop="20220210153000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220210153000 +0900" stop="20220210155800 +0900" channel="Tokyo MX">
+  <title lang="en">花道だけ歩きましょう 〜恋の花が咲きました〜</title>
+  <desc lang="en">死んだ夫の心臓を移植したイケメンと恋に落ちる⁉様々な苦難を乗り越え、人生を切り開くサクセス・ラブストーリー！</desc>
+</programme>
+<programme start="20220210155800 +0900" stop="20220210160000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220210160000 +0900" stop="20220210163000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
@@ -3027,7 +3022,7 @@ https//otn.fujitv.co.jp
 <title lang="en">THEわれめDEポン24時間頂上決戦SP 2019（1時間Ver.）Part11</title>
 <desc>＜出演＞中野浩一　小柳ルミ子　見栄晴　萩原聖人　金子昇　梶原雄太（キングコング）　内山信二　宮川一朗太
 ＜MC＞ガダルカナル・タカ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220209/7484667/image/082e4fbbb467954cb55d05c26eb8648e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220209160000 +0900" stop="20220209170000 +0900" channel="FujiOne.jp">
