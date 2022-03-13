@@ -63,10 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220313103000 +0900" stop="20220313110000 +0900" channel="ANIMAX.jp">
-  <title lang="en">情報</title>
-  <desc lang="en">この時間は情報番組をお送りしております。</desc>
-</programme>
 <programme start="20220313110000 +0900" stop="20220313130000 +0900" channel="ANIMAX.jp">
   <title lang="en">映画 さよなら私のクラマー ファーストタッチ</title>
   <desc lang="en">女子中学生サッカープレイヤー・恩田希は、誰よりも練習し、誰よりも努力してきた。それでも、彼女は試合になかなか出…</desc>
@@ -191,6 +187,12 @@
   <desc lang="en">1「究極のとうふ屋ドリフト」
 2「リベンジ宣言！ほえるターボ」
 家業の豆腐屋を手伝うために地元・秋名山を走り込み…</desc>
+</programme>
+<programme start="20220314120000 +0900" stop="20220314130000 +0900" channel="ANIMAX.jp">
+  <title lang="en">ジョジョの奇妙な冒険</title>
+  <desc lang="en">17「深く罠をはれ！」
+18「シュトロハイム隊の逆襲」
+ジョナサンの死から49年後。石油王となったスピードワゴンの財…</desc>
 </programme>
 <programme start="20220312203000 +0900" stop="20220313011000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA1 プレシーズンテスト　3</title>
@@ -419,7 +421,7 @@ https//otn.fujitv.co.jp
 ＜司会＞見栄晴　横山ルリカ
 ＜出演＞松本ヒロシ　競馬予想専門家4名
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220313/7712301/image/6b2f9be38a953660993562bfc8e39373.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220313120000 +0900" stop="20220313122000 +0900" channel="FujiOne.jp">
@@ -647,7 +649,7 @@ https//otn.fujitv.co.jp
 <title lang="en">ラーメンWalker TV2　295　吉祥寺「吉祥寺 武蔵家」</title>
 <desc>創業20年以上！3世代に渡り愛される吉祥寺家系のパイオニア　吉祥寺「吉祥寺 武蔵家」
 ＜出演＞田中貴（サニーデイ・サービス） 田中真琴
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220313/7712520/image/b13460cf511d51d1dc9670301be717f7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220313120000 +0900" stop="20220313130000 +0900" channel="FujiTwo.jp">
@@ -1147,18 +1149,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220313100500 +0900" stop="20220313110500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">明日をまもるナビ</title>
-    <desc lang="en">東日本大震災から１１年。被災地のいま、人々の思いに迫る！ＮＨＫ仙台放送局が発災直後から続ける長寿番組。盛岡放送局が始めた新イベント。福島・原発事故からの復興。</desc>
-  </programme>
-  <programme start="20220313110500 +0900" stop="20220313112000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
-    <desc lang="en">ひなた（川栄李奈）が企画したお化け屋敷は大成功を収めるも、落ち武者の幽霊を演じた五十嵐（本郷奏多）はどこか不満げ。俳優としての将来に焦りを抱えているらしく…</desc>
-  </programme>
-  <programme start="20220313112000 +0900" stop="20220313115400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">どーも、NHK</title>
-    <desc lang="en">１週間のおすすめ番組▽４月から新番組が続々登場。新年度の番組編成を特集します。▽就活生応援キャンペーン「コワくない。就活」</desc>
-  </programme>
   <programme start="20220313115400 +0900" stop="20220313120000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -1334,6 +1324,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <programme start="20220314090000 +0900" stop="20220314115400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20220314115400 +0900" stop="20220314120000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220314120000 +0900" stop="20220314122500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">【キャスター】栗原望</desc>
   </programme>
   <programme start="20220313103000 +0900" stop="20220313120000 +0900" channel="eTele.jp">
     <title lang="en">第71回 NHK杯テレビ将棋トーナメント</title>
@@ -1591,17 +1589,21 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">きょうの料理</title>
     <desc lang="en">大原千鶴の「春の行楽弁当」は、ふだんのおかず作りとはちょっと違う、弁当ならではの役立つコツが満載。お弁当を毎日作っている方も、これから始める方も、必見ですよ！</desc>
   </programme>
-  <programme start="20220313102500 +0900" stop="20220313112500 +0900" channel="NipponTV.jp">
-    <title lang="en">ニノさん</title>
-    <desc lang="en">竹内涼真が今一番気になる究極のサウナをご紹介！▽韓国B級グルメをかけて激ムズリフティング対決！ニノ・竹内・風磨が大興奮！まさかの展開に…！▽芸能人私物捜査官は誰</desc>
+  <programme start="20220314112500 +0900" stop="20220314113000 +0900" channel="eTele.jp">
+    <title lang="en">きょうの料理ビギナーズ</title>
+    <desc lang="en">彩り豊かでつまみやすいアイデアが詰まった行楽弁当を紹介。俵型のおにぎり、ゆで卵をアレンジしたり、煮物を串に刺したり。また箸休めの梅きゅうりちくわも詰めます。</desc>
   </programme>
-  <programme start="20220313112500 +0900" stop="20220313113000 +0900" channel="NipponTV.jp">
-    <title lang="en">ガイド</title>
-    <desc lang="en"></desc>
+  <programme start="20220314113000 +0900" stop="20220314115500 +0900" channel="eTele.jp">
+    <title lang="en">趣味どきっ!</title>
+    <desc lang="en">表千家の「茶の湯」を学ぶシリーズ。第５回は客を迎える亭主の「もてなしの準備」として「床」のしつらえを習います。道具を学ぶコーナーでは永樂家の焼物をご紹介します。</desc>
   </programme>
-  <programme start="20220313113000 +0900" stop="20220313114500 +0900" channel="NipponTV.jp">
-    <title lang="en">NNN ストレイトニュース</title>
-    <desc lang="en">最新のニュース、気になる気象情報をお伝えします。</desc>
+  <programme start="20220314115500 +0900" stop="20220314120000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">衣類を取り扱うための大切な情報源である「洗濯表示」を解説しながら、極上の洗濯術を伝授する。第５回は洗濯表示を確認しながら、漂白剤の選び方や漂白の仕方をマスター。</desc>
+  </programme>
+  <programme start="20220314120000 +0900" stop="20220314125500 +0900" channel="eTele.jp">
+    <title lang="en">にっぽんの芸能</title>
+    <desc lang="en">▽能楽舞踊劇「鷹の井戸」【出演】梅若実玄祥（老人／人間国宝）、上野水香（鷹の精／バレエダンサー）、大貫勇輔（空賦鱗／ダンサー・俳優）▽【語り】真矢ミキ（女優）</desc>
   </programme>
   <programme start="20220313114500 +0900" stop="20220313124500 +0900" channel="NipponTV.jp">
     <title lang="en">スクール革命!</title>
@@ -1751,14 +1753,18 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">バゲット</title>
     <desc lang="en">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
   </programme>
-<programme start="20220313105000 +0900" stop="20220313114500 +0900" channel="Asahi.jp">
-  <title lang="en">家事ヤロウ!!!</title>
-  <desc lang="en">15日火曜よる７時から家事ヤロウ!!! 企業－１グランプリを開催！企業公式炊き込みご飯で家事ヤロウ３人がガチンコ採点！</desc>
-</programme>
-<programme start="20220313114500 +0900" stop="20220313115000 +0900" channel="Asahi.jp">
-  <title lang="en">発進!ミライクリエイター</title>
-  <desc lang="en">世界や日本の未来を変えるかもしれない「研究」「活動」「提案」「起業」「挑戦」に奮闘している若きミライクリエイターをご紹介！</desc>
-</programme>
+  <programme start="20220314113000 +0900" stop="20220314114500 +0900" channel="NipponTV.jp">
+    <title lang="en">NNN ストレイトニュース</title>
+    <desc lang="en">最新のニュースをストレートに！　必要とされる情報を、コンパクトにまとめてお伝えします。</desc>
+  </programme>
+  <programme start="20220314114500 +0900" stop="20220314115500 +0900" channel="NipponTV.jp">
+    <title lang="en">キユーピー3分クッキング</title>
+    <desc lang="en">3種類の調味料それぞれを同量使って作る、台湾風の鶏肉の炒め煮です。赤唐辛子、バジルの組み合わせがクセになるおいしさ。バジルは火を止めてから加えます。</desc>
+  </programme>
+  <programme start="20220314115500 +0900" stop="20220314135500 +0900" channel="NipponTV.jp">
+    <title lang="en">ヒルナンデス!</title>
+    <desc lang="en">SDGs WEEK開始！▽春の癒し旅でシーパラダイス触れ合い＆豪華ホテル伊勢海老▽新生活の準備を応援！リサイクルショップで売却㊙儲かるのは何⁉生クリーム専門店</desc>
+  </programme>
 <programme start="20220313115000 +0900" stop="20220313120000 +0900" channel="Asahi.jp">
   <title lang="en">ANNニュース</title>
   <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
@@ -1894,19 +1900,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">大下容子ワイド!スクランブル</title>
   <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
 </programme>
-<programme start="20220313095400 +0900" stop="20220313113000 +0900" channel="TBS2.jp">
-  <title lang="en">サンデー・ジャポン</title>
-  <desc lang="en">SNSでの主張激化に報道統制…“第一次情報大戦”で交錯する思惑▽ウクライナ女性と戦争…▽カプセルトイ戦国時代▽ＴＧＣとサンジャポがコラボ▽番組から大切なご報告</desc>
-</programme>
-<programme start="20220313113000 +0900" stop="20220313114000 +0900" channel="TBS2.jp">
-  <title lang="en">JNNニュース</title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
-</programme>
-<programme start="20220313114000 +0900" stop="20220313114500 +0900" channel="TBS2.jp">
-  <title lang="en">デジタル一番星</title>
-  <desc lang="en">ウイルスや菌が気になる！・・・そんなお悩みに、人気家事研究科の髙橋ゆきさんが、正しい手洗い法や菌を抑制する新技術をご紹介します！
-</desc>
-</programme>
 <programme start="20220313114500 +0900" stop="20220313125400 +0900" channel="TBS2.jp">
   <title lang="en">アッコにおまかせ!</title>
   <desc lang="en">SNSでの誹謗中傷に海老蔵が法的措置を決意▼清水寺に出現…巨大こけし！驚きの仕掛け▼ランチパックがあるものに変身？▼不動産まさかの新トレンド「極狭住宅」その実態</desc>
@@ -2032,18 +2025,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220314102500 +0900" stop="20220314135500 +0900" channel="TBS2.jp">
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
-</programme>
-<programme start="20220313103000 +0900" stop="20220313110000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ミュークルドリーミーみっくす!</title>
-  <desc lang="en">「キラキラワクワク」を取り戻して一件落着！…と思いきや今度はアクムーに危機が迫る！果たしてゆめ達は、アクムーを救うことができるのでしょうか！？</desc>
-</programme>
-<programme start="20220313110000 +0900" stop="20220313112500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ゴルフのキズナ</title>
-  <desc lang="en">夢に向かって挑戦するゴルファーを名コーチが成功に導くゴルフリアリティ番組！今回はベテランプロ菅谷拓と日本シニアOP出場を目指す元プロ野球選手田中幸雄とのキズナ</desc>
-</programme>
-<programme start="20220313112500 +0900" stop="20220313115500 +0900" channel="TVTokyo.jp">
-  <title lang="en">男子ごはん</title>
-  <desc lang="en">国分太一と栗原心平の同世代の男２人が日曜のお昼にお届けする料理番組。ほのぼのとした雰囲気の中、２人で仲良くおしゃべりしながら、様々なレシピを紹介します。</desc>
 </programme>
 <programme start="20220313115500 +0900" stop="20220313122500 +0900" channel="TVTokyo.jp">
   <title lang="en">Snow Manが豪邸でシェアハウスしてみた!</title>
@@ -2186,13 +2167,17 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">なないろ日和!</title>
   <desc lang="en">▽快適ショッピングスタジオ▽フライパンだけで極上料理を作ろう！15分で牛しぐれ煮弁当。中華風焼きラーメン？ボロネーゼも簡単▽「虎ノ門市場」豪華海鮮セット</desc>
 </programme>
-<programme start="20220313090000 +0900" stop="20220313115000 +0900" channel="FujiTV.jp">
-  <title lang="en">名古屋ウィメンズマラソン2022</title>
-  <desc lang="en">パリ五輪ＭＧＣ出場権＆オレゴン世界選手権国内最終選考レース！持ちタイム世界４位チェプンゲティッチ参戦！東京五輪１００００ｍ代表安藤友香が国内最高記録を目指す！</desc>
+<programme start="20220314111300 +0900" stop="20220314113500 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼サテ</title>
+  <desc lang="en">最新のニュースとマーケット情報をいち早くお伝えします。</desc>
 </programme>
-<programme start="20220313115000 +0900" stop="20220313115500 +0900" channel="FujiTV.jp">
-  <title lang="en">くいしん坊!万才</title>
-  <desc lang="en">くいしん坊松岡修造が全国各地の名物料理や郷土の味・珍味に挑戦！その土地の歴史や文化、人々の暮らしにふれ、食べることの喜びや出会いの楽しさを伝えます。</desc>
+<programme start="20220314113500 +0900" stop="20220314114000 +0900" channel="TVTokyo.jp">
+  <title lang="en">月〜金お昼のソングショー ひるソン!</title>
+  <desc lang="en">月曜〜金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！</desc>
+</programme>
+<programme start="20220314114000 +0900" stop="20220314134000 +0900" channel="TVTokyo.jp">
+  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
+  <desc lang="en">あなたのご飯見せて下さい▽神奈川県藤沢市…超大盛りチャーハン＆古民家珈琲焙煎所でこんにゃくのコロッケ＆深谷ネギ厚揚げ焼き▽東京都清瀬市…レバニラ定食＆唐揚げ</desc>
 </programme>
 <programme start="20220313115500 +0900" stop="20220313120000 +0900" channel="FujiTV.jp">
   <title lang="en">FNN Live News days</title>
@@ -2305,13 +2290,17 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">ノンストップ!</title>
   <desc lang="en">ＭＣバナナマン設楽統▽今日も「独自の目線で！」エンタメ芸能情報＆海外セレブ仰天ニュース▽女性・家族が気になるアノ話題▽本音トーク！せきららスタジオ</desc>
 </programme>
-<programme start="20220313105500 +0900" stop="20220313110000 +0900" channel="Tokyo MX">
-  <title lang="en">ぷちセカ</title>
-  <desc lang="en">＃９「噂のパンケーキ」</desc>
+<programme start="20220314112500 +0900" stop="20220314113000 +0900" channel="FujiTV.jp">
+  <title lang="en">国分太一のお気楽さんぽ〜Happy Go Lucky〜</title>
+  <desc lang="en">国分太一が日本全国の街を手ぶらでおさんぽ！ここに行けば楽しめる！あそこに行けば幸せになれる！街の魅力を伝えながらハッピーとラッキーを発見しに行きます！</desc>
 </programme>
-<programme start="20220313110000 +0900" stop="20220313115500 +0900" channel="Tokyo MX">
-  <title lang="en">京都画報</title>
-  <desc lang="en">クオリティーライフを送る大人の視聴者に向け、京都の伝統文化をお届けします。常盤貴子が毎回様々なテーマで、京都の美術、工芸、グルメ、キーパーソンと出会います。</desc>
+<programme start="20220314113000 +0900" stop="20220314115500 +0900" channel="FujiTV.jp">
+  <title lang="en">FNN Live News days</title>
+  <desc lang="en">世の中の動きを素早くキャッチ！最新ニュースをわかりやすく、丁寧にお届けします。気になるポイントは深掘りして、役に立つニュースをお伝えします。</desc>
+</programme>
+<programme start="20220314115500 +0900" stop="20220314144500 +0900" channel="FujiTV.jp">
+  <title lang="en">バイキングMORE</title>
+  <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
 </programme>
 <programme start="20220313115500 +0900" stop="20220313125000 +0900" channel="Tokyo MX">
   <title lang="en">日曜はカラフル!!!</title>
@@ -2448,6 +2437,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220314110000 +0900" stop="20220314115500 +0900" channel="Tokyo MX">
   <title lang="en">蘭陵王妃〜王と皇帝に愛された女〜</title>
   <desc lang="en">大ヒット作「蘭陵王」では描かれなかった もう一つのラブストーリーが今、始まる――</desc>
+</programme>
+<programme start="20220314115500 +0900" stop="20220314120000 +0900" channel="Tokyo MX">
+  <title lang="en">MX news FLAG</title>
+  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220314120000 +0900" stop="20220314123000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220312203000 +0900" stop="20220313011000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA1 プレシーズンテスト　3</title>
@@ -2676,7 +2673,7 @@ https//otn.fujitv.co.jp
 ＜司会＞見栄晴　横山ルリカ
 ＜出演＞松本ヒロシ　競馬予想専門家4名
 　【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220313/7712301/image/6b2f9be38a953660993562bfc8e39373.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220313120000 +0900" stop="20220313122000 +0900" channel="FujiOne.jp">
@@ -2904,7 +2901,7 @@ https//otn.fujitv.co.jp
 <title lang="en">ラーメンWalker TV2　295　吉祥寺「吉祥寺 武蔵家」</title>
 <desc>創業20年以上！3世代に渡り愛される吉祥寺家系のパイオニア　吉祥寺「吉祥寺 武蔵家」
 ＜出演＞田中貴（サニーデイ・サービス） 田中真琴
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220313/7712520/image/b13460cf511d51d1dc9670301be717f7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220313120000 +0900" stop="20220313130000 +0900" channel="FujiTwo.jp">
