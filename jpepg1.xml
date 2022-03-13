@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220313130000 +0900" stop="20220313140000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ゲゲゲの鬼太郎</title>
-  <desc lang="en">75「九尾の狐」
-76「ぬらりひょんの野望」
-人々が妖怪の存在を忘れた現代。科学では解明が出来ない現象が頻発、大人…</desc>
-</programme>
 <programme start="20220313140000 +0900" stop="20220313160000 +0900" channel="ANIMAX.jp">
   <title lang="en">名探偵コナン</title>
   <desc lang="en">『名探偵コナンTVスペシャル コナンと海老蔵 歌舞伎十八番ミステリー』
@@ -200,6 +194,12 @@
   <desc lang="en">1「もう一度ラブライブ！」
 2「優勝をめざして」
 音ノ木坂学院で、相変わらずの日々を過ごすμ’sのメンバー。そん…</desc>
+</programme>
+<programme start="20220314150000 +0900" stop="20220314160000 +0900" channel="ANIMAX.jp">
+  <title lang="en">ふしぎの海のナディア</title>
+  <desc lang="en">23「小さな漂流者」
+24「リンカーン島」
+1889年パリでは万国博覧会が開催されていた。人々は科学万能の時代を予感し…</desc>
 </programme>
 <programme start="20220312203000 +0900" stop="20220313011000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA1 プレシーズンテスト　3</title>
@@ -1156,10 +1156,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220313131500 +0900" stop="20220313150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">北京2022パラリンピック</title>
-    <desc lang="en">◇アルペンスキー　男子回転・１回目（録画）、２回目（中継）ほか　【出演】風間俊介，田口亜希，【アナウンサー】山田賢治，宮本真智ほか</desc>
-  </programme>
   <programme start="20220313150000 +0900" stop="20220313150500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
@@ -1190,7 +1186,7 @@ KINGDOM  LEGENDARY WARの優勝特典！
   </programme>
   <programme start="20220313190000 +0900" stop="20220313193000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース7</title>
-    <desc lang="en">ロシアによるウクライナ侵攻・現地最新情報▽２年ぶり大阪開催・大相撲春場所の初日</desc>
+    <desc lang="en">ロシアによるウクライナ侵攻・現地最新情報▽首都キエフ攻防・ロシア軍が市境界に迫る▽“南部の街でロシアが市長を拉致”と非難▽国外への避難２５０万人超える・支援は</desc>
   </programme>
   <programme start="20220313193000 +0900" stop="20220313200000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ダーウィンが来た!</title>
@@ -1339,14 +1335,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <programme start="20220314130000 +0900" stop="20220314170000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国会中継</title>
     <desc lang="en"></desc>
-  </programme>
-  <programme start="20220313123000 +0900" stop="20220313140000 +0900" channel="eTele.jp">
-    <title lang="en">第69回 NHK杯テレビ囲碁トーナメント</title>
-    <desc lang="en">５０名のトップ棋士がトーナメント方式で戦う早碁棋戦。今年度で６９回目。決勝は一力遼ＮＨＫ杯と高尾紳路九段の対戦。</desc>
-  </programme>
-  <programme start="20220313140000 +0900" stop="20220313143000 +0900" channel="eTele.jp">
-    <title lang="en">日本の話芸</title>
-    <desc lang="en">第４２２回ＮＨＫ上方落語の会から桂文枝さんの口演で落語「初恋」をお送りします（２０２２年１月１３日（木）ＮＨＫ大阪ホールで収録）。</desc>
   </programme>
   <programme start="20220313143000 +0900" stop="20220313150000 +0900" channel="eTele.jp">
     <title lang="en">サイエンスZERO</title>
@@ -1628,13 +1616,17 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">NHK高校講座 数学I</title>
     <desc lang="en">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
   </programme>
-  <programme start="20220313134500 +0900" stop="20220313141500 +0900" channel="NipponTV.jp">
-    <title lang="en">卒業式に、神谷詩子がいない</title>
-    <desc lang="en">高校生6人の青春群像劇▼若手豪華俳優陣、茅島みずき、奥平大兼、田鍋梨々花、中川大輔、莉子、杢代和人をレギュラーキャストに迎えた6人の高校生の友情、恋愛、夢の物語</desc>
+  <programme start="20220314142000 +0900" stop="20220314144000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 総合的な探究の時間</title>
+    <desc lang="en">「総合的な探究の時間」とはいかなる学習か？を、番組独自の学習モデル、学習ノウハウと、現役高校生の探究学習の実践を通して学べるＮＨＫ高校講座です。</desc>
   </programme>
-  <programme start="20220313141500 +0900" stop="20220313144500 +0900" channel="NipponTV.jp">
-    <title lang="en">King  Princeる。</title>
-    <desc lang="en">日本語厳禁‼イングリッシュ・クッキング‼LA留学経験者・岸の英語レシピで『激ウマきんぱ』『アツアツ中華丼』作れるか⁉『エビの…バック・コットン』って何⁉</desc>
+  <programme start="20220314144000 +0900" stop="20220314150000 +0900" channel="eTele.jp">
+    <title lang="en">NHK高校講座 地学基礎</title>
+    <desc lang="en">私たちの身の回りの自然の成り立ちについて学ぶ地学基礎。今回は火山活動や川のはたらきなどによる日本の自然環境の特色を見ていきます。</desc>
+  </programme>
+  <programme start="20220314150000 +0900" stop="20220314153000 +0900" channel="eTele.jp">
+    <title lang="en">日本の話芸</title>
+    <desc lang="en">第４２２回ＮＨＫ上方落語の会から桂文枝さんの口演で落語「初恋」をお送りします（２０２２年１月１３日（木）ＮＨＫ大阪ホールで収録）。</desc>
   </programme>
   <programme start="20220313144500 +0900" stop="20220313155500 +0900" channel="NipponTV.jp">
     <title lang="en">「真犯人フラグー真相編ー」ついに最終回！すべての謎総復習SP</title>
@@ -1923,14 +1915,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">科捜研の女19</title>
   <desc lang="en">「マリコ最後の鑑定！再会の父と最新科学で暴く２０年前の密室殺人」沢口靖子(他)▽２０年前の未解決事件の容疑者が逮捕された。科捜研の再鑑定により事件は二転三転するが…</desc>
 </programme>
-<programme start="20220313135700 +0900" stop="20220313140000 +0900" channel="TBS2.jp">
-  <title lang="en">四季折々の贈り物</title>
-  <desc lang="en">今回の贈り物は「三色団子」。花見のお供といえば三色団子。江戸時代には「花より団子」ということわざも生またのだそう。三食団子作りに挑戦しました。</desc>
-</programme>
-<programme start="20220313140000 +0900" stop="20220313145400 +0900" channel="TBS2.jp">
-  <title lang="en">アイアム冒険少年</title>
-  <desc lang="en">Snow Man向井が手作り舟で激流へ！あばれる君＆Yes！アキト＆ザ・マミィ酒井と共に激流川下り…番組最長の総距離７キロ…果たして制覇できる！！？</desc>
-</programme>
 <programme start="20220313145400 +0900" stop="20220313150000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
   <desc lang="en">最新のニュースをお伝えします。</desc>
@@ -2036,10 +2020,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220314135500 +0900" stop="20220314154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次が素早く、わかりやすくお届け！さらに独自目線で深掘りも！皆さんが知りたい「今」をやわらかくお伝えします！</desc>
-</programme>
-<programme start="20220313125400 +0900" stop="20220313140000 +0900" channel="TVTokyo.jp">
-  <title lang="en">開運!なんでも鑑定団</title>
-  <desc lang="en">■＜松坂大輔＞の野球秘宝に驚き値■雑誌の懸賞で当選した美しき＜古民家の絵＞！あれから70年…衝撃鑑定額■＜加賀藩＞の超美麗焼き物■＜美のカリスマ＞お宝鑑定大会！■</desc>
 </programme>
 <programme start="20220313140000 +0900" stop="20220313160000 +0900" channel="TVTokyo.jp">
   <title lang="en">芸者小春姐さん奮闘記2 赤い折り鶴殺人事件</title>
@@ -2186,14 +2166,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">午後のロードショー</title>
   <desc lang="en">“孤独な少年”と“かつてヒーローだったおじいさん”。アラビアン・ナイトのように壮大な冒険物語が繰り出す、心温まる愛すべきひと夏のストーリー！</desc>
 </programme>
-<programme start="20220313120000 +0900" stop="20220313140000 +0900" channel="FujiTV.jp">
-  <title lang="en">なりゆき街道旅</title>
-  <desc lang="en">卓球水谷隼、若槻千夏と行く早稲田の旅！ホテル椿山荘で今が見頃の椿＆都心でまさかの絶景雲海！焼き立てのバウムクーヘン爆買い！安旨ワセメシ＆絶品ステーキも</desc>
-</programme>
-<programme start="20220313140000 +0900" stop="20220313145500 +0900" channel="FujiTV.jp">
-  <title lang="en">ザ・ノンフィクション</title>
-  <desc lang="en">獲物の命を奪い食べること…マタギの第一人者のもとで修行を続ける２７歳の若者たち…生きることとは何なのか…都会を離れ山の中で猟銃を抱えクマを追う彼らの１年…</desc>
-</programme>
 <programme start="20220313145500 +0900" stop="20220313150000 +0900" channel="FujiTV.jp">
   <title lang="en">ビジネスStyle</title>
   <desc lang="en">時代を切り拓く企業のトップへのインタビューを始め、商品やサービスなどを多面的に紹介。その理念や哲学からみえてくるビジネスＳｔｙｌｅとは？</desc>
@@ -2304,6 +2276,11 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220314115500 +0900" stop="20220314144500 +0900" channel="FujiTV.jp">
   <title lang="en">バイキングMORE</title>
   <desc lang="en">坂上忍＆伊藤利尋アナが高橋真麻ら豪華ゲストと送るニュース＆ホンネトークショー！政治・事件から芸能まで話題ニュースをぶった斬る！速報を交えて３時間生放送</desc>
+</programme>
+<programme start="20220314144500 +0900" stop="20220314154500 +0900" channel="FujiTV.jp">
+  <title lang="en">私が恋愛できない理由</title>
+  <desc lang="en">「恋なんて面倒⁉恋は贅沢⁉イタ過ぎる枯れ女達が恋する⁉」
+香里奈　吉高由里子　大島優子　稲森いずみ</desc>
 </programme>
 <programme start="20220313130000 +0900" stop="20220313180000 +0900" channel="Tokyo MX">
   <title lang="en">東京都議会中継</title>
@@ -2450,6 +2427,18 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20220314140000 +0900" stop="20220314143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220314143000 +0900" stop="20220314145900 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220314145900 +0900" stop="20220314150000 +0900" channel="Tokyo MX">
+  <title lang="en">フラッシュ天気</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220314150000 +0900" stop="20220314153000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
