@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220319073000 +0900" stop="20220319080000 +0900" channel="ANIMAX.jp">
-  <title lang="en">おこしやす、ちとせちゃん</title>
-  <desc lang="en">第７〜９羽
-京都に住む子ペンギン、その名もちとせちゃん。もふもふした愛らしい子ペンギンのちとせちゃんは、おいしい…</desc>
-</programme>
 <programme start="20220319080000 +0900" stop="20220319093000 +0900" channel="ANIMAX.jp">
   <title lang="en">僕のヒーローアカデミア</title>
   <desc lang="en">24「飯田くんファイト」25「轟VS爆豪」
@@ -168,6 +163,12 @@
 20「死闘！ホワイト・ベース」
 宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニ…</desc>
 </programme>
+<programme start="20220320083000 +0900" stop="20220320093000 +0900" channel="ANIMAX.jp">
+  <title lang="en">SK∞ エスケーエイト</title>
+  <desc lang="en">3 PART「望まない勇者」
+4 PART「愛のマタドール、愛抱夢」
+スケートボードが大好きな高校二年生・暦(レキ)がハマっ…</desc>
+</programme>
 <programme start="20220318235000 +0900" stop="20220319011000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1  開幕戦 バーレーンGP 金曜フリー走行2</title>
 <desc>＜開催＞2022年3月18日（金）【生中継】
@@ -224,7 +225,7 @@ https//otn.fujitv.co.jp
 <desc>グループステージ 第1節 Aグループ「大分トリニータ vs 鹿島アントラーズ」
 ＜開催＞2022年3月15日【再放送】
 ＜解説＞高松大樹　＜実況＞能政夕介
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220319/7859345/image/5edd3e13d560be135e11062dc896a397.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220319090000 +0900" stop="20220319102000 +0900" channel="FujiNext.jp">
@@ -456,7 +457,7 @@ https//otn.fujitv.co.jp
 <title lang="en">パチンコLAB 〜10th season〜　18</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220319/7771435/image/882e979147a94411ac2580d838748f5d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220319090000 +0900" stop="20220319101500 +0900" channel="FujiOne.jp">
@@ -668,7 +669,7 @@ https//otn.fujitv.co.jp
 <title lang="en">花の鎖　　　中谷美紀、松下奈緒、戸田恵梨香トリプル主演のスペシャルドラマ</title>
 <desc>＜原作＞湊かなえ
 ＜出演＞中谷美紀　松下奈緒　戸田恵梨香　松坂桃李　要潤　筒井道隆　草笛光子　ほか　（地上波放送日　2013年9月17日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220319/7771544/image/8b168c8bf070f5aab06c43ee2a637cd2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220319090000 +0900" stop="20220319093000 +0900" channel="FujiTwo.jp">
@@ -1206,14 +1207,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220319073000 +0900" stop="20220319080000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">NHKニュース おはよう日本（関東甲信越）</title>
-    <desc lang="en">▽海水温上昇で異変！東京湾に南方のサンゴ　▽新開発ボタン素材は！？　【キャスター】新井秀和，川﨑理加ほか</desc>
-  </programme>
-  <programme start="20220319080000 +0900" stop="20220319081500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 カムカムエヴリバディ</title>
-    <desc lang="en">ひなた（川栄李奈）と弟の桃太郎（青木柚）が大げんかしていると、錠一郎（オダギリジョー）がトランペットを手にやってきます。二人は一体なんの冗談かと笑うのですが…</desc>
-  </programme>
   <programme start="20220319081500 +0900" stop="20220319090000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">チコちゃんに叱られる!</title>
     <desc lang="en">今回のチコちゃんの疑問は…ニンニクがスタミナの元なのはなぜ？店員さんが「いらっしゃいませ」というようになったのはなぜ？数字を３桁ごとにコンマで区切るのはなぜ？</desc>
@@ -1446,21 +1439,21 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">小さな旅</title>
     <desc lang="en">青森県下北半島にある尻屋は本州最北東の漁師町。寒立馬（かんだちめ）を世話しながら暮らす男性。漁師を目指す子どもたち。厳しい冬、互いを思いやり生きる人たちの物語。</desc>
   </programme>
-  <programme start="20220319074500 +0900" stop="20220319080900 +0900" channel="eTele.jp">
-    <title lang="en">おかあさんといっしょ</title>
-    <desc lang="en">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+  <programme start="20220320082500 +0900" stop="20220320085200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">サラメシ シーズン11</title>
+    <desc lang="en">宮城県気仙沼市にある着物の肌着などを作っている工房。震災から復興した工房の社員食堂を拝見！▼プロ野球の選手、監督として活躍した大島康徳の愛したフレンチとは</desc>
   </programme>
-  <programme start="20220319080900 +0900" stop="20220319081000 +0900" channel="eTele.jp">
-    <title lang="en">パッコロリン</title>
-    <desc lang="en">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+  <programme start="20220320085200 +0900" stop="20220320085700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Nスペ5min．</title>
+    <desc lang="en">ＮＨＫスペシャルの魅力を５分間に凝縮した「Ｎスペ５ｍｉｎ．」。今回は『被災した海　未来をどう築くか』のダイジェストをご紹介する。</desc>
   </programme>
-  <programme start="20220319081000 +0900" stop="20220319082500 +0900" channel="eTele.jp">
-    <title lang="en">ノージーのひらめき工房</title>
-    <desc lang="en">４〜５歳からの子どもたちにむけた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
+  <programme start="20220320085700 +0900" stop="20220320090000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220319082500 +0900" stop="20220319083500 +0900" channel="eTele.jp">
-    <title lang="en">ムジカ・ピッコリーノ</title>
-    <desc lang="en">音楽が失われた、ムジカムンド。そこではかつての名曲を閉じ込めたモンストロがさまよっていた。モンストロを治療して音楽の記憶を蘇えらせるムジカドクターたちの物語。</desc>
+  <programme start="20220320090000 +0900" stop="20220320100000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">日曜討論</title>
+    <desc lang="en">ウクライナ情勢を専門家が徹底分析▽ロシア軍の攻撃激化で市民の犠牲や避難民が増え続ける中で停戦協議は？国際社会そして日本はいま何をすべきか？危機打開のカギは何か？</desc>
   </programme>
   <programme start="20220319083500 +0900" stop="20220319090000 +0900" channel="eTele.jp">
     <title lang="en">おさるのジョージ シーズン7</title>
@@ -1662,9 +1655,21 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">趣味の園芸 やさいの時間</title>
     <desc lang="en">ヨーロッパ原産の別名・白ニンジン。加熱調理で甘みが格段にアップし、ソテー料理などで人気。日本では流通量の少ない、家庭菜園ならではのイチ押し野菜として紹介する。</desc>
   </programme>
-  <programme start="20220319053000 +0900" stop="20220319080000 +0900" channel="NipponTV.jp">
-    <title lang="en">ズームイン!!サタデー</title>
-    <desc lang="en">▽まん延防止解除へ▽映画KAPPEI伊藤英明＆上白石萌歌＆なにわ男子・西畑大吾裏話▽ヒロミ家族円満極意▽野田洋次郎▽動物赤ちゃん▽Ｇ選手が得意な意外科目</desc>
+  <programme start="20220320082500 +0900" stop="20220320083000 +0900" channel="eTele.jp">
+    <title lang="en">趣味の園芸 京も一日陽だまり屋</title>
+    <desc lang="en">翔太が恋焦がれる女性がお店にやってきた。コノハは花で思いを告げるよう、ボロニアを教える。甘い香りで、ベルのような形の花をたくさん咲かせるボロニア、よく見ると…。</desc>
+  </programme>
+  <programme start="20220320083000 +0900" stop="20220320085500 +0900" channel="eTele.jp">
+    <title lang="en">趣味の園芸</title>
+    <desc lang="en">シリーズ最終回は、氷川が水やりと土づくりについて学ぶ。「水やりは土が乾いたらたっぷり」の理由、古い土を再生しもう一度利用するノウハウなど、実験映像を交え伝える。</desc>
+  </programme>
+  <programme start="20220320085500 +0900" stop="20220320090000 +0900" channel="eTele.jp">
+    <title lang="en">365日の献立日記</title>
+    <desc lang="en">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+  </programme>
+  <programme start="20220320090000 +0900" stop="20220320100500 +0900" channel="eTele.jp">
+    <title lang="en">第94回選抜高校野球大会</title>
+    <desc lang="en">第１試合「広陵」対「敦賀気比」　【第１試合】解説…印出順彦，アナウンサー…杉岡英樹　〜甲子園球場から中継〜</desc>
   </programme>
   <programme start="20220319080000 +0900" stop="20220319092500 +0900" channel="NipponTV.jp">
     <title lang="en">ウェークアップ</title>
@@ -1800,10 +1805,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">シューイチ</title>
     <desc lang="en">ロシアとウクライナ…祖国の現状と心情語る▼内村光良長澤まさみ▼親友！パンサー向井×ジャングルポケ斉藤 話題“奥池袋”極上肉▼ハーゲンダッツ新作▼森山直太朗生歌唱</desc>
   </programme>
-<programme start="20220319060000 +0900" stop="20220319080000 +0900" channel="Asahi.jp">
-  <title lang="en">週刊ニュースリーダー</title>
-  <desc lang="en">「今週のニュース気になる人物１０」①『最新』ウクライナ情勢スタジオで専門家を交えて分析…空爆激化＆停戦交渉は？　②宮城・福島で震度６強</desc>
-</programme>
 <programme start="20220319080000 +0900" stop="20220319093000 +0900" channel="Asahi.jp">
   <title lang="en">朝だ!生です旅サラダ</title>
   <desc lang="en">19日から開催する「旅サラダＥＸＰＯ」の会場からお届け！番組初のイベントの模様を紹介▽福澤朗さん大阪駅から和歌山…本州最南端へ！卓球・伊藤美誠選手ゆかりの定食登場</desc>
@@ -1982,6 +1983,16 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">サンデーLIVE!!</title>
   <desc lang="en">キャスター・東山紀之が、日曜日の朝だからこそ知りたいニュースを厳選して伝えます。皆さまと一緒に、「もっと知りたい」に応える番組を目指します。</desc>
 </programme>
+<programme start="20220320083000 +0900" stop="20220320090000 +0900" channel="Asahi.jp">
+  <title lang="en">映画HUGっと!プリキュア ふたりはプリキュア オールスターズメモリーズ</title>
+  <desc lang="en">3/20（日）から3週にわたりプリキュアシリーズ15周年記念映画
+『映画ＨＵＧっと！プリキュア♥ふたりはプリキュア オールスターズメモリーズ』特別編集版を放送致します。</desc>
+</programme>
+<programme start="20220320090000 +0900" stop="20220320093000 +0900" channel="Asahi.jp">
+  <title lang="en">仮面ライダーリバイス</title>
+  <desc lang="en">≪仮面ライダーシリーズ生誕５０周年記念作品≫
+しあわせ湯の長男・五十嵐一輝は、体内に住む悪魔・バイスと契約して二人の仮面ライダーに変身！リバイとバイスの大冒険！</desc>
+</programme>
 <programme start="20220319073000 +0900" stop="20220319093000 +0900" channel="TBS2.jp">
   <title lang="en">サタデープラス</title>
   <desc lang="en">清水麻椰ひたすら試してみかん缶詰▼ますおか岡田潜入建築家の超細長い家▼野々村友紀子洗濯力アップデート▼業務スーパーマニア推薦⑩▼おいでやす小田思わずつっこむ映像</desc>
@@ -2102,14 +2113,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220320080000 +0900" stop="20220320095400 +0900" channel="TBS2.jp">
   <title lang="en">サンデーモーニング</title>
   <desc lang="en">◎世界と日本の出来事を掘り下げるカバーストーリー◎スポーツ御意見番「喝＆あっぱれ」◎関口宏の「一週間」ニュース◎時代と社会の断面を切り取るコーナー「風をよむ」(他)</desc>
-</programme>
-<programme start="20220319073000 +0900" stop="20220319080000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ファンファンキティ!</title>
-  <desc lang="en">ハローキティと学べるキッズバラエティ！親子で楽しめる内容が盛りだくさん！歌、ダンス、体操、世界名作「星の銀貨」、学びのコーナー「あいさつ」など。</desc>
-</programme>
-<programme start="20220319080000 +0900" stop="20220319083000 +0900" channel="TVTokyo.jp">
-  <title lang="en">ハナコ書店〜マンガの何でもバラエティ〜</title>
-  <desc lang="en">▽先輩店員？タイムマシーン３号・関太のマンガトークが止まらない！▽人生のバイブルになったマンガとは？▽関がハナコの３人それぞれにおすすめ作品をプレゼン！</desc>
 </programme>
 <programme start="20220319083000 +0900" stop="20220319090000 +0900" channel="TVTokyo.jp">
   <title lang="en">しまじろうのわお!</title>
@@ -2293,9 +2296,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">ポケモンの家あつまる?</title>
   <desc lang="en">あばれる君×小池ニャース×サンシャイン池崎のパワフルボイスなメンバーで交換旅！身長１８１ｃｍキョダイマックス小学生の悩みとは？カレーライスマラソンって何？</desc>
 </programme>
-<programme start="20220319060000 +0900" stop="20220319083000 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましどようび</title>
-  <desc lang="en">米中協議で事態打開は▽降伏呼びかけ偽動画も▽負傷兵語る空爆の瞬間▽復旧は？給水に行列▽春の便り…桜開花は▽ジェシー折れない心▽激ウマ！ご飯のお供</desc>
+<programme start="20220320083000 +0900" stop="20220320090000 +0900" channel="TVTokyo.jp">
+  <title lang="en">デュエル・マスターズ キング!</title>
+  <desc lang="en">暴走が止まらないジェンドルは、ジョーの存在を歴史から消し去ろうとする。そこでデッキーが考えついた秘策とは！？ジョーはジェンドルの野望を止めることができるのか。</desc>
+</programme>
+<programme start="20220320090000 +0900" stop="20220320093000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ビッ友×戦士 キラメキパワーズ!</title>
+  <desc lang="en">大冒険をゲームスタート！ゲームの世界から人間界にきた悪の「マックラ帝国」と戦い、世界の闇を！キラッキラにきらめかせる！
+ガールズ×戦士シリーズ記念すべき第5弾！</desc>
 </programme>
 <programme start="20220319083000 +0900" stop="20220319095500 +0900" channel="FujiTV.jp">
   <title lang="en">土曜はナニする!?</title>
@@ -2448,17 +2456,13 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">日曜報道 THE PRIME</title>
   <desc lang="en">今動いているニュースの「当事者」と、橋下徹がスタジオ生議論！「当事者の考え」が分かる！「日本の行方」が分かる！「ｄボタン」投票で番組に参加も！</desc>
 </programme>
-<programme start="20220319073000 +0900" stop="20220319080000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220320085500 +0900" stop="20220320090000 +0900" channel="FujiTV.jp">
+  <title lang="en">千葉の贈り物〜まごころ配達人〜</title>
+  <desc lang="en">心のこもった“まごころ”で、全国から訪れる方々を迎えたい…そんな思いを込めて、千葉県のスポットとその魅力を支える人たちを紹介します。</desc>
 </programme>
-<programme start="20220319080000 +0900" stop="20220319083000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220319083000 +0900" stop="20220319084500 +0900" channel="Tokyo MX">
-  <title lang="en">絶品!産直グルメの旅</title>
-  <desc lang="en">港で朝市めぐり＆産地で新鮮野菜を満喫</desc>
+<programme start="20220320090000 +0900" stop="20220320093000 +0900" channel="FujiTV.jp">
+  <title lang="en">デジモンゴーストゲーム</title>
+  <desc lang="en">《デジモンゴーストゲームセレクション》ＳＮＳで“ホログラムゴースト”と呼ばれる怪奇現象の噂。「口縫い男」の話を聞いた宙は確かめに現場に向かうが…。</desc>
 </programme>
 <programme start="20220319084500 +0900" stop="20220319090000 +0900" channel="Tokyo MX">
   <title lang="en">比叡の光</title>
@@ -2668,6 +2672,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">スーパーブック</title>
   <desc lang="en">クリス、ジョイ、そしてロボットのロビックが聖書の世界にタイムスリップ。創世期から黙示録まで、聖書の壮大なストーリーを、あなたも一緒に冒険しませんか。</desc>
 </programme>
+<programme start="20220320083000 +0900" stop="20220320090000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220320090000 +0900" stop="20220320093000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220318235000 +0900" stop="20220319011000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1  開幕戦 バーレーンGP 金曜フリー走行2</title>
 <desc>＜開催＞2022年3月18日（金）【生中継】
@@ -2724,7 +2736,7 @@ https//otn.fujitv.co.jp
 <desc>グループステージ 第1節 Aグループ「大分トリニータ vs 鹿島アントラーズ」
 ＜開催＞2022年3月15日【再放送】
 ＜解説＞高松大樹　＜実況＞能政夕介
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220319/7859345/image/5edd3e13d560be135e11062dc896a397.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220319090000 +0900" stop="20220319102000 +0900" channel="FujiNext.jp">
@@ -2956,7 +2968,7 @@ https//otn.fujitv.co.jp
 <title lang="en">パチンコLAB 〜10th season〜　18</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220319/7771435/image/882e979147a94411ac2580d838748f5d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220319090000 +0900" stop="20220319101500 +0900" channel="FujiOne.jp">
@@ -3168,7 +3180,7 @@ https//otn.fujitv.co.jp
 <title lang="en">花の鎖　　　中谷美紀、松下奈緒、戸田恵梨香トリプル主演のスペシャルドラマ</title>
 <desc>＜原作＞湊かなえ
 ＜出演＞中谷美紀　松下奈緒　戸田恵梨香　松坂桃李　要潤　筒井道隆　草笛光子　ほか　（地上波放送日　2013年9月17日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220319/7771544/image/8b168c8bf070f5aab06c43ee2a637cd2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220319090000 +0900" stop="20220319093000 +0900" channel="FujiTwo.jp">
