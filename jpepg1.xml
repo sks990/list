@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220322040000 +0900" stop="20220322050000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ちびまる子ちゃん</title>
-  <desc lang="en">19「おかあさんの日」
-もうすぐ母の日。お母さんに感謝の気持ちをこめてプレゼントをしたいと思うまる子なのだが、貯…</desc>
-</programme>
 <programme start="20220322050000 +0900" stop="20220322060000 +0900" channel="ANIMAX.jp">
   <title lang="en">群れなせ!シートン学園</title>
   <desc lang="en">11「絶滅種と原始的謀略」
@@ -225,6 +220,11 @@
   <title lang="en">どろろ</title>
   <desc lang="en">1「醍醐の巻」2「万代の巻」
 時は戦国。醍醐の国の主である景光は、ある寺のお堂で12体の鬼神像に領土の繁栄を願い…</desc>
+</programme>
+<programme start="20220323060000 +0900" stop="20220323063000 +0900" channel="ANIMAX.jp">
+  <title lang="en">神様家族</title>
+  <desc lang="en">11「真夜中の少女」
+神様一家の長男、神山佐間太郎は、世田谷にある築25年の一軒家で、神様である父親、女神様の母親…</desc>
 </programme>
 <programme start="20220321211000 +0900" stop="20220322005000 +0900" channel="FujiNext.jp">
 <title lang="en">2022 FORMULA 1  開幕戦 バーレーンGP 決勝</title>
@@ -400,7 +400,7 @@ https//otn.fujitv.co.jp
 <programme start="20220322054000 +0900" stop="20220322060000 +0900" channel="FujiOne.jp">
 <title lang="en">ラーメンWalker TV2　307　栃木県佐野市「麺屋ようすけ」</title>
 <desc>青竹手打ちの佐野ラーメンを牽引する大行列店！ 栃木県佐野市「麺屋ようすけ」in ラーメンWalkerキッチン　＜出演＞田中貴（サニーデイ・サービス）　伊藤かりん
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7818131/image/304fb36cc3a54aa4af5de6fa1f7ab511.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220322060000 +0900" stop="20220322070000 +0900" channel="FujiOne.jp">
@@ -625,7 +625,7 @@ https//otn.fujitv.co.jp
 <programme start="20220322053000 +0900" stop="20220322060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7818306/image/3b4a8f2577efc614f09333243ee9efa3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220322060000 +0900" stop="20220322071000 +0900" channel="FujiTwo.jp">
@@ -873,7 +873,7 @@ https//otn.fujitv.co.jp
 <programme start="20220322050000 +0900" stop="20220322060000 +0900" channel="kbsworld.jp">
 <title lang="en">クイズバラエティ〜屋根部屋の問題児たち [字][再]</title>
 <desc>日本初放送！芸能人たちが様々なジャンルのクイズ10問に正解するまで部屋から出られない韓国　最新バラエティ！2018年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7781350/image/70425d5e55b1d27639a92a0ee1185327.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220322060000 +0900" stop="20220322070000 +0900" channel="kbsworld.jp">
@@ -1261,10 +1261,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220322045000 +0900" stop="20220322050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">東京電力・福島第一原発事故から１１年。現場では作業が続くが、溶け落ちた堆積物の取り出しは準備段階のまま。処理水の海洋放出も先行きも不透明だ。廃炉の行方を考える。</desc>
-  </programme>
   <programme start="20220322050000 +0900" stop="20220322060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">【節電を】東京電力管内で需要増の見通し【コロナ】重点措置解除で社会経済活動は【長崎】劇団生の門出　舞台人の夢を追って【北海道】雪や氷の景色を歩いて楽しむツアー</desc>
@@ -1461,13 +1457,9 @@ https//otn.fujitv.co.jp
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
-  <programme start="20220322030000 +0900" stop="20220322053000 +0900" channel="eTele.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220322053000 +0900" stop="20220322055500 +0900" channel="eTele.jp">
-    <title lang="en">ロシアゴスキー</title>
-    <desc lang="en">サンクトペテルブルク周辺の風景や文化に触れながら実践的なロシア語を覚えましょう。</desc>
+  <programme start="20220323060000 +0900" stop="20220323063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】朝一番のアップデート「おはよう日本」！最新のニュースをコンパクトに！気になる天気。スポーツ。イラストで時事解説。地域トピックスほか</desc>
   </programme>
   <programme start="20220322055500 +0900" stop="20220322060000 +0900" channel="eTele.jp">
     <title lang="en">楽ラクワンポイント介護</title>
@@ -1801,9 +1793,17 @@ https//otn.fujitv.co.jp
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220322043000 +0900" stop="20220322055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽軍事侵攻からまもなく１か月「停戦協議」難航▽国内外で避難１０００万人▽１都８県に「電力需給ひっ迫警報」</desc>
+  <programme start="20220323053000 +0900" stop="20220323055500 +0900" channel="eTele.jp">
+    <title lang="en">100分de名著</title>
+    <desc lang="en">妻と一緒にかわいがっていた一匹の黒猫。アルコールの痛飲によって精神をむしばまれた男は、その猫を虐待し発作的に殺してしまう。しかし、そこから不気味な事件が展開する</desc>
+  </programme>
+  <programme start="20220323055500 +0900" stop="20220323060000 +0900" channel="eTele.jp">
+    <title lang="en">浮世絵EDO-LIFE</title>
+    <desc lang="en">浮世絵の世界をのぞいてみれば江戸のリアルな暮らしが見えてくる！花見の名所、隅田川。その川の土手に、まるでめりこんでいるような短い鳥居を発見！これは一体何！？</desc>
+  </programme>
+  <programme start="20220323060000 +0900" stop="20220323062500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのイタリア語</title>
+    <desc lang="en">旅に役立つイタリア語を楽しく学べる講座。今シリーズは、さらに使える「応用編」。もちろん初心者にもわかりやすくお伝えします。</desc>
   </programme>
   <programme start="20220322055000 +0900" stop="20220322080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -1897,6 +1897,10 @@ https//otn.fujitv.co.jp
   <programme start="20220323043000 +0900" stop="20220323055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
+  <programme start="20220323055000 +0900" stop="20220323080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ZIP!</title>
+    <desc lang="en">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
   </programme>
 <programme start="20220322045500 +0900" stop="20220322080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -2016,10 +2020,6 @@ by.Pascale Borel</desc>
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
-<programme start="20220322043000 +0900" stop="20220322052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">気兼ねなく食べられて美味しく満足！ヘルシー麺特集▼中国旅客機墜落…乗客乗員１３２人安否不明▼速報！大谷OP戦初登板▼ゼレンスキー氏“交渉失敗は第３次世界大戦”</desc>
-</programme>
 <programme start="20220322052000 +0900" stop="20220322080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
   <desc lang="en">▼停戦交渉失敗なら「第三次世界大戦」▼東京でも雪のおそれ▼「まん延防止」全面解除▼速報！大谷翔平ＯＰ戦初登板▼東京ガールズコレクション・乃木坂46裏側取材</desc>
@@ -2096,12 +2096,9 @@ by.Pascale Borel</desc>
   <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
 ニュースも天気も充実</desc>
 </programme>
-<programme start="20220322042300 +0900" stop="20220322054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20220323052000 +0900" stop="20220323080000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME,</title>
+  <desc lang="en">安住紳一郎と香川照之のＷ司会で、明るく楽しく丁寧に、そして正直にお伝えします！</desc>
 </programme>
 <programme start="20220322054500 +0900" stop="20220322070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -2255,9 +2252,9 @@ by.Pascale Borel</desc>
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20220322045500 +0900" stop="20220322052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20220323054500 +0900" stop="20220323070500 +0900" channel="TVTokyo.jp">
+  <title lang="en">モーサテ</title>
+  <desc lang="en">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
 </programme>
 <programme start="20220322052500 +0900" stop="20220322080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -2353,13 +2350,9 @@ by.Pascale Borel</desc>
   <title lang="en">めざましテレビ全部見せ</title>
   <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
-<programme start="20220322043500 +0900" stop="20220322050000 +0900" channel="Tokyo MX">
-  <title lang="en">洋上の楽園クルーズ</title>
-  <desc lang="en">「文明の十字路　歴史とグルメの東地中海クルーズ」</desc>
-</programme>
-<programme start="20220322050000 +0900" stop="20220322053000 +0900" channel="Tokyo MX">
-  <title lang="en">ロンブー亮の釣りならまかせろ!</title>
-  <desc lang="en">アジ釣りならまかせろ！〜ルアー編〜挑戦！バチコンゲーム！</desc>
+<programme start="20220323052500 +0900" stop="20220323080000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ</title>
+  <desc lang="en">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調＆イノ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
 </programme>
 <programme start="20220322053000 +0900" stop="20220322060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2553,6 +2546,14 @@ by.Pascale Borel</desc>
   <title lang="en">旅猫ロマン</title>
   <desc lang="en">猫がもてなす農家民宿</desc>
 </programme>
+<programme start="20220323053000 +0900" stop="20220323060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220323060000 +0900" stop="20220323070000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+</programme>
 <programme start="20220321211000 +0900" stop="20220322005000 +0900" channel="FujiNext.jp">
 <title lang="en">2022 FORMULA 1  開幕戦 バーレーンGP 決勝</title>
 <desc>＜開催＞2022年3月20日（日）【再放送】
@@ -2727,7 +2728,7 @@ https//otn.fujitv.co.jp
 <programme start="20220322054000 +0900" stop="20220322060000 +0900" channel="FujiOne.jp">
 <title lang="en">ラーメンWalker TV2　307　栃木県佐野市「麺屋ようすけ」</title>
 <desc>青竹手打ちの佐野ラーメンを牽引する大行列店！ 栃木県佐野市「麺屋ようすけ」in ラーメンWalkerキッチン　＜出演＞田中貴（サニーデイ・サービス）　伊藤かりん
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7818131/image/304fb36cc3a54aa4af5de6fa1f7ab511.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220322060000 +0900" stop="20220322070000 +0900" channel="FujiOne.jp">
@@ -2952,7 +2953,7 @@ https//otn.fujitv.co.jp
 <programme start="20220322053000 +0900" stop="20220322060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7818306/image/3b4a8f2577efc614f09333243ee9efa3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220322060000 +0900" stop="20220322071000 +0900" channel="FujiTwo.jp">
@@ -3200,7 +3201,7 @@ https//otn.fujitv.co.jp
 <programme start="20220322050000 +0900" stop="20220322060000 +0900" channel="kbsworld.jp">
 <title lang="en">クイズバラエティ〜屋根部屋の問題児たち [字][再]</title>
 <desc>日本初放送！芸能人たちが様々なジャンルのクイズ10問に正解するまで部屋から出られない韓国　最新バラエティ！2018年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7781350/image/70425d5e55b1d27639a92a0ee1185327.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220322060000 +0900" stop="20220322070000 +0900" channel="kbsworld.jp">
