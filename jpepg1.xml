@@ -63,11 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220323033000 +0900" stop="20220323040000 +0900" channel="ANIMAX.jp">
-  <title lang="en">神様家族</title>
-  <desc lang="en">11「真夜中の少女」
-神様一家の長男、神山佐間太郎は、世田谷にある築25年の一軒家で、神様である父親、女神様の母親…</desc>
-</programme>
 <programme start="20220323040000 +0900" stop="20220323050000 +0900" channel="ANIMAX.jp">
   <title lang="en">頭文字[イニシャル]D</title>
   <desc lang="en">13「イツキの初デート」
@@ -224,6 +219,11 @@
   <desc lang="en">15「拓海・怒涛の激走！」
 16「碓氷峠のエンジェル」
 家業の豆腐屋を手伝うために地元・秋名山を走り込み、知らず知…</desc>
+</programme>
+<programme start="20220324050000 +0900" stop="20220324060000 +0900" channel="ANIMAX.jp">
+  <title lang="en">どろろ</title>
+  <desc lang="en">3「寿海の巻」4「妖刀の巻」
+時は戦国。醍醐の国の主である景光は、ある寺のお堂で12体の鬼神像に領土の繁栄を願い…</desc>
 </programme>
 <programme start="20220322224000 +0900" stop="20220323054500 +0900" channel="FujiNext.jp">
 <title lang="en">2021-22 Vリーグ DIVISION 1　女子 デンソー×久光　ほか</title>
@@ -401,7 +401,7 @@ https//otn.fujitv.co.jp
 <desc>〜熱波乃章壱〜
 「甲冑島津義弘」「美女RaMu」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7818154/image/646e9aa9513154c1862d837ba5f7fc01.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323050000 +0900" stop="20220323053000 +0900" channel="FujiOne.jp">
@@ -957,7 +957,7 @@ https//otn.fujitv.co.jp
 <programme start="20220323042000 +0900" stop="20220323050000 +0900" channel="kbsworld.jp">
 <title lang="en">コミックミステリー 猫は見た　33　[字]</title>
 <desc>猫を通じて出会った2人の男女が、忘れかけていた夢を取り戻し、家族の大切さに気付いていく過程を描いた心温まるホームドラマ！2014年 全119話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7781374/image/827c00dc012f7798bbf1766fbdbb523b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323050000 +0900" stop="20220323060000 +0900" channel="kbsworld.jp">
@@ -1361,26 +1361,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220323033700 +0900" stop="20220323040500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ダーウィンが来た!</title>
-    <desc lang="en">ぽっちゃりモフモフのマヌルネコ。地面にだらりと寝そべる天敵対策や、しっぽを振って獲物のネズミをフリーズさせる狩りなど超個性的なワザを目撃！まんまるネコの新伝説。</desc>
-  </programme>
-  <programme start="20220323040500 +0900" stop="20220323043200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">大相撲(2022年)</title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220323043200 +0900" stop="20220323043500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en">４月から傑作時代劇の再放送がスタート！ＢＳＰ日曜午前６時４５分「おんな太閤記」、総合水曜午後３時１０分「慶次郎縁側日記」、総合日曜午前６時１０分「雲霧仁左衛門」</desc>
-  </programme>
-  <programme start="20220323043500 +0900" stop="20220323044000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ごっつぉさま」うた須貝智郎／「超変身！ミネラルフォーマーズ」うた鬼龍院翔ｆｒｏｍゴールデンボンバー</desc>
-  </programme>
-  <programme start="20220323044000 +0900" stop="20220323045000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「思うは招く」植松努（ロケット開発者）</desc>
-  </programme>
   <programme start="20220323045000 +0900" stop="20220323050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">時論公論</title>
     <desc lang="en">大規模停電を回避しようと２２日、東日本の全域に出された「電力需給ひっ迫警報」。何が起きていたのか、そして電力危機を避けるために何が必要なのか、考える。</desc>
@@ -1552,6 +1532,30 @@ https//otn.fujitv.co.jp
   <programme start="20220324034200 +0900" stop="20220324040500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en">富山湾は日本有数の天然の寒ブリの漁場。脂がのった“大トロ”はお刺身に！元料理人が作る寒ブリの塩ユッケやブリラーメンも絶品！とっておきのご当地メシをいただきます！</desc>
+  </programme>
+  <programme start="20220324040500 +0900" stop="20220324043200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">大相撲(2022年)</title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220324043200 +0900" stop="20220324043500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">明日へ1min．「みちのくモノがたり」</title>
+    <desc lang="en">東北のモノ作りを伝える「みちのくモノがたり」▽福島市の盆栽屋三代目・阿部大樹▽目指すは吾妻山の景色が思い浮かぶ作品▽初代・倉吉が残した教え“空間有美”とは？</desc>
+  </programme>
+  <programme start="20220324043500 +0900" stop="20220324044000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「ヤミヤミ」うたやくしまるえつこ／「１００年時代」うた大木ハルミ</desc>
+  </programme>
+  <programme start="20220324044000 +0900" stop="20220324045000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">視点・論点</title>
+    <desc lang="en">「なぜ坂を上るのか」猪野学（俳優・サイクリスト）</desc>
+  </programme>
+  <programme start="20220324045000 +0900" stop="20220324050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">時論公論</title>
+    <desc lang="en">新型コロナの第６波がピークを越え、まん延防止等重点措置が２１日の期限で解除された。政府が示した方針を詳しく分析し、感染の再拡大を防ぐための対策と課題を考える。</desc>
+  </programme>
+  <programme start="20220324050000 +0900" stop="20220324060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">朝一番のアップデート「おはよう日本」！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20220323034600 +0900" stop="20220323053000 +0900" channel="eTele.jp">
     <title lang="en"></title>
@@ -1913,22 +1917,6 @@ https//otn.fujitv.co.jp
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220323023000 +0900" stop="20220323041500 +0900" channel="NipponTV.jp">
-    <title lang="en">金田一少年の事件簿</title>
-    <desc lang="en">4月の「金田一少年の事件簿」放送を記念して、歴代傑作が登場！</desc>
-  </programme>
-  <programme start="20220323041500 +0900" stop="20220323042000 +0900" channel="NipponTV.jp">
-    <title lang="en">ボテロ展 ふくよかな魔法編</title>
-    <desc lang="en">あらゆるものをふくよかに表現する、コロンビアの巨匠、フェルナンド・ボテロ。《モナ・リザの横顔》の世界初公開など、4月開幕の「ボテロ展」を楽しむ5分間。</desc>
-  </programme>
-  <programme start="20220323042000 +0900" stop="20220323042500 +0900" channel="NipponTV.jp">
-    <title lang="en">5分で分かる「鹿の王」</title>
-    <desc lang="en">『もののけ姫』『千と千尋の神隠し』『君の名は。』の作画監督を担った安藤雅司初監督作品！堤真一・竹内涼真・杏もボイスキャストとして参加した話題作の魅力に迫ります！</desc>
-  </programme>
-  <programme start="20220323042500 +0900" stop="20220323043000 +0900" channel="NipponTV.jp">
-    <title lang="en">ボストン美術館展2022</title>
-    <desc lang="en">今年7月に開幕するボストン美術館展の見どころを現地で撮影した映像を交え、たっぷり紹介。約10年ぶりをの里帰りを果たす「幻の国宝」もじっくり解説します。</desc>
-  </programme>
   <programme start="20220323043000 +0900" stop="20220323055000 +0900" channel="NipponTV.jp">
     <title lang="en">Oha!4 NEWS LIVE</title>
     <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽大規模停電は「回避」も・・・節電呼びかけ継続▽ゼレンスキー大統領きょう国会演説▽東京の新規感染者は３５３３人</desc>
@@ -2021,14 +2009,14 @@ https//otn.fujitv.co.jp
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">いよいよ年度末！ポシュレは大決算スペシャル！！ポシュレ人気商品が最安値、送料無料、増量などなど決算ならではのお得情報満載！お見逃しなく！！</desc>
   </programme>
-<programme start="20220323033000 +0900" stop="20220323040000 +0900" channel="Asahi.jp">
-  <title lang="en"></title>
-  <desc lang="en">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
-</programme>
-<programme start="20220323040000 +0900" stop="20220323045500 +0900" channel="Asahi.jp">
-  <title lang="en">暴れん坊将軍IX</title>
-  <desc lang="en">「さざんかの誓い・再会した兄は別人⁉」松平健(他)▽浄光院の青年僧・聖天による悪霊祓いが、霊験あらたかだと江戸の町で評判を呼んでいたが、吉宗には一抹の不安が残り…</desc>
-</programme>
+  <programme start="20220324042500 +0900" stop="20220324043000 +0900" channel="NipponTV.jp">
+    <title lang="en">ボテロ展 ふくよかな魔法編</title>
+    <desc lang="en">あらゆるものをふくよかに表現する、コロンビアの巨匠、フェルナンド・ボテロ。《モナ・リザの横顔》の世界初公開など、4月開幕の「ボテロ展」を楽しむ５分間。</desc>
+  </programme>
+  <programme start="20220324043000 +0900" stop="20220324055000 +0900" channel="NipponTV.jp">
+    <title lang="en">Oha!4 NEWS LIVE</title>
+    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+  </programme>
 <programme start="20220323045500 +0900" stop="20220323080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
   <desc lang="en">領土問題は国民投票で▽ゼレンスキー大統領きょう注目の国会演説▽ノーベル賞売却支援▽国営テレビ女性語る▽都心で雪…今朝極寒▽５０００円給付にあきれ(他)</desc>
@@ -2151,9 +2139,9 @@ https//otn.fujitv.co.jp
   <title lang="en">暴れん坊将軍IX</title>
   <desc lang="en">「涙の上州路・誉れの仇討ち」松平健(他)▽ヤクザ風の男たちが若い娘をいたぶっているのを目撃し、止めに入る吉宗。遊女にするため女衒から買った女だと言う男たちに吉宗は…</desc>
 </programme>
-<programme start="20220323034500 +0900" stop="20220323043000 +0900" channel="TBS2.jp">
-  <title lang="en">TBS NEWS</title>
-  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+<programme start="20220324045500 +0900" stop="20220324080000 +0900" channel="Asahi.jp">
+  <title lang="en">グッド!モーニング</title>
+  <desc lang="en">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
 </programme>
 <programme start="20220323043000 +0900" stop="20220323052000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME’</title>
@@ -2236,9 +2224,20 @@ https//otn.fujitv.co.jp
   <title lang="en">世界陸上 THE BEST</title>
   <desc lang="en">▽世界の超人がナンバーワンを目指す陸上最高峰の舞台『世界陸上』▽今宵は１５年の北京大会をプレイバック▽４７個の金メダル全部見せます！</desc>
 </programme>
-<programme start="20220323040000 +0900" stop="20220323042300 +0900" channel="TVTokyo.jp">
+<programme start="20220324041000 +0900" stop="20220324042000 +0900" channel="TBS2.jp">
   <title lang="en"></title>
-  <desc lang="en"></desc>
+  <desc lang="en">昨年アジア人初のマスターズ制覇を成し遂げた松山英樹。
+史上４人目のマスターズ連覇を目指す松山に独占インタビュー！
+連覇のカギとは！？</desc>
+</programme>
+<programme start="20220324042000 +0900" stop="20220324043000 +0900" channel="TBS2.jp">
+  <title lang="en">TBS NEWS</title>
+  <desc lang="en">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+</programme>
+<programme start="20220324043000 +0900" stop="20220324052000 +0900" channel="TBS2.jp">
+  <title lang="en">THE TIME’</title>
+  <desc lang="en">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
 </programme>
 <programme start="20220323042300 +0900" stop="20220323054500 +0900" channel="TVTokyo.jp">
   <title lang="en">ものスタ</title>
@@ -2376,17 +2375,16 @@ https//otn.fujitv.co.jp
   <title lang="en">ミュージックブレイク〜iの流儀〜</title>
   <desc lang="en">アイドル専門情報番組〜iの流儀〜。ゲストを迎え、近況等、本音ガールズトークを展開！様々なテーマを通し各々のアイドルとしてのスタイル＝流儀をファイルしていきます。</desc>
 </programme>
-<programme start="20220324035500 +0900" stop="20220324040000 +0900" channel="TVTokyo.jp">
+<programme start="20220324035500 +0900" stop="20220324042300 +0900" channel="TVTokyo.jp">
   <title lang="en"></title>
   <desc lang="en"></desc>
 </programme>
-<programme start="20220323030000 +0900" stop="20220323040000 +0900" channel="FujiTV.jp">
-  <title lang="en">1031首里城の消防士たち〜いま明かされる火災の真実〜</title>
-  <desc lang="en">２０２０年１０月３１日に沖縄テレビで放送した「１０３１首里城の消防士たち」。その後、新たな映像を入手し再編集版として、あの「一日」を振り返る。</desc>
-</programme>
-<programme start="20220323040000 +0900" stop="20220323045500 +0900" channel="FujiTV.jp">
-  <title lang="en">クイズ!脳ベルSHOW</title>
-  <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
+<programme start="20220324042300 +0900" stop="20220324054500 +0900" channel="TVTokyo.jp">
+  <title lang="en">ものスタ</title>
+  <desc lang="en">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
 <programme start="20220323045500 +0900" stop="20220323052500 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ全部見せ</title>
@@ -2474,13 +2472,9 @@ https//otn.fujitv.co.jp
   <title lang="en">クイズ!脳ベルSHOW</title>
   <desc lang="en">衰えていく脳に警鐘を鳴らす、脳活性化バラエティ「クイズ！脳ベルＳＨＯＷ」。あなたも月〜金曜“早朝脳トレ”の習慣化でより健やかな毎日と認知症予防へ！</desc>
 </programme>
-<programme start="20220323033500 +0900" stop="20220323040000 +0900" channel="Tokyo MX">
-  <title lang="en">ごりやくさん</title>
-  <desc lang="en">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４Ｋ撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
-</programme>
-<programme start="20220323040000 +0900" stop="20220323043000 +0900" channel="Tokyo MX">
-  <title lang="en">MUSIC B.B.</title>
-  <desc lang="en">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+<programme start="20220324045500 +0900" stop="20220324052500 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましテレビ全部見せ</title>
+  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
 </programme>
 <programme start="20220323043000 +0900" stop="20220323050000 +0900" channel="Tokyo MX">
   <title lang="en">うたなび!</title>
@@ -2649,6 +2643,14 @@ https//otn.fujitv.co.jp
 <programme start="20220324040000 +0900" stop="20220324043000 +0900" channel="Tokyo MX">
   <title lang="en">CM INDEX</title>
   <desc lang="en">ヒットＣＭ情報３０分！「月例ＣＭ好感度調査」をもとに、最新のヒットＣＭや話題のＣＭを紹介。</desc>
+</programme>
+<programme start="20220324043000 +0900" stop="20220324050000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220324050000 +0900" stop="20220324053000 +0900" channel="Tokyo MX">
+  <title lang="en">LOVE HOKKAIDO</title>
+  <desc lang="en">札幌在住プロフェッショナル“特殊造形師”のもとへ！怪しいナマズにゾウガメetc.本物のようなリアルな造作物が多数！ユリエが“獣”に変身⁉リチャン・コピーが誕生（笑）</desc>
 </programme>
 <programme start="20220322224000 +0900" stop="20220323054500 +0900" channel="FujiNext.jp">
 <title lang="en">2021-22 Vリーグ DIVISION 1　女子 デンソー×久光　ほか</title>
@@ -2826,7 +2828,7 @@ https//otn.fujitv.co.jp
 <desc>〜熱波乃章壱〜
 「甲冑島津義弘」「美女RaMu」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7818154/image/646e9aa9513154c1862d837ba5f7fc01.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323050000 +0900" stop="20220323053000 +0900" channel="FujiOne.jp">
@@ -3382,7 +3384,7 @@ https//otn.fujitv.co.jp
 <programme start="20220323042000 +0900" stop="20220323050000 +0900" channel="kbsworld.jp">
 <title lang="en">コミックミステリー 猫は見た　33　[字]</title>
 <desc>猫を通じて出会った2人の男女が、忘れかけていた夢を取り戻し、家族の大切さに気付いていく過程を描いた心温まるホームドラマ！2014年 全119話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220322/7781374/image/827c00dc012f7798bbf1766fbdbb523b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323050000 +0900" stop="20220323060000 +0900" channel="kbsworld.jp">
