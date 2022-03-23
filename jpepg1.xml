@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220323200000 +0900" stop="20220323210000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ラブライブ!サンシャイン!!</title>
-  <desc lang="en">1「輝きたい!!」
-2「転校生をつかまえろ！」
-沼津市の海辺の町、内浦にある私立浦の星女学院。駿河湾のかたすみにあ…</desc>
-</programme>
 <programme start="20220323210000 +0900" stop="20220323220000 +0900" channel="ANIMAX.jp">
   <title lang="en">斉木楠雄のΨ難</title>
   <desc lang="en">第7χ「ちいΨ王様君臨/はしゃげ!Ψレントナイト/うるΨお正月(前編)/うるΨお正月(中編)/うるΨお正月(後編)」
@@ -223,6 +217,13 @@
 <programme start="20220324210000 +0900" stop="20220324220000 +0900" channel="ANIMAX.jp">
   <title lang="en">斉木楠雄のΨ難</title>
   <desc lang="en">第9χ「スーパースターΨ登場！/Ψを振れ！波乱の期末テスト/今度こそΨ会！蝶野雨緑（前後編)/目良さんのおΨ布事情…</desc>
+</programme>
+<programme start="20220324220000 +0900" stop="20220324230000 +0900" channel="ANIMAX.jp">
+  <title lang="en">ジョジョの奇妙な冒険 スターダストクルセイダース</title>
+  <desc lang="en">〜スターダストクルセイダース〜
+7「力（ストレングス）」
+8「悪魔（デビル）」
+時は1987年、ジョセフ・ジョースタ…</desc>
 </programme>
 <programme start="20220322224000 +0900" stop="20220323054500 +0900" channel="FujiNext.jp">
 <title lang="en">2021-22 Vリーグ DIVISION 1　女子 デンソー×久光　ほか</title>
@@ -579,7 +580,7 @@ https//otn.fujitv.co.jp
 <title lang="en">フィギュアスケート傑作選 あの時、キミは… 2022 edition　16</title>
 <desc>「坂本花織」
 五輪シーズンスペシャル版として、北京冬季五輪日本代表選手の過去の名演技をピックアップ！フィギュアスケートファン必見！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220323/7818178/image/16b8e39ed2f90eb2e6e945b937c6de5e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323220000 +0900" stop="20220323230000 +0900" channel="FujiOne.jp">
@@ -856,7 +857,7 @@ https//otn.fujitv.co.jp
 <title lang="en">めざましライブ　8「山崎育三郎」</title>
 <desc>＜出演＞山崎育三郎
 ▽史上初のバーチャル空間で開催された、フジテレビ毎年恒例の「めざましライブ」をお届け！未公開オフショットも！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220323/7818358/image/fb8f329d5c83ed713dec67e2a5c55302.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323220000 +0900" stop="20220323225000 +0900" channel="FujiTwo.jp">
@@ -1058,7 +1059,7 @@ https//otn.fujitv.co.jp
 <programme start="20220323210000 +0900" stop="20220323220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220323/7781391/image/f1e049aeb02dce912087838ac293e0d5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323220000 +0900" stop="20220323232000 +0900" channel="kbsworld.jp">
@@ -1360,10 +1361,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220323204500 +0900" stop="20220323210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">首都圏ニュース845</title>
-    <desc lang="en">これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。</desc>
-  </programme>
   <programme start="20220323210000 +0900" stop="20220323220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽ゼレンスキー大統領　国会演説何を語るか？▽ウクライナ情勢最新▽ロシア報道機関「戦争」をどう伝えている</desc>
@@ -1552,21 +1549,9 @@ https//otn.fujitv.co.jp
     <title lang="en">ニュースウオッチ9</title>
     <desc lang="en">▽ウクライナ最新情勢▽現地の状況は？戦況を詳しく▽首脳外交活発に　Ｇ７・ＮＡＴＯが緊急会議　各国どう動く</desc>
   </programme>
-  <programme start="20220323204500 +0900" stop="20220323210000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース845</title>
-    <desc lang="en">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
-  </programme>
-  <programme start="20220323210000 +0900" stop="20220323212500 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理</title>
-    <desc lang="en">和食の達人・村田吉弘さんが考案した万能調味料「うまみ酢」。これさえあれば、和食の味がパパッと決まる！今回は「うまみ酢」で人気の定番おかずをランクアップ！</desc>
-  </programme>
-  <programme start="20220323212500 +0900" stop="20220323213000 +0900" channel="eTele.jp">
-    <title lang="en">きょうの料理ビギナーズ</title>
-    <desc lang="en">彩り豊かでつまみやすいアイデアが詰まった行楽弁当を紹介。俵型のおにぎり、ゆで卵をアレンジしたり、煮物を串に刺したり。また箸休めの梅きゅうりちくわも詰めます。</desc>
-  </programme>
-  <programme start="20220323213000 +0900" stop="20220323215500 +0900" channel="eTele.jp">
-    <title lang="en">趣味どきっ!</title>
-    <desc lang="en">筆ペンでイラストを描いてみませんか？繊細な線も力強い線も思いのままの筆ペンなら、味のあるイラストが簡単に。第８回は風景画に挑戦。横山大観の富士山と鶴。</desc>
+  <programme start="20220324220000 +0900" stop="20220324231500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">SONGS</title>
+    <desc lang="en">大泉洋＆あ〜ちゃん　主な登場アーティスト　あいみょん　井上陽水　桑田佳祐　髙橋真梨子　竹内まりや　Ｐｅｒｆｕｍｅ　福山雅治　松任谷由実　美輪明宏　矢沢永吉</desc>
   </programme>
   <programme start="20220323215500 +0900" stop="20220323220000 +0900" channel="eTele.jp">
     <title lang="en">まる得マガジン</title>
@@ -1896,6 +1881,18 @@ https//otn.fujitv.co.jp
     <title lang="en">木村多江の、いまさらですが…</title>
     <desc lang="en">人生１００年時代。大人の学び直しを応援します。今回のテーマは西アジア。知っているようで知らない西アジアの地理・歴史、そして文化についてわかりやすく解説します。</desc>
   </programme>
+  <programme start="20220324213000 +0900" stop="20220324215500 +0900" channel="eTele.jp">
+    <title lang="en">すてきにハンドメイド</title>
+    <desc lang="en">ゆったりとした大きなシルエットのチュニックを手縫いで仕立てます。そでつけがなく、針と糸があれば気軽に縫うことができます。講師は手芸家の高橋恵美子さん。</desc>
+  </programme>
+  <programme start="20220324215500 +0900" stop="20220324220000 +0900" channel="eTele.jp">
+    <title lang="en">まる得マガジン</title>
+    <desc lang="en">材料をびんに入れて湯煎するだけ。どんなに不器用な人でも簡単においしい調理ができる、魔法のびん調理をお楽しみください。</desc>
+  </programme>
+  <programme start="20220324220000 +0900" stop="20220324223000 +0900" channel="eTele.jp">
+    <title lang="en">クラシックTV</title>
+    <desc lang="en">清塚信也２０２１コンサートツアー！１１月２日にサントリーホールで行われた千秋楽から。クラシックＴＶでは見ることができない清塚信也の姿を！</desc>
+  </programme>
   <programme start="20220323195600 +0900" stop="20220323225400 +0900" channel="NipponTV.jp">
     <title lang="en">中居正広の3番勝負!</title>
     <desc lang="en">上野由岐子率いるソフトボール対プロ野球軍団！中居の好珍プレー＆金メダル対決▼中村俊輔＆遠藤＆代表ＧＫ権田とＰＫ対決！りんたろー。奇跡▼卓球・福原愛が引退後初試合</desc>
@@ -2005,10 +2002,6 @@ https//otn.fujitv.co.jp
     <title lang="en">秘密のケンミンSHOW極/ダウンタウンDX</title>
     <desc lang="en">ケンミン…まるごと静岡１県ＳＰ！熱愛激うまハンバーグ＆知られざる徳川家康㊙関係性　ＤＸ…芸能人のお泊まり事件簿ＳＰ！ダレノガレ㊙伊豆同伴ＶＳこじるり露天風呂愛！</desc>
   </programme>
-<programme start="20220323190000 +0900" stop="20220323210000 +0900" channel="Asahi.jp">
-  <title lang="en">くりぃむクイズ ミラクル9</title>
-  <desc lang="en">阿部亮平がラウールを引き連れ因縁の有田と再び対決！高橋英樹・克実のベテランから王林・トラウデン・マヂカルラブリーら若手まで真剣勝負の新クイズ特盛２時間ＳＰ！</desc>
-</programme>
 <programme start="20220323210000 +0900" stop="20220323220400 +0900" channel="Asahi.jp">
   <title lang="en">相棒season20</title>
   <desc lang="en">最終回スペシャル
@@ -2147,9 +2140,9 @@ https//otn.fujitv.co.jp
 新時代の≪中腰(ちゅうごし)ヒーロー≫が誕生‼
 思いやりと人間愛に溢れたちょっぴり“中途半端な男”が織りなす社会派ホームコメディ</desc>
 </programme>
-<programme start="20220323190000 +0900" stop="20220323215700 +0900" channel="TBS2.jp">
-  <title lang="en">東大王</title>
-  <desc lang="en">🈑🈓Mr.難読漢字、砂川＆ひらめき女王、紀野が卒業▽勝利を贈りたい東大王に最大の試練！伊沢率いる最強芸能人軍に元東大王！林が▽漢字オセロに天才宮川が復帰で大接戦</desc>
+<programme start="20220324220000 +0900" stop="20220324231600 +0900" channel="Asahi.jp">
+  <title lang="en">報道ステーション</title>
+  <desc lang="en">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
 </programme>
 <programme start="20220323215700 +0900" stop="20220323220000 +0900" channel="TBS2.jp">
   <title lang="en">フラッシュニュース</title>
@@ -2246,9 +2239,9 @@ https//otn.fujitv.co.jp
   <title lang="en">笑える!泣ける!動物スクープ100連発</title>
   <desc lang="en">🈑ネコは擬態が得意？超難問！擬態クイズ▽チワワが頑固って本当？▽可愛い！お皿の音で豹変する犬▽激レア犬コモンドールのお世話に挑戦▽爆笑アキナ山名＆おまめリベンジ</desc>
 </programme>
-<programme start="20220323182500 +0900" stop="20220323215400 +0900" channel="TVTokyo.jp">
-  <title lang="en">家、ついて行ってイイですか?</title>
-  <desc lang="en">「でっかい野菜作りたい」20歳農業ギャル▽体重180kg㊙大河俳優▽泣き虫美人ボクサー▽空き缶集める爆笑夫婦▽家では裸族！？シングルママ▽元NASDAの父へ…涙</desc>
+<programme start="20220324220000 +0900" stop="20220324230000 +0900" channel="TBS2.jp">
+  <title lang="en">櫻井・有吉THE夜会</title>
+  <desc lang="en">お花見しながらガチ手土産プレゼン大会！謎すぎる目黒蓮オススメかき混ぜるだけで味が変わるマドラー。有吉が一番ハマったジャニーズタレントを告白！？</desc>
 </programme>
 <programme start="20220323215400 +0900" stop="20220323220000 +0900" channel="TVTokyo.jp">
   <title lang="en">Ｄの旋律</title>
@@ -2393,9 +2386,13 @@ https//otn.fujitv.co.jp
   <title lang="en">ナゼそこ?</title>
   <desc lang="en">▼超山奥の行き止まり…たった1人で生活88歳…妊娠中に火事…壮絶人生▼伝説の秘境“ミヤコ”で発見！天皇秘話▼廃屋だらけ秘境…89歳８人姉妹の長女㊙苦労</desc>
 </programme>
-<programme start="20220323190000 +0900" stop="20220323215400 +0900" channel="FujiTV.jp">
-  <title lang="en">2022FNS歌謡祭 春 名曲ライブラリー</title>
-  <desc lang="en">フジテレビに残る貴重な映像を中心に「春うた」の名曲映像を一挙大放出▽優里が学生にサプライズ歌唱▽前代未聞！？サカナクションが生放送で驚きのパフォーマンス！</desc>
+<programme start="20220324214800 +0900" stop="20220324215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">Beeワールド</title>
+  <desc lang="en">インド篇「クロガラシ畑と養蜂」</desc>
+</programme>
+<programme start="20220324215400 +0900" stop="20220324225800 +0900" channel="TVTokyo.jp">
+  <title lang="en">WBS</title>
+  <desc lang="en">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
 </programme>
 <programme start="20220323215400 +0900" stop="20220323220000 +0900" channel="FujiTV.jp">
   <title lang="en">おふくろ、もう一杯</title>
@@ -2483,13 +2480,14 @@ https//otn.fujitv.co.jp
   <title lang="en">開店!有名人デパート</title>
   <desc lang="en">新庄剛志＆坂口憲二＆ＲＯＬＡＮＤ…豪華有名人の激レア私物＆特別サービスを「世のため人のため」一斉販売！購入するのは全国の一般のお客様…いくらで売れる？</desc>
 </programme>
-<programme start="20220323200000 +0900" stop="20220323210000 +0900" channel="Tokyo MX">
-  <title lang="en">news TOKYO FLAG</title>
-  <desc lang="en">新型コロナ最新情報　まん延防止措置の解除で上野動物園も営業再開！双子パンダの最新の様子も！▼奥多摩ではワクチンバスによる小児接種を実施</desc>
+<programme start="20220324215400 +0900" stop="20220324220000 +0900" channel="FujiTV.jp">
+  <title lang="en">ザ・ホースマン笑</title>
+  <desc lang="en">番組ＭＣはミニチュアホース！ゲストは人気芸人！ミニチュアホースが“馬にまつわる素敵な話”を紹介。さらに大喜利・ものボケなど芸人に無茶ぶりしたりと大活躍</desc>
 </programme>
-<programme start="20220323210000 +0900" stop="20220323215400 +0900" channel="Tokyo MX">
-  <title lang="en">バラいろダンディ</title>
-  <desc lang="en">安東弘樹＆前園真聖とふかわりょう＆大島由香里が「衣食住」をダンディに語らう１時間！ダンディアカデミーでは「額縁の新しいカタチ」を作り出す若き職人・栗原大地に密着</desc>
+<programme start="20220324220000 +0900" stop="20220325000400 +0900" channel="FujiTV.jp">
+  <title lang="en">世界フィギュアスケート選手権2022</title>
+  <desc lang="en">（延長の場合あり）
+４年に一度の特別なシーズン最終決戦！世界のエースとの激闘！初の頂点目指して鍵山優真＆宇野昌磨＆友野一希が挑む！</desc>
 </programme>
 <programme start="20220323215400 +0900" stop="20220323220000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2686,6 +2684,14 @@ https//otn.fujitv.co.jp
 <programme start="20220324210000 +0900" stop="20220324215400 +0900" channel="Tokyo MX">
   <title lang="en">バラいろダンディ</title>
   <desc lang="en">梅沢富美男＆金村義明が人生を説く！ＭＣは「新・東京　夜の顔」ふかわりょう＆大島由香里。子どもたちが駆け込む！凄腕おもちゃドクターの診療</desc>
+</programme>
+<programme start="20220324215400 +0900" stop="20220324220000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220324220000 +0900" stop="20220324223000 +0900" channel="Tokyo MX">
+  <title lang="en">『盾の勇者の成り上がり Season 2』放送直前スペシャル</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220322224000 +0900" stop="20220323054500 +0900" channel="FujiNext.jp">
 <title lang="en">2021-22 Vリーグ DIVISION 1　女子 デンソー×久光　ほか</title>
@@ -3042,7 +3048,7 @@ https//otn.fujitv.co.jp
 <title lang="en">フィギュアスケート傑作選 あの時、キミは… 2022 edition　16</title>
 <desc>「坂本花織」
 五輪シーズンスペシャル版として、北京冬季五輪日本代表選手の過去の名演技をピックアップ！フィギュアスケートファン必見！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220323/7818178/image/16b8e39ed2f90eb2e6e945b937c6de5e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323220000 +0900" stop="20220323230000 +0900" channel="FujiOne.jp">
@@ -3319,7 +3325,7 @@ https//otn.fujitv.co.jp
 <title lang="en">めざましライブ　8「山崎育三郎」</title>
 <desc>＜出演＞山崎育三郎
 ▽史上初のバーチャル空間で開催された、フジテレビ毎年恒例の「めざましライブ」をお届け！未公開オフショットも！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220323/7818358/image/fb8f329d5c83ed713dec67e2a5c55302.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323220000 +0900" stop="20220323225000 +0900" channel="FujiTwo.jp">
@@ -3521,7 +3527,7 @@ https//otn.fujitv.co.jp
 <programme start="20220323210000 +0900" stop="20220323220000 +0900" channel="kbsworld.jp">
 <title lang="en">ＫＢＳニュース９[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220323/7781391/image/f1e049aeb02dce912087838ac293e0d5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220323220000 +0900" stop="20220323232000 +0900" channel="kbsworld.jp">
