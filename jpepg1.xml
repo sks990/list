@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220325040000 +0900" stop="20220325050000 +0900" channel="ANIMAX.jp">
-  <title lang="en">頭文字[イニシャル]D</title>
-  <desc lang="en">17「サドンデス・デスマッチ」
-18「熱風！激走！碓氷峠」
-家業の豆腐屋を手伝うために地元・秋名山を走り込み、知ら…</desc>
-</programme>
 <programme start="20220325050000 +0900" stop="20220325060000 +0900" channel="ANIMAX.jp">
   <title lang="en">どろろ</title>
   <desc lang="en">5「守子唄の巻・上」
@@ -223,6 +217,12 @@
   <desc lang="en">7「絡新婦の巻」8「さるの巻」
 時は戦国。醍醐の国の主である景光は、ある寺のお堂で12体の鬼神像に領土の繁栄を願…</desc>
 </programme>
+<programme start="20220326060000 +0900" stop="20220326063000 +0900" channel="ANIMAX.jp">
+  <title lang="en">ちびまる子ちゃん</title>
+  <desc lang="en">542「まる子、タイムトラベルする」の巻
+
+静岡県清水市に住む小学3年生のももこは、みんなから“まる子”と呼ばれる…</desc>
+</programme>
 <programme start="20220325000000 +0900" stop="20220325010000 +0900" channel="FujiNext.jp">
 <title lang="en">ねる、取材行ってきます　1</title>
 <desc>ねる、取材行ってきます〜TOKYOアイドルタイムズ
@@ -258,7 +258,7 @@
 <title lang="en">番組PR【3月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7818056/image/e7258567e49b8284fbf4488b44fda266.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325080000 +0900" channel="FujiNext.jp">
@@ -457,7 +457,7 @@ https//otn.fujitv.co.jp
 <desc>『平潟港温泉編 後篇』
 撮影地まるみつ旅館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7818219/image/5294254246fabd2a88e037b1f10774c5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325090000 +0900" channel="FujiOne.jp">
@@ -686,7 +686,7 @@ https//otn.fujitv.co.jp
 <programme start="20220325053000 +0900" stop="20220325060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7818405/image/8ff4bbf6dc07e8749e5869f7a897f13e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325065000 +0900" channel="FujiTwo.jp">
@@ -922,7 +922,7 @@ https//otn.fujitv.co.jp
 <programme start="20220325050000 +0900" stop="20220325060000 +0900" channel="kbsworld.jp">
 <title lang="en">生き生き情報　[字][再]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7781423/image/977901408093bf55815201fc16b31193.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325070000 +0900" channel="kbsworld.jp">
@@ -1294,10 +1294,6 @@ MCカン・ダニエル
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220325045000 +0900" stop="20220325050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">時論公論</title>
-    <desc lang="en">ロシアがウクライナに軍事侵攻して１か月。長期化する戦闘を止めることが最大の課題になっている。最新の戦況を分析するとともに、停戦に向けて何が必要か、考える。</desc>
-  </programme>
   <programme start="20220325050000 +0900" stop="20220325060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
     <desc lang="en">【北朝鮮】ミサイル発射　過去最高高度【ウクライナ】ＮＡＴＯ・Ｇ７・ＥＵ相次ぎ首脳会議／米バイデン大統領　新たな制裁は【新型コロナ】４回目接種　準備開始は了承</desc>
@@ -1482,9 +1478,25 @@ MCカン・ダニエル
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220325030600 +0900" stop="20220325053000 +0900" channel="eTele.jp">
+  <programme start="20220326051000 +0900" stop="20220326051500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">Nスペ5min．</title>
+    <desc lang="en">ＮＨＫスペシャルの魅力を５分間に凝縮した「Ｎスペ５ｍｉｎ．」。今回は『新・映像詩　里山　第２回　阿蘇の大草原　火山と生きる』のダイジェストをご紹介する。</desc>
+  </programme>
+  <programme start="20220326051500 +0900" stop="20220326054000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うまいッ!</title>
+    <desc lang="en">福岡は日本一のパクチー産地。ふかふかで適度な水分を含む畑でみずみずしいパクチーが育ちます。和風からエスニックまで一度食べたらクセになるレシピもたっぷりとご紹介！</desc>
+  </programme>
+  <programme start="20220326054000 +0900" stop="20220326055000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHK映像ファイル あの人に会いたい</title>
+    <desc lang="en">去年９月に亡くなった、さいとう・たかをさん。登場人物や背景をリアルに描くことにこだわり、「ゴルゴ１３」など大人の鑑賞に堪えうる「劇画」というジャンルを確立した。</desc>
+  </programme>
+  <programme start="20220326055000 +0900" stop="20220326060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
     <desc lang="en"></desc>
+  </programme>
+  <programme start="20220326060000 +0900" stop="20220326063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKニュース おはよう日本</title>
+    <desc lang="en">【６時台】土曜日も「おはよう日本」でアップデート！国内外で起きた最新のニュースをコンパクトにお届け！気象情報・スポーツもキュッとまとめてお伝えします。</desc>
   </programme>
   <programme start="20220325053000 +0900" stop="20220325060000 +0900" channel="eTele.jp">
     <title lang="en">アラビーヤ・シャベリーヤ!</title>
@@ -1794,9 +1806,13 @@ MCカン・ダニエル
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220325043000 +0900" stop="20220325055000 +0900" channel="NipponTV.jp">
-    <title lang="en">Oha!4 NEWS LIVE</title>
-    <desc lang="en">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽ウクライナ情勢最新情報▽北朝鮮ミサイル発射▽サッカー日本代表Ｗ杯出場決定！</desc>
+  <programme start="20220326053000 +0900" stop="20220326055500 +0900" channel="eTele.jp">
+    <title lang="en">レイチェル・クーのチョコレート</title>
+    <desc lang="en">料理人のレイチェル・クーがチョコレートをたっぷり使ったお菓子や料理を披露、ヨーロッパのチョコクリエイターを訪ねて、チョコレートの魅力や歴史を探るシリーズ。</desc>
+  </programme>
+  <programme start="20220326055500 +0900" stop="20220326062500 +0900" channel="eTele.jp">
+    <title lang="en">ターシャの森から</title>
+    <desc lang="en">ターシャが愛し、その人生の相棒だったコーギー犬。１年前にターシャの森にやってきた子犬パディとベラもテューダー家の子どもたちと共にたくましく育っている。</desc>
   </programme>
   <programme start="20220325055000 +0900" stop="20220325080000 +0900" channel="NipponTV.jp">
     <title lang="en">ZIP!</title>
@@ -1888,6 +1904,14 @@ MCカン・ダニエル
   <programme start="20220326044000 +0900" stop="20220326052500 +0900" channel="NipponTV.jp">
     <title lang="en">日テレポシュレ</title>
     <desc lang="en">いよいよ年度末！ポシュレは大決算スペシャル！！ポシュレ人気商品が最安値、送料無料、増量などなど決算ならではのお得情報満載！お見逃しなく！！</desc>
+  </programme>
+  <programme start="20220326052500 +0900" stop="20220326053000 +0900" channel="NipponTV.jp">
+    <title lang="en">ボテロ展サポーター編</title>
+    <desc lang="en">あらゆるものをふくよかに表現する、コロンビアの巨匠、フェルナンド・ボテロ。《モナ・リザの横顔》の世界初公開など、4月開催の「ボテロ展」を楽しむ５分間。</desc>
+  </programme>
+  <programme start="20220326053000 +0900" stop="20220326080000 +0900" channel="NipponTV.jp">
+    <title lang="en">ズームイン!!サタデー</title>
+    <desc lang="en">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタいち押し！</desc>
   </programme>
 <programme start="20220325045500 +0900" stop="20220325080000 +0900" channel="Asahi.jp">
   <title lang="en">グッド!モーニング</title>
@@ -2000,9 +2024,20 @@ MCカン・ダニエル
   <title lang="en">おかずのクッキング</title>
   <desc lang="en">「見るだけで料理上手」をコンセプトに、料理研究家・土井善晴先生らが家庭のおかずの作り方を教えます。アシスタントは堂真理子アナウンサー。テキストも好評発売中。</desc>
 </programme>
-<programme start="20220325043000 +0900" stop="20220325052000 +0900" channel="TBS2.jp">
-  <title lang="en">THE TIME’</title>
-  <desc lang="en">マニアックで奥深い“趣味が見つかるおもしろ雑誌”特集▼４回目接種、準備開始を決定▼北朝鮮“怪物ICBM”発射▼東京感染者、３週間ぶり前週上回る▼JALも値上げへ</desc>
+<programme start="20220326052000 +0900" stop="20220326055000 +0900" channel="Asahi.jp">
+  <title lang="en">サッカーW杯最終予選〜激闘の軌跡〜</title>
+  <desc lang="en">１１月に開幕するカタールワールドカップ！
+アジア最終予選も、いよいよ２９日（火）のベトナム戦がラストマッチ！
+日本のここまでの激闘を振り返ります！</desc>
+</programme>
+<programme start="20220326055000 +0900" stop="20220326060000 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220326060000 +0900" stop="20220326080000 +0900" channel="Asahi.jp">
+  <title lang="en">週刊ニュースリーダー</title>
+  <desc lang="en">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
+城島茂が各界のリーダーを現場取材します！</desc>
 </programme>
 <programme start="20220325052000 +0900" stop="20220325080000 +0900" channel="TBS2.jp">
   <title lang="en">THE TIME,</title>
@@ -2100,12 +2135,13 @@ MCカン・ダニエル
   <desc lang="en">通販番組（ＴＶショッピング）
 </desc>
 </programme>
-<programme start="20220325042300 +0900" stop="20220325054500 +0900" channel="TVTokyo.jp">
-  <title lang="en">ものスタ</title>
-  <desc lang="en">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+<programme start="20220326051500 +0900" stop="20220326053000 +0900" channel="TBS2.jp">
+  <title lang="en">皇室アルバム</title>
+  <desc lang="en">『愛子さま ２０歳の思い』</desc>
+</programme>
+<programme start="20220326053000 +0900" stop="20220326073000 +0900" channel="TBS2.jp">
+  <title lang="en">まるっと!サタデー</title>
+  <desc lang="en">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
 </programme>
 <programme start="20220325054500 +0900" stop="20220325070500 +0900" channel="TVTokyo.jp">
   <title lang="en">モーサテ</title>
@@ -2274,9 +2310,13 @@ MCカン・ダニエル
 「ス」ぐに買いたくなっちゃう商品を
 「タ」っぷりとご紹介するショッピング番組</desc>
 </programme>
-<programme start="20220325045500 +0900" stop="20220325052500 +0900" channel="FujiTV.jp">
-  <title lang="en">めざましテレビ全部見せ</title>
-  <desc lang="en">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+<programme start="20220326053000 +0900" stop="20220326060000 +0900" channel="TVTokyo.jp">
+  <title lang="en">あさモヤさまぁ〜ず2</title>
+  <desc lang="en">４月から火曜よる11時6分にお引越しするためあさモヤとしての町ブラは最後！▼とれ高チェアでまさかのハプニングが発生！▼三村のヒーローインタビューが長い問題も発生</desc>
+</programme>
+<programme start="20220326060000 +0900" stop="20220326065400 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
 </programme>
 <programme start="20220325052500 +0900" stop="20220325080000 +0900" channel="FujiTV.jp">
   <title lang="en">めざましテレビ</title>
@@ -2363,13 +2403,9 @@ MCカン・ダニエル
   <title lang="en">世界フィギュアスケート選手権2022</title>
   <desc lang="en">４年に一度の特別なシーズン世界女王決定の瞬間生中継！日本代表８年ぶり金メダルへ！北京五輪銅メダル坂本花織！樋口新葉＆河辺愛菜はトリプルアクセルで挑む！</desc>
 </programme>
-<programme start="20220325043000 +0900" stop="20220325050000 +0900" channel="Tokyo MX">
-  <title lang="en">原田伸郎のめざせパーゴルフIII</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220325050000 +0900" stop="20220325053000 +0900" channel="Tokyo MX">
-  <title lang="en">U字工事の旅!発見</title>
-  <desc lang="en">東古屋湖</desc>
+<programme start="20220326060000 +0900" stop="20220326083000 +0900" channel="FujiTV.jp">
+  <title lang="en">めざましどようび</title>
+  <desc lang="en">めざましどようびニュース＆スポーツを１週間まとめチェック▽今週のエンタメ全見せ未公開＆舞台裏映像▽週末おすすめスポット▽出演者が挑戦！じゃんけん２回＆占い</desc>
 </programme>
 <programme start="20220325053000 +0900" stop="20220325060000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2535,6 +2571,14 @@ MCカン・ダニエル
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220326053000 +0900" stop="20220326060000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220326060000 +0900" stop="20220326063000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220325000000 +0900" stop="20220325010000 +0900" channel="FujiNext.jp">
 <title lang="en">ねる、取材行ってきます　1</title>
 <desc>ねる、取材行ってきます〜TOKYOアイドルタイムズ
@@ -2570,7 +2614,7 @@ MCカン・ダニエル
 <title lang="en">番組PR【3月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7818056/image/e7258567e49b8284fbf4488b44fda266.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325080000 +0900" channel="FujiNext.jp">
@@ -2769,7 +2813,7 @@ https//otn.fujitv.co.jp
 <desc>『平潟港温泉編 後篇』
 撮影地まるみつ旅館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7818219/image/5294254246fabd2a88e037b1f10774c5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325090000 +0900" channel="FujiOne.jp">
@@ -2998,7 +3042,7 @@ https//otn.fujitv.co.jp
 <programme start="20220325053000 +0900" stop="20220325060000 +0900" channel="FujiTwo.jp">
 <title lang="en">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7818405/image/8ff4bbf6dc07e8749e5869f7a897f13e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325065000 +0900" channel="FujiTwo.jp">
@@ -3234,7 +3278,7 @@ https//otn.fujitv.co.jp
 <programme start="20220325050000 +0900" stop="20220325060000 +0900" channel="kbsworld.jp">
 <title lang="en">生き生き情報　[字][再]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220325/7781423/image/977901408093bf55815201fc16b31193.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220325060000 +0900" stop="20220325070000 +0900" channel="kbsworld.jp">
