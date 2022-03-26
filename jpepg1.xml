@@ -63,10 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220326233000 +0900" stop="20220327000000 +0900" channel="ANIMAX.jp">
-  <title lang="en">e-elements GAMING HOUSE SQUAD</title>
-  <desc lang="en">アニマックスe-Sports新規プロジェクト「e-elements」の一環として始まった番組！話題のゲーム情報コーナーやe-sports…</desc>
-</programme>
 <programme start="20220327000000 +0900" stop="20220327060000 +0900" channel="ANIMAX.jp">
   <title lang="en">マクロス7</title>
   <desc lang="en">27〜39
@@ -179,6 +175,13 @@
   <desc lang="en">79「こうもり猫のハロウィン大爆発」
 80「陰摩羅鬼の罠」
 人々が妖怪の存在を忘れた現代。科学では解明が出来ない現…</desc>
+</programme>
+<programme start="20220328003000 +0900" stop="20220328050000 +0900" channel="ANIMAX.jp">
+  <title lang="en">名探偵コナン</title>
+  <desc lang="en">718,719「招き三毛猫の事件(前後編)」
+724,725「自首したお笑い芸人(前後編)」
+736「面倒な救急患者」
+737,738「…</desc>
 </programme>
 <programme start="20220326225000 +0900" stop="20220327001000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第2戦 サウジアラビアGP 土曜フリー走行</title>
@@ -1211,34 +1214,6 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">ボヘミアン・ラプソディ</title>
     <desc lang="en">伝説のロックバンド「クイーン」のボーカル、フレディ・マーキュリー。４５歳でこの世を去った激動の半生を、数々の名曲とともに描く大ヒット作。主演はラミ・マレック。</desc>
   </programme>
-  <programme start="20220326230000 +0900" stop="20220327000000 +0900" channel="eTele.jp">
-    <title lang="en">ETV特集</title>
-    <desc lang="en">さまざまな事情で親が育てられない障害児を特別養子縁組で新たな家庭につなげるＮＰＯ。代表の松原さんは自身もダウン症のある赤ちゃんを迎えた。命を守る日々をみつめる。</desc>
-  </programme>
-  <programme start="20220327000000 +0900" stop="20220327003000 +0900" channel="eTele.jp">
-    <title lang="en">バリバラ〜障害者情報バラエティー〜</title>
-    <desc lang="en">玉木幸則が知られざるマイノリティーの世界を深堀する新企画。第１弾は全盲の研究者が企画した「作品を触って楽しむ」展覧会へ！コロナ禍であえて接触にこだわる理由とは？</desc>
-  </programme>
-  <programme start="20220327003000 +0900" stop="20220327003500 +0900" channel="eTele.jp">
-    <title lang="en">no art，no life</title>
-    <desc lang="en">今まで見たことのない芸術に圧倒される５分間。各地のアーティストを取材、作品が生まれていく過程を記録する。落ち葉で動物のオブジェを作る渡邊義紘を紹介。</desc>
-  </programme>
-  <programme start="20220327003500 +0900" stop="20220327004000 +0900" channel="eTele.jp">
-    <title lang="en">no art，no life</title>
-    <desc lang="en">今まで見たことのない芸術に圧倒される５分間。各地のアーティストを取材、作品が生まれる過程を記録する。積み重なる日々の記憶を鮮烈な表現で描き出す月内祐樹さんを紹介</desc>
-  </programme>
-  <programme start="20220327004000 +0900" stop="20220327004500 +0900" channel="eTele.jp">
-    <title lang="en">no art，no life</title>
-    <desc lang="en">今まで見たことのない芸術に圧倒される５分間「ｎｏ　ａｒｔ，ｎｏ　ｌｉｆｅ」各地で作品が生まれる過程を記録する。チラシ広告の写真でコラージュ作品を作る嶋暎子を紹介</desc>
-  </programme>
-  <programme start="20220327004500 +0900" stop="20220327005000 +0900" channel="eTele.jp">
-    <title lang="en">no art，no life</title>
-    <desc lang="en">今まで見たことのない芸術に圧倒される５分間。日本各地のアーティストを取材し、作品が生まれていく過程を記録する。山奥に巨大な楽園を創った東健次を紹介。</desc>
-  </programme>
-  <programme start="20220327005000 +0900" stop="20220327005500 +0900" channel="eTele.jp">
-    <title lang="en">no art，no life</title>
-    <desc lang="en">今まで見たことのない芸術に圧倒される５分間。各地のアーティストを取材、作品が生まれていく過程を記録する。大きな紙を無数の目で埋め尽くす福井誠を紹介。</desc>
-  </programme>
   <programme start="20220327005500 +0900" stop="20220327012000 +0900" channel="eTele.jp">
     <title lang="en">ラブライブ!スーパースター!!</title>
     <desc lang="en">東京の表参道と原宿と青山、３つの街のはざまにある新設校が舞台。澁谷（しぶや）かのんら５人の少女がスクールアイドルの祭典「ラブライブ！」出場を目指す青春学園物語。</desc>
@@ -1471,9 +1446,13 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">地球ドラマチック</title>
     <desc lang="en">かつてほぼ絶滅したオランダのカワウソ。しかし生息環境の回復のため、地道な努力を重ねたことで、復活を遂げた。自然保護のシンボルとなったカワウソ復活の舞台裏の物語。</desc>
   </programme>
-  <programme start="20220326235500 +0900" stop="20220327005500 +0900" channel="NipponTV.jp">
-    <title lang="en">Going! SportsNews</title>
-    <desc lang="en">川口春奈がきょう卒業！2年間で行ってきた数々のアスリート取材▼プロ野球新コーナー「極みの主砲」開幕第２戦を由伸が徹底解説！この日選んだ極みの3番・4番・５番は</desc>
+  <programme start="20220328004500 +0900" stop="20220328005500 +0900" channel="eTele.jp">
+    <title lang="en">怖い絵本</title>
+    <desc lang="en">朗読×アニメ×ドラマ　ゾッとする怪奇の世界へ！今夜は遠野物語で背筋が凍る！「しびと」原作・柳田国男　文・京極夏彦　絵・阿部海太　出演・石井杏奈　峯村リエ</desc>
+  </programme>
+  <programme start="20220328005500 +0900" stop="20220328010500 +0900" channel="eTele.jp">
+    <title lang="en">怖い絵本</title>
+    <desc lang="en">朗読×アニメ×ドラマ　ゾッとする怪奇の世界へ！子どものころ夜のしじまが降りる時間に感じた恐怖感を思い起こすノスタルジックな物語。作・軽部武宏　出演・蒔田彩珠</desc>
   </programme>
   <programme start="20220327005500 +0900" stop="20220327012500 +0900" channel="NipponTV.jp">
     <title lang="en">ルパン三世PART6</title>
@@ -1601,18 +1580,10 @@ KINGDOM  LEGENDARY WARの優勝特典！
     <title lang="en">ダウンタウンのガキの使いやあらへんで!</title>
     <desc lang="en">コンテストシリーズ傑作選‼「ええ子コンテスト」ではものごっつええ子が続々登場⁉「8歳コンテスト」は特別ルールで地獄絵図⁉「ザコシコンテスト」で全員の心が折れる⁉</desc>
   </programme>
-<programme start="20220326230000 +0900" stop="20220327000000 +0900" channel="Asahi.jp">
-  <title lang="en">NEWニューヨーク</title>
-  <desc lang="en">【ＮＥＷニューヨーク１時間ＳＰ】江頭250がフル参戦！１週間エガちゃん生活＆水うまグルメ</desc>
-</programme>
-<programme start="20220327000000 +0900" stop="20220327000500 +0900" channel="Asahi.jp">
-  <title lang="en">テラサってる?</title>
-  <desc lang="en">OKAMOTO'Sハマ・オカモトと乃木坂46齋藤飛鳥がお届けする音楽トーク番組『ハマスカ放送部』を大特集！動画配信サービス『ＴＥＬＡＳＡ（テラサ）』特別編！</desc>
-</programme>
-<programme start="20220327000500 +0900" stop="20220327003500 +0900" channel="Asahi.jp">
-  <title lang="en">ハマスカ放送部</title>
-  <desc lang="en">OKAMOTO'S ハマ・オカモトと乃木坂46 齋藤飛鳥が都内某所の放送室からお届けする音楽トーク番組！4/1(金)夜11時15分は1時間SP！その前に選りすぐりの放送回をお届け！</desc>
-</programme>
+  <programme start="20220328002500 +0900" stop="20220328012500 +0900" channel="NipponTV.jp">
+    <title lang="en">Going! SportsNews</title>
+    <desc lang="en">新庄BIGBOSS独占直撃！開幕３連戦への思い＆今季ブレイク期待の万波中正の成長を感じたプレー！プロ野球開幕総力特集！注目の対決全球見せます▼大坂なおみ最新試合</desc>
+  </programme>
 <programme start="20220327003500 +0900" stop="20220327010000 +0900" channel="Asahi.jp">
   <title lang="en">超人女子戦士 ガリベンガーV</title>
   <desc lang="en">地球にはびこる超難解な現象を、解き続ける女子たちを養成する組織…それが「ガリベンガーＶ」
@@ -1777,19 +1748,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">声優パーク建設計画 VR部</title>
   <desc lang="en">今夜は特別編！衝撃度がスゴい！名場面ランキング発表！ワンピース＆ＤＢの裏話＆恒例の声優世代表＆総勢31組のラフレコから最も衝撃を受けたネタを発表！</desc>
 </programme>
-<programme start="20220326234800 +0900" stop="20220327000000 +0900" channel="TBS2.jp">
-  <title lang="en">和心百景</title>
-  <desc lang="en">日本の文化とともに受け継がれてきた伝統工芸品　そこには歴史や技だけでなく、「心」が込められています
-今回は、『東京額縁／東京』笛木優子</desc>
+<programme start="20220328002500 +0900" stop="20220328005500 +0900" channel="Asahi.jp">
+  <title lang="en">ReAL eSports News</title>
+  <desc lang="en">山里亮太のｅスポーツ情報番組「ＲｅＡＬｅ」（りあるいー）！急きょ、ゲームタイトル変更‼とろサーモン・久保田が自称“世界一”と豪語するダブルスの実力は本物⁉</desc>
 </programme>
-<programme start="20220327000000 +0900" stop="20220327003000 +0900" channel="TBS2.jp">
-  <title lang="en">7つの海を楽しもう!世界さまぁ〜リゾート</title>
-  <desc lang="en">なるほど・ザ・リゾートinプーケット
-タイ・プーケットの王道観光スポットのおもわずなるほど！と言ってしまう海外情報をクイズで出題！</desc>
-</programme>
-<programme start="20220327003000 +0900" stop="20220327005800 +0900" channel="TBS2.jp">
-  <title lang="en">S☆1</title>
-  <desc lang="en">ＭＬＢオープン戦大谷翔平＆鈴木誠也ほか▽プロ野球開幕！槙原寛己セ・パ優勝予想は？▽ＮＢＡ八村塁▽フィギュア世界選手権▽競馬ＧＩ予想</desc>
+<programme start="20220328005500 +0900" stop="20220328012500 +0900" channel="Asahi.jp">
+  <title lang="en">熱闘!Mリーグ</title>
+  <desc lang="en">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
+雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
 </programme>
 <programme start="20220327005800 +0900" stop="20220327025800 +0900" channel="TBS2.jp">
   <title lang="en">オールスター後夜祭</title>
@@ -1924,13 +1890,9 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">S☆1</title>
   <desc lang="en">大谷翔平＆鈴木誠也を元メジャーリーガーが語りつくす▽プロ野球ＢＩＧＢＯＳＳ▽センバツ高校野球２回戦▽サッカーＷ杯７大会連続出場決定▽つくワン▽ＧＩ高松宮記念</desc>
 </programme>
-<programme start="20220326235500 +0900" stop="20220327002000 +0900" channel="TVTokyo.jp">
-  <title lang="en">そろそろ にちようチャップリン</title>
-  <desc lang="en">【2021年度を総決算！輝く!チャップリン大賞】プラス・マイナス＆TOKYO　COOL＆ジグザグジギー＆ぱーてぃーちゃんを一方的に表彰！▼内村光良・土田晃之・ハリセンボン</desc>
-</programme>
-<programme start="20220327002000 +0900" stop="20220327005000 +0900" channel="TVTokyo.jp">
-  <title lang="en">FOOT×BRAIN</title>
-  <desc lang="en">スポーツと速読。一見全く関係なさそうだが、実はアスリートの能力アップに繋がる要素が！多くのＪリーガーを輩出する興國高校で取り入れるサッカー×速読脳トレを特集</desc>
+<programme start="20220328005800 +0900" stop="20220328012800 +0900" channel="TBS2.jp">
+  <title lang="en">占いメガネ</title>
+  <desc lang="en">人気占い師が悩める女性芸能人の自宅で人生をガチ占い★高学歴リケジョゆきりぬの人生の岐路を占い師・暮れの酉が見抜く！動画再生数の激減、人気回復の鍵は</desc>
 </programme>
 <programme start="20220327005000 +0900" stop="20220327012000 +0900" channel="TVTokyo.jp">
   <title lang="en">二軒目どうする?〜ツマミのハナシ〜</title>
@@ -2094,10 +2056,13 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">SUPER GT</title>
   <desc lang="en">３週間後に開幕を迎える2022シリーズ！注目の日産Ｚの全貌！直前の公式テストでつかんだ最新情報…ニューマシン＆ニューフェイスを直撃▽中尾・岡副から最後のメッセージ</desc>
 </programme>
-<programme start="20220326234500 +0900" stop="20220327004000 +0900" channel="FujiTV.jp">
-  <title lang="en">准教授・高槻彰良の推察 Season2</title>
-  <desc lang="en">予定を変更し５分繰下げお送りします
-高槻（伊野尾慧）と尚哉（神宮寺勇太）が出会う最大の怪異事件、その結末は？怒涛のＳｅａｓｏｎ２、遂に完結！</desc>
+<programme start="20220328003000 +0900" stop="20220328010000 +0900" channel="TVTokyo.jp">
+  <title lang="en">乃木坂工事中</title>
+  <desc lang="en">今週の乃木坂工事中は恒例企画「２９枚目シングルヒット祈願」！</desc>
+</programme>
+<programme start="20220328010000 +0900" stop="20220328010500 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">ついに放送間近！話題の新アニメ「SPY×FAMILY」のキャラクターをアーティストが独自の手法で表現。いったいどんな作品が登場するのか？</desc>
 </programme>
 <programme start="20220327004000 +0900" stop="20220327013000 +0900" channel="FujiTV.jp">
   <title lang="en">S-PARK</title>
@@ -2251,13 +2216,9 @@ KINGDOM  LEGENDARY WARの優勝特典！
   <title lang="en">S-PARK</title>
   <desc lang="en">スポーツ・パーク「Ｓ－ＰＡＲＫ」▽プロ野球開幕！藤川球児がＢＩＧＢＯＳＳ深掘り！佐々木朗希＆大谷翔平を火の玉解説▽ジャンプＷ杯最終戦小林陵侑総合Ｖは</desc>
 </programme>
-<programme start="20220326233000 +0900" stop="20220327000000 +0900" channel="Tokyo MX">
-  <title lang="en">「群青のファンファーレ」放送直前スペシャル 〜競馬学校入学案内〜</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220327000000 +0900" stop="20220327003000 +0900" channel="Tokyo MX">
-  <title lang="en">その着せ替え人形は恋をする</title>
-  <desc lang="en"> </desc>
+<programme start="20220328003000 +0900" stop="20220328012500 +0900" channel="FujiTV.jp">
+  <title lang="en">なんかいみちゃうTV</title>
+  <desc lang="en">お手元にスマホのご用意を！▽Ｓｎｏｗ　Ｍａｎ出演コント＆ドラマがスマホをかざすと…▽モザイクが取れる！出演者を変える！テレビの中身を変えられる新視聴体験</desc>
 </programme>
 <programme start="20220327003000 +0900" stop="20220327010000 +0900" channel="Tokyo MX">
   <title lang="en">明日ちゃんのセーラー服</title>
@@ -2454,6 +2415,14 @@ KINGDOM  LEGENDARY WARの優勝特典！
 <programme start="20220328000000 +0900" stop="20220328003000 +0900" channel="Tokyo MX">
   <title lang="en">ゴールデンカムイ</title>
   <desc lang="en"> </desc>
+</programme>
+<programme start="20220328003000 +0900" stop="20220328010000 +0900" channel="Tokyo MX">
+  <title lang="en">佐々木と宮野</title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220328010000 +0900" stop="20220328010500 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en">新番組『３秒後、野獣。〜合コンで隅にいた彼は肉食でした』特番〜東条要の危険な合コン初出し映像！</desc>
 </programme>
 <programme start="20220326225000 +0900" stop="20220327001000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第2戦 サウジアラビアGP 土曜フリー走行</title>
