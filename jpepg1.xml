@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220423193000 +0900" stop="20220423200000 +0900" channel="ANIMAX.jp">
-  <title lang="en">おこしやす、ちとせちゃん</title>
-  <desc lang="en">第22〜24羽
-京都に住む子ペンギン、その名もちとせちゃん。もふもふした愛らしい子ペンギンのちとせちゃんは、おいし…</desc>
-</programme>
-<programme start="20220423200000 +0900" stop="20220423203000 +0900" channel="ANIMAX.jp">
-  <title lang="en">サマータイムレンダ</title>
-  <desc lang="en">2
-幼馴染・小舟潮の訃報を聞いた網代慎平は、2年ぶりに故郷である和歌山市・日都ヶ島に帰ってきた。家族や友人との再…</desc>
-</programme>
 <programme start="20220423203000 +0900" stop="20220423213000 +0900" channel="ANIMAX.jp">
   <title lang="en">名探偵コナン</title>
   <desc lang="en">756「女王様の天気予報」
@@ -191,6 +181,10 @@
 <programme start="20220424200000 +0900" stop="20220424210000 +0900" channel="ANIMAX.jp">
   <title lang="en">ドラゴンボール 神龍の伝説</title>
   <desc lang="en">７つ集めると神龍が現れ、どんな願いでも１つだけかなえてくれるドラゴンボール。悟空はおじいさんの形見として１つを持…</desc>
+</programme>
+<programme start="20220424210000 +0900" stop="20220424215500 +0900" channel="ANIMAX.jp">
+  <title lang="en">ドラゴンボール 魔神城のねむり姫</title>
+  <desc lang="en">修行のため亀仙人を訪ねた悟空とクリリンは、魔神城に閉じ込められた伝説の“ねむり姫”を連れ帰ることを命じられる。…</desc>
 </programme>
 <programme start="20220422235000 +0900" stop="20220423040000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 予選</title>
@@ -670,7 +664,7 @@ https//otn.fujitv.co.jp
 <desc>＜ホスト＞蒼井翔太　西山宏太朗
 ＜ゲスト＞大平峻也　佐伯大地
 ▽ファンの皆様の熱いリクエストにお応えして2年半ぶりに待望の復活！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220423/8001730/image/2335b567b6221c0a91005cd3fa28c714.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220423210000 +0900" stop="20220423223000 +0900" channel="FujiTwo.jp">
@@ -1073,18 +1067,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220423193000 +0900" stop="20220423201500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">ブラタモリ</title>
-    <desc lang="en">日本に鉄道ができて今年で１５０年！町の発展と鉄道の関係をタモリさんが解き明かす！▽鉄道大国・日本の原点！“日本初の鉄道ターミナル”東京・新橋停車場の秘密を探る！</desc>
-  </programme>
-  <programme start="20220423201500 +0900" stop="20220423205000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">有吉のお金発見 突撃!カネオくん</title>
-    <desc lang="en">今回は…「エベレスト」のお金の秘密！登山費用は１人８００万円！？エベレストの最新事情を大調査！さらに！山の天気をズバリと予報！“山の神”と呼ばれる日本人を直撃！</desc>
-  </programme>
-  <programme start="20220423205000 +0900" stop="20220423205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220423205500 +0900" stop="20220423220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">サタデーウオッチ9</title>
     <desc lang="en">攻防続くウクライナ東部…最新の戦況は▽軍事侵攻から２か月…プーチン政権の誤算を専門家が徹底的に解説▽まもなく大型連休…最新ホテル事情に迫る▽大リーグ大谷翔平情報</desc>
@@ -1187,7 +1169,7 @@ https//otn.fujitv.co.jp
   </programme>
   <programme start="20220424070000 +0900" stop="20220424074000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
-    <desc lang="en">日曜日のスタートもカラフルに！国内外で起きた最新ニュース・社会の深層に鋭く迫る特集・スポーツ・今日一日の気象情報など</desc>
+    <desc lang="en">知床で観光船が浸水か・乗客乗員は▼ウクライナ侵攻２か月・首都キーウから中継▼フランス大統領選きょう決選投票</desc>
   </programme>
   <programme start="20220424074000 +0900" stop="20220424074500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本（関東甲信越）</title>
@@ -1325,13 +1307,17 @@ https//otn.fujitv.co.jp
     <title lang="en">鎌倉殿の13人</title>
     <desc lang="en">京に籠もる木曽義仲（青木祟高）、巻き返しを図る平宗盛（小泉孝太郎）。対する源頼朝（大泉洋）は弟・範頼（迫田孝也）大将の本軍を派兵。義時（小栗旬）も従軍し激戦へ</desc>
   </programme>
-  <programme start="20220423195500 +0900" stop="20220423200000 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】工藤咲子</desc>
+  <programme start="20220424204500 +0900" stop="20220424205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220423200000 +0900" stop="20220423204500 +0900" channel="eTele.jp">
-    <title lang="en">チョイス＠病気になったとき</title>
-    <desc lang="en">便秘の多くは生活習慣や加齢が原因だが、中には重大な病気が隠れていることも。大腸がん、過敏性腸症候群、副甲状腺機能亢進症を疑うサインや、治療のチョイスを伝える。</desc>
+  <programme start="20220424205500 +0900" stop="20220424210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
+  </programme>
+  <programme start="20220424210000 +0900" stop="20220424220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">NHKスペシャル</title>
+    <desc lang="en">火星進出まで実現する技術を生み出す一方、戦争や環境破壊で地球の未来をも危うくしている人間。その先にあるのはさらなる繁栄か？破滅か？ＭＣ鈴木亮平と壮大な謎に迫る！</desc>
   </programme>
   <programme start="20220423204500 +0900" stop="20220423210000 +0900" channel="eTele.jp">
     <title lang="en">キソ英語を学んでみたら世界とつながった。</title>
@@ -1533,9 +1519,13 @@ https//otn.fujitv.co.jp
     <title lang="en">日曜美術館</title>
     <desc lang="en">紀元前の黄金のスキタイ文明、中世の華麗な大聖堂。ウクライナの地には、多様な民族が行き交い重なり合ってきた。激動の歴史を、その美を通して見つめる。</desc>
   </programme>
-  <programme start="20220423195600 +0900" stop="20220423205400 +0900" channel="NipponTV.jp">
-    <title lang="en">世界一受けたい授業</title>
-    <desc lang="en">カリスマ野菜バイヤーが教える！春野菜と簡単レシピ！▽キャベツでウニがおいしくなる！ヤバい研究者が登場▽日常生活でわかる！うつになりやすい人・なりにくい人の違い</desc>
+  <programme start="20220424204500 +0900" stop="20220424210000 +0900" channel="eTele.jp">
+    <title lang="en">日曜美術館 アートシーン</title>
+    <desc lang="en">「赤と黒」（岡本太郎記念館　３月１８日〜７月１８日）ほか、展覧会情報</desc>
+  </programme>
+  <programme start="20220424210000 +0900" stop="20220424230000 +0900" channel="eTele.jp">
+    <title lang="en">古典芸能への招待</title>
+    <desc lang="en">国立能楽堂の企画公演をＮＨＫで収録。狂言「袴裂（はかまさき）」＜野村又三郎ほか＞と、復曲能「岩船（いわふね）」＜梅若紀彰・観世喜正ほか＞をご紹介する。</desc>
   </programme>
   <programme start="20220423205400 +0900" stop="20220423210000 +0900" channel="NipponTV.jp">
     <title lang="en">シャカレキ!〜社会歴史研究部〜</title>
@@ -1684,16 +1674,14 @@ https//otn.fujitv.co.jp
     <title lang="en">世界の果てまでイッテQ!</title>
     <desc lang="en">内村ヘルメットおじさんホテルリポート▼出川カナダおつかい爆笑イングリッシュ▼みやぞんイタリア伝統カジキ漁で奇跡の一撃▼インドで最強の夫婦を発見ほか</desc>
   </programme>
-<programme start="20220423185600 +0900" stop="20220423200000 +0900" channel="Asahi.jp">
-  <title lang="en">サンドウィッチマン芦田愛菜の博士ちゃん</title>
-  <desc lang="en">子供博士こと“博士ちゃん”がサンドウィッチマン＆芦田愛菜に最強授業！
-今夜は芸能人VS子供博士！世界に誇る日本の逸品３択目利きSP
-井ノ原快彦、成田凌、タカトシ参戦</desc>
-</programme>
-<programme start="20220423200000 +0900" stop="20220423205400 +0900" channel="Asahi.jp">
-  <title lang="en">池上彰のニュースそうだったのか!!</title>
-  <desc lang="en">ロシアのウクライナ侵攻で私たちの生活に今どんな影響が出ているのか徹底解説！実は北朝鮮が頻繁にミサイル発射しているのもその影響だった!?世界の食料がピンチ!?</desc>
-</programme>
+  <programme start="20220424205400 +0900" stop="20220424210000 +0900" channel="NipponTV.jp">
+    <title lang="en">音のソノリティ</title>
+    <desc lang="en">環境で変化する自然や天然の音、各地に根付く情緒溢れる文化の音、地球や生命の息遣いや生物の奏でる音楽など、様々なサウンドの世界を紹介。音の原風景を届けます。</desc>
+  </programme>
+  <programme start="20220424210000 +0900" stop="20220424220000 +0900" channel="NipponTV.jp">
+    <title lang="en">行列のできる相談所</title>
+    <desc lang="en">笑点・桂宮治が藤子不二雄A笑ゥせぇるすまんの超貴重なグッズに大興奮!なにわ男子道枝が金田一との運命の出会い…上白石萌歌も観たい東野のベストアニメ音楽!</desc>
+  </programme>
 <programme start="20220423205400 +0900" stop="20220423215500 +0900" channel="Asahi.jp">
   <title lang="en">サタデーステーション</title>
   <desc lang="en">【最新情報】知床沖で26人乗った観光船浸水…捜索続く▽要衝マリウポリの現実“抵抗の拠点”製鉄所は▽海外で脱マスク加速▽大谷翔平▽Ｘゲームズ▽プロ野球(他)</desc>
@@ -1865,6 +1853,15 @@ https//otn.fujitv.co.jp
   <title lang="en">ポツンと一軒家</title>
   <desc lang="en">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
 </programme>
+<programme start="20220424205600 +0900" stop="20220424210000 +0900" channel="Asahi.jp">
+  <title lang="en">食ノ音色</title>
+  <desc lang="en">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
+今回の“食ノ音色”を奏でる主役は『ドーサ』です。</desc>
+</programme>
+<programme start="20220424210000 +0900" stop="20220424215500 +0900" channel="Asahi.jp">
+  <title lang="en">サンデーステーション</title>
+  <desc lang="en">日曜よる９時。新しい明日へ「再起動」。次の一週間のヒントにつながる報道番組を目指します。ニュースは総力取材、時代が見える独自特集、スポーツ、天気もしっかりと！</desc>
+</programme>
 <programme start="20220423185100 +0900" stop="20220423210000 +0900" channel="TBS2.jp">
   <title lang="en">ジョブチューン〜アノ職業のヒミツぶっちゃけます!</title>
   <desc lang="en">▼コンビニ王者「セブン-イレブン」がスイーツでジャッジ企画３度目のリベンジに挑む！▼絶対合格！と自負する新商品を先出し大公開！開発担当がその理由をぶっちゃけ！！</desc>
@@ -2015,9 +2012,13 @@ https//otn.fujitv.co.jp
   <title lang="en">バナナマンのせっかくグルメ</title>
   <desc lang="en">日村は春の千葉県南房総へ！話題㊙グランピングで絶品テイクアウト満喫★上野樹里＆田中圭が人気温泉地・神奈川県湯河原町へ！鉄板ハンバーグと白米＆旨辛焼きそばに大興奮</desc>
 </programme>
-<programme start="20220423195400 +0900" stop="20220423205400 +0900" channel="TVTokyo.jp">
-  <title lang="en">出川哲朗の充電させてもらえませんか?</title>
-  <desc lang="en">■行くぞ！＜関東最強パワスポ街道＞１３０キロ！三峯神社から秩父三社を巡ってゴールは氷川神社総本社！ですが小木が自由で竹山はプンプン！ヤバいよヤバいよＳＰ■</desc>
+<programme start="20220424205400 +0900" stop="20220424210000 +0900" channel="TBS2.jp">
+  <title lang="en">フラッシュニュース</title>
+  <desc lang="en">最新のニュースをお伝えします。</desc>
+</programme>
+<programme start="20220424210000 +0900" stop="20220424220000 +0900" channel="TBS2.jp">
+  <title lang="en">マイファミリー</title>
+  <desc lang="en">🈑🈓　遂に鳴沢友果さん誘拐事件が完結を迎える。果たして無事に助け出すことはできるのか、犯人との直接対決、そして驚愕の結末が訪れる・・・</desc>
 </programme>
 <programme start="20220423205400 +0900" stop="20220423210000 +0900" channel="TVTokyo.jp">
   <title lang="en">生きるを伝える</title>
@@ -2208,6 +2209,11 @@ https//otn.fujitv.co.jp
   <title lang="en">池上彰の激動!世界情勢SP</title>
   <desc lang="en">ロシアによる侵攻から２カ月…なぜ長期化するのか？プーチン大統領の誤算はどこに？今後の展開は？日本に飛び火は？▼視聴者からの疑問にジャーナリスト池上彰が答えます！</desc>
 </programme>
+<programme start="20220424210000 +0900" stop="20220424215400 +0900" channel="TVTokyo.jp">
+  <title lang="en">〜夢のオーディションバラエティー〜 Dreamer Z</title>
+  <desc lang="en">LDH史上最大のオーディション「iCONZ」男性部門に密着！
+ついに四次審査開幕！脱落するグループは一体！？</desc>
+</programme>
 <programme start="20220423190000 +0900" stop="20220423210000 +0900" channel="FujiTV.jp">
   <title lang="en">新しいカギ</title>
   <desc lang="en">窪田正孝＆本田翼＆広瀬アリス＆なにわ男子コント参戦ＳＰ▽松下奈緒参戦！おそろい目指せ新企画▽因縁はこねＶＳなにわ直接決着！人間カーリング対決ワイドナ軍</desc>
@@ -2368,14 +2374,6 @@ https//otn.fujitv.co.jp
 <programme start="20220424190000 +0900" stop="20220424215400 +0900" channel="FujiTV.jp">
   <title lang="en">呼び出し先生タナカ</title>
   <desc lang="en">キングカズの息子からジャニーズ＆戦隊ヒーロー＆モデル＆大御所まで人気芸能人１５名が一斉学力・実技試験に挑戦…最下位おバカは誰？ゴールデン初ＭＣ田中卓志</desc>
-</programme>
-<programme start="20220423190000 +0900" stop="20220423204000 +0900" channel="Tokyo MX">
-  <title lang="en">羅生門</title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220423204000 +0900" stop="20220423204500 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220423204500 +0900" stop="20220423210000 +0900" channel="Tokyo MX">
   <title lang="en">Doctor’s eye</title>
@@ -2592,6 +2590,14 @@ https//otn.fujitv.co.jp
 <programme start="20220424200000 +0900" stop="20220424203000 +0900" channel="Tokyo MX">
   <title lang="en">世界の子どもの未来のために</title>
   <desc lang="en">厳しい貧困に生きる子ども達の生活をドキュメンタリー形式で紹介。ワールド・ビジョンの「チャイルド・スポンサーシップ」による支援を紹介します。</desc>
+</programme>
+<programme start="20220424203000 +0900" stop="20220424210000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220424210000 +0900" stop="20220424213000 +0900" channel="Tokyo MX">
+  <title lang="en">ぐらぶるTVちゃんねるっ!</title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220422235000 +0900" stop="20220423040000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 予選</title>
@@ -3071,7 +3077,7 @@ https//otn.fujitv.co.jp
 <desc>＜ホスト＞蒼井翔太　西山宏太朗
 ＜ゲスト＞大平峻也　佐伯大地
 ▽ファンの皆様の熱いリクエストにお応えして2年半ぶりに待望の復活！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220423/8001730/image/2335b567b6221c0a91005cd3fa28c714.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220423210000 +0900" stop="20220423223000 +0900" channel="FujiTwo.jp">
