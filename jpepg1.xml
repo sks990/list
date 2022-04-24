@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220424140000 +0900" stop="20220424150000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ゲゲゲの鬼太郎</title>
-  <desc lang="en">86「鮮血のクリスマス」
-87「貧乏神と座敷童子」
-人々が妖怪の存在を忘れた現代。科学では解明が出来ない現象が頻発…</desc>
-</programme>
 <programme start="20220424150000 +0900" stop="20220424160000 +0900" channel="ANIMAX.jp">
   <title lang="en">ちびまる子ちゃん</title>
   <desc lang="en">526「まる子、半熟卵を食べたい」の巻／「みぎわさんのお見合い」の巻
@@ -205,6 +199,11 @@
   <desc lang="en">21「もしも…」
 22「妹思いなんですよ」
 親の再婚によって、血は繋がらないが誕生日が同じ、双子(？)の兄弟となった…</desc>
+</programme>
+<programme start="20220425160000 +0900" stop="20220425170000 +0900" channel="ANIMAX.jp">
+  <title lang="en">ブラッククローバー</title>
+  <desc lang="en">81「ある一人の男の生き方」82「プチット・クローバー！悪夢のチャーミーSP！」
+魔法がすべての、とある世界…。生…</desc>
 </programme>
 <programme start="20220423230000 +0900" stop="20220424030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP スプリント</title>
@@ -1108,14 +1107,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220424131500 +0900" stop="20220424150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">第76回全日本体操選手権</title>
-    <desc lang="en">予選と決勝の合計点で競う全日本。長年日本をけん引してきた内村航平が引退、次の体操界の顔は誰だ！東京五輪団体銀メダルメンバーらで争う実力伯仲の男子個人総合</desc>
-  </programme>
-  <programme start="20220424150000 +0900" stop="20220424150500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
   <programme start="20220424150500 +0900" stop="20220424160400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKスペシャル</title>
     <desc lang="en">終戦直後の“東京ブラックホール”に、俳優・山田孝之がタイムスリップ！最新デジタル技術で過去の映像に混ざり合い、「戦後ゼロ年」を追体験する新感覚ドキュメンタリー。</desc>
@@ -1384,13 +1375,21 @@ https//otn.fujitv.co.jp
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220424143000 +0900" stop="20220424154500 +0900" channel="eTele.jp">
-    <title lang="en">第23回NHK全国短歌大会</title>
-    <desc lang="en">題詠「行」と自由題の特選作品を紹介。オンラインでの受賞者インタビューやＶＴＲなど作品背景を深掘りしながら味わう。選者から上達のヒントが盛りだくさん。大会大賞は？</desc>
+  <programme start="20220425150700 +0900" stop="20220425151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
-  <programme start="20220424154500 +0900" stop="20220424155000 +0900" channel="eTele.jp">
-    <title lang="en">ワンワンわんだーらんど ミニ</title>
-    <desc lang="en">４月から放送時間が変わる！毎月最終土曜の正午〜再放送は翌日の日曜の朝７３０〜Ｅテレ▽新しいお友達のけいくんも登場！犬山ワン太郎さんがけいくんの特技も紹介する！</desc>
+  <programme start="20220425151000 +0900" stop="20220425155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">うたコン</title>
+    <desc lang="en">▽森山良子が登場！朝ドラエピソードも▽五木ひろし×清塚信也×村治佳織ＳＰコラボ▽育三郎が昭和名曲「あなた」▽一青窈「ハナミズキ」▽２５周年ＤＡＰＵＭＰ</desc>
+  </programme>
+  <programme start="20220425155500 +0900" stop="20220425160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">みんなのうた</title>
+    <desc lang="en">「ひよこぐも」うたアヤカ　ウィルソン／「スパークだ！」うたクレイジーケンバンド</desc>
+  </programme>
+  <programme start="20220425160000 +0900" stop="20220425160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20220424155000 +0900" stop="20220424160000 +0900" channel="eTele.jp">
     <title lang="en">みんなDEどーもくん!</title>
@@ -1668,9 +1667,17 @@ https//otn.fujitv.co.jp
     <title lang="en">ダークサイドミステリーE</title>
     <desc lang="en">名作が再構成で地上波登場！絶対安全「不沈船」タイタニックはなぜ沈んだ？最新研究で浮かぶ闇…陰謀で沈められた？同型船とすり替え？徹底検証で驚きの真相が明らかに！</desc>
   </programme>
-  <programme start="20220424140000 +0900" stop="20220424150000 +0900" channel="NipponTV.jp">
-    <title lang="en">テレビギャング</title>
-    <desc lang="en">川島・山里・若林・澤部…令和のＭＣ４人がテレビ界のギャングスターを目指し商店街でロケ決行▼若林も暴走！山里は超爆食！体を張る川島＆澤部…最後には衝撃の結末が⁉</desc>
+  <programme start="20220425153000 +0900" stop="20220425155500 +0900" channel="eTele.jp">
+    <title lang="en">NHKみんなの手話</title>
+    <desc lang="en">月日や曜日を表す表現や、相手に許可を求めたり、確認をする表現を学習します。</desc>
+  </programme>
+  <programme start="20220425155500 +0900" stop="20220425160000 +0900" channel="eTele.jp">
+    <title lang="en">浮世絵EDO-LIFE</title>
+    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！隅田川の向こう岸にそびえ立つ２本の高い塔。一体これは何？江戸の町に出現したスカイツリー？</desc>
+  </programme>
+  <programme start="20220425160000 +0900" stop="20220425161500 +0900" channel="eTele.jp">
+    <title lang="en">いないいないばあっ!</title>
+    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
   </programme>
   <programme start="20220424150000 +0900" stop="20220424165500 +0900" channel="NipponTV.jp">
     <title lang="en">X Games Chiba 2022 presented by Yogibo</title>
@@ -1795,11 +1802,10 @@ https//otn.fujitv.co.jp
     <title lang="en">情報ライブ ミヤネ屋</title>
     <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
   </programme>
-<programme start="20220424135500 +0900" stop="20220424152000 +0900" channel="Asahi.jp">
-  <title lang="en">クイズプレゼンバラエティー Qさま!!</title>
-  <desc lang="en">4/25(月)は俳優軍団と芸人軍団がマスドリルで激突！
-その前に…最強アダルト芸人軍団VS今旬ヤング芸人軍団ＳＰを復習！</desc>
-</programme>
+  <programme start="20220425155000 +0900" stop="20220425190000 +0900" channel="NipponTV.jp">
+    <title lang="en">news every.</title>
+    <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+  </programme>
 <programme start="20220424152000 +0900" stop="20220424161500 +0900" channel="Asahi.jp">
   <title lang="en">今田耕司★ヒットの世界「東大生が通販してみた!!」</title>
   <desc lang="en">ボタンを押すだけでプロの味‼時短で出来る電気圧力鍋が約５０％オフ‼▽たった１０分でスッキリ⁉話題の電気ブラシを緊急確保▽なでるだけで全身つるつる新感覚㊙タオル‼</desc>
@@ -1923,9 +1929,9 @@ https//otn.fujitv.co.jp
   <title lang="en">おかしな刑事スペシャル</title>
   <desc lang="en">「父娘コンビ人情捜査！段ボール４箱分の凶器と印籠の謎…水戸黄門が巨悪を暴く⁉妻殺し疑惑の男 有罪率９９％裁判からの不器用すぎる大逆転」伊東四朗、羽田美智子(他)</desc>
 </programme>
-<programme start="20220424145400 +0900" stop="20220424150000 +0900" channel="TBS2.jp">
-  <title lang="en"></title>
-  <desc lang="en">最新のニュースをお伝えします。</desc>
+<programme start="20220425154800 +0900" stop="20220425164500 +0900" channel="Asahi.jp">
+  <title lang="en">相棒season14</title>
+  <desc lang="en">「スポットライト」水谷豊、反町隆史(他)▽会社社長が殺害され、凶器から漫才コンビを組む原田の指紋が検出された。だが原田は、遺体が発見された晩以降、行方をくらまし…</desc>
 </programme>
 <programme start="20220424150000 +0900" stop="20220424163000 +0900" channel="TBS2.jp">
   <title lang="en">「持続可能な恋ですか?」あさって第2話直前!春の純恋愛復習SP</title>
@@ -2017,6 +2023,10 @@ https//otn.fujitv.co.jp
 <programme start="20220425135500 +0900" stop="20220425154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
   <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
+</programme>
+<programme start="20220425154900 +0900" stop="20220425190000 +0900" channel="TBS2.jp">
+  <title lang="en">Nスタ</title>
+  <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
 </programme>
 <programme start="20220424140000 +0900" stop="20220424160000 +0900" channel="TVTokyo.jp">
   <title lang="en">山村美紗サスペンス 不倫調査員 片山由美8 京都着付け教室美人妻殺人事件</title>
@@ -2165,9 +2175,9 @@ https//otn.fujitv.co.jp
   <title lang="en">午後のロードショー</title>
   <desc lang="en">アメリカ人の富豪から、放蕩生活をおくっている息子を連れ戻してほしいと頼まれた男がその息子を殺し、入れ替わろうとする…。青春の輝きと闇を描くサスペンス！</desc>
 </programme>
-<programme start="20220424133500 +0900" stop="20220424150000 +0900" channel="FujiTV.jp">
-  <title lang="en">ゴルフ 40th フジサンケイレディスクラシック</title>
-  <desc lang="en">舞台は世界のゴルフ場１００選に選ばれている「川奈ホテルゴルフコース　富士コース」ニューヒロイン候補達の熱戦を生中継！？　第４０代女王は果たして？</desc>
+<programme start="20220425154000 +0900" stop="20220425165400 +0900" channel="TVTokyo.jp">
+  <title lang="en">よじごじDays</title>
+  <desc lang="en">山梨県八ヶ岳の人気リゾートホテルへ！ヨーロッパ風の街並みには雑貨店などが並び海外旅行気分！他にも乗馬体験や森の空中散歩、ガラスアート作りなど遊べるスポットが満載</desc>
 </programme>
 <programme start="20220424150000 +0900" stop="20220424160000 +0900" channel="FujiTV.jp">
   <title lang="en">みんなのKEIBA</title>
@@ -2287,17 +2297,9 @@ https//otn.fujitv.co.jp
   <desc lang="en">「恋に難あり男女６人本気の恋が始まる⁉」
 広瀬アリス　松村北斗　西野七瀬　藤木直人</desc>
 </programme>
-<programme start="20220424143000 +0900" stop="20220424150000 +0900" channel="Tokyo MX">
-  <title lang="en">水曜どうでしょうClassic</title>
-  <desc lang="en">原付日本列島制覇　第３回</desc>
-</programme>
-<programme start="20220424150000 +0900" stop="20220424153000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220424153000 +0900" stop="20220424155900 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
+<programme start="20220425154500 +0900" stop="20220425190000 +0900" channel="FujiTV.jp">
+  <title lang="en">Live News イット!</title>
+  <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
 </programme>
 <programme start="20220424155900 +0900" stop="20220424160000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2486,6 +2488,14 @@ https//otn.fujitv.co.jp
 <programme start="20220425150000 +0900" stop="20220425150500 +0900" channel="Tokyo MX">
   <title lang="en">MX news FLAG</title>
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
+</programme>
+<programme start="20220425150500 +0900" stop="20220425160000 +0900" channel="Tokyo MX">
+  <title lang="en">如懿伝〜紫禁城に散る宿命の王妃〜</title>
+  <desc lang="en">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
+</programme>
+<programme start="20220425160000 +0900" stop="20220425163000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
 </programme>
 <programme start="20220423230000 +0900" stop="20220424030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP スプリント</title>
