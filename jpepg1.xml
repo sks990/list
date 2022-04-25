@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220425150000 +0900" stop="20220425160000 +0900" channel="ANIMAX.jp">
-  <title lang="en">MIX</title>
-  <desc lang="en">21「もしも…」
-22「妹思いなんですよ」
-親の再婚によって、血は繋がらないが誕生日が同じ、双子(？)の兄弟となった…</desc>
-</programme>
 <programme start="20220425160000 +0900" stop="20220425170000 +0900" channel="ANIMAX.jp">
   <title lang="en">ブラッククローバー</title>
   <desc lang="en">81「ある一人の男の生き方」82「プチット・クローバー！悪夢のチャーミーSP！」
@@ -222,6 +216,12 @@
   <desc lang="en">83「今、焼き付ける」84「勝者」
 魔法がすべての、とある世界…。生まれながらに魔法が使えない少年・アスタは、己…</desc>
 </programme>
+<programme start="20220426170000 +0900" stop="20220426180000 +0900" channel="ANIMAX.jp">
+  <title lang="en">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+  <desc lang="en">49「ワサビでなみだ」
+50「中忍選抜試験推薦会議」
+平和と共に近代化が進んだ木ノ葉隠れの里。七代目火影・うずまき…</desc>
+</programme>
 <programme start="20220424212000 +0900" stop="20220425030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 決勝</title>
 <desc>＜開催＞2022年4月24日（日）【生中継】
@@ -304,7 +304,7 @@
 ＜実況＞塩原恒夫
 ※第2音声会場音
 ※変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8128846/image/4a4bd082cc1f92b82359e2aa4fabe4aa.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425170000 +0900" stop="20220425180000 +0900" channel="FujiNext.jp">
@@ -796,7 +796,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2007年4月1日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8012942/image/cb853ad99b1383aa0b7e9bb470d5e62a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425170000 +0900" stop="20220425173000 +0900" channel="FujiTwo.jp">
@@ -1353,22 +1353,6 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220425155500 +0900" stop="20220425160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">みんなのうた</title>
-    <desc lang="en">「ひよこぐも」うたアヤカ　ウィルソン／「スパークだ！」うたクレイジーケンバンド</desc>
-  </programme>
-  <programme start="20220425160000 +0900" stop="20220425160500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220425160500 +0900" stop="20220425163000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">趣味の園芸 やさいの時間</title>
-    <desc lang="en">二十四節気の暦に沿って、旬の野菜を紹介する新企画。園芸と料理のプロがさまざまな角度から、野菜の旬を深掘り、地域を応援し、生産者の知恵と思いもいただきます。</desc>
-  </programme>
-  <programme start="20220425163000 +0900" stop="20220425164500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 純ちゃんの応援歌</title>
-    <desc lang="en">甲子園球場近くに旅館を開業し、「高校球児の母」と呼ばれる女将（おかみ）として活躍する純子を、涙と笑いとペーソスで描く青春奮戦記。１９８８年放送の連続テレビ小説。</desc>
-  </programme>
   <programme start="20220425164500 +0900" stop="20220425170000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">連続テレビ小説 純ちゃんの応援歌</title>
     <desc lang="en">甲子園球場近くに旅館を開業し、「高校球児の母」と呼ばれる女将（おかみ）として活躍する純子を、涙と笑いとペーソスで描く青春奮戦記。１９８８年放送の連続テレビ小説。</desc>
@@ -1435,7 +1419,7 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
   </programme>
   <programme start="20220425234500 +0900" stop="20220426002500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2022</title>
-    <desc lang="en">米国務・国防長官が侵攻後はじめて首都キーウを訪問　軍事支援協議か▽侵攻から２か月　在日ロシア人の思いは▽マクロン大統領再選　勝因を徹底分析▽Ｍｏｎｄａｙ　ＢＩＺ</desc>
+    <desc lang="en">米国務・国防長官が首都キーウでゼレンスキー大統領と会談▽侵攻から２か月　在日ロシア人の思いは▽マクロン大統領再選　勝因を徹底分析▽Ｍｏｎｄａｙ　ＢＩＺ</desc>
   </programme>
   <programme start="20220426002500 +0900" stop="20220426012500 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ワイルドライフ</title>
@@ -1463,7 +1447,7 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
   </programme>
   <programme start="20220426042000 +0900" stop="20220426050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">国際報道2022</title>
-    <desc lang="en">米国務・国防長官が侵攻後はじめて首都キーウを訪問　軍事支援協議か▽侵攻から２か月　在日ロシア人の思いは▽マクロン大統領再選　勝因を徹底分析▽Ｍｏｎｄａｙ　ＢＩＺ</desc>
+    <desc lang="en">米国務・国防長官が首都キーウでゼレンスキー大統領と会談▽侵攻から２か月　在日ロシア人の思いは▽マクロン大統領再選　勝因を徹底分析▽Ｍｏｎｄａｙ　ＢＩＺ</desc>
   </programme>
   <programme start="20220426050000 +0900" stop="20220426060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">NHKニュース おはよう日本</title>
@@ -1589,25 +1573,21 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220425155500 +0900" stop="20220425160000 +0900" channel="eTele.jp">
-    <title lang="en">浮世絵EDO-LIFE</title>
-    <desc lang="en">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！隅田川の向こう岸にそびえ立つ２本の高い塔。一体これは何？江戸の町に出現したスカイツリー？</desc>
+  <programme start="20220426160500 +0900" stop="20220426163000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">すてきにハンドメイド</title>
+    <desc lang="en">天然素材の風合いがおしゃれなかご。紙ひもを束ねた芯に、細く切った布とラフィア風のテープ糸をぐるぐる巻きつけて作る。講師は、かご作家のｔａｋａｎｅｃｏさん。</desc>
   </programme>
-  <programme start="20220425160000 +0900" stop="20220425161500 +0900" channel="eTele.jp">
-    <title lang="en">いないいないばあっ!</title>
-    <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+  <programme start="20220426163000 +0900" stop="20220426164500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">連続テレビ小説 純ちゃんの応援歌</title>
+    <desc lang="en">甲子園球場近くに旅館を開業し、「高校球児の母」と呼ばれる女将（おかみ）として活躍する純子を、涙と笑いとペーソスで描く青春奮戦記。１９８８年放送の連続テレビ小説。</desc>
   </programme>
-  <programme start="20220425161500 +0900" stop="20220425162500 +0900" channel="eTele.jp">
-    <title lang="en">ノージーのレッツ!ひらめき工房</title>
-    <desc lang="en">子どもたちの“ひらめき”あふれる工作をコレクションしている「ひらめきミュージアム」。みなさんから寄せられた作品の数々を紹介します！</desc>
+  <programme start="20220426164500 +0900" stop="20220426170000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en">総合テレビで再放送される松嶋菜々子さん初主演作品、連続テレビ小説「ひまわり」。松嶋菜々子さんや奥田瑛二さんのインタビューを通じてドラマの魅力に１５分で迫る！</desc>
   </programme>
-  <programme start="20220425162500 +0900" stop="20220425164000 +0900" channel="eTele.jp">
-    <title lang="en">なりきり! むーにゃん生きもの学園</title>
-    <desc lang="en">地球上には変わった鳥がいて、そのひとつ、パフィンは飛ぶのにとっても苦労する鳥。もうひとつはフラミンゴ、クチバシがグニャリと曲がっていて、とても不便そうなのです。</desc>
-  </programme>
-  <programme start="20220425164000 +0900" stop="20220425165000 +0900" channel="eTele.jp">
-    <title lang="en">Why!?プログラミング</title>
-    <desc lang="en">「プログラミング」の楽しさを厚切りジェイソンさんが伝える番組。今回はプログラミングを始めてみたいという方に送る入門編。初歩からわかりやすく解説します。</desc>
+  <programme start="20220426170000 +0900" stop="20220426180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">ニュースLIVE!ゆう5時</title>
+    <desc lang="en">▽外来種ミドリガメどうする？法改正審議中　▽大型連休へ　チューリップフェア会場から中継</desc>
   </programme>
   <programme start="20220425165000 +0900" stop="20220425170000 +0900" channel="eTele.jp">
     <title lang="en">ツクランカー</title>
@@ -1925,6 +1905,26 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
     <title lang="en">いないいないばあっ!</title>
     <desc lang="en">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
   </programme>
+  <programme start="20220426161500 +0900" stop="20220426163000 +0900" channel="eTele.jp">
+    <title lang="en">ノージーのひらめき工房</title>
+    <desc lang="en">４〜５歳からの子どもたちに向けた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
+  </programme>
+  <programme start="20220426163000 +0900" stop="20220426164000 +0900" channel="eTele.jp">
+    <title lang="en">エイゴビート2</title>
+    <desc lang="en">リズムに乗って体を動かし、楽しく英語を身につけよう！英語ビギナーのキッズが、習ったキーフレーズを引っさげて外国人との会話に挑戦。小学３、４年向け。出演・すみれ</desc>
+  </programme>
+  <programme start="20220426164000 +0900" stop="20220426165000 +0900" channel="eTele.jp">
+    <title lang="en">おんがくブラボー</title>
+    <desc lang="en">ＮＨＫ交響楽団のメンバーが太鼓・鉄琴などの打楽楽器の正しい使い方や音色探しの方法まで伝授。最後には合奏も。【出演】白鳥久美子、植松透（Ｎ響）、竹島悟史（Ｎ響）</desc>
+  </programme>
+  <programme start="20220426165000 +0900" stop="20220426170000 +0900" channel="eTele.jp">
+    <title lang="en">テキシコー</title>
+    <desc lang="en">楽しいキャラクターが登場するアニメーションなどを交え、プログラミング的思考（テキシコー）をパソコンを使わずに育むことができる新しいプログラミング教育番組。</desc>
+  </programme>
+  <programme start="20220426170000 +0900" stop="20220426171000 +0900" channel="eTele.jp">
+    <title lang="en">おじゃる丸</title>
+    <desc lang="en">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
+  </programme>
   <programme start="20220425155000 +0900" stop="20220425190000 +0900" channel="NipponTV.jp">
     <title lang="en">news every.</title>
     <desc lang="en">「観光船」の捜索続く知床岬先端で多く発見強風・高波で運航なぜ▽“南部制圧”に動きマリウポリ残る市民は▽ＧＷの穴場スポット首都高初の“遊び場”</desc>
@@ -2021,10 +2021,6 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
     <title lang="en">news every.</title>
     <desc lang="en">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
   </programme>
-<programme start="20220425154800 +0900" stop="20220425164500 +0900" channel="Asahi.jp">
-  <title lang="en">相棒season14</title>
-  <desc lang="en">「スポットライト」水谷豊、反町隆史(他)▽会社社長が殺害され、凶器から漫才コンビを組む原田の指紋が検出された。だが原田は、遺体が発見された晩以降、行方をくらまし…</desc>
-</programme>
 <programme start="20220425164500 +0900" stop="20220425190000 +0900" channel="Asahi.jp">
   <title lang="en">スーパーJチャンネル</title>
   <desc lang="en">東部戦線の攻防が激化「製鉄所」の市民は今▽大谷翔平の豪快アーチは…きょうのショウタイム▽中高生の危ない実態“パパ活”１５歳少女の告白▽１００均節約グッズ(他)</desc>
@@ -2150,6 +2146,10 @@ by.Leonard Cohen</desc>
   <title lang="en">相棒 season11</title>
   <desc lang="en">「同窓会」水谷豊、成宮寛貴(他)▽路上で元教師の老人に、４０年前の写真部の生徒と間違えられた右京。その生徒になりすまし、やむなく同窓会に出席することになるのだが…</desc>
 </programme>
+<programme start="20220426164500 +0900" stop="20220426190000 +0900" channel="Asahi.jp">
+  <title lang="en">スーパーJチャンネル</title>
+  <desc lang="en">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+</programme>
 <programme start="20220425154900 +0900" stop="20220425190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">なぜ悪天候で出航を？知床観光船の遭難事故　発見１１人の死亡を確認　行方不明１５人捜索続く　運航会社には特別監査▽ロの南部支配に対抗　米ウクライナ支援強化　ほか</desc>
@@ -2227,10 +2227,6 @@ by.Leonard Cohen</desc>
 <programme start="20220426154900 +0900" stop="20220426190000 +0900" channel="TBS2.jp">
   <title lang="en">Nスタ</title>
   <desc lang="en">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
-</programme>
-<programme start="20220425154000 +0900" stop="20220425165400 +0900" channel="TVTokyo.jp">
-  <title lang="en">よじごじDays</title>
-  <desc lang="en">山梨県八ヶ岳の人気リゾートホテルへ！ヨーロッパ風の街並みには雑貨店などが並び海外旅行気分！他にも乗馬体験や森の空中散歩、ガラスアート作りなど遊べるスポットが満載</desc>
 </programme>
 <programme start="20220425165400 +0900" stop="20220425170000 +0900" channel="TVTokyo.jp">
   <title lang="en">ゆうがたサテライト</title>
@@ -2391,6 +2387,14 @@ by.Leonard Cohen</desc>
   <title lang="en">よじごじDays</title>
   <desc lang="en">地元の人から聞き出すGWの楽しみ方！知る人ぞ知るモーニングの名店に、自然・アクティビティが満載の公園。更に薪で作る絶品イタリアンに、旬の食材を使った和食まで紹介</desc>
 </programme>
+<programme start="20220426165400 +0900" stop="20220426170000 +0900" channel="TVTokyo.jp">
+  <title lang="en">ゆうがたサテライト</title>
+  <desc lang="en">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
+</programme>
+<programme start="20220426170000 +0900" stop="20220426171000 +0900" channel="TVTokyo.jp">
+  <title lang="en"></title>
+  <desc lang="en">生活に役立つ商品を紹介する通販番組</desc>
+</programme>
 <programme start="20220425154500 +0900" stop="20220425190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">知床観光船の捜索続く…子ども含む乗客安否は▽軍事侵攻から２ヶ月…生後３ヶ月女児も被害▽大谷期待のアーチは▽ワケありだけど安い！直接見ずに家購入！？</desc>
@@ -2498,14 +2502,6 @@ by.Leonard Cohen</desc>
 <programme start="20220426154500 +0900" stop="20220426190000 +0900" channel="FujiTV.jp">
   <title lang="en">Live News イット!</title>
   <desc lang="en">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-</programme>
-<programme start="20220425150500 +0900" stop="20220425160000 +0900" channel="Tokyo MX">
-  <title lang="en">如懿伝〜紫禁城に散る宿命の王妃〜</title>
-  <desc lang="en">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
-</programme>
-<programme start="20220425160000 +0900" stop="20220425163000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
 </programme>
 <programme start="20220425163000 +0900" stop="20220425170000 +0900" channel="Tokyo MX">
   <title lang="en"></title>
@@ -2695,6 +2691,14 @@ by.Leonard Cohen</desc>
   <title lang="en"></title>
   <desc lang="en"> </desc>
 </programme>
+<programme start="20220426163000 +0900" stop="20220426170000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
+<programme start="20220426170000 +0900" stop="20220426180000 +0900" channel="Tokyo MX">
+  <title lang="en">5時に夢中!</title>
+  <desc lang="en">岩下とクリス松村の井戸端ワイドショー▼ニュースに大激論！▼追跡は「ジェンダー表現」を調査！▼クリス松村の愚痴ボンバー！</desc>
+</programme>
 <programme start="20220424212000 +0900" stop="20220425030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 決勝</title>
 <desc>＜開催＞2022年4月24日（日）【生中継】
@@ -2777,7 +2781,7 @@ by.Leonard Cohen</desc>
 ＜実況＞塩原恒夫
 ※第2音声会場音
 ※変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8128846/image/4a4bd082cc1f92b82359e2aa4fabe4aa.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425170000 +0900" stop="20220425180000 +0900" channel="FujiNext.jp">
@@ -3269,7 +3273,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2007年4月1日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8012942/image/cb853ad99b1383aa0b7e9bb470d5e62a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425170000 +0900" stop="20220425173000 +0900" channel="FujiTwo.jp">
