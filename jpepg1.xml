@@ -63,12 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220425120000 +0900" stop="20220425130000 +0900" channel="ANIMAX.jp">
-  <title lang="en">ジョジョの奇妙な冒険ダイヤモンドは砕けない</title>
-  <desc lang="en">1「空条承太郎！ 東方仗助に会う」
-2「東方仗助！ アンジェロに会う」
-エジプトでの死闘から11年後。空条承太郎は祖…</desc>
-</programme>
 <programme start="20220425130000 +0900" stop="20220425140000 +0900" channel="ANIMAX.jp">
   <title lang="en">斉木楠雄のΨ難 Ψ始動編</title>
   <desc lang="en">第1χ「三人の男と幼女と警官とあと犬/ゲームの世界へΨンイン/掲Ψ危機！？終焉社のお仕事/Ψ子自慢！ママ友会議/自…</desc>
@@ -221,6 +215,12 @@
   <title lang="en">斉木楠雄のΨ難 Ψ始動編</title>
   <desc lang="en">第3χ「異Ψを放つ新任教師現る/身体測定のΨ難/両親不Ψの友達の家に遊びに行こう/目指せ！ジャンプ掲Ψ/皆様も是非…</desc>
 </programme>
+<programme start="20220426140000 +0900" stop="20220426150000 +0900" channel="ANIMAX.jp">
+  <title lang="en">はたらく細胞!!</title>
+  <desc lang="en">3「デング熱／ニキビ」
+4「ピロリ菌／抗原変異」
+細胞たちは体という世界の中、今日も元気に、休むことなく働いてい…</desc>
+</programme>
 <programme start="20220424212000 +0900" stop="20220425030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 決勝</title>
 <desc>＜開催＞2022年4月24日（日）【生中継】
@@ -284,7 +284,7 @@
 <desc>グループステージ 第5節 Aグループ「鹿島アントラーズ vs 大分トリニータ」
 ＜開催＞2022年4月23日【再放送】
 ＜解説＞鈴木隆行　＜実況＞黒瀬翔生
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8013594/image/6bb1538a5a9b6d0a29e48c0b3e0bfd03.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425140000 +0900" stop="20220425142000 +0900" channel="FujiNext.jp">
@@ -746,7 +746,7 @@ https//otn.fujitv.co.jp
 <desc>八王子「パペルブルグ」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8012936/image/783934e6805100c650e1190148c87969.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425140000 +0900" stop="20220425150000 +0900" channel="FujiTwo.jp">
@@ -1352,18 +1352,6 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220425124500 +0900" stop="20220425130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">連続テレビ小説 ちむどんどん</title>
-    <desc lang="en">時は１９７１年。暢子はやんばるの高校生。兄・賢秀（竜星涼）、姉・良子（川口春奈）、妹・歌子（上白石萌歌）もそれぞれに大きくなり、兄妹の新たな物語が始まる。</desc>
-  </programme>
-  <programme start="20220425130000 +0900" stop="20220425130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
-  <programme start="20220425130500 +0900" stop="20220425135500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="en">列島ニュース</title>
-    <desc lang="en">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。</desc>
-  </programme>
   <programme start="20220425135500 +0900" stop="20220425140000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">テレビ体操</title>
     <desc lang="en">多胡肇、能條貴大、吉江晴菜、矢作あかり、石川裕平</desc>
@@ -1558,7 +1546,7 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
   </programme>
   <programme start="20220426113000 +0900" stop="20220426115400 +0900" channel="NHK1Tokyo.jp">
     <title lang="en">ひるまえほっと</title>
-    <desc lang="en">▽千葉県・埼玉県・神奈川県のほっとな話題</desc>
+    <desc lang="en">▽乃木坂４６・柴田柚菜が千葉の動物園を紹介▽神奈川県小田原市が「忍者ショー」で地元活性化▽親が帰宅困難・子どもの安全どう守る▽「豆苗とハムの中華風スープ」レシピ</desc>
   </programme>
   <programme start="20220426115400 +0900" stop="20220426120000 +0900" channel="NHK1Tokyo.jp">
     <title lang="en"></title>
@@ -1588,17 +1576,17 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
-  <programme start="20220425125000 +0900" stop="20220425130000 +0900" channel="eTele.jp">
-    <title lang="en">視点・論点</title>
-    <desc lang="en">「『探究』で『学びの変革』を推進する」平川理恵（広島県教育委員会教育長）</desc>
+  <programme start="20220426130500 +0900" stop="20220426135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">列島ニュース</title>
+    <desc lang="en">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。</desc>
   </programme>
-  <programme start="20220425130000 +0900" stop="20220425130500 +0900" channel="eTele.jp">
-    <title lang="en">NHK手話ニュース</title>
-    <desc lang="en">【キャスター】工藤咲子</desc>
+  <programme start="20220426135500 +0900" stop="20220426140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en">テレビ体操</title>
+    <desc lang="en">鈴木大輔、能條貴大、今井菜津美、矢作あかり、杉井勇介</desc>
   </programme>
-  <programme start="20220425130500 +0900" stop="20220425133000 +0900" channel="eTele.jp">
-    <title lang="en">100分de名著</title>
-    <desc lang="en">「世間」において人間は誰でもない誰かとして生きている。すなわち、それは他者と交換可能であることを意味する。しかし「死」だけは交換可能ではないとハイデガーはいう。</desc>
+  <programme start="20220426140000 +0900" stop="20220426140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="en"></title>
+    <desc lang="en"></desc>
   </programme>
   <programme start="20220425133000 +0900" stop="20220425140000 +0900" channel="eTele.jp">
     <title lang="en">カールさんとティーナさんの古民家村だより</title>
@@ -1920,9 +1908,17 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
     <title lang="en">NHK手話ニュース</title>
     <desc lang="en">【キャスター】小野寺善子</desc>
   </programme>
-  <programme start="20220425115500 +0900" stop="20220425135500 +0900" channel="NipponTV.jp">
-    <title lang="en">ヒルナンデス!</title>
-    <desc lang="en">▽ヒットの秘密…業務用スーパーの社長に直撃、丸ごと牛乳パックスイーツとは⁉▽新生活応援家電…アイスを溶けるオーブンレンジ▽サバ缶に名を賭ける！シェフの家飯戦い</desc>
+  <programme start="20220426130500 +0900" stop="20220426133000 +0900" channel="eTele.jp">
+    <title lang="en">趣味の園芸 やさいの時間</title>
+    <desc lang="en">二十四節気の暦に沿って、旬の野菜を紹介する新企画。園芸と料理のプロがさまざまな角度から、野菜の旬を深掘り、地域を応援し、生産者の知恵と思いもいただきます。</desc>
+  </programme>
+  <programme start="20220426133000 +0900" stop="20220426140000 +0900" channel="eTele.jp">
+    <title lang="en">ふるカフェ系 ハルさんの休日</title>
+    <desc lang="en">全国の古民家カフェを訪ねる番組。今回は学研都市つくばの洋館。しかしただの洋館ではない！白銀比に黄金比も！謎の建物の正体は？懐かしい女性たちの花形の職業も登場。</desc>
+  </programme>
+  <programme start="20220426140000 +0900" stop="20220426142500 +0900" channel="eTele.jp">
+    <title lang="en">旅するためのイタリア語</title>
+    <desc lang="en">旅に役立つイタリア語を楽しく学べる講座。今シリーズでは、２０２０年度１０〜３月に放送した「入門編」を見ながらの復習と、多彩な新作コーナーとをお届けします。</desc>
   </programme>
   <programme start="20220425135500 +0900" stop="20220425155000 +0900" channel="NipponTV.jp">
     <title lang="en">情報ライブ ミヤネ屋</title>
@@ -2016,26 +2012,10 @@ EXO カイ出演！ファッションのお悩みを解決するバラエティ�
     <title lang="en">ヒルナンデス!</title>
     <desc lang="en">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
   </programme>
-<programme start="20220425102500 +0900" stop="20220425130000 +0900" channel="Asahi.jp">
-  <title lang="en">大下容子ワイド!スクランブル</title>
-  <desc lang="en">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！▽「船首に亀裂あった」過去事故も修復せず？知床沖不明者捜索続く</desc>
-</programme>
-<programme start="20220425130000 +0900" stop="20220425133000 +0900" channel="Asahi.jp">
-  <title lang="en">徹子の部屋</title>
-  <desc lang="en">〜女優として母として…李麗仙さんとの思い出〜大鶴義丹さんが今日のゲストです。</desc>
-</programme>
-<programme start="20220425133000 +0900" stop="20220425134500 +0900" channel="Asahi.jp">
-  <title lang="en">DAIGOも台所〜きょうの献立何にする?〜</title>
-  <desc lang="en">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは本当に大変…日々の料理の悩みにこたえる献立を複数提案！</desc>
-</programme>
-<programme start="20220425134500 +0900" stop="20220425134900 +0900" channel="Asahi.jp">
-  <title lang="en">東京サイト</title>
-  <desc lang="en">東京都が、散歩に最適な区市町村のコースを紹介するサイト「トーキョーウォーキングマップ」。今回は起伏に富んだ地形を楽しめる約860ｍの「哲学堂公園周遊コース」です。</desc>
-</programme>
-<programme start="20220425134900 +0900" stop="20220425135400 +0900" channel="Asahi.jp">
-  <title lang="en">ANNニュース</title>
-  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-</programme>
+  <programme start="20220426135500 +0900" stop="20220426155000 +0900" channel="NipponTV.jp">
+    <title lang="en">情報ライブ ミヤネ屋</title>
+    <desc lang="en">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+  </programme>
 <programme start="20220425135400 +0900" stop="20220425154800 +0900" channel="Asahi.jp">
   <title lang="en">おかしな刑事スペシャル</title>
   <desc lang="en">「父娘コンビ人情捜査！段ボール４箱分の凶器と印籠の謎…水戸黄門が巨悪を暴く⁉妻殺し疑惑の男 有罪率９９％裁判からの不器用すぎる大逆転」伊東四朗、羽田美智子(他)</desc>
@@ -2149,9 +2129,21 @@ by.Leonard Cohen</desc>
   <title lang="en">徹子の部屋</title>
   <desc lang="en">〜スターたちの美と健康の秘訣〜ジャイアント馬場さん・浅香光代さん・森光子さん・榎木孝明さん…今日はスターたちが語る“美と健康の秘訣”を貴重な映像でお届けします！</desc>
 </programme>
-<programme start="20220425102500 +0900" stop="20220425135500 +0900" channel="TBS2.jp">
-  <title lang="en">ひるおび!</title>
-  <desc lang="en">ウクライナ侵攻開始から2か月　要衝マリウポリの現状は？集団墓地で虐殺の証拠隠滅か▽軍事作戦は第2段階へ　ロシア軍モルドバ介入も▽ペンギンの日水族館で飼育体験中継</desc>
+<programme start="20220426133000 +0900" stop="20220426134500 +0900" channel="Asahi.jp">
+  <title lang="en">DAIGOも台所〜きょうの献立何にする?〜</title>
+  <desc lang="en">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは本当に大変…日々の料理の悩みにこたえる献立を複数提案！</desc>
+</programme>
+<programme start="20220426134500 +0900" stop="20220426134900 +0900" channel="Asahi.jp">
+  <title lang="en">東京サイト</title>
+  <desc lang="en">東京都が、散歩に最適な区市町村のコースを紹介するサイト「トーキョーウォーキングマップ」。今回は自然豊かな約3㎞の「河川沿いウォーキングマップ神田川コース」です。</desc>
+</programme>
+<programme start="20220426134900 +0900" stop="20220426135400 +0900" channel="Asahi.jp">
+  <title lang="en">ANNニュース</title>
+  <desc lang="en">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+</programme>
+<programme start="20220426135400 +0900" stop="20220426154800 +0900" channel="Asahi.jp">
+  <title lang="en">人類学者・岬久美子の殺人鑑定7</title>
+  <desc lang="en">「光るガラスが未解決事件を解く！夫と消えたアモーレはどこに⁉」大塚寧々(他)▽殺人事件の被疑者であるガラス職人が、白骨死体で見つかった。彼は自殺なのか、他殺なのか…</desc>
 </programme>
 <programme start="20220425135500 +0900" stop="20220425154900 +0900" channel="TBS2.jp">
   <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
@@ -2227,9 +2219,9 @@ by.Leonard Cohen</desc>
   <title lang="en">ひるおび!</title>
   <desc lang="en">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
 </programme>
-<programme start="20220425114000 +0900" stop="20220425134000 +0900" channel="TVTokyo.jp">
-  <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
-  <desc lang="en">あなたのご飯見せて下さい▽茨城県坂東市…茎レタスサラダ＆セリの美味しい食べ方＆春の味！タケノコご飯▽東京都墨田区…２年半待ちのジョウロ＆ウインナー茶わん蒸し</desc>
+<programme start="20220426135500 +0900" stop="20220426154900 +0900" channel="TBS2.jp">
+  <title lang="en">ゴゴスマ〜GOGO!Smile!〜</title>
+  <desc lang="en">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
 </programme>
 <programme start="20220425134000 +0900" stop="20220425154000 +0900" channel="TVTokyo.jp">
   <title lang="en">午後のロードショー</title>
@@ -2389,6 +2381,11 @@ by.Leonard Cohen</desc>
   <title lang="en">昼めし旅〜あなたのご飯見せてください!〜</title>
   <desc lang="en">あなたのご飯見せて下さい▽千葉県鎌ケ谷市…農家さん直伝！春小かぶガーリック炒め＆豆乳クリームシチュー▽千葉県千葉市…秋田から移住した仲良し夫婦手打ちそば</desc>
 </programme>
+<programme start="20220426134000 +0900" stop="20220426154000 +0900" channel="TVTokyo.jp">
+  <title lang="en">午後のロードショー</title>
+  <desc lang="en">トム・クルーズ×ニコール・キッドマン共演！監督トニー・スコット、ジェリー・ブラッカイマー製作の大迫力カーアクション！
+時速300キロの世界に生きる男たち</desc>
+</programme>
 <programme start="20220425114500 +0900" stop="20220425144500 +0900" channel="FujiTV.jp">
   <title lang="en">ポップUP!</title>
   <desc lang="en">本田翼のウワサを生で直撃！衝撃モテ伝説＆謎暗号▽スシローマニア厳選ＧＷ限定！激ウマ番付▽国民的美少女の今！４３歳小田茜ヨガ講師に▽ママ必見メイク時短術</desc>
@@ -2497,14 +2494,6 @@ by.Leonard Cohen</desc>
 <programme start="20220426114500 +0900" stop="20220426144500 +0900" channel="FujiTV.jp">
   <title lang="en">ポップUP!</title>
   <desc lang="en">①話題の芸能人生出演「スター・ニュース速報」②マニア＆通が明かすランキング「くろうと番付」③アナタはどっち派？気になる話題で井戸端④芸能エンタメ深掘り</desc>
-</programme>
-<programme start="20220425123000 +0900" stop="20220425130000 +0900" channel="Tokyo MX">
-  <title lang="en"></title>
-  <desc lang="en"> </desc>
-</programme>
-<programme start="20220425130000 +0900" stop="20220425130500 +0900" channel="Tokyo MX">
-  <title lang="en">MX news FLAG</title>
-  <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
 <programme start="20220425130500 +0900" stop="20220425140000 +0900" channel="Tokyo MX">
   <title lang="en">サム、マイウェイ 〜恋の一発逆転!〜</title>
@@ -2694,6 +2683,14 @@ by.Leonard Cohen</desc>
   <title lang="en">MX news FLAG</title>
   <desc lang="en">東京の様々なニュースをお伝えします。</desc>
 </programme>
+<programme start="20220426130500 +0900" stop="20220426140000 +0900" channel="Tokyo MX">
+  <title lang="en">花様年華〜君といた季節〜</title>
+  <desc lang="en">ユ・ジテ×イ・ボヨンのＷ主演！初恋相手と運命的な再会を果たした男女が、再び惹かれ合い紡いでいく大人のラブストーリー！</desc>
+</programme>
+<programme start="20220426140000 +0900" stop="20220426143000 +0900" channel="Tokyo MX">
+  <title lang="en"></title>
+  <desc lang="en"> </desc>
+</programme>
 <programme start="20220424212000 +0900" stop="20220425030000 +0900" channel="FujiNext.jp">
 <title lang="en">[生]2022 FORMULA 1　第4戦 エミリア・ロマーニャGP 決勝</title>
 <desc>＜開催＞2022年4月24日（日）【生中継】
@@ -2757,7 +2754,7 @@ by.Leonard Cohen</desc>
 <desc>グループステージ 第5節 Aグループ「鹿島アントラーズ vs 大分トリニータ」
 ＜開催＞2022年4月23日【再放送】
 ＜解説＞鈴木隆行　＜実況＞黒瀬翔生
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8013594/image/6bb1538a5a9b6d0a29e48c0b3e0bfd03.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425140000 +0900" stop="20220425142000 +0900" channel="FujiNext.jp">
@@ -3219,7 +3216,7 @@ https//otn.fujitv.co.jp
 <desc>八王子「パペルブルグ」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220425/8012936/image/783934e6805100c650e1190148c87969.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220425140000 +0900" stop="20220425150000 +0900" channel="FujiTwo.jp">
