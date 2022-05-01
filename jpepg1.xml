@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220501153000 +0900" stop="20220501203000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">キングダム</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">★アニメが特盛り ゴールデンウィーク★
-10〜19
-紀元前、中国。戦災孤児として暮らしていた2人の少年、信と漂の夢は…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen"></episode-num>
-</programme>
 <programme start="20220501203000 +0900" stop="20220502013000 +0900" channel="ANIMAX.jp">
   <title lang="ko">キングダム</title>
     <rating system="MPAA">
@@ -160,6 +149,17 @@
     </rating>
     <desc lang="ko">★アニメが特盛り ゴールデンウィーク★
 11〜20
+特殊部隊の将となった信は、着実に武功を重ねていく。そんな中、秦は…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen"></episode-num>
+</programme>
+<programme start="20220502203000 +0900" stop="20220503013000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">キングダム 第2シリーズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">★アニメが特盛り ゴールデンウィーク★
+21〜30
 特殊部隊の将となった信は、着実に武功を重ねていく。そんな中、秦は…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
@@ -764,7 +764,7 @@ https//otn.fujitv.co.jp
 <desc>第764話「野郎共へ サンジ別れの置き手紙」　（地上波放送日　2016年11月13日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220501/8041003/image/52a2b6b368e107772cefe8af7d6375d3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220501210000 +0900" stop="20220501230000 +0900" channel="FujiTwo.jp">
@@ -1197,33 +1197,6 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220501193000 +0900" stop="20220501200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ダーウィンが来た!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">北海道の島に数千頭のトド、千葉では本来いるはずのないサルの巨大な群れが、さらに東京・八丈島ではこれまで見られなかった場所で巨大クジラ大集結。一体なぜ？謎に迫る！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen"></episode-num>
-  </programme>
-  <programme start="20220501200000 +0900" stop="20220501204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">鎌倉殿の13人</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">木曽義仲（青木崇高）討伐により再び暗雲が立ち込める鎌倉。源頼朝（大泉洋）は、義時（小栗旬）に義仲の嫡男・義高（市川染五郎）の処断を命令。政子（小池栄子）は憤り…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen"></episode-num>
-  </programme>
-  <programme start="20220501204500 +0900" stop="20220501205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen"></episode-num>
-  </programme>
   <programme start="20220501205500 +0900" stop="20220501210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -1836,21 +1809,30 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
   </programme>
-  <programme start="20220501195500 +0900" stop="20220501200000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK手話ニュース</title>
+  <programme start="20220502204200 +0900" stop="20220502204500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHK</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【キャスター】赤堀仁美</desc>
+    <desc lang="ko">【キャスター】高瀬耕造</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
   </programme>
-  <programme start="20220501200000 +0900" stop="20220501204500 +0900" channel="eTele.jp">
-    <title lang="ko">日曜美術館</title>
+  <programme start="20220502204500 +0900" stop="20220502210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ニュース845</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">京都を舞台にした国際的写真祭。ふだん入ることが出来ない寺や町屋には、世界トップクラスの作品が。知られざる京都に出会える写真祭。写真が誘う京都の町の大冒険！</desc>
+    <desc lang="ko">「首都圏ニュース８４５」ほっと一息の時間。これさえ見れば、きょう１日の首都圏のニュース、あすの気象情報がわかる。“ちょうどいい１５分間”明日の暮らしのヒントに！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen"></episode-num>
+  </programme>
+  <programme start="20220502210000 +0900" stop="20220502220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ニュースウオッチ9</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽ウクライナ最新情勢を詳しく▽ロシア軍の動向は？▽さよなら黒川紀章の名建築　カプセルタワーが残したもの</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
   </programme>
@@ -2511,12 +2493,30 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
   </programme>
-  <programme start="20220501195800 +0900" stop="20220501205400 +0900" channel="NipponTV.jp">
-    <title lang="ko">世界の果てまでイッテQ!</title>
+  <programme start="20220502203000 +0900" stop="20220502204500 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの健康</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">お祭り宮川ＶＳ最強王者！みかんの皮４０ｍ飛ばせ＆納豆１箱３０秒で食べろ▼みやぞん神秘の自然現象「富山湾のサファイア」を狙え＆過酷雪山登山で日本三名山奇跡絶景へ</desc>
+    <desc lang="ko">家族や友人との楽しい旅行、「ひざの痛みがあるから」と諦めず、旅行に行くための体作り、階段を上手に上るコツから、旅先でもできるストレッチ方法まで紹介する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen"></episode-num>
+  </programme>
+  <programme start="20220502204500 +0900" stop="20220502210000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK手話ニュース845</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen"></episode-num>
+  </programme>
+  <programme start="20220502210000 +0900" stop="20220502212500 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの料理</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ちょっと手ごわいイメージの「塊肉」。使い方次第で、実は、食卓の強い味方になってくれるんです！今回は塊肉活用の達人２人に、おすすめの調理法とアレンジを教わります。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
   </programme>
@@ -2718,15 +2718,15 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
   </programme>
-<programme start="20220501195800 +0900" stop="20220501205600 +0900" channel="Asahi.jp">
-  <title lang="ko">ポツンと一軒家</title>
+  <programme start="20220502210000 +0900" stop="20220502215400 +0900" channel="NipponTV.jp">
+    <title lang="ko">しゃべくり007</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
+    <desc lang="ko">松本人志も認める男・ＪＰ参戦‼農業高校出身・異色のものまね芸人が語る異常な恋愛行動‼謎の野菜宅配攻撃＆こっそり出待ち…６年間恋焦がれる㊙女性乱入で大パニック‼</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
-</programme>
+  </programme>
 <programme start="20220501205600 +0900" stop="20220501210000 +0900" channel="Asahi.jp">
   <title lang="ko">食ノ音色</title>
     <rating system="MPAA">
@@ -2991,15 +2991,6 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
 </programme>
-<programme start="20220501183000 +0900" stop="20220501205400 +0900" channel="TBS2.jp">
-  <title lang="ko">坂上指原のつぶれない店</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「ローソン」徹底解剖ＳＰ！冷凍なのに解凍ゼロ分スイーツ＆激ウマお刺身！ゴディバに八天堂…コラボ支える仕事人！ロバート馬場、ついに新商品開発に初挑戦！ところが…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen"></episode-num>
-</programme>
 <programme start="20220501205400 +0900" stop="20220501210000 +0900" channel="TBS2.jp">
   <title lang="ko">フラッシュニュース</title>
     <rating system="MPAA">
@@ -3170,6 +3161,15 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">🈑ジャニーズ注目株！7 MEN 侍の中村嶺亜、ザコシショウなどアート造詣深い芸能人集結！密林歩いて描け！ジャングルアート…GPS駆使し巨大なミッフィー描けるか？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen"></episode-num>
+</programme>
+<programme start="20220502210000 +0900" stop="20220502225700 +0900" channel="TBS2.jp">
+  <title lang="ko">CDTVライブ!ライブ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">番組冒頭夜９時はあの人気曲からスタート！なにわ男子・SEVENTEEN・BEFIRST・ENHYPEN・milet・BiSHが激アツライブ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
 </programme>
@@ -3721,6 +3721,15 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
 </programme>
+<programme start="20220502210000 +0900" stop="20220502215400 +0900" channel="FujiTV.jp">
+  <title lang="ko">元彼の遺言状</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">主演綾瀬はるか×大泉洋！超豪華バディで謎解き！「私は人を殺しました」超人気作家の新作発表会での激白！しかし、新たに実行犯を名乗る人物が現れ…驚きの結末</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen"></episode-num>
+</programme>
 <programme start="20220501190000 +0900" stop="20220501210000 +0900" channel="Tokyo MX">
   <title lang="ko">セーラー服と機関銃</title>
     <rating system="MPAA">
@@ -4115,6 +4124,15 @@ ATEEZのヨーロッパツアー密着＆PREMIER SHOWCASEの模様をお届け�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">なかなか進んでいない若者のコロナワクチン接種を促進させようと、千代田区が大学生からのヒアリングを実施！若者の本音とは？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen"></episode-num>
+</programme>
+<programme start="20220502203000 +0900" stop="20220502212500 +0900" channel="Tokyo MX">
+  <title lang="ko">バラいろダンディ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">武井壮×苫米地英人！▼時事からコラムまでオトナたちが大激論＆ちょっと抽象度が高くなった“気がする”『銀河系ゼミナールＫｕ』▼ＭＣふかわりょう・大島由香里</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen"></episode-num>
 </programme>
@@ -4718,7 +4736,7 @@ https//otn.fujitv.co.jp
 <desc>第764話「野郎共へ サンジ別れの置き手紙」　（地上波放送日　2016年11月13日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220501/8041003/image/52a2b6b368e107772cefe8af7d6375d3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220501210000 +0900" stop="20220501230000 +0900" channel="FujiTwo.jp">
