@@ -63,19 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220504063000 +0900" stop="20220504073000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ちびまる子ちゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">★アニメが特盛り ゴールデンウィーク★
-31「まるちゃん南の島へ行く(前編)」
-32「まるちゃん南の島へ行く(後編)」
-…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220504073000 +0900" stop="20220504083000 +0900" channel="ANIMAX.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -181,6 +168,19 @@
     <desc lang="ko">★アニメが特盛り ゴールデンウィーク★
 35「まるちゃん写真屋さんに行く/嵐の夜の出来事」
 36「まるちゃん熱帯魚を…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220505080000 +0900" stop="20220505103000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">名探偵コナン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">★アニメが特盛り ゴールデンウィーク★
+746〜750「緋色の序章/緋色の追求/緋色の交錯/緋色の帰還/緋色の真相」
+
+安…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -358,7 +358,7 @@ https//otn.fujitv.co.jp
 <programme start="20220504070000 +0900" stop="20220504080000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　11「大井川鐵道 本線」</title>
 <desc>11『大井川鐵道 本線』 静岡県の大井川に沿って北に伸びる大井川鐵道本線。JR東海道線が接続する「金谷」から「千頭」に至る営業キロ39.5km、駅数18の路線
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220504/8086257/image/56e4a0e88509c394e383411d34504eeb.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220504080000 +0900" stop="20220504084000 +0900" channel="FujiOne.jp">
@@ -1182,36 +1182,6 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220504065500 +0900" stop="20220504070000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220504070000 +0900" stop="20220504072500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼知床観光船事故　捜索は　▼“ふるさとを守りたい”豪雨で被災した女性が消防士に</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220504072500 +0900" stop="20220504073000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220504073000 +0900" stop="20220504080000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
@@ -1882,52 +1852,32 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220504065500 +0900" stop="20220504070000 +0900" channel="eTele.jp">
-    <title lang="ko">Eテレ0655</title>
+  <programme start="20220505072500 +0900" stop="20220505073000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220504070000 +0900" stop="20220504071000 +0900" channel="eTele.jp">
-    <title lang="ko">ゴー!ゴー!キッチン戦隊クックルン</title>
+  <programme start="20220505073000 +0900" stop="20220505080000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「アニメ」×「実写」の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルンの３人と元シェルフィッシュ星のお姫様が繰り広げる笑いと涙の冒険物語。</desc>
+    <desc lang="ko">祝日のスタートもカラフルに！国内外で起きた最新ニュース・社会の深層に鋭く迫る特集・今日一日の気象情報など</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220504071000 +0900" stop="20220504072000 +0900" channel="eTele.jp">
-    <title lang="ko">はなかっぱ</title>
+  <programme start="20220505080000 +0900" stop="20220505081500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">連続テレビ小説 ちむどんどん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220504072000 +0900" stop="20220504073000 +0900" channel="eTele.jp">
-    <title lang="ko">オハ!よ〜いどん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「オハ！よ〜いどん」は毎週月〜水曜のあさ７２０から放送中。リモートで日本全国のお友達を結んで楽しい朝の会を開きます。コージ園長と元気に１日のスタートを切ろう！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220504073000 +0900" stop="20220504074500 +0900" channel="eTele.jp">
-    <title lang="ko">みいつけた!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <desc lang="ko">暢子たち料理部の参加する大会が始まる。暢子の沖縄そばで、ライバル校の料理部としのぎを削る。ところが思わぬハプニングに見舞われ大ピンチに。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2742,6 +2692,46 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220505071000 +0900" stop="20220505072000 +0900" channel="eTele.jp">
+    <title lang="ko">はなかっぱ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220505072000 +0900" stop="20220505073000 +0900" channel="eTele.jp">
+    <title lang="ko">でこぼこポン!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">発達障害などの子が、社会生活で大切なスキルを学べる番組です。困っている子をサポートする方法を描いたドラマやゲーム、体操を通じて、発達を促します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220505073000 +0900" stop="20220505074500 +0900" channel="eTele.jp">
+    <title lang="ko">みいつけた!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220505074500 +0900" stop="20220505080900 +0900" channel="eTele.jp">
+    <title lang="ko">おかあさんといっしょ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220504063000 +0900" stop="20220504080000 +0900" channel="NipponTV.jp">
     <title lang="ko">ZIP!</title>
     <rating system="MPAA">
@@ -2990,6 +2980,16 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220505080000 +0900" stop="20220505102500 +0900" channel="NipponTV.jp">
+    <title lang="ko">スッキリ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3306,6 +3306,16 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220505080000 +0900" stop="20220505095500 +0900" channel="Asahi.jp">
+  <title lang="ko">羽鳥慎一モーニングショー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220504052000 +0900" stop="20220504080000 +0900" channel="TBS2.jp">
   <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
@@ -3519,45 +3529,12 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220504053500 +0900" stop="20220504070000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ものスタ</title>
+<programme start="20220505080000 +0900" stop="20220505095500 +0900" channel="TBS2.jp">
+  <title lang="ko">ラヴィット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220504070000 +0900" stop="20220504070500 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">番組のみどころを紹介します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220504070500 +0900" stop="20220504073000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">おはスタ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ＯＨＡ！小学生必見！ワクワクが詰まってる情報ステーション・おはスタ！話題のゲームやホビー、アニメ…見逃せない最新情報！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220504073000 +0900" stop="20220504073500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">秒でNEWS180</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">学校に行く前に！隙間時間に！社会、国際、経済、科学、カルチャー、エンタメ等が分かる“ジュニア向けNEWSショー”放送＋配信で、月曜日から金曜日３分＝180秒でお届け</desc>
+    <desc lang="ko">ＵＳＪ最新アトラクション！進撃の巨人＆マリオにニューヨーク鬼越トマホーク美 少年が変身！▼大自然キャンプ場特集！一日一組プライベート空間の極上キャンプ…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3906,6 +3883,46 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220505070500 +0900" stop="20220505073000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">おはスタ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ＯＨＡ！小学生必見！ワクワクが詰まってる情報ステーション・おはスタ！話題のゲームやホビー、アニメ…見逃せない最新情報！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220505073000 +0900" stop="20220505073500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">秒でNEWS180</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">学校に行く前に！隙間時間に！社会、国際、経済、科学、カルチャー、エンタメ等が分かる“ジュニア向けNEWSショー”放送＋配信で、月曜日から金曜日３分＝180秒でお届け</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220505073500 +0900" stop="20220505080000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">シナぷしゅ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220505080000 +0900" stop="20220505081500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ハーフタイムツアーズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220504052500 +0900" stop="20220504080000 +0900" channel="FujiTV.jp">
   <title lang="ko">めざましテレビ</title>
     <rating system="MPAA">
@@ -4136,12 +4153,12 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220504060000 +0900" stop="20220504070000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220505080000 +0900" stop="20220505095000 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざまし8</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">国内外の商品を生放送でご紹介。ここでしか買えないレアなアイテムや、人気のブランドのアイテムなど、バラエティ豊かに登場しますので、お見逃しなく！</desc>
+    <desc lang="ko">谷原章介＆永島優美と新しい朝を始めよう！目が覚める今日一番のニュースをしっかり伝えます！当事者たちを独自取材。わかるまで解説します。天達が天気を深掘り！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4656,6 +4673,16 @@ Mnetがお届けする韓流情報番組「MタメBANG！」！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220505080000 +0900" stop="20220505083000 +0900" channel="Tokyo MX">
+  <title lang="ko">明日も晴れ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ファッション業界を舞台に、男女４人が恋に仕事に奮闘するハートフル・ストーリー！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220504000000 +0900" stop="20220504012000 +0900" channel="FujiNext.jp">
 <title lang="ko">ローレウス 世界スポーツ賞2022</title>
 <desc>国枝慎吾、西矢椛、堀米雄斗ら日本人選手もノミネート！ スポーツ選手や団体の偉業を称える毎年恒例のイベント「ローレウス世界スポーツ賞」を放送！
@@ -4829,7 +4856,7 @@ https//otn.fujitv.co.jp
 <programme start="20220504070000 +0900" stop="20220504080000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　11「大井川鐵道 本線」</title>
 <desc>11『大井川鐵道 本線』 静岡県の大井川に沿って北に伸びる大井川鐵道本線。JR東海道線が接続する「金谷」から「千頭」に至る営業キロ39.5km、駅数18の路線
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220504/8086257/image/56e4a0e88509c394e383411d34504eeb.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220504080000 +0900" stop="20220504084000 +0900" channel="FujiOne.jp">
