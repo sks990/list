@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220509150000 +0900" stop="20220509160000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">機動戦士ガンダム</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">5「大気圏突入」
-6「ガルマ出撃す」
-宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都市）に移住…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220509160000 +0900" stop="20220509170000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ブラッククローバー</title>
     <rating system="MPAA">
@@ -407,6 +395,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220510170000 +0900" stop="20220510180000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">59「ボルトVSシカダイ」
+60「木ノ葉隠れVS砂隠れ」
+平和と共に近代化が進んだ木ノ葉隠れの里。七代目火影・うずまき…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220508233000 +0900" stop="20220509003000 +0900" channel="FujiNext.jp">
 <title lang="ko">武部聡志ときくちから</title>
 <desc>3年半ぶりに振り返るオールタイムベスト音楽雑談。第1弾は武部聡志音楽監督が久々語るももクロとSMAP・KinKi Kidsからyui・リトグリ・あいらもえか、他
@@ -494,7 +494,7 @@
 <title lang="ko">番組PR【5月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220509/8093529/image/dc51f52060392e3a50f64619ae93dd6a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220509170000 +0900" stop="20220509180000 +0900" channel="FujiNext.jp">
@@ -943,7 +943,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2007年11月18日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220509/8092470/image/9261c1b977a11de228ec55a974f6cc72.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220509170000 +0900" stop="20220509173000 +0900" channel="FujiTwo.jp">
@@ -1202,7 +1202,7 @@ https//otn.fujitv.co.jp
 <programme start="20220509163000 +0900" stop="20220509170000 +0900" channel="kbsworld.jp">
 <title lang="ko">インフォメーション</title>
 <desc> 
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220509/8090817/image/6b7b5eaee2b0c76be9736cdaa91aab0d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220509170000 +0900" stop="20220509181000 +0900" channel="kbsworld.jp">
@@ -1522,26 +1522,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220509155500 +0900" stop="20220509160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2022年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">初日から荒れる夏！きょうの上位陣は？黒星スタート　横綱・照ノ富士は髙安　大関・正代は琴ノ若　貴景勝は霧馬山　ともに初日に大関を破った二人と！　関脇・若隆景は玉鷲</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220509160000 +0900" stop="20220509163100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220509163100 +0900" stop="20220509180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -2088,56 +2068,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">（４１０）「幕内取組」　【解説】正面（幕内）…芝田山（元大乃国），向正面（幕内）…若松（元朝乃若），【アナウンサー】正面（幕内）…三輪洋雄ほか</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220509155500 +0900" stop="20220509160000 +0900" channel="eTele.jp">
-    <title lang="ko">浮世絵EDO-LIFE</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">浮世絵の世界をのぞいてみれば江戸のリアルな暮らしが見えてくる！今回は江戸の近海で繰り広げられたボートレース！注目はペリーもびっくりの速さ。秘けつは体の使い方！？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220509160000 +0900" stop="20220509161500 +0900" channel="eTele.jp">
-    <title lang="ko">いないいないばあっ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220509161500 +0900" stop="20220509162500 +0900" channel="eTele.jp">
-    <title lang="ko">ノージーのレッツ!ひらめき工房</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">子どもたちに向けた工作・造形あそびの番組です。今回は特別編！プロの漫画家・作家さんたちの「顔」の描き方を一挙放送します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220509162500 +0900" stop="20220509164000 +0900" channel="eTele.jp">
-    <title lang="ko">なりきり! むーにゃん生きもの学園</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">みんなは「アリジゴク」って知ってる？地面に丸くへこんだ巣穴を作って、落ちたアリを引きずり込んで食べちゃう。アリにとってまさに“悪魔”みたいにコワーい虫なのです。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220509164000 +0900" stop="20220509165000 +0900" channel="eTele.jp">
-    <title lang="ko">Why!?プログラミング</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「プログラミング」の楽しさを厚切りジェイソンさんが伝える番組。スクラッチワールドの異変をプログラミングで直す。今回は小学校の「図工」でも活用できる番組です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2922,6 +2852,56 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220510161500 +0900" stop="20220510163000 +0900" channel="eTele.jp">
+    <title lang="ko">ノージーのひらめき工房</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">４〜５歳からの子どもたちに向けた工作・造形あそびの番組です。身の回りの出来事や材料をよく観察し、自分なりのひらめきで自由に作品を生み出す楽しさを伝えます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220510163000 +0900" stop="20220510164000 +0900" channel="eTele.jp">
+    <title lang="ko">エイゴビート2</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">リズムに乗って体を動かし、楽しく英語を身につけよう！英語ビギナーのキッズが、習ったキーフレーズを引っさげて外国人との会話に挑戦。小学３、４年向け。出演・すみれ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220510164000 +0900" stop="20220510165000 +0900" channel="eTele.jp">
+    <title lang="ko">おんがくブラボー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">音符がわからなくても、楽譜が書けなくても音楽は作れる！メロディがなくてもリズムを重ねることで楽しい音楽を作る。【出演】白鳥久美子・山本シュウ（声）ほか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220510165000 +0900" stop="20220510170000 +0900" channel="eTele.jp">
+    <title lang="ko">テキシコー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">楽しいキャラクターが登場するアニメーションなどを交え、プログラミング的思考（テキシコー）をパソコンを使わずに育むことができる新しいプログラミング教育番組。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220510170000 +0900" stop="20220510171000 +0900" channel="eTele.jp">
+    <title lang="ko">おじゃる丸</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220509155000 +0900" stop="20220509190000 +0900" channel="NipponTV.jp">
     <title lang="ko">news every.</title>
     <rating system="MPAA">
@@ -3192,16 +3172,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220509154800 +0900" stop="20220509164500 +0900" channel="Asahi.jp">
-  <title lang="ko">相棒season6</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシア「戦勝記念日」軍事パレードを詳しく、注目の「戦争宣言」は…プーチン氏は何を語る▽どう運んで届くのか…追跡！欧米の武器供与(他)</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220509164500 +0900" stop="20220509190000 +0900" channel="Asahi.jp">
   <title lang="ko">スーパーJチャンネル</title>
     <rating system="MPAA">
@@ -3511,6 +3481,16 @@ by.Talking Heads</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220510164500 +0900" stop="20220510190000 +0900" channel="Asahi.jp">
+  <title lang="ko">スーパーJチャンネル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220509154900 +0900" stop="20220509190000 +0900" channel="TBS2.jp">
   <title lang="ko">Nスタ</title>
     <rating system="MPAA">
@@ -3699,16 +3679,6 @@ by.Talking Heads</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220509154000 +0900" stop="20220509165400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">よじごじDays</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この春、デビューした新人たちの奮闘に密着！女性タクシードライバーが発見した㊙絶景スポット＆癒やしのグルメ。夫婦で始めたキッチンカーの裏事情＆秘策の新メニュー？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4108,6 +4078,26 @@ by.Talking Heads</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220510165400 +0900" stop="20220510170000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ゆうがたサテライト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220510170000 +0900" stop="20220510171000 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">生活に役立つ商品を紹介する通販番組</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220509154500 +0900" stop="20220509190000 +0900" channel="FujiTV.jp">
   <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
@@ -4364,26 +4354,6 @@ by.Talking Heads</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220509150500 +0900" stop="20220509160000 +0900" channel="Tokyo MX">
-  <title lang="ko">如懿伝〜紫禁城に散る宿命の王妃〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220509160000 +0900" stop="20220509163000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4859,6 +4829,26 @@ by.Talking Heads</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220510163000 +0900" stop="20220510170000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220510170000 +0900" stop="20220510180000 +0900" channel="Tokyo MX">
+  <title lang="ko">5時に夢中!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">岩下と北斗の井戸端ワイドショー▼ニュースに大激論！▼追跡はメールをくれた「懸賞運の良い視聴者」を調査！▼ネガティブな言葉を変換！「ポジティブ新キング」！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220508233000 +0900" stop="20220509003000 +0900" channel="FujiNext.jp">
 <title lang="ko">武部聡志ときくちから</title>
 <desc>3年半ぶりに振り返るオールタイムベスト音楽雑談。第1弾は武部聡志音楽監督が久々語るももクロとSMAP・KinKi Kidsからyui・リトグリ・あいらもえか、他
@@ -4946,7 +4936,7 @@ by.Talking Heads</desc>
 <title lang="ko">番組PR【5月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220509/8093529/image/dc51f52060392e3a50f64619ae93dd6a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220509170000 +0900" stop="20220509180000 +0900" channel="FujiNext.jp">
@@ -5395,7 +5385,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2007年11月18日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220509/8092470/image/9261c1b977a11de228ec55a974f6cc72.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220509170000 +0900" stop="20220509173000 +0900" channel="FujiTwo.jp">
@@ -5654,7 +5644,7 @@ https//otn.fujitv.co.jp
 <programme start="20220509163000 +0900" stop="20220509170000 +0900" channel="kbsworld.jp">
 <title lang="ko">インフォメーション</title>
 <desc> 
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220509/8090817/image/6b7b5eaee2b0c76be9736cdaa91aab0d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220509170000 +0900" stop="20220509181000 +0900" channel="kbsworld.jp">
