@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220511230000 +0900" stop="20220512000000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">頭文字[イニシャル]D Fifth Stage</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">9「死神」
-10「終止符」
-北関東エリアを制した「プロジェクトD」。Fifth Stageの舞台は、いよいよ走り屋の聖地・神…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220512000000 +0900" stop="20220512010000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ヴァニタスの手記</title>
     <rating system="MPAA">
@@ -402,6 +390,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220513010000 +0900" stop="20220513020000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">13「再会、母よ…」
+14「時間よ、とまれ」
+宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都市）…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220511214000 +0900" stop="20220512015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第5戦 マイアミGP 決勝</title>
 <desc>＜開催＞2022年5月8日（日）【再放送】
@@ -615,7 +615,7 @@ https//otn.fujitv.co.jp
 ＜対戦ゲスト＞大江香織プロ
 ＜キャディ＞佐藤賢和
 ＜解説＞戸張捷　＜実況＞谷岡慎一
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220511/8093641/image/81ea3f560d4c577f5df2ce3e2d20b041.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220512010000 +0900" stop="20220512020000 +0900" channel="FujiOne.jp">
@@ -1473,16 +1473,6 @@ SHINeeのテミン編をお届け！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220511234500 +0900" stop="20220512002500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">国際報道2022</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ウクライナ　ドニプロの今　フィリピン　大統領当選のマルコス氏〜対中国外交は〜　▽ウクライナ思う在日アフガニスタン人　▽最新の国際ニュース　※変更の可能性あり</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220512002500 +0900" stop="20220512011000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">映像の世紀バタフライエフェクト</title>
     <rating system="MPAA">
@@ -2043,12 +2033,12 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220511235500 +0900" stop="20220512000000 +0900" channel="eTele.jp">
-    <title lang="ko">Eテレ2355</title>
+  <programme start="20220513002500 +0900" stop="20220513011000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ブラタモリ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です</desc>
+    <desc lang="ko">これまでのブラタモリからえりすぐりの回を放送！今回は「＃１２１東京・豊洲」（初回放送２０１８年１２月１５日）▽【５月１４日のブラタモリは「東京湾」を放送します】</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2863,24 +2853,22 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220511235900 +0900" stop="20220512005400 +0900" channel="NipponTV.jp">
-    <title lang="ko">それって!?実際どうなの課</title>
+  <programme start="20220513003000 +0900" stop="20220513005500 +0900" channel="eTele.jp">
+    <title lang="ko">アオアシ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">世の中のウマイ話を検証するドキュメントバラエティー！
-【狩野英孝＆大島てる　ワケあり物件の見抜き方】
-【どのくらいチーズは伸びるのか！？】</desc>
+    <desc lang="ko">小林有吾の人気原作をもとに描く青春群像劇！サッカーＪリーグのユースチームを舞台に、主人公・青井葦人（アシト）がプロを目指す仲間たちとともに挑戦の日々を送る。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220512005400 +0900" stop="20220512005900 +0900" channel="NipponTV.jp">
-    <title lang="ko">イントロ</title>
+  <programme start="20220513005500 +0900" stop="20220513012000 +0900" channel="eTele.jp">
+    <title lang="ko">アオアシ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
+    <desc lang="ko">小林有吾の人気原作をもとに描く青春群像劇！サッカーＪリーグのユースチームを舞台に、主人公・青井葦人（アシト）がプロを目指す仲間たちとともに挑戦の日々を送る。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3105,26 +3093,26 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220511234500 +0900" stop="20220512001500 +0900" channel="Asahi.jp">
-  <title lang="ko">NEWニューヨーク</title>
+  <programme start="20220513005400 +0900" stop="20220513005900 +0900" channel="NipponTV.jp">
+    <title lang="ko">イントロ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【史上最難の試練】モンスター素人と新コンビ組んで即興漫才</desc>
+    <desc lang="ko">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220512001500 +0900" stop="20220512004500 +0900" channel="Asahi.jp">
-  <title lang="ko">キョコロヒー</title>
+  </programme>
+  <programme start="20220513005900 +0900" stop="20220513012900 +0900" channel="NipponTV.jp">
+    <title lang="ko">AKB48 サヨナラ毛利さん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日向坂46齊藤京子と芸人ヒコロヒーによる凸凹トークバラエティ。自由過ぎるアイドルと翻弄される芸人のトークがなぜかクセになってしまうと評判のヘンテコ深夜番組です。</desc>
+    <desc lang="ko">霜降り明星とＡＫＢ４８が初タッグ！！ＡＫＢＩＮＧＯ!の生みの親…レジェンド毛利Ｐと涙の決別で誕生する令和の王道アイドルバラエティー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220512004500 +0900" stop="20220512012000 +0900" channel="Asahi.jp">
   <title lang="ko">お願い!ランキングpresentsそだてれび</title>
     <rating system="MPAA">
@@ -3387,12 +3375,22 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220511235600 +0900" stop="20220512005800 +0900" channel="TBS2.jp">
-  <title lang="ko">よるのブランチ</title>
+<programme start="20220513002100 +0900" stop="20220513005100 +0900" channel="Asahi.jp">
+  <title lang="ko">テレビ千鳥</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">人気インフルエンサーのお宅へ行く「よる版物件リサーチ」はおたひか宅を突撃‼話題の２人が㊙エピソードを語る▽人気急上昇中のグループＢＵＤＤｉｉＳが揃って初登場‼</desc>
+    <desc lang="ko">屋上料理企画！今回はごま油をメインにしたレシピを料理好き芸人がプレゼン！大悟、ずん飯尾、ノブコブ吉村、絶対王者の薄幸が競う！ノブを唸らせる最も旨いごま油料理は？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220513005100 +0900" stop="20220513012600 +0900" channel="Asahi.jp">
+  <title lang="ko">お願い!ランキングpresentsそだてれび</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">テレビ朝日全局員を対象にした企画オーディションバトルがスタート！《ドラマ》《バラエティー》《ドキュメンタリー》《アニメ》次世代のスタークリエイターを発掘・育成！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3600,22 +3598,13 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220511235500 +0900" stop="20220512000000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">みんなのスポーツ</title>
+<programme start="20220513005800 +0900" stop="20220513012800 +0900" channel="TBS2.jp">
+  <title lang="ko">KAT-TUNの食宝ゲッットゥーン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「みんなのみたいをスポーツでつなぐ」をコンセプトに、野球・サッカー・五輪種目さらに海外イベントなど様々な情報を「身近に」「わかりやすく」「より深く」お伝えします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220512000000 +0900" stop="20220512003000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">古見さんは、コミュ症です。</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">1月2日、なじみは「初詣に行こう！」と只野くんに提案！なじみは友達に電話をかけまくると、その電話先には十人十色なお正月を過ごすみんなが居て…</desc>
+    <desc lang="ko">幻の魚を狙うも釣れる気配がないチーム中丸…しかし中丸の無茶振りで行った新人Dの正拳突きで空気一変!?まさかの奇跡が！
+チーム亀梨は食宝チーズのグラタンを堪能！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4003,22 +3992,22 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220511234000 +0900" stop="20220512002500 +0900" channel="FujiTV.jp">
-  <title lang="ko">FNN Live News α</title>
+<programme start="20220513003000 +0900" stop="20220513010000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">花嫁未満エスケープ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">完全循環型のグルメもＪリーグ社会との連携▽大谷翔平を現地取材ＭＬＢ日本人選手詳報</desc>
+    <desc lang="ko">岡崎紗絵主演！結婚適齢期を迎えた主人公のリアルすぎるトライアングル・ラブストーリー◆尚紀と口論になった末、別れる決意をしたゆうは家を出て行くことに…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220512002500 +0900" stop="20220512005500 +0900" channel="FujiTV.jp">
-  <title lang="ko">哀愁のど自慢、泣かないで・・・</title>
+<programme start="20220513010000 +0900" stop="20220513013000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ダイアンの絶対取材しない店</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＭＣ尾上松也…哀愁のバーで涙の歌謡ショー▽大島由香里ペットの想い出語り大泣き歌唱▽河合郁人ＴＶ初告白・祖母との日々に号泣絶唱▽審査員朝日奈央もらい泣き</desc>
+    <desc lang="ko">大田区雑色駅付近にある精米店。店主夫妻、おばあちゃん、娘さんと、一家総出でダイアンをおもてなし。本当にちゃんとした店でどう面白くしていくのでしょうか？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4263,22 +4252,22 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220511233000 +0900" stop="20220512000000 +0900" channel="Tokyo MX">
-  <title lang="ko">史上最強の大魔王、村人Aに転生する</title>
+<programme start="20220513002500 +0900" stop="20220513005500 +0900" channel="FujiTV.jp">
+  <title lang="ko">キスマイ超BUSAIKU!?</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">元《魔王》は平穏かつ平凡な人生を手にすることができるのか。波乱に満ちた学園ヒロイックファンタジー、開幕！</desc>
+    <desc lang="ko">秘密を大暴露！千賀コント「突然ですが疑っても良いですか？」横尾の素顔が丸裸に？▽「アタックを恋人の前で決めろ」運動音痴なキスマイ…蛙亭イワクラも驚がく</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220512000000 +0900" stop="20220512003000 +0900" channel="Tokyo MX">
-  <title lang="ko">ツルネ -風舞高校弓道部-</title>
+<programme start="20220513005500 +0900" stop="20220513012500 +0900" channel="FujiTV.jp">
+  <title lang="ko">四畳半神話大系</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">湊、静弥、遼平、七緒、海斗。弓道によって5人が出会い、そして、美しくもビターな「青春」の中をもがき続けた先、少年たちが手に入れたものとは――。</desc>
+    <desc lang="ko">３つのサークルに所属する「私」。同時に３人の女性から誘われるという華やかな事態が発生！羽貫さん、香織さん、景子さんの中から羽貫さんを選ぶが・・・？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4773,6 +4762,26 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220513003000 +0900" stop="20220513010000 +0900" channel="Tokyo MX">
+  <title lang="ko">骸骨騎士様、只今異世界へお出掛け中</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">骸骨騎士様による無自覚“世直し”異世界ファンタジー！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220513010000 +0900" stop="20220513013000 +0900" channel="Tokyo MX">
+  <title lang="ko">フットマップ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ＦＵＪＩＷＡＲＡと春の宇治ぶらり旅▼日本屈指の巨大施設へ潜入＆大迫力ツアー▼宇治発祥のご当地スポーツ対決で奇跡が⁉▼絶品鰻丼をめぐってフジモンの不満大爆発⁉</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220511214000 +0900" stop="20220512015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第5戦 マイアミGP 決勝</title>
 <desc>＜開催＞2022年5月8日（日）【再放送】
@@ -4986,7 +4995,7 @@ https//otn.fujitv.co.jp
 ＜対戦ゲスト＞大江香織プロ
 ＜キャディ＞佐藤賢和
 ＜解説＞戸張捷　＜実況＞谷岡慎一
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220511/8093641/image/81ea3f560d4c577f5df2ce3e2d20b041.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220512010000 +0900" stop="20220512020000 +0900" channel="FujiOne.jp">
