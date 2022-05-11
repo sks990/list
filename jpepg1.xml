@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220511130000 +0900" stop="20220511140000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">テニスの王子様</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">7「二人のリョーマ」
-8「スプリットステップ」
-アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220511140000 +0900" stop="20220511150000 +0900" channel="ANIMAX.jp">
   <title lang="ko">はたらく細胞BLACK</title>
     <rating system="MPAA">
@@ -403,6 +391,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220512150000 +0900" stop="20220512160000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">11「イセリナ、恋のあと」
+12「ジオンの脅威」
+宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220511000000 +0900" stop="20220511020000 +0900" channel="FujiNext.jp">
 <title lang="ko">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第132夜スタプラまつり</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助＝しおこうじ×私立恵比寿中学！ほのさきちぃ！U15スタプラ風見和香×柳美舞×青山菜花×久保歌恋！ひなた×三田美吹×桜ひなの
@@ -484,7 +484,7 @@
 <title lang="ko">春の高校バレー ハイライト　7　2019年 女子決勝「金蘭会×東九州龍谷」</title>
 <desc>2019年 女子決勝「金蘭会 vs 東九州龍谷」
 ▽フルセットの大熱戦！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220511/8093564/image/6d82e489f498688ddad0dc1b2ffc23f6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220511150000 +0900" stop="20220511151500 +0900" channel="FujiNext.jp">
@@ -1475,36 +1475,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220511135500 +0900" stop="20220511140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">テレビ体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">岡本美佳、幅しげみ、舘野伶奈、戸塚寛子、新井庸太</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220511140000 +0900" stop="20220511140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220511140500 +0900" stop="20220511145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ロコだけが知っている</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">新企画「サンドさんに自慢したいこと！」。今回は国内有数の温泉地・箱根を訪れ、ロコたちに地元のとっておきを大調査！そして、全国のミステリー温泉を大特集する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220511145000 +0900" stop="20220511150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">時論公論</title>
     <rating system="MPAA">
@@ -2035,32 +2005,52 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220511133000 +0900" stop="20220511140000 +0900" channel="eTele.jp">
-    <title lang="ko">ブリティッシュ・ベイクオフ1</title>
+  <programme start="20220512140500 +0900" stop="20220512143500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ニッポンぶらり鉄道旅</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">イギリスの料理愛好家が、パンや焼き菓子の腕を競うコンテスト番組。２つのラウンドを勝ち抜いた６人が挑むのは「パン」。自分自身を象徴するパンを焼いて対決する前編。</desc>
+    <desc lang="ko">全国の鉄道沿線の魅力を紹介！辻本好美さんが「東京メトロ丸ノ内線」に乗って「熱中人生」を探す！名器・ストラディバリウスや私語禁止の喫茶店など、その道の達人が登場！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220511140000 +0900" stop="20220511142500 +0900" channel="eTele.jp">
-    <title lang="ko">旅するためのフランス語</title>
+  <programme start="20220512143500 +0900" stop="20220512144900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">さわやか自然百景</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">いつか旅するときのために！豊かな現地映像と実践的な練習でフランス語を楽しく学ぶ番組。パリ、そして北フランス各地の絶景、アート、美食を巡る旅へ出発しましょう！</desc>
+    <desc lang="ko">神奈川県南部、市街地のほど近くに小高い丘が連なる大磯丘陵は今も豊かな自然が残る。春、丘陵ではたくさんの生きものが活発に動き出し、鳥たちは次の世代へ命をつなぐ。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220511142500 +0900" stop="20220511143000 +0900" channel="eTele.jp">
-    <title lang="ko">名曲アルバム</title>
+  <programme start="20220512144900 +0900" stop="20220512145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">明日へ1min． 災害食レシピ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">若きメンデルスゾーンが旅した、憧れの国「イタリア」。海の都ベネチアの「ドゥカーレ宮殿」「サン・マルコ寺院」に残る、美しく圧倒的な芸術とともにお送りする。</desc>
+    <desc lang="ko">震災直後に思いついた一品▽石油ストーブでサツマイモをホイルに包み焼く▽焼きあがったらすり潰す▽バターやコーヒー用ミルクを加え干しブドウを混ぜる▽手で形を整え完成</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220512145000 +0900" stop="20220512150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">時論公論</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">香港の行政長官選挙で初めて警察出身者が当選しました。中国が約束した香港の「一国二制度」と中国式統治の現状について考えます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220512150000 +0900" stop="20220512150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2845,6 +2835,36 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220512141500 +0900" stop="20220512145000 +0900" channel="eTele.jp">
+    <title lang="ko">新・にっぽんの芸能</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">１０代が活躍する古典芸能をお送りする。鈴木福さん一族の箏曲と、狂言はお稽古や子供たちの本音インタビューも必見！歌舞伎座で一般の子たちが学ぶ歌舞伎教室もご紹介。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220512145000 +0900" stop="20220512150000 +0900" channel="eTele.jp">
+    <title lang="ko">MIXびじゅチューン!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">西暦１５００年ごろに世界各地で作られた美術がモデルの曲を集めます。登場曲は「お局のモナ・リザさん」「１５００年のオーディション」「通勤フロム山水長巻」など。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220512150000 +0900" stop="20220512152500 +0900" channel="eTele.jp">
+    <title lang="ko">旅するためのドイツ語</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽現地映像をたっぷり味わいながら旅先で役立つドイツ語フレーズを学びます！▽ベルリン、ハンブルク、ミュンヘンをめぐるドイツ三都周遊記！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220511135500 +0900" stop="20220511155000 +0900" channel="NipponTV.jp">
     <title lang="ko">情報ライブ ミヤネ屋</title>
     <rating system="MPAA">
@@ -3100,16 +3120,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220511135400 +0900" stop="20220511145200 +0900" channel="Asahi.jp">
-  <title lang="ko">BG〜身辺警護人〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「現金１億円を守れ‼地上５０ｍからの救出」木村拓哉(他)▽身辺警護課が護るのは現金１億円。依頼主の芸能事務所社長は“人気タレントに支払うためのもの”だというが…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220511145200 +0900" stop="20220511154800 +0900" channel="Asahi.jp">
   <title lang="ko">特捜9 season5</title>
     <rating system="MPAA">
@@ -3387,6 +3397,16 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「ゴミ屋敷殺人事件！多過ぎる証拠品〜執念の科学鑑定の果てに」沢口靖子(他)▽ゴミ屋敷で女性の死体が発見された。現場にあるすべての物が証拠品となり、一同は唖然とする…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220512145000 +0900" stop="20220512154800 +0900" channel="Asahi.jp">
+  <title lang="ko">未来への10カウント</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">話題のドラマ「未来への１０カウント」…今夜９時放送の第５話は拡大スペシャル！その前に、これまでの物語をおさらいできるスペシャルダイジェストをお届けします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3969,16 +3989,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220511114500 +0900" stop="20220511144500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ポップUP!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">人気Ｒ－１準優勝ＺＡＺＹ驚き過去＆大物コネ！？▽全メニューから厳選はま寿司番付のどぐろ＆鴨＆貝▽あの商品で大成功！女性社長の豪邸訪問▽梅雨オススメ家電</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220511144500 +0900" stop="20220511154500 +0900" channel="FujiTV.jp">
   <title lang="ko">最後から二番目の恋</title>
     <rating system="MPAA">
@@ -4219,32 +4229,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220511130500 +0900" stop="20220511140000 +0900" channel="Tokyo MX">
-  <title lang="ko">花様年華〜君といた季節〜</title>
+<programme start="20220512144500 +0900" stop="20220512154500 +0900" channel="FujiTV.jp">
+  <title lang="ko">最後から二番目の恋</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ユ・ジテ×イ・ボヨンのＷ主演！初恋相手と運命的な再会を果たした男女が、再び惹かれ合い紡いでいく大人のラブストーリー！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220511140000 +0900" stop="20220511143000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220511143000 +0900" stop="20220511145900 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">三組の男女が鉢合わせ！そして夫婦の危機も加わって「女が年取るって、せつないよね…」と独身オバフォーとオバフォー主婦が共鳴！さらに家族の秘密が明らかに！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4729,6 +4719,36 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220512143000 +0900" stop="20220512145900 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220512145900 +0900" stop="20220512150000 +0900" channel="Tokyo MX">
+  <title lang="ko">フラッシュ天気</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220512150000 +0900" stop="20220512150500 +0900" channel="Tokyo MX">
+  <title lang="ko">MX news FLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220511000000 +0900" stop="20220511020000 +0900" channel="FujiNext.jp">
 <title lang="ko">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第132夜スタプラまつり</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助＝しおこうじ×私立恵比寿中学！ほのさきちぃ！U15スタプラ風見和香×柳美舞×青山菜花×久保歌恋！ひなた×三田美吹×桜ひなの
@@ -4810,7 +4830,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">春の高校バレー ハイライト　7　2019年 女子決勝「金蘭会×東九州龍谷」</title>
 <desc>2019年 女子決勝「金蘭会 vs 東九州龍谷」
 ▽フルセットの大熱戦！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220511/8093564/image/6d82e489f498688ddad0dc1b2ffc23f6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220511150000 +0900" stop="20220511151500 +0900" channel="FujiNext.jp">
