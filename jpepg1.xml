@@ -63,28 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220514193000 +0900" stop="20220514200000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ちびまる子ちゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">548「まる子とくず湯」の巻／「きれいな夜景が見たい！」の巻
-静岡県清水市に住む小学3年生のももこは、みんなから“…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220514200000 +0900" stop="20220514203000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">サマータイムレンダ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">4
-幼馴染・小舟潮の訃報を聞いた網代慎平は、2年ぶりに故郷である和歌山市・日都ヶ島に帰ってきた。家族や友人との再…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220514203000 +0900" stop="20220514210000 +0900" channel="ANIMAX.jp">
   <title lang="ko">SPY×FAMILY(スパイファミリー)</title>
     <rating system="MPAA">
@@ -360,6 +338,17 @@
 </programme>
 <programme start="20220515200000 +0900" stop="20220515210000 +0900" channel="ANIMAX.jp">
   <title lang="ko">Paradox Live Online Meeting -VISTY-</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">2022年3月に行われたチーム別・配信イベントの模様をテレビ初放送でお届けします！
+新チーム＆キャラクター＆楽曲の魅…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220515210000 +0900" stop="20220515220000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">Paradox Live Online Meeting -AMPRULE-</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
@@ -1395,46 +1384,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220514193000 +0900" stop="20220514201500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ブラタモリ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">タモリさんが船でめぐって東京湾の秘密を解き明かす！▽浅草から隅田川を下り佃島・台場、そして千葉県富津を経て湾の真ん中に浮かぶ人工島に上陸！東京湾をくまなくまわる</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220514201500 +0900" stop="20220514201700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220514201700 +0900" stop="20220514205000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">有吉のお金発見 突撃!カネオくん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「君の声が聴きたい」プロジェクト特別編！子どもが集まる最新スポットで３００人にインタビュー！大人顔負けのリアルな本音や大はやりのグッズにＭＣ有吉もびっくり！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220514205000 +0900" stop="20220514205500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220514205500 +0900" stop="20220514220000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">サタデーウオッチ9</title>
     <rating system="MPAA">
@@ -2125,22 +2074,32 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220514195500 +0900" stop="20220514200000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK手話ニュース</title>
+  <programme start="20220515204500 +0900" stop="20220515205500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【キャスター】加藤小夜里</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220514200000 +0900" stop="20220514204500 +0900" channel="eTele.jp">
-    <title lang="ko">チョイス＠病気になったとき</title>
+  <programme start="20220515205500 +0900" stop="20220515210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">免疫の暴走により大腸の粘膜に炎症が起き、血便や下痢が生じる「潰瘍性大腸炎」。重症度別の治療のチョイスや、症状の悪化を防ぐ食事のポイントを伝える。</desc>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220515210000 +0900" stop="20220515220000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKスペシャル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今年５月、沖縄が本土に復帰して５０年を迎える。番組では、新たに発掘された日米の外交官や指導者の証言、ＮＨＫのこれまでの取材記録などをもとに交渉の全貌に迫った。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2575,12 +2534,22 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220514195600 +0900" stop="20220514205400 +0900" channel="NipponTV.jp">
-    <title lang="ko">世界一受けたい授業</title>
+  <programme start="20220515204500 +0900" stop="20220515210000 +0900" channel="eTele.jp">
+    <title lang="ko">日曜美術館 アートシーン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">梅雨の前にやっておきたいカビ対策！カビが生える家・生えない家！８つの違い▼教えないのに生徒が伸びる！教育界のヤバい先生登場▼話題の操縦できる人型ロボットを体験！</desc>
+    <desc lang="ko">「ポーラ美術館開館２０周年記念展　モネからリヒターへ」（ポーラ美術館　４月９日〜９月６日）ほか、展覧会情報</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220515210000 +0900" stop="20220515230000 +0900" channel="eTele.jp">
+    <title lang="ko">クラシック音楽館</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">指揮者なしのオーケストラ〜第９に挑む！前代未聞の挑戦に３２台のカメラが密着！奏者だけの究極の演奏とは…▽演奏会の部分はこれまでに見たことのないマルチアングル映像</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2947,28 +2916,26 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220514185600 +0900" stop="20220514200000 +0900" channel="Asahi.jp">
-  <title lang="ko">サンドウィッチマン芦田愛菜の博士ちゃん</title>
+  <programme start="20220515205400 +0900" stop="20220515210000 +0900" channel="NipponTV.jp">
+    <title lang="ko">音のソノリティ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">子供博士こと“博士ちゃん”がサンド＆芦田愛菜に特別授業！
-今夜は初登場！劇団四季博士が登場！大人気ミュージカル裏側大公開！
-さらにチーズ王子が３択目利き初参戦！</desc>
+    <desc lang="ko">環境で変化する自然や天然の音、各地に根付く情緒溢れる文化の音、地球や生命の息遣いや生物の奏でる音楽など、様々なサウンドの世界を紹介。音の原風景を届けます。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220514200000 +0900" stop="20220514205400 +0900" channel="Asahi.jp">
-  <title lang="ko">池上彰のニュースそうだったのか!!</title>
+  </programme>
+  <programme start="20220515210000 +0900" stop="20220515215400 +0900" channel="NipponTV.jp">
+    <title lang="ko">行列のできる相談所</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ロシアのウクライナ侵攻からもうすぐ３か月。連日マリウポリがニュースになっているけど、一体なぜ？ロシアの動きをまとめてみると今の状況、これからのことがよくわかる！</desc>
+    <desc lang="ko">ダメ元でオファーSP丸山礼８年片想いのお相手…登場!大河俳優も認める演技力のTとSKY-HIがコント…美しすぎるギャル姿披露!吉岡里帆にオススメ長崎石窯サウナ</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220514205400 +0900" stop="20220514215500 +0900" channel="Asahi.jp">
   <title lang="ko">サタデーステーション</title>
     <rating system="MPAA">
@@ -3290,6 +3257,27 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">衛星写真で発見！“何でこんな所に？”という場所に、ポツンと建つ一軒家を日本全国大捜索！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220515205600 +0900" stop="20220515210000 +0900" channel="Asahi.jp">
+  <title lang="ko">食ノ音色</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">キッチンで響く心地よい音色。「大切な人への想い」が「料理」になっていく、幸せな時間をお届けします。
+今回の“食ノ音色”を奏でる主役は『ローストディナー』です。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220515210000 +0900" stop="20220515215500 +0900" channel="Asahi.jp">
+  <title lang="ko">サンデーステーション</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日曜よる９時。新しい明日へ「再起動」。次の一週間のヒントにつながる報道番組を目指します。ニュースは総力取材、時代が見える独自特集、スポーツ、天気もしっかりと！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3669,12 +3657,22 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220514195400 +0900" stop="20220514205400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">出川哲朗の充電させてもらえませんか?</title>
+<programme start="20220515205400 +0900" stop="20220515210000 +0900" channel="TBS2.jp">
+  <title lang="ko">フラッシュニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">■行くぞ！＜高知城＞からチョイと＜龍河洞＞通って＜室戸岬＞へ105キロ！ゴールはパワスポ＜御厨人窟＞ですがゲストがパワフルすぎてヤバいよヤバいよＳＰ前編■</desc>
+    <desc lang="ko">最新のニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220515210000 +0900" stop="20220515220000 +0900" channel="TBS2.jp">
+  <title lang="ko">マイファミリー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">犯人から置かれた一億円、犯人の目的は温人を共犯にすることだった！？そして、舞い込んでくる犯人の手がかりを頼りに、追い詰めていく温人は遂に、犯人に対面する！？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4125,6 +4123,17 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220515210000 +0900" stop="20220515215400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">〜夢のオーディションバラエティー〜 Dreamer Z</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「iCONZ」男性部門は最終章に突入！
+決戦の舞台は日本武道館に決定！しかし仲間との衝突。「マジメにやってくれ・・・」波乱の展開に...いったい何が！？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220514190000 +0900" stop="20220514210000 +0900" channel="FujiTV.jp">
   <title lang="ko">新しいカギ</title>
     <rating system="MPAA">
@@ -4559,26 +4568,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">大泉洋絶賛の後輩・島太星が音楽テストで才能爆発！イケメンＴｉｋＴｏｋｅｒはやたく＆和泉元彌＆やす子他１２名が一斉テスト！家庭科「コロッケを作れ」大事件</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220514190000 +0900" stop="20220514200000 +0900" channel="Tokyo MX">
-  <title lang="ko">シェアリーハウス☆</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220514200000 +0900" stop="20220514203000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5085,6 +5074,26 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
 </programme>
 <programme start="20220515200000 +0900" stop="20220515203000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220515203000 +0900" stop="20220515210000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220515210000 +0900" stop="20220515213000 +0900" channel="Tokyo MX">
+  <title lang="ko">ぐらぶるTVちゃんねるっ!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
