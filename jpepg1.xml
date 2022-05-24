@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220524130000 +0900" stop="20220524140000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">テニスの王子様</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">25「青学最強の男 前編」
-26「青学最強の男 後編」
-アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョー…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220524140000 +0900" stop="20220524150000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ハイキュー!!</title>
     <rating system="MPAA">
@@ -396,6 +384,18 @@
     </rating>
     <desc lang="ko">13「好敵手」14「強敵たち」
 中学最初の公式戦で天才プレーヤー・影山飛雄に惨敗した日向翔陽は、烏野高校バレー部…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220525150000 +0900" stop="20220525160000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">29「ジャブローに散る！」
+30「小さな防衛線」
+宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -931,7 +931,7 @@ https//otn.fujitv.co.jp
 <desc>第7話「好きなんだ、今も」
 ＜出演＞松嶋菜々子　福山雅治　渡辺いっけい　八嶋智人　佐々木蔵之介　児玉清　他
 （地上波放送日　2003年2月20日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220524/8204400/image/88e13bd159c1bd2060ef26b7eae7beba.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220524150000 +0900" stop="20220524151000 +0900" channel="FujiTwo.jp">
@@ -1508,36 +1508,6 @@ MCカン・ダニエル
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220524131000 +0900" stop="20220524140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">列島ニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の課題を盛りだくさんでお届けします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220524140000 +0900" stop="20220524140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220524140500 +0900" stop="20220524145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">新日本風土記 45分版</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京都檜原村は、島しょ部を除く都内唯一の村。９割以上が山林で鉄道もコンビニもないが、この地に魅せられ移住する人も少なくないという。（２０２１年３月放送の再編集）</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220524145000 +0900" stop="20220524150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">時論公論</title>
     <rating system="MPAA">
@@ -2148,42 +2118,32 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220524133000 +0900" stop="20220524140000 +0900" channel="eTele.jp">
-    <title lang="ko">ふるカフェ系 ハルさんの休日</title>
+  <programme start="20220525140500 +0900" stop="20220525145000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ロコだけが知っている</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">福島・二本松城の敷地の中に見つけた、ビックリな洋館カフェ。古代ギリシャの建築様式と装飾が見事な部屋に急角度の美しい屋根。おススメのスコーン片手に大満足のハル！</desc>
+    <desc lang="ko">「サンドさんに自慢したいこと」第２弾！番組スタッフが地元のとっておきを大調査するこの企画。横浜中華街で絶品グルメを大捜索！そして今大人気のびわ湖を大調査！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220524140000 +0900" stop="20220524142500 +0900" channel="eTele.jp">
-    <title lang="ko">旅するためのイタリア語</title>
+  <programme start="20220525145000 +0900" stop="20220525150000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">時論公論</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">旅に役立つイタリア語を楽しく学べる講座。今シリーズでは、２０２０年度１０〜３月に放送した「入門編」を見ながらの復習と、多彩な新作コーナーとをお届けします。</desc>
+    <desc lang="ko">エネルギーや食料などの物価上昇が生活や経済に大きな影響を与えている。４月の消費者物価指数は、消費税率引き上げの影響を除くと１３年７か月ぶりの大幅な上昇。今後は？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220524142500 +0900" stop="20220524143000 +0900" channel="eTele.jp">
-    <title lang="ko">名曲アルバム</title>
+  <programme start="20220525150000 +0900" stop="20220525150700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「十五夜お月さま　ひとりぼち」。この歌は詩人・大村主計の代表作で、仲良しだった姉が結婚した日の寂しさを歌っている。ふるさと山梨に咲く桜の情景とともにお届けする。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220524143000 +0900" stop="20220524145500 +0900" channel="eTele.jp">
-    <title lang="ko">ネコメンタリー 猫も、杓子（しゃくし）も。</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">もの書く人の傍らにはいつも猫がいた。作家と愛猫の異色ドキュメント。ＳＦを中心に活躍する作家神林長平の想像力の世界で愛猫の存在は？書下ろしエッセイ朗読は三上博史。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2978,6 +2938,36 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220525142500 +0900" stop="20220525143000 +0900" channel="eTele.jp">
+    <title lang="ko">名曲アルバム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世界中で愛されているアイルランド民謡「ダニー・ボーイ」。大切な人を失った悲しみに寄り添う歌詞と柔らかな響きの旋律を北アイルランドの風景とともにお送りする。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220525143000 +0900" stop="20220525150000 +0900" channel="eTele.jp">
+    <title lang="ko">将棋フォーカス</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">特集は「小学生名人戦列伝」。羽生九段・渡辺名人・佐藤康光日本将棋連盟会長など少年時代の映像を一挙公開。サバンナ高橋の注目棋士は将棋界の貴族！元名人のあの棋士！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220525150000 +0900" stop="20220525153000 +0900" channel="eTele.jp">
+    <title lang="ko">囲碁フォーカス</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">鈴木伸二七段の講座「磨け！バランス感覚“いい”かげんで打ってみよう」。今回は「シマリへのアプローチ」。「フォーカス・オン」は一力遼棋聖がスタジオに登場。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220524135500 +0900" stop="20220524155000 +0900" channel="NipponTV.jp">
     <title lang="ko">情報ライブ ミヤネ屋</title>
     <rating system="MPAA">
@@ -3562,6 +3552,16 @@ by.Wonderframe</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「執念の繊維鑑定！遺品に隠された母子愛」沢口靖子(他)▽洛北医大で後頭部から血を流した若い男性が運ばれてきたところに遭遇するマリコ。彼の血液を辿っていくと…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220525145200 +0900" stop="20220525154800 +0900" channel="Asahi.jp">
+  <title lang="ko">科捜研の女10</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「科捜研ＶＳ絵画修復家 消された微細証拠‼」沢口靖子(他)▽有名画家・安芸津治の遺体が山林で見つかった。死因は撲殺、靴底からは絵の具などの成分が検出され…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4165,16 +4165,6 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220524114500 +0900" stop="20220524144500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ポップUP!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">美川憲一が７億豪邸を売却し１人暮らし…なぜ？▽瀬戸内寂聴さん秘書明かす最期＆秘蔵映像▽レトルト女王厳選！絶品パスタソース番付▽調味料得する豆知識クイズ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220524144500 +0900" stop="20220524154500 +0900" channel="FujiTV.jp">
   <title lang="ko">続・最後から二番目の恋</title>
     <rating system="MPAA">
@@ -4190,7 +4180,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">観光船きょう引き揚げ不明者の手がかりは？▽藤井五冠いざ叡王戦勝てばタイトル初防衛▽突然の返還に町は？誤送金の町に３５９０万円</desc>
+    <desc lang="ko">観光船が水深１８２ｍに落下…今後の引き揚げは？▽藤井五冠「叡王戦」きょう勝てばタイトル初防衛▽阿武町が会見「４２９９万円を確保」男の“言い分”独自取材</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4425,32 +4415,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220524130500 +0900" stop="20220524140000 +0900" channel="Tokyo MX">
-  <title lang="ko">花様年華〜君といた季節〜</title>
+<programme start="20220525144500 +0900" stop="20220525154500 +0900" channel="FujiTV.jp">
+  <title lang="ko">続・最後から二番目の恋</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ユ・ジテ×イ・ボヨンのＷ主演！初恋相手と運命的な再会を果たした男女が、再び惹かれ合い紡いでいく大人のラブストーリー！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220524140000 +0900" stop="20220524143000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220524143000 +0900" stop="20220524145900 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">主人公たちは２人合わせて１００歳‼千明には痛い別れをした元カレ出現‼和平は娘の彼氏の母親と友だち契約‼恋だけはいくつになっても上達しない、大人の青春ドラマ</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4931,6 +4901,36 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220525143000 +0900" stop="20220525145900 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220525145900 +0900" stop="20220525150000 +0900" channel="Tokyo MX">
+  <title lang="ko">フラッシュ天気</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220525150000 +0900" stop="20220525150500 +0900" channel="Tokyo MX">
+  <title lang="ko">MX news FLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5466,7 +5466,7 @@ https//otn.fujitv.co.jp
 <desc>第7話「好きなんだ、今も」
 ＜出演＞松嶋菜々子　福山雅治　渡辺いっけい　八嶋智人　佐々木蔵之介　児玉清　他
 （地上波放送日　2003年2月20日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220524/8204400/image/88e13bd159c1bd2060ef26b7eae7beba.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220524150000 +0900" stop="20220524151000 +0900" channel="FujiTwo.jp">
