@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220525140000 +0900" stop="20220525150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ハイキュー!!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">13「好敵手」14「強敵たち」
-中学最初の公式戦で天才プレーヤー・影山飛雄に惨敗した日向翔陽は、烏野高校バレー部…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220525150000 +0900" stop="20220525160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士ガンダム</title>
     <rating system="MPAA">
@@ -395,6 +384,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220526160000 +0900" stop="20220526170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ブラッククローバー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">117「今 封を切る時」
+118「時空を超えた再会」
+魔法がすべての、とある世界…。生まれながらに魔法が使えない少年…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220524230000 +0900" stop="20220525011000 +0900" channel="FujiNext.jp">
 <title lang="ko">LUNA SEA 10TH ANNIVERSARY GIG　〜お台場野外特設会場</title>
 <desc>LUNA SEA 10TH ANNIVERSARY GIG［NEVER SOLD OUT］CAPACITY∞
@@ -492,7 +493,7 @@
 <desc>「名古屋・西原珈琲店」
 レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220525/8204335/image/b94a4004c758e7f7edd85ea6a500baf9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220525160000 +0900" stop="20220525170000 +0900" channel="FujiNext.jp">
@@ -1536,46 +1537,6 @@ MCカン・ダニエル
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220525145000 +0900" stop="20220525150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">エネルギーや食料などの物価上昇が生活や経済に大きな影響を与えている。４月の消費者物価指数は、消費税率引き上げの影響を除くと１３年７か月ぶりの大幅な上昇。今後は？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220525150000 +0900" stop="20220525150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220525150700 +0900" stop="20220525151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220525151000 +0900" stop="20220525155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">慶次郎縁側日記</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">酒問屋の別荘の寮番・慶次郎は、元南町奉行所の定町廻り同心。娘を失う不幸な事件が元で隠居した「仏の慶次郎」が、江戸庶民の悩みや揉め事をひもとく、一話完結の日記帳。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220525155500 +0900" stop="20220525160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2206,22 +2167,42 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220525143000 +0900" stop="20220525150000 +0900" channel="eTele.jp">
-    <title lang="ko">将棋フォーカス</title>
+  <programme start="20220526150700 +0900" stop="20220526151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">特集は「小学生名人戦列伝」。羽生九段・渡辺名人・佐藤康光日本将棋連盟会長など少年時代の映像を一挙公開。サバンナ高橋の注目棋士は将棋界の貴族！元名人のあの棋士！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220525150000 +0900" stop="20220525153000 +0900" channel="eTele.jp">
-    <title lang="ko">囲碁フォーカス</title>
+  <programme start="20220526151000 +0900" stop="20220526155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">あしたが変わるトリセツショー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">鈴木伸二七段の講座「磨け！バランス感覚“いい”かげんで打ってみよう」。今回は「シマリへのアプローチ」。「フォーカス・オン」は一力遼棋聖がスタジオに登場。</desc>
+    <desc lang="ko">４０〜５０代で骨粗しょう症になり骨折する人が続出。骨太な体を手に入れるための“骨の若返り術”を紹介する。１日たった９０秒のユニークな健康法で骨密度が大幅改善！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220526155500 +0900" stop="20220526160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「アビニョンの橋で」うた東京放送児童合唱団／「テトペッテンソン」うた井上順</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220526160000 +0900" stop="20220526160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3016,12 +2997,32 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220525135500 +0900" stop="20220525155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20220526152500 +0900" stop="20220526153000 +0900" channel="eTele.jp">
+    <title lang="ko">5分でみんなの手話</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">最新中継！知床遊覧船海底に落下で今後の引き揚げ作業は▽外出制限続く上海の記者ついに外へ１時間の外出で見た街の変化</desc>
+    <desc lang="ko">２０２１年度に放送したＥテレ「みんなの手話」から１つのキーフレーズをピックアップ。「明日はどこへ行こうか？」を覚えましょう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220526153000 +0900" stop="20220526160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">児童養護施設や里親家庭などで育つ若者たちが抱える生きづらさ。悩みに寄り添う、当事者目線の情報発信に注目が集まっている。未来をあとおしする支援活動を紹介する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220526160000 +0900" stop="20220526161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3298,16 +3299,16 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220525145200 +0900" stop="20220525154800 +0900" channel="Asahi.jp">
-  <title lang="ko">科捜研の女10</title>
+  <programme start="20220526155000 +0900" stop="20220526190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「科捜研ＶＳ絵画修復家 消された微細証拠‼」沢口靖子(他)▽有名画家・安芸津治の遺体が山林で見つかった。死因は撲殺、靴底からは絵の具などの成分が検出され…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220525154800 +0900" stop="20220525164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season10</title>
     <rating system="MPAA">
@@ -3619,12 +3620,12 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220525135500 +0900" stop="20220525154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20220526154800 +0900" stop="20220526164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒 season16</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">デビッド決済約３４０万円　取り返せるのか？▼知床観光船…あす再び船体引き揚げへ　落下のワケ＆今後の作業…最新情報▼北朝鮮弾道ミサイルを３発発射　ほか(予定）</desc>
+    <desc lang="ko">「検察捜査〜特命係ｖｓ妻を３回殺した富豪」水谷豊、反町隆史(他)▽妻を相次いで殺した大富豪が特命係を“脅迫”の罪で告訴した。特命係を敵視する法務事務次官の日下部は…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3832,12 +3833,12 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220525134000 +0900" stop="20220525154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20220526154900 +0900" stop="20220526190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ニューオリンズを舞台に、連続殺人犯を追う敏腕刑事。犯人に迫るほどに刑事の周りの人間も危険に巻き込まれてゆく…。人間の深層心理に迫る傑作サイコ・サスペンス！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4215,12 +4216,12 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220525144500 +0900" stop="20220525154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">続・最後から二番目の恋</title>
+<programme start="20220526154000 +0900" stop="20220526165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">主人公たちは２人合わせて１００歳‼千明には痛い別れをした元カレ出現‼和平は娘の彼氏の母親と友だち契約‼恋だけはいくつになっても上達しない、大人の青春ドラマ</desc>
+    <desc lang="ko">機能性ファッションのワークマンプラスが、今年オススメする梅雨対策コーデを大公開！梅雨入り前に知りたい！すぐに実践できるおうちの湿気＆カビ対策のワザをプロが伝授！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4465,22 +4466,12 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220525145900 +0900" stop="20220525150000 +0900" channel="Tokyo MX">
-  <title lang="ko">フラッシュ天気</title>
+<programme start="20220526154500 +0900" stop="20220526190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220525150000 +0900" stop="20220525150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4975,6 +4966,26 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220526150500 +0900" stop="20220526160000 +0900" channel="Tokyo MX">
+  <title lang="ko">如懿伝〜紫禁城に散る宿命の王妃〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220526160000 +0900" stop="20220526163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220524230000 +0900" stop="20220525011000 +0900" channel="FujiNext.jp">
 <title lang="ko">LUNA SEA 10TH ANNIVERSARY GIG　〜お台場野外特設会場</title>
 <desc>LUNA SEA 10TH ANNIVERSARY GIG［NEVER SOLD OUT］CAPACITY∞
@@ -5072,7 +5083,7 @@ MCカン・ダニエル
 <desc>「名古屋・西原珈琲店」
 レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220525/8204335/image/b94a4004c758e7f7edd85ea6a500baf9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220525160000 +0900" stop="20220525170000 +0900" channel="FujiNext.jp">
