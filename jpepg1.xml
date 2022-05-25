@@ -694,7 +694,7 @@ https//otn.fujitv.co.jp
 <programme start="20220525173500 +0900" stop="20220525175000 +0900" channel="FujiOne.jp">
 <title lang="ko">おトクな情報</title>
 <desc>各種おトクな情報をお届けしております！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220525/8216406/image/240407297285022cbfec49bc765a7011.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220525175000 +0900" stop="20220525230000 +0900" channel="FujiOne.jp">
@@ -1887,12 +1887,22 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220526081500 +0900" stop="20220526090000 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220526081500 +0900" stop="20220526085500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">あさイチ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">迫力の大絶景広がる隠岐諸島！新しい島グルメを生み出す料理学校▽島外からも生徒が続々！人気高校の「夢探究」授業▽「隠岐牛」放牧地で牛と見る絶景▽移住者集まるカフェ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220526085500 +0900" stop="20220526090000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1977,162 +1987,12 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220526130000 +0900" stop="20220526130500 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220526130000 +0900" stop="20220526170000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526130500 +0900" stop="20220526135500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">列島ニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の課題を盛りだくさんでお届けします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526135500 +0900" stop="20220526140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">テレビ体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">多胡肇、細貝柊、舘野伶奈、吉江晴菜、杉井勇介</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526140000 +0900" stop="20220526140500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526140500 +0900" stop="20220526143500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニッポンぶらり鉄道旅</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">全国の鉄道沿線の魅力を紹介！宮﨑香蓮さんが「東京メトロ日比谷線」に乗って東京を巡る旅！アンティークシャンデリアの修理の奥深い世界など、「たまらない瞬間」を探す！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526143500 +0900" stop="20220526144900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">さわやか自然百景</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">奈良県南東部、紀ノ川の源流部に広がる三之公の森。５００年以上も昔から人の手がほとんど入っていない森は生きものたちの楽園だ。春、多くの鳥が子育ての季節を迎える。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526144900 +0900" stop="20220526145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">明日へ1min． 防災の知恵</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">自動販売機には住所表示がある▽道路標識や信号機、電柱には管理番号が書かれていてその番号から場所の特定が可能▽普段から目印になる建物や高台を意識しておくことが大切</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526145000 +0900" stop="20220526150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシアのウクライナ侵攻後、ＥＵは対ロ制裁の一環としてエネルギーのロシア依存からの脱却を進めている。脱ロシア化は日本にとっても切実な問題。現状と課題を解説する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526150000 +0900" stop="20220526150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526150700 +0900" stop="20220526151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526151000 +0900" stop="20220526155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">あしたが変わるトリセツショー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">４０〜５０代で骨粗しょう症になり骨折する人が続出。骨太な体を手に入れるための“骨の若返り術”を紹介する。１日たった９０秒のユニークな健康法で骨密度が大幅改善！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526155500 +0900" stop="20220526160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みんなのうた</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「アビニョンの橋で」うた東京放送児童合唱団／「テトペッテンソン」うた井上順</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526160000 +0900" stop="20220526160500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526160500 +0900" stop="20220526163000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ふるカフェ系 ハルさんの休日</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">湘南・藤沢でパンにこだわる蔵カフェを発見！華麗なる転身が生んだパンとカフェの物語。自家製酵母で作ったおいしさと、吹き抜け天井や土壁の広い空間。時間も忘れるひと時</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526163000 +0900" stop="20220526164500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">【連続テレビ小説】 ひまわり</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の下町育ちのヒロイン南田のぞみが、バブル崩壊後のリストラで会社を辞め、悩んだ末に難関の司法試験を突破、弁護士になるまでを描く。１９９６年放送の連続テレビ小説</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526164500 +0900" stop="20220526170000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">【連続テレビ小説】 ひまわり</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の下町育ちのヒロイン南田のぞみが、バブル崩壊後のリストラで会社を辞め、悩んだ末に難関の司法試験を突破、弁護士になるまでを描く。１９９６年放送の連続テレビ小説</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5234,7 +5094,7 @@ https//otn.fujitv.co.jp
 <programme start="20220525173500 +0900" stop="20220525175000 +0900" channel="FujiOne.jp">
 <title lang="ko">おトクな情報</title>
 <desc>各種おトクな情報をお届けしております！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220525/8216406/image/240407297285022cbfec49bc765a7011.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220525175000 +0900" stop="20220525230000 +0900" channel="FujiOne.jp">
