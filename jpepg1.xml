@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220526150000 +0900" stop="20220526160000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">機動戦士ガンダム</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">31「ザンジバル、追撃！」
-32「強行突破作戦」
-宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220526160000 +0900" stop="20220526170000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ブラッククローバー</title>
     <rating system="MPAA">
@@ -417,6 +405,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220527170000 +0900" stop="20220527180000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">85「心の石」
+86「コヅチの意志」
+平和と共に近代化が進んだ木ノ葉隠れの里。七代目火影・うずまきナルトの息子であ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220525231000 +0900" stop="20220526010000 +0900" channel="FujiNext.jp">
 <title lang="ko">LUNA SEA The End of the Dream　TOUR「降臨」</title>
 <desc>LUNA SEA The End of the Dream ZEPP TOUR 2012「降臨」　＜収録＞2012年12月16日　〜Zepp Tokyo
@@ -543,7 +543,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SELECTRAVEL　17「中国・四国 岡山編」</title>
 <desc>この番組は、まさに旅のガイドブック。タイプの違う2つの旅のプランをご紹介する！
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220526/8238682/image/46de44b94a9d1285f8fbbaa38f6fca41.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220526170000 +0900" stop="20220526180000 +0900" channel="FujiNext.jp">
@@ -982,7 +982,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2008年12月28日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220526/8238845/image/a855e279fd365630227c4a339c923819.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220526170000 +0900" stop="20220526173000 +0900" channel="FujiTwo.jp">
@@ -1687,7 +1687,7 @@ https//otn.fujitv.co.jp
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ツイッター買収劇から考える“言論の自由”▽ウクライナ情勢▽戦争下のカンヌ映画祭▽激動の世界を生き抜くには〜マハティール元首相のメッセージ〜　※変更の可能性あり</desc>
+    <desc lang="ko">ロシア軍　一部で支配既成事実化進める▽ツイッター買収劇から考える“言論の自由”▽戦争下のカンヌ映画祭▽激動の世界を生き抜くには〜マハティール元首相のメッセージ〜</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1787,7 +1787,7 @@ https//otn.fujitv.co.jp
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ツイッター買収劇から考える“言論の自由”▽ウクライナ情勢▽戦争下のカンヌ映画祭▽激動の世界を生き抜くには〜マハティール元首相のメッセージ〜　※変更の可能性あり</desc>
+    <desc lang="ko">ロシア軍　一部で支配既成事実化進める▽ツイッター買収劇から考える“言論の自由”▽戦争下のカンヌ映画祭▽激動の世界を生き抜くには〜マハティール元首相のメッセージ〜</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2112,62 +2112,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220526153000 +0900" stop="20220526160000 +0900" channel="eTele.jp">
-    <title lang="ko">ハートネットTV</title>
+  <programme start="20220527160500 +0900" stop="20220527163000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">レイチェルのおいしい旅レシピ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">児童養護施設や里親家庭などで育つ若者たちが抱える生きづらさ。悩みに寄り添う、当事者目線の情報発信に注目が集まっている。未来をあとおしする支援活動を紹介する。</desc>
+    <desc lang="ko">イギリス出身のフードライター兼料理人レイチェル・クーがヨーロッパ各地の食文化を紹介、それをヒントにレイチェル流料理を披露する。トルコ・イスタンブールを訪ねる。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220526160000 +0900" stop="20220526161500 +0900" channel="eTele.jp">
-    <title lang="ko">いないいないばあっ!</title>
+  <programme start="20220527163000 +0900" stop="20220527164500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">【連続テレビ小説】 ひまわり</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+    <desc lang="ko">東京の下町育ちのヒロイン南田のぞみが、バブル崩壊後のリストラで会社を辞め、悩んだ末に難関の司法試験を突破、弁護士になるまでを描く。１９９６年放送の連続テレビ小説</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220526161500 +0900" stop="20220526162500 +0900" channel="eTele.jp">
-    <title lang="ko">にほんごであそぼ</title>
+  <programme start="20220527164500 +0900" stop="20220527170000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">【連続テレビ小説】 ひまわり</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">のはーなとあそぼう！／ひらけ胡麻、野村萬斎／扉、面白Ａ漢字／開く、四字熟語かるた、歌舞伎／ドンタッポ、マジ・しゃんいちろう、うた「あいだのじいさん」</desc>
+    <desc lang="ko">東京の下町育ちのヒロイン南田のぞみが、バブル崩壊後のリストラで会社を辞め、悩んだ末に難関の司法試験を突破、弁護士になるまでを描く。１９９６年放送の連続テレビ小説</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220526162500 +0900" stop="20220526163000 +0900" channel="eTele.jp">
-    <title lang="ko">びじゅチューン!</title>
+  <programme start="20220527170000 +0900" stop="20220527180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ニュース きん5時</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">クレー「ニーゼン山」で、ピラミッド型の山のように見える青い三角形は、巨大な鳥のくちばしなのでは？誕生日をサプライズで祝おうと着飾って集まった人々の気持ちを歌う。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526163000 +0900" stop="20220526164000 +0900" channel="eTele.jp">
-    <title lang="ko">えいごであそぼ with Orton</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220526164000 +0900" stop="20220526165000 +0900" channel="eTele.jp">
-    <title lang="ko">歴史にドキリ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">聖武天皇がめざした仏教中心の国家はいきづまり、天皇の力が弱体化してしまう。桓武天皇が僧の影響が強い長岡京から平安京に都を移して取り組んだ政治の改革について学ぶ。</desc>
+    <desc lang="ko">大阪から全国へ届ける新感覚の情報番組！東京発がすべてじゃない！埋もれた社会問題・地域ならではの話題を掘り起こす【キャスター】武田真一・石橋亜紗</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2952,6 +2932,66 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220527161500 +0900" stop="20220527162500 +0900" channel="eTele.jp">
+    <title lang="ko">にほんごであそぼ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">のはーなとあそぼう！／夢はでかくなけりゃ、あいだのじいさん、文楽、投稿名文、うた「いちじゅうひゃくせん」「勇気１００％」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220527162500 +0900" stop="20220527163000 +0900" channel="eTele.jp">
+    <title lang="ko">あおきいろ 5分版</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「あお」と「きいろ」２つは明らかに違うけど、重なりあうと同じ「みどり」になる。すべての生き物たちと共に生きていくためのヒントが詰まった５分番組。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220527163000 +0900" stop="20220527164000 +0900" channel="eTele.jp">
+    <title lang="ko">えいごであそぼ with Orton</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220527164000 +0900" stop="20220527164500 +0900" channel="eTele.jp">
+    <title lang="ko">スクる!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220527164500 +0900" stop="20220527170000 +0900" channel="eTele.jp">
+    <title lang="ko">昔話法廷</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">昔話の登場人物を裁判にかける法廷ドラマ！第２話は「カチカチ山」。タヌキに暴行を加えたウサギは実刑か？それとも、情状酌量で執行猶予か？出演安藤玉恵　モロ師岡ほか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220527170000 +0900" stop="20220527171000 +0900" channel="eTele.jp">
+    <title lang="ko">ミミクリーズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220526155000 +0900" stop="20220526190000 +0900" channel="NipponTV.jp">
     <title lang="ko">news every.</title>
     <rating system="MPAA">
@@ -3215,16 +3255,6 @@ MayJ.に全身で伝えろ！リリックジェスチャーバトル▼
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220526154800 +0900" stop="20220526164500 +0900" channel="Asahi.jp">
-  <title lang="ko">相棒 season16</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「検察捜査〜特命係ｖｓ妻を３回殺した富豪」水谷豊、反町隆史(他)▽妻を相次いで殺した大富豪が特命係を“脅迫”の罪で告訴した。特命係を敵視する法務事務次官の日下部は…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220526164500 +0900" stop="20220526190000 +0900" channel="Asahi.jp">
   <title lang="ko">スーパーJチャンネル</title>
     <rating system="MPAA">
@@ -3509,6 +3539,16 @@ MayJ.に全身で伝えろ！リリックジェスチャーバトル▼
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220527164500 +0900" stop="20220527185000 +0900" channel="Asahi.jp">
+  <title lang="ko">スーパーJチャンネル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220526154900 +0900" stop="20220526190000 +0900" channel="TBS2.jp">
   <title lang="ko">Nスタ</title>
     <rating system="MPAA">
@@ -3728,16 +3768,6 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220526154000 +0900" stop="20220526165400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">よじごじDays</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">機能性ファッションのワークマンプラスが、今年オススメする梅雨対策コーデを大公開！梅雨入り前に知りたい！すぐに実践できるおうちの湿気＆カビ対策のワザをプロが伝授！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4129,6 +4159,26 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220527165400 +0900" stop="20220527170000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ゆうがたサテライト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">夕方ニュースの新機軸！あなたの生活と密接に関係するニュースを厳選して取材。他とは違う視点と切り口でいち早くお伝えします！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220527170000 +0900" stop="20220527171000 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">生活に役立つ商品を紹介する通販番組</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220526154500 +0900" stop="20220526190000 +0900" channel="FujiTV.jp">
   <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
@@ -4385,26 +4435,6 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220526150500 +0900" stop="20220526160000 +0900" channel="Tokyo MX">
-  <title lang="ko">如懿伝〜紫禁城に散る宿命の王妃〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220526160000 +0900" stop="20220526163000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4869,6 +4899,26 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220527163000 +0900" stop="20220527170000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220527170000 +0900" stop="20220527180000 +0900" channel="Tokyo MX">
+  <title lang="ko">5時に夢中!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">女性のストレスを解消する“本音マル出し”ぶっちゃけワイドショー！金曜はゲストデー！土屋アンナさん！▼「大きなお世話ですが」ではゲストおもてなし企画も</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220525231000 +0900" stop="20220526010000 +0900" channel="FujiNext.jp">
 <title lang="ko">LUNA SEA The End of the Dream　TOUR「降臨」</title>
 <desc>LUNA SEA The End of the Dream ZEPP TOUR 2012「降臨」　＜収録＞2012年12月16日　〜Zepp Tokyo
@@ -4995,7 +5045,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SELECTRAVEL　17「中国・四国 岡山編」</title>
 <desc>この番組は、まさに旅のガイドブック。タイプの違う2つの旅のプランをご紹介する！
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220526/8238682/image/46de44b94a9d1285f8fbbaa38f6fca41.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220526170000 +0900" stop="20220526180000 +0900" channel="FujiNext.jp">
@@ -5434,7 +5484,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2008年12月28日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220526/8238845/image/a855e279fd365630227c4a339c923819.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220526170000 +0900" stop="20220526173000 +0900" channel="FujiTwo.jp">
