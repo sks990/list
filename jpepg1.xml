@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220528063000 +0900" stop="20220528073000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ルパン三世(PART2)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">23「第4次元の魔女」
-24「怪盗ねずみ小僧現わる」
-ルパン一味が日本から脱出して5年。世界に散っていたルパン・ファ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220528073000 +0900" stop="20220528080000 +0900" channel="ANIMAX.jp">
   <title lang="ko">七つの大罪 憤怒の審判</title>
     <rating system="MPAA">
@@ -246,6 +234,18 @@
     </rating>
     <desc lang="ko">1「まるちゃんきょうだいげんかをする/まるちゃんはまだおとそ気分」
 2「家庭教師がやってきた/まるちゃん目覚まし…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220529073000 +0900" stop="20220529083000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">37「テキサスの攻防」
+38「再会、シャアとセイラ」
+宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -460,7 +460,7 @@ https//otn.fujitv.co.jp
 <programme start="20220528073000 +0900" stop="20220528080000 +0900" channel="FujiOne.jp">
 <title lang="ko">パチスロ（旅） 374「鹿児島編3（2）」</title>
 <desc>＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220528/8238785/image/7e7544d2cbf860a7bead3e2ea07c2e25.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220528080000 +0900" stop="20220528083000 +0900" channel="FujiOne.jp">
@@ -1224,26 +1224,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220528063000 +0900" stop="20220528070000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼ウクライナから避難の小学生・言葉の壁を乗り越え新たな一歩▼アメリカ・大学で８０年越しの卒業式　戦争に翻弄された日系人をしのぶ▼カンヌ映画祭・是枝裕和監督に聞く</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220528070000 +0900" stop="20220528073000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシア軍　東部の州掌握へ攻勢強める▼“ロシアが掌握”南部の州　命がけの避難の実態は▼観光船陸揚げへ　最新情報▼外国人観光客の入国再開へ　観光地の期待と不安</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220528073000 +0900" stop="20220528080000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
@@ -1944,62 +1924,32 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220528065000 +0900" stop="20220528070000 +0900" channel="eTele.jp">
-    <title lang="ko">えいごであそぼ with Orton</title>
+  <programme start="20220529074000 +0900" stop="20220529074500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220528070000 +0900" stop="20220528071000 +0900" channel="eTele.jp">
-    <title lang="ko">ミミクリーズ</title>
+  <programme start="20220529074500 +0900" stop="20220529080000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">さわやか自然百景</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
+    <desc lang="ko">東京都心からおよそ３０キロ。東京都と埼玉県にまたがって広がる狭山丘陵は豊かな緑に覆われている。そこは首都圏きっての野鳥の宝庫。春、たくさんの鳥たちが躍動する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220528071000 +0900" stop="20220528071500 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
+  <programme start="20220529080000 +0900" stop="20220529082500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">小さな旅</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220528071500 +0900" stop="20220528072000 +0900" channel="eTele.jp">
-    <title lang="ko">ギョふんでサカナ★スター</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">一風変わったフォルムから水族館の人気者「エイ」。しかしその姿には、生き残るために遂げた独自の進化が詰まっているという。知られざるエイの生態をさかなクンが徹底解説</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220528072000 +0900" stop="20220528073500 +0900" channel="eTele.jp">
-    <title lang="ko">なりきり! むーにゃん生きもの学園</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">みんなは「ガ」と「チョウ」、何が違うのか知ってる？ガは色が地味でチョウは派手？それは間違い。チョウに負けないぐらいキレイな色のガもいる。さ〜て、何が違うのかな？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220528073500 +0900" stop="20220528074500 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">生活の中にかくれて気づかれない、不思議な法則や構造、おもしろい考え方を、歌、体操、ピタゴラ装置など多彩な企画で紹介します。今回は「箱のすけスペシャル！」</desc>
+    <desc lang="ko">愛媛県今治市は造船所の数が日本一。巨大な船に向き合い汗を流す造船マンたち。確かな技術で船造りを支える女性だけの町工場。造船がつなぐ人々の心意気に触れる旅です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2524,6 +2474,36 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220529072500 +0900" stop="20220529073000 +0900" channel="eTele.jp">
+    <title lang="ko">ポップイン!クラフト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">巻き尺で作るリボン型のブレスレット。色や目盛りのデザインが個性的な巻き尺をアクセサリーにして、ポップなコーデを楽しもう！寸法通りに切って金具でとめるだけだよ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220529073000 +0900" stop="20220529080000 +0900" channel="eTele.jp">
+    <title lang="ko">ワンワンわんだーらんど</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">土曜のお昼はワンダホー！▽鳥取の言葉「わったいな」ってどんな意味？▽鳥取のお祭りで使われる「しゃんしゃん傘」はとってもいい音！▽新曲は♪いいことありそうだ　ほか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220529080000 +0900" stop="20220529082500 +0900" channel="eTele.jp">
+    <title lang="ko">趣味の園芸 やさいの時間</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２０２１年５月１６日のアンコール放送。花も美しいオクラ。一つのプランターにあえて株間を狭くタネをまき、草丈をコンパクトに育てて、１回に収穫できる数を増やす。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220528053000 +0900" stop="20220528080000 +0900" channel="NipponTV.jp">
     <title lang="ko">ズームイン!!サタデー</title>
     <rating system="MPAA">
@@ -2852,6 +2832,16 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">人と森との関係を取り戻す！林業ボーイズ結成！▽そもそも林業ってなに？林業の初歩を学ぶ▽国産材が使われなくなった理由とは▽子供たちが木について学ぶ木育の現場に迫る</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220529073000 +0900" stop="20220529102500 +0900" channel="NipponTV.jp">
+    <title lang="ko">シューイチ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▼進む脱マスクの流れ 街中の着用率をAIで▼中山が魅力を大解剖 劇団四季バケモノの子▼中丸仰天の㊙発明家▼極上銭湯が続々登場▼名作珍作をクイズにサラリーマン川柳</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3287,26 +3277,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220528053000 +0900" stop="20220528073000 +0900" channel="TBS2.jp">
-  <title lang="ko">まるっと!サタデー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">網戸抜ける吸血スケベ虫対策▽上半期コンビニヒット＆下半期予測▽カップ麺＆アイス値上げ▽ＢＴＳが米ホワイトハウスへ▽交通安全ＳＤカードでお得に▽目黒通りニトリ攻略</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220528073000 +0900" stop="20220528075800 +0900" channel="TBS2.jp">
-  <title lang="ko">所さんお届けモノです!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">中山道、東海道、日光街道を制覇したチャンカワイが次に挑むのは甲州街道！▼別名グルメ街道で一体どんな日本の美味に出会うのか？目指せ完食！その食べっぷりにも注目です</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220528075800 +0900" stop="20220528093000 +0900" channel="TBS2.jp">
   <title lang="ko">サタデープラス</title>
     <rating system="MPAA">
@@ -3581,22 +3551,22 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220528065400 +0900" stop="20220528070000 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
+<programme start="20220529073000 +0900" stop="20220529080000 +0900" channel="TBS2.jp">
+  <title lang="ko">がっちりマンデー!!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日本を襲う災害…その救助現場では命をかけた大救出劇が▽熊本地震…倒壊家屋に残された赤ちゃんを救った奇跡の物語▽九州豪雨で無念ペット救出不可＆燃料切れで救助不能!?</desc>
+    <desc lang="ko">★全国の坪月商３０万円超えの大繁盛店を徹底取材！★ナニワ生まれの立ち飲み屋さんがアレを酒のつまみにして大繁盛！★大行列のパン屋さん１店舗で年商４億円！？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220528070000 +0900" stop="20220528073000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ペッパピッグ/パジャマスク</title>
+<programme start="20220529080000 +0900" stop="20220529095400 +0900" channel="TBS2.jp">
+  <title lang="ko">サンデーモーニング</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">『イニミニマニモ』では世界で大人気のアニメ「ペッパピッグ」と「しゅつどう！パジャマスク」を豪華2本立てで放送！副音声で英語バージョンも聞けるよ！！</desc>
+    <desc lang="ko">一週間の見逃せないニュース＆スポーツをサンデーモーニングならではの視点でお送りします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4036,6 +4006,26 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220529073000 +0900" stop="20220529080000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">遊戯王ゴーラッシュ!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今、遠い銀河の果てから来た１人の宇宙戦士が、ラッシュデュエルという新たな戦場を駆け抜ける！行くぞ、ゴーラッシュ!!</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220529080000 +0900" stop="20220529083000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ポケモンとどこいく!?</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">松丸くんとあばれる君がカセキ博士を目指して大奮闘！超絶可愛い映え〜なポケモンメニューやポケセン人気グッズも大調査♪３人で初めてのロケ企画、お見逃しなく★☆</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220528060000 +0900" stop="20220528083000 +0900" channel="FujiTV.jp">
   <title lang="ko">めざましどようび</title>
     <rating system="MPAA">
@@ -4400,22 +4390,12 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220528063000 +0900" stop="20220528070000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220529073000 +0900" stop="20220529085500 +0900" channel="FujiTV.jp">
+  <title lang="ko">日曜報道 THE PRIME</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220528070000 +0900" stop="20220528073000 +0900" channel="Tokyo MX">
-  <title lang="ko">F.C.TOKYO CONNECT</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ホームの柏戦は引き分けたものの、アウエー清水戦では快勝！そのゲームハイライトと大矢運送、大矢社長とのスペシャル対談‼</desc>
+    <desc lang="ko">今動いているニュースの「当事者」と、橋下徹がスタジオ生議論！「当事者の考え」が分かる！「日本の行方」が分かる！「ｄボタン」投票で番組に参加も！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4920,6 +4900,26 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220529073000 +0900" stop="20220529080000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220529080000 +0900" stop="20220529083000 +0900" channel="Tokyo MX">
+  <title lang="ko">スーパーブック</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">クリス、ジョイ、そしてロボットのロビックが聖書の世界にタイムスリップ。創世記から黙示録まで、聖書の壮大なストーリーを、あなたも一緒に冒険しませんか。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220527235000 +0900" stop="20220528011000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第7戦 モナコGP 金曜フリー走行2</title>
 <desc>＜開催＞2022年5月27日【生中継】
@@ -5130,7 +5130,7 @@ https//otn.fujitv.co.jp
 <programme start="20220528073000 +0900" stop="20220528080000 +0900" channel="FujiOne.jp">
 <title lang="ko">パチスロ（旅） 374「鹿児島編3（2）」</title>
 <desc>＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220528/8238785/image/7e7544d2cbf860a7bead3e2ea07c2e25.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220528080000 +0900" stop="20220528083000 +0900" channel="FujiOne.jp">
