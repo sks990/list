@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220530160000 +0900" stop="20220530170000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ブラッククローバー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">121「3つの困ったこと」
-122「真っ黒けっけ」
-魔法がすべての、とある世界…。生まれながらに魔法が使えない少年・…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220530170000 +0900" stop="20220530180000 +0900" channel="ANIMAX.jp">
   <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
     <rating system="MPAA">
@@ -413,6 +401,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220531180000 +0900" stop="20220531190000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ちびまる子ちゃん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">55「子供は風の子」
+56「まるちゃん　ご機嫌な一日」
+ちびまる子ちゃん（通称まる子）こと“さくらももこ”は、父母…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220529212000 +0900" stop="20220530030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第7戦 モナコGP 決勝</title>
 <desc>＜開催＞2022年5月29日【生中継】
@@ -504,7 +504,7 @@
 <title lang="ko">パチンコLAB 〜9th season〜　4</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　チャーミー中元　青山りょう
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220530/8278705/image/248d20b0b4fb7bc9b4df4a56c0d4d028.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220530180000 +0900" stop="20220530183000 +0900" channel="FujiNext.jp">
@@ -1532,26 +1532,6 @@ SHINeeのテミン編をお届け！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220530165900 +0900" stop="20220530170000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">考え方を育てる番組「ピタゴラスイッチ」。その１分版「ピタゴラスイッチミニミニ」をお届けします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530170000 +0900" stop="20220530175700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースLIVE!ゆう5時</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽犬猫に「マイクロチップ」６月から義務化でどうなる？　▽東京板橋区の商店街からにぎわい生中継</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220530175700 +0900" stop="20220530180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -1862,7 +1842,7 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531081500 +0900" stop="20220531090000 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220531081500 +0900" stop="20220531085500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">あさイチ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
@@ -1872,7 +1852,7 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531090000 +0900" stop="20220531113000 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220531085500 +0900" stop="20220531090000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
@@ -1882,12 +1862,12 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531113000 +0900" stop="20220531115400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ひるまえほっと</title>
+  <programme start="20220531090000 +0900" stop="20220531115400 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽埼玉パナソニックワイルドナイツ、ジャパンラグビー・リーグワン優勝▽母親目線の「かもしれない防災」▽「赤ちゃん食堂」で孤立を防げ▽シーフードナシゴレン</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1942,7 +1922,7 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531130000 +0900" stop="20220531130500 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220531130000 +0900" stop="20220531144500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
@@ -1952,42 +1932,12 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531130500 +0900" stop="20220531135500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">列島ニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の課題を盛りだくさんでお届けします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220531135500 +0900" stop="20220531140000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">テレビ体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">鈴木大輔、能條貴大、今井菜津美、矢作あかり、杉井勇介</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220531140000 +0900" stop="20220531140500 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220531144500 +0900" stop="20220531145000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220531140500 +0900" stop="20220531145000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">新日本風土記 45分版</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">北前船は江戸時代から明治の中頃まで、日本列島をつないだ物流の大動脈。港ごとに売りさばき巨万の富を手にした人々、もてなす人々の物語（２０２０年４月放送の再編集）</desc>
+    <desc lang="ko">世界自然遺産の、沖縄本島北部のやんばる地域。４月から同地を舞台にはじまったドラマ「ちむどんどん」に出演する上白石萌歌が、やんばるの自然を紹介する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1997,7 +1947,7 @@ SHINeeのテミン編をお届け！
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽あなたのくらしに、みみより解説！いま気になるニュースをわかりやすく、裏にはこんな深いコトが…！くらしに密着した耳よりな情報をお届けします！</desc>
+    <desc lang="ko">日本からの農林水産物や食品の輸出額が年々増え、去年初めて１兆円を超えた。政府は２０３０年までに５兆円に増やすことを目指している。輸出が増える背景と課題を伝える。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2092,52 +2042,12 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220530165000 +0900" stop="20220530170000 +0900" channel="eTele.jp">
-    <title lang="ko">ツクランカー</title>
+  <programme start="20220531180000 +0900" stop="20220531181000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">子どもの問題解決能力を育むＳＴＥＡＭ教育番組。今回のテーマは、生き物が自然に集まる場所「ビオトープ」。学校にトンボが来てほしい！トンボのすみかになる条件って何？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530170000 +0900" stop="20220530171000 +0900" channel="eTele.jp">
-    <title lang="ko">おじゃる丸</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530171000 +0900" stop="20220530171500 +0900" channel="eTele.jp">
-    <title lang="ko">オトッペ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">音から生まれた不思議な生き物・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530171500 +0900" stop="20220530172500 +0900" channel="eTele.jp">
-    <title lang="ko">はなかっぱ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530172500 +0900" stop="20220530173500 +0900" channel="eTele.jp">
-    <title lang="ko">ゴー!ゴー!キッチン戦隊クックルン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「アニメ」×「実写」の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルンの３人と元シェルフィッシュ星のお姫様が繰り広げる笑いと涙の冒険物語。</desc>
+    <desc lang="ko">首都圏ネットワークがワイドになりました！「明日につながる、あなたとつながる」６０分間。いまチェックすべき首都圏最新情報は？ネットトレンドと連動してより深く！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2932,6 +2842,56 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220531171000 +0900" stop="20220531171500 +0900" channel="eTele.jp">
+    <title lang="ko">オトッペ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">音から生まれた不思議な生き物・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531171500 +0900" stop="20220531172500 +0900" channel="eTele.jp">
+    <title lang="ko">はなかっぱ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531172500 +0900" stop="20220531173500 +0900" channel="eTele.jp">
+    <title lang="ko">ゴー!ゴー!キッチン戦隊クックルン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「アニメ」×「実写」の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルンの３人と元シェルフィッシュ星のお姫様が繰り広げる笑いと涙の冒険物語。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531173500 +0900" stop="20220531180000 +0900" channel="eTele.jp">
+    <title lang="ko">天才てれびくんhello，</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">てれび戦士が「ねこ検定」でゲーム対決だ！▼てれび戦士と電キャのキズナチャレンジ！▼てれび戦士がカヤックで都会の海を大冒険！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531180000 +0900" stop="20220531182400 +0900" channel="eTele.jp">
+    <title lang="ko">おかあさんといっしょ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220530155000 +0900" stop="20220530190000 +0900" channel="NipponTV.jp">
     <title lang="ko">news every.</title>
     <rating system="MPAA">
@@ -3656,36 +3616,6 @@ by.Room 39</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220530165400 +0900" stop="20220530170000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ゆうがたサテライト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">観光船陸揚げで沈没原因調査本格化▽物価対策など参院で論戦スタート</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220530170000 +0900" stop="20220530171000 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">生活に役立つ商品を紹介する通販番組</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220530171000 +0900" stop="20220530173000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">虎ノ門市場 〜毎日、幸せごはん。〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。テレビ東京「虎ノ門市場」でお取り寄せも可能です！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220530173000 +0900" stop="20220530182500 +0900" channel="TVTokyo.jp">
   <title lang="ko">家族に会いたい!帰郷する人に密着してみたら…</title>
     <rating system="MPAA">
@@ -4063,6 +3993,26 @@ SUPER★DRAGON、BALLISTIK　BOYZ、上野大樹、Foi
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220531171000 +0900" stop="20220531173000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">虎ノ門市場 〜毎日、幸せごはん。〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。テレビ東京「虎ノ門市場」でお取り寄せも可能です！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220531173000 +0900" stop="20220531182500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">執事 西園寺の名推理</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">“パーフェクトな執事”西園寺（上川隆也）が奥様（八千草薫）のために事件を解決する痛快ミステリー・エンターテインメント。有名パティシエを殺した透明人間の謎。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220530154500 +0900" stop="20220530190000 +0900" channel="FujiTV.jp">
   <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
@@ -4329,16 +4279,6 @@ SUPER★DRAGON、BALLISTIK　BOYZ、上野大樹、Foi
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220530163000 +0900" stop="20220530170000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4814,6 +4754,16 @@ SUPER★DRAGON、BALLISTIK　BOYZ、上野大樹、Foi
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220531180000 +0900" stop="20220531181500 +0900" channel="Tokyo MX">
+  <title lang="ko">シゴト手帖</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220529212000 +0900" stop="20220530030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第7戦 モナコGP 決勝</title>
 <desc>＜開催＞2022年5月29日【生中継】
@@ -4905,7 +4855,7 @@ SUPER★DRAGON、BALLISTIK　BOYZ、上野大樹、Foi
 <title lang="ko">パチンコLAB 〜9th season〜　4</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　チャーミー中元　青山りょう
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220530/8278705/image/248d20b0b4fb7bc9b4df4a56c0d4d028.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220530180000 +0900" stop="20220530183000 +0900" channel="FujiNext.jp">
