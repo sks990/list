@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220530113000 +0900" stop="20220530120000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220530120000 +0900" stop="20220530130000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
     <rating system="MPAA">
@@ -411,6 +401,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220531130000 +0900" stop="20220531140000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">テニスの王子様</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">35「ドライブB」
+36「兄、不二周助」
+アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニスの…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220529212000 +0900" stop="20220530030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第7戦 モナコGP 決勝</title>
 <desc>＜開催＞2022年5月29日【生中継】
@@ -661,7 +663,7 @@
 <title lang="ko">寺門ジモンの肉専門チャンネル ミニ　20「近江焼肉ホルモン すだく」</title>
 <desc>名古屋SP「近江焼肉ホルモン すだく 名古屋栄店」
 寺門ジモンがお送りする肉料理に特化した肉専門番組の10分版！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220530/8386534/image/06cb06c7019879ea1e2f10ea2542cb6c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220530130000 +0900" stop="20220530131000 +0900" channel="FujiOne.jp">
@@ -1530,46 +1532,6 @@ SHINeeのテミン編をお届け！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220530115400 +0900" stop="20220530120000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530120000 +0900" stop="20220530121500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">【キャスター】糸井羊司</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530121500 +0900" stop="20220530122000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530122000 +0900" stop="20220530124500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">うまいッ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">甘い脂と上品なうまみが自慢の「プレミアムヤシオマス」。地元栃木に湧く清冽な伏流水と独自に開発した養殖技術にヒミツがありました。プレミアムなおいしさをご堪能あれ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220530124500 +0900" stop="20220530130000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">連続テレビ小説 ちむどんどん</title>
     <rating system="MPAA">
@@ -2010,52 +1972,42 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220530115500 +0900" stop="20220530120000 +0900" channel="eTele.jp">
-    <title lang="ko">まる得マガジン</title>
+  <programme start="20220531121500 +0900" stop="20220531122000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">卵で世界旅行はいかが？世界のたまご料理をご紹介。手軽で簡単なのに、そんな発想が！と驚く卵料理がいっぱいです。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220530120000 +0900" stop="20220530121500 +0900" channel="eTele.jp">
-    <title lang="ko">きょうの健康</title>
+  <programme start="20220531122000 +0900" stop="20220531124500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">いいいじゅー!!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">肺がんの手術は、かつてのように肺を大きく切り取る方法から、切除範囲をより小さくする方法に変わってきている。胸くう鏡手術やロボット支援下手術など最新の技術を紹介。</desc>
+    <desc lang="ko">移住を通して新たな生き方にチャレンジする人々をドキュメント。若きキセル作りの職人が新潟・燕市に移住。全てをネットで解決してしまう新世代の職人が町をザワつかせる！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220530121500 +0900" stop="20220530124000 +0900" channel="eTele.jp">
-    <title lang="ko">趣味どきっ!</title>
+  <programme start="20220531124500 +0900" stop="20220531130000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">連続テレビ小説 ちむどんどん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">マジックは最高のコミュニケーションツールというＭｒ．マリックさんが、だれでも簡単に身の回りにあるものを使ってできるマジックを指南。今回は名作のカップと玉。</desc>
+    <desc lang="ko">暢子は房子から突然クビの宣告。「ある場所で働いて評価を得てくること」と言われる。新しい職場に挑んだ暢子は、そこで子供の頃に沖縄で交流した青柳和彦と再会を果たす。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220530124000 +0900" stop="20220530124500 +0900" channel="eTele.jp">
-    <title lang="ko">365日の献立日記</title>
+  <programme start="20220531130000 +0900" stop="20220531130500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220530124500 +0900" stop="20220530125000 +0900" channel="eTele.jp">
-    <title lang="ko">みんなのうた</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「さよならプラスティックワールド」うたＰｅｒｆｕｍｅ／「金色のバトン」うたＪｒ．ＥＸＩＬＥ</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2840,6 +2792,56 @@ SHINeeのテミン編をお届け！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220531121500 +0900" stop="20220531124000 +0900" channel="eTele.jp">
+    <title lang="ko">趣味どきっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">シリーズ最終回は、奈良国立博物館を訪ねる。日本に仏教が伝わった飛鳥時代から、鎌倉時代まで各時代の特徴をおさらいしながら、仏像鑑賞。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531124000 +0900" stop="20220531124500 +0900" channel="eTele.jp">
+    <title lang="ko">浮世絵EDO-LIFE</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！江戸時代の猫ブームを反映した、猫好きにはたまらない一枚。猫のしぐさとユーモアの数々をご覧あれ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531124500 +0900" stop="20220531125000 +0900" channel="eTele.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「きみがいるから」うた谷山浩子／「ごめんね」うたＢｉＳＨ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531125000 +0900" stop="20220531130000 +0900" channel="eTele.jp">
+    <title lang="ko">視点・論点</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「子どもの便秘を正しく知る」中野美和子（小児外科医）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220531130000 +0900" stop="20220531130500 +0900" channel="eTele.jp">
+    <title lang="ko">NHK手話ニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">【キャスター】小野寺善子</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220530115500 +0900" stop="20220530135500 +0900" channel="NipponTV.jp">
     <title lang="ko">ヒルナンデス!</title>
     <rating system="MPAA">
@@ -3377,6 +3379,16 @@ by.Room 39</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220531130000 +0900" stop="20220531133000 +0900" channel="Asahi.jp">
+  <title lang="ko">徹子の部屋</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">〜音楽家２０年…羽生結弦選手が私の曲を〜ヴァイオリニスト・川井郁子さんが今日のゲストです。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4231,26 +4243,6 @@ SUPER★DRAGON、BALLISTIK　BOYZ、上野大樹、Foi
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220530110500 +0900" stop="20220530120000 +0900" channel="Tokyo MX">
-  <title lang="ko">大明皇妃-Empress of the Ming-</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">総製作費１００億円！激動の明朝で３人の皇帝を支え国の危機を救ったのは１人の皇后の愛と勇気だった。実在の女性ヒーローの一代記を描く本格歴史エンターテイメント</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220530120000 +0900" stop="20220530123000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220530123000 +0900" stop="20220530130000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -4712,6 +4704,26 @@ SUPER★DRAGON、BALLISTIK　BOYZ、上野大樹、Foi
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220531123000 +0900" stop="20220531130000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220531130000 +0900" stop="20220531130500 +0900" channel="Tokyo MX">
+  <title lang="ko">MX news FLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220529212000 +0900" stop="20220530030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第7戦 モナコGP 決勝</title>
 <desc>＜開催＞2022年5月29日【生中継】
@@ -4962,7 +4974,7 @@ SUPER★DRAGON、BALLISTIK　BOYZ、上野大樹、Foi
 <title lang="ko">寺門ジモンの肉専門チャンネル ミニ　20「近江焼肉ホルモン すだく」</title>
 <desc>名古屋SP「近江焼肉ホルモン すだく 名古屋栄店」
 寺門ジモンがお送りする肉料理に特化した肉専門番組の10分版！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220530/8386534/image/06cb06c7019879ea1e2f10ea2542cb6c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220530130000 +0900" stop="20220530131000 +0900" channel="FujiOne.jp">
