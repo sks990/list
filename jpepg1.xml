@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220531100000 +0900" stop="20220531110000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ちびまる子ちゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">53「いつものお正月」
-54「まるちゃん 眠れない夜」
-ちびまる子ちゃん（通称まる子）こと“さくらももこ”は、父母…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220531110000 +0900" stop="20220531120000 +0900" channel="ANIMAX.jp">
   <title lang="ko">先輩がうざい後輩の話</title>
     <rating system="MPAA">
@@ -402,6 +390,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220601120000 +0900" stop="20220601130000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">5「ポルポの遺産を狙え！」
+6「ムーディー・ブルースの逆襲」
+ジョースター家の宿敵・DIOの血を継ぐ息子である、青…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220530214000 +0900" stop="20220531015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第7戦 モナコGP 決勝</title>
 <desc>＜開催＞2022年5月29日【再放送】
@@ -700,7 +700,7 @@
 <programme start="20220531114500 +0900" stop="20220531120000 +0900" channel="FujiOne.jp">
 <title lang="ko">ラーメンWalker TV2　323</title>
 <desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220531/8278852/image/c477f88ca0cd28f56d28fe63009737d6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220531120000 +0900" stop="20220531121000 +0900" channel="FujiOne.jp">
@@ -1541,16 +1541,6 @@ MCカン・ダニエル
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220531090000 +0900" stop="20220531115400 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220531115400 +0900" stop="20220531120000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -2081,62 +2071,52 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531104000 +0900" stop="20220531110000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 地学基礎</title>
+  <programme start="20220601110500 +0900" stop="20220601113000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">グレーテルのかまど</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」太陽は常に同じ状態を保っているのではなくさまざまに変化しています。それらが地球に及ぼす影響を学びます</desc>
+    <desc lang="ko">パンや缶詰のみかんが入った、温かく優しいプリンケーキ。気軽に楽しく作ってほしいという、料理研究家・土井善晴さんとっておきの、おやつの思い出をひもときます。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531110000 +0900" stop="20220531111000 +0900" channel="eTele.jp">
-    <title lang="ko">アクティブ10 理科</title>
+  <programme start="20220601113000 +0900" stop="20220601115300 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ひるまえほっと</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">中学生向けの新理科番組。答えは提示せず、自ら課題を発見、仮説・検証方法を立案、結果から考察が出来るようになるための方法を伝える。今回のテーマは「電流と磁界」。</desc>
+    <desc lang="ko">▽大田花き市場卸・磯村信夫さんと行く「千葉の花を巡る旅」▽館山市のヒマワリの魅力をたっぷりご紹介▽いま旬市場「キンメダイ」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531111000 +0900" stop="20220531112000 +0900" channel="eTele.jp">
-    <title lang="ko">大西泰斗の英会話☆定番レシピ</title>
+  <programme start="20220601115300 +0900" stop="20220601115900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">英会話に必要な文法のレシピは７つだけ！さまざまな英語表現を取り上げながら、「７つのレシピ」を駆使して英語という言語の根底にあるルールを理解します。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531112000 +0900" stop="20220531112500 +0900" channel="eTele.jp">
-    <title lang="ko">まいにちスクスク</title>
+  <programme start="20220601115900 +0900" stop="20220601120000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531112500 +0900" stop="20220531113000 +0900" channel="eTele.jp">
-    <title lang="ko">きょうの料理ビギナーズ</title>
+  <programme start="20220601120000 +0900" stop="20220601121500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">レモン汁で仕上げる塩味の鶏そぼろはさっぱりとした味わい。オリーブ油の風味を生かして、洋風やエスニック料理にも使える魅力いっぱいのおかずのタネです。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220531113000 +0900" stop="20220531115500 +0900" channel="eTele.jp">
-    <title lang="ko">きょうの料理</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">蒸し暑くなって、食欲も減退気味に…そんな方には酢やレモン、梅干しなどの酸味、薬味野菜を使ったさっぱりおかずがおすすめ！２日間にわたってたっぷりご紹介します！</desc>
+    <desc lang="ko">【キャスター】糸井羊司</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2911,32 +2891,62 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531102500 +0900" stop="20220531113000 +0900" channel="NipponTV.jp">
-    <title lang="ko">バゲット</title>
+  <programme start="20220601111000 +0900" stop="20220601112000 +0900" channel="eTele.jp">
+    <title lang="ko">大西泰斗の英会話☆定番レシピ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">本場の味を行かずに楽しむご当地グルメ特集！広島㊙カキ＆高知しらす▽密着２４年！５男２女の酪農大家族</desc>
+    <desc lang="ko">英会話に必要な文法のレシピは７つだけ！さまざまな英語表現を取り上げながら、「７つのレシピ」を駆使して英語という言語の根底にあるルールを理解します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531113000 +0900" stop="20220531114500 +0900" channel="NipponTV.jp">
-    <title lang="ko">NNN ストレイトニュース</title>
+  <programme start="20220601112000 +0900" stop="20220601112500 +0900" channel="eTele.jp">
+    <title lang="ko">まいにちスクスク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">最新のニュースをストレートに！　必要とされる情報を、コンパクトにまとめてお伝えします。</desc>
+    <desc lang="ko">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220531114500 +0900" stop="20220531115500 +0900" channel="NipponTV.jp">
-    <title lang="ko">キユーピー3分クッキング</title>
+  <programme start="20220601112500 +0900" stop="20220601113000 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの料理ビギナーズ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">コロコロに切ったサーモンとアボカドに漬け汁をからめてごはんにのせた、火を使わない丼。漬け汁には塩昆布を混ぜて、うまみを効かせます。</desc>
+    <desc lang="ko">さば缶でつくるお手軽カレー。たまねぎを炒めて甘みを出し、缶汁も残さず使い、簡単なのに味は本格派。仕上げに加える粉チーズのコクが味わいを深めます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220601113000 +0900" stop="20220601115500 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの料理</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">蒸し暑くなって、食欲も減退気味に…そんな方には酢やレモン、梅干しなどの酸味、薬味野菜を使ったさっぱりおかずがおすすめ！２日間にわたってたっぷりご紹介します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220601115500 +0900" stop="20220601120000 +0900" channel="eTele.jp">
+    <title lang="ko">まる得マガジン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">卵で世界旅行はいかが？世界のたまご料理をご紹介。手軽で簡単なのに、そんな発想が！と驚く卵料理がいっぱいです。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220601120000 +0900" stop="20220601121500 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの健康</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">毎年のように新しい分子標的薬が登場し、肺がん治療の選択肢が広がっている。入院して治療に専念しなくても通院しながら薬で治療できる場合も増えた。薬物治療の最新情報。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3188,6 +3198,36 @@ MCカン・ダニエル
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220601113000 +0900" stop="20220601114500 +0900" channel="NipponTV.jp">
+    <title lang="ko">NNN ストレイトニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">最新のニュースをストレートに！　必要とされる情報を、コンパクトにまとめてお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220601114500 +0900" stop="20220601115500 +0900" channel="NipponTV.jp">
+    <title lang="ko">キユーピー3分クッキング</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">豚肉に塩と小麦粉をまぶしたら、キャベツをのせて蒸し煮にします。豚肉の小麦粉がとろみになってよりクリーミーな舌ざわりに。上に散らしたレモンの皮が爽やかです。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220601115500 +0900" stop="20220601135500 +0900" channel="NipponTV.jp">
+    <title lang="ko">ヒルナンデス!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3713,36 +3753,6 @@ by.Yo Yo the “Pianoman”</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220531092600 +0900" stop="20220531111300 +0900" channel="TVTokyo.jp">
-  <title lang="ko">なないろ日和!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽快適ショッピングスタジオ▽「梅雨もスッキリ快適に！家電そうじ」簡単キレイ！プロが教える裏ワザ！冷蔵庫・テレビ・電子レンジ・エアコン他▽「虎ノ門市場」豪華海鮮</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220531111300 +0900" stop="20220531113500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">昼サテ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">最新のニュースとマーケット情報をいち早くお伝えします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220531113500 +0900" stop="20220531114000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">月〜金お昼のソングショー ひるソン!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">月曜〜金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220531114000 +0900" stop="20220531134000 +0900" channel="TVTokyo.jp">
   <title lang="ko">昼めし旅〜あなたのご飯見せてください!〜</title>
     <rating system="MPAA">
@@ -4097,32 +4107,32 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220531095000 +0900" stop="20220531112500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ノンストップ!</title>
+<programme start="20220601111300 +0900" stop="20220601113500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">昼サテ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ゴディバ新作ドリンク＆レンジ極上焼き肉＆絶品らっきょうグルメ▽カンヌで大注目映画ＰＬＡＮ７５▽森山未來が原点を語る</desc>
+    <desc lang="ko">最新のニュースとマーケット情報をいち早くお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220531112500 +0900" stop="20220531113000 +0900" channel="FujiTV.jp">
-  <title lang="ko">国分太一の気ままにさんぽ</title>
+<programme start="20220601113500 +0900" stop="20220601114000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">月〜金お昼のソングショー ひるソン!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">おさんぽ歴１０年目に突入した国分太一。もはや「さんぽの達人」の域まで達したこの男が、五感を使った新たな独自の目線で日本全国を気ままにおさんぽします！！</desc>
+    <desc lang="ko">月曜〜金曜まで毎日あなたのリクエストに応え、歌手による渾身の一曲を披露！アニメキャラ「ひろし」と「かなで」の司会もお楽しみに！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220531113000 +0900" stop="20220531114500 +0900" channel="FujiTV.jp">
-  <title lang="ko">FNN Live News days</title>
+<programme start="20220601114000 +0900" stop="20220601134000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">昼めし旅〜あなたのご飯見せてください!〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ベルギーで開催のＥＵ首脳会談でウクライナ支援策など協議▽生活に影響は？６月から食品中心に値上がり続く▽東日本中心に真夏日から一転で気温大幅ダウン</desc>
+    <desc lang="ko">▽神奈川県小田原市…街のパン屋さん直伝！米粉＆米油でサクサク鶏から揚げ▽農家さん直伝！旬のそら豆スパイス炒め▽東京都東村山市…チンゲン菜＆牛肉五香粉炒め</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4347,22 +4357,32 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220531103000 +0900" stop="20220531110000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220601112500 +0900" stop="20220601113000 +0900" channel="FujiTV.jp">
+  <title lang="ko">国分太一の気ままにさんぽ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">おさんぽ歴１０年目に突入した国分太一。もはや「さんぽの達人」の域まで達したこの男が、五感を使った新たな独自の目線で日本全国を気ままにおさんぽします！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220531110000 +0900" stop="20220531110500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
+<programme start="20220601113000 +0900" stop="20220601114500 +0900" channel="FujiTV.jp">
+  <title lang="ko">FNN Live News days</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">世の中の動きを素早くキャッチ！最新ニュースをわかりやすく、丁寧にお届けします。気になるポイントは深掘りして、役に立つニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220601114500 +0900" stop="20220601144500 +0900" channel="FujiTV.jp">
+  <title lang="ko">ポップUP!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">①話題の芸能人生出演「スター・ニュース速報」②マニア＆通が明かすランキング「くろうと番付」③アナタはどっち派？気になる話題で井戸端④芸能エンタメ深掘り</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4877,6 +4897,26 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220601110500 +0900" stop="20220601120000 +0900" channel="Tokyo MX">
+  <title lang="ko">大明皇妃-Empress of the Ming-</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">総製作費１００億円！激動の明朝で３人の皇帝を支え国の危機を救ったのは１人の皇后の愛と勇気だった。実在の女性ヒーローの一代記を描く本格歴史エンターテイメント</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220601120000 +0900" stop="20220601123000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220530214000 +0900" stop="20220531015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第7戦 モナコGP 決勝</title>
 <desc>＜開催＞2022年5月29日【再放送】
@@ -5175,7 +5215,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 <programme start="20220531114500 +0900" stop="20220531120000 +0900" channel="FujiOne.jp">
 <title lang="ko">ラーメンWalker TV2　323</title>
 <desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220531/8278852/image/c477f88ca0cd28f56d28fe63009737d6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220531120000 +0900" stop="20220531121000 +0900" channel="FujiOne.jp">
