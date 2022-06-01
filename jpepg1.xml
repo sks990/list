@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220602040000 +0900" stop="20220602050000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">キャプテン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">21「イガラシの特訓」
-22「めざせ！選抜大会」
-名門・青葉学院から転校した谷口タカオは、墨谷第二中・野球部の次期…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220602050000 +0900" stop="20220602060000 +0900" channel="ANIMAX.jp">
   <title lang="ko">先輩がうざい後輩の話</title>
     <rating system="MPAA">
@@ -423,6 +411,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220603060000 +0900" stop="20220603063000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">進撃の巨人 Season2</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">5「ヒストリア」
+超大型巨人の出現により、果てしない戦いの日々は続く…。抗する術もなく巨人の餌となった母の最期…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220601231000 +0900" stop="20220602012000 +0900" channel="FujiNext.jp">
 <title lang="ko">ティナ・ターナー TINALIVE！</title>
 <desc>ティナ・ターナーの50周年記念ツアーの一環として、オランダのアーネムにあるヘルレドームで開催されたエレクトリック・パフォーマンス・ショーを放送！
@@ -465,7 +464,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SKY EYE 〜空からのメッセージ〜　1「熊本編」</title>
 <desc>日本各地の魅力をこれまでにない空からの視点でご紹介する、ANA機内で上映されているオリジナル番組を放送。
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8330705/image/0f22b3099f6957dce70691e3e676df26.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602082000 +0900" channel="FujiNext.jp">
@@ -695,7 +694,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602050000 +0900" stop="20220602060000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　23「一畑電気鉄道」</title>
 <desc>23『一畑電気鉄道』　山陰地方唯一の私鉄であり、出雲地方の名勝地、宍道湖の北岸を走る一畑電気鉄道。今回は北松江線を中心にお届けする。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8278890/image/1aa3f115ea56b56f2b4c552c33e465f8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602070000 +0900" channel="FujiOne.jp">
@@ -888,7 +887,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602053000 +0900" stop="20220602060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8279058/image/a2318072c4c90d36170f3226dfacbfc6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602072000 +0900" channel="FujiTwo.jp">
@@ -1127,7 +1126,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602050000 +0900" stop="20220602060000 +0900" channel="kbsworld.jp">
 <title lang="ko">開かれた音楽会　セレクト　[字][再]</title>
 <desc>日本初放送！人気K-POPアイドルからベテラン歌手まで出演する韓国の長寿音楽番組！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8243071/image/2108055d19fd7518f5162f2fe76e75a5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602070000 +0900" channel="kbsworld.jp">
@@ -1498,16 +1497,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220602042000 +0900" stop="20220602050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">国際報道2022</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽ウクライナ情勢　米国が追加の軍事支援　▽ダボス会議〜ウクライナ侵攻「新たな冷戦」を議論〜　▽インドネシア　汚れたゴールドラッシュを追う　※ＳＤＧｓ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220602050000 +0900" stop="20220602060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
@@ -2138,22 +2127,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602010000 +0900" stop="20220602053000 +0900" channel="eTele.jp">
-    <title lang="ko"></title>
+  <programme start="20220603060000 +0900" stop="20220603063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220602053000 +0900" stop="20220602055500 +0900" channel="eTele.jp">
-    <title lang="ko">NHKみんなの手話</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">＃９のテーマは「学校」です。学年の表し方や、好きな授業は何？などの表現を学習します。耳の聞こえない人や聞こえにくい人に必要な「情報保障」についてもお伝えします。</desc>
+    <desc lang="ko">きょうのスタート、カラフルに！国内外の最新ニュースをお届け！気になるニュースの解説・スポーツ情報・気象中継など、役立つ情報満載でお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2948,12 +2927,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602043000 +0900" stop="20220602055000 +0900" channel="NipponTV.jp">
-    <title lang="ko">Oha!4 NEWS LIVE</title>
+  <programme start="20220603053000 +0900" stop="20220603060500 +0900" channel="eTele.jp">
+    <title lang="ko">新・にっぽんの芸能</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽阿武町が住民説明会▽東京2415人感染確認▽ウクライナ最新情報▽全仏ＯＰ、プロ野球</desc>
+    <desc lang="ko">大河ドラマ「鎌倉殿の１３人」で北条時政役を好演中の歌舞伎俳優・坂東彌十郎さんをゲストに迎え、今注目の鎌倉時代と歌舞伎のかかわりや、代表的な演目を楽しむ。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3225,6 +3204,16 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220603055000 +0900" stop="20220603080000 +0900" channel="NipponTV.jp">
+    <title lang="ko">ZIP!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3543,16 +3532,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602043000 +0900" stop="20220602052000 +0900" channel="TBS2.jp">
-  <title lang="ko">THE TIME’</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">利用者急増中！格安アイテム満載のリユース特集▼ロシアが原発に爆発物▼ドラクエ“ながら運転”で死亡事故▼高校生に覚せい剤販売▼韓国旅行再開、ビザ申請に長蛇の列</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220602052000 +0900" stop="20220602080000 +0900" channel="TBS2.jp">
   <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
@@ -3769,15 +3748,12 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602042300 +0900" stop="20220602054500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ものスタ</title>
+<programme start="20220603052000 +0900" stop="20220603080000 +0900" channel="TBS2.jp">
+  <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+    <desc lang="ko">安住紳一郎と香川照之のＷ司会で、明るく楽しく丁寧に、そして正直にお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4166,12 +4142,12 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602045500 +0900" stop="20220602052500 +0900" channel="FujiTV.jp">
-  <title lang="ko">めざましテレビ全部見せ</title>
+<programme start="20220603054500 +0900" stop="20220603070500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">モーサテ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+    <desc lang="ko">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4457,22 +4433,12 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602043000 +0900" stop="20220602050000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220603052500 +0900" stop="20220603080000 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざましテレビ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602050000 +0900" stop="20220602053000 +0900" channel="Tokyo MX">
-  <title lang="ko">LOVE HOKKAIDO</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">道南・噴火湾【豊浦町】を巡る旅！▼今しか食べられない“赤ちゃんホタテ”に感激！“耳吊り”って？知られざるホタテの世界へＧＯ▼町の人気商店が織りなす人情＆グルメ！</desc>
+    <desc lang="ko">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4967,6 +4933,26 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220603053000 +0900" stop="20220603060000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603060000 +0900" stop="20220603063000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220601231000 +0900" stop="20220602012000 +0900" channel="FujiNext.jp">
 <title lang="ko">ティナ・ターナー TINALIVE！</title>
 <desc>ティナ・ターナーの50周年記念ツアーの一環として、オランダのアーネムにあるヘルレドームで開催されたエレクトリック・パフォーマンス・ショーを放送！
@@ -5009,7 +4995,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SKY EYE 〜空からのメッセージ〜　1「熊本編」</title>
 <desc>日本各地の魅力をこれまでにない空からの視点でご紹介する、ANA機内で上映されているオリジナル番組を放送。
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8330705/image/0f22b3099f6957dce70691e3e676df26.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602082000 +0900" channel="FujiNext.jp">
@@ -5239,7 +5225,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602050000 +0900" stop="20220602060000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　23「一畑電気鉄道」</title>
 <desc>23『一畑電気鉄道』　山陰地方唯一の私鉄であり、出雲地方の名勝地、宍道湖の北岸を走る一畑電気鉄道。今回は北松江線を中心にお届けする。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8278890/image/1aa3f115ea56b56f2b4c552c33e465f8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602070000 +0900" channel="FujiOne.jp">
@@ -5432,7 +5418,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602053000 +0900" stop="20220602060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8279058/image/a2318072c4c90d36170f3226dfacbfc6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602072000 +0900" channel="FujiTwo.jp">
@@ -5671,7 +5657,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602050000 +0900" stop="20220602060000 +0900" channel="kbsworld.jp">
 <title lang="ko">開かれた音楽会　セレクト　[字][再]</title>
 <desc>日本初放送！人気K-POPアイドルからベテラン歌手まで出演する韓国の長寿音楽番組！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8243071/image/2108055d19fd7518f5162f2fe76e75a5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602060000 +0900" stop="20220602070000 +0900" channel="kbsworld.jp">
