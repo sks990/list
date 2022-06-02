@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220602120000 +0900" stop="20220602130000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">7「セックス・ピストルズ登場 その(1)」
-8「セックス・ピストルズ登場 その(2)」
-ジョースター家の宿敵・DIOの血を…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220602130000 +0900" stop="20220602140000 +0900" channel="ANIMAX.jp">
   <title lang="ko">テニスの王子様</title>
     <rating system="MPAA">
@@ -418,6 +406,18 @@
     <desc lang="ko">41「波乱！」
 42「狙われた大石」
 アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニスの名門…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603140000 +0900" stop="20220603150000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ハイキュー!! セカンドシーズン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">1「レッツゴートーキョー!!」
+2「直射日光」
+烏野高校排球部は、春高予選に向け再び動き出す。そんな中、強豪校が集…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -950,7 +950,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602131000 +0900" stop="20220602140000 +0900" channel="FujiTwo.jp">
 <title lang="ko">監察医 朝顔（第2シーズン） 3　　遺体の“生きた証”を探す父娘の日々を描く</title>
 <desc>第3話「ミイラ化遺体は20年前の凶悪犯!?」　＜出演＞上野樹里　時任三郎　風間俊介　志田未来　中尾明慶　森本慎太郎　山口智子　柄本明　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8279066/image/047156f24127a6e3bc32aa24ff6f32d2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602140000 +0900" stop="20220602145000 +0900" channel="FujiTwo.jp">
@@ -1497,36 +1497,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220602124500 +0900" stop="20220602130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">連続テレビ小説 ちむどんどん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">暢子は和彦の仕事、とあるインタビューを手伝う。だがその結果、和彦の書いた記事は大きな問題を起こしてしまう。沖縄では歌子がオーディションで歌い上げたが…。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220602130000 +0900" stop="20220602130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220602130500 +0900" stop="20220602135500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">列島ニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の課題を盛りだくさんでお届けします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220602135500 +0900" stop="20220602140000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">テレビ体操</title>
     <rating system="MPAA">
@@ -2127,32 +2097,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602121500 +0900" stop="20220602130000 +0900" channel="eTele.jp">
-    <title lang="ko">あしたも晴れ!人生レシピ</title>
+  <programme start="20220603130500 +0900" stop="20220603135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">列島ニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">野菜、しっかり食べていますか？野菜の上手な活用方法を紹介！食品ロスをなくすためにも捨ててしまいがちな野菜くずを料理にいかす方法や、めずらしい西洋野菜の調理法も！</desc>
+    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の課題を盛りだくさんでお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602130000 +0900" stop="20220602130500 +0900" channel="eTele.jp">
-    <title lang="ko">NHK手話ニュース</title>
+  <programme start="20220603135500 +0900" stop="20220603140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">テレビ体操</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【キャスター】小野寺善子</desc>
+    <desc lang="ko">岡本美佳、幅しげみ、今井菜津美、戸塚寛子、石川裕平</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602130500 +0900" stop="20220602133000 +0900" channel="eTele.jp">
-    <title lang="ko">すてきにハンドメイド</title>
+  <programme start="20220603140000 +0900" stop="20220603140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">華やかなそでが目を引く「そでコンシャス」なワンピースを、夏でも着心地抜群の綿ジャージーで。伸縮性のある生地を縫うコツもご紹介。講師はデザイナーの泉繭子さん。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2937,12 +2907,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602115500 +0900" stop="20220602135500 +0900" channel="NipponTV.jp">
-    <title lang="ko">ヒルナンデス!</title>
+  <programme start="20220603130500 +0900" stop="20220603133000 +0900" channel="eTele.jp">
+    <title lang="ko">グレーテルのかまど</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">木村昴＆石塚英彦＆大沢あかねの世界一ウマそうな食リポ♪人気点心ベスト３＆知る人ぞ知る幻の裏メニュー▼トレンド満載！ファッションバトル…あなたの地元アナはいかに⁉</desc>
+    <desc lang="ko">パンや缶詰のみかんが入った、温かく優しいプリンケーキ。気軽に楽しく作ってほしいという、料理研究家・土井善晴さんとっておきの、おやつの思い出をひもときます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220603133000 +0900" stop="20220603135000 +0900" channel="eTele.jp">
+    <title lang="ko">ハングルッ!ナビ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ハングルって楽しい！」今回は「５月のおさらい」ＪＯ１河野純喜とハングルを学びましょう▽Ｋ−ＰＯＰマンスリーゲストＩＶＥ（アイヴ）▽絶品！栗原はるみの韓国料理</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220603135000 +0900" stop="20220603141000 +0900" channel="eTele.jp">
+    <title lang="ko">中国語!ナビ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">中国語圏で大ヒット連発！先輩“中孝介”が苦しんだ「なぜこのピンインでこの発音？」を陳先生が解説。イモトが中先輩とデュエットしながら学ぶ。しかし声は裏返る！？笑</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3240,56 +3230,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220602102500 +0900" stop="20220602130000 +0900" channel="Asahi.jp">
-  <title lang="ko">大下容子ワイド!スクランブル</title>
+  <programme start="20220603135500 +0900" stop="20220603155000 +0900" channel="NipponTV.jp">
+    <title lang="ko">情報ライブ ミヤネ屋</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ロシア・プーチン大統領の焦燥①人口政策で強権発動「極東開発」も視野に②極東へ集まる中国人“移民”で対抗か？▽ペットにチップ義務化…殺処分は減らせるか(他)</desc>
+    <desc lang="ko">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602130000 +0900" stop="20220602133000 +0900" channel="Asahi.jp">
-  <title lang="ko">徹子の部屋</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">〜６８歳…素晴らしい“出会い”に感謝！〜六平直政さんが今日のゲストです。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602133000 +0900" stop="20220602134500 +0900" channel="Asahi.jp">
-  <title lang="ko">DAIGOも台所〜きょうの献立何にする?〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは本当に大変…日々の料理の悩みにこたえる献立を複数提案！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602134500 +0900" stop="20220602134900 +0900" channel="Asahi.jp">
-  <title lang="ko">東京サイト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">自転車を安全に利用するには、日頃の点検・整備が重要です。事故につながるハンドルのゆるみやタイヤの空気圧、ブレーキの調整など、自分でできるチェック方法を学びます。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602134900 +0900" stop="20220602135400 +0900" channel="Asahi.jp">
-  <title lang="ko">ANNニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220602135400 +0900" stop="20220602145000 +0900" channel="Asahi.jp">
   <title lang="ko">警視庁・捜査一課長1</title>
     <rating system="MPAA">
@@ -3564,13 +3514,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602102500 +0900" stop="20220602135500 +0900" channel="TBS2.jp">
-  <title lang="ko">ひるおび!</title>
+<programme start="20220603133000 +0900" stop="20220603134500 +0900" channel="Asahi.jp">
+  <title lang="ko">DAIGOも台所〜きょうの献立何にする?〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽１０億円一家で不正受給　海外逃亡中の父の人物像　▽ロシア軍に異変続出「戦地に行きたくない」
-弁護士に相談急増　▽都が「蚊気注意」最新研究　▽ムーミン谷中継</desc>
+    <desc lang="ko">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは大変…今日は料理初心者でも一人で作れる簡単レシピを紹介</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603134500 +0900" stop="20220603134900 +0900" channel="Asahi.jp">
+  <title lang="ko">東京サイト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">高齢者が安心して乗れる機能を搭載した自転車を紹介。乗る際にまたぎやすい形状で重心を低く作っています。さらに独自のギア配分で、電動アシスト自転車並みの軽さを実現！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603134900 +0900" stop="20220603135400 +0900" channel="Asahi.jp">
+  <title lang="ko">ANNニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603135400 +0900" stop="20220603154800 +0900" channel="Asahi.jp">
+  <title lang="ko">西村京太郎サスペンス 鉄道捜査官9</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「凶器がトロッコ列車に乗ってきた⁉会津鉄道、車窓に広がる殺人風景！湖の上に隠された時刻表トリック」沢口靖子(他)▽乃里子たちは、立花から土産物の紙袋を渡されるが…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3791,12 +3770,12 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602114000 +0900" stop="20220602134000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">昼めし旅〜あなたのご飯見せてください!〜</title>
+<programme start="20220603135500 +0900" stop="20220603154900 +0900" channel="TBS2.jp">
+  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽静岡県牧之原市…絶景の茶畑テラスでいただく希少な釜炒り茶▽風味が増す！茶葉の天ぷら▽千葉県千葉市…自家製○○が決め手！創業250年老舗のそぼろ２色丼</desc>
+    <desc lang="ko">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4189,6 +4168,16 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220603134000 +0900" stop="20220603154000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">午後のロードショー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">香港マフィアに両親を殺された双子は25年後、当時の事件の有力な手がかりを得る。事件の真相を知った二人は心を一つにして、マフィアを相手に凄まじい戦闘を開始するー</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220602114500 +0900" stop="20220602144500 +0900" channel="FujiTV.jp">
   <title lang="ko">ポップUP!</title>
     <rating system="MPAA">
@@ -4476,26 +4465,6 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">①話題の芸能人生出演「スター・ニュース速報」②マニア＆通が明かすランキング「くろうと番付」③アナタはどっち派？気になる話題で井戸端④芸能エンタメ深掘り</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602123000 +0900" stop="20220602130000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602130000 +0900" stop="20220602130500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4986,6 +4955,26 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603130500 +0900" stop="20220603135900 +0900" channel="Tokyo MX">
+  <title lang="ko">真心が届く 〜僕とスターのオフィス・ラブ!?〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">トップ女優の偽装就職ロマンス！かつて大ブレークした韓流の女神と、恋愛オンチな弁護士のラブストーリー！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603135900 +0900" stop="20220603150500 +0900" channel="Tokyo MX">
+  <title lang="ko">都知事定例会見</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5518,7 +5507,7 @@ https//otn.fujitv.co.jp
 <programme start="20220602131000 +0900" stop="20220602140000 +0900" channel="FujiTwo.jp">
 <title lang="ko">監察医 朝顔（第2シーズン） 3　　遺体の“生きた証”を探す父娘の日々を描く</title>
 <desc>第3話「ミイラ化遺体は20年前の凶悪犯!?」　＜出演＞上野樹里　時任三郎　風間俊介　志田未来　中尾明慶　森本慎太郎　山口智子　柄本明　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220602/8279066/image/047156f24127a6e3bc32aa24ff6f32d2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220602140000 +0900" stop="20220602145000 +0900" channel="FujiTwo.jp">
