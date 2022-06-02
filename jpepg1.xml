@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220602143000 +0900" stop="20220602150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220602150000 +0900" stop="20220602160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士ガンダム</title>
     <rating system="MPAA">
@@ -406,6 +396,28 @@
     </rating>
     <desc lang="ko">43「脱出」END
 宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都市）に移住させるようになって半…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603153000 +0900" stop="20220603160000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">情報</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603160000 +0900" stop="20220603170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ブラッククローバー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">129「悪魔メギキュラ」
+130「新・魔法騎士団団長会議」
+魔法がすべての、とある世界…。生まれながらに魔法が使えな…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1485,46 +1497,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220602145000 +0900" stop="20220602150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みみより!くらし解説</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本からの農林水産物や食品の輸出額が年々増え、去年初めて１兆円を超えた。政府は２０３０年までに５兆円に増やすことを目指している。輸出が増える背景と課題を伝える。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220602150000 +0900" stop="20220602150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220602150700 +0900" stop="20220602151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220602151000 +0900" stop="20220602155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">あしたが変わるトリセツショー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼「ギョーザのトリセツ」▼たった一つの簡単な工夫で、手作りギョーザが専門店の味に早変わり。その意外な焼き方とは？▼超簡単＆おいしさアップのトリセツ流皮の包み方</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220602155500 +0900" stop="20220602160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2095,32 +2067,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602145000 +0900" stop="20220602150000 +0900" channel="eTele.jp">
-    <title lang="ko">ねこのめ美じゅつかん</title>
+  <programme start="20220603150700 +0900" stop="20220603151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">コロナ禍で外出がママならないアナタに「心のビタミン」を届けるアートエンターテイメント。自由気ままなネコの目線で名作の謎をご紹介。今回はモディリアーニの長い肖像画</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602150000 +0900" stop="20220602152500 +0900" channel="eTele.jp">
-    <title lang="ko">旅するためのドイツ語</title>
+  <programme start="20220603151000 +0900" stop="20220603155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">歴史探偵</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽新シリーズ・スタート！現地映像をたっぷり味わいながら旅先で役立つドイツ語フレーズを学びます！▽ベルリン、ハンブルク、ミュンヘンをめぐるドイツ三都周遊記！</desc>
+    <desc lang="ko">東京を丸ごとヨーロッパ風の町並みに造り変える一大プロジェクトがあった。幻に終わった明治の東京大改造計画が最新ＣＧでよみがえる！宮殿のような国会議事堂案にも注目！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602152500 +0900" stop="20220602153000 +0900" channel="eTele.jp">
-    <title lang="ko">手話シャワー</title>
+  <programme start="20220603155500 +0900" stop="20220603160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">長濱ねるさんがろう学校の生徒たちから手話を学ぶ　全く新しい手話講座番組！今回は「食べ物編」のパート３と４</desc>
+    <desc lang="ko">「あのね　〜青色の傘〜」うたＲｉｅ＆Ｑｏｏｎｉｅ／「象だゾウ」うたささきいさお</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220603160000 +0900" stop="20220603160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2915,12 +2897,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220602135500 +0900" stop="20220602155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20220603152500 +0900" stop="20220603153000 +0900" channel="eTele.jp">
+    <title lang="ko">365日の献立日記</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽最新中継“誤送金”初の住民説明会で町長らは何語る？▽１０億円不正受給“セミナー”の実態とは？▽エリザベス女王即位７０周年式典！現地の盛り上がりは？</desc>
+    <desc lang="ko">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220603153000 +0900" stop="20220603160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ろう者、難聴者のみなさんと共にお届けする情報番組「＃ろうなん」。５月号では「電話リレーサービス」を特集。手話による料理コーナーではお手軽パスタをご紹介します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220603160000 +0900" stop="20220603161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3218,16 +3220,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220602145000 +0900" stop="20220602154800 +0900" channel="Asahi.jp">
-  <title lang="ko">未来への10カウント ダイジェスト</title>
+  <programme start="20220603155000 +0900" stop="20220603190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【主演・木村拓哉×脚本・福田靖】ドラマ「未来への１０カウント」…今夜放送の第８話は最終章拡大ＳＰ‼その前に、弱小チーム成長への軌跡をダイジェストでお届けします！</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220602154800 +0900" stop="20220602164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒 season 15</title>
     <rating system="MPAA">
@@ -3522,12 +3524,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602135500 +0900" stop="20220602154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20220603154800 +0900" stop="20220603164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season8</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼“給付金詐欺”国税局員も逮捕　総額２億円を仮想通貨に投資か▼４６３０万円誤送金 初の住民説明会　住民の反応は▼ウクライナ情勢 専門家語る“Ｘデー”とは　(他)</desc>
+    <desc lang="ko">「仮釈放」水谷豊、及川光博(他)▽刑務所を仮釈放された男・山部が釈放翌日に失踪した。仮釈放後にいた施設の施設長によると、車を借りて外出したきり戻っていないという。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3748,12 +3750,12 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602134000 +0900" stop="20220602154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20220603154900 +0900" stop="20220603190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">バディムービーの大本命！タフな刑事と獄中の前科者がコンビを組み、脱獄した凶悪犯を追って追って追いまくる！壮絶な銃撃戦！スリルの連続、緊迫の48時間！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4146,12 +4148,12 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602144500 +0900" stop="20220602154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">続・最後から二番目の恋</title>
+<programme start="20220603154000 +0900" stop="20220603165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">千明は、和平とえりなが薫子親子と仲良く食卓を囲んでいる姿を目撃して心がざわつく。一方、和平は多忙な市長を気分転換に外へ連れ出すが、とんでもない展開に‼</desc>
+    <desc lang="ko">村井美樹と戦国武将・真田幸村が行く！初夏の信州・上田の珍道中▽初夏の風物詩！千曲川の伝統ハヤ漁▽城下町の新名物？極上りんごスイーツ▽涼やか！新緑まぶしい乗馬体験</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4437,22 +4439,12 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220602145900 +0900" stop="20220602150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220603154500 +0900" stop="20220603190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220602150000 +0900" stop="20220602150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4909,6 +4901,26 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
 </programme>
 <programme start="20220603135900 +0900" stop="20220603150500 +0900" channel="Tokyo MX">
   <title lang="ko">都知事定例会見</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603150500 +0900" stop="20220603160000 +0900" channel="Tokyo MX">
+  <title lang="ko">如懿伝〜紫禁城に散る宿命の王妃〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220603160000 +0900" stop="20220603163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
