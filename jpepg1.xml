@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220603210000 +0900" stop="20220603220000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">テニスの王子様</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">43「ラッキー千石」
-44「ジャックナイフ」
-アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220603220000 +0900" stop="20220603230000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
     <rating system="MPAA">
@@ -321,6 +309,17 @@
     </rating>
     <desc lang="ko">7「急襲」8「退屈」
 少年・虎杖悠仁は、呪いに襲われた学友を救うため、特級呪物“両面宿儺の指”を喰らい、己の魂…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220604230000 +0900" stop="20220605000000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">斉木楠雄のΨ難</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第7χ「ちいΨ王様君臨/はしゃげ!Ψレントナイト/うるΨお正月(前編)/うるΨお正月(中編)/うるΨお正月(後編)」
+第8χ…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -663,7 +662,7 @@ https//otn.fujitv.co.jp
 ＜解説＞館山昌平　＜実況＞田淵裕章
 ▽副音声あり（一部プラットホームでは主音声のみ）
 【生中継】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220603/8278920/image/eadf7eccd0c0886b646e336921a5f774.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220603230000 +0900" stop="20220604000000 +0900" channel="FujiOne.jp">
@@ -1112,7 +1111,7 @@ https//otn.fujitv.co.jp
 <programme start="20220603220000 +0900" stop="20220603230000 +0900" channel="kbsworld.jp">
 <title lang="ko">芸能ライブ　[字]</title>
 <desc>日本初放送！ＫＢＳの芸能街中継がリニューアルして帰ってきた！韓国の芸能ニュースをいち早くお届けする情報番組！2020年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220603/8244408/image/63616706f695704a36df62ae53d7aee3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220603230000 +0900" stop="20220604004000 +0900" channel="kbsworld.jp">
@@ -1405,26 +1404,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220603210000 +0900" stop="20220603220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽ウクライナ最新情勢東部の戦況は？▽天安門事件から３３年あの場にいた中国人活動家に田中キャスターが聞く</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220603220000 +0900" stop="20220603224500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">アナザーストーリーズ 運命の分岐点</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">天才ピカソが描いた『ゲルニカ』この絵が祖国へ帰還するまでには多くの波乱があった！衝撃的な『ゲルニカ』落書き事件、劇的な絵の運命とその力…聞け、平和への叫びを！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220603224500 +0900" stop="20220603231500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">ドキュメント72時間</title>
     <rating system="MPAA">
@@ -2035,22 +2014,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220603212500 +0900" stop="20220603220000 +0900" channel="eTele.jp">
-    <title lang="ko">新・にっぽんの芸能</title>
+  <programme start="20220604225000 +0900" stop="20220604225200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">2分でわかるカナ？「カナカナ」</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日本の伝統文化をこよなく愛するスウェーデン出身の庭師・村雨辰剛といっしょに味わう、紫の花にちなんだ恋ものがたり。大和楽の舞踊「あやめ」と「あじさい」を演奏で。</desc>
+    <desc lang="ko">眞栄田郷敦主演「カナカナ」第３週（第９話〜第１２話）のあらすじを２分で紹介！予習復習して毎週月〜木曜よる１０時４５分の本放送をぜひご覧ください！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220603220000 +0900" stop="20220603223000 +0900" channel="eTele.jp">
-    <title lang="ko">言葉にできない、そんな夜。</title>
+  <programme start="20220604225200 +0900" stop="20220604225500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">にっぽん百名山ミニ 3min</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">自分の感情にぴったりくる言葉をゲストと一緒に探す新番組。６月のゲストは、美村里江さん、ヒャダインさん、崎山蒼志さん、綿矢りささん。自分だけの言葉を見つけよう。</desc>
+    <desc lang="ko">紀伊山地の大台ヶ原山（１６９５ｍ）、日本有数の峡谷・大杉谷を遡り、清らかな水の山を旅する！天空から降り注ぐ千尋の滝や、岩と水の宮殿を思わせるシシ淵は必見の美景！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220604225500 +0900" stop="20220604230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220604230000 +0900" stop="20220604233000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">Venue101</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今夜は愛に溢れてます！Ｓｅｘｙ　Ｚｏｎｅがハマるレトロ愛とは！？モーニング娘を愛する「あの方」が語る！ｍｉｌｅｔが愛する言葉のチョイス！新東京が愛するサウンド</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2655,12 +2654,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220603210000 +0900" stop="20220603225900 +0900" channel="NipponTV.jp">
-    <title lang="ko">金曜ロードショー</title>
+  <programme start="20220604223000 +0900" stop="20220604230000 +0900" channel="eTele.jp">
+    <title lang="ko">太田光のつぶやき英語</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">★主演岡田准一★大人気コミックの実写映画★大ヒットシリーズ第2弾を地上波初放送★誰も殺さず最悪の敵から訳あり少女を救い出せ！超絶アクションとユーモアが満載！</desc>
+    <desc lang="ko">ＳＮＳで話題のニュースやトレンドなど、注目のハッシュタグへの海外からの投稿を英語で読み解き、世界の“今”を知る英語情報番組。ＭＣ太田光（爆笑問題）・森川葵</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220604230000 +0900" stop="20220605000000 +0900" channel="eTele.jp">
+    <title lang="ko">ETV特集</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">夫から息子へＤＶの連鎖から逃れた女性。子ども５人のシングルマザー。この社会で、困難を抱える女性たち。命の瀬戸際で支えるＮＰＯ“Ｊｉｋｋａ（実家）”の日々を追う。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2984,6 +2993,26 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">7話はナノマシン完全犯罪!?ディーン・フジオカ主演！岸井ゆきの、ユースケ・サンタマリアが、最先端科学が引き起こす怪事件の真相に挑む、新時代サイエンスミステリー！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220604225400 +0900" stop="20220604230000 +0900" channel="NipponTV.jp">
+    <title lang="ko">来週土曜は一日一便</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">来週土曜夜7時からは「１日１便　乗ってきました」をお届けします！１日に１便しかない乗り物に乗ってその終点で長期滞在汗かき取材！最果ての地の魅力がいっぱい！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220604230000 +0900" stop="20220604233000 +0900" channel="NipponTV.jp">
+    <title lang="ko">マツコ会議</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">マツコ主宰の会議…今夜もちょっと気になる話題の「人」「場所」を深掘り中継します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3403,13 +3432,24 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220603200000 +0900" stop="20220603220000 +0900" channel="TBS2.jp">
-  <title lang="ko">ザ・ベストワン</title>
+<programme start="20220604225500 +0900" stop="20220604230000 +0900" channel="Asahi.jp">
+  <title lang="ko">愛ことば〜アスリートの言魂〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今夜はベストな芸人のベストな組み合わせをご提案！
-フット＆マヂラブ＆ミキ＆ダイアン＆ハナコ＆ジャル…M-1王者KOC王者揃い踏み！NGなしのトークコーナーも！</desc>
+    <desc lang="ko">アスリートがそれぞれのターニングポイントで勇気をもらった“言葉”をご紹介。レジェンド達が明かす“愛ことば”は、明日を強く生きるための大きなヒントになるはずです！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220604230000 +0900" stop="20220604233000 +0900" channel="Asahi.jp">
+  <title lang="ko">妖怪シェアハウス-帰ってきたん怪-</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">小芝風花主演！
+人間×妖怪のホラーコメディーがシーズン２で“帰ってきたん怪（かい）”！
+最終怪　絶体絶命大ピンチの澪！ついに最恐のラスボスと対決‼</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3763,26 +3803,6 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">次々と“持続化給付金”詐取事件◆日大の新理事長候補に林真理子氏◆日本人の歯が危ない！世界のオーラルケア◆検索ワードを読むビッグデータ最前線◆直撃！タックルする亀</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220603215400 +0900" stop="20220603220000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">わたしのヒュッゲ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">仕事が休みの日にフラっと鎌倉へ。貸りた家でもひとたび台所に立てば、我が家気分。買ってきた赤飯とかぼちゃで粥ができる!?そんな彼女が今、家の中で探しているものとは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220603220000 +0900" stop="20220603225400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ガイアの夜明け</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼東京近郊、“失敗”した街に移住者殺到！マイホーム格安、巨大モール林立、世界的企業進出…秘密は▼鳥取県…砂丘に「巨大実験場」「極地リゾート」をつくり人を呼ぶ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4230,12 +4250,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220603215800 +0900" stop="20220603225200 +0900" channel="FujiTV.jp">
-  <title lang="ko">人志松本の酒のツマミになる話</title>
+<programme start="20220604223000 +0900" stop="20220604230000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">みんなのスポーツ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">元お天気キャスター貴島が一喜一憂するラインキング…狩野英孝女性からの質問はこれで乗り切れ！戸次重幸半端ない家庭行事…ウイカもう食べられない味を食べたい</desc>
+    <desc lang="ko">▽「みんなのみたいをスポーツでつなぐ」をコンセプトに、旬な話題をお届け。さらに骨太ドキュメント「Human　Action」アスリートたちの挑戦する姿に迫ります。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220604230000 +0900" stop="20220604233000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">SPY×FAMILY</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">凄腕スパイ〈黄昏〉に、ある日極秘任務が課せられる。任務のため、〈黄昏〉は精神科医ロイド・フォージャーに扮し、仮初めの家族を作ることになるが…。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4538,26 +4568,6 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ルールは一つ！ガイダンスに従うだけ！大玉を体で止め…逆バンジーで体を張り…大物から逃走中…美味しいランチかと思えば…キングボンビーにとりつかれ…爆笑旅</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220603215400 +0900" stop="20220603220000 +0900" channel="Tokyo MX">
-  <title lang="ko">兄に付ける薬はない!4-快把我哥帯走4-</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220603220000 +0900" stop="20220603223000 +0900" channel="Tokyo MX">
-  <title lang="ko">レイトン ミステリー探偵社 〜カトリーのナゾトキファイル〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">＃２１「カトリーエイルと甘い香りの迷宮通り」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5102,6 +5112,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220604223000 +0900" stop="20220604230000 +0900" channel="Tokyo MX">
+  <title lang="ko">天才王子の赤字国家再生術</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220604230000 +0900" stop="20220604233000 +0900" channel="Tokyo MX">
+  <title lang="ko">22/7計算中 シーズン3</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">秋元康が総合プロデュースするデジタル声優アイドル、22/7(ナナブンノニジュウニ)の冠番組「22/7 計算中」のseason4！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220602235000 +0900" stop="20220603022000 +0900" channel="FujiNext.jp">
 <title lang="ko">サッカー　キリンチャレンジカップ2022　日本×パラグアイ</title>
 <desc>「日本 vs パラグアイ」
@@ -5440,7 +5470,7 @@ https//otn.fujitv.co.jp
 ＜解説＞館山昌平　＜実況＞田淵裕章
 ▽副音声あり（一部プラットホームでは主音声のみ）
 【生中継】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220603/8278920/image/eadf7eccd0c0886b646e336921a5f774.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220603230000 +0900" stop="20220604000000 +0900" channel="FujiOne.jp">
@@ -5889,7 +5919,7 @@ https//otn.fujitv.co.jp
 <programme start="20220603220000 +0900" stop="20220603230000 +0900" channel="kbsworld.jp">
 <title lang="ko">芸能ライブ　[字]</title>
 <desc>日本初放送！ＫＢＳの芸能街中継がリニューアルして帰ってきた！韓国の芸能ニュースをいち早くお届けする情報番組！2020年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220603/8244408/image/63616706f695704a36df62ae53d7aee3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220603230000 +0900" stop="20220604004000 +0900" channel="kbsworld.jp">
