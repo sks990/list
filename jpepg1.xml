@@ -1419,7 +1419,17 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220603170000 +0900" stop="20220603175700 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220603170000 +0900" stop="20220603170800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220603170800 +0900" stop="20220603175700 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">ニュース きん5時</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
