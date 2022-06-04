@@ -1276,12 +1276,22 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220604200000 +0900" stop="20220604205000 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220604193000 +0900" stop="20220604204000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">プロ野球中継</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">交流戦も後半戦！原巨人×井口ロッテ▽ＨＲアーチスト岡本東京Ｄに放物線描くか！？スタンドのタオル応援は▽球場彩るＤＪ▽お便り募集「球場の思い出」＃野球には夢がある</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220604204000 +0900" stop="20220604205000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">古都・京都にもたらされ、洗練された文化のルーツをひもとくミニ番組。今回のテーマは古都の宝・文化財の修理や修復。仏像や絵画を守り、後世に伝える職人の作業を紹介。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
