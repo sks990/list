@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220606210000 +0900" stop="20220606220000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">テニスの王子様</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">45「コートの上の悪魔」
-46「サムライ魂」
-アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220606220000 +0900" stop="20220606230000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
     <rating system="MPAA">
@@ -419,6 +407,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220607230000 +0900" stop="20220608000000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">うらみちお兄さん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">3「手洗いうがいは大切に」
+4「エンドレス猛暑」
+教育番組の体操のお兄さん、表田裏道。通称・うらみちお兄さんは子…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220605233000 +0900" stop="20220606020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第1戦　福岡×鹿島</title>
 <desc>プレーオフステージ 第1戦
@@ -717,7 +717,7 @@ https//otn.fujitv.co.jp
 ＜ゲスト＞川崎憲次郎　真中満　今浪隆博
 ＜MC＞つば九郎　西山喜久恵
 ▽つば九郎が得意のカンペで鋭く切り込む！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220606/8437890/image/81c5a1e4ae0e4cc0aeac89746f97fb0c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220606230000 +0900" stop="20220607000000 +0900" channel="FujiOne.jp">
@@ -1078,7 +1078,7 @@ https//otn.fujitv.co.jp
 <desc>第584話「剣術勝負 ブルックvs謎の胴体侍」　（地上波放送日　2013年2月10日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220606/8331113/image/9bf8c2f65f920e9bc45903de530c5a46.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220606230000 +0900" stop="20220606232500 +0900" channel="FujiTwo.jp">
@@ -1581,26 +1581,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220606210000 +0900" stop="20220606220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽東名あおり運転判決　関東甲信平年より早く梅雨入り▽ウクライナ掉尾で戦線激化　キーウ再び攻撃も▽速報サッカー日本対ブラジル戦　ボクシング井上尚弥</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220606220000 +0900" stop="20220606224500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">映像の世紀バタフライエフェクト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">１８８９年４月、わずか４日違いでヨーロッパに生まれた喜劇王チャップリンと独裁者ヒトラー。多くの共通点を持つ、因縁のふたりが繰り広げた終わりなき闘いの物語である。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220606224500 +0900" stop="20220606230000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">カナカナ</title>
     <rating system="MPAA">
@@ -2171,32 +2151,22 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220606215500 +0900" stop="20220606220000 +0900" channel="eTele.jp">
-    <title lang="ko">まる得マガジン</title>
+  <programme start="20220607224500 +0900" stop="20220607230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">カナカナ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">トマトのおいしい活用術を８回にわたって紹介する。第１回はトマトの種類と切り方。大きさで分けると大玉・中玉・ミニの３つ。それぞれの特徴を生かした切り方を伝授する。</desc>
+    <desc lang="ko">眞栄田郷敦主演！元ヤン・マサと人の心が読める少女・佳奈花が織りなす、育てたり育てられたりの、ハートフルコメディー！　初めてのおつかいに出た佳奈花が行方不明に！？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220606220000 +0900" stop="20220606222500 +0900" channel="eTele.jp">
-    <title lang="ko">グレーテルのかまど</title>
+  <programme start="20220607230000 +0900" stop="20220607233000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">100カメ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">北ドイツの港町ハンブルク。この町の名物がフランツ・ブレートヒェン。デニッシュ生地にシナモンシュガーがたっぷりのあま〜いパン！なんでぺちゃんこなのでしょう？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220606222500 +0900" stop="20220606225000 +0900" channel="eTele.jp">
-    <title lang="ko">100分de名著</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">舞台は海岸に近い砂丘の中に埋もれかかった一軒家。休暇を利用して新種のハンミョウを採取すべく昆虫採集に出かけた学校教師・仁木順平が直面した事件とは？</desc>
+    <desc lang="ko">今回は“犬”が多めの１００カメ。不正薬物から日本を守る「麻薬探知犬」と、その相棒「ハンドラー」たちの物語。犬好きのオードリー春日も思わず身を乗り出す！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3001,22 +2971,12 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220606212400 +0900" stop="20220606221800 +0900" channel="NipponTV.jp">
-    <title lang="ko">しゃべくり007</title>
+  <programme start="20220607224500 +0900" stop="20220607231500 +0900" channel="eTele.jp">
+    <title lang="ko">ダークサイドミステリーE</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">”お昼の顔”を卒業して暇になった⁉芸能生活52年・坂上忍の仰天私生活が今夜明らかに…▽本当は照れ屋でキザで真面目⁉元カノ＆因縁の美女たちが坂上忍のヒミツを大暴露</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220606221800 +0900" stop="20220606222400 +0900" channel="NipponTV.jp">
-    <title lang="ko">The Gift</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">旬の有名人がお世話になった人へ…ギフト選びに密着するバラエティ。フリーアナウンサーの望月理恵さんは長年番組共演したスポーツキャスターの宮本和知さんへギフトを贈る</desc>
+    <desc lang="ko">あなたや世の中が不幸なのは誰のせい？きっと近くに悪い魔女が隠れている？「魔女狩り」…それは昔だけのことではない。人間の心の奥にひそむ、知られざる闇の正体に迫る！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3308,6 +3268,16 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ノーベル賞の晩餐会で実に30年間使用されている超一流のカトラリー。人が乗っても曲がらない⁉驚異の強度を誇るスプーンはどうやって作られる？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220607230000 +0900" stop="20220607235900 +0900" channel="NipponTV.jp">
+    <title lang="ko">news zero</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3621,26 +3591,6 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606210000 +0900" stop="20220606220000 +0900" channel="TBS2.jp">
-  <title lang="ko">CDTVライブ!ライブ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">★Dragon Ashが番組初登場！！SixTONES・三浦大知・Saucy Dogが最新曲をフルサイズでパフォーマンス！！★</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220606220000 +0900" stop="20220606225700 +0900" channel="TBS2.jp">
-  <title lang="ko">100%!アピ〜ルちゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">こんな福原愛見たことない！ストロング中華を爆食！激辛⇔激甘…無限ループ★石原良純「町中華の餃子」ｖｓ森泉「幻のチョリソ」★小倉優子の早大受験！過去問挑戦で奇跡！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220606225700 +0900" stop="20220606230000 +0900" channel="TBS2.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -3834,24 +3784,22 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606215400 +0900" stop="20220606220000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">東京GOOD!</title>
+<programme start="20220607225700 +0900" stop="20220607230000 +0900" channel="TBS2.jp">
+  <title lang="ko">GoNEXT-未来へ駆けぬける-</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">東京の隠れた魅力を紹介する番組。歴史ある場所、施設、イベントや人など、様々な「GOOD!」と出会います。出会った「GOOD!」は番組公式インスタグラムにも投稿されます。</desc>
+    <desc lang="ko">時代の先駆者たちが切り拓いてきた道を辿り、「未来」への想いに迫るヒューマン・ドキュメンタリー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606220000 +0900" stop="20220606225800 +0900" channel="TVTokyo.jp">
-  <title lang="ko">WBS</title>
+<programme start="20220607230000 +0900" stop="20220607235600 +0900" channel="TBS2.jp">
+  <title lang="ko">news23</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽ロシアのウクライナ侵攻で肥料価格が高騰
-▽価格に転嫁は…トマト農家の苦悩
-▽がん治療を変える！？最新ナノ技術</desc>
+    <desc lang="ko">メインキャスター小川彩佳と国山ハセンアナウンサーが、番組独自の調査報道からＺ世代に刺さるカルチャーまで明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4246,22 +4194,12 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606215400 +0900" stop="20220606220000 +0900" channel="FujiTV.jp">
-  <title lang="ko">四季彩キッチン</title>
+<programme start="20220607225800 +0900" stop="20220607230600 +0900" channel="TVTokyo.jp">
+  <title lang="ko">エルピスの煌めき</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">林修先生が“旬の食材”を入口に日本の農業の“いま”をプレゼンテーション！今回は、「メロン」を紹介します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220606220000 +0900" stop="20220606225400 +0900" channel="FujiTV.jp">
-  <title lang="ko">恋なんて、本気でやってどうするの?</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">純（広瀬アリス）と母・真弓（斉藤由貴）の直接対決に柊磨（松村北斗）が出す答えは…▽禁断の恋がついに進展？▽慰謝料請求の危機に苦渋の決断▽崖っぷちの第８話！</desc>
+    <desc lang="ko">「モノ」の消費を宝物に変えるピーステックラボ社長村本理恵子。「モノ」の消費問題を解決する新ビジネスは！？彼女はいかにして現代社会の中から希望を見つけだしたのか？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4516,22 +4454,22 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606215400 +0900" stop="20220606220000 +0900" channel="Tokyo MX">
-  <title lang="ko">ポンコツクエスト〜魔王と派遣の魔物たち〜</title>
+<programme start="20220607225400 +0900" stop="20220607230000 +0900" channel="FujiTV.jp">
+  <title lang="ko">体感!サステナWAVE</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">魔王に仕えるポンコツな魔物「カク」と「イムラ」の、グダグダな日常を描いたショートアニメ</desc>
+    <desc lang="ko">都会のビルで野菜作りを体験ＰＡＲＴ２</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606220000 +0900" stop="20220606223000 +0900" channel="Tokyo MX">
-  <title lang="ko">片恋グルメ日記2</title>
+<programme start="20220607230000 +0900" stop="20220607233000 +0900" channel="FujiTV.jp">
+  <title lang="ko">セブンルール</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">八角さんの恋人としてふさわしい女性になろうと決め、自分磨きに励むコロ。憧れのロールモデルを探している最中、コロの目の前に新たなナチュラル系男子が現れる。</desc>
+    <desc lang="ko">日本最多７頭のパンダファミリーに密着！和歌山・『アドベンチャーワールド』パンダチームリーダー・吉田倫子７つのルール</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4996,6 +4934,26 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220607222900 +0900" stop="20220607230000 +0900" channel="Tokyo MX">
+  <title lang="ko">機動戦士ガンダム THE ORIGIN 前夜 赤い彗星</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">＃１「ジオンの子」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220607230000 +0900" stop="20220607233000 +0900" channel="Tokyo MX">
+  <title lang="ko">パリピ孔明</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">三国志の英雄にして天才軍師諸葛孔明が渋谷に転生！歌手を目指す英子の歌に心打たれた諸葛孔明は、自ら軍師になることを申し出る。2人の音楽と物語が、ここから始まる</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220605233000 +0900" stop="20220606020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第1戦　福岡×鹿島</title>
 <desc>プレーオフステージ 第1戦
@@ -5294,7 +5252,7 @@ https//otn.fujitv.co.jp
 ＜ゲスト＞川崎憲次郎　真中満　今浪隆博
 ＜MC＞つば九郎　西山喜久恵
 ▽つば九郎が得意のカンペで鋭く切り込む！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220606/8437890/image/81c5a1e4ae0e4cc0aeac89746f97fb0c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220606230000 +0900" stop="20220607000000 +0900" channel="FujiOne.jp">
@@ -5655,7 +5613,7 @@ https//otn.fujitv.co.jp
 <desc>第584話「剣術勝負 ブルックvs謎の胴体侍」　（地上波放送日　2013年2月10日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220606/8331113/image/9bf8c2f65f920e9bc45903de530c5a46.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220606230000 +0900" stop="20220606232500 +0900" channel="FujiTwo.jp">
