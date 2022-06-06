@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220606140000 +0900" stop="20220606150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ハイキュー!! セカンドシーズン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">3「“村人B”」4「“センターエース”」
-インターハイ予選、青葉城西に敗北した烏野高校排球部は、春高予選に向け再…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220606150000 +0900" stop="20220606160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">うらみちお兄さん</title>
     <rating system="MPAA">
@@ -418,6 +407,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220607160000 +0900" stop="20220607170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ブラッククローバー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">133「続・目覚める獅子」
+134「集められた者たち」
+魔法がすべての、とある世界…。生まれながらに魔法が使えない少…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220605233000 +0900" stop="20220606020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第1戦　福岡×鹿島</title>
 <desc>プレーオフステージ 第1戦
@@ -485,7 +486,7 @@
 <title lang="ko">SELECTRAVEL　3「北海道 稚内・利尻島編」</title>
 <desc>この番組は、まさに旅のガイドブック。タイプの違う2つの旅のプランをご紹介する！
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220606/8330775/image/6f0510ad44a6c03968e96abc5436ad1f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220606160000 +0900" stop="20220606170000 +0900" channel="FujiNext.jp">
@@ -1580,46 +1581,6 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220606145000 +0900" stop="20220606150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">１９８９年の中国の天安門事件から３３年。事件から３０年以上たった中国の人権状況と政治体制について考えます。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220606150000 +0900" stop="20220606150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220606150700 +0900" stop="20220606151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220606151000 +0900" stop="20220606155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">うたコン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">美空ひばり生誕８５年！天童・しのぶ・「鎌倉殿」名コンビ新納＆エマが熱唱▽加藤登紀子が京都からキーウへ平和の願いを込め歌う▽リトグリ・Ｎｏｖｅｌ・モー娘。・香西</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220606155500 +0900" stop="20220606160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2170,32 +2131,42 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220606143000 +0900" stop="20220606150000 +0900" channel="eTele.jp">
-    <title lang="ko">太田光のつぶやき英語</title>
+  <programme start="20220607150700 +0900" stop="20220607151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＳＮＳで話題のニュースやトレンドなど、注目のハッシュタグへの海外からの投稿を英語で読み解き、世界の“今”を知る英語情報番組。ＭＣ太田光（爆笑問題）・森川葵</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220606150000 +0900" stop="20220606153000 +0900" channel="eTele.jp">
-    <title lang="ko">ダークサイドミステリーE</title>
+  <programme start="20220607151000 +0900" stop="20220607155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">正直不動産</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「先生！千里眼の女の謎を解いてください」「どんと来〜い！」と明治の一流学者たちが超能力解明に挑んだ初の実験・研究。日本中が大騒ぎした意外な経緯と驚きの結末とは？</desc>
+    <desc lang="ko">登坂不動産の業績は、悪化の一途。その裏には、ミネルヴァ不動産社長・鵤聖人（高橋克典）と、登坂不動産社長・登坂寿郎（草刈正雄）との、数十年に渡る因縁があった…。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220606153000 +0900" stop="20220606155500 +0900" channel="eTele.jp">
-    <title lang="ko">NHKみんなの手話</title>
+  <programme start="20220607155500 +0900" stop="20220607160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">＃１０のテーマは「仕事」です。自分の仕事の表し方や、忙しい、暇　などの表現も学習します。</desc>
+    <desc lang="ko">「われわれは宇宙人だ！」うたらいふ／「いじわる天気」うたＢａＢｅ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220607160000 +0900" stop="20220607160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3010,12 +2981,22 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220606135500 +0900" stop="20220606155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20220607153000 +0900" stop="20220607160000 +0900" channel="eTele.jp">
+    <title lang="ko">今君電話</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽関東甲信で“梅雨入り”気温低下も…今後は？▽英エリザベス女王がヘンリー夫妻の長女と初対面！サプライズ登場＆驚きの共演も(他)</desc>
+    <desc lang="ko">カンニング竹山が、見ず知らずの人と電話で話す第３弾。今回は、大型連休中に電話を受ける。どんな人とつながるのか？どんな話を聞くことになるのか？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220607160000 +0900" stop="20220607161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3281,16 +3262,16 @@ BTS、2NE1、TWICEなど、K-POPアーティストたちのスペシャル映像
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220606135400 +0900" stop="20220606154800 +0900" channel="Asahi.jp">
-  <title lang="ko">警視庁捜査一課長〜ヒラから成り上がった最強の刑事!2</title>
+  <programme start="20220607155000 +0900" stop="20220607190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「殺意の誕生日…手編みブローチが死を招く⁉火事でも燃えない女‼」内藤剛志(他)▽火災現場から焼けた跡のないホステスの遺体が発見された。謎の殺人事件に一課長・大岩は…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220606154800 +0900" stop="20220606164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season10</title>
     <rating system="MPAA">
@@ -3580,12 +3561,12 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606135500 +0900" stop="20220606154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20220607154800 +0900" stop="20220607164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season13</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">あすも大気不安定…「ひょう害」おそれも▼高校教諭　元同僚女性遺棄　逮捕の３５歳男「車の中で首を絞めた」▼国税職員給付金詐欺　グループ１６人逮捕　ほか(予定）</desc>
+    <desc lang="ko">「第三の女」水谷豊、成宮寛貴(他)▽退職した三浦の代わりに、若き女性警部補が伊丹と芹沢の仲間に。久々の三人体制で、身元不明女性の謎の墜落死事件を追うが…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3783,12 +3764,12 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606134000 +0900" stop="20220606154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20220607154900 +0900" stop="20220607190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ブルース・ウィリス出演！巨大な人身売買組織に誘拐された婚約者を救え！婚約者を救うために３兄弟が協力して凶悪組織に立ち向かう！クライム・アクション！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4182,12 +4163,12 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606144500 +0900" stop="20220606154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">元彼の遺言状</title>
+<programme start="20220607154000 +0900" stop="20220607165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">綾瀬はるか×大泉洋！遂に新章が開幕！「僕は殺人犯なんだ」と告白した篠田の運命は？！見知らぬ男の死体が家で見つかる事件も発生！富治＝生田斗真も再び登場！</desc>
+    <desc lang="ko">絶景ハンター敦士が長野県で天空の絶景を激写！▽青空にそびえるアルプスの山並み▽高地に広がる神秘の森▽温泉に浸かり見る絶景▽雲海に出会える！？神々しい夕景に感動！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4452,22 +4433,12 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220606145900 +0900" stop="20220606150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220607154500 +0900" stop="20220607190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220606150000 +0900" stop="20220606150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽気になるアノ件「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4933,6 +4904,26 @@ by.Yo-Yo Ma ＆ John Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220607150500 +0900" stop="20220607160000 +0900" channel="Tokyo MX">
+  <title lang="ko">如懿伝〜紫禁城に散る宿命の王妃〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">総制作費96億円！再生数165億回超！宮廷時代劇の最高峰、ついに登場！中国4大女優ジョウ・シュン×トップ俳優ウォレス・フォ他、豪華キャスト結集！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220607160000 +0900" stop="20220607163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220605233000 +0900" stop="20220606020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第1戦　福岡×鹿島</title>
 <desc>プレーオフステージ 第1戦
@@ -5000,7 +4991,7 @@ by.Yo-Yo Ma ＆ John Williams</desc>
 <title lang="ko">SELECTRAVEL　3「北海道 稚内・利尻島編」</title>
 <desc>この番組は、まさに旅のガイドブック。タイプの違う2つの旅のプランをご紹介する！
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220606/8330775/image/6f0510ad44a6c03968e96abc5436ad1f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220606160000 +0900" stop="20220606170000 +0900" channel="FujiNext.jp">
