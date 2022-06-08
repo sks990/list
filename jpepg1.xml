@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220608120000 +0900" stop="20220608130000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">15,16「偉大なる死(ザ・グレイトフル・デッド)その(1),(2)」
-ジョースター家の宿敵・DIOの血を継ぐ息子である、青年…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220608130000 +0900" stop="20220608140000 +0900" channel="ANIMAX.jp">
   <title lang="ko">テニスの王子様</title>
     <rating system="MPAA">
@@ -399,6 +388,17 @@
     <desc lang="ko">49「異種格闘戦」
 50「青学名物！」
 アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニスの名…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220609140000 +0900" stop="20220609150000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ハイキュー!! セカンドシーズン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">9「VS“傘”」10「歯車」
+インターハイ予選、青葉城西に敗北した烏野高校排球部は、春高予選に向け再び動き出す。そ…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -935,7 +935,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【6月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220608/8331154/image/0f1cf5e1fa78c38847f498e14a410f3f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220608140000 +0900" stop="20220608145000 +0900" channel="FujiTwo.jp">
@@ -1502,36 +1502,6 @@ MCカン・ダニエル
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220608124500 +0900" stop="20220608130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">連続テレビ小説 ちむどんどん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">暢子は、屋台のおでん屋の立て直しに懸命になる。だが、苦戦が続いてなかなかお客さんでにぎわうことが無い。やんばるでは良子が実家に現れて、重大な告白をする。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220608130000 +0900" stop="20220608130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220608130500 +0900" stop="20220608135500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">列島ニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の課題を盛りだくさんでお届けします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220608135500 +0900" stop="20220608140000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">テレビ体操</title>
     <rating system="MPAA">
@@ -2102,32 +2072,32 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220608125000 +0900" stop="20220608130000 +0900" channel="eTele.jp">
-    <title lang="ko">視点・論点</title>
+  <programme start="20220609130500 +0900" stop="20220609135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">列島ニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ロシア・ウクライナ戦争の地理」松里公孝（東京大学教授）</desc>
+    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の課題を盛りだくさんでお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220608130000 +0900" stop="20220608130500 +0900" channel="eTele.jp">
-    <title lang="ko">NHK手話ニュース</title>
+  <programme start="20220609135500 +0900" stop="20220609140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">テレビ体操</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【キャスター】工藤咲子</desc>
+    <desc lang="ko">多胡肇、細貝柊、吉江晴菜、矢作あかり、新井庸太</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220608130500 +0900" stop="20220608133000 +0900" channel="eTele.jp">
-    <title lang="ko">趣味の園芸</title>
+  <programme start="20220609140000 +0900" stop="20220609140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">アジサイは花後にバッサリ切り戻すのが常識。ところが、花をそのまま残して秋から冬まで花色の変化を楽しむ秘けつがある。園芸研究家の村上敏さんに詳しく教えていただく。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2922,12 +2892,22 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220608115500 +0900" stop="20220608135500 +0900" channel="NipponTV.jp">
-    <title lang="ko">ヒルナンデス!</title>
+  <programme start="20220609130500 +0900" stop="20220609133000 +0900" channel="eTele.jp">
+    <title lang="ko">すてきにハンドメイド</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">伊豆で絶景が見えるお宅訪問！建築５年！ＢＢＱの隣でヒノキ露天風呂☀住んでいるのはどんな人▼GINZA SIXの新商品！最初に売れるのは▼人気の副業ランキング</desc>
+    <desc lang="ko">衣類のしみや穴などのダメージを好きな糸と簡単なステッチで補修するダーニング。ステッチが模様のようにおしゃれに仕上がる。講師はテキスタイルデザイナーの野口光さん。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220609133000 +0900" stop="20220609141500 +0900" channel="eTele.jp">
+    <title lang="ko">先人たちの底力 知恵泉</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">誰もが魅せられる「坂本龍馬」どうやって生まれたのか？若き龍馬がふるさと土佐藩で影響を受けた二人・実姉乙女と先輩・土佐勤王党武市半平太にスポットを当てる。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3165,56 +3145,16 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220608102500 +0900" stop="20220608130000 +0900" channel="Asahi.jp">
-  <title lang="ko">大下容子ワイド!スクランブル</title>
+  <programme start="20220609135500 +0900" stop="20220609155000 +0900" channel="NipponTV.jp">
+    <title lang="ko">情報ライブ ミヤネ屋</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ロシア“後継者”議論加速？プーチン氏「院政」説▽世界大学ランキング 中国離脱か…学問でも覇権狙い？▽節電要請…原発活用にシフトか▽海底熟成ワイン不思議(他)</desc>
+    <desc lang="ko">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220608130000 +0900" stop="20220608133000 +0900" channel="Asahi.jp">
-  <title lang="ko">徹子の部屋</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">〜ステイホームで生活が一変！活動派女優の決意とは…〜市毛良枝さんが今日のゲストです。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220608133000 +0900" stop="20220608134500 +0900" channel="Asahi.jp">
-  <title lang="ko">DAIGOも台所〜きょうの献立何にする?〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは本当に大変…日々の料理の悩みにこたえる献立を複数提案！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220608134500 +0900" stop="20220608134900 +0900" channel="Asahi.jp">
-  <title lang="ko">東京サイト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">新京成線八柱駅からバスで約10分の「都立八柱霊園」は千葉県松戸市にある都立霊園です。都内の墓地不足に対応するため、1935年に造られ、都民と松戸市民が応募できます。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220608134900 +0900" stop="20220608135400 +0900" channel="Asahi.jp">
-  <title lang="ko">ANNニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220608135400 +0900" stop="20220608145000 +0900" channel="Asahi.jp">
   <title lang="ko">警視庁・捜査一課長1</title>
     <rating system="MPAA">
@@ -3487,12 +3427,42 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220608102500 +0900" stop="20220608135500 +0900" channel="TBS2.jp">
-  <title lang="ko">ひるおび!</title>
+<programme start="20220609133000 +0900" stop="20220609134500 +0900" channel="Asahi.jp">
+  <title lang="ko">DAIGOも台所〜きょうの献立何にする?〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">女性教師死体遺棄事件“元同僚の男”を逮捕…２人に何が▽はやぶさ２が快挙「生命の起源」解明へ大きな一歩</desc>
+    <desc lang="ko">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは本当に大変…日々の料理の悩みにこたえる献立を複数提案！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220609134500 +0900" stop="20220609134900 +0900" channel="Asahi.jp">
+  <title lang="ko">東京サイト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">西武多摩川線多磨駅から徒歩10分の「都立多磨霊園」は都立霊園の中で最も広く、面積は東京ドーム27個分に相当。園内には「みたま堂」と呼ばれる大型納骨施設もあります。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220609134900 +0900" stop="20220609135400 +0900" channel="Asahi.jp">
+  <title lang="ko">ANNニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220609135400 +0900" stop="20220609145000 +0900" channel="Asahi.jp">
+  <title lang="ko">警視庁・捜査一課長1</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「妻が空から降ってきた⁉殺害場所のない死体とワンピースの謎」内藤剛志(他)▽ファッションブランド社長・玲香が遺体で発見された。彼女の時代遅れな服装が気になる真琴は…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3711,12 +3681,12 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220608114000 +0900" stop="20220608134000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">昼めし旅〜あなたのご飯見せてください!〜</title>
+<programme start="20220609135500 +0900" stop="20220609154900 +0900" channel="TBS2.jp">
+  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼千葉県九十九里町…人気乗馬クラブのチーズカツ▼今が旬！新じゃがアヒージョ風▼埼玉県長瀞…おにぎり㊙チャーハン▼飯能…まかない㊙かた焼きそば</desc>
+    <desc lang="ko">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4094,6 +4064,16 @@ MCカン・ダニエル
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220609134000 +0900" stop="20220609154000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">午後のロードショー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">タフな刑事と獄中の前科者が８年ぶりに再びタッグを組む！巨大な悪の組織に立ち向かう壮絶な４８時間の追跡行が始まる！スーパーノンストップアクション！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220608114500 +0900" stop="20220608144500 +0900" channel="FujiTV.jp">
   <title lang="ko">ポップUP!</title>
     <rating system="MPAA">
@@ -4340,26 +4320,6 @@ MCカン・ダニエル
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">①話題の芸能人生出演「スター・ニュース速報」②マニア＆通が明かすランキング「くろうと番付」③アナタはどっち派？気になる話題で井戸端④芸能エンタメ深掘り</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220608123000 +0900" stop="20220608130000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220608130000 +0900" stop="20220608130500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4850,6 +4810,26 @@ MCカン・ダニエル
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220609130500 +0900" stop="20220609140000 +0900" channel="Tokyo MX">
+  <title lang="ko">真心が届く 〜僕とスターのオフィス・ラブ!?〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">トップ女優の偽装就職ロマンス！かつて大ブレークした韓流の女神と、恋愛オンチな弁護士のラブストーリー！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220609140000 +0900" stop="20220609143000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5386,7 +5366,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【6月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220608/8331154/image/0f1cf5e1fa78c38847f498e14a410f3f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220608140000 +0900" stop="20220608145000 +0900" channel="FujiTwo.jp">
