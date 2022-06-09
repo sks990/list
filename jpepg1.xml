@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220609070000 +0900" stop="20220609080000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ブラッククローバー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">135「心に、心に、心に決めた人」
-136「黒の深海物語」
-魔法がすべての、とある世界…。生まれながらに魔法が使えな…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220609080000 +0900" stop="20220609090000 +0900" channel="ANIMAX.jp">
   <title lang="ko">転生したらスライムだった件 第2期</title>
     <rating system="MPAA">
@@ -393,6 +381,18 @@
     </rating>
     <desc lang="ko">29「災厄の前奏曲」30「動き出す麗人」
 主人公リムルと、彼を慕い集った数多の魔物たちが築いた国＜ジュラ・テンペ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220610090000 +0900" stop="20220610100000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">103「渡りの季節」
+104「小さな同居人」
+平和と共に近代化が進んだ木ノ葉隠れの里。七代目火影・うずまきナルトの息…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -906,7 +906,7 @@ https//otn.fujitv.co.jp
 <desc>第1話「新居への引っ越し」
 ＜出演＞シム・イヨン　ハニョン　オ・デギュ　カン・ソジュン　イ・シガン　他
 ▽不幸の終わりは、幸せのはじまり…痛快ホームコメディ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220609/8331178/image/376b411a7c2b1758ed2b2649910dc6b3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220609090000 +0900" stop="20220609094000 +0900" channel="FujiTwo.jp">
@@ -1129,7 +1129,7 @@ https//otn.fujitv.co.jp
 <programme start="20220609073500 +0900" stop="20220609085500 +0900" channel="kbsworld.jp">
 <title lang="ko">夫婦クリニック２　20　[字]</title>
 <desc>夫婦の間のあらゆる問題をリアリティー溢れるドラマで再現し、根強い人気を誇る「夫婦クリニック2」！2011年　124話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220609/8286923/image/e1886d9c2210dd18c1a40479afe51e1e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220609085500 +0900" stop="20220609094500 +0900" channel="kbsworld.jp">
@@ -1465,26 +1465,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220609074500 +0900" stop="20220609080000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽映画館を生きづらさ抱える子供の居場所に　【キャスター】三條雅幸，首藤奈知子，【気象キャスター】檜山靖洋</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609080000 +0900" stop="20220609081500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">連続テレビ小説 ちむどんどん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">暢子は、おでん屋で働く中で、房子の秘められた過去を知る。その頃、賢秀は手を染めていたビジネスが急展開…そして、思わぬ結果を迎えることに。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220609081500 +0900" stop="20220609095500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">あさイチ</title>
     <rating system="MPAA">
@@ -2085,72 +2065,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220609074500 +0900" stop="20220609080900 +0900" channel="eTele.jp">
-    <title lang="ko">おかあさんといっしょ</title>
+  <programme start="20220610081500 +0900" stop="20220610095500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">あさイチ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609080900 +0900" stop="20220609081000 +0900" channel="eTele.jp">
-    <title lang="ko">パッコロリン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609081000 +0900" stop="20220609082500 +0900" channel="eTele.jp">
-    <title lang="ko">いないいないばあっ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609082500 +0900" stop="20220609083500 +0900" channel="eTele.jp">
-    <title lang="ko">えいごであそぼ with Orton</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609083500 +0900" stop="20220609084500 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">私たちがふだん暮らしている中に隠れている、不思議な構造、面白い考え方、法則を、歌、体操、ピタゴラ装置など多彩なコーナーで紹介していきます。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609084500 +0900" stop="20220609085000 +0900" channel="eTele.jp">
-    <title lang="ko">プチプチ・アニメ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">まっ白ボディーにつぶらなひとみ。きれいが大好きユニコーンのキュピちゃん。どんな汚れもみのがさない！ゴシゴシ、キュッキュッ、小さな体であちこち磨いてまわります。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609085000 +0900" stop="20220609085500 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <desc lang="ko">▽プレミアムトーク　竜星涼▽ニーニーがついに「あさイチ」に登場▽華丸大吉とのトークをお楽しみに！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2885,12 +2805,82 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220609055000 +0900" stop="20220609080000 +0900" channel="NipponTV.jp">
-    <title lang="ko">ZIP!</title>
+  <programme start="20220610080900 +0900" stop="20220610081000 +0900" channel="eTele.jp">
+    <title lang="ko">パッコロリン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＺＩＰ！は風間俊介▽身柄確保 家族10億円詐欺の父親インドネシア不法滞在▽二宮和也かまいたち▽大谷ヒットも13連敗▽梅雨に出る体の異変▽回転寿司のスイーツ</desc>
+    <desc lang="ko">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610081000 +0900" stop="20220610082500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610082500 +0900" stop="20220610083500 +0900" channel="eTele.jp">
+    <title lang="ko">えいごであそぼ with Orton</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">アルファベットを読むときの「音」で遊び、楽しく英語に親しむ番組。オートンタウンを舞台に、実験、コント、歌、ダンス、アニメなど多彩なコーナーがいっぱいです！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610083500 +0900" stop="20220610084500 +0900" channel="eTele.jp">
+    <title lang="ko">ピタゴラスイッチ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世の中の仕組みや構造をピタゴラらしいユニークな見方で伝えます！宇宙装置、きょうは完成編！国際宇宙ステーションで試行錯誤の末、ついに宇宙ピタゴラ装置が完成しました</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610084500 +0900" stop="20220610085000 +0900" channel="eTele.jp">
+    <title lang="ko">プチプチ・アニメ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">リコラは、小枝や木の実、ボトルのふたやあきかんで、なんでも作っちゃう森の元気なおともだち。ほら、きこえてきたよ！ギコギコ！トン！カン！今日はどこへおでかけかな？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610085000 +0900" stop="20220610085500 +0900" channel="eTele.jp">
+    <title lang="ko">まいにちスクスク</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610085500 +0900" stop="20220610090000 +0900" channel="eTele.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「虫歯のこどもの誕生日」うた吉田紀人／「こどもしゅのうかいだん」うたＢＥＧＩＮ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610090000 +0900" stop="20220610091000 +0900" channel="eTele.jp">
+    <title lang="ko">新・ざわざわ森のがんこちゃん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">珍しいイモムシをみつけた子どもたち。みんなで世話をすると約束をする。その約束を絶対に守らなければいけないと主張するチョビは、ほかの子どもたちと対立してしまい…。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3127,16 +3117,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220609045500 +0900" stop="20220609080000 +0900" channel="Asahi.jp">
-  <title lang="ko">グッド!モーニング</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「朝の情報まとめ番組」警察会見場に逃亡男が、外国でも投資持ちかけ▼歩道に車けが人多数▼ワクチン廃棄なぜ？▼コーヒーかすお宝に▼勝訴のジョニー・デップが豪遊</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220609080000 +0900" stop="20220609095500 +0900" channel="Asahi.jp">
   <title lang="ko">羽鳥慎一モーニングショー</title>
     <rating system="MPAA">
@@ -3441,16 +3421,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220609052000 +0900" stop="20220609080000 +0900" channel="TBS2.jp">
-  <title lang="ko">THE TIME,</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">“詐欺家族”父親逮捕インドネシア逃亡ナゼ…会見に“同席”▼井上尚弥試合で留守中に空き巣被害▼夏休みを直撃…円安加速▼バナナ再び高級品に？▼中継！朝から工場見学</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220609080000 +0900" stop="20220609095500 +0900" channel="TBS2.jp">
   <title lang="ko">ラヴィット!</title>
     <rating system="MPAA">
@@ -3682,26 +3652,6 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220609073500 +0900" stop="20220609080000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">シナぷしゅ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220609080000 +0900" stop="20220609081500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ハーフタイムツアーズ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4090,12 +4040,13 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220609052500 +0900" stop="20220609080000 +0900" channel="FujiTV.jp">
-  <title lang="ko">めざましテレビ</title>
+<programme start="20220610081500 +0900" stop="20220610091100 +0900" channel="TVTokyo.jp">
+  <title lang="ko">人生最高の贈り物〜ようこそ、サムグァンハウスへ〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">逮捕の父親が会見同席…スマトラ島潜伏生活は▽重機倒れ日本橋停電▽バナナ値上げ？店は▽解任の監督に大谷感謝▽格安パークで新体験</desc>
+    <desc lang="ko">一つ屋根の下で巻き起こる、訳あり住人たちの感動ヒューマン・ラブストーリー
+＜全65話＞</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4366,26 +4317,6 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">谷原章介＆永島優美と新しい朝を始めよう！目が覚める今日一番のニュースをしっかり伝えます！当事者たちを独自取材。わかるまで解説します。天達が天気を深掘り！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220609070000 +0900" stop="20220609080000 +0900" channel="Tokyo MX">
-  <title lang="ko">堀潤モーニングFLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ジャーナリスト堀潤がＺ世代コメンテーターとお届けするカジュアルニュースショー！▼専門店グルメを特集▼ブランド運営の加藤ジーナと政治サイトの伊藤和真とＭＢＡ池田颯</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220609080000 +0900" stop="20220609083000 +0900" channel="Tokyo MX">
-  <title lang="ko">明日も晴れ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ファッション業界を舞台に、男女４人が恋に仕事に奮闘するハートフル・ストーリー！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4876,6 +4807,26 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ファッション業界を舞台に、男女４人が恋に仕事に奮闘するハートフル・ストーリー！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220610083000 +0900" stop="20220610090000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220610090000 +0900" stop="20220610093000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5389,7 +5340,7 @@ https//otn.fujitv.co.jp
 <desc>第1話「新居への引っ越し」
 ＜出演＞シム・イヨン　ハニョン　オ・デギュ　カン・ソジュン　イ・シガン　他
 ▽不幸の終わりは、幸せのはじまり…痛快ホームコメディ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220609/8331178/image/376b411a7c2b1758ed2b2649910dc6b3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220609090000 +0900" stop="20220609094000 +0900" channel="FujiTwo.jp">
@@ -5612,7 +5563,7 @@ https//otn.fujitv.co.jp
 <programme start="20220609073500 +0900" stop="20220609085500 +0900" channel="kbsworld.jp">
 <title lang="ko">夫婦クリニック２　20　[字]</title>
 <desc>夫婦の間のあらゆる問題をリアリティー溢れるドラマで再現し、根強い人気を誇る「夫婦クリニック2」！2011年　124話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220609/8286923/image/e1886d9c2210dd18c1a40479afe51e1e.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220609085500 +0900" stop="20220609094500 +0900" channel="kbsworld.jp">
