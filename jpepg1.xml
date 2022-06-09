@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220609090000 +0900" stop="20220609100000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">101「重吾の援軍」
-102「乱戦!!」
-平和と共に近代化が進んだ木ノ葉隠れの里。七代目火影・うずまきナルトの息子であ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220609100000 +0900" stop="20220609110000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ちびまる子ちゃん</title>
     <rating system="MPAA">
@@ -397,6 +385,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220610110000 +0900" stop="20220610120000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ルパン三世(PART2)</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">5「金塊の運び方教えます」
+6「ピサの斜塔は立っているか」
+ルパン一味が日本から脱出して5年。世界に散っていたル…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220608230000 +0900" stop="20220609010000 +0900" channel="FujiNext.jp">
 <title lang="ko">FACTORY ARCHIVES「the telephones」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『the telephones』の出演映像を選りすぐってお届け！
@@ -636,7 +636,7 @@
 <title lang="ko">かまいたちの机上の空論城　30　　　かまいたちの実験バラエティ！</title>
 <desc>「第4回激レアエピソード選手権」
 ▽かまいたちの冠番組！バカバカしくも、ちょっとだけアカデミックな実験バラエティ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220609/8330983/image/70905b6240b1efd80cb33c114c067852.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220609110000 +0900" stop="20220609111500 +0900" channel="FujiOne.jp">
@@ -1465,36 +1465,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220609095500 +0900" stop="20220609100000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みんなの体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">岡本美佳、矢作あかり、戸塚寛子、石川裕平</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609100000 +0900" stop="20220609100500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609100500 +0900" stop="20220609105500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">キャッチ!世界のトップニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220609105500 +0900" stop="20220609110000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2085,42 +2055,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220609095000 +0900" stop="20220609100000 +0900" channel="eTele.jp">
-    <title lang="ko">エイゴビート2</title>
+  <programme start="20220610100500 +0900" stop="20220610105500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">キャッチ!世界のトップニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">リズムに乗って体を動かし、楽しく英語を身につけよう！英語ビギナーのキッズが、習ったキーフレーズを引っさげて外国人との会話に挑戦。小学３、４年向け。出演・すみれ</desc>
+    <desc lang="ko">▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220609100000 +0900" stop="20220609102000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 英語コミュニケーションI</title>
+  <programme start="20220610105500 +0900" stop="20220610110000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">助動詞“ｗｉｌｌ”を使って自分の意思を相手に伝えられるようになろう。また“ｗｉｌｌ”は推量や予測、依頼を伝えるときにも使われることを知ろう。</desc>
+    <desc lang="ko">「あなたがどこかで」うた安全地帯</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220609102000 +0900" stop="20220609103000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 苦手を克服! ベーシック英語</title>
+  <programme start="20220610110000 +0900" stop="20220610110500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「高校の英語がわからない…」そんなキミのための基礎力ＵＰ講座。中１から中３までの英語のつまずきポイントを中心に文法の基礎を解りやすく説明するぞ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220609103000 +0900" stop="20220609105000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 物理基礎</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">２つの力が同時にはたらくとき、それと同じ効果をもつ１つの力を求めることを力の合成という。１つの力を同じ効果をもつ２つの力に分けて考えることを力の分解という。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2885,13 +2845,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220609080000 +0900" stop="20220609102500 +0900" channel="NipponTV.jp">
-    <title lang="ko">スッキリ</title>
+  <programme start="20220610102000 +0900" stop="20220610104000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 科学と人間生活</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">”物価の優等生”バナナが値上げへ！？フィリピン大使館が異例の小売価格値上げ要請の会見。
-20年価格がほとんど変わらなかった訳とは？</desc>
+    <desc lang="ko">今回は、新型コロナウイルスなど感染症から身を守る免疫・抗体について伝えます。また、北里柴三郎や本庶佑さんの医療への貢献、アレルギー、糖尿病についても取り上げます</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610104000 +0900" stop="20220610110000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 地理</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">地球上で起きているあらゆる事柄は、「地理」の知識で理解することができます。さぁ一緒に「地理」の知識を深め、世の中の謎を調査・分析！新たな発見をしていきましょう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220610110000 +0900" stop="20220610112000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 芸術</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">色彩と同じように、光と影はアート作品を構成する重要な要素の一部です。実際の作品を見ながら、光と影の効果を確かめてみましょう。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3117,16 +3096,29 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220609095500 +0900" stop="20220609102500 +0900" channel="Asahi.jp">
-  <title lang="ko">じゅん散歩</title>
+  <programme start="20220610102500 +0900" stop="20220610105500 +0900" channel="NipponTV.jp">
+    <title lang="ko">女神のマルシェ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">三代目散歩人・高田純次が「信濃町」を散策▽日本初の迎賓館 明治記念館本館▽明治の献立を再現した鴨肉のカレー▽風情ある境内で…お寺食堂</desc>
+    <desc lang="ko">①あの大人気まくらがリニューアル！よりパワーアップして登場！
+②乗るだけで腹筋運動！新感覚な座椅子！
+③はくだけで美尻効果が！マカロンのようなヒップをあなたも！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
+  <programme start="20220610105500 +0900" stop="20220610112500 +0900" channel="NipponTV.jp">
+    <title lang="ko">それいけ!アンパンマン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「とびだせ！３ばいレアチーズ」
+「ロールパンナとかいじゅうモカ」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
 <programme start="20220609102500 +0900" stop="20220609130000 +0900" channel="Asahi.jp">
   <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
@@ -3421,12 +3413,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220609095500 +0900" stop="20220609102500 +0900" channel="TBS2.jp">
-  <title lang="ko">Let's!美バディ</title>
+<programme start="20220610102500 +0900" stop="20220610130000 +0900" channel="Asahi.jp">
+  <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">★YouTubeで人気の竹脇まりなが指導★ゲストは西野未姫★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
+    <desc lang="ko">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3653,6 +3645,16 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     </rating>
     <desc lang="ko">キニナル買い物情報とキニナル生活情報をお届けする
 得する情報バラエティ!!</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220610102500 +0900" stop="20220610135500 +0900" channel="TBS2.jp">
+  <title lang="ko">ひるおび!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4324,26 +4326,6 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220609093000 +0900" stop="20220609100000 +0900" channel="Tokyo MX">
-  <title lang="ko">どさんこクッキング</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">暑い日の調理もらくらく！火を使わないレシピ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220609100000 +0900" stop="20220609103000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220609103000 +0900" stop="20220609110000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -4834,6 +4816,26 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220610103000 +0900" stop="20220610110000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220610110000 +0900" stop="20220610110500 +0900" channel="Tokyo MX">
+  <title lang="ko">MX news FLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220608230000 +0900" stop="20220609010000 +0900" channel="FujiNext.jp">
 <title lang="ko">FACTORY ARCHIVES「the telephones」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『the telephones』の出演映像を選りすぐってお届け！
@@ -5073,7 +5075,7 @@ TVアニメ「魔法使い黎明期」放送中！</desc>
 <title lang="ko">かまいたちの机上の空論城　30　　　かまいたちの実験バラエティ！</title>
 <desc>「第4回激レアエピソード選手権」
 ▽かまいたちの冠番組！バカバカしくも、ちょっとだけアカデミックな実験バラエティ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220609/8330983/image/70905b6240b1efd80cb33c114c067852.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220609110000 +0900" stop="20220609111500 +0900" channel="FujiOne.jp">
