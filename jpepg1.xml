@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220610040000 +0900" stop="20220610050000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ルパン三世(PART2)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">3「ヒトラーの遺産」
-4「ネッシーの唄が聞こえる」
-ルパン一味が日本から脱出して5年。世界に散っていたルパン・フ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220610050000 +0900" stop="20220610060000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ゲゲゲの鬼太郎</title>
     <rating system="MPAA">
@@ -397,6 +385,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220611060000 +0900" stop="20220611063000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ちびまる子ちゃん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">502「まる子、睡眠不足になる」の巻／「キャッチフレーズを作ろう」の巻
+静岡県清水市に住む小学3年生のももこは、み…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220609233000 +0900" stop="20220610013000 +0900" channel="FujiNext.jp">
 <title lang="ko">ザ・フー　HITS 50！ LIVE</title>
 <desc>2015年3月に開催されたチャリティー・コンサートから、「The Who」のベスト・ヒット・ライブを放送！
@@ -635,7 +634,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">かまいたちの机上の空論城　24　　　かまいたちの実験バラエティ！</title>
 <desc>「世界各国の癒やしを受ければ柔らかい表情の写真が撮れる！…ハズ」
 ▽ちょっとだけアカデミックな実験バラエティ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220610/8331009/image/a0dfb2d92be5ab83b88cacaacaee6b85.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220610060000 +0900" stop="20220610070000 +0900" channel="FujiOne.jp">
@@ -916,7 +915,7 @@ https//otn.fujitv.co.jp
 <programme start="20220610053000 +0900" stop="20220610060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220610/8331201/image/2534352eebb5742c3e793ffabc4bb7e8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220610060000 +0900" stop="20220610071000 +0900" channel="FujiTwo.jp">
@@ -1155,7 +1154,7 @@ https//otn.fujitv.co.jp
 <programme start="20220610050000 +0900" stop="20220610060000 +0900" channel="kbsworld.jp">
 <title lang="ko">生き生き情報　[字][再]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220610/8286943/image/8ee1de14d0cb62be1317ca0d3a3df0e2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220610060000 +0900" stop="20220610070000 +0900" channel="kbsworld.jp">
@@ -1554,16 +1553,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220610042000 +0900" stop="20220610050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">国際報道2022</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ウクライナ最新情勢▽移民希望者が殺到するアメリカ　誰に国境の扉は開かれるのか▽マクロン大統領２期目を占うフランス議会選挙　物価高騰が影響▽その他の国際ニュース</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220610050000 +0900" stop="20220610060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
@@ -2204,12 +2193,52 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220610003000 +0900" stop="20220610053000 +0900" channel="eTele.jp">
+  <programme start="20220611051000 +0900" stop="20220611051500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">せかほし5min．</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「世界はほしいモノにあふれてる」えりすぐりの旅を詰め込んだ、「せかほし５ｍｉｎ．」。番組ＭＣの鈴木亮平が、極上のショートトリップにご案内。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611051500 +0900" stop="20220611054000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">うまいッ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">濃厚な米のうまみ！まろやかな酸味！伝統の米酢▽小骨もやわらか！「いわしのお酢煮」さっぱり！「牛肉とキャベツのビネガー炒め」お酢マジックでスゴイ活用術を伝授！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611054000 +0900" stop="20220611055000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHK映像ファイル あの人に会いたい</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今年１月に亡くなった水島新司さん。「ドカベン」や「あぶさん」など、野球をテーマにした漫画を次々と発表して人気を集め、世代を超えて多くの読者に読み継がれてきた。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611055000 +0900" stop="20220611060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611060000 +0900" stop="20220611063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">土曜日のスタートもカラフルに！国内外で起きた最新ニュースをお届け！気象情報、スポーツも！役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2974,12 +3003,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220610043000 +0900" stop="20220610055000 +0900" channel="NipponTV.jp">
-    <title lang="ko">Oha!4 NEWS LIVE</title>
+  <programme start="20220611053000 +0900" stop="20220611055500 +0900" channel="eTele.jp">
+    <title lang="ko">レイチェルのおいしい旅レシピ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽誤支給なぜ…保育所「４年で８００万円多く」▽在庫ないのに…スシローが「おとり広告」▽ウクライナ最新情報</desc>
+    <desc lang="ko">イギリス出身のフードライター兼料理人レイチェル・クーがヨーロッパ各地の食文化を紹介、それをヒントにレイチェル流料理を披露する。トルコ・プリンセス諸島を訪れる。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611055500 +0900" stop="20220611060000 +0900" channel="eTele.jp">
+    <title lang="ko">筋肉アワー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「みんなで筋肉体操」の指導者・谷本道哉さんと、ラグビー日本代表の松田力也選手のスペシャル対談。テーマは筋肉のみの５分一本勝負！「ラグビーは僧帽筋を愛でる競技」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611060000 +0900" stop="20220611060500 +0900" channel="eTele.jp">
+    <title lang="ko">5分でみんなの手話</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２０２１年度に放送したＥテレ「みんなの手話」から１つのキーフレーズをピックアップ。「また趣味増えたの！？」を覚えましょう。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3204,6 +3253,36 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611052400 +0900" stop="20220611052900 +0900" channel="NipponTV.jp">
+    <title lang="ko">なぜか涙がこぼれる、映画「メタモルフォーゼの縁側」公開!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">芦田愛菜、宮本信子、高橋恭平（なにわ男子）出演！ボーイズラブが繋ぐ、年の差58歳の友情と挑戦の物語。最初と最後の青春の煌めきにきっと涙する！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611052900 +0900" stop="20220611053000 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレみどころ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220611053000 +0900" stop="20220611080000 +0900" channel="NipponTV.jp">
+    <title lang="ko">ズームイン!!サタデー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタわくわく</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3498,12 +3577,33 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220610043000 +0900" stop="20220610052000 +0900" channel="TBS2.jp">
-  <title lang="ko">THE TIME’</title>
+<programme start="20220611052000 +0900" stop="20220611055000 +0900" channel="Asahi.jp">
+  <title lang="ko">日本のチカラ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">スシロー“おとり広告”店舗９割で販売せず▼中学生が作品破壊の作家「誰でも失敗するもの」▼葛飾区 保育園に補助金誤支給５億円▼連敗脱出へ！大谷この後“二刀流”登板</desc>
+    <desc lang="ko">愛媛県今治市にある大人気の産直市。新型コロナの影響で売り上げがダウンするなか、熱きスゴ腕たちが立ち上がりました。その奮闘劇を追いかけます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220611055000 +0900" stop="20220611060000 +0900" channel="Asahi.jp">
+  <title lang="ko">ANNニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220611060000 +0900" stop="20220611080000 +0900" channel="Asahi.jp">
+  <title lang="ko">週刊ニュースリーダー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">一週間で起きた様々なニュースの中で、街ゆく人々が気になった人物をランキング形式で紹介する新しい土曜朝のニュースショー！
+城島茂が各界のリーダーを現場取材します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3754,15 +3854,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220610042300 +0900" stop="20220610054500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ものスタ</title>
+<programme start="20220611051500 +0900" stop="20220611053000 +0900" channel="TBS2.jp">
+  <title lang="ko">皇室アルバム</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+    <desc lang="ko">天皇皇后両陛下　２９回目の結婚記念日</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220611053000 +0900" stop="20220611073000 +0900" channel="TBS2.jp">
+  <title lang="ko">まるっと!サタデー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今週話題になった「言葉」や「現象」を元に番組が独自に一週間のランキングを集計！「エンタメ」「ニュース」のトップ１０を発表！▽山形純菜のトレンドさきどり＃シェア</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4177,12 +4284,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220610045500 +0900" stop="20220610052500 +0900" channel="FujiTV.jp">
-  <title lang="ko">めざましテレビ全部見せ</title>
+<programme start="20220611055500 +0900" stop="20220611060000 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+    <desc lang="ko">動画配信サービス「Ｐａｒａｖｉ」おすすめコンテンツをご紹介！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220611060000 +0900" stop="20220611065400 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">土曜日の朝に送る情報番組。話題の商品情報をお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4418,22 +4535,33 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220610043000 +0900" stop="20220610050000 +0900" channel="Tokyo MX">
-  <title lang="ko">原田伸郎のめざせパーゴルフIII</title>
+<programme start="20220611052200 +0900" stop="20220611053000 +0900" channel="FujiTV.jp">
+  <title lang="ko">ぼのぼの</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">「やっちゃダメなこと」
+登場キャラクターぼのぼの　シマリスくん　アライグマくん　カシラ　ゴンゾ　他</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220610050000 +0900" stop="20220610053000 +0900" channel="Tokyo MX">
-  <title lang="ko">U字工事の旅!発見</title>
+<programme start="20220611053000 +0900" stop="20220611060000 +0900" channel="FujiTV.jp">
+  <title lang="ko">週刊フジテレビ批評</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">分福茶釜</desc>
+    <desc lang="ko">近未来の放送技術を大公開！①０．０７ミリ紙より薄いディスプレー②洗面所の鏡にニュースが！③ＣＧキャラが見事な手話④音楽やナレーションの音量を変える技術も！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220611060000 +0900" stop="20220611083000 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざましどようび</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">めざましどようび生田竜聖＆阿部華也子加入で新たな週末を！ニュース＆スポーツ１週間まとめチェック▽今週のエンタメ全部見せ未公開＆舞台裏！▽じゃんけん２回</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4918,6 +5046,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220611053000 +0900" stop="20220611060000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220611060000 +0900" stop="20220611063000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220609233000 +0900" stop="20220610013000 +0900" channel="FujiNext.jp">
 <title lang="ko">ザ・フー　HITS 50！ LIVE</title>
 <desc>2015年3月に開催されたチャリティー・コンサートから、「The Who」のベスト・ヒット・ライブを放送！
@@ -5156,7 +5304,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">かまいたちの机上の空論城　24　　　かまいたちの実験バラエティ！</title>
 <desc>「世界各国の癒やしを受ければ柔らかい表情の写真が撮れる！…ハズ」
 ▽ちょっとだけアカデミックな実験バラエティ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220610/8331009/image/a0dfb2d92be5ab83b88cacaacaee6b85.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220610060000 +0900" stop="20220610070000 +0900" channel="FujiOne.jp">
@@ -5437,7 +5585,7 @@ https//otn.fujitv.co.jp
 <programme start="20220610053000 +0900" stop="20220610060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220610/8331201/image/2534352eebb5742c3e793ffabc4bb7e8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220610060000 +0900" stop="20220610071000 +0900" channel="FujiTwo.jp">
@@ -5676,7 +5824,7 @@ https//otn.fujitv.co.jp
 <programme start="20220610050000 +0900" stop="20220610060000 +0900" channel="kbsworld.jp">
 <title lang="ko">生き生き情報　[字][再]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220610/8286943/image/8ee1de14d0cb62be1317ca0d3a3df0e2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220610060000 +0900" stop="20220610070000 +0900" channel="kbsworld.jp">
