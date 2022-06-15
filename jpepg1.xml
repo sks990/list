@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220615170000 +0900" stop="20220615180000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">111「湯煙忍法帖・ミライの玉(ぎょく)!!」
-112「中忍昇格首脳会議」
-平和と共に近代化が進んだ木ノ葉隠れの里。七代…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220615180000 +0900" stop="20220615190000 +0900" channel="ANIMAX.jp">
   <title lang="ko">鬼滅の刃</title>
     <rating system="MPAA">
@@ -400,6 +388,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220616190000 +0900" stop="20220616193000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">約束のネバーランド</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">9「031145」
+グレイス＝フィールドハウスは、親の居ない子どもたちが住むところ。血の繋がりはなくても、ママと38人…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220614231000 +0900" stop="20220615022000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第2戦　鹿島×福岡</title>
 <desc>プレーオフステージ 第2戦
@@ -510,7 +509,7 @@ https//otn.fujitv.co.jp
 <programme start="20220615183000 +0900" stop="20220615190000 +0900" channel="FujiNext.jp">
 <title lang="ko">パチスロ（旅） 347「群馬編2（3）」</title>
 <desc>＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8278768/image/aa9640717cecd1b0e77af02de9b5c1b9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615190000 +0900" stop="20220615221000 +0900" channel="FujiNext.jp">
@@ -756,7 +755,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【6月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344042/image/50a452a52477af6ee93973201dbec409.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615190000 +0900" stop="20220615192000 +0900" channel="FujiOne.jp">
@@ -1254,7 +1253,7 @@ https//otn.fujitv.co.jp
 <programme start="20220615181000 +0900" stop="20220615190000 +0900" channel="kbsworld.jp">
 <title lang="ko">生き生き情報　[字]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8338800/image/45b4848509bcbc5e44ef920a45de5f3b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615190000 +0900" stop="20220615201500 +0900" channel="kbsworld.jp">
@@ -1559,26 +1558,6 @@ MINO(WINNER)待望の単独番組パイロット版！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220615170000 +0900" stop="20220615180000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースLIVE!ゆう5時</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽家計に負担ずしり「物価高」今後どうなる？　▽豊臣秀吉「黄金の茶室」復元・博物館から中継で</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220615180000 +0900" stop="20220615183900 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220615183900 +0900" stop="20220615190000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
@@ -2209,52 +2188,32 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220615173500 +0900" stop="20220615180000 +0900" channel="eTele.jp">
-    <title lang="ko">天才てれびくんhello，</title>
+  <programme start="20220616181000 +0900" stop="20220616183000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">マヂカルラブリーと常識力ゲーム「小松菜とほうれん草の違いは？」指プル対決も再び▼５月にＮＨＫ熊本・佐賀で行われたイベントの模様を公開▼ティッシュの箱ゲームも</desc>
+    <desc lang="ko">首都圏ネットワークがワイドに！「明日につながる、あなたとつながる」６０分。気忙しい首都圏生活で役立つ情報満載。暮らしのヒントが見つかる地域密着ニュース番組です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220615180000 +0900" stop="20220615182400 +0900" channel="eTele.jp">
-    <title lang="ko">おかあさんといっしょ</title>
+  <programme start="20220616183000 +0900" stop="20220616190000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <desc lang="ko">首都圏ネットワークがワイドに！「明日につながる、あなたとつながる」６０分。あなたの街のニュースや話題をきめ細かく。おかえり天気は中継も交えて詳しくお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220615182400 +0900" stop="20220615182500 +0900" channel="eTele.jp">
-    <title lang="ko">あおきいろ 1分版</title>
+  <programme start="20220616190000 +0900" stop="20220616193000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース7</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＳＤＧｓ番組シリーズ「ひろがれ！いろとりどり」のテーマソング「ツバメ」を人気番組の出演者・キャラクターがおどるよ！今回は「ｕ＆ｉ」バージョン！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220615182500 +0900" stop="20220615184000 +0900" channel="eTele.jp">
-    <title lang="ko">みいつけた!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220615184000 +0900" stop="20220615185000 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世の中の仕組みや構造、考え方をピタゴラらしいユニークな見方で伝えます。今回は「きょうのスレスレ　いっぱいスペシャル」。最新の「スレスレ２」を含むスレスレ大特集！</desc>
+    <desc lang="ko">「確かなニュース、いつでも　どこでも」　きょうの日本、世界の今　一歩先へ、一歩深く　テレビでもスマホでも　このニュースを届けたい</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3029,6 +2988,56 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220616182400 +0900" stop="20220616182500 +0900" channel="eTele.jp">
+    <title lang="ko">SDGsのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616182500 +0900" stop="20220616184000 +0900" channel="eTele.jp">
+    <title lang="ko">みいつけた!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616184000 +0900" stop="20220616185000 +0900" channel="eTele.jp">
+    <title lang="ko">宇宙なんちゃら こてつくん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">宇宙を目指すアニマルたちの日々の奮闘を宇宙豆知識を織り交ぜながら描くハートウォーミングコメディアニメーション。これを見れば、宇宙に一歩近づけるかも！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616185000 +0900" stop="20220616190000 +0900" channel="eTele.jp">
+    <title lang="ko">忍たま乱太郎</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616190000 +0900" stop="20220616192000 +0900" channel="eTele.jp">
+    <title lang="ko">おしりたんてい</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「フーム、においますね」レディーにやさしくスイートポテトがだいすきなめいたんてい・おしりたんていが、じょしゅのブラウンとともに、どんなじけんもププッとかいけつ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220615155000 +0900" stop="20220615190000 +0900" channel="NipponTV.jp">
     <title lang="ko">news every.</title>
     <rating system="MPAA">
@@ -3288,6 +3297,16 @@ MINO(WINNER)待望の単独番組パイロット版！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616190000 +0900" stop="20220616210000 +0900" channel="NipponTV.jp">
+    <title lang="ko">THE突破ファイル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">台風で自宅が吹き飛びかけたら⁉オードリー春日が初熱演で離島の知恵を紹介▼ぐっさんが自衛隊ヘリ操縦士に…定員超過の避難者をどう運ぶ？▼復活！突破刑事にサンド参戦</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3593,6 +3612,16 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220616190000 +0900" stop="20220616200000 +0900" channel="Asahi.jp">
+  <title lang="ko">ウラ撮れちゃいました</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">約40年ぶりに生まれた旭山動物園ホッキョクグマの赤ちゃん！生まれた瞬間から現在に至るまでのウラ側に迫る！今年生まれた可愛い動物の赤ちゃんたちも大連発！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220615154900 +0900" stop="20220615190000 +0900" channel="TBS2.jp">
   <title lang="ko">Nスタ</title>
     <rating system="MPAA">
@@ -3816,12 +3845,12 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615173000 +0900" stop="20220615182500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">警視庁ゼロ係〜生活安全課なんでも相談室〜</title>
+<programme start="20220616190000 +0900" stop="20220616200000 +0900" channel="TBS2.jp">
+  <title lang="ko">プレバト!!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">空気の読めないキャリア警視・小早川冬彦（小泉孝太郎）と男勝りで口の悪いベテラン刑事・寺田寅三（松下由樹）。年齢も性格も階級も違う迷コンビが難事件解決に挑む！</desc>
+    <desc lang="ko">話題の美しいご馳走…焼いたトーストアート査定！美味しいのに超芸術作★光宗薫ｖｓ辻元舞★「東さんだけ可愛がられてる！」梅沢、ア然のふてくされ発言★高島礼子の自信句</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4203,6 +4232,16 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220616182500 +0900" stop="20220616214800 +0900" channel="TVTokyo.jp">
+  <title lang="ko">タクシー運転手さん、一番うまい店に連れてって!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">茨城で週末限定90分だけ開店する幻そば!?南房総の漁師海鮮名店！牧場直営の生ソフト＆濃厚チーズ！厚岸プリプリ牡蠣＆伝説老婆の炉端焼き！！山田涼介ドライバー!?</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220615154500 +0900" stop="20220615190000 +0900" channel="FujiTV.jp">
   <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
@@ -4453,22 +4492,12 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615170000 +0900" stop="20220615180000 +0900" channel="Tokyo MX">
-  <title lang="ko">5時に夢中!</title>
+<programme start="20220616190000 +0900" stop="20220616200000 +0900" channel="FujiTV.jp">
+  <title lang="ko">VS魂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">東京の夕方を彩る井戸端ワイドショー！▼アーティスト松田ゆう姫とやさぐれ芸人ヒコロヒー▼フィリピンでチヤホヤされるという大橋さんは向こうの芸能界で売れるのか⁉</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220615180000 +0900" stop="20220615183000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">広瀬アリス＆松村北斗が大ハシャギ！イケアの人気商品＆１位は再生回数３億回超えのかわいい動物動画を並び替え▽ピザーラの人気順で魂チーム緊張…まさかの展開</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4963,6 +4992,26 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220616183000 +0900" stop="20220616190000 +0900" channel="Tokyo MX">
+  <title lang="ko">フランダースの犬</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220616190000 +0900" stop="20220616193000 +0900" channel="Tokyo MX">
+  <title lang="ko">アイカツ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">広がる世界、私たちのアイドル活動！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220614231000 +0900" stop="20220615022000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第2戦　鹿島×福岡</title>
 <desc>プレーオフステージ 第2戦
@@ -5073,7 +5122,7 @@ https//otn.fujitv.co.jp
 <programme start="20220615183000 +0900" stop="20220615190000 +0900" channel="FujiNext.jp">
 <title lang="ko">パチスロ（旅） 347「群馬編2（3）」</title>
 <desc>＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8278768/image/aa9640717cecd1b0e77af02de9b5c1b9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615190000 +0900" stop="20220615221000 +0900" channel="FujiNext.jp">
@@ -5319,7 +5368,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【6月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344042/image/50a452a52477af6ee93973201dbec409.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615190000 +0900" stop="20220615192000 +0900" channel="FujiOne.jp">
@@ -5817,7 +5866,7 @@ https//otn.fujitv.co.jp
 <programme start="20220615181000 +0900" stop="20220615190000 +0900" channel="kbsworld.jp">
 <title lang="ko">生き生き情報　[字]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8338800/image/45b4848509bcbc5e44ef920a45de5f3b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615190000 +0900" stop="20220615201500 +0900" channel="kbsworld.jp">
