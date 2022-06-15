@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220616000000 +0900" stop="20220616010000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">転生したらスライムだった件 第2期</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">36.5「閑話ヴェルドラ日記2」
-37「訪れる者たち」
-主人公リムルと、彼を慕い集った数多の魔物たちが築いた国は、…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220616010000 +0900" stop="20220616020000 +0900" channel="ANIMAX.jp">
   <title lang="ko">鬼滅の刃</title>
     <rating system="MPAA">
@@ -399,6 +387,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220617020000 +0900" stop="20220617030000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">テニスの王子様</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">61「波動球合戦！」
+62「消えるサーブ」
+アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。テニス…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220615221000 +0900" stop="20220616012000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第2戦　広島×札幌</title>
 <desc>プレーオフステージ第2戦「サンフレッチェ広島 vs 北海道コンサドーレ札幌」　＜開催＞2022年6月11日【再放送】
@@ -595,7 +595,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">よゐこらぼ2 春の特別版2022「89年春パーリナイ」</title>
 <desc>レコードを聴きまくる企画「よゐこらぼのパーリナイ　DJ濱口 with 有野」お届け！
 甘酸っぱい想いで話とともに送る音楽トーク番組。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344053/image/81f3a7e3edf6201437b4b08bea162734.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220616020000 +0900" stop="20220616021500 +0900" channel="FujiOne.jp">
@@ -1093,7 +1093,7 @@ https//otn.fujitv.co.jp
 <programme start="20220616003000 +0900" stop="20220616020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8338806/image/23a06c1ff4441c1dd527c3bf0125f711.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220616020000 +0900" stop="20220616031000 +0900" channel="kbsworld.jp">
@@ -1499,16 +1499,6 @@ MINO(WINNER)待望の単独番組パイロット版！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220616002500 +0900" stop="20220616011000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">映像の世紀バタフライエフェクト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">１８８９年４月、わずか４日違いでヨーロッパに生まれた喜劇王チャップリンと独裁者ヒトラー。多くの共通点を持つ、因縁のふたりが繰り広げた終わりなき闘いの物語である。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220616011000 +0900" stop="20220616020000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKスペシャル</title>
     <rating system="MPAA">
@@ -2149,12 +2139,22 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220616000000 +0900" stop="20220616010000 +0900" channel="eTele.jp">
-    <title lang="ko">ETV特集</title>
+  <programme start="20220617011000 +0900" stop="20220617015500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">スポーツ×ヒューマン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ノーベル賞作家でウクライナ生まれのアレクシエービッチ、仏経済学者のアタリ、米政治学者ブレマーらを緊急インタビュー！プーチンはなぜ侵攻を？世界はどこへ向かうのか？</desc>
+    <desc lang="ko">スピードスケート、金メダリストの小平奈緒。この秋、現役を引退することを表明した。その小平をかつてのライバル、イ・サンファが訪ねてくる。初めて明かされる友情の物語</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220617015500 +0900" stop="20220617022900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">発想転換!世界を変えるシン・キング</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">新感覚クイズ番組！▽レジやフードコートの悩みを解決する工夫。▽田舎に若者が続々と？▽おぼん・こぼんが大熱演！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2969,26 +2969,6 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220616005900 +0900" stop="20220616012900 +0900" channel="NipponTV.jp">
-    <title lang="ko">Da-iCE music Lab</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">Da-iCE初の地上波冠番組！毎回音楽に関する様々なゲストを迎え、Da-iCEがトークやパフォーマンスで音楽について学び尽くします！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220616012900 +0900" stop="20220616015900 +0900" channel="NipponTV.jp">
-    <title lang="ko">東野・岡村の旅猿21</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「和歌山県でマグロ解体ショーへの旅」第１話　岡村さんのマグロ解体を目的にゲストのジミー大西さんと共に和歌山へ。果たしてどんな旅となるのか・・・</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220616015900 +0900" stop="20220616022900 +0900" channel="NipponTV.jp">
     <title lang="ko">浜ちゃんが!</title>
     <rating system="MPAA">
@@ -3209,36 +3189,26 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220616004500 +0900" stop="20220616012000 +0900" channel="Asahi.jp">
-  <title lang="ko">お願い!ランキングpresentsそだてれび</title>
+  <programme start="20220617012900 +0900" stop="20220617015900 +0900" channel="NipponTV.jp">
+    <title lang="ko">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">テレビ朝日全局員を対象にした企画オーディションバトルがスタート！《ドラマ》《バラエティー》《ドキュメンタリー》《アニメ》次世代のスタークリエイターを発掘・育成！</desc>
+    <desc lang="ko">高校入学を機に九州からひとりで愛知県にやってきた２０歳の女性。ささやかな幸せが欲しいそうなんです。６年ぶり！アツい段ボールバンドが再登場。名曲も披露するぞ。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220616012000 +0900" stop="20220616012600 +0900" channel="Asahi.jp">
-  <title lang="ko">全力坂</title>
+  </programme>
+  <programme start="20220617015900 +0900" stop="20220617022900 +0900" channel="NipponTV.jp">
+    <title lang="ko">川島・山内のマンガ沼</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <desc lang="ko">さらに過激に！？山内の大好物「デスマンガ」でプレゼンバトル後半戦！「こんな死に方したくない…」想像を超える驚きの作品が続々登場！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220616012600 +0900" stop="20220616015600 +0900" channel="Asahi.jp">
-  <title lang="ko">Break Out</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220616015600 +0900" stop="20220616021600 +0900" channel="Asahi.jp">
   <title lang="ko">まんが未知</title>
     <rating system="MPAA">
@@ -3502,22 +3472,33 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616005500 +0900" stop="20220616010000 +0900" channel="TBS2.jp">
-  <title lang="ko"></title>
+<programme start="20220617012000 +0900" stop="20220617012600 +0900" channel="Asahi.jp">
+  <title lang="ko">全力坂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">国境や人種の壁を越え、超人たちが人類の進化に挑むスポーツの祭典「世界陸上」。オリンピックに匹敵する世界最高峰の舞台の見どころや魅力に迫る！</desc>
+    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616010000 +0900" stop="20220616013000 +0900" channel="TBS2.jp">
-  <title lang="ko">ふるさとの未来</title>
+<programme start="20220617012600 +0900" stop="20220617015600 +0900" channel="Asahi.jp">
+  <title lang="ko">超人女子戦士 ガリベンガーV</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">安く買えて食品ロスを削減できる！いま話題のサービス・・・メカニズムが凄い！</desc>
+    <desc lang="ko">地球にはびこる超難解な現象を、解き続ける女子たちを養成する組織…それが「ガリベンガーＶ」
+今夜は「UFOキャッチャーSP後半戦」！話題Ｖチューバーを徹底的に鍛えます</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220617015600 +0900" stop="20220617021600 +0900" channel="Asahi.jp">
+  <title lang="ko">ぺこぱポジティブNEWS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ぺこぱ、少年院を慰問へ…。全国のポジティブなニュースを放送する「ぺこぱポジティブNEWS」特別編！ぺこぱは少年達にポジティブを届けられるか？ぺこぱ最大の挑戦に密着！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3704,22 +3685,33 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616003000 +0900" stop="20220616010000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">メンタル強め美女白川さん</title>
+<programme start="20220617012500 +0900" stop="20220617013000 +0900" channel="TBS2.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">女子の自己肯定感が世界を救う！現代の闇と戦うすべての女子に捧ぐ、最強美女の痛快ドラマ▼谷口さん再び！？オフィスに乱世到来。仲の良かった同期の間に一体何が…？</desc>
+    <desc lang="ko">国境や人種の壁を越え、超人たちが人類の進化に挑むスポーツの祭典「世界陸上」。オリンピックに匹敵する世界最高峰の舞台の見どころや魅力に迫る！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616010000 +0900" stop="20220616013000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ザ・タクシー飯店</title>
+<programme start="20220617013000 +0900" stop="20220617020000 +0900" channel="TBS2.jp">
+  <title lang="ko">KAT-TUNの食宝ゲッットゥーン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ある晩、仕事に悩む看護師を乗せる。翌日は休みだから餃子が食べたいと言われ、「三鷹　元祖　ハルピン」で焼き餃子、水餃子、スープ餃子、そして生ビールで乾杯をする。</desc>
+    <desc lang="ko">チーム上田は函館の超極太アスパラ「海の神」を目指す！番人のとんでもない行動に秘密があるらしく上田が仰天！チーム中丸は白身の女王「マハタ」を目指し願掛けを！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220617020000 +0900" stop="20220617023000 +0900" channel="TBS2.jp">
+  <title lang="ko">まちカドまぞく2丁目</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ご近所まぞく、ふえました！！
+TVアニメ第2期「まちカドまぞく 2丁目」2022年4月から放送中！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4098,22 +4090,22 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616003500 +0900" stop="20220616010500 +0900" channel="FujiTV.jp">
-  <title lang="ko">笑DX</title>
+<programme start="20220617013000 +0900" stop="20220617020000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">日本シン人種図鑑</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ロバート秋山＆みちょぱ＆ザコシショウが今話題のメタバースでバラエティに挑戦！あのバカドールシアターも！２０年後のテレビはこうなっている！？</desc>
+    <desc lang="ko">世間を賑わせている話題の人々＝「シン人種」に密着取材！ＭＣのチョコプラ＆あのちゃんと一緒に、生態を観察し、図鑑に登録！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616010500 +0900" stop="20220616013500 +0900" channel="FujiTV.jp">
-  <title lang="ko">エスタブライフ グレイトエスケープ</title>
+<programme start="20220617020000 +0900" stop="20220617020500 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">全クラスタがエクアたちを追う。逃がしの手配師Ｍこと管理者ザ・マネージャーと連絡をとるため、三軒茶屋魔法街へ向かう一行。ピンチの彼女たちを救ったのは―</desc>
+    <desc lang="ko">番組のみどころを紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4358,32 +4350,22 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616003000 +0900" stop="20220616010000 +0900" channel="Tokyo MX">
-  <title lang="ko">ブレンド・S</title>
+<programme start="20220617010500 +0900" stop="20220617013500 +0900" channel="FujiTV.jp">
+  <title lang="ko">四畳半神話大系</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">四畳半が果てしなく続く世界にいる「私」。幾つもの部屋を進んだあげく、最初の部屋へと戻ってくる。「私」は、ここから出ることは出来るのか！？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220616010000 +0900" stop="20220616010500 +0900" channel="Tokyo MX">
-  <title lang="ko">コミックBAR Renta!</title>
+<programme start="20220617013500 +0900" stop="20220617023500 +0900" channel="FujiTV.jp">
+  <title lang="ko">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">街角にひっそりと佇む「コミックＢＡＲ　Ｒｅｎｔａ！」マンガ好きのマスター森嶋秀太が毎週男性声優ゲストに話題のマンガを紹介！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220616010500 +0900" stop="20220616013500 +0900" channel="Tokyo MX">
-  <title lang="ko">盾の勇者の成り上がり Season 2</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">海外でも人気の異世界ファンタジー・TVアニメ『盾の勇者の成り上がり』の「Season 2」が開幕！大切なものを守るために、盾の勇者が再び立ち上がる。</desc>
+    <desc lang="ko">ＥＸＩＴ単独ＭＣ▽超人気イケメン俳優・武田航平＆木村達成が登場！▽りんたろー。×兼近ラブシーン熱演▽男４人で最新恋愛事情語る▽「ＶｉＶｉ」モデルと対決</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4868,6 +4850,26 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220617013000 +0900" stop="20220617013500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220617013500 +0900" stop="20220617020500 +0900" channel="Tokyo MX">
+  <title lang="ko">バリふり!!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220615221000 +0900" stop="20220616012000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第2戦　広島×札幌</title>
 <desc>プレーオフステージ第2戦「サンフレッチェ広島 vs 北海道コンサドーレ札幌」　＜開催＞2022年6月11日【再放送】
@@ -5064,7 +5066,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">よゐこらぼ2 春の特別版2022「89年春パーリナイ」</title>
 <desc>レコードを聴きまくる企画「よゐこらぼのパーリナイ　DJ濱口 with 有野」お届け！
 甘酸っぱい想いで話とともに送る音楽トーク番組。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344053/image/81f3a7e3edf6201437b4b08bea162734.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220616020000 +0900" stop="20220616021500 +0900" channel="FujiOne.jp">
@@ -5562,7 +5564,7 @@ https//otn.fujitv.co.jp
 <programme start="20220616003000 +0900" stop="20220616020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8338806/image/23a06c1ff4441c1dd527c3bf0125f711.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220616020000 +0900" stop="20220616031000 +0900" channel="kbsworld.jp">
