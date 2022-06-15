@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220615210000 +0900" stop="20220615220000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">テニスの王子様</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">59「あくなきこだわり」
-60「パワーVSパワー」
-アメリカで華やかな経歴を持つ天才テニスプレーヤー・越前リョーマ。…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220615220000 +0900" stop="20220615230000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
     <rating system="MPAA">
@@ -396,6 +384,18 @@
     <desc lang="ko">29「目的地はローマ!コロッセオ」
 30「グリーン・ディとオアシス その(1)」
 ジョースター家の宿敵・DIOの血を継ぐ息…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220616230000 +0900" stop="20220617000000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ウマ娘 プリティーダービー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第３Ｒ「初めての大一番」
+第４Ｒ「特訓ですっ！」
+これは異世界から受け継いだ輝かしい名前と競走能力を持つ“ウマ娘”が…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -809,7 +809,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">漫道コバヤシ 83　漫道コバヤシ漫画大賞2021</title>
 <desc>毎年恒例！「漫道コバヤシ漫画大賞2021」各受賞作品を発表！
 ＜MC＞ケンドーコバヤシ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344049/image/ee3ba5975c3690a8bf6a827449e0c4cb.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615230000 +0900" stop="20220616000000 +0900" channel="FujiOne.jp">
@@ -1084,7 +1084,7 @@ https//otn.fujitv.co.jp
 <programme start="20220615213000 +0900" stop="20220615230000 +0900" channel="FujiTwo.jp">
 <title lang="ko">ラブライブ！虹ヶ咲学園スクールアイドル同好会 ユニットライブ　QU4RTZ</title>
 <desc>「ラブライブ！虹ヶ咲学園スクールアイドル同好会 UNIT LIVE＆FAN MEETING vol.2 QU4RTZ 〜Sweet Cafe〜」独占放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344150/image/7288fec68d846147614fe4261bac001d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615230000 +0900" stop="20220615235000 +0900" channel="FujiTwo.jp">
@@ -1559,26 +1559,6 @@ MINO(WINNER)待望の単独番組パイロット版！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220615210000 +0900" stop="20220615220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽国会閉会事実上の選挙戦へ！参院選どうなる？争点は？与野党キャップが解説▽ウクライナ情勢今後の支援は</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220615220000 +0900" stop="20220615224500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">歴史探偵</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">大河ドラマ『鎌倉殿の１３人』で注目、北条政子の人物像に迫る！従来の悪女イメージを覆す発掘品が登場。政子の演説を分析すると、シェークスピアとの共通点が！？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220615224500 +0900" stop="20220615230000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">カナカナ</title>
     <rating system="MPAA">
@@ -2219,22 +2199,22 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220615215500 +0900" stop="20220615220000 +0900" channel="eTele.jp">
-    <title lang="ko">まる得マガジン</title>
+  <programme start="20220616224500 +0900" stop="20220616230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">カナカナ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">トマトのおいしい活用術を紹介する８回シリーズ。第７回は“万能トマト調味料”の２回目。甘さ控えめの手づくりケチャップと、フレッシュなトマトソースを教えていただく。</desc>
+    <desc lang="ko">眞栄田郷敦主演！元ヤン・マサと人の心が読める少女・佳奈花が織りなす、育てたり育てられたりの、ハートフルコメディー！　久しぶりの佳奈花との再会にマサは…？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220615220000 +0900" stop="20220615223000 +0900" channel="eTele.jp">
-    <title lang="ko">ザ・バックヤード</title>
+  <programme start="20220616230000 +0900" stop="20220616233000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">所さん!事件ですよ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ゴッホやダビンチ、フェルメールなど、展示品すべてがレプリカ！世界でも類を見ない美術館の裏側に潜入！作品を生み出す熟練の職人技や展示の工夫など奥深い世界を紹介。</desc>
+    <desc lang="ko">２年前から交通事故が急増した“魔の交差点”。見通しもよく交通量も多くない十字路に一体何が？しかも住民が要望しても信号が設置されないのだという。意外な裏事情とは。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3029,12 +3009,32 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220615215400 +0900" stop="20220615220000 +0900" channel="NipponTV.jp">
-    <title lang="ko">Horse Eye きっとウマくいく</title>
+  <programme start="20220616223000 +0900" stop="20220616225500 +0900" channel="eTele.jp">
+    <title lang="ko">ふるカフェ系 ハルさんの休日</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">馬の目から世界をのぞいてみたら・・・？</desc>
+    <desc lang="ko">何があってもへこたれない！愛媛の山里に見つけた元醤油屋さんのカフェ。ルーツはあの忠臣蔵と関係が？“伊予の建て倒れ”ってナニ？見事な建築美と人々の受け継ぐ心意気！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616225500 +0900" stop="20220616230000 +0900" channel="eTele.jp">
+    <title lang="ko">365日の献立日記</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616230000 +0900" stop="20220616232000 +0900" channel="eTele.jp">
+    <title lang="ko">ハングルッ!ナビ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ハングルって楽しい！」今回は「ヘヨ体」の作り方（２）。ＪＯ１河野純喜と学びましょう▽Ｋ−ＰＯＰマンスリーゲストＣＲＡＶＩＴＹ（クレビティ）▽韓国市場紹介＆街声</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3278,6 +3278,16 @@ MINO(WINNER)待望の単独番組パイロット版！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">浜田松本の移籍ギャラ月３億円提示！三四郎…厳しい遅刻ペナルティも！お笑い事務所を一斉捜査ＳＰ★ヒコロヒー給料は満足？宴会には不満爆発！★Ａマッソ女芸人の大ゲンカ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220616230000 +0900" stop="20220616235900 +0900" channel="NipponTV.jp">
+    <title lang="ko">news zero</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3585,26 +3595,6 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615215700 +0900" stop="20220615220000 +0900" channel="TBS2.jp">
-  <title lang="ko">フラッシュニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">最新のニュースをお伝えします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220615220000 +0900" stop="20220615225700 +0900" channel="TBS2.jp">
-  <title lang="ko">水曜日のダウンタウン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">しんどい先輩芸人からYouTubeでコラボしたいと言われた時の断り方ムズい説▼タイミングよく屁をかませばブーブークッションに引っかかったと思わせることも可能説</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220615225700 +0900" stop="20220615230000 +0900" channel="TBS2.jp">
   <title lang="ko">澤部見上の赤坂ケイバ探偵</title>
     <rating system="MPAA">
@@ -3808,24 +3798,22 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615215400 +0900" stop="20220615220000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">Ｄの旋律</title>
+<programme start="20220616225700 +0900" stop="20220616230000 +0900" channel="TBS2.jp">
+  <title lang="ko">今晩、Paraviれば</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ヴァイオリニスト古澤巖が奏でる名曲にのせて、日本の社交ダンス界のトッププロがダンスを披露する。今宵は「サラマンドラ」</desc>
+    <desc lang="ko">過去の話題作やオリジナル番組が見放題の動画配信サービス【Paravi】！豊富なラインアップから一押しコンテンツをご紹介！今すぐParaviれば！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615220000 +0900" stop="20220615225800 +0900" channel="TVTokyo.jp">
-  <title lang="ko">WBS</title>
+<programme start="20220616230000 +0900" stop="20220617002600 +0900" channel="TBS2.jp">
+  <title lang="ko">news23</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽都内に旗艦店がオープンへ
-▽近づく参院選…争点は物価高対策!?
-▽あなたのパソコンが危ない!?</desc>
+    <desc lang="ko">メインキャスター小川彩佳と国山ハセンアナウンサーが、番組独自の調査報道からＺ世代に刺さるカルチャーまで明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4206,22 +4194,12 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615215400 +0900" stop="20220615220000 +0900" channel="FujiTV.jp">
-  <title lang="ko">おふくろ、もう一杯</title>
+<programme start="20220616225800 +0900" stop="20220616230600 +0900" channel="TVTokyo.jp">
+  <title lang="ko">探究の階段</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「もう一杯！」と思わず言ってしまうようなカツオ・昆布・いりこなどの出汁（だし）が効いた日本全国のこだわり料理を紹介します</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220615220000 +0900" stop="20220615225400 +0900" channel="FujiTV.jp">
-  <title lang="ko">ナンバMG5</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">２年半続けてきた二重生活がついに崩壊。猛に嘘がバレ、兄弟タイマン対決。バラバラになる家族、そして白百合が窮地に立たされた時、剛がある決意をする―</desc>
+    <desc lang="ko">革新的なアイデアやテクノロジーでワクワクする未来を創りたい。そんな思いで研究・開発に取り組む人々がいる。探究の階段を登った先にある未来は、どんな世界なんだろう。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4476,22 +4454,22 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615215400 +0900" stop="20220615220000 +0900" channel="Tokyo MX">
-  <title lang="ko">ポンコツクエスト〜魔王と派遣の魔物たち〜</title>
+<programme start="20220616225400 +0900" stop="20220616230000 +0900" channel="FujiTV.jp">
+  <title lang="ko">空旅をあなたへ-PREMIUM SKY-</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">魔王に仕えるポンコツな魔物「カク」と「イムラ」の、グダグダな日常を描いたショートアニメ</desc>
+    <desc lang="ko">旅先の「食」「遊」「楽」などの情報を紹介し、じっくりと味わいつくす上質な旅番組。毎回とっておきの現地情報を旅人であるアーティストの歌と共に紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220615220000 +0900" stop="20220615223000 +0900" channel="Tokyo MX">
-  <title lang="ko">本好きの下剋上 司書になるためには手段を選んでいられません 第3期</title>
+<programme start="20220616230000 +0900" stop="20220616234000 +0900" channel="FujiTV.jp">
+  <title lang="ko">トークィーンズ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">＃３６「祝福」</desc>
+    <desc lang="ko">事務所ＮＧ無ければ…俳優勝地涼がぶっちゃけた！共演すると好きになる！？別れた異性と友達に戻れる！？指原・あさこ・みちょぱ・めるる・フワがゲスト深掘り！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4986,6 +4964,26 @@ MINO(WINNER)待望の単独番組パイロット版！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220616223000 +0900" stop="20220616230000 +0900" channel="Tokyo MX">
+  <title lang="ko">ヒロインたるもの!〜嫌われヒロインと内緒のお仕事〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">＃１１「嫌われヒロインの戦い」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220616230000 +0900" stop="20220616233000 +0900" channel="Tokyo MX">
+  <title lang="ko">BanG Dream! 2nd Season</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">＃９「スクール・フェスティバル・シンフォニー」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220614231000 +0900" stop="20220615022000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ プレーオフ 第2戦　鹿島×福岡</title>
 <desc>プレーオフステージ 第2戦
@@ -5395,7 +5393,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">漫道コバヤシ 83　漫道コバヤシ漫画大賞2021</title>
 <desc>毎年恒例！「漫道コバヤシ漫画大賞2021」各受賞作品を発表！
 ＜MC＞ケンドーコバヤシ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344049/image/ee3ba5975c3690a8bf6a827449e0c4cb.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615230000 +0900" stop="20220616000000 +0900" channel="FujiOne.jp">
@@ -5670,7 +5668,7 @@ https//otn.fujitv.co.jp
 <programme start="20220615213000 +0900" stop="20220615230000 +0900" channel="FujiTwo.jp">
 <title lang="ko">ラブライブ！虹ヶ咲学園スクールアイドル同好会 ユニットライブ　QU4RTZ</title>
 <desc>「ラブライブ！虹ヶ咲学園スクールアイドル同好会 UNIT LIVE＆FAN MEETING vol.2 QU4RTZ 〜Sweet Cafe〜」独占放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220615/8344150/image/7288fec68d846147614fe4261bac001d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220615230000 +0900" stop="20220615235000 +0900" channel="FujiTwo.jp">
