@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220906143000 +0900" stop="20220906150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220906150000 +0900" stop="20220906160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士Zガンダム</title>
     <rating system="MPAA">
@@ -411,6 +401,18 @@
     <desc lang="ko">3「カプセルの中」
 4「エマの脱走」
 反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと闘う…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220907160000 +0900" stop="20220907170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">僕のヒーローアカデミア</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">91「激突！A組VSB組」
+92「それ行け心操くん！」
+少年・デクはヒーロー科1年A組のクラスメイトと切磋琢磨する毎日を…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -951,7 +953,7 @@ https//otn.fujitv.co.jp
 <desc>第787話「四皇の娘 サンジの婚約者プリン」　（地上波放送日　2017年5月7日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220906/8922774/image/94dbaa53357cf58f85d72f0e8d8d58c7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220906160000 +0900" stop="20220906162500 +0900" channel="FujiTwo.jp">
@@ -1459,46 +1461,6 @@ K-POPマスターソンミ、ティファニー(少女時代)
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220906145000 +0900" stop="20220906150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みみより!くらし解説</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">１８０以上の民族が住むロシアの中にいるアジア系民族。ロシアによるウクライナ侵攻で亡くなるアジア系の若者が多くなる中、戦争に反対する声をＳＮＳで上げ始めています。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220906150000 +0900" stop="20220906150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220906150700 +0900" stop="20220906151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220906151000 +0900" stop="20220906155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">プリズム</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">本当に結婚しようと申し出た陸に、皐月は返事が出来ない。陸は、父親から７年前の思わぬものを渡される。それは悠磨からの手紙だった。涙あふれる陸の姿に皐月は…悠磨は…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220906155500 +0900" stop="20220906160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2059,22 +2021,42 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220906143000 +0900" stop="20220906150000 +0900" channel="eTele.jp">
-    <title lang="ko">今君電話</title>
+  <programme start="20220907150700 +0900" stop="20220907151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">カンニング竹山が、見ず知らずの人と電話で話す番組の第４弾。今回は、お盆の３日間に電話を受ける。どんな人とつながるのか？どんな話を聞くことになるのか？</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220906150000 +0900" stop="20220906153000 +0900" channel="eTele.jp">
-    <title lang="ko">究極の短歌・俳句100選ベストセレクション</title>
+  <programme start="20220907151000 +0900" stop="20220907155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">慶次郎縁側日記2</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">第４回のテーマは「女性とは」。時代を生き抜いてきた女性たちの短歌と俳句を味わう。赤裸々に感情を歌い切った魂の作品の数々。ナレーションは声優の梶裕貴と早見沙織。</desc>
+    <desc lang="ko">江戸・根岸の里で商家の寮番（別荘の管理人）となって、はや１年余。仏の慶次郎と仲間たちが、庶民の悩みや揉め事を解決して行く、一話完結の日記帳。第２シリーズ。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220907155500 +0900" stop="20220907160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ツバメ〜手歌バージョン」うた＆出演ホワイトハンドコーラスＮＩＰＰＯＮ＆ミドリーズ／「ツバメ〜札幌バージョン」うたミドリーズ、出演札幌市のみなさん</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220907160000 +0900" stop="20220907160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2879,12 +2861,22 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220906135500 +0900" stop="20220906155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20220907153000 +0900" stop="20220907160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽「台風１１号」九州北部に接近…新幹線など交通に影響も▽旧統一教会の勧誘手法“正体隠し”の問題点を追及の弁護士が生解説▽悠仁さま１６歳に</desc>
+    <desc lang="ko">風間俊介さんと一緒に、“知っているようで知らない”福祉のテーマを楽しく学ぶ「フクチッチ」。最近、映画などエンタメの世界でも話題の手話を多様な切り口で深掘り！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220907160000 +0900" stop="20220907161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3131,16 +3123,16 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220906145200 +0900" stop="20220906154800 +0900" channel="Asahi.jp">
-  <title lang="ko">科捜研の女19</title>
+  <programme start="20220907155000 +0900" stop="20220907190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「凶器は花束⁉マリコｖｓ体内で宝石を作れる殺人犯の謎」沢口靖子(他)▽殺人未遂現場に残された謎の記号“ＹＹＹ”と、手帳に記された“赤い宝石”が示す驚きの意味とは…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220906154800 +0900" stop="20220906164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season12</title>
     <rating system="MPAA">
@@ -3440,12 +3432,12 @@ by.OneRepublic</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220906135500 +0900" stop="20220906154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20220907154800 +0900" stop="20220907164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season17</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼園児置き去りの幼稚園を家宅捜索　なぜ同じ過ちが繰り返されたのか？▼国道を自転車で逆走　５４歳の男を逮捕▼安倍元総理大臣の国葬　費用きょう公表へ　(他)(予定)</desc>
+    <desc lang="ko">「９９％の女」水谷豊、反町隆史(他)▽経産省のキャリア官僚が殺された。容疑者はかつて機密情報漏洩で有罪判決を受けた女。しかも彼女を起訴した元検事が弁護人として現れ…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3646,12 +3638,12 @@ by.OneRepublic</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220906134000 +0900" stop="20220906154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20220907154900 +0900" stop="20220907190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">軍の極秘実験が生んだ特殊部隊ユニバーサル・ソルジャー。記憶と感情を奪われた人間兵器が今、心を取り戻す！鋼の男ヴァン・ダムVS.人間核弾頭ラングレンの究極バトル！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4032,13 +4024,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220906144500 +0900" stop="20220906154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ガリレオ</title>
+<programme start="20220907154000 +0900" stop="20220907165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">最終章「爆ぜる（はぜる）後編・天才物理学者・木島の仕掛けた史上最悪の犯罪！Ｘマスイブの夜、湯川と薫に絶体絶命の危機が迫る！」
-福山雅治　柴咲コウ　久米宏</desc>
+    <desc lang="ko">メニューが１種類だけの専門店を特集▽自分好みにアレンジ！肉野菜炒め定食▽まるで絵画のように美しい！極上のオムライス▽安くて美味しいにこだわる！生姜焼き定食専門店</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4284,22 +4275,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220906145900 +0900" stop="20220906150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220907154500 +0900" stop="20220907190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220906150000 +0900" stop="20220906150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ！知りたかった！加藤綾子と木村拓也が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽気になるアノ件「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4831,6 +4812,26 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220907150500 +0900" stop="20220907160000 +0900" channel="Tokyo MX">
+  <title lang="ko">王朝の謀略 周新と10の怪事件</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">実際に起こった10の難事件からなる、傑作推理時代劇！“鉄面御史（てつめんぎょし）”こと名捜査官・周新（しゅう・しん）が悪と、陰謀に立ち向かう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220907160000 +0900" stop="20220907163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5371,7 +5372,7 @@ https//otn.fujitv.co.jp
 <desc>第787話「四皇の娘 サンジの婚約者プリン」　（地上波放送日　2017年5月7日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220906/8922774/image/94dbaa53357cf58f85d72f0e8d8d58c7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220906160000 +0900" stop="20220906162500 +0900" channel="FujiTwo.jp">
