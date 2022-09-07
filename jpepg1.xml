@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220908040000 +0900" stop="20220908050000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ルパン三世(PART2)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">127「直撃！デッドボール作戦」
-128「老婆とルパンの泥棒合戦」
-ルパン一味が日本から脱出して5年。世界に散ってい…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220908050000 +0900" stop="20220908060000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士Zガンダム</title>
     <rating system="MPAA">
@@ -420,6 +408,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220909060000 +0900" stop="20220909063000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">Dr.STONE</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">23「科学の波」
+全人類が、謎の現象により一瞬で石化して数千年…。超人的な頭脳を持つ、科学少年・千空が目覚めた。…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220907214000 +0900" stop="20220908015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第15戦 オランダGP 決勝</title>
 <desc>＜開催＞2022年9月4日（日）【再放送】
@@ -455,7 +454,7 @@
 <programme start="20220908050000 +0900" stop="20220908060000 +0900" channel="FujiNext.jp">
 <title lang="ko">きくちから第94回『しおこうじのお台場フォーク村』中級編！ももクロ×アルフィー！</title>
 <desc>ももいろクローバーＺ玉井詩織×THE ALFEE坂崎幸之助＝しおこうじのお台場フォーク村名演で辿る2年7か月「しおりんが口三味線」「坂崎がアコギでTDF」ほか！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8922639/image/d2db85399012e36c99ae9c427f8673d5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908113000 +0900" channel="FujiNext.jp">
@@ -691,7 +690,7 @@ https//otn.fujitv.co.jp
 <desc>「明日の黒たまごを捜せ 〜箱根〜」
 ＜出演＞メフィラス星人　ケムール人　シャドー星人
 ＜声の出演＞東京03
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8922718/image/04bcebdd761f6e3b056726c6e4e27eee.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908070000 +0900" channel="FujiOne.jp">
@@ -945,7 +944,7 @@ https//otn.fujitv.co.jp
 <programme start="20220908053000 +0900" stop="20220908060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8922821/image/4fcd6ced99e0dce7e355617c30d11833.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908071000 +0900" channel="FujiTwo.jp">
@@ -1216,7 +1215,7 @@ https//otn.fujitv.co.jp
 <programme start="20220908050000 +0900" stop="20220908060000 +0900" channel="kbsworld.jp">
 <title lang="ko">開かれた音楽会　セレクト　[字][再]</title>
 <desc>日本初放送！人気K-POPアイドルからベテラン歌手まで出演する韓国の長寿音楽番組！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8916435/image/a4d69a010fe0202a883475cbff6e7e6b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908070000 +0900" channel="kbsworld.jp">
@@ -1588,16 +1587,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220908042000 +0900" stop="20220908050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">国際報道2022</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">プーチン大統領　欧米の制裁を強く批判　▽中国接近を加速するロシア　極東の実情は　▽ＩＡＥＡ　ザポリージャ原発　報告書発表　▽上海で人気のカフェ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220908050000 +0900" stop="20220908060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
@@ -2108,22 +2097,12 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220908010000 +0900" stop="20220908053000 +0900" channel="eTele.jp">
-    <title lang="ko"></title>
+  <programme start="20220909060000 +0900" stop="20220909063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220908053000 +0900" stop="20220908055500 +0900" channel="eTele.jp">
-    <title lang="ko">NHKみんなの手話</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">＃２２のテーマは「冠婚葬祭」です。人生の節目にまつわるような表現、また、お誘いや依頼の断る時の話し方についても学びます。</desc>
+    <desc lang="ko">きょうのスタート、カラフルに！国内外の最新ニュースをお届け！気になるニュースの解説・スポーツ情報・気象中継など、役立つ情報満載でお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2918,12 +2897,12 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220908043000 +0900" stop="20220908055000 +0900" channel="NipponTV.jp">
-    <title lang="ko">Oha!4 NEWS LIVE</title>
+  <programme start="20220909053000 +0900" stop="20220909060500 +0900" channel="eTele.jp">
+    <title lang="ko">新・にっぽんの芸能</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽３歳児バス“放置死”園側が会見▽倉庫が崩落…車７台巻き込まれ１人死亡▽“統一教会”との関係きょうにも公表へ</desc>
+    <desc lang="ko">蔵出し！名舞台、伝説の二枚目・長谷川一夫。映画の大スターから演劇界の頂点を極めた長谷川の芸の魅力とは？歌舞伎の大物俳優と競演したお宝映像も。草笛光子・中村鴈治郎</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3164,6 +3143,16 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220909055000 +0900" stop="20220909080000 +0900" channel="NipponTV.jp">
+    <title lang="ko">ZIP!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3480,16 +3469,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220908043000 +0900" stop="20220908052000 +0900" channel="TBS2.jp">
-  <title lang="ko">THE TIME’</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">船旅の新しい楽しみ方“御船印”▼円安止まらず１ドル１４４円台▼長嶋茂雄さん緊急入院 脳内に出血▼コロナ自宅療養者 買い出し容認▼くら寿司 創業以来初の値上げ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220908052000 +0900" stop="20220908080000 +0900" channel="TBS2.jp">
   <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
@@ -3695,15 +3674,12 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220908042300 +0900" stop="20220908054500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ものスタ</title>
+<programme start="20220909052000 +0900" stop="20220909080000 +0900" channel="TBS2.jp">
+  <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+    <desc lang="ko">安住紳一郎が明るく楽しく丁寧に、そして正直にお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4103,12 +4079,12 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220908045500 +0900" stop="20220908052500 +0900" channel="FujiTV.jp">
-  <title lang="ko">めざましテレビ全部見せ</title>
+<programme start="20220909054500 +0900" stop="20220909070500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">モーサテ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+    <desc lang="ko">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4354,32 +4330,12 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220908043000 +0900" stop="20220908050000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220909052500 +0900" stop="20220909080000 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざましテレビ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220908050000 +0900" stop="20220908052500 +0900" channel="Tokyo MX">
-  <title lang="ko">ごりやくさん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４Ｋ撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220908052500 +0900" stop="20220908053000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4874,6 +4830,26 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220909053000 +0900" stop="20220909060000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220909060000 +0900" stop="20220909063000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220907214000 +0900" stop="20220908015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第15戦 オランダGP 決勝</title>
 <desc>＜開催＞2022年9月4日（日）【再放送】
@@ -4909,7 +4885,7 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
 <programme start="20220908050000 +0900" stop="20220908060000 +0900" channel="FujiNext.jp">
 <title lang="ko">きくちから第94回『しおこうじのお台場フォーク村』中級編！ももクロ×アルフィー！</title>
 <desc>ももいろクローバーＺ玉井詩織×THE ALFEE坂崎幸之助＝しおこうじのお台場フォーク村名演で辿る2年7か月「しおりんが口三味線」「坂崎がアコギでTDF」ほか！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8922639/image/d2db85399012e36c99ae9c427f8673d5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908113000 +0900" channel="FujiNext.jp">
@@ -5145,7 +5121,7 @@ https//otn.fujitv.co.jp
 <desc>「明日の黒たまごを捜せ 〜箱根〜」
 ＜出演＞メフィラス星人　ケムール人　シャドー星人
 ＜声の出演＞東京03
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8922718/image/04bcebdd761f6e3b056726c6e4e27eee.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908070000 +0900" channel="FujiOne.jp">
@@ -5399,7 +5375,7 @@ https//otn.fujitv.co.jp
 <programme start="20220908053000 +0900" stop="20220908060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8922821/image/4fcd6ced99e0dce7e355617c30d11833.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908071000 +0900" channel="FujiTwo.jp">
@@ -5670,7 +5646,7 @@ https//otn.fujitv.co.jp
 <programme start="20220908050000 +0900" stop="20220908060000 +0900" channel="kbsworld.jp">
 <title lang="ko">開かれた音楽会　セレクト　[字][再]</title>
 <desc>日本初放送！人気K-POPアイドルからベテラン歌手まで出演する韓国の長寿音楽番組！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220908/8916435/image/a4d69a010fe0202a883475cbff6e7e6b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220908060000 +0900" stop="20220908070000 +0900" channel="kbsworld.jp">
