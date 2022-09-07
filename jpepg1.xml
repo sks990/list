@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220907143000 +0900" stop="20220907150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220907150000 +0900" stop="20220907160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士Zガンダム</title>
     <rating system="MPAA">
@@ -413,6 +403,18 @@
     <desc lang="ko">5「父と子と…」
 6「地球圏へ」
 反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと闘う為、…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220908160000 +0900" stop="20220908170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">僕のヒーローアカデミア</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">93「新技即興オペレーション」
+94「先を見据えて」
+少年・デクはヒーロー科1年A組のクラスメイトと切磋琢磨する毎日…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1017,7 +1019,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2017年6月4日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220907/8922805/image/0ba46f656c52160a4c19b2b6178139c3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220907160000 +0900" stop="20220907162500 +0900" channel="FujiTwo.jp">
@@ -1553,46 +1555,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220907145000 +0900" stop="20220907150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みみより!くらし解説</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">海水から得られるトリチウムなどを燃料に、現在の原子力発電を上回るエネルギーを取り出せるという「核融合発電」。未来のエネルギーとなりうるのか、基本と課題を解説。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220907150000 +0900" stop="20220907150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220907150700 +0900" stop="20220907151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220907151000 +0900" stop="20220907155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">慶次郎縁側日記2</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">江戸・根岸の里で商家の寮番（別荘の管理人）となって、はや１年余。仏の慶次郎と仲間たちが、庶民の悩みや揉め事を解決して行く、一話完結の日記帳。第２シリーズ。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220907155500 +0900" stop="20220907160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2153,22 +2115,42 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220907143000 +0900" stop="20220907150000 +0900" channel="eTele.jp">
-    <title lang="ko">将棋フォーカス</title>
+  <programme start="20220908150700 +0900" stop="20220908151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">谷川浩司十七世名人がスタジオに登場！自らの将棋人生、将棋観、勝負観、そしてこれからの将棋界について語る！「ＮＯ将棋　ＮＯＬＩＦＥ」は「銀」が活躍する変則将棋。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220907150000 +0900" stop="20220907153000 +0900" channel="eTele.jp">
-    <title lang="ko">囲碁フォーカス</title>
+  <programme start="20220908151000 +0900" stop="20220908155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">あしたが変わるトリセツショー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">鈴木七段の講座、９月は「プロの実戦で復習しよう」。今回は「キレイに構える」。「フォーカス・オン」は「囲碁界の一番熱い日　第４７期名人戦リーグ最終一斉対局」。</desc>
+    <desc lang="ko">世界の研究者が大注目する「脈拍」☆脈が速いと将来肥満になるリスクが倍に！？☆ストレス解消に睡眠改善まで！脈下げヨガを大公開☆日々の脈拍で自律神経の状態を知ろう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220908155500 +0900" stop="20220908160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「魔法の絵の具」うた河島英五／「南の島の花よめさん」うた木の葉のこ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220908160000 +0900" stop="20220908160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2963,12 +2945,32 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220907135500 +0900" stop="20220907155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20220908152500 +0900" stop="20220908153000 +0900" channel="eTele.jp">
+    <title lang="ko">5分でみんなの手話</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽送迎バス女児死亡…園長会見は？車内の置き去り防ぐには？▽“統一教会”対策弁護士ら会見…相談実状は？▽世界異常気象</desc>
+    <desc lang="ko">２０２１年度に放送したＥテレ「みんなの手話」から１つのキーフレーズをピックアップ。「大雨注意報が出てるよ！」を覚えましょう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220908153000 +0900" stop="20220908160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">全国の福祉事業所で展開されているアート活動。でも、アート作品をどのように世に出していけばいいのか…。そんなお悩みの相談にのってくれる強い味方が、奈良にいる！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220908160000 +0900" stop="20220908161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3216,16 +3218,16 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220907145200 +0900" stop="20220907154800 +0900" channel="Asahi.jp">
-  <title lang="ko">刑事7人8</title>
+  <programme start="20220908155000 +0900" stop="20220908190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「密室監禁…３時間で犯人を暴け！死迫る究極の心理戦」東山紀之(他)▽娘の死は事故ではなく事件だと言い張る父親は、話し合いで犯人を見つけ出すことを命令。一方、天樹は…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220907154800 +0900" stop="20220907164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season17</title>
     <rating system="MPAA">
@@ -3527,12 +3529,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220907135500 +0900" stop="20220907154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20220908154800 +0900" stop="20220908164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season13</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">『園児バス置き去り』死因は「熱中症」なぜ…繰り返された悲劇…対策は？きょう幼稚園が会見か　現場から生中継▼また台風⁉“台風の卵”熱帯低気圧が複数発生か　(他)予定</desc>
+    <desc lang="ko">「鮎川教授最後の授業」水谷豊、成宮寛貴(他)▽右京ら元教え子たちを監禁し殺人の是非を問う名誉教授。その意図は？そして、何も知らない享の身にも人生を左右する一大事が…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3739,12 +3741,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220907134000 +0900" stop="20220907154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20220908154900 +0900" stop="20220908190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">雪深いフィンランドの山奥で父と２人、冷酷な殺人マシーンとして育てられた少女・ハンナ。彼女を外の世界で待っていたのは、運命の鍵を握る最凶の女！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4123,13 +4125,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220907144500 +0900" stop="20220907154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ガリレオ</title>
+<programme start="20220908154000 +0900" stop="20220908165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「幻惑す（まどわす）帰ってきた変人！第１話は物理学対念力！！」東野圭吾原作　
-福山雅治　吉高由里子　柴咲コウ　北村一輝　渡辺いっけい　大沢たかお　ほか</desc>
+    <desc lang="ko">７０歳にして芸能界の第一線で活躍する山下真司さん。その若さの秘密を探るべく密着！自他共に認めるほどの“健康オタク”山下さん、その暮らしから健康の秘訣を学びます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4375,22 +4376,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220907145900 +0900" stop="20220907150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220908154500 +0900" stop="20220908190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220907150000 +0900" stop="20220907150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ！知りたかった！加藤綾子と木村拓也が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽気になるアノ件「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4891,6 +4882,26 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220908150500 +0900" stop="20220908160000 +0900" channel="Tokyo MX">
+  <title lang="ko">王朝の謀略 周新と10の怪事件</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">実際に起こった10の難事件からなる、傑作推理時代劇！“鉄面御史（てつめんぎょし）”こと名捜査官・周新（しゅう・しん）が悪と、陰謀に立ち向かう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220908160000 +0900" stop="20220908163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5495,7 +5506,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2017年6月4日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220907/8922805/image/0ba46f656c52160a4c19b2b6178139c3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220907160000 +0900" stop="20220907162500 +0900" channel="FujiTwo.jp">
