@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220912090000 +0900" stop="20220912100000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">231「錆びた刀」
-232「デンキ隊長の初任務」
-平和と共に近代化が進んだ木ノ葉隠れの里。七代目火影・うずまきナルト…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220912100000 +0900" stop="20220912110000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ワールドトリガー</title>
     <rating system="MPAA">
@@ -417,6 +405,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220913110000 +0900" stop="20220913120000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ルパン三世(PART2)</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">135「毒薬と魔術とルパン三世」
+136「ゴールドバタフライの復讐」
+ルパン一味が日本から脱出して5年。世界に散って…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220911212000 +0900" stop="20220912030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第16戦 イタリアGP 決勝</title>
 <desc>＜開催＞2022年9月11日（日）【生中継】
@@ -460,7 +460,7 @@
 <title lang="ko">ラーメンWalker TV2　321　　「東京スタイルみそらーめん ど・みそ」</title>
 <desc>東京味噌ラーメン界を牽引するトップランナー！ 京橋「東京スタイルみそらーめん ど・みそ」
 ▽今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8975629/image/923cb791a23f7f3e4d6b8195ae009e3a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220912110000 +0900" stop="20220912130000 +0900" channel="FujiNext.jp">
@@ -1539,36 +1539,6 @@ K-POPマスターソンミ、ティファニー(少女時代)
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220912095500 +0900" stop="20220912100000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みんなの体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">岡本美佳、吉江晴菜、今井菜津美、新井庸太</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220912100000 +0900" stop="20220912100500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220912100500 +0900" stop="20220912105500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">キャッチ!世界のトップニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシアによるウクライナ侵攻。現地の最新情勢や各国の動きなど、世界のテレビ局が放送したニュースからピックアップしてお伝えします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220912105500 +0900" stop="20220912110000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2109,42 +2079,32 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220912095500 +0900" stop="20220912100000 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
+  <programme start="20220913100500 +0900" stop="20220913105500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">キャッチ!世界のトップニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <desc lang="ko">▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220912100000 +0900" stop="20220912102000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 現代の国語</title>
+  <programme start="20220913105500 +0900" stop="20220913110000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">私たちは、言葉を通して自分を知り、他者と出会い、社会に関わります。そのために必要な“言葉の力”を磨きましょう！</desc>
+    <desc lang="ko">「Ｒｅｐｌａｙ」うたＤＩＳＨ／／　「愛がお仕事」うた渡辺美里</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220912102000 +0900" stop="20220912103000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 あらためまして ベーシック国語</title>
+  <programme start="20220913110000 +0900" stop="20220913110500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">国語の基礎をあらためて学ぶ、講座バラエティー。今回は文学史、川端康成。川端に縁の土地、伊豆をカレンさんが訪ね、足跡をたどる。伊豆の旅から感じた川端の魅力とは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220912103000 +0900" stop="20220912105000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 数学I</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2959,12 +2919,32 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220912080000 +0900" stop="20220912102500 +0900" channel="NipponTV.jp">
-    <title lang="ko">スッキリ</title>
+  <programme start="20220913102000 +0900" stop="20220913104000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 化学基礎</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽ノロノロ台風12号 影響長期化か▽「一生結婚しない」過去最高▽ホームラン記録目前 22歳村上に1億円の家▽伝説マンガNANA 作者・矢沢あいの魅力</desc>
+    <desc lang="ko">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220913104000 +0900" stop="20220913110000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 地学基礎</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は地球内部の構造について学んでいきます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220913110000 +0900" stop="20220913111000 +0900" channel="eTele.jp">
+    <title lang="ko">アクティブ10 理科</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">中学生向けの理科番組。答えは提示せず、自ら課題を発見、仮説・検証方法を立案、結果から考察出来るようになるための方法を伝える。今回のテーマは「化学電池」。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3200,16 +3180,16 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220912095500 +0900" stop="20220912102500 +0900" channel="Asahi.jp">
-  <title lang="ko">じゅん散歩</title>
+  <programme start="20220913102500 +0900" stop="20220913113000 +0900" channel="NipponTV.jp">
+    <title lang="ko">バゲット</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">三代目散歩人・高田純次が「東武練馬」を散策▽駅伝＆書道が有名！大東文化大学▽貴重！卒業生が書いた 元号「令和」の書▽都会で渓流の魚釣りが楽しめるレストラン</desc>
+    <desc lang="ko">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220912102500 +0900" stop="20220912130000 +0900" channel="Asahi.jp">
   <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
@@ -3521,12 +3501,12 @@ by.Glass Animals</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912095500 +0900" stop="20220912102500 +0900" channel="TBS2.jp">
-  <title lang="ko">Let's!美バディ</title>
+<programme start="20220913102500 +0900" stop="20220913130000 +0900" channel="Asahi.jp">
+  <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">★YouTubeで人気の竹脇まりなが指導★ゲストは森三中 大島美幸★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
+    <desc lang="ko">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3701,6 +3681,16 @@ by.Glass Animals</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">★YouTubeで人気の竹脇まりなが指導★ゲストは森三中 大島美幸★個性豊かな男性トレーナー『美バメン』もフィットネスを指導</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220913102500 +0900" stop="20220913135500 +0900" channel="TBS2.jp">
+  <title lang="ko">ひるおび!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4383,26 +4373,6 @@ LIL　LEAGUEダンスバトル選手権！優勝者は中務とダンスバト�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912093000 +0900" stop="20220912100000 +0900" channel="Tokyo MX">
-  <title lang="ko">洋上の楽園クルーズ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「魅力のイタリアンシップで巡る　地中海・カナリア諸島クルーズ」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220912100000 +0900" stop="20220912103000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220912103000 +0900" stop="20220912110000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -4885,6 +4855,26 @@ LIL　LEAGUEダンスバトル選手権！優勝者は中務とダンスバト�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220913103000 +0900" stop="20220913110000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220913110000 +0900" stop="20220913110500 +0900" channel="Tokyo MX">
+  <title lang="ko">MX news FLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220911212000 +0900" stop="20220912030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第16戦 イタリアGP 決勝</title>
 <desc>＜開催＞2022年9月11日（日）【生中継】
@@ -4928,7 +4918,7 @@ LIL　LEAGUEダンスバトル選手権！優勝者は中務とダンスバト�
 <title lang="ko">ラーメンWalker TV2　321　　「東京スタイルみそらーめん ど・みそ」</title>
 <desc>東京味噌ラーメン界を牽引するトップランナー！ 京橋「東京スタイルみそらーめん ど・みそ」
 ▽今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8975629/image/923cb791a23f7f3e4d6b8195ae009e3a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220912110000 +0900" stop="20220912130000 +0900" channel="FujiNext.jp">
