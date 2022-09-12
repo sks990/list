@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220913033000 +0900" stop="20220913040000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220913040000 +0900" stop="20220913050000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ルパン三世(PART2)</title>
     <rating system="MPAA">
@@ -411,6 +401,18 @@
     <desc lang="ko">135「毒薬と魔術とルパン三世」
 136「ゴールドバタフライの復讐」
 ルパン一味が日本から脱出して5年。世界に散って…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220914050000 +0900" stop="20220914060000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士Zガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">11「大気圏突入」
+12「ジャブローの風」
+反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1098,7 +1100,7 @@ https//otn.fujitv.co.jp
 <programme start="20220913042000 +0900" stop="20220913050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　8　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8951942/image/a0f9a9ee65d1d0d9c3cd113f262fe75b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220913050000 +0900" stop="20220913060000 +0900" channel="kbsworld.jp">
@@ -1449,36 +1451,6 @@ K-POPマスターソンミ、ティファニー(少女時代)
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220913033500 +0900" stop="20220913040000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2022年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220913040000 +0900" stop="20220913041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">視点・論点</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「核軍縮への道筋は」秋山　信将（一橋大学　教授）</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220913041000 +0900" stop="20220913042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">沖縄県知事選で玉城知事が再選された。米軍普天間基地の名護市辺野古への移設問題や新型コロナで冷え込む経済、子どもの貧困など、県政の課題について、沖縄からも解説。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220913042000 +0900" stop="20220913050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">国際報道2022</title>
     <rating system="MPAA">
@@ -2025,6 +1997,36 @@ K-POPマスターソンミ、ティファニー(少女時代)
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「誰一人取り残さない社会を実現するために」　浅川　智恵子（日本科学未来館　館長）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220914041000 +0900" stop="20220914042000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">時論公論</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">沖縄県の尖閣諸島を政府が国有地として取得して１０年。中国海警局の船は、日本の領海への侵入を繰り返している。中国の攻勢に日本はどう主権を守っていくのか、考える。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220914042000 +0900" stop="20220914050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">国際報道2022</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ウクライナ・性暴力被害の実態は▽「食糧危機　来年さらに悪化のおそれも」国連担当者が警告▽ＷＯＷ！　※変更の可能性あり</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220914050000 +0900" stop="20220914060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょうのスタート、カラフルに！国内外で起きた最新ニュースをお届け！今日一日の気象情報、スポーツもコンパクトにまとめてお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2869,16 +2871,6 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220913034500 +0900" stop="20220913043000 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレポシュレ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">プロウォーキング講師開発！あばらに巻くベルトでスリムを目指す！神エステティシャン開発美顔器が１万円切り＆送料無料、大粒ダイヤ、決算寝具も安い！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220913043000 +0900" stop="20220913055000 +0900" channel="NipponTV.jp">
     <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
@@ -3111,26 +3103,16 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220913033000 +0900" stop="20220913040000 +0900" channel="Asahi.jp">
-  <title lang="ko"></title>
+  <programme start="20220914043000 +0900" stop="20220914055000 +0900" channel="NipponTV.jp">
+    <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220913040000 +0900" stop="20220913045500 +0900" channel="Asahi.jp">
-  <title lang="ko">暴れん坊将軍III</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「おんな武芸者の恋」松平健(他)▽侍姿の少年を連れた別式女が侍に襲われているのを目撃し、その場に飛び込んで女を助けた吉宗。侍は、一緒にいた少年を連れ去ろうとしたが…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220913045500 +0900" stop="20220913080000 +0900" channel="Asahi.jp">
   <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
@@ -3429,12 +3411,12 @@ by.Sarah Brightman</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220913034500 +0900" stop="20220913043000 +0900" channel="TBS2.jp">
-  <title lang="ko">TBS NEWS</title>
+<programme start="20220914045500 +0900" stop="20220914080000 +0900" channel="Asahi.jp">
+  <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+    <desc lang="ko">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3455,7 +3437,7 @@ by.Sarah Brightman</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">安住紳一郎が明るく楽しく丁寧に、そして正直にお伝えします！</desc>
+    <desc lang="ko">“喫煙県議”持ち込み飲酒も▼感染防ぐ？鼻ワクチン▼安倍氏国葬…面識ない元議員にも案内状▼価格お手頃“代替ウニ”▼リトグリ第９弾！新展開▼まるで地中海…若狭中継</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3667,22 +3649,13 @@ by.Sarah Brightman</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220913035500 +0900" stop="20220913041000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">家、ついて行ってイイですか?(明け方)</title>
+<programme start="20220914043000 +0900" stop="20220914052000 +0900" channel="TBS2.jp">
+  <title lang="ko">THE TIME’</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220913041000 +0900" stop="20220913042300 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4053,32 +4026,25 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220913035500 +0900" stop="20220913041500 +0900" channel="FujiTV.jp">
+<programme start="20220914041800 +0900" stop="20220914042300 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220913041500 +0900" stop="20220913042500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
+<programme start="20220914042300 +0900" stop="20220914054500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ものスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220913042500 +0900" stop="20220913045500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4314,22 +4280,32 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220913033500 +0900" stop="20220913040000 +0900" channel="Tokyo MX">
-  <title lang="ko">ダイアンのガチで!ごめんやす</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「ダイアンに会いたい！」という人を募集し、その人のもとへガチで会いに行く“全国イチ視聴者との距離が近い”ロケバラエティ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220913040000 +0900" stop="20220913043000 +0900" channel="Tokyo MX">
+<programme start="20220914040500 +0900" stop="20220914042500 +0900" channel="FujiTV.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220914042500 +0900" stop="20220914045500 +0900" channel="FujiTV.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220914045500 +0900" stop="20220914052500 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざましテレビ全部見せ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4851,6 +4827,26 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220914043000 +0900" stop="20220914050000 +0900" channel="Tokyo MX">
+  <title lang="ko">うたなび!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220914050000 +0900" stop="20220914053000 +0900" channel="Tokyo MX">
+  <title lang="ko">日本グレートスポット紀行 season2</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">天領日田洋酒博物館・つるかめ便利屋　編</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5538,7 +5534,7 @@ https//otn.fujitv.co.jp
 <programme start="20220913042000 +0900" stop="20220913050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　8　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8951942/image/a0f9a9ee65d1d0d9c3cd113f262fe75b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220913050000 +0900" stop="20220913060000 +0900" channel="kbsworld.jp">
