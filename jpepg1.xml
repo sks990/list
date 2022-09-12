@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220912210000 +0900" stop="20220912220000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">TIGER  BUNNY</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">1「All's well that ends well.（終わりよければすべてよし）」
-2「A good beginning makes a good ending.（はじめ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220912220000 +0900" stop="20220912230000 +0900" channel="ANIMAX.jp">
   <title lang="ko">僕のヒーローアカデミア</title>
     <rating system="MPAA">
@@ -415,6 +404,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220913230000 +0900" stop="20220914000000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">夏目友人帳 参</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">1「妖しきものの名」
+2「浮春の郷（さと）」
+妖怪が見える少年・夏目貴志は、祖母・レイコの遺品から“友人帳”とい…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220911212000 +0900" stop="20220912030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第16戦 イタリアGP 決勝</title>
 <desc>＜開催＞2022年9月11日（日）【生中継】
@@ -749,7 +750,7 @@ https//otn.fujitv.co.jp
 <desc>2000試合達成!!
 ＜出演＞つば九郎、真中満
 ▽球団トップスポンサーのハウスメーカーからつば九郎に「とりごや（つば九郎のお家）」をプレゼント！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8976177/image/e91dc978d0ccc5a9ca11a66b65c98914.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220912230000 +0900" stop="20220913000000 +0900" channel="FujiOne.jp">
@@ -1087,7 +1088,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2000年5月17日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8976253/image/ee409ffeee54b586280d1d6279ec5995.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220912225400 +0900" stop="20220912233000 +0900" channel="FujiTwo.jp">
@@ -1537,26 +1538,6 @@ K-POPマスターソンミ、ティファニー(少女時代)
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220912210000 +0900" stop="20220912220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽園バス女児置き去り死亡から１週間▽日中国交正常化から５０年…今後の日中を専門家は▽戦争犯罪を暴けるか</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220912220000 +0900" stop="20220912224500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">映像の世紀バタフライエフェクト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">９１１同時多発テロ。首謀したオサマ・ビンラディンとアメリカの間には深い因縁があった。全ての始まりは石油。偶然と必然が交錯し、最悪の悲劇へと連鎖する物語。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220912224500 +0900" stop="20220912230000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">あなたのブツが、ここに</title>
     <rating system="MPAA">
@@ -2107,32 +2088,22 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220912215500 +0900" stop="20220912220000 +0900" channel="eTele.jp">
-    <title lang="ko">まる得マガジン</title>
+  <programme start="20220913224500 +0900" stop="20220913230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">あなたのブツが、ここに</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">柔道金メダリストの松本薫さんが、アスリートや、ダイエットを気にする人におすすめの「罪なき」スイーツを紹介。</desc>
+    <desc lang="ko">亜子（仁村紗和）は、キャバ嬢のノア（柳美稀）が自殺したことを知る。しずく（ゆうちゃみ）から、ノアのおちいっていた状況を聞かされ、かつての自分と重ねてしまう。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220912220000 +0900" stop="20220912222500 +0900" channel="eTele.jp">
-    <title lang="ko">グレーテルのかまど</title>
+  <programme start="20220913230000 +0900" stop="20220913233000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ニッポン知らなかった選手権 実況中!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">子どもから大人までみんな大好きなプリン！優しい卵の味わいと食感で、シンプルなのに奥深いプリンの魅力。今日はとことん味わい尽くします！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220912222500 +0900" stop="20220912225000 +0900" channel="eTele.jp">
-    <title lang="ko">100分de名著</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「アイヌ神謡集」は文字ではなく口承で伝えられたもので耳で聴くことで初めてその魅力を知ることができる。特に特徴的なのは「サケヘ」という特殊な言葉。その魅力とは？</desc>
+    <desc lang="ko">企業や業界団体が内輪で開催するスキルアップのための知られざる技術大会に大量のカメラを投入！！▽戦いの現場を勝手に高速実況！その超絶ワザのすごさと魅力に迫ります！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2947,12 +2918,12 @@ K-POPマスターソンミ、ティファニー(少女時代)
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220912215400 +0900" stop="20220912220000 +0900" channel="NipponTV.jp">
-    <title lang="ko">The Gift</title>
+  <programme start="20220913224500 +0900" stop="20220913231500 +0900" channel="eTele.jp">
+    <title lang="ko">コズミックフロントΩ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">旬の有名人がお世話になった人へ…ギフト選びに密着するバラエティ。女優の西山なずなさんは大好きな祖母・妙子さんへ日ごろの感謝を込めて敬老の日のギフトを贈る。</desc>
+    <desc lang="ko">１９７０年代「見えないが重力を持つ」という不思議な存在が明らかになった。その名も「ダークマター」。宇宙を支配するというこの物質とは一体なにか？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3184,6 +3155,26 @@ K-POPマスターソンミ、ティファニー(少女時代)
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「中国の４つ子の母が考案！子供らを一瞬で見分ける方法は？」世界の衝撃映像を見てそれを超える笑撃回答できる？実力派芸人１５組が激突！見届け俳優らにハマれるのは誰？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220913225400 +0900" stop="20220913230000 +0900" channel="NipponTV.jp">
+    <title lang="ko">つながるまちかど</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">街角で見つけた、心温まる“やさしいコトバ”を、そのエピソードとともにご紹介します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220913230000 +0900" stop="20220913235900 +0900" channel="NipponTV.jp">
+    <title lang="ko">news zero</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3497,16 +3488,6 @@ by.Glass Animals</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912210000 +0900" stop="20220912225700 +0900" channel="TBS2.jp">
-  <title lang="ko">回転寿司!横浜中華街!もしも人気店で頼んだ一皿を芸能人が作ってたら…!?</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">『くら寿司』新メニュー開発…ギャル曽根ＶＳ高島礼子で爆売れ寿司誕生▼極妻かたせＶＳ相棒鈴木砂羽！横浜中華街でメニュー考案★大喜利王川島ＡＥＲＡダジャレコピー挑戦</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220912225700 +0900" stop="20220912230000 +0900" channel="TBS2.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -3711,25 +3692,23 @@ by.Glass Animals</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912215400 +0900" stop="20220912220000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">東京GOOD!</title>
+<programme start="20220913225700 +0900" stop="20220913230000 +0900" channel="TBS2.jp">
+  <title lang="ko">GoNEXT-未来へ駆けぬける-</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">東京の隠れた魅力を紹介する番組。歴史ある場所、施設、イベントや人など、様々な「GOOD!」と出会います。出会った「GOOD!」は番組公式インスタグラムにも投稿されます。</desc>
+    <desc lang="ko">時代の先駆者たちが切り拓いてきた道を辿り「未来」への想いに迫るヒューマン・ドキュメンタリー
+【光で浮かび上がる影アートを創作／影アーティスト・佐藤江未】</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912220000 +0900" stop="20220912225800 +0900" channel="TVTokyo.jp">
-  <title lang="ko">WBS</title>
+<programme start="20220913230000 +0900" stop="20220913235600 +0900" channel="TBS2.jp">
+  <title lang="ko">news23</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼英女王エディンバラ大聖堂で追悼へ
-▼東部戦線でウクライナ巻き返し
-▼ロシア石油「裏ルート取引」実態は・・・
-▼密着!!国産ジンが本場へ進出</desc>
+    <desc lang="ko">メインキャスター小川彩佳と国山ハセンアナウンサーが、番組独自の調査報道からＺ世代に刺さるカルチャーまで明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4120,23 +4099,12 @@ LIL　LEAGUEダンスバトル選手権！優勝者は中務とダンスバト�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912215400 +0900" stop="20220912220000 +0900" channel="FujiTV.jp">
-  <title lang="ko">四季彩キッチン</title>
+<programme start="20220913225800 +0900" stop="20220913230600 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">林修先生が“旬の食材”を入口に日本の農業の“いま”をプレゼンテーション！今回は、加賀野菜のひとつ「金時草」を紹介します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220912220000 +0900" stop="20220912225400 +0900" channel="FujiTV.jp">
-  <title lang="ko">魔法のリノベ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「７人兄弟の大家族リノベ！社長の過去」
-波瑠　間宮祥太朗　原田泰造　遠藤憲一</desc>
+    <desc lang="ko">早田ひな。伊藤美誠、平野美宇と同級生の22歳。２人の背中をずっとずっと追いかけてきた。でも今は違う…日本を背負って立つ早田ひなに注目してください。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4412,22 +4380,22 @@ LIL　LEAGUEダンスバトル選手権！優勝者は中務とダンスバト�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912215400 +0900" stop="20220912220000 +0900" channel="Tokyo MX">
-  <title lang="ko">ピカイチくん!</title>
+<programme start="20220913225400 +0900" stop="20220913230000 +0900" channel="FujiTV.jp">
+  <title lang="ko">体感!サステナWAVE</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「飯田橋くじらバーガー」</desc>
+    <desc lang="ko">藤本万梨乃アナが体感！コメ袋をはさみでチョキチョキ。穴を開けてひもを通して…捨てずに再利用してバッグに。なるべくゴミを出さない意識を養います！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220912220000 +0900" stop="20220912223000 +0900" channel="Tokyo MX">
-  <title lang="ko">風都探偵</title>
+<programme start="20220913230000 +0900" stop="20220913233000 +0900" channel="FujiTV.jp">
+  <title lang="ko">セブンルール</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">翔太郎とフィリップ。ふたりの探偵には、もう一つの顔がある</desc>
+    <desc lang="ko">３年ぶり開催！夏フェス「ラブシャ」創設者に密着▽クリープハイプ、ＷＡＮＩＭＡ、レキシ…アーティストが惚れ込む“愛いっぱい”プロデュース</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4945,6 +4913,26 @@ LIL　LEAGUEダンスバトル選手権！優勝者は中務とダンスバト�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220913222900 +0900" stop="20220913230000 +0900" channel="Tokyo MX">
+  <title lang="ko">SDガンダムワールド ヒーローズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220913230000 +0900" stop="20220913233000 +0900" channel="Tokyo MX">
+  <title lang="ko">金装のヴェルメイユ〜崖っぷち魔術師は最強の厄災と魔法世界を突き進む〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">＃１１「過去」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220911212000 +0900" stop="20220912030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　第16戦 イタリアGP 決勝</title>
 <desc>＜開催＞2022年9月11日（日）【生中継】
@@ -5279,7 +5267,7 @@ https//otn.fujitv.co.jp
 <desc>2000試合達成!!
 ＜出演＞つば九郎、真中満
 ▽球団トップスポンサーのハウスメーカーからつば九郎に「とりごや（つば九郎のお家）」をプレゼント！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8976177/image/e91dc978d0ccc5a9ca11a66b65c98914.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220912230000 +0900" stop="20220913000000 +0900" channel="FujiOne.jp">
@@ -5617,7 +5605,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2000年5月17日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220912/8976253/image/ee409ffeee54b586280d1d6279ec5995.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220912225400 +0900" stop="20220912233000 +0900" channel="FujiTwo.jp">
