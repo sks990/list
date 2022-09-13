@@ -63,28 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220914000000 +0900" stop="20220914010000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">キングダム</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">26「武神　ホウ煖」27「飛信隊誕生」
-紀元前、中国。西方の国・秦で、戦災孤児として暮らしていた2人の少年、信と漂…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220914010000 +0900" stop="20220914013000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ヴァニタスの手記</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">2「Noe―花の都にて―」
-人間と吸血鬼が存在する19世紀フランス。吸血鬼の青年ノエは、吸血鬼に呪いを振り撒くという…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220914013000 +0900" stop="20220914020000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ちびまる子ちゃん</title>
     <rating system="MPAA">
@@ -411,6 +389,28 @@
     </rating>
     <desc lang="ko">3「Archiviste―血を暴く牙―」
 人間と吸血鬼が存在する19世紀フランス。吸血鬼の青年ノエは、吸血鬼に呪いを振り撒…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915013000 +0900" stop="20220915020000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ちびまる子ちゃん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">540「杉山くんとキャッチボール」の巻／「和菓子を作ろう！」の巻
+静岡県清水市に住む小学3年生のももこは、みんなか…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915020000 +0900" stop="20220915030000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">TIGER  BUNNY</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">5「Go for broke!（当たって砕けろ！）」
+6「Fire is a good servant but a bad master.（火は従順なしもべだが、悪…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1140,7 +1140,7 @@ https//otn.fujitv.co.jp
 <programme start="20220914003500 +0900" stop="20220914020000 +0900" channel="kbsworld.jp">
 <title lang="ko">社長の耳はロバの耳　[字]</title>
 <desc>日本初放送！最新バラエティ！トップクラスの各界のボスたちと職員たちの日常に密着する考察バラエティ！2019年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220913/8954080/image/186927c3ebc9a1954471db65a59d8e6f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220914020000 +0900" stop="20220914031000 +0900" channel="kbsworld.jp">
@@ -1546,16 +1546,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220914003000 +0900" stop="20220914011500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">アナザーストーリーズ 運命の分岐点</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京大学安田講堂で、立てこもった学生と警察が衝突した東大・安田講堂事件。事件から半世紀、学生の中心メンバーや機動隊員が初めて明かす詳細な証言。事件の真相に迫る！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220914011500 +0900" stop="20220914020500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKスペシャル</title>
     <rating system="MPAA">
@@ -2106,12 +2096,22 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220914005500 +0900" stop="20220914010000 +0900" channel="eTele.jp">
-    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+  <programme start="20220915011000 +0900" stop="20220915020000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKスペシャル</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">彫刻『午後の日』が地球侵略の、過去のＴＡＲＯＭＡＮの戦いを分析し、楽に勝つ方法を会議中。ＴＡＲＯＭＡＮはその小賢しさを許しません。「なま身の自分に賭けろ！」</desc>
+    <desc lang="ko">“自由と民主”を求め、１００万人以上の市民のデモが続いていた香港は、力の統治を強める中国が国安法を施行してわずか２年で激変した。変貌する香港の深層を見つめる。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220915020000 +0900" stop="20220915032900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">100年インタビュー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ＢＳプレミアムで２０１４年放送の「１００年インタビュー京セラ名誉会長・稲盛和夫さん」再放送。異なる業種の企業経営に携わり成功に導いた、独自の経営哲学に迫ります。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2956,27 +2956,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220914005900 +0900" stop="20220914012900 +0900" channel="NipponTV.jp">
-    <title lang="ko">ろくにんよれば町内会</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">マンネリを感じている彼女の不安を吹き飛ばせ！自宅を舞台にバースデーサプライズ対決！ロクマチ再来大久保佳代子に蘇る胸キュン！？初リアルイベントの一部様子を大公開！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220914012900 +0900" stop="20220914015900 +0900" channel="NipponTV.jp">
-    <title lang="ko">シャインポスト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">☆これは、絶対アイドルを目指すため、君と少女たちが光り輝く物語。☆
-第９話「青天国春は《信じない》」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220914015900 +0900" stop="20220914022900 +0900" channel="NipponTV.jp">
     <title lang="ko">ついに激突!![HIGHLOW THE WORST X」公開記念スペシャル</title>
     <rating system="MPAA">
@@ -3201,36 +3180,26 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220914004500 +0900" stop="20220914012000 +0900" channel="Asahi.jp">
-  <title lang="ko">お願い!ランキングpresentsそだてれび</title>
+  <programme start="20220915012900 +0900" stop="20220915013500 +0900" channel="NipponTV.jp">
+    <title lang="ko">ガイド</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">テレビ朝日全局員を対象にした企画オーディションバトルがスタート！《ドラマ》《バラエティー》《ドキュメンタリー》《アニメ》次世代のスタークリエイターを発掘・育成！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220914012000 +0900" stop="20220914012600 +0900" channel="Asahi.jp">
-  <title lang="ko">全力坂</title>
+  </programme>
+  <programme start="20220915013500 +0900" stop="20220915020500 +0900" channel="NipponTV.jp">
+    <title lang="ko">東野・岡村の旅猿21</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <desc lang="ko">「タイで原点回帰の旅」第６話！　ほぼ３年ぶりの海外旅へ！行先は９年ぶりとなるタイで２人旅！果たしてどんな結末となるのか！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220914012600 +0900" stop="20220914015600 +0900" channel="Asahi.jp">
-  <title lang="ko">フリースタイルティーチャー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220914015600 +0900" stop="20220914021600 +0900" channel="Asahi.jp">
   <title lang="ko">ホリケンのみんなともだち</title>
     <rating system="MPAA">
@@ -3502,22 +3471,22 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914005800 +0900" stop="20220914012800 +0900" channel="TBS2.jp">
-  <title lang="ko">パパとムスメの7日間</title>
+<programme start="20220915013000 +0900" stop="20220915013600 +0900" channel="Asahi.jp">
+  <title lang="ko">全力坂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">大嫌いなパパとある日突然入れ替わっちゃうなんて！“パパとムスメとカレ” の奇妙な三角関係ラブコメディ 「パパとムスメと先輩の本当の７日間」</desc>
+    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914012800 +0900" stop="20220914015800 +0900" channel="TBS2.jp">
-  <title lang="ko">生き残った6人によると</title>
+<programme start="20220915013600 +0900" stop="20220915020600 +0900" channel="Asahi.jp">
+  <title lang="ko">Break Out</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ラジオから流れる救出活動開始のニュースに耳を傾けるシェアハウスの住人達――唐突に迎えた最後の夜に一同は…！？恋と生き残りをかけたサバイバルラブコメディ、最終回！</desc>
+    <desc lang="ko">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3704,33 +3673,22 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914003000 +0900" stop="20220914010000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">超特急、地球を救え。</title>
+<programme start="20220915012800 +0900" stop="20220915015800 +0900" channel="TBS2.jp">
+  <title lang="ko">ムビきゅん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">超特急　連続ドラマ初主演！モキュメンタリーSFドラマ◆超特急の新体制2日目、9人での初のライブについて全員で話し合うが、リーダーのリョウガはうまく意見をまとめられず</desc>
+    <desc lang="ko">『異動辞令は音楽隊！』特集第２弾！板橋駿谷が見どころから撮影裏話までを語り尽くす！二宮和也主演『ラーゲリより愛を込めて』新キャスト解禁＆最新映像到着！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914010000 +0900" stop="20220914013000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">SHОW激!今夜もドル箱</title>
+<programme start="20220915015800 +0900" stop="20220915020500 +0900" channel="TBS2.jp">
+  <title lang="ko">イベントGO!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">元祖パチンコ・バラエティー‼
-MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広げる。人気女性ライターも登場！最新パチンコ情報も満載。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220914013000 +0900" stop="20220914013500 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">番組の見どころを紹介します！</desc>
+    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4091,12 +4049,22 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914003500 +0900" stop="20220914010500 +0900" channel="FujiTV.jp">
-  <title lang="ko">オールドファッションカップケーキ</title>
+<programme start="20220915013000 +0900" stop="20220915020000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">お仕事search!それってグッジョブ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">［＃０４］死ぬほど好きな人</desc>
+    <desc lang="ko">かまいたちが話題の新商品や新サービスの裏側を学びながら、気ままにトーク▼今回はSNSで一時代を築き上げたミクシィ。今では別事業を拡大＆数々のヒットを生み出していた</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915020000 +0900" stop="20220915020500 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">番組の見どころを紹介します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4332,32 +4300,22 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914003000 +0900" stop="20220914010000 +0900" channel="Tokyo MX">
-  <title lang="ko">オーバーロードIV</title>
+<programme start="20220915010500 +0900" stop="20220915013500 +0900" channel="FujiTV.jp">
+  <title lang="ko">マブラヴ オルタネイティヴ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">シリーズ累計1100万部超！TV、劇場の大ヒットを経て待望の第4シリーズ</desc>
+    <desc lang="ko">束の間の停戦―仲間たちの想いを白銀武は訴える。煌武院悠陽は自らの手で忠臣たちを誅すると決意したが、その御前に御剣冥夜が現れ、姉妹の運命は再び交錯し…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914010000 +0900" stop="20220914010500 +0900" channel="Tokyo MX">
-  <title lang="ko">ハナビちゃんは遅れがち</title>
+<programme start="20220915013500 +0900" stop="20220915023500 +0900" channel="FujiTV.jp">
+  <title lang="ko">純愛ディソナンス</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ハナビ・バーサス・サンダーＶ…あの名機たちによるザンネン系お仕事コメディ開店‼</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220914010500 +0900" stop="20220914013500 +0900" channel="Tokyo MX">
-  <title lang="ko">MIX(ミックス)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">舞台は「タッチ」と同じ「明青学園」。「タッチ」の主人公「上杉達也」の伝説から約30年、今、運命の兄弟が物語の扉を開く…。</desc>
+    <desc lang="ko">友情に亀裂が入ったシェアハウス。正樹（中島裕翔）は愛菜美（比嘉愛未）が行方不明になっていると知り…。過去が幾つもの不協和音を生む中、新たな禍いが…。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4838,6 +4796,26 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">疲れて帰ってきた夜は、猫と過ごしたい。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915010500 +0900" stop="20220915013500 +0900" channel="Tokyo MX">
+  <title lang="ko">メイドインアビス 烈日の黄金郷</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">貴重な遺物が眠る秘境の大穴アビスを舞台に、少女リコと少年ロボットのレグの冒険を描く。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915013500 +0900" stop="20220915020500 +0900" channel="Tokyo MX">
+  <title lang="ko">異世界迷宮でハーレムを</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">この世界で、君と生きていく―― 原作・蘇我捨恥、漫画・氷樹一世（少年エース）による人気異世界ハーレムファンタジー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5567,7 +5545,7 @@ https//otn.fujitv.co.jp
 <programme start="20220914003500 +0900" stop="20220914020000 +0900" channel="kbsworld.jp">
 <title lang="ko">社長の耳はロバの耳　[字]</title>
 <desc>日本初放送！最新バラエティ！トップクラスの各界のボスたちと職員たちの日常に密着する考察バラエティ！2019年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220913/8954080/image/186927c3ebc9a1954471db65a59d8e6f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220914020000 +0900" stop="20220914031000 +0900" channel="kbsworld.jp">
