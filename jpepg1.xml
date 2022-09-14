@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220914143000 +0900" stop="20220914150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220914150000 +0900" stop="20220914160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士Zガンダム</title>
     <rating system="MPAA">
@@ -412,6 +402,18 @@
     <desc lang="ko">15「カツの出撃」
 16「白い闇を抜けて」
 反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915160000 +0900" stop="20220915170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">僕のヒーローアカデミア</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">103「一つ一つ」
+104「お久しぶりですセルキーさん」
+少年・デクはヒーロー科1年A組のクラスメイトと切磋琢磨する毎…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -990,7 +992,7 @@ https//otn.fujitv.co.jp
 <desc>第811話「ここで待つ ルフィvs怒りの軍団」　（地上波放送日　2017年10月29日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220914/8976314/image/8d3337d2216d95c925baa17fd72af1bf.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220914160000 +0900" stop="20220914162500 +0900" channel="FujiTwo.jp">
@@ -1547,46 +1549,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220914145000 +0900" stop="20220914150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みみより!くらし解説</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">家族に認知症の症状が見られたら、どう接したらよいのだろうか？患者本人に見えている世界を周りが理解することで適切な対応ができる場合も。具体的な対処方法を紹介する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220914150000 +0900" stop="20220914150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220914150700 +0900" stop="20220914151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220914151000 +0900" stop="20220914155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2022年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">【解説】正面（十両）…楯山（元誉富士），【アナウンサー】正面（十両）…大坂敏久　〜国技館から中継〜</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220914155500 +0900" stop="20220914180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">大相撲(2022年)</title>
     <rating system="MPAA">
@@ -2117,22 +2079,32 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220914143000 +0900" stop="20220914150000 +0900" channel="eTele.jp">
-    <title lang="ko">将棋フォーカス</title>
+  <programme start="20220915150700 +0900" stop="20220915151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">将棋観戦や講座で欠かせないのが棋士解説。指し手の個性を踏まえた解説はもちろん、漫才のような解説、解説者同士の個性がぶつかり合うトークなどオモシロ解説を厳選！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220914150000 +0900" stop="20220914153000 +0900" channel="eTele.jp">
-    <title lang="ko">囲碁フォーカス</title>
+  <programme start="20220915151000 +0900" stop="20220915155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">大相撲(2022年)</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">鈴木伸二七段のバランス講座、今回は「シッカリ石を強くする」。「フォーカス・オン」は「仲邑菫二段　初タイトルなるか！第７回女流最強戦」。</desc>
+    <desc lang="ko">【解説】正面（十両）…富士ヶ根（元大善），【アナウンサー】正面（十両）…三瓶宏志　〜国技館から中継〜</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220915155500 +0900" stop="20220915180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">大相撲(2022年)</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">（４１０）「幕内取組」　【解説】正面（幕内）…舞の海秀平，向正面（幕内）…友綱（元魁聖），【アナウンサー】正面（幕内）…佐藤洋之ほか</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2927,12 +2899,32 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220914135500 +0900" stop="20220914155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20220915152500 +0900" stop="20220915153000 +0900" channel="eTele.jp">
+    <title lang="ko">5分でみんなの手話</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽台風１４号発生へ…最新情報▽エリザベス女王の棺ロンドンへ…現地中継▽北朝鮮で注目集める２人の女性…名物アナに新称号＆約１００万回再生！？１１歳ユーチューバー</desc>
+    <desc lang="ko">２０２１年度に放送したＥテレ「みんなの手話」から１つのキーフレーズをピックアップ。「剣道とクレー射撃だよ」を覚えましょう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220915153000 +0900" stop="20220915160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">シリーズ「バリフリ・タウン」。認知症当事者が人生初のウインドサーフィンに挑戦！？　果たして実現できるのか？　京都で始まった認知症バリアフリーの取り組みを紹介！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220915160000 +0900" stop="20220915161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3170,16 +3162,16 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220914145100 +0900" stop="20220914154800 +0900" channel="Asahi.jp">
-  <title lang="ko">刑事7人8</title>
+  <programme start="20220915155000 +0900" stop="20220915190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「遺産１００億円の夫殺し？禁断…天樹に迫る謎の美女」東山紀之(他)▽資産家男性の遺体が自宅の浴室で発見された。妻にはアリバイがあったが、次々と証言と食い違う事実が…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220914154800 +0900" stop="20220914164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season18</title>
     <rating system="MPAA">
@@ -3471,12 +3463,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914135500 +0900" stop="20220914154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20220915154800 +0900" stop="20220915164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season18</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼スズメバチ被害相談が急増　新たな外来スズメバチが福岡定着の恐れ▼特定外来生物「アゾラ」とは？▼『園児置き去り事件』バスを現場に運び車内温度などを検証(他)(予定）</desc>
+    <desc lang="ko">「アレスの進撃〜杉下右京、失踪する」水谷豊、反町隆史(他)▽右京が消息を絶って１週間が経過していた。右京のスマホが秋田の海岸に流れ着いたと知り、亘は捜索を始めるが…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3663,12 +3655,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914134000 +0900" stop="20220914154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20220915154900 +0900" stop="20220915190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「００７／慰めの報酬」のオルガ・キュリレンコ主演！国家の陰謀に巻き込まれた美しき女、アレックス。彼女を狙う襲撃者との壮絶な戦いの行方は！？痛快スパイアクション！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4038,13 +4030,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914144500 +0900" stop="20220914154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ガリレオ</title>
+<programme start="20220915154000 +0900" stop="20220915165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「念波る（おくる）距離２００キロの目撃者！双子の神秘」
-福山雅治　吉高由里子　渡辺いっけい　澤部佑　桐谷健太　桐谷美玲　ほか</desc>
+    <desc lang="ko">大人のドライブ旅！今回は静岡県・富士山の麓で、澄んだ水が創り出す「水景色」を眺めながら、名水で作る手打ちそばや雪解け水にさらしたウナギの絶品うな重も満喫します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4290,22 +4281,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220914145900 +0900" stop="20220914150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220915154500 +0900" stop="20220915190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220914150000 +0900" stop="20220914150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4806,6 +4787,26 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915150500 +0900" stop="20220915160000 +0900" channel="Tokyo MX">
+  <title lang="ko">王朝の謀略 周新と10の怪事件</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">実際に起こった10の難事件からなる、傑作推理時代劇！“鉄面御史（てつめんぎょし）”こと名捜査官・周新（しゅう・しん）が悪と、陰謀に立ち向かう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220915160000 +0900" stop="20220915163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5384,7 +5385,7 @@ https//otn.fujitv.co.jp
 <desc>第811話「ここで待つ ルフィvs怒りの軍団」　（地上波放送日　2017年10月29日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220914/8976314/image/8d3337d2216d95c925baa17fd72af1bf.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220914160000 +0900" stop="20220914162500 +0900" channel="FujiTwo.jp">
