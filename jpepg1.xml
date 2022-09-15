@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220916033000 +0900" stop="20220916040000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220916040000 +0900" stop="20220916050000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ルパン三世(PART2)</title>
     <rating system="MPAA">
@@ -415,6 +405,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220917050000 +0900" stop="20220917060000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士Zガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">17「ホンコン・シティ」
+18「とらわれたミライ」
+反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティタ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220916000000 +0900" stop="20220916022500 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ　GS 第6節　札幌×鳥栖</title>
 <desc>グループステージ 第6節 Cグループ「北海道コンサドーレ札幌 vs サガン鳥栖」
@@ -436,7 +438,7 @@
 <title lang="ko">ラーメンWalker TV2　300　第300話記念SP！</title>
 <desc>第300話記念SP！ サニーデイ・サービス田中貴のツアーラーメン日記
 ＜出演＞田中貴（サニーデイ・サービス）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220915/9022819/image/01fdee7cb26f33316549a132cd3e20ed.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220916050000 +0900" stop="20220916060000 +0900" channel="FujiNext.jp">
@@ -1290,7 +1292,7 @@ https//otn.fujitv.co.jp
 <programme start="20220916042000 +0900" stop="20220916050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　11　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220915/8957339/image/f0e454679945f8aefd879430a9c06d79.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220916050000 +0900" stop="20220916060000 +0900" channel="kbsworld.jp">
@@ -1675,36 +1677,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220916033500 +0900" stop="20220916040000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2022年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220916040000 +0900" stop="20220916041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニッポンの里山 ふるさとの絶景に出会う旅</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世界農業遺産の能登半島・白米千枚田。農家以外のサポーターが全国から作業を手伝いにくる。番組スタッフも１年間、農作業に携わり体験してみると素敵な魅力が見えてきた。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220916041000 +0900" stop="20220916042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">地域経済を支える中小企業の後継者不足による倒産や廃業が相次ぐ中、後継者確保の新しい仕組み「サーチファンド」が注目されている。事業承継の実例をもとに解説。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220916042000 +0900" stop="20220916050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">国際報道2022</title>
     <rating system="MPAA">
@@ -2231,6 +2203,46 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">緊急時ＡＩ英語字幕やＮＨＫワールドＪＡＰＡＮアプリによるプッシュ通知、ライブストリーミングの多言語字幕など、「在留外国人向け災害情報サービス」について紹介する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220917040500 +0900" stop="20220917041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「モンキーパズル」うた堀江美都子／「ありがとサンキュ〜」うたイクエ＆カケロマンズ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220917041000 +0900" stop="20220917042000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">時論公論</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">北朝鮮が日本人拉致を認めた日朝首脳会談から２０年。横田めぐみさんら拉致被害者の帰国は実現しておらず、被害者や家族の高齢化が進む。進展に何が必要か、家族の思いは。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220917042000 +0900" stop="20220917050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">国際報道2022</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ウクライナ情勢▽イタリア総選挙・ロシア制裁慎重派が台頭か・揺らぐ欧州の結束▽日本の外交▽ＷＯＷ！　※変更の可能性あり</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220917050000 +0900" stop="20220917051000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3025,26 +3037,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220916032900 +0900" stop="20220916042900 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレポシュレ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ポシュレの上期総決算SP！お客様に感謝を込めて、人気商品をプライスダウン、増量、送料無料などなど決算ならではのお得満載でお送りします！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220916042900 +0900" stop="20220916043000 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレみどころ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220916043000 +0900" stop="20220916055000 +0900" channel="NipponTV.jp">
     <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
@@ -3279,26 +3271,16 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220916033000 +0900" stop="20220916040000 +0900" channel="Asahi.jp">
-  <title lang="ko"></title>
+  <programme start="20220917042000 +0900" stop="20220917052000 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレポシュレ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
+    <desc lang="ko">ポシュレの上期総決算SP！お客様に感謝を込めて、人気商品をプライスダウン、増量、送料無料などなど決算ならではのお得満載でお送りします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220916040000 +0900" stop="20220916045500 +0900" channel="Asahi.jp">
-  <title lang="ko">暴れん坊将軍III</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「地獄へ道連れ！美女と将軍」松平健(他)▽め組の連中と料亭で飲んでいた吉宗は、“明後日の法要は大変な騒ぎになる”という隣の座敷での会話を聞いてしまった。その直後…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220916045500 +0900" stop="20220916080000 +0900" channel="Asahi.jp">
   <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
@@ -3539,12 +3521,22 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220916034500 +0900" stop="20220916043000 +0900" channel="TBS2.jp">
-  <title lang="ko">TBS NEWS</title>
+<programme start="20220917042500 +0900" stop="20220917045000 +0900" channel="Asahi.jp">
+  <title lang="ko">渡辺篤史の建もの探訪</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+    <desc lang="ko">「田園と富士山を望む広々縁側の家」神奈川県小田原市・白土邸</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220917045000 +0900" stop="20220917052000 +0900" channel="Asahi.jp">
+  <title lang="ko">テレメンタリー2022</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">石川県の星稜高校を春夏合わせて25回の甲子園出場に導いた名将、山下智茂さん(77)。17年ぶりに指導者として復帰したのは、自分の母校である門前高校。最後の挑戦を追った。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3785,22 +3777,23 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220916035500 +0900" stop="20220916040500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ラビッツ インベージョン</title>
+<programme start="20220917041500 +0900" stop="20220917044500 +0900" channel="TBS2.jp">
+  <title lang="ko">開運音楽堂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">海辺で素敵な海パンをはいている人に遭遇し、自分は何もはいていないことに気づいてしまったラビッツ。最後に一番素敵なパンティーを手に入れるのは!?</desc>
+    <desc lang="ko">821と書いて「ハニー」。メンバーのリコが開運スタジオ初登場!!「ホリプロタレントスカウトキャラバン」から選出された逸材▽『動物部』可愛いワンちゃん走る!噛む!</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220916040500 +0900" stop="20220916042300 +0900" channel="TVTokyo.jp">
+<programme start="20220917044500 +0900" stop="20220917051500 +0900" channel="TBS2.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">通販番組（ＴＶショッピング）
+</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4214,42 +4207,25 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220916033500 +0900" stop="20220916040500 +0900" channel="FujiTV.jp">
+<programme start="20220917040500 +0900" stop="20220917043000 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220916040500 +0900" stop="20220916042000 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
+<programme start="20220917043000 +0900" stop="20220917055500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ものスタ サタデー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220916042000 +0900" stop="20220916042500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220916042500 +0900" stop="20220916045500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4455,22 +4431,43 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220916033400 +0900" stop="20220916040000 +0900" channel="Tokyo MX">
-  <title lang="ko">週刊バイクTV</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">バイク本来の持っている自由な楽しさや素晴らしさを、ライダーだけでなく、バイクに乗ったことない方にもお伝えするバイク情報番組。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220916040000 +0900" stop="20220916043000 +0900" channel="Tokyo MX">
+<programme start="20220917040500 +0900" stop="20220917043500 +0900" channel="FujiTV.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220917043500 +0900" stop="20220917045000 +0900" channel="FujiTV.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220917045000 +0900" stop="20220917045200 +0900" channel="FujiTV.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220917045200 +0900" stop="20220917052200 +0900" channel="FujiTV.jp">
+  <title lang="ko">テレビ寺子屋</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「いまこそ新しい自分へ」
+為末大（元陸上選手）</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4976,6 +4973,26 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220917043000 +0900" stop="20220917050000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220917050000 +0900" stop="20220917053000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220916000000 +0900" stop="20220916022500 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 JリーグYBCルヴァンカップ　GS 第6節　札幌×鳥栖</title>
 <desc>グループステージ 第6節 Cグループ「北海道コンサドーレ札幌 vs サガン鳥栖」
@@ -4997,7 +5014,7 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
 <title lang="ko">ラーメンWalker TV2　300　第300話記念SP！</title>
 <desc>第300話記念SP！ サニーデイ・サービス田中貴のツアーラーメン日記
 ＜出演＞田中貴（サニーデイ・サービス）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220915/9022819/image/01fdee7cb26f33316549a132cd3e20ed.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220916050000 +0900" stop="20220916060000 +0900" channel="FujiNext.jp">
@@ -5851,7 +5868,7 @@ https//otn.fujitv.co.jp
 <programme start="20220916042000 +0900" stop="20220916050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　11　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220915/8957339/image/f0e454679945f8aefd879430a9c06d79.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220916050000 +0900" stop="20220916060000 +0900" channel="kbsworld.jp">
