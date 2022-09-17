@@ -1377,7 +1377,17 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220918060000 +0900" stop="20220918061500 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220918060000 +0900" stop="20220918061000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220918061000 +0900" stop="20220918061500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
