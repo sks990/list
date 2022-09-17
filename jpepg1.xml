@@ -244,6 +244,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220918170000 +0900" stop="20220918180000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">進撃の巨人 Season 3</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">6「罪」7「願い」
+人類が永きに亘って壁の中に隠してきた、大いなる秘密。その真実に一歩近づいた調査兵団だったが…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220917000000 +0900" stop="20220917000500 +0900" channel="FujiNext.jp">
 <title lang="ko">フジサンケイレディスクラシック ハイライト　10「2012年優勝 大江香織」</title>
 <desc>2012年優勝 大江香織
@@ -328,7 +339,7 @@ https//otn.fujitv.co.jp
 <programme start="20220917150000 +0900" stop="20220917170000 +0900" channel="FujiNext.jp">
 <title lang="ko">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村第136夜ももいろフォーク村10</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助＝しおこうじ×ダウンタウンしおこうじバンド！ももいろフォーク村10周年＝ももいろクローバーＺが読む過去演目リクエスト大会！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220917/9022848/image/1df1e590e978b989db769a5af8f6a3d8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220917170000 +0900" stop="20220917173000 +0900" channel="FujiNext.jp">
@@ -569,7 +580,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">千原ジュニアの座王　18　　　千原ジュニアがMCを務める、新感覚お笑い番組</title>
 <desc>「即興芸人NO.1決定戦」その場で思いついたネタでガチンコ勝負！負ければ即退場の“お笑い十種競技”
 ▽カンテレの人気番組！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220917/9022632/image/01d1af243a1f2ca7131264b06952675a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220917170000 +0900" stop="20220917180000 +0900" channel="FujiOne.jp">
@@ -1265,16 +1276,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220917150500 +0900" stop="20220917160000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2022年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">【解説】正面（十両）…熊ヶ谷（元玉飛鳥），【アナウンサー】正面（十両）…髙木優吾　〜国技館から中継〜</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220917160000 +0900" stop="20220917180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">大相撲(2022年)</title>
     <rating system="MPAA">
@@ -1965,26 +1966,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220917160000 +0900" stop="20220917164500 +0900" channel="eTele.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220917164500 +0900" stop="20220917165500 +0900" channel="eTele.jp">
-    <title lang="ko">あの人の極上ハンバーグ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">精肉店、チーズ工房、ソムリエ、僧侶。さまざまな人の自慢のハンバーグを紹介するミニ番組シリーズ。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220917165500 +0900" stop="20220917170000 +0900" channel="eTele.jp">
     <title lang="ko">ブレッド図書館（ライブラリー）</title>
     <rating system="MPAA">
@@ -2425,12 +2406,22 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220917155500 +0900" stop="20220917165500 +0900" channel="NipponTV.jp">
-    <title lang="ko">BMXフリースタイル全日本選手権</title>
+  <programme start="20220918165000 +0900" stop="20220918170000 +0900" channel="eTele.jp">
+    <title lang="ko">ネイティブが使う順!英会話ランキングリッシュ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">パリ五輪出場を目指す日本最高峰の選手達が挑む日本一決定戦！</desc>
+    <desc lang="ko">英語ネイティブスピーカーの会話、１億語を集めたデータベースをもとに、実際に使われているフレーズをランキング化！１位から順に効率よく英語を基礎から学べます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220918170000 +0900" stop="20220918172500 +0900" channel="eTele.jp">
+    <title lang="ko">ニャンちゅう!宇宙!放送チュー!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">地球ネコ「ニャンちゅう」と宇宙人の仲間たちが、月にある放送カーから番組を放送チュー！地球の魅力を全宇宙に向けて発信します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2775,27 +2766,27 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220917153000 +0900" stop="20220917160000 +0900" channel="Asahi.jp">
-  <title lang="ko">まだアプデしてないの?</title>
+  <programme start="20220918162500 +0900" stop="20220918165500 +0900" channel="NipponTV.jp">
+    <title lang="ko">所さんの目がテン!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">大人なら答えられて当然？なにわ男子が人気芸人チームと常識力を試すクイズでガチンコ対決！白熱の展開となった後半戦、勝負の行方は果たして…!?</desc>
+    <desc lang="ko">日本の環境保全の重要なキーワード『森里川海』って何？▽かがくの里・森と川をつなぐ新プロジェクト▽未公開・奄美の貴重な生き物▽沖縄の海を守るサンゴの保全活動に密着</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220917160000 +0900" stop="20220917163000 +0900" channel="Asahi.jp">
-  <title lang="ko">裸の少年</title>
+  </programme>
+  <programme start="20220918165500 +0900" stop="20220918172500 +0900" channel="NipponTV.jp">
+    <title lang="ko">サンデーPUSHスポーツ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">HiHi Jetsと美 少年の真剣勝負、〜バトるHiHi少年〜
-今回のミッションは…『レトロゲーム最強王決定戦！！』</desc>
+    <desc lang="ko">サッカーW杯まで2か月!2週連続サッカー日本代表SP!
+第1弾は2大会連続W杯でのゴールを目指す原口元気を特集!ドイツ生活を支える妻との絆…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220917163000 +0900" stop="20220917170000 +0900" channel="Asahi.jp">
   <title lang="ko">クレヨンしんちゃん</title>
     <rating system="MPAA">
@@ -3188,12 +3179,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220917150000 +0900" stop="20220917160000 +0900" channel="TBS2.jp">
-  <title lang="ko">不夜城はなぜ回る</title>
+<programme start="20220918161500 +0900" stop="20220918172500 +0900" channel="Asahi.jp">
+  <title lang="ko">路線バスで寄り道の旅</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">深夜明かりが灯る場所…その中で一体何が？体当たり取材し謎解明！▽埼玉某所の山奥で深夜に灯り…ブルーシートに覆われた謎の物体が！？長野で深夜鳴り響く音の正体は？🈑</desc>
+    <desc lang="ko">日頃秒刻みスケジュールに疲れ気味の徳さん御一行。のんび〜り旅を味わうために選んだのは“路線バス”。今回は、六本木〜銀座〜渋谷の昔から続く歴史ある場所を巡る旅！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3565,25 +3556,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220917150000 +0900" stop="20220917160000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ウイニング競馬</title>
+<programme start="20220918170000 +0900" stop="20220918173000 +0900" channel="TBS2.jp">
+  <title lang="ko">じゅじゅTV</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【中山】10Ｒ御宿特別
-　11Ｒ初風ステークス
-【中京】10Ｒ大府特別
-　11Ｒケフェウスステークス</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220917160000 +0900" stop="20220917164500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">世界!ニッポン行きたい人応援団</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">“たけのこ”を愛してやまないアメリカのデイヴィッドさんと「ぜひコラボしたい！」と番組にオファーが！ある有名企業が彼のためにオリジナル商品を開発し届けちゃった！</desc>
+    <desc lang="ko">「呪術廻戦」を愛する芸人３人が、熱いトークを繰り広げる３０分▼虎杖、伏黒、釘崎役の声優３人が、自身の演じたシーンの中からベスト３を選出▼第２期に関するトークも⁉</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4038,37 +4016,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220917153000 +0900" stop="20220917160000 +0900" channel="FujiTV.jp">
-  <title lang="ko">サタフト〜LIFE WITH FOOTBALL〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">マンデーフットボールが進化し土曜日に復活！コアなファンもライト層も大満足の内容でカタールＷ杯の見所紹介！第２回はＳＰゲスト川口能活とＧＫを大特集！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220917160000 +0900" stop="20220917162500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">月曜夜７時は…石橋貴明主催「２億４千万のものまねメドレー」復活！レジェンドＶＳ超新星▼一流コント師たちが爆笑新キャラで競い合う▼今日は過去ＧＰ４本立て</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220917162500 +0900" stop="20220917163000 +0900" channel="FujiTV.jp">
-  <title lang="ko">フジナビ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">フジテレビのおすすめ番組をこっそり視聴者のあなたにナビゲート。
-見逃せない番組の見どころを紹介しちゃいます！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220917163000 +0900" stop="20220917173000 +0900" channel="FujiTV.jp">
   <title lang="ko">多数派発見バラエティ ドマンナカ</title>
     <rating system="MPAA">
@@ -4433,22 +4380,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220917155900 +0900" stop="20220917160000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220918160500 +0900" stop="20220918172000 +0900" channel="FujiTV.jp">
+  <title lang="ko">第53回住友生命Vitalityレディス 東海クラシック</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220917160000 +0900" stop="20220917163000 +0900" channel="Tokyo MX">
-  <title lang="ko">1×8いこうよ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京ベイゾーン先取り観光③　チームラボ　ボーダレス</desc>
+    <desc lang="ko">国内女子ゴルフツアー「第５３回住友生命Ｖｉｔａｌｉｔｙレディス東海クラシック最終日」。５３回目の女王の座につくのは？ニューヒロイン誕生の瞬間をお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4973,6 +4910,26 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220918163000 +0900" stop="20220918170000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220918170000 +0900" stop="20220918175500 +0900" channel="Tokyo MX">
+  <title lang="ko">探偵!ナイトスクープ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220917000000 +0900" stop="20220917000500 +0900" channel="FujiNext.jp">
 <title lang="ko">フジサンケイレディスクラシック ハイライト　10「2012年優勝 大江香織」</title>
 <desc>2012年優勝 大江香織
@@ -5057,7 +5014,7 @@ https//otn.fujitv.co.jp
 <programme start="20220917150000 +0900" stop="20220917170000 +0900" channel="FujiNext.jp">
 <title lang="ko">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村第136夜ももいろフォーク村10</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助＝しおこうじ×ダウンタウンしおこうじバンド！ももいろフォーク村10周年＝ももいろクローバーＺが読む過去演目リクエスト大会！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220917/9022848/image/1df1e590e978b989db769a5af8f6a3d8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220917170000 +0900" stop="20220917173000 +0900" channel="FujiNext.jp">
@@ -5298,7 +5255,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">千原ジュニアの座王　18　　　千原ジュニアがMCを務める、新感覚お笑い番組</title>
 <desc>「即興芸人NO.1決定戦」その場で思いついたネタでガチンコ勝負！負ければ即退場の“お笑い十種競技”
 ▽カンテレの人気番組！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220917/9022632/image/01d1af243a1f2ca7131264b06952675a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220917170000 +0900" stop="20220917180000 +0900" channel="FujiOne.jp">
