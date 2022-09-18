@@ -799,7 +799,7 @@ https//otn.fujitv.co.jp
 <programme start="20220918133500 +0900" stop="20220918135000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな情報</title>
 <desc>各種おトクな情報をお届けしております！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220918/9022776/image/4fb41881181bfd6963d349c07f4fde0d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220918135000 +0900" stop="20220918190000 +0900" channel="FujiTwo.jp">
@@ -1273,17 +1273,7 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220918160000 +0900" stop="20220918180000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2022年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">横綱大関陣が大苦戦！カド番で４敗の御嶽海　きょうの相手は若隆景　７戦全勝は平幕の北勝富士のみ　きょう遠藤戦　中入り企画　技を磨く〜元小結　若荒雄「はたき込み」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220918180000 +0900" stop="20220918180500 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220918160000 +0900" stop="20220918161500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
@@ -1293,12 +1283,22 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220918180500 +0900" stop="20220918184500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">超ギョギョッとサカナ★スター</title>
+  <programme start="20220918161500 +0900" stop="20220918180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">大相撲(2022年)</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日本各地でみかける淡水魚・ウグイ。どこにでもいるのであまり注目されないが、実は“魚類最強”かもしれない驚異の生命力を誇る。ウグイの驚きの生態をさかなクンが解説！</desc>
+    <desc lang="ko">横綱大関陣が大苦戦！カド番で４敗の御嶽海　きょうの相手は若隆景　７戦全勝は平幕の北勝富士のみ　きょう遠藤戦　中入り企画　技を磨く〜元小結　若荒雄「はたき込み」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220918180000 +0900" stop="20220918184500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1323,22 +1323,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220918190000 +0900" stop="20220918193000 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20220918190000 +0900" stop="20220918200000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース7</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「確かなニュース、いつでも　どこでも」　きょうの日本、世界の今　一歩先へ、一歩深く　テレビでもスマホでも　このニュースを届けたい</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220918193000 +0900" stop="20220918200000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ダーウィンが来た!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">陸を走るタコがいる！舞台は世界遺産・小笠原。海から岩場に上がると、走り回って獲物を探し、研究者も仰天の狩りを連発！タコがなぜ陸上で？常識破りのタコを大スクープ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5033,7 +5023,7 @@ https//otn.fujitv.co.jp
 <programme start="20220918133500 +0900" stop="20220918135000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな情報</title>
 <desc>各種おトクな情報をお届けしております！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220918/9022776/image/4fb41881181bfd6963d349c07f4fde0d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220918135000 +0900" stop="20220918190000 +0900" channel="FujiTwo.jp">
