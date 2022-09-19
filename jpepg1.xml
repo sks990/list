@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220920033000 +0900" stop="20220920040000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220920040000 +0900" stop="20220920055500 +0900" channel="ANIMAX.jp">
   <title lang="ko">東京ゴッドファーザーズ</title>
     <rating system="MPAA">
@@ -402,6 +392,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220921050000 +0900" stop="20220921060000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士Zガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">19「シンデレラ・フォウ」
+20「灼熱の脱出」
+反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターン…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220919222000 +0900" stop="20220920012000 +0900" channel="FujiNext.jp">
 <title lang="ko">シドニーマラソン2022　　　3年ぶりの復活開催！南半球最大のマラソン大会</title>
 <desc>＜開催＞2022年9月18日（日）【再放送】
@@ -570,7 +572,7 @@
 ＜司会＞ガダルカナル・タカ
 ＜解説＞井出洋介
 （地上波放送日　2004年5月7日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220919/9037575/image/befec84949cb787864ad391dfa66d873.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220920050000 +0900" stop="20220920053000 +0900" channel="FujiOne.jp">
@@ -1086,7 +1088,7 @@ https//otn.fujitv.co.jp
 <programme start="20220920042000 +0900" stop="20220920050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　12　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220919/9027477/image/fd46c9e10aec923d875d28ea525504e6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220920050000 +0900" stop="20220920060000 +0900" channel="kbsworld.jp">
@@ -2000,6 +2002,36 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20220921041000 +0900" stop="20220921042000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">時論公論</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">旧統一教会などをめぐり、国は被害対策の検討を進めている。しかし、検討が始まって１か月余りたっても具体的な対策は見えてこない。議論の状況、そして求められる対策は？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220921042000 +0900" stop="20220921050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">国際報道2022</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ウクライナ情勢▽ＥＶシフトで様変わりする米モーターショー背景には排ガス車規制▽「国の所蔵物は国民の財産」フランス国立図書館が新装オープン▽国連総会で首脳演説</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220921050000 +0900" stop="20220921060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょうのスタート、カラフルに！国内外で起きた最新ニュースをお届け！今日一日の気象情報、スポーツもコンパクトにまとめてお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20220920003000 +0900" stop="20220920053000 +0900" channel="eTele.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -2840,56 +2872,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220920034500 +0900" stop="20220920041500 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレポシュレ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ポシュレも上期決算で厳選３商品をご紹介！モリリン決算寝具、アートネイチャーLHスカルプヘッドスパプラス、ゼロトレスタイルアップタイツが決算価格！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220920041500 +0900" stop="20220920042000 +0900" channel="NipponTV.jp">
-    <title lang="ko">ボストン美術館展2022</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京都美術館で開催中のボストン美術館展の見どころをまとめてお届け。約10年ぶりの里帰りを果たした「幻の国宝」もたっぷりご紹介します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220920042000 +0900" stop="20220920042500 +0900" channel="NipponTV.jp">
-    <title lang="ko">HiGHLOW続編公開SP</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「HiGHLOW」と「WORST」のクロスオーバー映画『HiGHLOW THE WORST』の続編が全国公開中！映画の見どころを５分で紹介！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220920042500 +0900" stop="20220920042900 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレNEWS24</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220920042900 +0900" stop="20220920043000 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレみどころ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220920043000 +0900" stop="20220920055000 +0900" channel="NipponTV.jp">
     <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
@@ -3113,26 +3095,36 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220920033000 +0900" stop="20220920040000 +0900" channel="Asahi.jp">
-  <title lang="ko"></title>
+  <programme start="20220921042000 +0900" stop="20220921042500 +0900" channel="NipponTV.jp">
+    <title lang="ko">ボストン美術館展2022</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <desc lang="ko">東京都美術館で開催中のボストン美術館展の見どころをまとめてお届け。約10年ぶりの里帰りを果たした「幻の国宝」もたっぷりご紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220920040000 +0900" stop="20220920045500 +0900" channel="Asahi.jp">
-  <title lang="ko">暴れん坊将軍III</title>
+  </programme>
+  <programme start="20220921042500 +0900" stop="20220921043000 +0900" channel="NipponTV.jp">
+    <title lang="ko">HiGHLOW続編公開SP</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「め組の半次郎、純情す！」松平健(他)▽焼津藩江戸屋敷で何か騒動が起こっているとの報告を受けた吉宗。そんな中、め組の半次郎が頭の名代で焼津から戻ってきたのだが…</desc>
+    <desc lang="ko">「HiGHLOW」と「WORST」のクロスオーバー映画『HiGHLOW THE WORST』の続編が全国公開中！映画の見どころを５分で紹介！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
+  <programme start="20220921043000 +0900" stop="20220921055000 +0900" channel="NipponTV.jp">
+    <title lang="ko">Oha!4 NEWS LIVE</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
 <programme start="20220920045500 +0900" stop="20220920080000 +0900" channel="Asahi.jp">
   <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
@@ -3430,12 +3422,12 @@ by.Philip Jones Brass Ensemble</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220920034500 +0900" stop="20220920043000 +0900" channel="TBS2.jp">
-  <title lang="ko">TBS NEWS</title>
+<programme start="20220921045500 +0900" stop="20220921080000 +0900" channel="Asahi.jp">
+  <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+    <desc lang="ko">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3634,22 +3626,13 @@ by.Philip Jones Brass Ensemble</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220920035500 +0900" stop="20220920041000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">家、ついて行ってイイですか?(明け方)</title>
+<programme start="20220921043000 +0900" stop="20220921052000 +0900" channel="TBS2.jp">
+  <title lang="ko">THE TIME’</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220920041000 +0900" stop="20220920042300 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4019,32 +4002,25 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220920034000 +0900" stop="20220920041000 +0900" channel="FujiTV.jp">
+<programme start="20220921041800 +0900" stop="20220921042300 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220920041000 +0900" stop="20220920042500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
+<programme start="20220921042300 +0900" stop="20220921054500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ものスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220920042500 +0900" stop="20220920045500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4250,22 +4226,22 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220920033500 +0900" stop="20220920040000 +0900" channel="Tokyo MX">
-  <title lang="ko">ダイアンのガチで!ごめんやす</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「ダイアンに会いたい！」という人を募集し、その人のもとへガチで会いに行く“全国イチ視聴者との距離が近い”ロケバラエティ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220920040000 +0900" stop="20220920043000 +0900" channel="Tokyo MX">
+<programme start="20220921042500 +0900" stop="20220921045500 +0900" channel="FujiTV.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220921045500 +0900" stop="20220921052500 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざましテレビ全部見せ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4741,6 +4717,26 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220921043000 +0900" stop="20220921050000 +0900" channel="Tokyo MX">
+  <title lang="ko">うたなび!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220921050000 +0900" stop="20220921053000 +0900" channel="Tokyo MX">
+  <title lang="ko">日本グレートスポット紀行 season2</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">不思議博物館　本館　編</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220919222000 +0900" stop="20220920012000 +0900" channel="FujiNext.jp">
 <title lang="ko">シドニーマラソン2022　　　3年ぶりの復活開催！南半球最大のマラソン大会</title>
 <desc>＜開催＞2022年9月18日（日）【再放送】
@@ -4909,7 +4905,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 ＜司会＞ガダルカナル・タカ
 ＜解説＞井出洋介
 （地上波放送日　2004年5月7日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220919/9037575/image/befec84949cb787864ad391dfa66d873.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220920050000 +0900" stop="20220920053000 +0900" channel="FujiOne.jp">
@@ -5425,7 +5421,7 @@ https//otn.fujitv.co.jp
 <programme start="20220920042000 +0900" stop="20220920050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　12　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220919/9027477/image/fd46c9e10aec923d875d28ea525504e6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220920050000 +0900" stop="20220920060000 +0900" channel="kbsworld.jp">
