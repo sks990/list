@@ -63,28 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220919210000 +0900" stop="20220919221500 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ワンピース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">航海を続けるルフィ達は、海賊エルドラゴに捕まっていた少年・トビオを助ける。トビオは世界の黄金の３分の１を奪い尽く…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220919221500 +0900" stop="20220919223000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ぼのぼの</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">261「ピッポさんとでっぷさん」
-262「でっぷさんとピッポさん」
-ラッコの子ども“ぼのぼの”とシマリスくんやスナド…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220919223000 +0900" stop="20220919230000 +0900" channel="ANIMAX.jp">
   <title lang="ko">名探偵コナン</title>
     <rating system="MPAA">
@@ -401,6 +379,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220920230000 +0900" stop="20220921000000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">夏目友人帳 参</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> 9「秋風切って」
+10「割れた鏡」
+妖怪が見える少年・夏目貴志は、祖母・レイコの遺品から“友人帳”という、レイコ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220919000000 +0900" stop="20220919010000 +0900" channel="FujiNext.jp">
 <title lang="ko">NSP中村貴之・平賀和人へきくちから！天野滋17回忌の日、和やかにNSP音楽雑談</title>
 <desc>NSP中村貴之・平賀和人と天野滋が遺した『僕らの音楽』と、30周年ツアー初日の『フォーク・デイズ』伝説の北とぴあコンサート。アルフィー坂崎幸之助と当時の対談も。
@@ -706,7 +696,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【9月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220919/9037569/image/da4ab0c112c798a2b0e4659e62a2f9a7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220919230000 +0900" stop="20220920000000 +0900" channel="FujiOne.jp">
@@ -1468,16 +1458,6 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220919210000 +0900" stop="20220919220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽台風１４号・列島広範囲に影響？進路や備え解説▽エリザベス女王国葬現地・世界の受け止めは？生中継で詳報</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220919220000 +0900" stop="20220919230000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">僕の最後の歌を、届けたい 密着 財津和夫/TULIPラストツアー</title>
     <rating system="MPAA">
@@ -1948,32 +1928,22 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220919215500 +0900" stop="20220919220000 +0900" channel="eTele.jp">
-    <title lang="ko">まる得マガジン</title>
+  <programme start="20220920224500 +0900" stop="20220920230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">あなたのブツが、ここに</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">毎日の食事作りで頭を悩ませるのが副菜。時間がある時にまとめて作る、野菜ときのこを使った副菜の“カラフルつくりおき”を色別に８回にわたってお伝えします。</desc>
+    <desc lang="ko">夏休み、公園で遊ぶ咲妃（毎田暖乃）に、元夫・祐二（平埜生成）が密かに近づいていた。一方、マルカ運輸では、峯田（佐野晶哉）が子供を巻き込む事故を起こしてしまう。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220919220000 +0900" stop="20220919222500 +0900" channel="eTele.jp">
-    <title lang="ko">グレーテルのかまど</title>
+  <programme start="20220920230000 +0900" stop="20220920233000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ニッポン知らなかった選手権 実況中!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">淡路島でわらび餅を売り歩く１０１歳のおっちゃんに密着！夫婦二人三脚で守り続ける、モチモチぷるぷるの、深〜い味わいをご紹介！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220919222500 +0900" stop="20220919225000 +0900" channel="eTele.jp">
-    <title lang="ko">100分de名著</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">フクロウのカムイの視点で描かれる「銀の滴」は、最も謎の多い神謡だといわれている。その謎は、アイヌの世界観や知里幸恵の思いに寄り添うと解けていくという。</desc>
+    <desc lang="ko">企業や業界団体が内輪で開催するスキルアップのための知られざる技術大会に大量のカメラを投入！！▽戦いの現場を勝手に高速実況！その超絶ワザのすごさと魅力に迫ります！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2778,12 +2748,12 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220919215400 +0900" stop="20220919220000 +0900" channel="NipponTV.jp">
-    <title lang="ko">The Gift</title>
+  <programme start="20220920224500 +0900" stop="20220920231500 +0900" channel="eTele.jp">
+    <title lang="ko">コズミックフロントΩ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">旬の有名人がお世話になった人へ…ギフト選びに密着するバラエティ。モデルの村上愛花さんはプライベートでも仲がいい親友、日向坂４６の佐々木久美さんへギフトを贈る。</desc>
+    <desc lang="ko">広大な宇宙でなぜ地球にだけ豊かな生命が育まれたのか。その原点ともいえる「地球誕生の壮大なシナリオ」が、日本人研究者たちによって解き明かされつつある。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3055,6 +3025,26 @@ Jun. K(2PM)、イ・ギグァン(HIGHLIGHT)出演！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">なぜ日航機をハイジャックしたのか？人質151人6日間の攻防…社会への不満怒りを爆発させた衝撃の犯行の真実▽熱かった日大全共闘…学生たちは何に怒ったのか？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220920225400 +0900" stop="20220920230000 +0900" channel="NipponTV.jp">
+    <title lang="ko">つながるまちかど</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">街角で見つけた、心温まる“やさしいコトバ”を、そのエピソードとともにご紹介します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220920230000 +0900" stop="20220920235900 +0900" channel="NipponTV.jp">
+    <title lang="ko">news zero</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3367,16 +3357,6 @@ by.Rei Harakami</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220919214500 +0900" stop="20220919225700 +0900" channel="TBS2.jp">
-  <title lang="ko">不夜城はなぜ回る</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東野幸治＆山里亮太が仰天！深夜明かりが灯る場所の中で一体何が？▽都内ガレージを突撃したらなぜか仙台へ…衝撃結末▽熊本で超美味い伝統食作り続ける男に遭遇！🈑</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220919225700 +0900" stop="20220919230000 +0900" channel="TBS2.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -3549,24 +3529,22 @@ by.Rei Harakami</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220919215400 +0900" stop="20220919220000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">東京GOOD!</title>
+<programme start="20220920225700 +0900" stop="20220920230000 +0900" channel="TBS2.jp">
+  <title lang="ko">GoNEXT-未来へ駆けぬける-</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">東京の隠れた魅力を紹介する番組。歴史ある場所、施設、イベントや人など、様々な「GOOD!」と出会います。出会った「GOOD!」は番組公式インスタグラムにも投稿されます。</desc>
+    <desc lang="ko">時代の先駆者たちが切り拓いてきた道を辿り、「未来」への想いに迫るヒューマン・ドキュメンタリー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220919220000 +0900" stop="20220919225800 +0900" channel="TVTokyo.jp">
-  <title lang="ko">WBS</title>
+<programme start="20220920230000 +0900" stop="20220920235600 +0900" channel="TBS2.jp">
+  <title lang="ko">news23</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼英国王室“御用達”の実力とは
-▼台風１４号最新情報
-▼“バズる広告”で急成長！</desc>
+    <desc lang="ko">メインキャスター小川彩佳と国山ハセンアナウンサーが、番組独自の調査報道からＺ世代に刺さるカルチャーまで明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3958,23 +3936,12 @@ by.Rei Harakami</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220919215400 +0900" stop="20220919220000 +0900" channel="FujiTV.jp">
-  <title lang="ko">四季彩キッチン</title>
+<programme start="20220920225800 +0900" stop="20220920230600 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">林修先生が“旬の食材”を入口に日本の農業の“いま”をプレゼンテーション！今回は、鳥取県の梨・新甘泉（しんかんせん）を紹介します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220919220000 +0900" stop="20220919225400 +0900" channel="FujiTV.jp">
-  <title lang="ko">魔法のリノベ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「ラストプレゼン！梅玄コンビの決断は？」
-波瑠　間宮祥太朗　原田泰造　遠藤憲一</desc>
+    <desc lang="ko">９月３０日(金)に開幕する「世界卓球」。絶対的エース水谷隼が引退して迎える初めての団体戦。「勝てない選手はエースと名乗っちゃだめ」張本智和、真のエースへ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4220,22 +4187,22 @@ by.Rei Harakami</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220919215400 +0900" stop="20220919220000 +0900" channel="Tokyo MX">
-  <title lang="ko">別冊オリンピア・キュクロス</title>
+<programme start="20220920225400 +0900" stop="20220920230000 +0900" channel="FujiTV.jp">
+  <title lang="ko">体感!サステナWAVE</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">古代ギリシャと昭和・日本を繋ぐ、ヤマザキマリの意欲作が待望の映像化！しかも主役は粘土…⁉あらゆる面で新機軸のアニメ（⁉）、乞うご期待。</desc>
+    <desc lang="ko">宮司愛海アナが体感！空き缶のプルタブを編んでいくと…コースターが完成。缶の色を上手に利用してデザインのアクセントに。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220919220000 +0900" stop="20220919223000 +0900" channel="Tokyo MX">
-  <title lang="ko">風都探偵</title>
+<programme start="20220920230000 +0900" stop="20220920233000 +0900" channel="FujiTV.jp">
+  <title lang="ko">セブンルール</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">翔太郎とフィリップ。ふたりの探偵には、もう一つの顔がある</desc>
+    <desc lang="ko">冨永愛、秋元梢…トップモデルが絶賛する『ＶＯＧＵＥ　ＪＡＰＡＮ』編集長、ティファニー・ゴドイに密着▽ファッション業界を牽引し流行と未来を創る彼女の７つのルール</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4703,6 +4670,26 @@ by.Rei Harakami</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220920222900 +0900" stop="20220920230000 +0900" channel="Tokyo MX">
+  <title lang="ko">SDガンダムワールド ヒーローズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220920230000 +0900" stop="20220920233000 +0900" channel="Tokyo MX">
+  <title lang="ko">金装のヴェルメイユ〜崖っぷち魔術師は最強の厄災と魔法世界を突き進む〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">＃１２「重なり合い」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220919000000 +0900" stop="20220919010000 +0900" channel="FujiNext.jp">
 <title lang="ko">NSP中村貴之・平賀和人へきくちから！天野滋17回忌の日、和やかにNSP音楽雑談</title>
 <desc>NSP中村貴之・平賀和人と天野滋が遺した『僕らの音楽』と、30周年ツアー初日の『フォーク・デイズ』伝説の北とぴあコンサート。アルフィー坂崎幸之助と当時の対談も。
@@ -5008,7 +4995,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【9月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220919/9037569/image/da4ab0c112c798a2b0e4659e62a2f9a7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220919230000 +0900" stop="20220920000000 +0900" channel="FujiOne.jp">
