@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220921040000 +0900" stop="20220921050000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ルパン三世(PART2)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">143「マイアミ銀行襲撃記念日」
-144「不二子危機一髪救出作戦」
-ルパン一味が日本から脱出して5年。世界に散ってい…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220921050000 +0900" stop="20220921060000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士Zガンダム</title>
     <rating system="MPAA">
@@ -418,6 +406,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220922060000 +0900" stop="20220922063000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">IDOLY PRIDE</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">7「Shining Smile」
+小さな芸能事務所、星見プロダクション。そこから華々しいデビューを飾ったアイドル・長瀬麻奈は…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220920190000 +0900" stop="20220921013000 +0900" channel="FujiNext.jp">
 <title lang="ko">スケートボード JAPAN STREET LEAGUE　第3戦　予選 決勝</title>
 <desc>「予選」「決勝」
@@ -646,7 +645,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">ラーメンWalker TV2　325　都立大学「釜玉中華そばナポレオン軒」</title>
 <desc>美味すぎ！安すぎ！麺が自慢の釜玉ラーメン　都立大学「釜玉中華そばナポレオン軒」
 ＜出演＞ 田中貴（サニーデイ・サービス）　田中真琴
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9037602/image/8399a2a400fe31684cd749bb630d05dc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921060000 +0900" stop="20220921070000 +0900" channel="FujiOne.jp">
@@ -959,7 +958,7 @@ https//otn.fujitv.co.jp
 <programme start="20220921053000 +0900" stop="20220921060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9037146/image/7872207f3065c57512605b88d0c9f1f4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921060000 +0900" stop="20220921071000 +0900" channel="FujiTwo.jp">
@@ -1227,7 +1226,7 @@ https//otn.fujitv.co.jp
 <programme start="20220921050000 +0900" stop="20220921060000 +0900" channel="kbsworld.jp">
 <title lang="ko">韓国人の食卓　[字][再]</title>
 <desc>地理的環境に人々の息づかいと知恵が合わさったその地域の代表食を紹介する新ドキュメンタリー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9027503/image/19929086c5c56bfe700b3907210bc3db.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921060000 +0900" stop="20220921070000 +0900" channel="kbsworld.jp">
@@ -1631,16 +1630,6 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220921042000 +0900" stop="20220921050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">国際報道2022</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ウクライナ警戒　ロシア軍がインフラ攻撃など標的拡大か▽ＥＶシフトで様変わりする米モーターショー▽「国民の財産」フランス国立図書館新装オープン▽国連総会で首脳演説</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220921050000 +0900" stop="20220921060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
@@ -2241,12 +2230,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220921012400 +0900" stop="20220921053000 +0900" channel="eTele.jp">
-    <title lang="ko"></title>
+  <programme start="20220922060000 +0900" stop="20220922063000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">きょうのスタート、カラフルに！国内外の最新ニュースをお届け！気になるニュースの解説・スポーツ情報・気象中継など、役立つ情報満載でお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3071,12 +3060,32 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220921043000 +0900" stop="20220921055000 +0900" channel="NipponTV.jp">
-    <title lang="ko">Oha!4 NEWS LIVE</title>
+  <programme start="20220922053000 +0900" stop="20220922055500 +0900" channel="eTele.jp">
+    <title lang="ko">NHKみんなの手話</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽後輩の男性に硫酸。男の初公判▽国連総会で首脳らの演説スタート▽台風１４号による影響で火事に。原因は停電？</desc>
+    <desc lang="ko">その場を立ち去るとき、会話中に視線を外すときなど、ろう者とのコミュニケーションで注意することを学習します。那須善子さん「絵本手話読み聞かせ」アンコールもご紹介。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220922055500 +0900" stop="20220922060000 +0900" channel="eTele.jp">
+    <title lang="ko">浮世絵EDO-LIFE</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">浮世絵の世界をのぞいてみれば、江戸のリアルなくらしが見えてくる。海を背景に、木の車輪が大きく描かれた不思議な絵。その絵からは、荷車を引く男たちの心意気が…。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220922060000 +0900" stop="20220922062500 +0900" channel="eTele.jp">
+    <title lang="ko">旅するためのスペイン語</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">伊原六花さんと一緒に、ラテンアメリカの文化とスペイン語の多様性を体感しましょう。絶景あり、グルメあり、ダンスあり！ネイティブとふれあって会話の上達をめざします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3300,6 +3309,16 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">朝はＯｈａ！４から！　ニッポンの朝をスマイルに！▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220922055000 +0900" stop="20220922080000 +0900" channel="NipponTV.jp">
+    <title lang="ko">ZIP!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3595,16 +3614,6 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921043000 +0900" stop="20220921052000 +0900" channel="TBS2.jp">
-  <title lang="ko">THE TIME’</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">３連休また荒天か〜最新天気予報▽山際大臣が新たな会合出席認める▽独自ＴＶ番組出演の有名居酒屋店主逮捕▽オミクロン株対応ワクチン接種始まる▽突然愛車に男が跳び蹴り</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220921052000 +0900" stop="20220921080000 +0900" channel="TBS2.jp">
   <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
@@ -3809,15 +3818,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921042300 +0900" stop="20220921054500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ものスタ</title>
+<programme start="20220922052000 +0900" stop="20220922080000 +0900" channel="TBS2.jp">
+  <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
+    <desc lang="ko">安住紳一郎が明るく楽しく丁寧に、そして正直にお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4207,12 +4213,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921045500 +0900" stop="20220921052500 +0900" channel="FujiTV.jp">
-  <title lang="ko">めざましテレビ全部見せ</title>
+<programme start="20220922054500 +0900" stop="20220922070500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">モーサテ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
+    <desc lang="ko">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4438,22 +4444,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921043000 +0900" stop="20220921050000 +0900" channel="Tokyo MX">
-  <title lang="ko">うたなび!</title>
+<programme start="20220922052500 +0900" stop="20220922080000 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざましテレビ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220921050000 +0900" stop="20220921053000 +0900" channel="Tokyo MX">
-  <title lang="ko">日本グレートスポット紀行 season2</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">不思議博物館　本館　編</desc>
+    <desc lang="ko">ニュース＆スポーツにエンタメ＆トレンド家族で見たい新情報のシャワー▽ココ調で身近な疑問検証▽めざましじゃんけん▽きょうのわんこ▽紙兎ロペ▽占い</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4958,6 +4954,36 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220922052500 +0900" stop="20220922053000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220922053000 +0900" stop="20220922060000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220922060000 +0900" stop="20220922063000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220920190000 +0900" stop="20220921013000 +0900" channel="FujiNext.jp">
 <title lang="ko">スケートボード JAPAN STREET LEAGUE　第3戦　予選 決勝</title>
 <desc>「予選」「決勝」
@@ -5186,7 +5212,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">ラーメンWalker TV2　325　都立大学「釜玉中華そばナポレオン軒」</title>
 <desc>美味すぎ！安すぎ！麺が自慢の釜玉ラーメン　都立大学「釜玉中華そばナポレオン軒」
 ＜出演＞ 田中貴（サニーデイ・サービス）　田中真琴
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9037602/image/8399a2a400fe31684cd749bb630d05dc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921060000 +0900" stop="20220921070000 +0900" channel="FujiOne.jp">
@@ -5499,7 +5525,7 @@ https//otn.fujitv.co.jp
 <programme start="20220921053000 +0900" stop="20220921060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9037146/image/7872207f3065c57512605b88d0c9f1f4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921060000 +0900" stop="20220921071000 +0900" channel="FujiTwo.jp">
@@ -5767,7 +5793,7 @@ https//otn.fujitv.co.jp
 <programme start="20220921050000 +0900" stop="20220921060000 +0900" channel="kbsworld.jp">
 <title lang="ko">韓国人の食卓　[字][再]</title>
 <desc>地理的環境に人々の息づかいと知恵が合わさったその地域の代表食を紹介する新ドキュメンタリー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9027503/image/19929086c5c56bfe700b3907210bc3db.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921060000 +0900" stop="20220921070000 +0900" channel="kbsworld.jp">
