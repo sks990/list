@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220921143000 +0900" stop="20220921150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">情報</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220921150000 +0900" stop="20220921160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士Zガンダム</title>
     <rating system="MPAA">
@@ -412,6 +402,18 @@
     <desc lang="ko">23「ムーン・アタック」
 24「反撃」
 反連邦組織エゥーゴに属するシャアは、連邦のエリート集団・ティターンズと闘う…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220922160000 +0900" stop="20220922170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">僕のヒーローアカデミア</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">111「志村転弧オリジン」
+112「死柄木弔オリジン」
+少年・デクはヒーロー科1年A組のクラスメイトと切磋琢磨する…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1062,7 +1064,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2018年3月4日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9037160/image/fea97d5e9dea0e6c12c801d32a0de344.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921160000 +0900" stop="20220921162500 +0900" channel="FujiTwo.jp">
@@ -1629,46 +1631,6 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220921145000 +0900" stop="20220921150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みみより!くらし解説</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">今月、東京都が新築住宅に太陽光発電設備の設置などを義務付ける全国初の制度をめざすと発表し注目を集めている。具体的にどんな制度で、どんな背景があるのか解説する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220921150000 +0900" stop="20220921150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220921150700 +0900" stop="20220921151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220921151000 +0900" stop="20220921155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2022年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">【解説】正面（十両）…高崎（元金開山），【アナウンサー】正面（十両）…佐藤洋之　〜国技館から中継〜</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220921155500 +0900" stop="20220921180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">大相撲(2022年)</title>
     <rating system="MPAA">
@@ -2259,22 +2221,32 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220921143000 +0900" stop="20220921150000 +0900" channel="eTele.jp">
-    <title lang="ko">将棋フォーカス</title>
+  <programme start="20220922150700 +0900" stop="20220922151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">レジェンド羽生　ＮＨＫ杯戦激闘録。第２回は「伝説の絶妙手編」。今でも将棋ファンに語り継がれる若き日の羽生五段（当時）が放った伝説の絶妙手を映像も交えて紹介。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220921150000 +0900" stop="20220921153000 +0900" channel="eTele.jp">
-    <title lang="ko">囲碁フォーカス</title>
+  <programme start="20220922151000 +0900" stop="20220922155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">大相撲(2022年)</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">鈴木伸二七段のバランス講座、今回は「ドーンと勢力を広げる」。「フォーカス・オン」は「打ち込め！青春！囲碁の甲子園　第４６回全国高校囲碁選手権」。</desc>
+    <desc lang="ko">【解説】正面（十両）…甲山（元大碇），【アナウンサー】正面（十両）…戸部眞輔　〜国技館から中継〜</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220922155500 +0900" stop="20220922180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">大相撲(2022年)</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">（４１０）「幕内取組」　【解説】正面（幕内）…武隈（元豪栄道），向正面（幕内）…舞の海秀平，【アナウンサー】正面（幕内）…大坂敏久ほか</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3069,12 +3041,32 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220921135500 +0900" stop="20220921155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20220922152500 +0900" stop="20220922153000 +0900" channel="eTele.jp">
+    <title lang="ko">5分でみんなの手話</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽山際大臣“統一教会”会合に出席…自民は追加分公表へ▽全国弁連が声明「解散請求を」▽判決速報…５歳児餓死事件“ママ友”の支配は？</desc>
+    <desc lang="ko">２０２１年度に放送したＥテレ「みんなの手話」から１つのキーフレーズをピックアップ。「先週　体調悪くて食欲がなかったの」を覚えましょう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220922153000 +0900" stop="20220922160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">シリーズ「バリフリ・タウン」。認知症の人が暮らしやすいバリアフリーなまちをご紹介！認知症になっても“やりたいこと”をしながら楽しく暮らす岩手と栃木の取り組み。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220922160000 +0900" stop="20220922161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3302,16 +3294,16 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220921135400 +0900" stop="20220921154800 +0900" channel="Asahi.jp">
-  <title lang="ko">おかしな刑事9</title>
+  <programme start="20220922155000 +0900" stop="20220922190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「居眠り刑事とエリート警視の父娘捜査　鬼女の絵馬がつなぐ二つの死体！商社連続殺人・創業家一族と、美しきバレリーナの秘密」伊東四朗、羽田美智子(他)</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20220921154800 +0900" stop="20220921164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season10</title>
     <rating system="MPAA">
@@ -3407,7 +3399,7 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">渾身の持論を「２分５９秒」で熱弁！</desc>
+    <desc lang="ko">制限時間内に心を動かすスピーチができるか!?元フジテレビ久代アナ「伝説の番組」を語る！元ＨＫＴ村重杏奈まさかの願望とは！？バチェラーからＫＯＣファイナリストまで！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3593,12 +3585,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921135500 +0900" stop="20220921154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20220922154800 +0900" stop="20220922164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season7</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼“電話屋”逮捕　被害総額は数十億円か▼巨大盗撮グループ９人目の逮捕者 表の顔は「ピザブロガー」▼“ママ友”赤堀被告に判決　裁判所前から速報生中継　(他)(予定)</desc>
+    <desc lang="ko">「髪を切られた女」水谷豊(他)▽捜査一課の芹沢がコソコソと特命係へ。級友が連続髪切り殺人事件の犯人に殺害されたのではないかという。早速、右京は行動を開始するが…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3806,12 +3798,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921134000 +0900" stop="20220921154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20220922154900 +0900" stop="20220922190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">史上最強のエンジェルたち再び降臨！さらに強く美しくセクシーにパワーアップした彼女たちが、強大な敵を倒すため新たなミッションに挑む！大人気、痛快アクション！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4201,13 +4193,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921144500 +0900" stop="20220921154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ガリレオ</title>
+<programme start="20220922154000 +0900" stop="20220922165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「最終章・聖女の救済－前編－愛という名の完全犯罪！！」
-福山雅治　吉高由里子　渡辺いっけい　澤部佑　ク・ハラ　天海祐希　ほか</desc>
+    <desc lang="ko">９月はスズメバチの繁殖期で凶暴化する恐れが…。そんな危険に立ち向かうハンターに密着！さらに今話題のキッチン家電・スチームオーブンレンジを活用した簡単メニューも！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4433,22 +4424,12 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220921145900 +0900" stop="20220921150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20220922154500 +0900" stop="20220922190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220921150000 +0900" stop="20220921150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ！知りたかった！加藤綾子と榎並大二郎が最新ニュースを丁寧に▽ガチャピンと一緒に使える天気▽木村拓也のきょうの現場中継▽気になるアノ件「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4969,6 +4950,26 @@ K-POPアイドルのダンス最強者は誰だ！？人気グループのメン
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220922150500 +0900" stop="20220922160000 +0900" channel="Tokyo MX">
+  <title lang="ko">王朝の謀略 周新と10の怪事件</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">実際に起こった10の難事件からなる、傑作推理時代劇！“鉄面御史（てつめんぎょし）”こと名捜査官・周新（しゅう・しん）が悪と、陰謀に立ち向かう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220922160000 +0900" stop="20220922163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5619,7 +5620,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2018年3月4日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220921/9037160/image/fea97d5e9dea0e6c12c801d32a0de344.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220921160000 +0900" stop="20220921162500 +0900" channel="FujiTwo.jp">
