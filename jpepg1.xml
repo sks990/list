@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20220922070000 +0900" stop="20220922080000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">夏目友人帳 参</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">11「映すもの」
-12「帰る場所」
-妖怪が見える少年・夏目貴志は、祖母・レイコの遺品から“友人帳”という、レイコが…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220922080000 +0900" stop="20220922090000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ブラッククローバー</title>
     <rating system="MPAA">
@@ -413,6 +401,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220923090000 +0900" stop="20220923100000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">247「かぐらのために」
+248「死闘、再び」
+平和と共に近代化が進んだ木ノ葉隠れの里。七代目火影・うずまきナルトの…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220922000000 +0900" stop="20220922010000 +0900" channel="FujiNext.jp">
 <title lang="ko">miwaへきくちから！音組の歌姫の10年</title>
 <desc>miwaへきくちから！デビューから音組の歌姫だった。ハタチ前に出逢って11年。話せば尽きないmiwa×音組。もう放送されないmiwaクロ映像、ももクロファン必見
@@ -446,7 +446,7 @@
 <desc>名店FILE　2「ゼロワンカレーA.o.D」
 ＜出演＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）他
 ▽未公開映像付き
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9072540/image/de32e652641393af69405c78d72731b6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922090000 +0900" stop="20220922100000 +0900" channel="FujiNext.jp">
@@ -686,7 +686,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【9月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9072579/image/b12fa97bd6370401809fffca59162bb5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922090000 +0900" stop="20220922100000 +0900" channel="FujiOne.jp">
@@ -941,7 +941,7 @@ https//otn.fujitv.co.jp
 <programme start="20220922082000 +0900" stop="20220922085700 +0900" channel="FujiTwo.jp">
 <title lang="ko">韓国ドラマ「愛よ、お願い」106　【日本語字幕版】　（全128話）</title>
 <desc>第106話「3人で暮らそう」　＜出演＞イ・ヨンウン　ユン・ソヌ　イ・チェヨン　キム・サグォン　▽夫婦に忍び寄る女の影…夫と友人に人生を狂わされた女の逆転愛憎劇
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9072616/image/a8975d7ceaeccfc1227381b5c213d624.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922085700 +0900" stop="20220922093400 +0900" channel="FujiTwo.jp">
@@ -1200,7 +1200,7 @@ https//otn.fujitv.co.jp
 <programme start="20220922073500 +0900" stop="20220922085500 +0900" channel="kbsworld.jp">
 <title lang="ko">夫婦クリニック２　50　[字]</title>
 <desc>夫婦の間のあらゆる問題をリアリティー溢れるドラマで再現し、根強い人気を誇る「夫婦クリニック2」！2011年　124話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9027529/image/07e937d4a0c1b565daf854b5db1b042c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922085500 +0900" stop="20220922094500 +0900" channel="kbsworld.jp">
@@ -1564,26 +1564,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20220922074500 +0900" stop="20220922080000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽アルコール依存症・ラップで体験を伝える　【キャスター】三條雅幸，首藤奈知子，【気象キャスター】檜山靖洋</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220922080000 +0900" stop="20220922081500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">連続テレビ小説 ちむどんどん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">比嘉家での、宴会で歌子が歌おうとすると、智が現れる。暢子たちが見つめる中、ふたりは…。そして東京へ戻る前日、和彦から暢子に思わぬ提案が。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20220922081500 +0900" stop="20220922095500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">あさイチ</title>
     <rating system="MPAA">
@@ -2274,72 +2254,22 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220922074500 +0900" stop="20220922080900 +0900" channel="eTele.jp">
-    <title lang="ko">おかあさんといっしょ</title>
+  <programme start="20220923081500 +0900" stop="20220923084200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <desc lang="ko">１０月３日（月）から放送がはじまる、連続テレビ小説「舞いあがれ！」の放送直前のＰＲ番組。ドラマのみどころや魅力を紹介する。主演は福原遥。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220922080900 +0900" stop="20220922081000 +0900" channel="eTele.jp">
-    <title lang="ko">パッコロリン</title>
+  <programme start="20220923084200 +0900" stop="20220923092800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">世界はほしいモノにあふれてる</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220922081000 +0900" stop="20220922082500 +0900" channel="eTele.jp">
-    <title lang="ko">いないいないばあっ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220922082500 +0900" stop="20220922083500 +0900" channel="eTele.jp">
-    <title lang="ko">えいごであそぼ with Orton</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">英語の「音」で遊びながら、楽しく英語と親しもう！舞台は、不思議な町「オートンタウン」。スーパーマシン、コント、歌、ダンス、アニメなど、楽しいコーナーがいっぱい！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220922083500 +0900" stop="20220922084500 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世の中の仕組みを、ピタゴラらしいユニークな見方で伝えます。今回は「１００グラムにちょうせん　敬老ＳＰ」おじいちゃん、おばあちゃんも孫といっしょに挑戦してみよう！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220922084500 +0900" stop="20220922085000 +0900" channel="eTele.jp">
-    <title lang="ko">プチプチ・アニメ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">丸いものを目にすると転がさずにはいられない“ころがし屋のプン”ことフンコロガシのプン。ある日プンの目にとまった“丸いもの”とは？！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20220922085000 +0900" stop="20220922085500 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <desc lang="ko">神秘に満ちたバルト三国！心を癒やす美しきハンドクラフトを巡る旅へ！精霊が宿ると言われるサウナやはちみつスイーツ！ＪＵＪＵさん＆鈴木亮平さんのまさかのデュエットも</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3084,12 +3014,82 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20220922055000 +0900" stop="20220922080000 +0900" channel="NipponTV.jp">
-    <title lang="ko">ZIP!</title>
+  <programme start="20220923080900 +0900" stop="20220923081000 +0900" channel="eTele.jp">
+    <title lang="ko">パッコロリン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">木曜ＺＩＰ！はＤＡＩＧＯ▽気温低下今こそ「秋バテ」注意▽週末３連休に大雨も▽「ママ友」懲役15年▽大谷＆ヤクルト村上▽吉岡里帆＆成田凌！▽人気！米粉の活用術</desc>
+    <desc lang="ko">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220923081000 +0900" stop="20220923082500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220923082500 +0900" stop="20220923083500 +0900" channel="eTele.jp">
+    <title lang="ko">えいごであそぼ with Orton</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">英語の「音」で遊びながら、楽しく英語と親しもう！舞台は、不思議な町「オートンタウン」。スーパーマシン、コント、歌、ダンス、アニメなど、楽しいコーナーがいっぱい！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220923083500 +0900" stop="20220923084500 +0900" channel="eTele.jp">
+    <title lang="ko">ピタゴラスイッチ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世の中の仕組みや構造、考え方をピタゴラらしいユニークな見方で伝えます。「じゃんけん装置」は「バナナ」が登場！ほかにも「ハキリアリの行進」「たまご会議」など。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220923084500 +0900" stop="20220923085000 +0900" channel="eTele.jp">
+    <title lang="ko">プチプチ・アニメ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">氷の世界に住む少女レシオとその友だち、毛むくじゃらのジャモン。ふたりで出かけた先で出あった精霊や不思議な生き物たちから、さまざまなことを学んでゆきます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220923085000 +0900" stop="20220923085500 +0900" channel="eTele.jp">
+    <title lang="ko">まいにちスクスク</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">健康、食事、遊びなど、子育ての気になる情報やちょっとしたお役立ちアイデアをお送りする「まいにちスクスク」！魔法の５分で、あなたの子育てがもっと楽しくなりますよ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220923085500 +0900" stop="20220923090000 +0900" channel="eTele.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ばぶるばす」うたいはたじゅり／「きみのきもち」サトシン＆りな</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20220923090000 +0900" stop="20220923100000 +0900" channel="eTele.jp">
+    <title lang="ko">おかあさんといっしょ スペシャルステージ2022</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２０２２年８月２０日さいたまスーパーアリーナでのコンサートを収録</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3365,16 +3365,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20220922045500 +0900" stop="20220922080000 +0900" channel="Asahi.jp">
-  <title lang="ko">グッド!モーニング</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">一気に秋⁉気温急降下“寒暖差疲労”に注意…３連休大雨？熱低発生▽速報！米また利上げ、円安加速？物価高行方…値上げ前の買いだめも▽待望！ヤクルト村上５６号は？(他)</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220922080000 +0900" stop="20220922095500 +0900" channel="Asahi.jp">
   <title lang="ko">羽鳥慎一モーニングショー</title>
     <rating system="MPAA">
@@ -3667,17 +3657,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220922052000 +0900" stop="20220922080000 +0900" channel="TBS2.jp">
-  <title lang="ko">THE TIME,</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼「熱帯低気圧」発生…３連休は荒天に！？▼“ママ友裁判”で１５年判決
-▼20秒電話で認知機能が分かる！▼吉岡里帆…５億円で？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20220922080000 +0900" stop="20220922095500 +0900" channel="TBS2.jp">
   <title lang="ko">ラヴィット!</title>
     <rating system="MPAA">
@@ -3869,26 +3848,6 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220922073500 +0900" stop="20220922080000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">シナぷしゅ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220922080000 +0900" stop="20220922081500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ハーフタイムツアーズ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4298,12 +4257,13 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20220922052500 +0900" stop="20220922080000 +0900" channel="FujiTV.jp">
-  <title lang="ko">めざましテレビ</title>
+<programme start="20220923081500 +0900" stop="20220923091100 +0900" channel="TVTokyo.jp">
+  <title lang="ko">哲仁王后〜俺がクイーン!?〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ベビーカー赤ちゃん連れ去り未遂…逮捕瞬間▼ママ友に懲役１５年判決▼３連休大雨警戒▼人気アパレル再上陸▼スノーマン新曲語る▼西川貴教の毎日名言▼最新おいもスイーツ</desc>
+    <desc lang="ko">目が覚めるとそこは朝鮮時代
+現代を生きる俺の魂が王妃の体に入り込んだ！？＜全30話＞</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4545,26 +4505,6 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">谷原章介＆永島優美と新しい朝を始めよう！目が覚める今日一番のニュースをしっかり伝えます！当事者たちを独自取材。わかるまで解説します。天達が天気を深掘り！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220922070000 +0900" stop="20220922080000 +0900" channel="Tokyo MX">
-  <title lang="ko">堀潤モーニングFLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ジャーナリスト堀潤がＺ世代を中心としたコメンテーターとお届けする朝のニュースショー！▼ドーナツブーム▼ブランド運営加藤ジーナと政策サイト伊藤和真とＮＦＴ渋谷啓太</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20220922080000 +0900" stop="20220922083000 +0900" channel="Tokyo MX">
-  <title lang="ko">病院船〜ずっと君のそばに〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">恋愛経験ゼロの天才外科医が年下男子に恋をした！話題の“年上彼女”決定版！ハートが鼓動するトキメキ船上ラブストーリー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5079,6 +5019,26 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20220923083000 +0900" stop="20220923090000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20220923090000 +0900" stop="20220923093000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20220922000000 +0900" stop="20220922010000 +0900" channel="FujiNext.jp">
 <title lang="ko">miwaへきくちから！音組の歌姫の10年</title>
 <desc>miwaへきくちから！デビューから音組の歌姫だった。ハタチ前に出逢って11年。話せば尽きないmiwa×音組。もう放送されないmiwaクロ映像、ももクロファン必見
@@ -5112,7 +5072,7 @@ TVアニメ「それでも歩は寄せてくる」2022年7月から放送中！<
 <desc>名店FILE　2「ゼロワンカレーA.o.D」
 ＜出演＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）他
 ▽未公開映像付き
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9072540/image/de32e652641393af69405c78d72731b6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922090000 +0900" stop="20220922100000 +0900" channel="FujiNext.jp">
@@ -5352,7 +5312,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">番組PR【9月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9072579/image/b12fa97bd6370401809fffca59162bb5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922090000 +0900" stop="20220922100000 +0900" channel="FujiOne.jp">
@@ -5607,7 +5567,7 @@ https//otn.fujitv.co.jp
 <programme start="20220922082000 +0900" stop="20220922085700 +0900" channel="FujiTwo.jp">
 <title lang="ko">韓国ドラマ「愛よ、お願い」106　【日本語字幕版】　（全128話）</title>
 <desc>第106話「3人で暮らそう」　＜出演＞イ・ヨンウン　ユン・ソヌ　イ・チェヨン　キム・サグォン　▽夫婦に忍び寄る女の影…夫と友人に人生を狂わされた女の逆転愛憎劇
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9072616/image/a8975d7ceaeccfc1227381b5c213d624.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922085700 +0900" stop="20220922093400 +0900" channel="FujiTwo.jp">
@@ -5866,7 +5826,7 @@ https//otn.fujitv.co.jp
 <programme start="20220922073500 +0900" stop="20220922085500 +0900" channel="kbsworld.jp">
 <title lang="ko">夫婦クリニック２　50　[字]</title>
 <desc>夫婦の間のあらゆる問題をリアリティー溢れるドラマで再現し、根強い人気を誇る「夫婦クリニック2」！2011年　124話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20220922/9027529/image/07e937d4a0c1b565daf854b5db1b042c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20220922085500 +0900" stop="20220922094500 +0900" channel="kbsworld.jp">
