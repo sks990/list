@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221026170000 +0900" stop="20221026180000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ジョジョの奇妙な冒険 黄金の風</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">33「そいつの名はディアボロ」
-34「鎮魂歌(レクイエム)は静かに奏でられる その(1)」
-ジョースター家の宿敵・DIOの…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221026180000 +0900" stop="20221026190000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ブラッククローバー</title>
     <rating system="MPAA">
@@ -418,6 +406,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221027190000 +0900" stop="20221027193000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">バクテン!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">5「かくれたい！」
+中学生活最後の夏、男子新体操と出会い、強烈に魅せられた少年・双葉翔太郎。私立蒼秀館高等学校…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221025220000 +0900" stop="20221026004000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第19戦 アメリカGP 予選</title>
 <desc>＜開催＞2022年10月23日（日）【再放送】
@@ -541,7 +540,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">パチスロ（旅） 104「埼玉編（4）」</title>
 <desc>「埼玉編（4）」
 ＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221026/9282142/image/d2488d9aaf9433b76de17e6f318acea5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221026190000 +0900" stop="20221026214000 +0900" channel="FujiNext.jp">
@@ -1184,7 +1183,7 @@ https//otn.fujitv.co.jp
 <programme start="20221026181000 +0900" stop="20221026190000 +0900" channel="kbsworld.jp">
 <title lang="ko">生き生き情報　[字]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221026/9275207/image/0e3f42a058104f1200943627e0ad7f12.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221026190000 +0900" stop="20221026201500 +0900" channel="kbsworld.jp">
@@ -1501,36 +1500,6 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221026170000 +0900" stop="20221026180000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースLIVE!ゆう5時</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽いまタイ発ドラマに熱視線が　▽イギリス新首相にスナク氏就任　▽「鎌倉殿の１３人」全成役・新納慎也さんの人生分岐点</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221026180000 +0900" stop="20221026181000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">首都圏ネットワーク</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">多摩都市モノレール延伸計画に地元では？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221026181000 +0900" stop="20221026183000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">首都圏ネットワーク</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「食品ロス」減らそうと新たな施設</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221026183000 +0900" stop="20221026190000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
@@ -2131,52 +2100,32 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221026173500 +0900" stop="20221026180000 +0900" channel="eTele.jp">
-    <title lang="ko">天才てれびくんhello，</title>
+  <programme start="20221027181000 +0900" stop="20221027183000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽オープニングゲーム「ダブルボールパス」ｄボタンで参加してね！▽和牛と一緒にパントマイムであそぼう▽先輩てれび戦士に相談・爆笑岡田結実編▽リモコンゲームあり</desc>
+    <desc lang="ko">首都圏ネットワークがワイドに！「明日につながる、あなたとつながる」６０分。気忙しい首都圏生活で役立つ情報満載。暮らしのヒントが見つかる地域密着ニュース番組です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221026180000 +0900" stop="20221026182400 +0900" channel="eTele.jp">
-    <title lang="ko">おかあさんといっしょ</title>
+  <programme start="20221027183000 +0900" stop="20221027190000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <desc lang="ko">首都圏ネットワークがワイドに！「明日につながる、あなたとつながる」６０分。あなたの街のニュースや話題をきめ細かく。おかえり天気は中継も交えて詳しくお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221026182400 +0900" stop="20221026182500 +0900" channel="eTele.jp">
-    <title lang="ko">あおきいろ</title>
+  <programme start="20221027190000 +0900" stop="20221027193000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース7</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＳＤＧｓ番組シリーズ「ひろがれ！いろとりどり」のテーマソング「ツバメ」を人気番組の出演者・キャラクターがおどるよ！今回は「みいつけた！」バージョン♪</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221026182500 +0900" stop="20221026184000 +0900" channel="eTele.jp">
-    <title lang="ko">みいつけた!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221026184000 +0900" stop="20221026185000 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世の中の仕組みや構造、考え方を、ピタゴラ風のユニークな見方で伝えます。今回は「宇宙ピタゴラ装置」「だれじん」「つながりうた　もりのおく」ほか。</desc>
+    <desc lang="ko">「確かなニュース、いつでも　どこでも」　きょうの日本、世界の今　一歩先へ、一歩深く　テレビでもスマホでも　このニュースを届けたい</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2971,6 +2920,56 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221027182400 +0900" stop="20221027182500 +0900" channel="eTele.jp">
+    <title lang="ko">SDGsのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221027182500 +0900" stop="20221027184000 +0900" channel="eTele.jp">
+    <title lang="ko">みいつけた!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221027184000 +0900" stop="20221027185000 +0900" channel="eTele.jp">
+    <title lang="ko">宇宙なんちゃら こてつくん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">宇宙を目指すアニマルたちの日々の奮闘を宇宙豆知識を織り交ぜながら描くハートウォーミングコメディアニメーション。これを見れば、宇宙に一歩近づけるかも！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221027185000 +0900" stop="20221027190000 +0900" channel="eTele.jp">
+    <title lang="ko">忍たま乱太郎</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221027190000 +0900" stop="20221027192000 +0900" channel="eTele.jp">
+    <title lang="ko">おしりたんてい</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「フーム、においますね」レディーにやさしくスイートポテトがだいすきなめいたんてい・おしりたんていが、じょしゅのブラウンとともに、どんなじけんもププッとかいけつ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20221026155000 +0900" stop="20221026190000 +0900" channel="NipponTV.jp">
     <title lang="ko">news every.</title>
     <rating system="MPAA">
@@ -3212,6 +3211,16 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221027190000 +0900" stop="20221027195400 +0900" channel="NipponTV.jp">
+    <title lang="ko">THE突破ファイル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">Ｗ覚醒！井戸に転落した少年が意識を失い溺れる寸前！もう中が畑のアレでどう救助⁉▼ネガティブ草薙が市場を襲った現金強盗に丸腰で挑む⁉ナイフ所持の男に㊙道具で反撃？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3531,12 +3540,12 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221026154900 +0900" stop="20221026181500 +0900" channel="TBS2.jp">
-  <title lang="ko">Nスタ</title>
+<programme start="20221027190000 +0900" stop="20221027205400 +0900" channel="Asahi.jp">
+  <title lang="ko">ニンチド調査ショー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">後藤新大臣が始動も…“辞任ドミノ”を警戒▽ＧｏＴｏイート再開▽円安で牛乳がピンチ　来月から一斉値上げも▽ふるさと納税に異変　意外な返礼品がお得！？ほか</desc>
+    <desc lang="ko">80代が思う最近結婚した“ビッグカップル”とは!?さらに！かつて当たり前のように使っていたもので10代がほぼ知らなかったものは!?10代が懐かしいと思う楽曲も！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3733,12 +3742,12 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221026174500 +0900" stop="20221026182500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">孤独のグルメ Season3</title>
+<programme start="20221027190000 +0900" stop="20221027200000 +0900" channel="TBS2.jp">
+  <title lang="ko">プレバト!!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">輸入雑貨商を営む井之頭五郎は仕事で訪れた町で、ふと店に立ち寄り食事をするのだが…。今回は「台東区鴬谷のアボカド鶏メンチと鳥鍋めし」。</desc>
+    <desc lang="ko">梅沢富美男＆夏井先生が認める逸材！元ちびまる子上智卒女優、特待生に？★名俳優が色鉛筆で超傑作！番組に出たい…涙の直談判イケメンパパモデル★才能開花キスマイ二階堂</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4142,6 +4151,16 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221027182500 +0900" stop="20221027205400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">有吉の世界同時中継</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">400万人熱狂！中国の女性ラーメン職人VS栃木の世界一に輝く二刀流すぎる店▽外国人が驚いた千葉！羽織袴で烏帽子の神主いる!?海底神社＆地図にはない絶景トンネル(他)</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221026174800 +0900" stop="20221026190000 +0900" channel="FujiTV.jp">
   <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
@@ -4393,12 +4412,13 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221026175900 +0900" stop="20221026183000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221027183000 +0900" stop="20221027205400 +0900" channel="FujiTV.jp">
+  <title lang="ko">プロ野球SMBC日本シリーズ2022</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">（延長の場合あり）
+プロ野球頂上決戦！球団史上初となる２年連続日本一に挑む高津ヤクルトｖｓ２６年ぶりの日本一を目指す中嶋オリックス</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4893,6 +4913,26 @@ KCON 2022 JAPAN 出演アーティストのライブパフォーマンスをま�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221027182800 +0900" stop="20221027185600 +0900" channel="Tokyo MX">
+  <title lang="ko">フランダースの犬</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221027185600 +0900" stop="20221027192200 +0900" channel="Tokyo MX">
+  <title lang="ko">アイカツスターズ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">トップアイドルをめざしアイドル活動“アイカツ！”にはげむ少女たちのサクセスストーリー！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221025220000 +0900" stop="20221026004000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第19戦 アメリカGP 予選</title>
 <desc>＜開催＞2022年10月23日（日）【再放送】
@@ -5016,7 +5056,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">パチスロ（旅） 104「埼玉編（4）」</title>
 <desc>「埼玉編（4）」
 ＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221026/9282142/image/d2488d9aaf9433b76de17e6f318acea5.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221026190000 +0900" stop="20221026214000 +0900" channel="FujiNext.jp">
@@ -5659,7 +5699,7 @@ https//otn.fujitv.co.jp
 <programme start="20221026181000 +0900" stop="20221026190000 +0900" channel="kbsworld.jp">
 <title lang="ko">生き生き情報　[字]</title>
 <desc>日本初放送！韓国の‘今’をお届けする最新情報番組！韓国で人気の最新グルメスポットや話題のスポットをご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221026/9275207/image/0e3f42a058104f1200943627e0ad7f12.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221026190000 +0900" stop="20221026201500 +0900" channel="kbsworld.jp">
