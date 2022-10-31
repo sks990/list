@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221031143000 +0900" stop="20221031150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221031150000 +0900" stop="20221031160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">現実主義勇者の王国再建記 第二部</title>
     <rating system="MPAA">
@@ -407,6 +397,16 @@ Chapter4「開演-Showtime-」
 18「杯中の蛇影」
 
 異世界に召喚された相馬一也は、エルフリーデン王国の王位を譲…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221101160000 +0900" stop="20221101170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">斉木楠雄のΨ難</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第11χ「飛べ!改造人間Ψダーマン2号/Ψ大手一流企業!?父のお仕事/Ψダーマン2号VS怪人レモネード/斉木楠雄のΨ日/Ψ…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -948,7 +948,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2000年9月6日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221031/9321818/image/cc284dc314a46cb8898ddfdad5b65769.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221031160000 +0900" stop="20221031163000 +0900" channel="FujiTwo.jp">
@@ -1506,46 +1506,6 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221031145000 +0900" stop="20221031150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシアのウクライナへの軍事侵攻で、核兵器の使用が懸念されている。６０年前、核戦争の寸前まで至ったキューバ危機を見ながら、戦術核使用の危険性と米ロの責任を考える。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221031150000 +0900" stop="20221031150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221031150700 +0900" stop="20221031151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221031151000 +0900" stop="20221031155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">うたコン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ＪＯ１テレビ初披露曲▽由紀さおり・松坂慶子が越路吹雪の名曲デュエット▽Ｔｏｓｈｌ・柿澤勇人・愛の歌カバー▽石川さゆり「飢餓海峡」▽鈴木聖美▽真彩希帆▽ｗａｃｃｉ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221031155500 +0900" stop="20221031160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -1871,7 +1831,7 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">関東甲信越のニュースと交通・気象情報▽各地のいまを見つめる特集も</desc>
+    <desc lang="ko">▽鉄道の未成線ツアー　地域つなぐ観光資源に　【キャスター】三條雅幸，首藤奈知子，【気象キャスター】檜山靖洋</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2106,32 +2066,42 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221031143000 +0900" stop="20221031150000 +0900" channel="eTele.jp">
-    <title lang="ko">木村多江の、いまさらですが…</title>
+  <programme start="20221101150700 +0900" stop="20221101151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">人生１００年時代。大人になっても学びたい！木村多江が編集長をつとめる「大人のための学び直しアプリ開発プロジェクト」を舞台に、知識をアップデートしていきます。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221031150000 +0900" stop="20221031153000 +0900" channel="eTele.jp">
-    <title lang="ko">NHKアカデミア</title>
+  <programme start="20221101151000 +0900" stop="20221101155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">拾われた男</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">世界のトップランナーが語る特別な時間。第７回は人類学者・山極壽一さん。ゴリラ研究から、人類が本来平和的であることを紐解き、暴力にかりだすものの正体に迫っていく。</desc>
+    <desc lang="ko">世間に大人気の癒やし系女優・井川遥（本人）の運転手となった諭（仲野太賀）は、イメージとのギャップに悩む彼女を音楽で元気づけながら、俳優の厳しさを目の当たりにする</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221031153000 +0900" stop="20221031155500 +0900" channel="eTele.jp">
-    <title lang="ko">NHKみんなの手話</title>
+  <programme start="20221101155500 +0900" stop="20221101160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">過去・現在・未来の表現を学びます。おととい、昨日、きょう、明日、あさってや、○年後、○年前といった表し方をマスターしましょう。</desc>
+    <desc lang="ko">「ショボクジラ・チビコブラ」うた東京放送児童合唱団／「遠距離やろ？ウチら」うたひなの（藤井組）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221101160000 +0900" stop="20221101160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2966,12 +2936,22 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221031135500 +0900" stop="20221031155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20221101153000 +0900" stop="20221101160000 +0900" channel="eTele.jp">
+    <title lang="ko">バリバラ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽ソウル・梨泰院で死者１５０人超“大惨事”ハロウィーンで盛り上がる繁華街で２０代以下に被害多数…背景に何が？▽明日から値上げ続々…消費増税検討も？どうなる暮らし</desc>
+    <desc lang="ko">「おいしい肉を食べたい！」色覚障害の男性と全盲の女性が焼き肉店とアップデート実験▽中川翔子も感激した誰にとっても便利でやさしい新サービスが誕生！グルメ×ＳＤＧｓ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221101160000 +0900" stop="20221101161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3196,16 +3176,16 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221031145000 +0900" stop="20221031154800 +0900" channel="Asahi.jp">
-  <title lang="ko">臨場</title>
+  <programme start="20221101155000 +0900" stop="20221101190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「罪つくり〜赤い口紅の秘密」内野聖陽(他)▽新宿のシティホテルの一室から女性の死体が発見された。当初、病死と推理されたが、倉石は頚部圧迫による他殺と見立て…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221031154800 +0900" stop="20221031164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season19</title>
     <rating system="MPAA">
@@ -3517,12 +3497,12 @@ by.Yael Naim</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221031135500 +0900" stop="20221031154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20221101154800 +0900" stop="20221101164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season12</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼韓国ハロウィーン事故　原因は「群衆雪崩」か？▼警戒…今夜の「渋谷ハロウィーン」　日本の対策は？▼行楽日和一転　沖縄大雨警戒・近畿〜東海で雨　(他)(予定）</desc>
+    <desc lang="ko">「崖っぷちの女」水谷豊、成宮寛貴(他)▽米沢から所轄署へ遺留品のスマホの返却を頼まれた享がその画面をのぞき、何かつぶやきながら出かけたという。その話を聞いた右京は…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3739,12 +3719,12 @@ by.Yael Naim</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221031134000 +0900" stop="20221031154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20221101154900 +0900" stop="20221101190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">あの人食い巨大モンスターが進化を遂げて帰ってきた！今度は地中だけでなく地上にも出現、分裂して増殖も！凶暴性パワーアップの巨大生物パニック第２弾！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3895,7 +3875,7 @@ by.Yael Naim</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ハロプロ研修生」のリアルな汗と涙と笑顔に密着するレギュラー番組！新たな歴史の1ページを皆で一緒に見届けよう。</desc>
+    <desc lang="ko">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼ＯＣＨＡ　ＮＯＲＭＡ、２ｎｄシングル初披露の舞台裏▼研修生ＦＣイベントで披露した楽曲をノーカットでお届け！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4136,13 +4116,12 @@ DIY“初心者”女子の日常物語、活動スタート！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221031144500 +0900" stop="20221031154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">オトナ女子</title>
+<programme start="20221101154000 +0900" stop="20221101165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「これが私の生きる道」
-篠原涼子　吉瀬美智子　鈴木砂羽　谷原章介　江口洋介(他)</desc>
+    <desc lang="ko">紅葉が美しいと人気の群馬・みなかみ町を現地山岳ガイドが案内！まるで絵画！谷川岳の紅葉から照葉峡の渓谷美、更には紅葉を愛でながら楽しむ極上肉グルメに絶景温泉も登場</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4437,22 +4416,12 @@ DIY“初心者”女子の日常物語、活動スタート！</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221031145900 +0900" stop="20221031150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221101154500 +0900" stop="20221101165000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221031150000 +0900" stop="20221031150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ知りたいを速報！榎並大二郎＆宮司愛海が現場と生の声を取材。わかりやすく伝えます▽ガチャピンとあしたの空を先読み！▽人気企画「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4945,6 +4914,26 @@ DIY“初心者”女子の日常物語、活動スタート！</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221101150500 +0900" stop="20221101160000 +0900" channel="Tokyo MX">
+  <title lang="ko">新・必殺仕事人</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221101160000 +0900" stop="20221101163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5486,7 +5475,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2000年9月6日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221031/9321818/image/cc284dc314a46cb8898ddfdad5b65769.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221031160000 +0900" stop="20221031163000 +0900" channel="FujiTwo.jp">
