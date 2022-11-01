@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221101143000 +0900" stop="20221101150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221101150000 +0900" stop="20221101160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">現実主義勇者の王国再建記 第二部</title>
     <rating system="MPAA">
@@ -405,6 +395,16 @@ Chapter6「朝陽-Rooster-」
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221102160000 +0900" stop="20221102170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">斉木楠雄のΨ難</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第13χ「わっΨびーん!沖縄修学旅行/Ψ悪な或る夜の出来事in沖縄/やーさっΨ!沖縄修学旅行/またやーΨ!沖縄修学旅行/…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221031203000 +0900" stop="20221101004000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第20戦 メキシコシティGP 決勝</title>
 <desc>＜開催＞2022年10月31日（月）【再放送】
@@ -722,7 +722,7 @@ Chapter6「朝陽-Rooster-」
 <desc>＜出演＞萩原聖人　坂上忍　小柳ルミ子　宮川一朗太　中野浩一　見栄晴　岡田紗佳　月亭八光
 ＜MC＞ガダルカナル・タカ
 ＜アシスタント＞橘ゆりか　森田涼花
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221101/9322241/image/dd32b14f0b0b85377b1432c0fd4897fd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221101160000 +0900" stop="20221101170000 +0900" channel="FujiOne.jp">
@@ -1034,7 +1034,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2000年10月11日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221101/9321855/image/30c19185308d96a57abaaac3d11e1b99.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221101160000 +0900" stop="20221101163000 +0900" channel="FujiTwo.jp">
@@ -1573,46 +1573,6 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221101145000 +0900" stop="20221101150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みみより!くらし解説</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">先週決まった新たな総合経済対策。大きな柱が電気・都市ガス・ガソリン・灯油といったエネルギー料金の値上げ負担を和らげる対策。具体的にどれだけの支援になるのか解説。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221101150000 +0900" stop="20221101150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221101150700 +0900" stop="20221101151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221101151000 +0900" stop="20221101155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">拾われた男</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世間に大人気の癒やし系女優・井川遥（本人）の運転手となった諭（仲野太賀）は、イメージとのギャップに悩む彼女を音楽で元気づけながら、俳優の厳しさを目の当たりにする</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221101155500 +0900" stop="20221101160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2163,22 +2123,42 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221101145500 +0900" stop="20221101150000 +0900" channel="eTele.jp">
-    <title lang="ko">5分でNHKアカデミア</title>
+  <programme start="20221102150700 +0900" stop="20221102151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">各界のトップランナーたちが、いまこそ共有したいテーマを語りつくす「ＮＨＫアカデミア」。どんな人たちが、どんなことを話すのか？５分にまとめてお伝えする。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221101150000 +0900" stop="20221101153000 +0900" channel="eTele.jp">
-    <title lang="ko">世界サブカルチャー史 欲望の系譜</title>
+  <programme start="20221102151000 +0900" stop="20221102155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">慶次郎縁側日記2</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">映画、流行、社会風俗、サブカルチャーから時代の欲望を読み解く旅。数々の映画から７０年代アメリカの空気が浮き彫りに。シリーズ５回目、７０年代編第２回。語り玉木宏。</desc>
+    <desc lang="ko">江戸・根岸の里で商家の寮番（別荘の管理人）となって、はや１年余。仏の慶次郎と仲間たちが、庶民の悩みやもめ事を解決して行く、一話完結の日記帳。第２シリーズ。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221102155500 +0900" stop="20221102160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ツバメ〜沼ハマバージョン」うた花譜、出演ハマったさん４９名／「ツバメ〜山形バージョン」うたミドリーズ、出演山形市のみなさん</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221102160000 +0900" stop="20221102160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3013,12 +2993,22 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221101135500 +0900" stop="20221101155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20221102153000 +0900" stop="20221102160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽韓国惨事…ハロウィン本番の夜の人出は？警備に変化は▽小室圭さん最新映像▽世界の王室を解説！▽大名跡・團十郎襲名</desc>
+    <desc lang="ko">風間俊介さんと一緒に、福祉の知識がイチから学べる「フクチッチ」。今回は、人と関わる時に強い不安や恐怖を感じる「社交不安症」。その知られざる世界を深掘りします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221102160000 +0900" stop="20221102161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3263,16 +3253,16 @@ K-POP界を代表するボーイズグループ6組が王座をかけて激し�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221101145100 +0900" stop="20221101154800 +0900" channel="Asahi.jp">
-  <title lang="ko">科捜研の女 2022</title>
+  <programme start="20221102155000 +0900" stop="20221102190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ＡＩで蘇った悪魔」沢口靖子(他)▽２５年前に焼死したはずの天才プログラマーが突如ウェブ上に現れ、化学テロを示唆する事件が発生。不可解クイズの先にある衝撃真相とは…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221101154800 +0900" stop="20221101164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season12</title>
     <rating system="MPAA">
@@ -3581,12 +3571,12 @@ by.Hayley Westenra</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221101135500 +0900" stop="20221101154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20221102154800 +0900" stop="20221102164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season6</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ジャニーズ副社長　滝沢秀明(40)退社　一体なぜ？今後は何を？専門家解説　後任は井ノ原快彦▼東京　冷たい雨いつまで？渋谷から生中継　ハロウィーン混雑は？(他)</desc>
+    <desc lang="ko">「マリリンを探せ！」水谷豊、寺脇康文(他)▽なじみのゲイバーのママが“愛犬のマリリンが行方不明になった”と薫に泣きついてきた。仕方なく一緒に公園を探していると…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3837,12 +3827,12 @@ by.Hayley Westenra</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221101134000 +0900" stop="20221101154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20221102154900 +0900" stop="20221102190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">極悪非道なマフィアの指令に背いた殺し屋は、家族のため組織に牙をむく!美しく殺す男、激しく打ち抜く女ー今、最高級の殺しの幕が開く!</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4246,12 +4236,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221101144500 +0900" stop="20221101154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">メイちゃんの執事</title>
+<programme start="20221102154000 +0900" stop="20221102165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">女性の願望を叶えるイケメン執事たちが登場‼日本最高の超お嬢様学校・聖ルチア女学園ではお嬢様１人に付きイケメン執事が！そこに田舎のうどん娘が転入し…。</desc>
+    <desc lang="ko">ウド鈴木が墨田区の下町人情キラキラ橘商店街を調査！地元民に愛される理由とは▽老舗コッペパン店が奇跡の復活▽こだわり焼き餃子専門店▽総菜界の二刀流！メンコロも必見</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4496,22 +4486,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221101145900 +0900" stop="20221101150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221102154500 +0900" stop="20221102190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221101150000 +0900" stop="20221101150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ知りたいを速報！榎並大二郎＆宮司愛海が現場と生の声を取材。わかりやすく伝えます▽ガチャピンとあしたの空を先読み！▽人気企画「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5026,6 +5006,26 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221102150500 +0900" stop="20221102160000 +0900" channel="Tokyo MX">
+  <title lang="ko">新・必殺仕事人</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221102160000 +0900" stop="20221102163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221031203000 +0900" stop="20221101004000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第20戦 メキシコシティGP 決勝</title>
 <desc>＜開催＞2022年10月31日（月）【再放送】
@@ -5343,7 +5343,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 <desc>＜出演＞萩原聖人　坂上忍　小柳ルミ子　宮川一朗太　中野浩一　見栄晴　岡田紗佳　月亭八光
 ＜MC＞ガダルカナル・タカ
 ＜アシスタント＞橘ゆりか　森田涼花
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221101/9322241/image/dd32b14f0b0b85377b1432c0fd4897fd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221101160000 +0900" stop="20221101170000 +0900" channel="FujiOne.jp">
@@ -5655,7 +5655,7 @@ https//otn.fujitv.co.jp
 （地上波放送日　2000年10月11日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221101/9321855/image/30c19185308d96a57abaaac3d11e1b99.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221101160000 +0900" stop="20221101163000 +0900" channel="FujiTwo.jp">
