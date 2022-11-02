@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221103000000 +0900" stop="20221103010000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ルパン三世(PART2)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">6「ピサの斜塔は立っているか」
-7「ツタンカーメン三千年の呪い」
-ルパン一味が日本から脱出して5年。世界に散って…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221103010000 +0900" stop="20221103020000 +0900" channel="ANIMAX.jp">
   <title lang="ko">現実主義勇者の王国再建記 第二部</title>
     <rating system="MPAA">
@@ -334,6 +322,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221104020000 +0900" stop="20221104030000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">takt op.Destiny</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">Chapter7「真実-Noise-」
+Chapter8「運命-Cosette-」
+音楽は人の心を照らす光…。突如として、その光が世界から奪われ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221102214000 +0900" stop="20221103015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第20戦 メキシコシティGP 決勝</title>
 <desc>＜開催＞2022年10月31日（月）【再放送】
@@ -348,7 +348,7 @@
 <title lang="ko">番組PR【11月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221102/9321799/image/a17a76f3e4dc9c5e9d6a1ed44288927c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221103020000 +0900" stop="20221103040000 +0900" channel="FujiNext.jp">
@@ -544,7 +544,7 @@ https//otn.fujitv.co.jp
 <desc>〜熱波乃章壱〜
 「甲冑島津義弘」「美女RaMu」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221102/9322292/image/f55f83900eb1fe1037dd3dba53cfa1ce.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221103020000 +0900" stop="20221103030000 +0900" channel="FujiOne.jp">
@@ -1117,7 +1117,7 @@ https//otn.fujitv.co.jp
 <programme start="20221103003000 +0900" stop="20221103020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221102/9317699/image/611cb6e68fe59ed1074e2fc36c59eace.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221103020000 +0900" stop="20221103031000 +0900" channel="kbsworld.jp">
@@ -1518,16 +1518,6 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221103002500 +0900" stop="20221103011000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">映像の世紀バタフライエフェクト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">１９２９年１０月２４日、ウォール街の株価大暴落。多くの人生が狂う中、ＪＦＫの父ジョセフ・ケネディは巨万の富を築く。永遠の成長を信じた人々の欲望と破滅の物語。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221103011000 +0900" stop="20221103020000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKスペシャル</title>
     <rating system="MPAA">
@@ -2188,12 +2178,22 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221103000000 +0900" stop="20221103010000 +0900" channel="eTele.jp">
-    <title lang="ko">ETV特集</title>
+  <programme start="20221104012000 +0900" stop="20221104015000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">恋せぬふたり</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">秋田県・白神山地の麓（ふもと）に住民が一人もいなくなった“消滅集落”があった。そこに、ある男が自給自足を目指して移り住む。やがて妻と出会い、子どもたちに恵まれ…</desc>
+    <desc lang="ko">令和４年度文化庁芸術祭参加作品。恋愛もセックスも分からずとまどってきた女性と恋愛もセックスもしたくない男性との出会い。恋をしないふたりのラブではないコメディー。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221104015000 +0900" stop="20221104022000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">恋せぬふたり</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">令和４年度文化庁芸術祭参加作品。恋愛もセックスも分からずとまどってきた女性と恋愛もセックスもしたくない男性との出会い。恋をしないふたりのラブではないコメディー。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2918,28 +2918,8 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221103005900 +0900" stop="20221103010400 +0900" channel="NipponTV.jp">
-    <title lang="ko">カラダとキモチ整えNight</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">錦鯉が、フィットネスサポーター・宮崎紗衣に健康なカラダに近づくウオーキングトレーニング【整えウオーク】を学びます。今夜のテーマは「腕の振り方」！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221103010400 +0900" stop="20221103013400 +0900" channel="NipponTV.jp">
-    <title lang="ko">What’s NCT!?</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">多様な国籍のメンバーで構成される次世代グローバルグループ「NCT」。そんなNCTの魅力を、NCTのショウタロウとソンチャン、おいでやすこがの2人が全力で紹介！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221103013400 +0900" stop="20221103014000 +0900" channel="NipponTV.jp">
-    <title lang="ko">ガイド</title>
+  <programme start="20221104011400 +0900" stop="20221104053000 +0900" channel="eTele.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
@@ -3170,36 +3150,26 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221103004500 +0900" stop="20221103012000 +0900" channel="Asahi.jp">
-  <title lang="ko">お願い!ランキングpresentsそだてれび</title>
+  <programme start="20221104010400 +0900" stop="20221104013400 +0900" channel="NipponTV.jp">
+    <title lang="ko">AKB48 サヨナラ毛利さん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">テレビ朝日全局員を対象にした企画オーディションバトルがスタート！《ドラマ》《バラエティー》《ドキュメンタリー》《アニメ》次世代のスタークリエイターを発掘・育成！</desc>
+    <desc lang="ko">霜降り明星とＡＫＢ４８が初タッグ！！ＡＫＢＩＮＧＯ!の生みの親…レジェンド毛利Ｐと涙の決別で誕生する令和の王道アイドルバラエティー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221103012000 +0900" stop="20221103012600 +0900" channel="Asahi.jp">
-  <title lang="ko">全力坂</title>
+  </programme>
+  <programme start="20221104013400 +0900" stop="20221104020400 +0900" channel="NipponTV.jp">
+    <title lang="ko">この恋イタすぎました</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <desc lang="ko">イタい男と付き合ってイタい目に遭わないようにするための恋愛処世術バラエティー！Girls²が宇垣美里とパンサー・向井と恋愛を学ぶ！ゲストは稲村亜美さん！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221103012600 +0900" stop="20221103015600 +0900" channel="Asahi.jp">
-  <title lang="ko">Break Out</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221103015600 +0900" stop="20221103021600 +0900" channel="Asahi.jp">
   <title lang="ko">まんが未知</title>
     <rating system="MPAA">
@@ -3462,22 +3432,22 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221103005800 +0900" stop="20221103012800 +0900" channel="TBS2.jp">
-  <title lang="ko">ふるさとの未来</title>
+<programme start="20221104012600 +0900" stop="20221104013200 +0900" channel="Asahi.jp">
+  <title lang="ko">全力坂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">全国各地の「ふるさと」で成長過程にある企業を見つけ出し、成功の鍵を解き明かします。そしてともにその成長を見守っていきます。</desc>
+    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221103012800 +0900" stop="20221103015800 +0900" channel="TBS2.jp">
-  <title lang="ko">S☆1PLUS</title>
+<programme start="20221104013200 +0900" stop="20221104020200 +0900" channel="Asahi.jp">
+  <title lang="ko">出川一茂ホラン☆フシギの会</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">イチロー独占インタビュー　高校野球と向き合う理由とは…</desc>
+    <desc lang="ko">MIXジュースの中身を言い当てるフシギ女性がスタジオに登場！出川＆一茂も挑戦でまさかの奇跡が！さらに…「誰からも番組の反響がない」という出川の悩みに一茂が一言！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3695,22 +3665,24 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221103003000 +0900" stop="20221103010000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">夫婦円満レシピ〜交換しない?一晩だけ〜</title>
+<programme start="20221104012800 +0900" stop="20221104015800 +0900" channel="TBS2.jp">
+  <title lang="ko">地縛少年花子くん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">セックスレスに悩むママたちが「夫婦交換」に挑むスキャンダラスだけど美しいラブストーリー！▼ママ友との二度目の夫婦交換！泥沼にハマる…“鍵遊び”とは一体!?</desc>
+    <desc lang="ko">再放送は新規エンドカード追加!!
+花子くんから呼び出された場所は、成功率100％と噂される告白の木の下。
+寧々、まさかの初彼氏（幽霊）誕生!?</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221103010000 +0900" stop="20221103013000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">キス×kiss×キス〜メルティングナイト〜</title>
+<programme start="20221104015800 +0900" stop="20221104020500 +0900" channel="TBS2.jp">
+  <title lang="ko">イベントGO!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ライフセーバーとバリキャリ女子、プールサイドで2人きりになって…「ハート救命キス」。2番手扱いの私が彼と「キス×kiss×キス」を観たら…「攻略キス」。</desc>
+    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4102,12 +4074,22 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221103005500 +0900" stop="20221103012500 +0900" channel="FujiTV.jp">
-  <title lang="ko">マブラヴ オルタネイティヴ 第二期</title>
+<programme start="20221104013000 +0900" stop="20221104020000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">占いなんて信じない</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">武は「元の世界」の香月の協力を得て「この世界」への帰還を果たした。全ての世界を救うために再び立ち上がる武に、夕呼は００ユニットが完成したことを告げる。</desc>
+    <desc lang="ko">加藤浩次ＭＣ！マジでリアルな占い番組が始動</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221104020000 +0900" stop="20221104020500 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">10月21日に全国公開した劇場アニメ「ぼくらのよあけ」の見どころをご紹介します！杉咲花をはじめ豪華声優陣で送る傑作SFジュブナイル漫画の映画化！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4332,32 +4314,12 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221103003000 +0900" stop="20221103010000 +0900" channel="Tokyo MX">
-  <title lang="ko">エロマンガ先生</title>
+<programme start="20221104012500 +0900" stop="20221104022500 +0900" channel="FujiTV.jp">
+  <title lang="ko">EXITV!〜FODの新作・名作をPon!Pon!見せまくり!〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221103010000 +0900" stop="20221103010500 +0900" channel="Tokyo MX">
-  <title lang="ko">ある朝ダミーヘッドマイクになっていた俺クンの人生</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ASMRをテーマにした、耳で愉しむ新しいカタチの5分アニメ！“ダミーヘッドマイクに転生した俺クンの数奇な人生を目撃せよ―</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221103010500 +0900" stop="20221103013500 +0900" channel="Tokyo MX">
-  <title lang="ko">恋愛フロップス</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">桜舞う季節、5つの恋の風が吹き抜ける───。</desc>
+    <desc lang="ko">ＥＸＩＴ単独ＭＣ▽女優・堀田茜がりんたろー。＆兼近のダサカワ私服をファッションチェック！▽兼近が恋愛に前向き発言！？▽「ＶｉＶｉ」モデルとゲーム対決！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4842,6 +4804,26 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221104013000 +0900" stop="20221104013500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221104013500 +0900" stop="20221104020500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221102214000 +0900" stop="20221103015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第20戦 メキシコシティGP 決勝</title>
 <desc>＜開催＞2022年10月31日（月）【再放送】
@@ -4856,7 +4838,7 @@ MONSTA Xショヌが初の審査員を担当！親が一緒に参加する10代�
 <title lang="ko">番組PR【11月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221102/9321799/image/a17a76f3e4dc9c5e9d6a1ed44288927c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221103020000 +0900" stop="20221103040000 +0900" channel="FujiNext.jp">
@@ -5052,7 +5034,7 @@ https//otn.fujitv.co.jp
 <desc>〜熱波乃章壱〜
 「甲冑島津義弘」「美女RaMu」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221102/9322292/image/f55f83900eb1fe1037dd3dba53cfa1ce.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221103020000 +0900" stop="20221103030000 +0900" channel="FujiOne.jp">
@@ -5625,7 +5607,7 @@ https//otn.fujitv.co.jp
 <programme start="20221103003000 +0900" stop="20221103020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221102/9317699/image/611cb6e68fe59ed1074e2fc36c59eace.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221103020000 +0900" stop="20221103031000 +0900" channel="kbsworld.jp">
