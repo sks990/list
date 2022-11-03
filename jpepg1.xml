@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221104063000 +0900" stop="20221104070000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">バクテン!!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">6「楽しんで！」
-中学生活最後の夏、男子新体操と出会い、強烈に魅せられた少年・双葉翔太郎。私立蒼秀館高等学校に…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221104070000 +0900" stop="20221104080000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ルパン三世(PART2)</title>
     <rating system="MPAA">
@@ -389,6 +378,17 @@ Chapter10「師弟-Lenny-」
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221105073000 +0900" stop="20221105083000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ムヒョとロージーの魔法律相談事務所</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">1「リエとタエコ」2「ケンジとナナ」
+人間に危害を加えたり、事件を起こす悪霊や死霊に対して刑を下し、あの世へ送…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221103170000 +0900" stop="20221104003000 +0900" channel="FujiNext.jp">
 <title lang="ko">CHIMERA A-SIDE THE FINAL　1　スケートボード＆BMX</title>
 <desc>CHIMERA A-SIDE スケートボード＆BMXスーパーリーグ THE FINAL　[Day1]
@@ -657,7 +657,7 @@ https//otn.fujitv.co.jp
 <programme start="20221104070000 +0900" stop="20221104080000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　7　東日本旅客鉄道「磐越西線」</title>
 <desc>7『磐越西線』　SLばんえつ物語号を特集。信越本線の新潟を出発し、新津を経由、会津若松までの126.2キロ、駅数33の区間を約4時間で走行する。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221104/9363082/image/c916236591a6aed929786648308581b9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221104080000 +0900" stop="20221104090000 +0900" channel="FujiOne.jp">
@@ -1555,26 +1555,6 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221104063000 +0900" stop="20221104070000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼地方の人手不足を“旅人”が解決？！新たな旅の形　▼「さかなの日」で魚商品販売強化！　▼ＵＦＯは存在する？ＮＡＳＡで調査チーム発足</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221104070000 +0900" stop="20221104074500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼高速道路“深夜割引待ち”　運送会社の実態ルポ　▼農園で働く障害者が急増　なぜ？　▼薪ストーブが人気！癒しの炎を生中継でお届け</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221104074500 +0900" stop="20221104080000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
@@ -2225,52 +2205,22 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221104065500 +0900" stop="20221104070000 +0900" channel="eTele.jp">
-    <title lang="ko">Eテレ0655</title>
+  <programme start="20221105073000 +0900" stop="20221105080000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します</desc>
+    <desc lang="ko">関東甲信越のニュースと気象情報▽週末行ってみたくなるあの場所から中継▽関東甲信越各地の魅力を発見する「すてき旅」▽目からうろこの生活情報「くらしり」▽特集も</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221104070000 +0900" stop="20221104071000 +0900" channel="eTele.jp">
-    <title lang="ko">マチスコープ</title>
+  <programme start="20221105080000 +0900" stop="20221105081500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">舞いあがれ!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">みんなが暮らす街には楽しくて「へー！」と驚いちゃうヒミツがいーっぱい。俳優・佐藤二朗さんと街探検に出かけよう！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221104071000 +0900" stop="20221104072000 +0900" channel="eTele.jp">
-    <title lang="ko">はなかっぱ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221104072000 +0900" stop="20221104073000 +0900" channel="eTele.jp">
-    <title lang="ko">ノージーのレッツ!ひらめき工房</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">子どもたちに向けた工作・造形あそびの番組です。身の回りのものを観察すると、そこには発想のヒントがいっぱい。ノージーたちと一緒に自分だけの“ひらめき”を探そう！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221104073000 +0900" stop="20221104074500 +0900" channel="eTele.jp">
-    <title lang="ko">みいつけた!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <desc lang="ko">ケガをした由良（吉谷彩子）の替わりにスワン号のパイロットを志願した舞（福原遥）だが、新人には無理だと反対して部に戻ろうとしない刈谷（高杉真宙）。模索が始まる。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3015,6 +2965,56 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221105071000 +0900" stop="20221105071500 +0900" channel="eTele.jp">
+    <title lang="ko">スクる!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221105071500 +0900" stop="20221105072000 +0900" channel="eTele.jp">
+    <title lang="ko">ギョふんでサカナ★スター</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ゆらゆら〜ゆらゆら〜と水中を漂うクラゲ。癒やされますよね？しかしその生態は謎に包まれた部分が多いという。不思議なクラゲの生態をさかなクンがわかりやすく深掘りする</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221105072000 +0900" stop="20221105073500 +0900" channel="eTele.jp">
+    <title lang="ko">なりきり! むーにゃん生きもの学園</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">水族館の人気者「チンアナゴ」。砂の中からひょっこり顔を出してゆらゆらしているのにはワケがあった。その秘密に迫る！さらに、チンアナゴのお家の中も拝見！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221105073500 +0900" stop="20221105074500 +0900" channel="eTele.jp">
+    <title lang="ko">ピタゴラスイッチ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世の中の仕組みや構造、考え方をピタゴラらしいユニークな見方で伝えます！今回の人形劇は、ピタゴラスイッチ。テーマは「さかさまなのには　わけがある」のまき。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221105074500 +0900" stop="20221105080900 +0900" channel="eTele.jp">
+    <title lang="ko">おかあさんといっしょ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20221104055000 +0900" stop="20221104080000 +0900" channel="NipponTV.jp">
     <title lang="ko">ZIP!</title>
     <rating system="MPAA">
@@ -3254,6 +3254,16 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">▽最新のニュース▽週末の天気▽芸能ニュース▽スポーツニュース▽プロ野球熱ケツ情報▽ズムサタわくわく</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221105080000 +0900" stop="20221105092500 +0900" channel="NipponTV.jp">
+    <title lang="ko">ウェークアップ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">土曜の朝の目覚めは「ウェークアップ」とともに…。気鋭の女性アナウンサーと現役弁護士が独自目線でニュースを斬る！▽話題の現場から速報中継▽ニュースの見方が変わる</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3522,6 +3532,16 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221105080000 +0900" stop="20221105093000 +0900" channel="Asahi.jp">
+  <title lang="ko">朝だ!生です旅サラダ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">海外・国内の豪華な旅から、気軽な温泉旅や身近な日帰り旅まで…幅広い旅のスタイルを提案する情報番組。毎週素敵なゲストが登場！新メンバー中丸雄一（KAT-TUN）奮闘中！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221104052000 +0900" stop="20221104080000 +0900" channel="TBS2.jp">
   <title lang="ko">THE TIME,</title>
     <rating system="MPAA">
@@ -3780,32 +3800,22 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221104054500 +0900" stop="20221104070500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">モーサテ</title>
+<programme start="20221105073000 +0900" stop="20221105075900 +0900" channel="TBS2.jp">
+  <title lang="ko">所さんお届けモノです!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">世界の経済ニュースやマーケットの情報をいち早くお伝えします！</desc>
+    <desc lang="ko">元ＡＫＢ４８の前田亜美が日本で唯一の「ラーメン産業展」に潜入！◆麺・スープ・チャーシューなどこだわりの具材を選び、家庭でも真似できる“究極の一杯”を完成させ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221104070500 +0900" stop="20221104073000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">おはスタ</title>
+<programme start="20221105075900 +0900" stop="20221105092500 +0900" channel="TBS2.jp">
+  <title lang="ko">サタデープラス</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＯＨＡ！小学生必見！ワクワクが詰まってる情報ステーション・おはスタ！話題のゲームやホビー、アニメ…見逃せない最新情報！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221104073000 +0900" stop="20221104073500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">秒でNEWS180</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">学校に行く前に！隙間時間に！社会、国際、経済、科学、カルチャー、エンタメ等が分かる“ジュニア向けNEWSショー”放送＋配信で、月曜日から金曜日３分＝180秒でお届け</desc>
+    <desc lang="ko">清水麻椰ひたすら試してレトルトカレー！マンスリーゲスト神田愛花が参戦▽自己流ライフ憧れのハワイ移住を幸運で手にした夫婦▽沖縄長寿村の睡眠法▽寺島しのぶ＆豊川悦司</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4249,6 +4259,26 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221105073000 +0900" stop="20221105080000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ミラキュラス レディバグ＆シャノワール</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">アドリアンが所属するフェンシングチームに入るためテストを受けることにしたマリネット。すると謎のフェンシング選手が自分をチームに入れて欲しいとテストに乱入し…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221105080000 +0900" stop="20221105083000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">カードファイト!! ヴァンガード willDress</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ユウユたちの元にある大会への招待状が届いた。その大会「デラックス」とはジンキによって選ばれた16名の精鋭たちから、“誰が最強か”を決めるべく企画された大会だった！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221104052500 +0900" stop="20221104080000 +0900" channel="FujiTV.jp">
   <title lang="ko">めざましテレビ</title>
     <rating system="MPAA">
@@ -4507,16 +4537,6 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">めざましどようびニュース＆スポーツ１週間まとめチェック▽今週のエンタメ全部見せ未公開＆舞台裏！▽週末にピッタリ！お出かけ情報▽じゃんけん２回＆占い</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221104063000 +0900" stop="20221104070000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5012,6 +5032,26 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221105073000 +0900" stop="20221105080000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221105080000 +0900" stop="20221105083000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221103170000 +0900" stop="20221104003000 +0900" channel="FujiNext.jp">
 <title lang="ko">CHIMERA A-SIDE THE FINAL　1　スケートボード＆BMX</title>
 <desc>CHIMERA A-SIDE スケートボード＆BMXスーパーリーグ THE FINAL　[Day1]
@@ -5280,7 +5320,7 @@ https//otn.fujitv.co.jp
 <programme start="20221104070000 +0900" stop="20221104080000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　7　東日本旅客鉄道「磐越西線」</title>
 <desc>7『磐越西線』　SLばんえつ物語号を特集。信越本線の新潟を出発し、新津を経由、会津若松までの126.2キロ、駅数33の区間を約4時間で走行する。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221104/9363082/image/c916236591a6aed929786648308581b9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221104080000 +0900" stop="20221104090000 +0900" channel="FujiOne.jp">
