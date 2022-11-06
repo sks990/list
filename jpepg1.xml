@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221107000000 +0900" stop="20221107023000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">VAZZROCK LIVE 2020</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">2020年11月22日に舞浜アンフィシアターで開催された「VAZZROCK LIVE 2020」をお届けします！
-
-出演新垣樽助、小林裕…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221107023000 +0900" stop="20221107030000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ぼのぼの</title>
     <rating system="MPAA">
@@ -388,10 +376,21 @@ Chapter12「託人-Hope-」END
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221108030000 +0900" stop="20221108033000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">王様ランキング</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">15「冥府騎士団」
+ボッジは、王様ランキング7位のボッス王が統治する王国の第一王子として生まれた。ところがボッジ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221107000000 +0900" stop="20221107030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　女子　久光×岡山</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「久光スプリングス vs 岡山シーガルズ」　＜開催＞2022年11月6日【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221106/9363040/image/6a0083e46b5027030ee9cda122f9a31c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107030000 +0900" stop="20221107051000 +0900" channel="FujiNext.jp">
@@ -569,7 +568,7 @@ https//otn.fujitv.co.jp
 <desc>＜出演＞バカリズム　小峠英二（バイきんぐ）　堂島孝平
 ＜ゲスト＞ちゃんよた　真矢みつき　小島みなみ
 ▽笑いとチョイエロ全開の新感覚バラエティ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221106/9363158/image/211976fb300889e0fb140a3724c90fe0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107030000 +0900" stop="20221107040000 +0900" channel="FujiOne.jp">
@@ -2179,6 +2178,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221108025900 +0900" stop="20221108040000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">北海道・かわいい動物たち〜さわやか自然百景から〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本各地の自然や風景、そこに暮らす生きものたちの姿を紹介してきた「さわやか自然百景」。北海道で撮影した映像の中から、動物たちの愛らしい姿をたっぷりお届けします！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20221107004500 +0900" stop="20221107053000 +0900" channel="eTele.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -2999,17 +3008,7 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221107015000 +0900" stop="20221107025000 +0900" channel="NipponTV.jp">
-    <title lang="ko">にけつッ!!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">千原ジュニアとケンドーコバヤシによる二人だけの喋り番組。打ち合わせや、台本は一切ありません。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107025000 +0900" stop="20221107042800 +0900" channel="NipponTV.jp">
+  <programme start="20221107030000 +0900" stop="20221107042800 +0900" channel="NipponTV.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
@@ -3215,6 +3214,16 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">未来に残るアートはどう見極めるのか？アート界のスペシャリストたちのトークやコレクターの目線を通し、気鋭の現代アーティストの作品の価値を見つめるドキュメンタリー</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108025900 +0900" stop="20221108042400 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレポシュレ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">お掃除で活躍するパルスイクロス、アートネイチャースカルプヘッドスパ、リンナイガスコンロ、訳アリカニ、金沢老舗布団までお得情報満載でお送りします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3505,12 +3514,33 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107013000 +0900" stop="20221107020000 +0900" channel="TBS2.jp">
-  <title lang="ko"></title>
+<programme start="20221108020100 +0900" stop="20221108022100 +0900" channel="Asahi.jp">
+  <title lang="ko">見取り図じゃん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">2年連続5回目進出のアメリカンリーグ王者・アストロズｖｓ2009年以来8回目の進出となるナショナルリーグ王者・フィリーズが激突！メジャーに挑戦した薮田安彦が解説</desc>
+    <desc lang="ko">西の劇場番長・「見取り図」が本格的に上京！
+「東京に染まろう」をテーマに毎週様々な企画に挑戦する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108022100 +0900" stop="20221108024100 +0900" channel="Asahi.jp">
+  <title lang="ko">チョコプランナー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">相席スタート山添と考える“ネルソンズ”のサムネ！チョコプラが課したサムネにネルソンズギブアップ!?まさかの超過酷動画が爆誕!?トリオとして一皮むけることができるか!?</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108024100 +0900" stop="20221108030100 +0900" channel="Asahi.jp">
+  <title lang="ko">満パンスター2023-さらば三四郎が3月にライブすることだけ決まっている番組-</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">“３月にライブをする”ことだけ決まった状態で、さらば青春の光＆三四郎がそのライブに向けて奮闘する過程をお送りするバラエティー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3715,43 +3745,23 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107013500 +0900" stop="20221107020500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ブラッククローバー</title>
+<programme start="20221108020500 +0900" stop="20221108025900 +0900" channel="TBS2.jp">
+  <title lang="ko">美男イケメンですね</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">〜スタッフ＆キャストが選んだ名場面セレクション〜
-第93話「ユリウス・ノヴァクロノ」</desc>
+    <desc lang="ko">（字幕）韓国で大人気のイケメンバンドA.N.JELLのリーダー、テギョン（チャン・グンソク）は新しいメンバーを加入させることを事務所の社長から聞き、猛反発…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107020500 +0900" stop="20221107023500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">田村淳のTaMaRiBa</title>
+<programme start="20221108025900 +0900" stop="20221108034500 +0900" channel="TBS2.jp">
+  <title lang="ko">カイモノラボ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">田村淳と共に作り上げるビジネスコミュニティ「TaMaRiBa」が、地域と日本を変えていく！ビジネス共創番組！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221107023500 +0900" stop="20221107024000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">闇芝居</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">第五闇『最後の客』</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221107024000 +0900" stop="20221107024500 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">妻が浮気していることを知ったとき、あなたなら？悩めるフリーライターを稲垣吾郎さんが見事に演じた映画「窓辺にて」。監督は恋愛映画の名手・今泉力哉！</desc>
+    <desc lang="ko">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4092,22 +4102,32 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107013000 +0900" stop="20221107020000 +0900" channel="FujiTV.jp">
-  <title lang="ko">おかべろ</title>
+<programme start="20221108021500 +0900" stop="20221108022000 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">霊長類最強女子の見る影ナシ！？吉田沙保里が告白歴から失恋まで恋愛事情を赤裸々告白！さらにオリラジ・藤森との結婚の約束を告白し・・・まさかの公開プロポーズ！？</desc>
+    <desc lang="ko">番組の見どころをご紹介します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107020000 +0900" stop="20221107022500 +0900" channel="FujiTV.jp">
-  <title lang="ko">エンタメサーチバラエティ プレミアの巣窟</title>
+<programme start="20221108022000 +0900" stop="20221108023500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よるパ!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">アンチエイジングフェアで講師を務める腹筋王子カツオが登場！腹筋エクササイズで１０歳若返る！？▽本田仁美の美声にキュン死確定！？超絶可愛いアレグリア〜♪</desc>
+    <desc lang="ko">童貞のまま30歳を迎えた主人公が、“触れた人の心を読める魔法”を手に入れたことで繰り広げられる、純度100％のラブコメディ！「チェリまほ　THE　MOVIE」のBDDVD！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108023500 +0900" stop="20221108030500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">プレミアMelodiX!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">【ナビゲーター】南海キャンディーズ</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4372,27 +4392,27 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107013500 +0900" stop="20221107020500 +0900" channel="Tokyo MX">
-  <title lang="ko">ええじゃない課Biz</title>
+<programme start="20221108022500 +0900" stop="20221108024000 +0900" channel="FujiTV.jp">
+  <title lang="ko">永久少年 Eternal Boys</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">ＭＶ</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107020500 +0900" stop="20221107023500 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221108024000 +0900" stop="20221108032500 +0900" channel="FujiTV.jp">
+  <title lang="ko">恋はオン・エアー中!〜Live　On〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">秘密を抱えるカリスマインフルエンサーの女子高生と、完璧主義で真面目な放送部部長が繰り広げる青春ラブロマンス！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107023500 +0900" stop="20221107040000 +0900" channel="Tokyo MX">
+<programme start="20221107030000 +0900" stop="20221107040000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
@@ -4854,10 +4874,40 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221108020500 +0900" stop="20221108023400 +0900" channel="Tokyo MX">
+  <title lang="ko">斬波ZANMAI</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">本日の企画は『斬波メンバーが問題児ばかりの世界線』。こんな斬波メンバーは嫌いだぁ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108023400 +0900" stop="20221108023500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108023500 +0900" stop="20221108030500 +0900" channel="Tokyo MX">
+  <title lang="ko">サクマピース シーズン2</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">テレビプロデューサーの佐久間宣行、アルコ＆ピースの平子祐希。福島が誇る日本を代表するヒト、モノに出会い全国に広まるようにプロデュースする街ぶらバラエティ第２弾</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221107000000 +0900" stop="20221107030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　女子　久光×岡山</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「久光スプリングス vs 岡山シーガルズ」　＜開催＞2022年11月6日【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221106/9363040/image/6a0083e46b5027030ee9cda122f9a31c.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107030000 +0900" stop="20221107051000 +0900" channel="FujiNext.jp">
@@ -5035,7 +5085,7 @@ https//otn.fujitv.co.jp
 <desc>＜出演＞バカリズム　小峠英二（バイきんぐ）　堂島孝平
 ＜ゲスト＞ちゃんよた　真矢みつき　小島みなみ
 ▽笑いとチョイエロ全開の新感覚バラエティ！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221106/9363158/image/211976fb300889e0fb140a3724c90fe0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107030000 +0900" stop="20221107040000 +0900" channel="FujiOne.jp">
