@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221107090000 +0900" stop="20221107100000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ハイキュー!! セカンドシーズン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">19「鉄壁は何度でも築かれる」
-20「払拭」
-烏野高校排球部は、春高予選に向け再び動き出す。そんな中、強豪校が集ま…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221107100000 +0900" stop="20221107110000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ワールドトリガー 3rdシーズン</title>
     <rating system="MPAA">
@@ -403,6 +391,18 @@ Chapter12「託人-Hope-」END
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221108110000 +0900" stop="20221108120000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ガールズパンツァー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">3「試合、やります！」
+4「隊長、がんばります！」
+戦車を使った武道“戦車道”が華道や茶道と並んで大和撫子のたし…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221107000000 +0900" stop="20221107030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　女子　久光×岡山</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「久光スプリングス vs 岡山シーガルズ」　＜開催＞2022年11月6日【再放送】
@@ -678,7 +678,7 @@ https//otn.fujitv.co.jp
 ＜出演＞月亭八光　御徒町凧　古久根英孝　醍醐大（最高位戦日本プロ麻雀協会）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞浅見真紀
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221107/9370194/image/b89658e4e9d0051518b159b50b408b98.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107110000 +0900" stop="20221107120000 +0900" channel="FujiOne.jp">
@@ -1604,36 +1604,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221107095500 +0900" stop="20221107100000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みんなの体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">岡本美佳，矢作あかり，戸塚寛子，石川裕平</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107100000 +0900" stop="20221107100500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107100500 +0900" stop="20221107105500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">キャッチ!世界のトップニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシアによるウクライナ侵攻。現地の最新情勢や各国の動きなど、世界のテレビ局が放送したニュースからピックアップしてお伝えします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221107105500 +0900" stop="20221107110000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2194,42 +2164,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221107095500 +0900" stop="20221107100000 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
+  <programme start="20221108100500 +0900" stop="20221108105500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">キャッチ!世界のトップニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <desc lang="ko">▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221107100000 +0900" stop="20221107102000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 現代の国語</title>
+  <programme start="20221108105500 +0900" stop="20221108110000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">私たちは、言葉を通して自分を知り、他者と出会い、社会に関わります。そのために必要な“言葉の力”を磨きましょう！</desc>
+    <desc lang="ko">「ちいさなうた」うたｌｉｌｙ／「手をつないで歩こう」うたすとぷり</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221107102000 +0900" stop="20221107103000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 あらためまして ベーシック国語</title>
+  <programme start="20221108110000 +0900" stop="20221108110500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">国語の基本をあらためて学ぶ講座バラエティー。滝沢カレンと金田一秀穂、謎のオウムが授業を行う。今回は「敬語表現」。尊敬語と謙譲語を使い分けるコツは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107103000 +0900" stop="20221107105000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 数学I</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3044,12 +3004,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221107080000 +0900" stop="20221107102500 +0900" channel="NipponTV.jp">
-    <title lang="ko">スッキリ</title>
+  <programme start="20221108102000 +0900" stop="20221108104000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 化学基礎</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽異例の応募96万人…「木村拓哉が来た！」伝統パレード岐阜厳戒▽生出演！河野太郎氏①マイナカードの疑問②対策は？旧統一教会</desc>
+    <desc lang="ko">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108104000 +0900" stop="20221108110000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 地学基礎</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は、大気の成分や高度による違いについて学びます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108110000 +0900" stop="20221108111000 +0900" channel="eTele.jp">
+    <title lang="ko">アクティブ10 ミライのしごとーく</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">カズレーザーのキャリア教育番組！同じ業界で働く大人３人が集まり、「仕事のやりがい」や「業界の未来」をトークする。今回のテーマは「農業」の未来。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3275,16 +3255,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221107095500 +0900" stop="20221107102500 +0900" channel="Asahi.jp">
-  <title lang="ko">じゅん散歩</title>
+  <programme start="20221108102500 +0900" stop="20221108113000 +0900" channel="NipponTV.jp">
+    <title lang="ko">バゲット</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">三代目散歩人・高田純次が「埼玉県草加」を散策▽日光街道の宿場町風情が残る街▽松尾芭蕉が歩いた風景で一句▽国内有数の地球儀メーカー</desc>
+    <desc lang="ko">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221107102500 +0900" stop="20221107130000 +0900" channel="Asahi.jp">
   <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
@@ -3602,12 +3582,12 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107095500 +0900" stop="20221107102500 +0900" channel="TBS2.jp">
-  <title lang="ko">プチブランチ</title>
+<programme start="20221108102500 +0900" stop="20221108130000 +0900" channel="Asahi.jp">
+  <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【月曜はキレイの日】“とある食材”に置き換えて糖質○○％カット‼気になるそのお味は…レインボー池田＆河北も絶賛‼糖質カット＆美味しい夢のシャトレーゼグルメ★</desc>
+    <desc lang="ko">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3627,7 +3607,7 @@ by.久石譲</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
+    <desc lang="ko">▼木村拓哉　大絶賛のべトコンラーメンって？▼キンプリ３人脱退＆事務所退所へ電撃発表▼中居正広１か月休養を発表　病状は「うやむやに…皆さんごまかされて」(他)予定</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3637,7 +3617,7 @@ by.久石譲</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
+    <desc lang="ko">「立冬」で寒さ加速へ　じわり…コロナ増加中▽キムタク信長まつり　チケット無しでも観覧４６万人大挙で混乱は…▽“危険水域”阻止？岸田政権の最新支持率　ほか</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3809,7 +3789,7 @@ by.久石譲</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
+    <desc lang="ko">カルビー・江崎グリコ・亀田製菓ミニサイズスナック＆ラニーノーズが歌いまくり▼遼河はるひが川口春奈風メイク挑戦！河北さん大暴走▼宮舘涼太・福田麻貴（３時）・かが屋</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3820,6 +3800,16 @@ by.久石譲</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">【火曜は学べる日】ポイントは立っている時の姿勢⁉睡眠のプロ“友野なお”が皆さんのお悩みを解決します！フィット感抜群！プロが教える快眠寝具選びとは...？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108102500 +0900" stop="20221108135500 +0900" channel="TBS2.jp">
+  <title lang="ko">ひるおび!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4500,26 +4490,6 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107093000 +0900" stop="20221107100000 +0900" channel="Tokyo MX">
-  <title lang="ko">洋上の楽園クルーズ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「エンターテインメント満載！癒しのカリブ海クルーズ」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221107100000 +0900" stop="20221107103000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221107103000 +0900" stop="20221107110000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -5012,6 +4982,26 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221108103000 +0900" stop="20221108110000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108110000 +0900" stop="20221108110500 +0900" channel="Tokyo MX">
+  <title lang="ko">MX news FLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221107000000 +0900" stop="20221107030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　女子　久光×岡山</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「久光スプリングス vs 岡山シーガルズ」　＜開催＞2022年11月6日【再放送】
@@ -5287,7 +5277,7 @@ https//otn.fujitv.co.jp
 ＜出演＞月亭八光　御徒町凧　古久根英孝　醍醐大（最高位戦日本プロ麻雀協会）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞浅見真紀
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221107/9370194/image/b89658e4e9d0051518b159b50b408b98.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107110000 +0900" stop="20221107120000 +0900" channel="FujiOne.jp">
