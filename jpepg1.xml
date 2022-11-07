@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221107070000 +0900" stop="20221107080000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">斉木楠雄のΨ難</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">第15χ「Ψ用なるか!?クラス出し物提案会/歌え!REITAリΨタル!/さわげ!PK学園文化Ψ(前編)/ さわぐ!PK学園文化Ψ(後編…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221107080000 +0900" stop="20221107090000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ブラッククローバー</title>
     <rating system="MPAA">
@@ -402,6 +392,17 @@ Chapter12「託人-Hope-」END
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221108090000 +0900" stop="20221108100000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ハイキュー!! セカンドシーズン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">21「壊し屋」22「元・根性無しの戦い」
+インターハイ予選、青葉城西に敗北した烏野高校排球部は、春高予選に向け再…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221107000000 +0900" stop="20221107030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　女子　久光×岡山</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「久光スプリングス vs 岡山シーガルズ」　＜開催＞2022年11月6日【再放送】
@@ -647,7 +648,7 @@ https//otn.fujitv.co.jp
 <programme start="20221107080000 +0900" stop="20221107090000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　33「島原鉄道」</title>
 <desc>33『島原鉄道線』　雲仙普賢岳の麓、島原半島を走る路線・島原鉄道線をご紹介。営業キロ78.5km、駅数44の路線。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221107/9370190/image/10bed8eb0471be0599dfa05325da0edf.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107090000 +0900" stop="20221107091500 +0900" channel="FujiOne.jp">
@@ -1230,7 +1231,7 @@ https//otn.fujitv.co.jp
 <programme start="20221107073500 +0900" stop="20221107085500 +0900" channel="kbsworld.jp">
 <title lang="ko">客主〜商売の神〜　9　[字]</title>
 <desc>「チュノ〜推奴〜」のチャン・ヒョク主演！天涯孤独になった男が朝鮮一の商売人を目指す姿と切ない恋を描いた韓国歴史 本格時代劇！2015年　全41話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221107/9366119/image/9f10e35219832a689dca72beaa5c7c0b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107085500 +0900" stop="20221107094500 +0900" channel="kbsworld.jp">
@@ -1603,26 +1604,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221107074500 +0900" stop="20221107080000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽房総半島いすみ鉄道　駅弁で地域盛り上げろ　【キャスター】三條雅幸，首藤奈知子，【気象キャスター】佐藤公俊</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107080000 +0900" stop="20221107081500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">舞いあがれ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">スワン号のテスト飛行に臨んだ舞（福原遥）は無事に終わらせるが、ペダルの重さに自信を無くす。刈谷（高杉真宙）は改良の余地があると言うが、部品の加工問題が発生する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221107081500 +0900" stop="20221107095500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">あさイチ</title>
     <rating system="MPAA">
@@ -2193,72 +2174,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221107074500 +0900" stop="20221107080900 +0900" channel="eTele.jp">
-    <title lang="ko">おかあさんといっしょ</title>
+  <programme start="20221108081500 +0900" stop="20221108095500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">あさイチ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107080900 +0900" stop="20221107081000 +0900" channel="eTele.jp">
-    <title lang="ko">パッコロリン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107081000 +0900" stop="20221107082500 +0900" channel="eTele.jp">
-    <title lang="ko">いないいないばあっ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107082500 +0900" stop="20221107083500 +0900" channel="eTele.jp">
-    <title lang="ko">にほんごであそぼ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">四字熟語数字ゲーム、名文を言ってみよう！、四字熟語かるた、うた「合体！四字熟語」「いち　じゅう　ひゃく　せん」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107083500 +0900" stop="20221107084500 +0900" channel="eTele.jp">
-    <title lang="ko">あおきいろ 10分版</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「あお」と「きいろ」２つはあきらかに違うけど、重なりあうと「みどり」になる。多様な個性と共に生きるための「共生マインド」を育む子ども番組です。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107084500 +0900" stop="20221107085000 +0900" channel="eTele.jp">
-    <title lang="ko">かいじゅうステップ ワンダバダ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ノーちゃんが見つけた、クレロンちゃんの秘密基地。みんなにはないしょにしてほしいって頼まれたけど、おしゃべりなノーちゃんは秘密をまもれるかな？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221107085000 +0900" stop="20221107085500 +0900" channel="eTele.jp">
-    <title lang="ko">てれび絵本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">名前がほしくなった一匹ののらねこ。自分の名前を見つけるために街中を探し回って…。</desc>
+    <desc lang="ko">「達人直伝！ごま徹底活用術」▽黒ごまを使った新感覚スイーツ！▽和の巨匠直伝！ねりごまを使って絶品どんぶり▽ごまでチャーハンもパラパラに！▽５分で出来る！簡単汁物</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3033,12 +2954,82 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221107055000 +0900" stop="20221107080000 +0900" channel="NipponTV.jp">
-    <title lang="ko">ZIP!</title>
+  <programme start="20221108080900 +0900" stop="20221108081000 +0900" channel="eTele.jp">
+    <title lang="ko">パッコロリン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">月曜ＺＩＰ！は風間俊介▼厳戒態勢 信長まつりを現地取材 キムタク見た喜びの声▼平野紫耀ら３人退所▼中居正広が休養発表▼羽生結弦プロ初公演▼甲子園であいみょん</desc>
+    <desc lang="ko">まる・さんかく・しかくの顔かたちをした元気な３きょうだい、パックン、リン、コロン。楽しく遊ぶ中から、いろいろな発見をします。【声】折笠愛、水沢史絵、かないみか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108081000 +0900" stop="20221108082500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108082500 +0900" stop="20221108083500 +0900" channel="eTele.jp">
+    <title lang="ko">にほんごであそぼ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">神出鬼没・破顔一笑、四字熟語かるた、文楽、名文を言ってみよう！、うた「合体！四字熟語」「雨ニモマケズ」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108083500 +0900" stop="20221108084500 +0900" channel="eTele.jp">
+    <title lang="ko">でこぼこポン!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">発達障害などの子が楽しくスキルアップ！体の大きさや動かし方を知り、ぶつからずに動くための支援を紹介。出演鳥居みゆき。声の出演河合郁人（Ａ．Ｂ．Ｃ−Ｚ）ほか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108084500 +0900" stop="20221108085000 +0900" channel="eTele.jp">
+    <title lang="ko">チキップダンサーズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">雪が降ってうれしそうなつむぎちゃん。なんこつが作ったかまくらの中があたたかくて感動するほねチキンたち。だれが一番すごいかまくらを作れるか競争することに…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108085000 +0900" stop="20221108085500 +0900" channel="eTele.jp">
+    <title lang="ko">てれび絵本</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">他人から何か言われても、そんなのなんでもない。それは、自分が一番自分の事を知っているから！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108085500 +0900" stop="20221108090000 +0900" channel="eTele.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「千の扉〜Ｔｈｏｕｓａｎｄ　Ｄｏｏｒｓ」うた原　由子／「赤い風船」うた百田夏菜子（ももいろクローバーＺ）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221108090000 +0900" stop="20221108090500 +0900" channel="eTele.jp">
+    <title lang="ko">すたあと</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">新しく学校生活をスタートする小学１年生をサポートする番組。今回の舞台は学校の体育館。子どもたち３人でボールをパスし合うゲームに挑戦だ。パスは何回まで続くかな？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3274,16 +3265,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221107045500 +0900" stop="20221107080000 +0900" channel="Asahi.jp">
-  <title lang="ko">グッド!モーニング</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221107080000 +0900" stop="20221107095500 +0900" channel="Asahi.jp">
   <title lang="ko">羽鳥慎一モーニングショー</title>
     <rating system="MPAA">
@@ -3611,16 +3592,6 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107052000 +0900" stop="20221107080000 +0900" channel="TBS2.jp">
-  <title lang="ko">THE TIME,</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">２歳男児マンションから転落▼北朝鮮ミサイル乱発…ナゼ？▼”走行距離税”に疑問▼YOSHIさん１９歳事故死▼ツイッター”解雇通知”日本でも▼秋の味覚！焼き芋中継</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221107080000 +0900" stop="20221107095500 +0900" channel="TBS2.jp">
   <title lang="ko">ラヴィット!</title>
     <rating system="MPAA">
@@ -3839,26 +3810,6 @@ by.久石譲</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221107073500 +0900" stop="20221107080000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">シナぷしゅ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221107080000 +0900" stop="20221107081500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ハーフタイムツアーズ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4249,12 +4200,14 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221107052500 +0900" stop="20221107080000 +0900" channel="FujiTV.jp">
-  <title lang="ko">めざましテレビ</title>
+<programme start="20221108081500 +0900" stop="20221108091100 +0900" channel="TVTokyo.jp">
+  <title lang="ko">帝王の娘 スベクヒャン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">木村拓哉の信長に４６万人が歓喜▼１９歳…ＹＯＳＨＩさん事故死▼また子どもが転落死▼羽生結弦華麗ショー▼平野紫耀ら３人思い▼あいみょん弾き語り▼とろっチーズグルメ</desc>
+    <desc lang="ko">帝王の娘スベクヒャンの座を巡り、4人の男女の運命が交錯する。
+愛と野望の大型ロマンス時代劇
+＜全72話＞</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4535,26 +4488,6 @@ by.久石譲</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">谷原章介＆永島優美と新しい朝を始めよう！目が覚める今日一番のニュースをしっかり伝えます！当事者たちを独自取材。わかるまで解説します。天達が天気を深掘り！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221107070000 +0900" stop="20221107080000 +0900" channel="Tokyo MX">
-  <title lang="ko">堀潤モーニングFLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ジャーナリスト堀潤がＺ世代を中心としたコメンテーターとお届けする朝のニュースショー！▼山口県公用車問題▼孤独対策の大空幸星と食文化の長内あや愛とＸ世代の神保拓也</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221107080000 +0900" stop="20221107083000 +0900" channel="Tokyo MX">
-  <title lang="ko">温泉へ行こう</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">生みの母との涙の再会が、突如、温泉旅館の女将修業に⁉果たして、薫は華麗なる女将に変身できるのか‼</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5051,6 +4984,26 @@ by.久石譲</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221108083000 +0900" stop="20221108090000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221108090000 +0900" stop="20221108093000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221107000000 +0900" stop="20221107030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　女子　久光×岡山</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「久光スプリングス vs 岡山シーガルズ」　＜開催＞2022年11月6日【再放送】
@@ -5296,7 +5249,7 @@ https//otn.fujitv.co.jp
 <programme start="20221107080000 +0900" stop="20221107090000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　33「島原鉄道」</title>
 <desc>33『島原鉄道線』　雲仙普賢岳の麓、島原半島を走る路線・島原鉄道線をご紹介。営業キロ78.5km、駅数44の路線。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221107/9370190/image/10bed8eb0471be0599dfa05325da0edf.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107090000 +0900" stop="20221107091500 +0900" channel="FujiOne.jp">
@@ -5879,7 +5832,7 @@ https//otn.fujitv.co.jp
 <programme start="20221107073500 +0900" stop="20221107085500 +0900" channel="kbsworld.jp">
 <title lang="ko">客主〜商売の神〜　9　[字]</title>
 <desc>「チュノ〜推奴〜」のチャン・ヒョク主演！天涯孤独になった男が朝鮮一の商売人を目指す姿と切ない恋を描いた韓国歴史 本格時代劇！2015年　全41話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221107/9366119/image/9f10e35219832a689dca72beaa5c7c0b.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221107085500 +0900" stop="20221107094500 +0900" channel="kbsworld.jp">
