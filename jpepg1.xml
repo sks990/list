@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221113063000 +0900" stop="20221113073000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ちびまる子ちゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">47「お父さんとお母さん けんかする」
-48「まるちゃん自分の部屋が欲しくなる」
-ちびまる子ちゃん（通称まる子）こ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221113073000 +0900" stop="20221113083000 +0900" channel="ANIMAX.jp">
   <title lang="ko">はたらく細胞!!</title>
     <rating system="MPAA">
@@ -318,6 +306,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221114080000 +0900" stop="20221114090000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ブラッククローバー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">87「王撰騎士団結成」
+88「白夜の魔眼アジト 突入!!!」
+魔法がすべての、とある世界…。生まれながらに魔法が使えな…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221112234000 +0900" stop="20221113001000 +0900" channel="FujiNext.jp">
 <title lang="ko">寺門ジモンの肉専門チャンネル　93「銀座梅林」</title>
 <desc>「銀座梅林」
@@ -363,7 +363,7 @@ https//otn.fujitv.co.jp
 ＜実況＞塩原恒夫
 ※第2音声会場音
 ※変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221112/9405001/image/56b8615f19a01c30af7a1e8605b2d5d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221113080000 +0900" stop="20221113083000 +0900" channel="FujiNext.jp">
@@ -1224,36 +1224,6 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221113065500 +0900" stop="20221113070000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221113070000 +0900" stop="20221113074000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世界初？不可能と言われてきたイカの養殖が沖縄で実現！壁を破ったのは意外な「トレーニング」▽４０代もご注意を！緑内障▽中継・東京に雪山が出現</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221113074000 +0900" stop="20221113074500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221113074500 +0900" stop="20221113080000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">さわやか自然百景</title>
     <rating system="MPAA">
@@ -1884,32 +1854,22 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221113063500 +0900" stop="20221113070000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK俳句</title>
+  <programme start="20221114074500 +0900" stop="20221114080000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">選者は井上弘美さん。毎月２週目は俳句入門コース。今月から３回はラジオパーソナリティーなどで活躍中の山崎怜奈さんが俳句に挑戦。兼題は「冬紅葉」。司会は武井壮さん。</desc>
+    <desc lang="ko">▽外国人愛する愛川町　ひきつける理由とは？　【キャスター】三條雅幸，首藤奈知子，【気象キャスター】檜山靖洋</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221113070000 +0900" stop="20221113072500 +0900" channel="eTele.jp">
-    <title lang="ko">ニャンちゅう!宇宙!放送チュー!</title>
+  <programme start="20221114080000 +0900" stop="20221114081500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">舞いあがれ!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今回は、大分県竹田市で開催されたイベント「ニャンちゅうの宇宙に夢チュー！」の様子を公開！クイズやダンス、ねんど作品づくりのほか、宇宙について学びます。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221113072500 +0900" stop="20221113073000 +0900" channel="eTele.jp">
-    <title lang="ko">ポップイン!クラフト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">古着にオリジナリティをプラスする方法を紹介する。布やリボンを自在にカットして、布用の接着剤で貼りつけるだけの簡単さ。楽しんでデザインしよう。</desc>
+    <desc lang="ko">浩太（高橋克典）とめぐみ（永作博美）に旅客機のパイロットになりたいから航空学校に行かせてくれと告白する舞（福原遥）だが、めぐみに強く反対されてしまう。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2374,22 +2334,42 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221113063000 +0900" stop="20221113070000 +0900" channel="NipponTV.jp">
-    <title lang="ko">遠くへ行きたい</title>
+  <programme start="20221114071000 +0900" stop="20221114072000 +0900" channel="eTele.jp">
+    <title lang="ko">はなかっぱ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">東京にも秘湯あり。都心から１６０キロ、伊豆諸島に浮かぶ新島へ。目指す秘湯はサーファー憧れの海を望む神殿にあった！お隣の式根島ではレベルアップ「海の秘湯」を発見。</desc>
+    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221113070000 +0900" stop="20221113073000 +0900" channel="NipponTV.jp">
-    <title lang="ko">所さんの目がテン!</title>
+  <programme start="20221114072000 +0900" stop="20221114073000 +0900" channel="eTele.jp">
+    <title lang="ko">オハ!よ〜いどん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">高速で走るために日々進化する新幹線車両▽藤田アナが日本最速新幹線の運転席に潜入！▽時速４００ｋｍで走る次世代新幹線とは▽世界最高峰の新幹線研究施設で行われる実験</desc>
+    <desc lang="ko">「オハ！よ〜いどん」はリモートで日本全国の子どもたちを結んで開く朝の会。自分のことを話す、友達の話を聞く。コージ園長と楽しくコミュニケーション力を身につけよう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221114073000 +0900" stop="20221114074500 +0900" channel="eTele.jp">
+    <title lang="ko">みいつけた!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221114074500 +0900" stop="20221114080900 +0900" channel="eTele.jp">
+    <title lang="ko">おかあさんといっしょ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2696,6 +2676,16 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">▽最新のニュース、ＳｈｏｗＢｉｚ、トレンドなど「時事性のある情報」に加え、ＺＩＰ！独自の「オリジナルコンテンツ」も多数用意し、全国のスマイルをつなぎます！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221114080000 +0900" stop="20221114102500 +0900" channel="NipponTV.jp">
+    <title lang="ko">スッキリ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">マジメに楽しくおもしろく！加藤浩次がお届けする朝の最強ライブショー森圭介がわかりやすく、岩田絵里奈が明るく！ニュース＆エンタメ＆生活を彩る情報が満載</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3027,22 +3017,12 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221113064500 +0900" stop="20221113070000 +0900" channel="TBS2.jp">
-  <title lang="ko">JNNニュース</title>
+<programme start="20221114080000 +0900" stop="20221114095500 +0900" channel="Asahi.jp">
+  <title lang="ko">羽鳥慎一モーニングショー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">最新のニュースをお伝えします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221113070000 +0900" stop="20221113073000 +0900" channel="TBS2.jp">
-  <title lang="ko">健康カプセル!ゲンキの時間</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「頭痛」の原因は分かっているだけでも300種類以上あるそうで、なかには命を脅かす頭痛もあるので注意が必要だとか。今回は、危険な頭痛を見極めるポイント専門医が伝授</desc>
+    <desc lang="ko">羽鳥慎一が毎日の様々なニュースを、分かりやすくお伝えします。暮らしをよりよくする情報はもちろん、難しいことは何が問題なのか、パネルを駆使して読み解きます。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3391,22 +3371,12 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221113065400 +0900" stop="20221113070000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ビジネスレポートS</title>
+<programme start="20221114080000 +0900" stop="20221114095500 +0900" channel="TBS2.jp">
+  <title lang="ko">ラヴィット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ビジネスレポートＳはビジナビとよばれるレポーターが各種ビジネスの最前線を訪問してはさまざまなビジネス最新情報を取材。みなさまにご報告致します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221113070000 +0900" stop="20221113073000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">連絡用の鷹を入手しようとするサスケとボルトが訓練士のところにやって来た。ボルトたちはそこで、珍しい動物を売りさばいて金儲けをしている人物がいるという話を聞く。</desc>
+    <desc lang="ko">ぼる塾が今食べたい人気のデパ地下お惣菜の爆食企画が始動！伊勢丹新宿店の絶品惣菜を食べ尽くす！▼モグライダーのモグ散歩ＩＮ浅草地下商店街編！怪しげなお店巡り</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3789,23 +3759,42 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221113063000 +0900" stop="20221113070000 +0900" channel="FujiTV.jp">
-  <title lang="ko">はやく起きた朝は…</title>
+<programme start="20221114070500 +0900" stop="20221114073000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">おはスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今回のお耳拝借は日本と海外の「ポッキー」を食べくらべしてみました▽ハナちゃん、ありがとう！ハナちゃんが教えてくれたこと
-〈出演〉松居直美・磯野貴理子・森尾由美</desc>
+    <desc lang="ko">ＯＨＡ！小学生必見！キッズの欲しいが詰まってる情報ステーション・おはスタ！妖怪、ポケモン、ベイブレード！話題のゲームやホビー、アニメ…見逃せない最新情報！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221113070000 +0900" stop="20221113073000 +0900" channel="FujiTV.jp">
-  <title lang="ko">ボクらの時代</title>
+<programme start="20221114073000 +0900" stop="20221114073500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">秒でNEWS180</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">戸田恵梨香×永野芽郁×高畑淳子</desc>
+    <desc lang="ko">学校に行く前に！隙間時間に！社会、国際、経済、科学、カルチャー、エンタメ等が分かる“ジュニア向けNEWSショー”放送＋配信で、月曜日から金曜日３分＝180秒でお届け</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221114073500 +0900" stop="20221114080000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">シナぷしゅ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">赤ちゃんが楽しめる知育番組！音楽と映像の遊び、ことば、食育、自然など▽東大赤ちゃんラボ監修</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221114080000 +0900" stop="20221114081500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ハーフタイムツアーズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">忙しい毎日にちょっとひと休み…たまには旅に出かけ、心と体を癒やしませんか？ツアーでしか味わえない貴重な体験や出会いをご提案します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4165,22 +4154,12 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221113063000 +0900" stop="20221113070000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221114080000 +0900" stop="20221114095000 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざまし8</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221113070000 +0900" stop="20221113073000 +0900" channel="Tokyo MX">
-  <title lang="ko">宝塚カフェブレイク</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">瑠風輝が東京宝塚劇場宙組公演『ＨｉＧＨ ＆ ＬＯＷ』『Ｃａｐｒｉｃｃｉｏｓａ‼』を熱く語る‼</desc>
+    <desc lang="ko">谷原章介＆永島優美と新しい朝を始めよう！目が覚める今日一番のニュースをしっかり伝えます！当事者たちを独自取材。わかるまで解説します。天達が天気を深掘り！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4675,6 +4654,16 @@ AAAの與真司郎が活動休止前に行った最後のソロライブツア�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221114080000 +0900" stop="20221114083000 +0900" channel="Tokyo MX">
+  <title lang="ko">温泉へ行こう</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">生みの母との涙の再会が、突如、温泉旅館の女将修業に⁉果たして、薫は華麗なる女将に変身できるのか‼</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221112234000 +0900" stop="20221113001000 +0900" channel="FujiNext.jp">
 <title lang="ko">寺門ジモンの肉専門チャンネル　93「銀座梅林」</title>
 <desc>「銀座梅林」
@@ -4720,7 +4709,7 @@ https//otn.fujitv.co.jp
 ＜実況＞塩原恒夫
 ※第2音声会場音
 ※変更の場合あり
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221112/9405001/image/56b8615f19a01c30af7a1e8605b2d5d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221113080000 +0900" stop="20221113083000 +0900" channel="FujiNext.jp">
