@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221115000000 +0900" stop="20221115010000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ガールズパンツァー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">11「激戦です！」
-12「あとには退けない戦いです！」END
-戦車を使った武道“戦車道”が華道や茶道と並んで大和撫子…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221115010000 +0900" stop="20221115020000 +0900" channel="ANIMAX.jp">
   <title lang="ko">戦姫絶唱シンフォギア</title>
     <rating system="MPAA">
@@ -421,6 +409,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221116020000 +0900" stop="20221116030000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">SSSS.DYNAZENON</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">11「果たせぬ願いって、なに？」
+12「託されたものって、なに？」END
+高校生の麻中蓬はある日の帰り道『怪獣使い』…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221114210000 +0900" stop="20221115011000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第21戦 サンパウロGP 決勝</title>
 <desc>＜開催＞2022年11月13日（日）【再放送】
@@ -598,7 +598,7 @@ https//otn.fujitv.co.jp
 <desc>『三国温泉編 後篇』
 撮影地はれや旅館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221114/9421053/image/7a3bb203e01798d0cc0cc20ca48658a2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221115020000 +0900" stop="20221115021500 +0900" channel="FujiOne.jp">
@@ -1623,16 +1623,6 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221115002500 +0900" stop="20221115012500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ワイルドライフ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">四国南東部に、世界で唯一「テンジクザメ」というサメが集まる事で知られる入り江がある。謎に包まれたサメたちに半年間密着。不思議な産卵の様子など知られざる営みに迫る</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221115012500 +0900" stop="20221115021300 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">SONGS</title>
     <rating system="MPAA">
@@ -2179,6 +2169,16 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">伝説の俳優・松田優作。遺作となったのは映画「ブラック・レイン」がんを患いながら命を削って世界に挑んだ。共演したアンディ・ガルシア、妻・美由紀が明かす優作の真実！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221116011500 +0900" stop="20221116021100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKスペシャル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">二刀流・大谷翔平がＮＨＫの単独インタビューで明かす今シーズンの舞台裏。泥沼の１４連敗、魔球誕生秘話、そしてＭＶＰ争い。２０２２年、大谷翔平の真実に迫る。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3033,26 +3033,6 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221115005900 +0900" stop="20221115012900 +0900" channel="NipponTV.jp">
-    <title lang="ko">束の間の一花</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">萬木昭史（京本大我）は自分の病気が原因で千田原一花（藤原さくら）にストレスをかけているのではないかと葛藤する。ふたりはまた会う約束をするが、一花は倒れてしまう…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221115012900 +0900" stop="20221115015900 +0900" channel="NipponTV.jp">
-    <title lang="ko">新・乃木坂スター誕生!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">乃木坂４６が名曲熱唱！MCオズワルド▽３期生・伊藤理々杏登場！五百城と髭男「ミックスナッツ」▽秋の名曲ＳＰ！奥田・中西が初デュエット「秋桜」＆小川「風立ちぬ」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221115015900 +0900" stop="20221115020500 +0900" channel="NipponTV.jp">
     <title lang="ko">ガイド</title>
     <rating system="MPAA">
@@ -3283,26 +3263,26 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221115002500 +0900" stop="20221115012500 +0900" channel="Asahi.jp">
-  <title lang="ko">オッカネーゼ</title>
+  <programme start="20221116012900 +0900" stop="20221116015900 +0900" channel="NipponTV.jp">
+    <title lang="ko">ぴーすおぶけーき</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">忙しすぎてお金を使う時間がない…そこそこ稼いでいるのにお金の使いみちがない…という悩みを抱える女性（＝オッカネーゼ）に商品をどんどん紹介＆自腹購入してもらう！</desc>
+    <desc lang="ko">先行き不透明な現代ニッポンで悩めるあらゆる人々を、3人のおバカな幼馴染みたちが、次々と救っていく固定観念破りの“お悩み解決エンターテインメント”</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221115012500 +0900" stop="20221115013100 +0900" channel="Asahi.jp">
-  <title lang="ko">全力坂</title>
+  </programme>
+  <programme start="20221116015900 +0900" stop="20221116022900 +0900" channel="NipponTV.jp">
+    <title lang="ko">EDENSZERO/エデンズ ゼロ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <desc lang="ko">＃７「魔王戦艦」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221115013100 +0900" stop="20221115020100 +0900" channel="Asahi.jp">
   <title lang="ko">musicる TV</title>
     <rating system="MPAA">
@@ -3622,22 +3602,22 @@ by.モーツァルト</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115005800 +0900" stop="20221115012800 +0900" channel="TBS2.jp">
-  <title lang="ko">賞金奪い合いネタバトル〜ソウドリ〜</title>
+<programme start="20221116012500 +0900" stop="20221116013100 +0900" channel="Asahi.jp">
+  <title lang="ko">全力坂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">第4ブロック≪NEXT師匠は誰だ！？「漫才協会」覇権争奪バトル！≫【三拍子vs磁石vsHi-Hi】▼漫才協会のエリート街道を突き進むベテラン漫才師3組が対決！</desc>
+    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115012800 +0900" stop="20221115013500 +0900" channel="TBS2.jp">
-  <title lang="ko">イベントGO!</title>
+<programme start="20221116013100 +0900" stop="20221116020100 +0900" channel="Asahi.jp">
+  <title lang="ko">フリースタイルティーチャー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+    <desc lang="ko">ラッパーとラップ好き芸能人がタッグを結成！二人三脚でバトルを目指す！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3874,32 +3854,22 @@ by.モーツァルト</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115004000 +0900" stop="20221115011000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ウチら経済かじってます!</title>
+<programme start="20221116012800 +0900" stop="20221116015800 +0900" channel="TBS2.jp">
+  <title lang="ko">闇金ウシジマくん外伝 闇金サイハラさん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">経済をかじりたい常連客が夜な夜な通う都内のバー。ここで語られるのは「屋上から札束をばらまくのは犯罪か？」「ウクライナ侵攻で日本の街中で○○の争奪戦勃発か!?」</desc>
+    <desc lang="ko">ともか（古畑星夏）を救いたいハザマ（宮世琉弥）は友人にサイハラ（高橋メアリージュン）を潰せと言われ……。愛沢（中尾明慶）はＧ１０（藤本涼）にカネを要求される。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115011000 +0900" stop="20221115014000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ハロドリ。</title>
+<programme start="20221116015800 +0900" stop="20221116023800 +0900" channel="TBS2.jp">
+  <title lang="ko">アカデミーナイトG</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ハロプロ史上初！夢に向かって奮闘する研修生たちに密着▼野外イベントで宮崎由加、宮本佳林ら先輩と共演▼ＯＣＨＡ　ＮＯＲＭＡ新曲のレコーディングバージョンを大公開！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221115014000 +0900" stop="20221115015500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">クールドジ男子</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">一際目を引くクールでかっこいい男子たち。どこか近寄りがたいけど...彼らは“全員ドジ”だった!ドジさえもクールにキメてしまう、それが「クールドジ男子」。</desc>
+    <desc lang="ko">映画「ラーゲリより愛を込めて」キャスト松坂桃李が作品への想いを語る！「JDSFブレイキンジャパンオープン2022」渡邊マーロックが注目選手＆ブレイクダンスを解説</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4281,22 +4251,26 @@ by.モーツァルト</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115003000 +0900" stop="20221115010000 +0900" channel="FujiTV.jp">
-  <title lang="ko">恋愛トキワ荘</title>
+<programme start="20221116011000 +0900" stop="20221116014000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">SHОW激!今夜もドル箱</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">第４の女が登場！和平とゆののデートに乱入！セクシーすぎる接近戦で２人の関係に“ひび”が入る！？桜とゆきくんのデートにジャンが参戦でバトルぼっ発！</desc>
+    <desc lang="ko">元祖パチンコ・バラエティー‼
+MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広げる。人気女性ライターも登場！最新パチンコ情報も満載。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115010000 +0900" stop="20221115013000 +0900" channel="FujiTV.jp">
-  <title lang="ko">関ジャニ∞の あとはご自由に</title>
+<programme start="20221116014000 +0900" stop="20221116021000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">AKB48、最近聞いたよね…〜一緒になんかやってみませんか?〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">たった一つだけのルールを設定して「あとはご自由に」と、ゲストと関ジャニ∞が多彩な企画にチャレンジ！企画から生まれる様々な化学反応をお届けします！</desc>
+    <desc lang="ko">武道館ライブの裏側！メンバーに超濃厚
+密着ドキュメンタリーの続きをお届け！
+汗と涙…まさかのドラマ…永久保存版！
+▼天下一ＨＡＤＯ会！バチバチの大熱戦</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4552,43 +4526,22 @@ by.モーツァルト</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115003000 +0900" stop="20221115010000 +0900" channel="Tokyo MX">
-  <title lang="ko">ヴィンランド・サガ</title>
+<programme start="20221116013000 +0900" stop="20221116014000 +0900" channel="FujiTV.jp">
+  <title lang="ko">ミュージカル「東京ラブストーリー」を観るべき10の理由</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">千年紀の終わり頃、あらゆる地に現れ暴虐の限りを尽くしたヴァイキング。
-最強と謳われた戦士の息子トルフィンは幼くして戦場を生き場とし、幻の大陸ヴィンランドを目指す</desc>
+    <desc lang="ko">ミュージカル「東京ラブストーリー」の稽古現場に「東ラブ大好き芸人」友近が突撃！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221115010000 +0900" stop="20221115010500 +0900" channel="Tokyo MX">
-  <title lang="ko">マンガ、鬼ほど好きなんで</title>
+<programme start="20221116014000 +0900" stop="20221116024000 +0900" channel="FujiTV.jp">
+  <title lang="ko">親愛なる僕へ殺意をこめて</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">つのの生えたリスとウサギ「つのりす」と「つのうさ」が、懲らしめるべき悪者がなかなか現れないことを良いことに、お互いにおすすめのマンガをプレゼンテーションします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221115010500 +0900" stop="20221115011500 +0900" channel="Tokyo MX">
-  <title lang="ko">名探偵コナン 犯人の犯沢さん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">主人公は、犯人。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221115011500 +0900" stop="20221115013500 +0900" channel="Tokyo MX">
-  <title lang="ko">新・鉄道グルメ旅</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">山陰本線沿線の駅弁（Ⅱ）</desc>
+    <desc lang="ko">主演・山田涼介、怒涛の展開で話題の二重人格サスペンス、復讐編が開幕！１５年間、俺は復讐のためだけに生きてきた…殺人鬼・ＬＬはすぐ近くで生きていた？！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5083,6 +5036,26 @@ by.モーツァルト</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221116010500 +0900" stop="20221116013500 +0900" channel="Tokyo MX">
+  <title lang="ko">MIX(ミックス)</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">舞台は「タッチ」と同じ「明青学園」。「タッチ」の主人公「上杉達也」の伝説から約３０年、今、運命の兄弟が物語の扉を開く…。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221116013500 +0900" stop="20221116020500 +0900" channel="Tokyo MX">
+  <title lang="ko">69号室の住人</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京、渋谷発。全員ハーフの多国籍バンド、ＡＬＩが約２年ぶりに登場！活動休止の裏で起こった様々な事件や心境、そして現在の活動スタイルまで、進化し続けるＡＬＩに迫る</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221114210000 +0900" stop="20221115011000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　第21戦 サンパウロGP 決勝</title>
 <desc>＜開催＞2022年11月13日（日）【再放送】
@@ -5260,7 +5233,7 @@ https//otn.fujitv.co.jp
 <desc>『三国温泉編 後篇』
 撮影地はれや旅館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221114/9421053/image/7a3bb203e01798d0cc0cc20ca48658a2.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221115020000 +0900" stop="20221115021500 +0900" channel="FujiOne.jp">
