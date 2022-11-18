@@ -1929,7 +1929,17 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221119161500 +0900" stop="20221119180000 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20221119161500 +0900" stop="20221119165000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221119165000 +0900" stop="20221119180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">大相撲(2022年)</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
