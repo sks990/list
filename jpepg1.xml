@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221121090000 +0900" stop="20221121100000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ハイキュー!! TO THE TOP</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">1「自己紹介」2「迷子」
-春の高校バレー宮城県予選、全国大会出場を決めた烏野高校排球部。彼らのもとに、影山の全…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221121100000 +0900" stop="20221121110000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ルパン三世(PART2)</title>
     <rating system="MPAA">
@@ -406,6 +395,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221122110000 +0900" stop="20221122120000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">キャプテン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">7「勝利はいずれに」
+8「再試合決定！」
+名門・青葉学院から転校した谷口タカオは、墨谷第二中・野球部の次期キャプ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221120212000 +0900" stop="20221121030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　最終戦 アブダビGP 決勝</title>
 <desc>＜開催＞2022年11月20日【生中継】〜ヤス・マリーナ・サーキット
@@ -452,7 +453,7 @@
 「浦和レッズ vs セレッソ大阪」
 ＜開催＞2022年9月25日（日）【再放送】
 ＜解説＞風間八宏　＜実況＞西岡孝洋
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221121/9476257/image/a9f69498f2fd4f7ba0b42c39470faa4d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221121110000 +0900" stop="20221121130000 +0900" channel="FujiNext.jp">
@@ -645,7 +646,7 @@
 ＜出演＞堀慎吾　松本圭世　阿部亮平　徳井健太（平成ノブシコブシ）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞筒井大輔　＜解説＞古久根英孝
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221121/9476305/image/2cfd5685546111ba035ce06b4e90af27.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221121110000 +0900" stop="20221121120000 +0900" channel="FujiOne.jp">
@@ -1610,36 +1611,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221121095500 +0900" stop="20221121100000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みんなの体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">岡本美佳，矢作あかり，戸塚寛子，石川裕平</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221121100000 +0900" stop="20221121100500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221121100500 +0900" stop="20221121105500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">キャッチ!世界のトップニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシアによるウクライナ侵攻。現地の最新情勢や各国の動きなど、世界のテレビ局が放送したニュースからピックアップしてお伝えします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221121105500 +0900" stop="20221121110000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2080,42 +2051,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221121095500 +0900" stop="20221121100000 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
+  <programme start="20221122100500 +0900" stop="20221122105500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">キャッチ!世界のトップニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <desc lang="ko">▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221121100000 +0900" stop="20221121102000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 現代の国語</title>
+  <programme start="20221122105500 +0900" stop="20221122110000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">私たちは、言葉を通して自分を知り、他者と出会い、社会に関わります。そのために必要な“言葉の力”を磨きましょう！</desc>
+    <desc lang="ko">「ちいさなうた」うたｌｉｌｙ／「手をつないで歩こう」うたすとぷり</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221121102000 +0900" stop="20221121103000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 あらためまして ベーシック国語</title>
+  <programme start="20221122110000 +0900" stop="20221122110500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">国語の基本をあらためて学ぶ講座バラエティー。滝沢カレンと金田一秀穂、謎のオウムが授業を行う。テーマは「漢詩」。「漢詩」と「ラップ」の意外な共通点とは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221121103000 +0900" stop="20221121105000 +0900" channel="eTele.jp">
-    <title lang="ko">NHK高校講座 数学I</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2930,12 +2891,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221121080000 +0900" stop="20221121102500 +0900" channel="NipponTV.jp">
-    <title lang="ko">スッキリ</title>
+  <programme start="20221122102000 +0900" stop="20221122104000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 化学基礎</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">②現地に32泊３00万円…日本人が見たカタール▽97歳が車で歩道暴走女性死亡…突進なぜ？▽鳥羽シェフ進化の味ふんわり卵チャーハン</desc>
+    <desc lang="ko">身のまわりの物質について、とことん調べる観察や実験を通して、さまざまな物質とその利用法を学ぶ「化学基礎」。鈴木福さんと一緒にケミストリーの世界を探究しましょう！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221122104000 +0900" stop="20221122110000 +0900" channel="eTele.jp">
+    <title lang="ko">NHK高校講座 地学基礎</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">私たちの身の回りにある自然の成り立ちについて学ぶ「地学基礎」。今回は、地球規模の大気の流れ（大気の大循環）を学習します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221122110000 +0900" stop="20221122111000 +0900" channel="eTele.jp">
+    <title lang="ko">アクティブ10 ミライのしごとーく</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">カズレーザーのキャリア教育番組！同じ業界で働く大人３人が集まり、「仕事のやりがい」や「業界の未来」をトークする。今回のテーマは「化粧品業界」の未来。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3161,16 +3142,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221121095500 +0900" stop="20221121102500 +0900" channel="Asahi.jp">
-  <title lang="ko">じゅん散歩</title>
+  <programme start="20221122102500 +0900" stop="20221122113000 +0900" channel="NipponTV.jp">
+    <title lang="ko">バゲット</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">三代目散歩人・高田純次が「六本木一丁目」を散策▽元日本代表・内田篤人とサッカーW杯記念散歩▽デザイン一新!新ユニホーム開発秘話▽ドイツ料理店でサッカー食リポに挑戦</desc>
+    <desc lang="ko">気分が上がる情報番組！グルメ、芸能、美容と健康、ファッションなど生活情報からおでかけスポット・・・最新の気象情報まで</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221121102500 +0900" stop="20221121130000 +0900" channel="Asahi.jp">
   <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
@@ -3490,12 +3471,12 @@ by.Zac Efron ＆ Zendaya</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221121095500 +0900" stop="20221121102500 +0900" channel="TBS2.jp">
-  <title lang="ko">プチブランチ</title>
+<programme start="20221122102500 +0900" stop="20221122130000 +0900" channel="Asahi.jp">
+  <title lang="ko">大下容子ワイド!スクランブル</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【月曜はキレイの日】これからの季節にオススメ！注目のお掃除グッズ大集合★インフルエンサー店員も愛用のお掃除アイテムにスタジオ絶賛...⁉</desc>
+    <desc lang="ko">スタジオの気鋭の識者たちが、視聴者に知っておいてもらいたい情報、抱いている疑問を深掘り解説！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3515,7 +3496,7 @@ by.Zac Efron ＆ Zendaya</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
+    <desc lang="ko">▼“ドミノ辞任”で岸田政権どうなる？寺田総務大臣を「更迭」　後任は松本剛明氏を起用▼あさって祝日…全国的に雨▼北朝鮮…金正恩氏の娘か“異例の公開”　(他)(予定）</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3525,7 +3506,7 @@ by.Zac Efron ＆ Zendaya</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
+    <desc lang="ko">岸田政権にまた打撃！？寺田総務相を“更迭”▽カキフライにチキン　記念日グルメ食べ放題▽講談社元社員に判決“妻殺害”に無罪主張▽髪色自由＆ピアスも職場の身だしなみ</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3728,6 +3709,16 @@ by.Zac Efron ＆ Zendaya</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">【火曜は学べる日】今話題！てぃ先生に子育て術を学ぶ　目からウロコ⁉の子どもも楽しめる子育て方法とは？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221122102500 +0900" stop="20221122135500 +0900" channel="TBS2.jp">
+  <title lang="ko">ひるおび!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本そして世界のニュースの「真相、裏側」をスタジオから３時間半生放送　恵俊彰があなたの「知りたい」にとことん迫る！その道のプロとどこよりも深く詳しく徹底分析！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4389,26 +4380,6 @@ by.Zac Efron ＆ Zendaya</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221121093000 +0900" stop="20221121100000 +0900" channel="Tokyo MX">
-  <title lang="ko">洋上の楽園クルーズ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「魅惑のバルト海　北欧の歴史遺産クルーズ」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221121100000 +0900" stop="20221121103000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221121103000 +0900" stop="20221121110000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -4901,6 +4872,26 @@ by.Zac Efron ＆ Zendaya</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221122103000 +0900" stop="20221122110000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221122110000 +0900" stop="20221122110500 +0900" channel="Tokyo MX">
+  <title lang="ko">MX news FLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221120212000 +0900" stop="20221121030000 +0900" channel="FujiNext.jp">
 <title lang="ko">[生]2022 FORMULA 1　最終戦 アブダビGP 決勝</title>
 <desc>＜開催＞2022年11月20日【生中継】〜ヤス・マリーナ・サーキット
@@ -4947,7 +4938,7 @@ by.Zac Efron ＆ Zendaya</desc>
 「浦和レッズ vs セレッソ大阪」
 ＜開催＞2022年9月25日（日）【再放送】
 ＜解説＞風間八宏　＜実況＞西岡孝洋
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221121/9476257/image/a9f69498f2fd4f7ba0b42c39470faa4d.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221121110000 +0900" stop="20221121130000 +0900" channel="FujiNext.jp">
@@ -5140,7 +5131,7 @@ by.Zac Efron ＆ Zendaya</desc>
 ＜出演＞堀慎吾　松本圭世　阿部亮平　徳井健太（平成ノブシコブシ）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞筒井大輔　＜解説＞古久根英孝
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221121/9476305/image/2cfd5685546111ba035ce06b4e90af27.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221121110000 +0900" stop="20221121120000 +0900" channel="FujiOne.jp">
