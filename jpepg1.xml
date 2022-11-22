@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221122193000 +0900" stop="20221122200000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ちびまる子ちゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">41「まるちゃん席替えをする/まるちゃん飲み屋さんに行く」
-ちびまる子ちゃん（通称まる子）こと“さくらももこ”は…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221122200000 +0900" stop="20221122210000 +0900" channel="ANIMAX.jp">
   <title lang="ko">戦姫絶唱シンフォギアG</title>
     <rating system="MPAA">
@@ -344,6 +333,17 @@
 8「繋ぐ手と手…戸惑うわたしのため…」
 
 風鳴翼と雪音クリス、そして立花響。運命…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221123210000 +0900" stop="20221123220000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ハイキュー!! TO THE TOP</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">7「返還」8「チャレンジャー」
+春の高校バレー宮城県予選、全国大会出場を決めた烏野高校排球部。彼らのもとに、影…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -717,7 +717,7 @@
 <title lang="ko">恐怖の百物語　10　　　稲川淳二の原点ともいえる実話怪談番組</title>
 <desc>＜出演＞畑中フー　稲川淳二　佐原衣唆往　三宅敦俊
 ▽実話怪談マニアが待ち望んでいた伝説の実話怪談番組が降臨！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221122/9476345/image/c0e9daf015b70a9b9272463a6f3b7ef8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221122205500 +0900" stop="20221122221000 +0900" channel="FujiOne.jp">
@@ -1238,7 +1238,7 @@ https//otn.fujitv.co.jp
 <programme start="20221122201500 +0900" stop="20221122210000 +0900" channel="kbsworld.jp">
 <title lang="ko">ウラチャチャ私の人生(原題)　117　[字]</title>
 <desc>日本初放送！甥の母になることにしたシングルマザー　ドンヒがデザイナーとして成功するために奮闘する波乱万丈で心温まるラブコメ ホームドラマ！2022年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221122/9471658/image/53d44baa04a7c2fe35e1d9322a326382.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221122210000 +0900" stop="20221122220000 +0900" channel="kbsworld.jp">
@@ -1580,26 +1580,6 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221122195700 +0900" stop="20221122204200 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">2022 FIFAワールドカップ ハイライト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">いよいよ始まったＦＩＦＡワールドカップ▼デイリーハイライトでは全６４試合のスーパープレーを連日たっぷりお届け▼山本昌邦さんと田中マルクス闘莉王さんスタジオ解説！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221122204200 +0900" stop="20221122204500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHK</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">【キャスター】井上裕貴</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221122204500 +0900" stop="20221122210000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">首都圏ニュース845</title>
     <rating system="MPAA">
@@ -1675,7 +1655,7 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ジャワ島地震死者２００人越える　被害拡大のなかで救助活動続く▽サウジアラビア　ビジネス中心地を目指し外国企業に投資求める▽ウクライナ・オデーサの日本人宣教師</desc>
+    <desc lang="ko">ジャワ島地震死者２００人越える　被害拡大のなかで救助活動続く▽サウジアラビア　ビジネス中心地を目指し外国企業に投資求める▽ウクライナ・オデーサの日本人牧師</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2120,32 +2100,22 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221122193000 +0900" stop="20221122200000 +0900" channel="eTele.jp">
-    <title lang="ko">沼にハマってきいてみた</title>
+  <programme start="20221123205500 +0900" stop="20221123210000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「踊ってみた動画」を投稿！踊り手沼▽ハマったさんとぬまメン華が動画撮影！ギャルテイスト爆発！？▽１０代が選ぶ踊ってみた動画ランキング▽ゲストはＩＮＩ木村柾哉さん</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221122200000 +0900" stop="20221122203000 +0900" channel="eTele.jp">
-    <title lang="ko">ハートネットTV</title>
+  <programme start="20221123210000 +0900" stop="20221123213000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ニュースウオッチ9</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ろう学校の生徒たちが抱える不安…それは「社会に出てうまく働いていけるのか」ということ。そこで今回、社会人になった先輩たちが、後輩たちへアドバイス！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221122203000 +0900" stop="20221122204500 +0900" channel="eTele.jp">
-    <title lang="ko">きょうの健康</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ぜい肉をとる美容医療を受ける人が増えている。合併症などのリスクもあるので、事前の確認が重要。「手軽なダイエット」として不適切な薬の使い方を勧められるケースも。</desc>
+    <desc lang="ko">先発メンバーを速報！Ｗ杯日本代表ピッチへ▽気象情報</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2920,13 +2890,42 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221122195400 +0900" stop="20221122200000 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレ＋「まだまだオモウマい店」</title>
+  <programme start="20221123203000 +0900" stop="20221123204500 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの健康</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">北海道スペシャル　
-ウルトラ道民！奇跡の出会い連発</desc>
+    <desc lang="ko">最近ではさまざまな薄毛の治療法が登場している。なかには育毛効果を過度にうたっている科学的根拠の不十分なものも。効果やリスクについて、最新情報をとりあげる。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221123204500 +0900" stop="20221123205200 +0900" channel="eTele.jp">
+    <title lang="ko">NHK手話ニュース845</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょう一日の国内外の主な出来事や最新のニュースを手話と映像でコンパクトにお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221123205200 +0900" stop="20221123210000 +0900" channel="eTele.jp">
+    <title lang="ko">手話で楽しむみんなのテレビ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ＮＨＫの人気番組を“手話”でも楽しみたい！そんな声に応えるシリーズ！今回は「サイエンスＺＥＲО」とのコラボ。手話に誘われ、神秘の液体・おっぱいの謎を迫ります！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221123210000 +0900" stop="20221123212500 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの料理</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">京料理人・村田吉弘さんが「煎り酒」の作り方から使い方まで伝授！スッキリとした風味で「手羽元と里芋の梅煮」「豚肉とかぶのさっぱり炒め」など、さまざまな料理で活躍！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3153,16 +3152,6 @@ MINO(WINNER)待望の単独番組パイロット版！初単独バラエティ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221122190000 +0900" stop="20221122200000 +0900" channel="Asahi.jp">
-  <title lang="ko">家事ヤロウ!!!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼和田明日香が冬野菜をたっぷり使った簡単レシピ連発＆恒例企画パン祭り！今年流行ったパン・トーストレシピをゲスト佐藤栞里と一緒に作りまくり！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221122200000 +0900" stop="20221122214800 +0900" channel="Asahi.jp">
   <title lang="ko">有吉クイズ</title>
     <rating system="MPAA">
@@ -3395,36 +3384,6 @@ by.Glee Cast</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">世界中から集めた「猫＆犬など超かわいい動物映像」「赤ちゃん＆キッズ映像」のほか、様々な「ハプニング映像」を大特集！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221122190000 +0900" stop="20221122200000 +0900" channel="TBS2.jp">
-  <title lang="ko">サンドウィッチマンのどうぶつ園飼育員さんプレゼン合戦 ZOO-1グランプリ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">宇都宮動物園の大人気“ネコ園長”はクリスマスに捨てられていたネコだった▼世界的に珍しい！フランス“ネコ科専門”動物園へ！日本では見られないネコ科動物＆赤ちゃん</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221122200000 +0900" stop="20221122205400 +0900" channel="TBS2.jp">
-  <title lang="ko">バナナサンド</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">今夜もハモリ我慢で珍歌唱！連敗中の小杉×B'zウルトラソウル！相席山﨑が号泣で『愛をこめて花束を』▼ハモリ我慢キング日村×『君の名は。』感動！GLAY＆奥田名曲</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221122205400 +0900" stop="20221122205700 +0900" channel="TBS2.jp">
-  <title lang="ko">フラッシュニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">最新のニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3663,12 +3622,12 @@ by.Glee Cast</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221122182500 +0900" stop="20221122205400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">世界が騒然!本当にあった(秘)衝撃ファイル</title>
+<programme start="20221123210000 +0900" stop="20221123225700 +0900" channel="TBS2.jp">
+  <title lang="ko">ワールド極限ミステリー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">千葉県銚子市UFOミステリー▼宇宙人を激撮！衝撃映像▼UFO誘拐事件の真相！▼３０歳シングルマザー銃殺の謎(他)</desc>
+    <desc lang="ko">🈑スマホで若い女性が狙われた…韓国を震撼させたデジタル性犯罪…ｎ番部屋事件…犯人を追い詰めた2人の女性★韓国ナッツリターンで飛行機から降ろされたCAが真相初告白</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4271,26 +4230,6 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221122193000 +0900" stop="20221122200000 +0900" channel="Tokyo MX">
-  <title lang="ko">マジンガーZ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">正義の心をパイルダーオン！発進せよ、マジンガーＺ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221122200000 +0900" stop="20221122203000 +0900" channel="Tokyo MX">
-  <title lang="ko">news TOKYO FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の各地のニュース・天気情報など詳しくお伝えします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221122203000 +0900" stop="20221122212500 +0900" channel="Tokyo MX">
   <title lang="ko">バラいろダンディ</title>
     <rating system="MPAA">
@@ -4791,6 +4730,16 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221123203000 +0900" stop="20221123212500 +0900" channel="Tokyo MX">
+  <title lang="ko">バラいろダンディ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">杉村太蔵＆経済学者の成田悠輔登場！▼ＭＣふかわりょう・大島由香里▼ちょっと頭がよくなった“気がする”１時間</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221121200000 +0900" stop="20221122001000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　最終戦 アブダビGP 決勝</title>
 <desc>＜開催＞2022年11月20日【再放送】〜ヤス・マリーナ・サーキット
@@ -5160,7 +5109,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 <title lang="ko">恐怖の百物語　10　　　稲川淳二の原点ともいえる実話怪談番組</title>
 <desc>＜出演＞畑中フー　稲川淳二　佐原衣唆往　三宅敦俊
 ▽実話怪談マニアが待ち望んでいた伝説の実話怪談番組が降臨！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221122/9476345/image/c0e9daf015b70a9b9272463a6f3b7ef8.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221122205500 +0900" stop="20221122221000 +0900" channel="FujiOne.jp">
@@ -5681,7 +5630,7 @@ https//otn.fujitv.co.jp
 <programme start="20221122201500 +0900" stop="20221122210000 +0900" channel="kbsworld.jp">
 <title lang="ko">ウラチャチャ私の人生(原題)　117　[字]</title>
 <desc>日本初放送！甥の母になることにしたシングルマザー　ドンヒがデザイナーとして成功するために奮闘する波乱万丈で心温まるラブコメ ホームドラマ！2022年　全120話（予定）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221122/9471658/image/53d44baa04a7c2fe35e1d9322a326382.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221122210000 +0900" stop="20221122220000 +0900" channel="kbsworld.jp">
