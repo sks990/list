@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221124000000 +0900" stop="20221124010000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">サマータイムレンダ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">9「流れよ我が涙」10「闇の中へ」
-幼馴染・小舟潮の訃報を聞いた網代慎平は、2年ぶりに故郷である和歌山市・日都ヶ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221124010000 +0900" stop="20221124020000 +0900" channel="ANIMAX.jp">
   <title lang="ko">戦姫絶唱シンフォギアG</title>
     <rating system="MPAA">
@@ -415,6 +404,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221125020000 +0900" stop="20221125030000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">11「イセリナ、恋のあと」
+12「ジオンの脅威」
+宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221123214000 +0900" stop="20221124015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　最終戦 アブダビGP 決勝</title>
 <desc>＜開催＞2022年11月20日【再放送】〜ヤス・マリーナ・サーキット
@@ -429,7 +430,7 @@
 <title lang="ko">番組PR【11月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221123/9476296/image/9ac4c8c352c218fad09161f412ffa6c9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221124020000 +0900" stop="20221124033000 +0900" channel="FujiNext.jp">
@@ -631,7 +632,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">鎧美女　初夏の特別版</title>
 <desc>「甲冑加藤清正」「美女藤井マリー」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221123/9476390/image/d0e2ca4466f21380de070c6d3c4b34a1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221124020000 +0900" stop="20221124030000 +0900" channel="FujiOne.jp">
@@ -1202,7 +1203,7 @@ https//otn.fujitv.co.jp
 <programme start="20221124003000 +0900" stop="20221124020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221123/9471685/image/5ed8840f9916f27381de4b1fe4a05014.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221124020000 +0900" stop="20221124031000 +0900" channel="kbsworld.jp">
@@ -1613,16 +1614,6 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221124005000 +0900" stop="20221124014000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKスペシャル</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">２０１４年のＷ杯に初出場したイビチャ・オシムの母国ボスニア・ヘルツェゴビナ。内戦から続く民族対立の中、多民族で構成される代表チームは、国の未来を変えられるか。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221124014000 +0900" stop="20221124022500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">スポーツ×ヒューマン</title>
     <rating system="MPAA">
@@ -2193,22 +2184,22 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221124000000 +0900" stop="20221124010000 +0900" channel="eTele.jp">
-    <title lang="ko">ETV特集</title>
+  <programme start="20221125011000 +0900" stop="20221125015500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">スポーツ×ヒューマン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">戦争の渦中にあるウクライナとロシアでいま市井の人々が俳句を詠み続けている。日常の一瞬を短い言葉で切り取る俳句。描かれるのは、崩壊した日常、身近にある死、そして…</desc>
+    <desc lang="ko">日本代表を攻守で支える選手に成長した田中碧。Ｗ杯でドイツ、スペインの壁を超えるために欠かせない存在だ。田中の先々を読んでいく「サッカーインテリジェンス」に迫る。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221124010000 +0900" stop="20221124012000 +0900" channel="eTele.jp">
-    <title lang="ko">旅するためのフランス語</title>
+  <programme start="20221125015500 +0900" stop="20221125024600 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">BS世界のドキュメンタリー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">フランスで生まれた発明品をひも解いて、アートと科学、産業が織りなす不思議旅に出かけましょう！２年目の生徒役、千葉一磨さんと一緒に、対話形式で表現力を養います！</desc>
+    <desc lang="ko">リオ・デジャネイロにある世界で最も危険なスラムと言われる「ファベーラ」。今年Ｗ杯の期間中、この地でプロのサッカー選手を目指す少年たちの夢と葛藤の日々を追った。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3083,18 +3074,8 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221124005900 +0900" stop="20221124012900 +0900" channel="NipponTV.jp">
-    <title lang="ko">What's NCT!?</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">次世代グローバルグループ「NCT」。そのメンバー・ショウタロウとソンチャンがプレデビューチーム・SMROOKIESと共にNCTの全てを探っていくリアルバラエティ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221124012900 +0900" stop="20221124013500 +0900" channel="NipponTV.jp">
-    <title lang="ko">ガイド</title>
+  <programme start="20221125012000 +0900" stop="20221125053000 +0900" channel="eTele.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
@@ -3308,26 +3289,16 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221124005000 +0900" stop="20221124012500 +0900" channel="Asahi.jp">
-  <title lang="ko">お願い!ランキングpresentsそだてれび</title>
+  <programme start="20221125015900 +0900" stop="20221125022900 +0900" channel="NipponTV.jp">
+    <title lang="ko">AKB48 サヨナラ毛利さん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">テレビ朝日全局員を対象にした企画オーディションバトルがスタート！《ドラマ》《バラエティー》《ドキュメンタリー》《アニメ》次世代のスタークリエイターを発掘・育成！</desc>
+    <desc lang="ko">霜降り明星とＡＫＢ４８が初タッグ！！ＡＫＢＩＮＧＯ!の生みの親…レジェンド毛利Ｐと涙の決別で誕生する令和の王道アイドルバラエティー</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221124012500 +0900" stop="20221124013100 +0900" channel="Asahi.jp">
-  <title lang="ko">全力坂</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221124013100 +0900" stop="20221124020100 +0900" channel="Asahi.jp">
   <title lang="ko">Break Out</title>
     <rating system="MPAA">
@@ -3611,26 +3582,6 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221124005800 +0900" stop="20221124012800 +0900" channel="TBS2.jp">
-  <title lang="ko">ふるさとの未来</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">全国各地の「ふるさと」で成長過程にある企業を見つけ出し、成功の鍵を解き明かします。そしてともにその成長を見守っていきます。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221124012800 +0900" stop="20221124013000 +0900" channel="TBS2.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本陸上界のエース・田中希実（豊田自動織機）が女子駅伝最高峰の舞台・クイーンズ駅伝に初参戦‼陸上界の未来を背負う２３歳の素顔とは⁉</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221124013000 +0900" stop="20221124020000 +0900" channel="TBS2.jp">
   <title lang="ko">超セクシーでスキャンダラス!ミュージカルCHICAGOって?</title>
     <rating system="MPAA">
@@ -3865,22 +3816,34 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221124003000 +0900" stop="20221124010000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">夫婦円満レシピ〜交換しない?一晩だけ〜</title>
+<programme start="20221125012800 +0900" stop="20221125013000 +0900" channel="TBS2.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">セックスレスに悩むママたちが「夫婦交換」に挑むスキャンダラスだけど美しいラブストーリー！▼初めての恋!?智也に恋したちはるの運命は？さらに智也の秘密も明らかに!?</desc>
+    <desc lang="ko">日本記録保持者・廣中璃梨佳（JP日本郵政グループ）⚟駅伝無敵ガールの秘密に迫る‼なんと駅伝では中学３年生からずっと区間賞‼そんな無敵ガールの素顔とは⁉</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221124010000 +0900" stop="20221124013000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">キス×kiss×キス〜メルティングナイト〜</title>
+<programme start="20221125013000 +0900" stop="20221125020000 +0900" channel="TBS2.jp">
+  <title lang="ko">地縛少年花子くん</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">失恋直後の飲み会でダウン。介抱してくれた同期の彼が急に優しくて…「介抱キス」。初めてのお泊まり、年上の彼がドライヤーをしてくれて…「ドライヤーキス」。</desc>
+    <desc lang="ko">再放送は新規エンドカード追加!!
+輝とは違う形で怪異たちと関わろうと決意を固めた光は、
+幽霊・ミツバの未練を晴らすため、生前やり残したという写真撮影に協力する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221125020000 +0900" stop="20221125020700 +0900" channel="TBS2.jp">
+  <title lang="ko">イベントGO!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4281,22 +4244,22 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221124004000 +0900" stop="20221124012500 +0900" channel="FujiTV.jp">
-  <title lang="ko">2022 FIFAワールドカップ ハイライト</title>
+<programme start="20221125013000 +0900" stop="20221125020000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">占いなんて信じない</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日本代表サムライブルードイツ戦の超速報！試合後選手のインタビューも！熱気冷めやらぬ現地から生中継。大会目４日目注目カードのハイライトをお届けいたします。</desc>
+    <desc lang="ko">加藤浩次ＭＣ！マジでリアルな占い番組が始動</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221124012500 +0900" stop="20221124015500 +0900" channel="FujiTV.jp">
-  <title lang="ko">もっと評価されるべき審議会</title>
+<programme start="20221125020000 +0900" stop="20221125020500 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">有名人が知って欲しい餃子・もつ鍋・スイーツ・バター！もっと評価されるべき絶品グルメが続々登場！</desc>
+    <desc lang="ko">「柔道グランドスラム」の見どころをご紹介します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4492,32 +4455,22 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221124003000 +0900" stop="20221124010000 +0900" channel="Tokyo MX">
-  <title lang="ko">エロマンガ先生</title>
+<programme start="20221125013000 +0900" stop="20221125020000 +0900" channel="FujiTV.jp">
+  <title lang="ko">うる星やつら</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">住めば都／生ゴミ、海へ</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221124010000 +0900" stop="20221124010500 +0900" channel="Tokyo MX">
-  <title lang="ko">ある朝ダミーヘッドマイクになっていた俺クンの人生</title>
+<programme start="20221125020000 +0900" stop="20221125021500 +0900" channel="FujiTV.jp">
+  <title lang="ko">CoA</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ASMRをテーマにした、耳で愉しむ新しいカタチの5分アニメ！ダミーヘッドマイクに転生した俺クンの数奇な人生を目撃せよ―</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221124010500 +0900" stop="20221124013500 +0900" channel="Tokyo MX">
-  <title lang="ko">恋愛フロップス</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">桜舞う季節、5つの恋の風が吹き抜ける───。</desc>
+    <desc lang="ko">高山の作品が完成！▽あなたもアートが好きになる▽気鋭の現代アーティストの創作活動を通じてアートを身近に感じる、ＭＣ無し専門家解説無しの新感覚アート番組</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5012,6 +4965,26 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221125013000 +0900" stop="20221125013500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221125013500 +0900" stop="20221125020500 +0900" channel="Tokyo MX">
+  <title lang="ko">バズッchuLaTV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221123214000 +0900" stop="20221124015000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 FORMULA 1　最終戦 アブダビGP 決勝</title>
 <desc>＜開催＞2022年11月20日【再放送】〜ヤス・マリーナ・サーキット
@@ -5026,7 +4999,7 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
 <title lang="ko">番組PR【11月】</title>
 <desc>＜番組に関する情報は・・・＞
 https//otn.fujitv.co.jp
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221123/9476296/image/9ac4c8c352c218fad09161f412ffa6c9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221124020000 +0900" stop="20221124033000 +0900" channel="FujiNext.jp">
@@ -5228,7 +5201,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">鎧美女　初夏の特別版</title>
 <desc>「甲冑加藤清正」「美女藤井マリー」
 ▽甲冑とグラビアアイドルの融合。歴史の裏側を学びながら甲冑とその中身に萌える渾身の30分！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221123/9476390/image/d0e2ca4466f21380de070c6d3c4b34a1.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221124020000 +0900" stop="20221124030000 +0900" channel="FujiOne.jp">
@@ -5799,7 +5772,7 @@ https//otn.fujitv.co.jp
 <programme start="20221124003000 +0900" stop="20221124020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221123/9471685/image/5ed8840f9916f27381de4b1fe4a05014.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221124020000 +0900" stop="20221124031000 +0900" channel="kbsworld.jp">
