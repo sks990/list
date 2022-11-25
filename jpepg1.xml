@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221126063000 +0900" stop="20221126073000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ルパン三世(PART2)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">75「不二子に花嫁衣装はにあわない」
-76「シェークスピアを知ってるかい」
-ルパン一味が日本から脱出して5年。世界…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221126073000 +0900" stop="20221126083000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ムヒョとロージーの魔法律相談事務所</title>
     <rating system="MPAA">
@@ -277,6 +265,18 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合いを深めて�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221127073000 +0900" stop="20221127083000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">はたらく細胞BLACK</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">1「喫煙、細菌、終わりの始まり。」
+2「肝臓、アルコール、誇り。」
+毎日せっせと体中に酸素を運ぶ、新米赤血球。し…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221126000000 +0900" stop="20221126013000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 F1 GPニュース　〜第21戦、最終戦 特集〜</title>
 <desc>＜出演＞川井一仁　ほか
@@ -310,7 +310,7 @@ https//otn.fujitv.co.jp
 ＜開催＞2022年9月26日（月）【再放送】
 　〜オーストラリア・シドニー
 ＜解説＞中川聴乃　＜実況＞上中勇樹
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221126/9510672/image/f95e077bb684e9406582f92f20e20c77.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221126080000 +0900" stop="20221126083000 +0900" channel="FujiNext.jp">
@@ -489,7 +489,7 @@ https//otn.fujitv.co.jp
 <programme start="20221126073000 +0900" stop="20221126080000 +0900" channel="FujiOne.jp">
 <title lang="ko">パチスロ（旅） 394</title>
 <desc>＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221126/9511134/image/45f14d26a175c8840409f177cb669146.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221126080000 +0900" stop="20221126083000 +0900" channel="FujiOne.jp">
@@ -1411,26 +1411,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221126063000 +0900" stop="20221126070000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">“おはワールド”世界のニュースランキング▼Ｗ杯開催のカタールを支える外国人労働者の死　その実態は▼高齢化する中国残留孤児の介護は▼ＮＩＳＡ拡充へ制度設計本格化</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221126070000 +0900" stop="20221126073000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">“ブラックフライデー”インフレで変化▼人生の最期を支えるアイス▼被災地からカタールへ　現地で子どもたちが感じたこと▼“いいふうふになりたい”同性カップルの願い</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221126073000 +0900" stop="20221126080000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
@@ -2041,62 +2021,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221126065000 +0900" stop="20221126070000 +0900" channel="eTele.jp">
-    <title lang="ko">えいごであそぼ with Orton</title>
+  <programme start="20221127074000 +0900" stop="20221127074500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">英語の「音」で遊びながら、楽しく英語と親しもう！舞台は、不思議な町「オートンタウン」。スーパーマシン、コント、歌、ダンス、アニメなど、楽しいコーナーがいっぱい！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221126070000 +0900" stop="20221126071000 +0900" channel="eTele.jp">
-    <title lang="ko">ミミクリーズ</title>
+  <programme start="20221127074500 +0900" stop="20221127080000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">さわやか自然百景</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
+    <desc lang="ko">京都盆地の北に位置する鞍馬山。豊かな森が広がる山は生きものたちの楽園だ。秋、鳥たちが森の恵みを求めて集まり、夜、ムササビが恋の相手を探して木々の間を滑空する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221126071000 +0900" stop="20221126071500 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
+  <programme start="20221127080000 +0900" stop="20221127082500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">小さな旅</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221126071500 +0900" stop="20221126072000 +0900" channel="eTele.jp">
-    <title lang="ko">ギョふんでサカナ★スター</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">愛くるしい表情から“海のウサギ”とも呼ばれるアイゴ。しかしその全身はたくさんの毒のとげで覆われている。磯で暮らすために進化を遂げたアイゴの生態をさかなクンが解説</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221126072000 +0900" stop="20221126073500 +0900" channel="eTele.jp">
-    <title lang="ko">なりきり! むーにゃん生きもの学園</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ウミガメは卵を産むとき涙を流す！と思われているけど実はあれ、涙ではない。海で暮らすために必要な行動で、海の中でもやっていることなのだ。ウミガメの生態を探るよ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221126073500 +0900" stop="20221126074500 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世の中の仕組みや構造、考え方をピタゴラらしいユニークな見方で伝えます！今回の人形劇は地下ゴラスイッチ。テーマは「いがいなものでふたをする」のまき。</desc>
+    <desc lang="ko">江戸時代から続く「唐津くんち」が３年ぶりに通常開催。巨大な曳山（やま）が町を駆け巡った。１メートル近いアラの姿煮など、くんち料理も。唐津っ子が熱狂した３日間。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2581,6 +2531,36 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221127072500 +0900" stop="20221127073000 +0900" channel="eTele.jp">
+    <title lang="ko">ポップイン!クラフト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">横浜市はシュウマイの消費額が日本一。ペットボトルのフタを利用して、見た目はシュウマイなのに実用的なスマホクリーナーを紹介。リボンやフェルトでかわいく飾ろう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221127073000 +0900" stop="20221127080000 +0900" channel="eTele.jp">
+    <title lang="ko">ワンワンわんだーらんど</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">会津若松のおともだちとワンダホー！ワンワンと「おきあがりこぼし」ごっこで大盛り上がり。テトテトテトテトテ、サンキュ！ワンワン３９９、ポポポポポーズほか</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221127080000 +0900" stop="20221127082500 +0900" channel="eTele.jp">
+    <title lang="ko">趣味の園芸 やさいの時間</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２０１６年１１月２７日のアンコール放送。観賞菜園ポタジェは、来年の春収穫を目指して、葉タマネギの苗を植え、カモミールのタネをまく。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20221126053000 +0900" stop="20221126080000 +0900" channel="NipponTV.jp">
     <title lang="ko">ズームイン!!サタデー</title>
     <rating system="MPAA">
@@ -2964,6 +2944,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221127073000 +0900" stop="20221127102500 +0900" channel="NipponTV.jp">
+    <title lang="ko">シューイチ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">GK権田の独自映像㊙素顔と母からの教え▽これやったらNG！脱・おじさん構文講座▽４足のわらじを履く超多才の僧侶に仰天！▽大連敗馬に大エール 日本の応援史を大調査</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
 <programme start="20221126060000 +0900" stop="20221126080000 +0900" channel="Asahi.jp">
   <title lang="ko">週刊ニュースリーダー</title>
     <rating system="MPAA">
@@ -3279,26 +3269,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221126053000 +0900" stop="20221126073000 +0900" channel="TBS2.jp">
-  <title lang="ko">まるっと!サタデー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">Ｗ杯コスタリカ戦秘策▽鶏肉不足の謎を追え▽朝からお得！軽トラ市▽この冬来る「薬不足」▽コロナ＆インフル同時検査キットとは▽全国旅行支援延長へ▽また電力値上げ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221126073000 +0900" stop="20221126075900 +0900" channel="TBS2.jp">
-  <title lang="ko">所さんお届けモノです!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">出演者の３人が個人的にハマったお取り寄せを紹介する恒例企画の特別編◆中でも特に反響が大きかった“３大お取り寄せ”に加え、お店の新作など最新情報も盛りだくさん！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221126075900 +0900" stop="20221126092500 +0900" channel="TBS2.jp">
   <title lang="ko">サタデープラス</title>
     <rating system="MPAA">
@@ -3605,22 +3575,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221126065400 +0900" stop="20221126070000 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
+<programme start="20221127073000 +0900" stop="20221127080000 +0900" channel="TBS2.jp">
+  <title lang="ko">がっちりマンデー!!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「柔道グランドスラム」の見どころをご紹介します！</desc>
+    <desc lang="ko">★儲かる！睡眠ビジネス２０２２★睡眠に関するビジネスでがっちり！な会社が登場！快適すぎるベッド、自動すぎるマクラ、いびき測るホテルがスゴい！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221126070000 +0900" stop="20221126073000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">イニミニマニモ</title>
+<programme start="20221127080000 +0900" stop="20221127095400 +0900" channel="TBS2.jp">
+  <title lang="ko">サンデーモーニング</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＰＵＩ　ＰＵＩ　モルカー・ペッパピッグ・しゅつどう！パジャマスクを豪華３本立てで放送中！イニミニマニモにモルカーが登場！</desc>
+    <desc lang="ko">一週間の見逃せないニュース＆スポーツをサンデーモーニングならではの視点でお送りします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4060,6 +4030,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221127073000 +0900" stop="20221127080000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">遊戯王ゴーラッシュ!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今、遠い銀河の果てから来た１人の宇宙戦士が、ラッシュデュエルという新たな戦場を駆け抜ける！行くぞ、ゴーラッシュ!!</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221127080000 +0900" stop="20221127083000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ポケモンとどこいく!?</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">数々のトライアルミッションをクリアしたゴウを夢みて、はじめしゃちょーや蛙亭が「プロジェクト・ミュウ」のミッションにトライ！ゴウ役、山下大輝から応援メッセージも！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221126060000 +0900" stop="20221126083000 +0900" channel="FujiTV.jp">
   <title lang="ko">めざましどようび</title>
     <rating system="MPAA">
@@ -4424,22 +4414,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221126063000 +0900" stop="20221126070000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221127073000 +0900" stop="20221127085500 +0900" channel="FujiTV.jp">
+  <title lang="ko">日曜報道 THE PRIME</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221126070000 +0900" stop="20221126073000 +0900" channel="Tokyo MX">
-  <title lang="ko">日本のチカラ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">下戸が学生結婚したら、雪国にワイナリーができました。</desc>
+    <desc lang="ko">今動いているニュースの「当事者」と、橋下徹がスタジオ生議論！「当事者の考え」が分かる！「日本の行方」が分かる！「ｄボタン」投票で番組に参加も！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4954,6 +4934,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221127073000 +0900" stop="20221127080000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221127080000 +0900" stop="20221127083000 +0900" channel="Tokyo MX">
+  <title lang="ko">あんぎゃでござる!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">栗あんぎゃ‼</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221126000000 +0900" stop="20221126013000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022 F1 GPニュース　〜第21戦、最終戦 特集〜</title>
 <desc>＜出演＞川井一仁　ほか
@@ -4987,7 +4987,7 @@ https//otn.fujitv.co.jp
 ＜開催＞2022年9月26日（月）【再放送】
 　〜オーストラリア・シドニー
 ＜解説＞中川聴乃　＜実況＞上中勇樹
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221126/9510672/image/f95e077bb684e9406582f92f20e20c77.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221126080000 +0900" stop="20221126083000 +0900" channel="FujiNext.jp">
@@ -5166,7 +5166,7 @@ https//otn.fujitv.co.jp
 <programme start="20221126073000 +0900" stop="20221126080000 +0900" channel="FujiOne.jp">
 <title lang="ko">パチスロ（旅） 394</title>
 <desc>＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221126/9511134/image/45f14d26a175c8840409f177cb669146.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221126080000 +0900" stop="20221126083000 +0900" channel="FujiOne.jp">
