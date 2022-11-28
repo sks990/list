@@ -1666,7 +1666,17 @@ WINNER MINOとBlock B P.Oが繰り広げる本格ファッション対決！
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221128170000 +0900" stop="20221128175700 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20221128170000 +0900" stop="20221128171000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221128171000 +0900" stop="20221128175700 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">ニュースLIVE!ゆう5時</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
