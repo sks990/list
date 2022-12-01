@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221201233000 +0900" stop="20221202000000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">斉木楠雄のΨ難 完結編</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">完結編 後編
-「旅行計画の詳Ψを詰めよう/見どころ満Ψ！忍舞観光！/Ψ悪の天Ψから世界を救Ψせよ！/斉木楠雄のΨ後(…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221202000000 +0900" stop="20221202010000 +0900" channel="ANIMAX.jp">
   <title lang="ko">サマータイムレンダ</title>
     <rating system="MPAA">
@@ -414,6 +403,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221203010000 +0900" stop="20221203020000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">戦姫絶唱シンフォギアGX</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">7「輝きを継ぐ、君らしく」8「向き合う勇気」
+かつて…融合症例と呼ばれた少女は、世界終焉の真際に奇跡を掴み、ガ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221201231000 +0900" stop="20221202033000 +0900" channel="FujiNext.jp">
 <title lang="ko">ダンススタジアム2021〜日本高校ダンス部選手権バトルトーナメント〜 西日本大会</title>
 <desc>“個のチカラ”がぶつかり合うバトルトーナメント！「日本高校ダンス部選手権 バトルトーナメント 西日本大会」を放送！
@@ -559,7 +559,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202000000 +0900" stop="20221202010000 +0900" channel="FujiOne.jp">
 <title lang="ko">ゲームセンターCX　331　雪兄弟「スノーブラザーズ」</title>
 <desc>超プレミアソフト「スノーブラザーズ」に挑戦！▽たまゲーが約1年半ぶりに復活！バー「TOKYO VIDEO GAMERS」へ ▽Barドリームマッチング
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550904/image/c2c669421bce6168d765a7273374b6e0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202010000 +0900" stop="20221202013000 +0900" channel="FujiOne.jp">
@@ -849,7 +849,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202000000 +0900" stop="20221202010000 +0900" channel="FujiTwo.jp">
 <title lang="ko">韓国ドラマ「素晴らしき、私の人生」17　【日本語字幕版】　（全28話）</title>
 <desc>第17話　＜出演＞チョン・ユミ　ヒョヌ　ヨン・ジョンフン　カン・ジソプ　ト・ジウォン　パク・サンミン　▽愛する勇気が人生を変えていく、ヒューマンラブストーリー
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550635/image/2d503827db4d9d71f552fca1116e5497.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202010000 +0900" stop="20221202011000 +0900" channel="FujiTwo.jp">
@@ -2027,22 +2027,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221201235500 +0900" stop="20221202000000 +0900" channel="eTele.jp">
-    <title lang="ko">Eテレ2355</title>
+  <programme start="20221203002500 +0900" stop="20221203011800 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROの塔</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">きょうの終わりにほっとひといき。『２３５５』は、見ると気持ちよくリラックスできる、おやすみ前にぴったりの５分番組です</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202000000 +0900" stop="20221202003000 +0900" channel="eTele.jp">
-    <title lang="ko">バリューの真実</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽空間認知機能を活用した「キレイな文字」のトレーニング方法▽連続ドラマ「たいせつを探して」第１話　出演田中樹</desc>
+    <desc lang="ko">「芸術は爆発だ！」１９７０年、ついに幕を開けた大阪万博。そのシンボルでもある「太陽の塔」をつくった芸術家・岡本太郎と「岡本家の人びと」の破天荒な人間模様を描く。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2817,22 +2807,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221201235900 +0900" stop="20221202005400 +0900" channel="NipponTV.jp">
-    <title lang="ko">Sister</title>
+  <programme start="20221203002500 +0900" stop="20221203003000 +0900" channel="eTele.jp">
+    <title lang="ko">ブレッド図書館（ライブラリー）</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">沙帆（瀧本美織）により拘束された凪沙（山本舞香）。自らの秘めた想いを語り始めた沙帆は、凪沙への復讐に至った驚愕の理由を告げる。今夜、沙帆の過去がすべて明らかに！</desc>
+    <desc lang="ko">これを見れば、あなたもパン好きに！パンの魅力を５分にギュッと詰めてお届けする「ブレッド図書館（ライブラリー）」。今回は「ベーグル」に注目。おいしさの秘密に迫る！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221202005400 +0900" stop="20221202005900 +0900" channel="NipponTV.jp">
-    <title lang="ko">イントロ</title>
+  <programme start="20221203003000 +0900" stop="20221203010000 +0900" channel="eTele.jp">
+    <title lang="ko">超多様性トークショー!なれそめ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日テレの番組の魅力を佐藤真知子アナが紹介する番組です。</desc>
+    <desc lang="ko">なれそめの数だけ、いろんな人生の楽しみ方がある！「正直に生きるプレゼンの神＆人生を全肯定する造形作家」田村淳、ｒｙｕｃｈｅｌｌ、シャララジマ、水瀬いのり（語り）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203010000 +0900" stop="20221203053000 +0900" channel="eTele.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3111,26 +3111,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221201232000 +0900" stop="20221202002000 +0900" channel="Asahi.jp">
-  <title lang="ko">アメトーーク!</title>
+  <programme start="20221203003500 +0900" stop="20221203010400 +0900" channel="NipponTV.jp">
+    <title lang="ko">サンドウィッチマンのジェラシーの館</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽新日本プロレス５０周年で実現▽くりぃむ有田＆ケンコバらが厳選…名勝負＆事件簿▽藤波・長州・武藤・橋本・棚橋・内藤・オカダ▽次週は「アントニオ猪木スゴイぞ芸人」</desc>
+    <desc lang="ko">一流芸能人が密かに“ジェラシー”を感じるお相手をスタジオにご招待！彼らの過去や考え方、努力などを聞き出し、この世を生き抜くノウハウを学ぶ新感覚情報バラエティー！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202002000 +0900" stop="20221202005000 +0900" channel="Asahi.jp">
-  <title lang="ko">テレビ千鳥</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">楽屋で食事中に突然、大悟が「スープが飲みたい」と言い出した！お湯に塩としょうゆを入れてみるが味気ない。そこでノブと商店街で捨てる食材を貰い出汁を取ることに！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221202005000 +0900" stop="20221202012500 +0900" channel="Asahi.jp">
   <title lang="ko">お願い!ランキングpresentsそだてれび</title>
     <rating system="MPAA">
@@ -3424,34 +3414,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221201235600 +0900" stop="20221202004000 +0900" channel="TBS2.jp">
-  <title lang="ko">このランキング異議アリ!</title>
+<programme start="20221203002000 +0900" stop="20221203002500 +0900" channel="Asahi.jp">
+  <title lang="ko">港時間</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＳｉｘＴＯＮＥＳ髙地がバイクで絶景ツアー！息を呑む絶景とは？
-オリラジ藤森は大自然サウナでととのいまくり！
-工藤美桜も参戦で、専門家との熱きバトルが開幕！</desc>
+    <desc lang="ko">【フランス／サン・マロ】白石康次郎さんが参戦する、大西洋単独横断レース「ルートデュラム」がスタート！カリブ海のグアドループへ向け、およそ６５６２ｋｍの戦いです。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202004000 +0900" stop="20221202005500 +0900" channel="TBS2.jp">
-  <title lang="ko">差出人は、誰ですか?</title>
+<programme start="20221203002500 +0900" stop="20221203005500 +0900" channel="Asahi.jp">
+  <title lang="ko">タモリ倶楽部</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">企画・原案秋元康による青春ヒューマンミステリー！突然始まった“手紙ゲーム”によって暴かれていく生徒たちの秘密…差出人は誰？5500名から選ばれた幸澤沙良主演！</desc>
+    <desc lang="ko">『SDGsにちょっと貢献!?簡易トイレの身の丈に合った選択！』近年キャンプ需要でも注目される「簡易トイレ」のトップメーカーを緊急招集！驚きの最新技術を体感してみます</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202005500 +0900" stop="20221202005800 +0900" channel="TBS2.jp">
-  <title lang="ko">全力アピール アダムシアター</title>
+<programme start="20221203005500 +0900" stop="20221203012500 +0900" channel="Asahi.jp">
+  <title lang="ko">ナスD大冒険TV</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今宵のゲストは「WATWING」超一流アーティストの輩出を目指す劇場でパフォーマーたちが自身の芸を全力アピール！</desc>
+    <desc lang="ko">テレビ朝日の社員・ナスＤが殆どの日本人が踏み入れた事のない世界の僻地に命懸けで向かい、知られざる文化・住む人々の暮らしをレポートする超本気紀行ドキュメント番組！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3653,22 +3641,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221201235500 +0900" stop="20221202000000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">みんなのスポーツ</title>
+<programme start="20221203002000 +0900" stop="20221203005000 +0900" channel="TBS2.jp">
+  <title lang="ko">有吉ジャポンII ジロジロ有吉</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">２０２２年の「流行語大賞」が本日決定。大賞は２年連続スポーツ界から！▽柔道界のビッグイベント「グランドスラム」が５年ぶりに東京にやってくる！開幕まであと２日！</desc>
+    <desc lang="ko">３年ぶりに日本で開催！２万人の観客を集めボックスカートレース本番！全国から集結した超個性派３５チーム相手に高木ひとみ○は優勝できる？▽超豪華！大会のウラ側に潜入</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202000000 +0900" stop="20221202003000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">じっくり聞いタロウ 〜スター近況(秘)報告〜</title>
+<programme start="20221203005000 +0900" stop="20221203012000 +0900" channel="TBS2.jp">
+  <title lang="ko">NEWSの全力!!メイキング</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">大食いタレント衝撃の実態大暴露▽大食い「魔女」から新時代の女王、YouTuberまで!驚異の大食い記録から、体のヒミツ…さらに!絶品お取り寄せグルメを大紹介</desc>
+    <desc lang="ko">sacai＆ビームスら一流ブランドが採用！２つの洋服を１つに合体ニコイチファッション作り！ガチ私服持ち込みタンスに眠る洋服を１軍トップスに！シソンヌ憧れキムタク</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4101,22 +4089,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221201235500 +0900" stop="20221202004500 +0900" channel="FujiTV.jp">
-  <title lang="ko">FNN Live News α</title>
+<programme start="20221203001200 +0900" stop="20221203005200 +0900" channel="TVTokyo.jp">
+  <title lang="ko">孤独のグルメ Season10</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">運命のスペイン戦直前カタールから最新情報▽流行語大賞…今年は候補３０語から決定！</desc>
+    <desc lang="ko">松重豊主演・孤独のグルメSeason10！今回は荒川区「日暮里」慣れない依頼でお腹が減った五郎は、繊維問屋を背にメニュー豊富な「韓国式中華」料理屋を発見し赤黒麺を堪能。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202004500 +0900" stop="20221202005500 +0900" channel="FujiTV.jp">
-  <title lang="ko">日曜日は「THE MANZAI」その前に去年の爆笑を…</title>
+<programme start="20221203005200 +0900" stop="20221203012300 +0900" channel="TVTokyo.jp">
+  <title lang="ko">真相は耳の中</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">１２月４日（日）夜７時放送！「ＴＨＥ　ＭＡＮＺＡＩマスターズ」超一流＆王者が一堂に会する年に一度の漫才の祭典！その前に昨年の爆笑漫才をお届けします！！</desc>
+    <desc lang="ko">崖っぷち刑事の“父”を救うのは推理オタクの“娘”のミステリー番組！？譲治と金持が婚活パーティーに参加！会場で起きた殺人事件で譲治が容疑者にされてしまう…！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4311,22 +4299,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221201233000 +0900" stop="20221202000000 +0900" channel="Tokyo MX">
-  <title lang="ko">虫かぶり姫</title>
+<programme start="20221203001000 +0900" stop="20221203010000 +0900" channel="FujiTV.jp">
+  <title lang="ko">FNN Live News α</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">本好き令嬢の勘違いラブファンタジー！</desc>
+    <desc lang="ko">働く人に役立つ情報を＋αして、その日のニュースをコンパクトにお伝えします。キャスターは月〜水曜日が三田友梨佳、木〜金曜日は内田嶺衣奈。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202000000 +0900" stop="20221202003000 +0900" channel="Tokyo MX">
-  <title lang="ko">アキバ冥途戦争</title>
+<programme start="20221203010000 +0900" stop="20221203011000 +0900" channel="FujiTV.jp">
+  <title lang="ko">日曜日は「THE MANZAI」その前に去年の爆笑を…</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">Cygames × P.A.WORKSのタッグで贈る、オリジナルTVアニメ</desc>
+    <desc lang="ko">１２月４日（日）夜７時放送！「ＴＨＥ　ＭＡＮＺＡＩマスターズ」超一流＆王者が一堂に会する年に一度の漫才の祭典！その前に昨年の爆笑漫才をお届けします！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4801,6 +4789,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221203003000 +0900" stop="20221203010000 +0900" channel="Tokyo MX">
+  <title lang="ko">ジョジョの奇妙な冒険 ストーンオーシャン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203010000 +0900" stop="20221203010500 +0900" channel="Tokyo MX">
+  <title lang="ko">アニメノウタ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">人気ＶＴｕｂｅｒのミライアカリがＭＣを務め、アニメカルチャーで活躍するアーティストのパフォーマンスをバーチャルライブでお届けする音楽番組「アニメノウタ」。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221201231000 +0900" stop="20221202033000 +0900" channel="FujiNext.jp">
 <title lang="ko">ダンススタジアム2021〜日本高校ダンス部選手権バトルトーナメント〜 西日本大会</title>
 <desc>“個のチカラ”がぶつかり合うバトルトーナメント！「日本高校ダンス部選手権 バトルトーナメント 西日本大会」を放送！
@@ -4946,7 +4954,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202000000 +0900" stop="20221202010000 +0900" channel="FujiOne.jp">
 <title lang="ko">ゲームセンターCX　331　雪兄弟「スノーブラザーズ」</title>
 <desc>超プレミアソフト「スノーブラザーズ」に挑戦！▽たまゲーが約1年半ぶりに復活！バー「TOKYO VIDEO GAMERS」へ ▽Barドリームマッチング
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550904/image/c2c669421bce6168d765a7273374b6e0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202010000 +0900" stop="20221202013000 +0900" channel="FujiOne.jp">
@@ -5236,7 +5244,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202000000 +0900" stop="20221202010000 +0900" channel="FujiTwo.jp">
 <title lang="ko">韓国ドラマ「素晴らしき、私の人生」17　【日本語字幕版】　（全28話）</title>
 <desc>第17話　＜出演＞チョン・ユミ　ヒョヌ　ヨン・ジョンフン　カン・ジソプ　ト・ジウォン　パク・サンミン　▽愛する勇気が人生を変えていく、ヒューマンラブストーリー
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550635/image/2d503827db4d9d71f552fca1116e5497.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202010000 +0900" stop="20221202011000 +0900" channel="FujiTwo.jp">
