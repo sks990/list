@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221202033000 +0900" stop="20221202040000 +0900" channel="ANIMAX.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221202040000 +0900" stop="20221202050000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ハイキュー!! TO THE TOP</title>
     <rating system="MPAA">
@@ -413,6 +403,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221203050000 +0900" stop="20221203060000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ジョジョの奇妙な冒険</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">5「暗黒の騎士達」
+6「あしたの勇気」
+古代メキシコで繁栄を遂げた太陽の民アステカには、奇妙な“石仮面”が伝わっ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221201231000 +0900" stop="20221202033000 +0900" channel="FujiNext.jp">
 <title lang="ko">ダンススタジアム2021〜日本高校ダンス部選手権バトルトーナメント〜 西日本大会</title>
 <desc>“個のチカラ”がぶつかり合うバトルトーナメント！「日本高校ダンス部選手権 バトルトーナメント 西日本大会」を放送！
@@ -426,7 +428,7 @@
 ＜主宰＞兵動大樹
 ＜怪員（怪談師）＞響洋平　黒木あるじ　富田安洋
 ＜ゲスト＞RENA
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550831/image/626a1c9ff569f51651dd5ef42a4f66e7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202050000 +0900" stop="20221202060000 +0900" channel="FujiNext.jp">
@@ -612,7 +614,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202044500 +0900" stop="20221202050000 +0900" channel="FujiOne.jp">
 <title lang="ko">ラーメンWalker TV2　339</title>
 <desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550912/image/3da1f3d7e75bfc31cdd7bfe09f17a5b6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202050000 +0900" stop="20221202053000 +0900" channel="FujiOne.jp">
@@ -1152,7 +1154,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202042000 +0900" stop="20221202050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　54　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9515147/image/11b3fb8e2c987f6bd8f2bfff8f6f1a89.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202050000 +0900" stop="20221202060000 +0900" channel="kbsworld.jp">
@@ -1506,36 +1508,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221202034700 +0900" stop="20221202040000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">美景・絶景 日本列島再発見</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本列島を北から南まで５つの異なる自然環境に分け、日本の自然を極上の映像で伝える番組。シリーズ１は北海道編。亜寒帯の原始の姿を止める大自然を紹介する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202040000 +0900" stop="20221202041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニッポンの里山 ふるさとの絶景に出会う旅</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">島根県の米どころ出雲平野。築地松と呼ばれる屋敷林に囲まれた家が点在し独特の景観を生んでいる。冬を前に松の剪定が始まる頃、屋敷林の周りには多くの渡り鳥がやってくる</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202041000 +0900" stop="20221202042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">中国の「ゼロコロナ」政策に対し、各地で異例の抗議活動が相次いだ。なぜ抗議が起きたのか、背景となった「ゼロコロナ」の課題、習指導部に求められることは何かを考える。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221202042000 +0900" stop="20221202050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">国際報道2022</title>
     <rating system="MPAA">
@@ -2956,47 +2928,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221202035900 +0900" stop="20221202041900 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレポシュレ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日テレポシュレで大ヒット中！ミライスピーカーを20分でじっくりご紹介。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202041900 +0900" stop="20221202042400 +0900" channel="NipponTV.jp">
-    <title lang="ko">かがみの孤城 ここが凄い!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">當真あみ、北村匠海、宮﨑あおいら豪華ボイスキャストのインタビューや原作者の辻村深月、原恵一監督のこの作品に懸ける想いなど貴重なお話をたっぷりお届けします！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202042400 +0900" stop="20221202042900 +0900" channel="NipponTV.jp">
-    <title lang="ko">5分で分かる「劇場版転スラ」</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">大人気異世界転生エンターテインメント「転スラ」を５分で分かりやすく解説！
-また初の劇場版の豪華声優陣からのコメントもお見逃しなく！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202042900 +0900" stop="20221202043000 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレみどころ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221202043000 +0900" stop="20221202055000 +0900" channel="NipponTV.jp">
     <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
@@ -3210,26 +3141,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221202033000 +0900" stop="20221202040000 +0900" channel="Asahi.jp">
-  <title lang="ko"></title>
+  <programme start="20221203041400 +0900" stop="20221203051400 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレポシュレ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
+    <desc lang="ko">車載もできる冷凍冷蔵庫、新登場クリーナー、バカ売れサーキュレーター、青山大学陸上部愛用のマットレス、日テレオリジナルおせちなどお得商品満載！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202040000 +0900" stop="20221202045500 +0900" channel="Asahi.jp">
-  <title lang="ko">暴れん坊将軍IV</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「春一番！天狗の子がやって来た」松平健(他)▽神社の境内で子連れの見知らぬ男から、しばらく子供を預かってほしいと頼まれたおさい。わけがわからぬまま、家に連れ帰ると…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221202045500 +0900" stop="20221202080000 +0900" channel="Asahi.jp">
   <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
@@ -3524,12 +3445,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202034500 +0900" stop="20221202043000 +0900" channel="TBS2.jp">
-  <title lang="ko">TBS NEWS</title>
+<programme start="20221203042500 +0900" stop="20221203045000 +0900" channel="Asahi.jp">
+  <title lang="ko">渡辺篤史の建もの探訪</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+    <desc lang="ko">「内と外 どちらも楽しむ象の形の平屋」群馬県邑楽町・森本邸</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203045000 +0900" stop="20221203052000 +0900" channel="Asahi.jp">
+  <title lang="ko">テレメンタリー2022</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">過去最悪を更新した再犯者率。犯罪者の2人に1人が就職難などを理由に罪を繰り返し、刑務所に戻ってしまうのが現状だ。その難局に前科前歴12犯の元受刑者社長が立ち向かう。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3758,22 +3689,23 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202035500 +0900" stop="20221202040500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ラビッツ インベージョン</title>
+<programme start="20221203041500 +0900" stop="20221203044500 +0900" channel="TBS2.jp">
+  <title lang="ko">開運音楽堂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">透明になる薬を開発した研究員のラビッツ。せっかく透明になったのに、パンツを履くと行動がバレバレ！面白がる仲間から逃げ惑う研究員が、次に開発した薬とは！？</desc>
+    <desc lang="ko">乃木坂46 吉田綾乃クリスティーが春以来！そして黒見明香が初めて開運スタジオ登場！▽角 かおるの開運音楽占いがスタート！▽アーティストに肉薄できるヘッドフォン！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202040500 +0900" stop="20221202042200 +0900" channel="TVTokyo.jp">
+<programme start="20221203044500 +0900" stop="20221203051500 +0900" channel="TBS2.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">通販番組（ＴＶショッピング）
+</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4195,6 +4127,29 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221203040500 +0900" stop="20221203043000 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203043000 +0900" stop="20221203055500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ものスタ サタデー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221202034000 +0900" stop="20221202061000 +0900" channel="FujiTV.jp">
   <title lang="ko">2022 FIFAワールドカップ</title>
     <rating system="MPAA">
@@ -4411,26 +4366,6 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">激戦が予想されるグループＧ、ベスト１６入りを懸けた一戦。ストイコビッチ監督率いるセルビアとスイスの因縁の対決。最有力のブラジルと共に突破を決めるのは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202033400 +0900" stop="20221202040000 +0900" channel="Tokyo MX">
-  <title lang="ko">週刊バイクTV</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">バイク本来の持っている自由な楽しさや素晴らしさを、ライダーだけでなく、バイクに乗ったことない方にもお伝えするバイク情報番組。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202040000 +0900" stop="20221202043000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4915,6 +4850,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221203043000 +0900" stop="20221203050000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203050000 +0900" stop="20221203053000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221201231000 +0900" stop="20221202033000 +0900" channel="FujiNext.jp">
 <title lang="ko">ダンススタジアム2021〜日本高校ダンス部選手権バトルトーナメント〜 西日本大会</title>
 <desc>“個のチカラ”がぶつかり合うバトルトーナメント！「日本高校ダンス部選手権 バトルトーナメント 西日本大会」を放送！
@@ -4928,7 +4883,7 @@ https//otn.fujitv.co.jp
 ＜主宰＞兵動大樹
 ＜怪員（怪談師）＞響洋平　黒木あるじ　富田安洋
 ＜ゲスト＞RENA
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550831/image/626a1c9ff569f51651dd5ef42a4f66e7.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202050000 +0900" stop="20221202060000 +0900" channel="FujiNext.jp">
@@ -5114,7 +5069,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202044500 +0900" stop="20221202050000 +0900" channel="FujiOne.jp">
 <title lang="ko">ラーメンWalker TV2　339</title>
 <desc>ラーメンをこよなく愛するあなたのための情報プログラム。今食べるべきラーメン店を徹底的にご紹介！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550912/image/3da1f3d7e75bfc31cdd7bfe09f17a5b6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202050000 +0900" stop="20221202053000 +0900" channel="FujiOne.jp">
@@ -5654,7 +5609,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202042000 +0900" stop="20221202050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　54　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9515147/image/11b3fb8e2c987f6bd8f2bfff8f6f1a89.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202050000 +0900" stop="20221202060000 +0900" channel="kbsworld.jp">
