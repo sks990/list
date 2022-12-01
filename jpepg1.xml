@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221202010000 +0900" stop="20221202020000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">戦姫絶唱シンフォギアGX</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">5「Edge Works」6「抜剣」
-かつて…融合症例と呼ばれた少女は、世界終焉の真際に奇跡を掴み、ガングニールのシンフ…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221202020000 +0900" stop="20221202030000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士ガンダム</title>
     <rating system="MPAA">
@@ -415,6 +404,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221203030000 +0900" stop="20221203033000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">BORUTO-ボルト- NARUTO NEXT GENERATIONS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">267「カワキ、正体発覚!?」
+平和と共に近代化が進んだ木ノ葉隠れの里。忍の生き方も変わりつつあるそんな時代…。里…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221201231000 +0900" stop="20221202033000 +0900" channel="FujiNext.jp">
 <title lang="ko">ダンススタジアム2021〜日本高校ダンス部選手権バトルトーナメント〜 西日本大会</title>
 <desc>“個のチカラ”がぶつかり合うバトルトーナメント！「日本高校ダンス部選手権 バトルトーナメント 西日本大会」を放送！
@@ -588,7 +588,7 @@ https//otn.fujitv.co.jp
 <desc>『塩原温泉編 後篇』
 撮影地赤沢温泉旅館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550908/image/d32254835058cffa56419f4bb7dcae52.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202030000 +0900" stop="20221202040000 +0900" channel="FujiOne.jp">
@@ -1508,16 +1508,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221202020000 +0900" stop="20221202024700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">スポーツ×ヒューマン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">７大会連続ワールドカップ出場を決めた日本。キャプテンとしてチームを引っ張ってきた吉田麻也は、計り知れない重圧と戦ってきた。吉田が理想とするキャプテン像に迫った。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221202024700 +0900" stop="20221202031500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">ダーウィンが来た!</title>
     <rating system="MPAA">
@@ -2044,6 +2034,116 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「芸術は爆発だ！」１９７０年、ついに幕を開けた大阪万博。そのシンボルでもある「太陽の塔」をつくった芸術家・岡本太郎と「岡本家の人びと」の破天荒な人間模様を描く。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203021300 +0900" stop="20221203021500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">いま話題のアプリ・ＮＨＫプラスを俳優・町田啓太が超速解説！見逃した番組をスマホやＰＣでいつでもどこでも見られる！誰でも簡単にできる登録方法をプレゼン！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203021500 +0900" stop="20221203022000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ファスナーつきの赤い奇獣は岡本太郎作品『森の掟』に描かれたもの。「でたらめをやってごらん」という太郎の言葉どおりＴＡＲＯＭＡＮと〈でたらめ対決〉を繰り広げます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203022000 +0900" stop="20221203022500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第２話に登場する奇獣は、岡本太郎のぼん鐘『歓喜』の姿。「自分の歌を歌えばいいんだよ」という言葉通りＴＡＲＯＭＡＮは町にあふれる音と自由なセッションを繰り広げます</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203022500 +0900" stop="20221203023000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第３話は絵画『未来を見た』が登場。「ミライヲミタイカ？」と人々に未来の自分を知らせては無気力にさせる奇獣に、ＴＡＲＯＭＡＮは予測不能な行動で対抗します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203023000 +0900" stop="20221203023500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第４話は絵画『駄々っ子』。駄々をこねる奇獣に、立ち向かわないＴＡＲＯＭＡＮ。「同じことをくりかえすくらいなら、死んでしまえ」という太郎の言葉を実践するように…。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203023500 +0900" stop="20221203024000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第５話に登場する奇獣は、絵画『疾走する眼』。街中を疾走する眼に、ＴＡＲＯＭＡＮが追いついた！しかしタッチして即逃げる展開は「真剣に、命がけで」遊ぶ鬼ごっこ？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203024000 +0900" stop="20221203024500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第６話は絵画『みつめあう愛』。「美しくなりたい」と願う若者を宇宙の惑星に連れて行くＴＡＲＯＭＡＮ。そこでは同じ顔にしか見えない宇宙人たちが外見を嘆き合っていた！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203024500 +0900" stop="20221203025000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">椅子型の彫刻「手−赤」「手−青」にぐちゃぐちゃにこねられるＴＡＲＯＭＡＮ。かっこ悪くなりながら「好かれるヤツほどダメになる」と言う彼が人々にもたらす思いとは？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203025000 +0900" stop="20221203025500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">絵画『傷ましき腕』が、画家や作家を次々誘拐します。しかし当人たちは満足げ。「孤独こそ人間が強烈に生きるバネだ」、連れ去られた孤独状態でこそ創作がはかどった、と。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203025500 +0900" stop="20221203030000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">彫刻『午後の日』が地球侵略の、過去のＴＡＲＯＭＡＮの戦いを分析し、楽に勝つ方法を会議中。ＴＡＲＯＭＡＮはその小賢しさを許しません。「なま身の自分に賭けろ！」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203030000 +0900" stop="20221203030500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">TAROMAN 岡本太郎式特撮活劇</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">『太陽の塔』と、必殺技「芸術は爆発だ」で戦うＴＡＲＯＭＡＮ。その技は、ただの爆発攻撃ではなく、その瞬間に全存在をかけていのちを燃焼させる行為なのでした。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2848,26 +2948,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221202015900 +0900" stop="20221202022900 +0900" channel="NipponTV.jp">
-    <title lang="ko">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">前回に続いて、その地域では大スター⁉の面々がご当地タレント事情を赤裸々告白！ご当地で成功するための条件とは⁉</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202022900 +0900" stop="20221202025900 +0900" channel="NipponTV.jp">
-    <title lang="ko">川島・山内のマンガ沼</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">大好評企画！川島＆山内のおすすめマンガ祭り▽話題作から青田買いまで！超ノリノリでプレゼン▽川島熱弁！ホワイトボード必須の「とんでも人間関係」不倫マンガとは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221202025900 +0900" stop="20221202032900 +0900" channel="NipponTV.jp">
     <title lang="ko">オードリーのNFL倶楽部</title>
     <rating system="MPAA">
@@ -3122,36 +3202,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221202013100 +0900" stop="20221202020100 +0900" channel="Asahi.jp">
-  <title lang="ko">出川一茂ホラン☆フシギの会</title>
+  <programme start="20221203020400 +0900" stop="20221203024900 +0900" channel="NipponTV.jp">
+    <title lang="ko">夜バゲット</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">芸能界を代表するアンコントロールな２人“出川哲朗”＆“長嶋一茂”そして日本一おじさんタレントの扱いが上手い“ホラン千秋”今までになかったフシギＭＣトリオの番組！</desc>
+    <desc lang="ko">金曜深夜に贈るエンターテインメント情報番組！MCに日テレアナウンサー川畑一志と郡司恭子。映画『かがみの孤城』から吉柳咲良と横溝菜帆がスタジオに登場！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202020100 +0900" stop="20221202022100 +0900" channel="Asahi.jp">
-  <title lang="ko">ぺこぱポジティブNEWS</title>
+  </programme>
+  <programme start="20221203024900 +0900" stop="20221203041400 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレポシュレ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">がんばらずに世界一？ある男たちが都内某所に集結！がんばらずに世界一を目指すそのポジティブな挑戦に密着！▽トンツカタン森本が世界一を目指すなら？</desc>
+    <desc lang="ko">お掃除アイテム、口腔ケアアイテム、新登場！湯たんぽ＆買い物カート、コードレス洗浄機や冬用あったか寝具、ホタテ、おせちまでこの時期欲しい商品をお得に提供！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202022100 +0900" stop="20221202024100 +0900" channel="Asahi.jp">
-  <title lang="ko">阿佐ヶ谷ワイド!!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">阿佐ヶ谷の魅力を発見できる、阿佐ヶ谷姉妹による阿佐ヶ谷を題材とした地域密着バラエティ！阿佐ヶ谷姉妹と住民の方々とのほっこり心を温める人間ドラマをお届けします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221202024100 +0900" stop="20221202030100 +0900" channel="Asahi.jp">
   <title lang="ko">トンツカタン森本フワちゃんの「Thursday　Night　Show」</title>
     <rating system="MPAA">
@@ -3446,22 +3516,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202015800 +0900" stop="20221202023800 +0900" channel="TBS2.jp">
-  <title lang="ko">アカデミーナイトG</title>
+<programme start="20221203022500 +0900" stop="20221203024500 +0900" channel="Asahi.jp">
+  <title lang="ko">新日ちゃんぴおん。</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">映画「ラーゲリより愛を込めて」キャスト北川景子が語る共演秘話＆家族からの言葉！Kバレエ「くるみ割り人形」実力派ダンサー杉野慧が見所プレゼン！かもめんたる初登場！</desc>
+    <desc lang="ko">新日本プロレスとテレ朝によるプロレスバラエティ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202023800 +0900" stop="20221202024500 +0900" channel="TBS2.jp">
-  <title lang="ko">イベントGO!</title>
+<programme start="20221203024500 +0900" stop="20221203030500 +0900" channel="Asahi.jp">
+  <title lang="ko">音チク コンサート</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
+    <desc lang="ko">ピアニスト清塚信也と声優の木村昴が送る深夜のサウンドバラエティ▼木村の疑問「スーパーでよく聞くあの曲は何？」▼「ティンパニに頭を突っ込んでしまう」演奏とは⁉</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3670,33 +3740,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202013000 +0900" stop="20221202020000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">占いなんて信じない</title>
+<programme start="20221203022500 +0900" stop="20221203025500 +0900" channel="TBS2.jp">
+  <title lang="ko">コードギアス 反逆のルルーシュR2</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">加藤浩次ＭＣ！マジでリアルな占い番組が始動</desc>
+    <desc lang="ko">◆ＴＵＲＮ２２『皇帝ルルーシュ』▼世界は変貌を遂げようとしていた。超合集国とブリタニア帝国。二極化した力の激突は避けられないのか？運命が変転し絡み合い……</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202020000 +0900" stop="20221202020500 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
+<programme start="20221203025500 +0900" stop="20221203030700 +0900" channel="TBS2.jp">
+  <title lang="ko">イベントGO!プラス</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「柔道グランドスラム」の見どころをご紹介します！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202020500 +0900" stop="20221202023500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">きらきらアフロTM</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">台本ナシ、打ち合わせナシ、反省会ナシ！日常の面白い出来事を、鶴瓶＆松嶋が語る撮って出しの新鮮トークライブ！
-【出演】笑福亭鶴瓶、松嶋尚美</desc>
+    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4118,12 +4177,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202015500 +0900" stop="20221202020000 +0900" channel="FujiTV.jp">
+<programme start="20221203022300 +0900" stop="20221203023000 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+    <desc lang="ko">「柔道グランドスラム」の見どころをご紹介します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203023000 +0900" stop="20221203030000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">流派-R since2001</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">R-FeatureMACK　JACK/VIEWSおかもとえみ/HIPHOPミーツallグッド何かサイプレス上野　般若</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203030000 +0900" stop="20221203031500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よるパ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">誰もが翻弄される戦慄のサイコサスペンスとして話題を集めた映画！「死刑にいたる病」のDVDをご紹介。主演・阿部サダヲの怪演シーンをちょい見せしちゃいます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4328,32 +4407,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202013500 +0900" stop="20221202020500 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221203021000 +0900" stop="20221203030000 +0900" channel="FujiTV.jp">
+  <title lang="ko">PICU 小児集中治療室</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">志子田は心室細動を起こした圭吾の処置にあたる。その最中、小学生男児２人が倒れているとの連絡が入りドクターカーで現場へ駆けつける。一人は心停止していて…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202020500 +0900" stop="20221202023400 +0900" channel="Tokyo MX">
-  <title lang="ko">らいコレTV</title>
+<programme start="20221203030000 +0900" stop="20221203034000 +0900" channel="FujiTV.jp">
+  <title lang="ko">2022 FIFAワールドカップ ハイライト</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">月の歌声を持つシンガーライバー「如月愛里」が番組登場！デパートコスメの美容部員から華麗な転身！番組後半は、ａｉｌｅのトップライバーへの道！今回のお題は？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202023400 +0900" stop="20221202023500 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">カタールで熱戦続くワールドカップ世界各国の最新情報！日本代表グループステージ３試合の激闘の模様をハイライトで振り返ります。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4808,6 +4877,36 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221203020500 +0900" stop="20221203023400 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203023400 +0900" stop="20221203023500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203023500 +0900" stop="20221203030500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221201231000 +0900" stop="20221202033000 +0900" channel="FujiNext.jp">
 <title lang="ko">ダンススタジアム2021〜日本高校ダンス部選手権バトルトーナメント〜 西日本大会</title>
 <desc>“個のチカラ”がぶつかり合うバトルトーナメント！「日本高校ダンス部選手権 バトルトーナメント 西日本大会」を放送！
@@ -4981,7 +5080,7 @@ https//otn.fujitv.co.jp
 <desc>『塩原温泉編 後篇』
 撮影地赤沢温泉旅館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221201/9550908/image/d32254835058cffa56419f4bb7dcae52.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202030000 +0900" stop="20221202040000 +0900" channel="FujiOne.jp">
