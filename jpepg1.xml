@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221202210000 +0900" stop="20221202220000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ハイキュー!! TO THE TOP</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">21「ヒーロー」22「ハーケン」
-春の高校バレー宮城県予選、全国大会出場を決めた烏野高校排球部。彼らのもとに、影…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221202220000 +0900" stop="20221202230000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ジョジョの奇妙な冒険</title>
     <rating system="MPAA">
@@ -362,6 +351,27 @@ A.S.(アド・ステラ)122。数多の企業が宇宙へ進出し、巨大な�
     </rating>
     <desc lang="ko">5
 テラの大地では、原因不明の天災が各地で不規則に発生している。そこで大多数の人々は天災から逃れるために、長い…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203223000 +0900" stop="20221203230000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ちびまる子ちゃん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">527「たまちゃん、勇気を出す」の巻／「くるくる万華鏡」の巻
+静岡県清水市に住む小学3年生のももこは、みんなから“…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203230000 +0900" stop="20221204000000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">斉木楠雄のΨ難 Ψ始動編</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第3χ「異Ψを放つ新任教師現る/身体測定のΨ難/両親不Ψの友達の家に遊びに行こう/目指せ！ジャンプ掲Ψ/皆様も是非…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1219,7 +1229,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202220000 +0900" stop="20221202230000 +0900" channel="kbsworld.jp">
 <title lang="ko">芸能ライブ　[字]</title>
 <desc>日本初放送！ＫＢＳの芸能街中継がリニューアルして帰ってきた！韓国の芸能ニュースをいち早くお届けする情報番組！2020年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221202/9515166/image/2f7452d1149fa18a0849dd264034fe91.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202230000 +0900" stop="20221203011500 +0900" channel="kbsworld.jp">
@@ -1459,26 +1469,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221202210000 +0900" stop="20221202220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽日本　スペインに逆転で歴史的勝利！　決勝Ｔへ　▽自公「反撃能力」保有で合意　▽物価高騰対策・補正予算が成立</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221202220000 +0900" stop="20221202224500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">アナザーストーリーズ 運命の分岐点</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">被害総額２０００億円の詐欺商法、豊田商事の永野一男会長が白昼、報道陣の前で殺害された。現場に居合わせた記者らが語る真相、そして謎に包まれた永野会長の実像とは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221202224500 +0900" stop="20221202231500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">2022 FIFAワールドカップ ハイライト</title>
     <rating system="MPAA">
@@ -2179,22 +2169,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221202212500 +0900" stop="20221202220000 +0900" channel="eTele.jp">
-    <title lang="ko">新・にっぽんの芸能</title>
+  <programme start="20221203225000 +0900" stop="20221203225200 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">作りたい女と食べたい女 ダイジェスト</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">鎌倉武士も音楽を奏でた！？白拍子・静の舞とは？鶴岡八幡宮で当時の芸能事情に迫り、舞殿で尾上右近が静御前の舞に挑む特別企画も！大好評にお応えし１０月の放送を再び！</desc>
+    <desc lang="ko">夜ドラ「作りたい女と食べたい女」第１週を二分で振り返る。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221202220000 +0900" stop="20221202223000 +0900" channel="eTele.jp">
-    <title lang="ko">ねほりんぱほりん</title>
+  <programme start="20221203225200 +0900" stop="20221203225500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">拾われた男 ダイジェスト</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">モグラになった山里亮太とＹＯＵが顔出しＮＧのゲストからねほりはほりする人形劇赤裸々トークショー。今回のゲストは人気商品を高値で売りさばく「転売ヤー」の３人。</desc>
+    <desc lang="ko">「拾われた男」８話ダイジェスト。倒れた兄・武志（草彅剛）を救いに渡米した諭（仲野太賀）。不法滞在で高額の医療費問題まで抱える問題だらけの兄に、諭は頭を抱える…。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203225500 +0900" stop="20221203230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203230000 +0900" stop="20221203233000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">Venue101</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ＩＮＩは今年を振り返ってメンバーの重大ポイントを告白！＆ＴＥＡＭは皆さんからの質問に生で答えてくれちゃいます！ＳＵＰＥＲ　ＢＥＡＶＥＲはライブ・フェスを語ります</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2789,12 +2799,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221202210000 +0900" stop="20221202225900 +0900" channel="NipponTV.jp">
-    <title lang="ko">金曜ロードショー</title>
+  <programme start="20221203223000 +0900" stop="20221203230000 +0900" channel="eTele.jp">
+    <title lang="ko">太田光のつぶやき英語</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">見ると元気になれる大ヒットコメディー★ウーピー・ゴールドバーグ主演★命を狙われたクラブ歌手が修道院に逃げ込み大騒動★クリスマスシーズンにピッタリの永遠の名作！</desc>
+    <desc lang="ko">ＳＮＳで話題のニュースやトレンドなど、注目のハッシュタグへの海外からの投稿を英語で読み解き、世界の“今”を知る英語情報番組。ＭＣ太田光（爆笑問題）・森川葵</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203230000 +0900" stop="20221204000000 +0900" channel="eTele.jp">
+    <title lang="ko">ETV特集</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">【文化庁芸術祭参加作品】日本はなぜ戦争への道を歩んだのか。昭和天皇に関する一級史料「拝謁記」「百武三郎日記」が公開された。張作霖爆殺事件から日中戦争まで描く。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3077,6 +3097,36 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">豪華アーティスト集結！MISIAとミッキーマウスが夢の競演▼ブラックビスケッツが20年ぶり復活▼NiziU・福山・キンキ…生出演▼キンプリの生歌唱からスタート！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203225400 +0900" stop="20221203225700 +0900" channel="NipponTV.jp">
+    <title lang="ko">シャカレキ!〜社会歴史研究部〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「○年前の○月○日にあった出来ごと」を当時の映像や写真で解りやすく紹介！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203225700 +0900" stop="20221203230000 +0900" channel="NipponTV.jp">
+    <title lang="ko">Creator’s Space</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">人気クリエイターの仕事空間を訪ねて、職場や道具やクリエイティブのこだわりを伺う。そこで「オリジナル作品」の制作を依頼。作品のテーマは［SPACE/スペース］</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203230000 +0900" stop="20221203233000 +0900" channel="NipponTV.jp">
+    <title lang="ko">マツコ会議</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">隙間時間に撮影！遊んでいるけど怒られないその動画とは？小学校時代のうんこエピソードが芸人になったきっかけ！？自分の弱点が武器になる方法とは？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3512,22 +3562,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202200000 +0900" stop="20221202220000 +0900" channel="TBS2.jp">
-  <title lang="ko">中居正広の金曜日のスマイルたちへ</title>
+<programme start="20221203225500 +0900" stop="20221203230000 +0900" channel="Asahi.jp">
+  <title lang="ko">熱冬〜高校バスケSoftBankウインターカップ2022〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">🈑＜MC二宮和也×松坂桃李×桐谷健太×安田顕＞豪華俳優陣が4人だけ本音ガチトーク★収録後に中居より愛を込めて…本人からの生電話！中居×二宮２人っきりで何を語る？</desc>
+    <desc lang="ko">八村塁ら数多くの日本代表を生んできた高校バスケ『SoftBankウインターカップ2022』が12月に開幕！日本一を狙う高校生の熱い冬を徹底紹介‼新たなスターがここから！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202220000 +0900" stop="20221202225400 +0900" channel="TBS2.jp">
-  <title lang="ko">クロサギ</title>
+<programme start="20221203230000 +0900" stop="20221203233000 +0900" channel="Asahi.jp">
+  <title lang="ko">ボーイフレンド降臨!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ついに真の仇・宝条に接触！ローン詐欺でパパを奪われた家族が、全員でクロサギとタッグ！？巨大銀行に立ち向かう！待ち受けていたのは、黒崎の亡き父に繋がる秘密だった―</desc>
+    <desc lang="ko">【愛の告白？最終章突入‼】記憶喪失の青年・アサヒ（髙橋海人）と、崖っぷちの年上女子（桜井ユキ・田中みな実）が繰り広げる１２歳差のトライアングル・ラブコメディー！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3874,26 +3924,6 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">“ドーハの歓喜”再び！早朝Ｗ杯スペイン戦に列島興奮◆俳優・渡辺徹さん…悼む声◆キャンプの次？サバイバル熱視線◆失われた歯茎再生⁉◆密着‼三谷幸喜…菊池寛賞贈呈式</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202215400 +0900" stop="20221202220000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">わたしのヒュッゲ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">片付けに「断捨離」という言葉を持ち込み、世間に広めたやました本人の家を拝見。30時間煮込む料理とは？またコロナ禍で始め、今もすっかりはまっている読書法とは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202220000 +0900" stop="20221202225400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ガイアの夜明け</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">とんかつ「かつや」のトップが独立！格安フレンチにあんかけ焼きそばまで・・・驚きの店作りに密着！▽居酒屋業界の繁盛店仕掛け人が挑む“茨城づくし”店の秘密！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4318,12 +4348,23 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221202215800 +0900" stop="20221202225200 +0900" channel="FujiTV.jp">
-  <title lang="ko">人志松本の酒のツマミになる話</title>
+<programme start="20221203223000 +0900" stop="20221203230000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">みんなのスポーツ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">大悟から松本へのお願いがまさかの展開に…春日＆ミッツ家で最も落ち着く場所…子どもの頃嬉しかったお弁当のおかず＆トラジャ松田の衝撃弁当…板野夫のこだわり</desc>
+    <desc lang="ko">▽あの感動再び！東京五輪からおよそ1年
+金メダリストが続々登場する柔道グランドスラム東京がついに開幕！その中でパリ五輪へ負けられない男の思いに迫ります。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203230000 +0900" stop="20221203233000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">SPY×FAMILY</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">大人気アニメ第２クール！敏腕スパイ〈黄昏〉はとある極秘任務のため精神科医ロイド・フォージャーに扮し、仮初めの家族を作ることになるのだが…。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4604,26 +4645,6 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">これは事故じゃない！韓国激震の逆転スクープ！夫の死に隠された悪魔の殺人計画▼貴族・王室・大富豪…全米をだました世紀の詐欺師“リアル・コンフィデンスマン”の正体</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202215400 +0900" stop="20221202220000 +0900" channel="Tokyo MX">
-  <title lang="ko">それはまるでトリンドルな1日でした。</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">トリンドル玲奈さんが北海道農業の現場に足を運び、出会ったさまざまなモノ・コト・ヒトから、北海道農畜産物の魅力を体験！最終回となる今回は「ゆり根」です。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221202220000 +0900" stop="20221202223000 +0900" channel="Tokyo MX">
-  <title lang="ko">メガトン級ムサシ シーズン2</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5164,6 +5185,26 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「俺は農民王になる！」ハズだった！超一流の農民を目指すアル・ウェインは、遂に全農民スキルをMAXに。しかし、その時から彼の生活は農民と別方向に激変していき……</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203223000 +0900" stop="20221203230000 +0900" channel="Tokyo MX">
+  <title lang="ko">悪役令嬢なのでラスボスを飼ってみました</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221203230000 +0900" stop="20221203233000 +0900" channel="Tokyo MX">
+  <title lang="ko">22/7計算中 シーズン4</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">秋元康が総合プロデュースするデジタル声優アイドル、22/7(ナナブンノニジュウニ)の冠番組「22/7 計算中」のseason4！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -6021,7 +6062,7 @@ https//otn.fujitv.co.jp
 <programme start="20221202220000 +0900" stop="20221202230000 +0900" channel="kbsworld.jp">
 <title lang="ko">芸能ライブ　[字]</title>
 <desc>日本初放送！ＫＢＳの芸能街中継がリニューアルして帰ってきた！韓国の芸能ニュースをいち早くお届けする情報番組！2020年
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221202/9515166/image/2f7452d1149fa18a0849dd264034fe91.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221202230000 +0900" stop="20221203011500 +0900" channel="kbsworld.jp">
