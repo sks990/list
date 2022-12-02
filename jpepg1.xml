@@ -1315,7 +1315,17 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221203060000 +0900" stop="20221203062800 +0900" channel="NHK1Tokyo.jp">
+  <programme start="20221203034500 +0900" stop="20221203060500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">2022 FIFAワールドカップ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">◆試合開始　４００◆サッカー王国ブラジルの１次リーグ最終戦！２０年ぶりの王座奪還へ。“不屈のライオン”カメルーンはブラジルを脅かせるか。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221203060500 +0900" stop="20221203062800 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
