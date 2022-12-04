@@ -346,6 +346,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221206020000 +0900" stop="20221206030000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダム</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">25「オデッサの激戦」
+26「復活のシャア」
+宇宙世紀0079年。人類が、増えすぎた人口をスペースコロニー（宇宙都市）…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221205000000 +0900" stop="20221205030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　女子　デンソー×トヨタ車体</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「デンソーエアリービーズvsトヨタ車体クインシーズ」　＜解説＞成田郁久美
@@ -534,7 +546,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">野性爆弾のヴィンテージ王国　13「聖地神田でお宝本探し!!」</title>
 <desc>「聖地神田でお宝本探し!!昭和40年男ケンコバ初参戦。懐かしの雑誌を前にNGワード続出！」
 ＜出演＞野性爆弾　ケンドーコバヤシ　高梨瑞樹
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221204/9550986/image/3dc379fa0fd7caf2fde8a81be6e557ae.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221205020000 +0900" stop="20221205030000 +0900" channel="FujiOne.jp">
@@ -2150,6 +2162,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221206015500 +0900" stop="20221206024100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHK MUSIC SPECIAL</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">あいみょんが故郷西宮の阪神甲子園球場で行った弾き語りライブを特集！あいみょん悲願の甲子園ライブの貴重映像はもちろん、ライブ制作の舞台裏にＮＨＫが独占密着。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20221205004500 +0900" stop="20221205053000 +0900" channel="eTele.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -2980,26 +3002,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221205005500 +0900" stop="20221205012500 +0900" channel="NipponTV.jp">
-    <title lang="ko">NNNドキュメント</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">和牛農家・生田智之さん（23）。牛飼いだった亡き父の背中を追い、同じ道を選んだ。どんなに困難だとしても…僕は牛を愛し続ける！生田さんの5年間を追った。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221205012500 +0900" stop="20221205014500 +0900" channel="NipponTV.jp">
-    <title lang="ko">イントロ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">佐藤真知子アナがゲストを招く番宣トーク番組。今回は、3時のヒロイン・福田麻貴さんをゲストにお迎えして「THE W 2022」の見どころをご紹介！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221205014500 +0900" stop="20221205021500 +0900" channel="NipponTV.jp">
     <title lang="ko">にけつッ!!</title>
     <rating system="MPAA">
@@ -3240,17 +3242,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221205005900 +0900" stop="20221205013000 +0900" channel="Asahi.jp">
-  <title lang="ko">熱闘!Mリーグ</title>
+  <programme start="20221206012900 +0900" stop="20221206015900 +0900" channel="NipponTV.jp">
+    <title lang="ko">新・乃木坂スター誕生!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">麻雀界最高峰の戦い、Ｍリーグ！どこよりも早く、詳しく最新のＭリーグ情報をお伝えします！
-雀士の一打にかける想い、駆け引きの妙、勝負の分かれ目を熱く解説します！</desc>
+    <desc lang="ko">乃木坂４６が名曲熱唱▽中村麗乃が広瀬香美「ゲレンデがとけるほど恋したい」▽一ノ瀬＆川﨑「サーフ天国、スキー天国」▽冨里の菊池桃子にオズワルドも大興奮▽ラブライブ</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
+  <programme start="20221206015900 +0900" stop="20221206032400 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレポシュレ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">お掃除アイテム、口腔ケアアイテム、新登場！湯たんぽ＆買い物カート、コードレス洗浄機や冬用あったか寝具、ホタテ、おせちまでこの時期欲しい商品をお得に提供！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
 <programme start="20221205013000 +0900" stop="20221205030000 +0900" channel="Asahi.jp">
   <title lang="ko">Get Sports</title>
     <rating system="MPAA">
@@ -3497,12 +3508,22 @@ by.Tom Odell</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221205005800 +0900" stop="20221205015800 +0900" channel="TBS2.jp">
-  <title lang="ko">ドキュメンタリー「解放区」</title>
+<programme start="20221206012500 +0900" stop="20221206013100 +0900" channel="Asahi.jp">
+  <title lang="ko">全力坂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">桂子ハーン、91歳。1951年、20歳の時に米兵と結婚し、海を渡った『戦争花嫁』だ。戦後たった５年、何故敵国の軍人と結婚したのか？そこにあった幸せとは。</desc>
+    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221206013100 +0900" stop="20221206020100 +0900" channel="Asahi.jp">
+  <title lang="ko">musicる TV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3718,23 +3739,22 @@ by.Tom Odell</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221205004500 +0900" stop="20221205011500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">そこ曲がったら、櫻坂?</title>
+<programme start="20221206012800 +0900" stop="20221206013500 +0900" channel="TBS2.jp">
+  <title lang="ko">イベントGO!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">櫻坂４６のメンバーがトーク・ゲームそしてコント？？にも大奮闘！
-見逃せないパフォーマンスが続々と登場します。</desc>
+    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221205011500 +0900" stop="20221205014500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">日向坂で会いましょう</title>
+<programme start="20221206013500 +0900" stop="20221206022900 +0900" channel="TBS2.jp">
+  <title lang="ko">美男イケメンですね</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日向坂４６が、みんなを笑顔に変えるハッピー全開のバラエティ番組！様々なことに挑戦し、苦難を乗り越えトップアイドルへと成長していく姿を追いかけます!!</desc>
+    <desc lang="ko">（字幕）ミナム（パク・シネ）の双子の妹ミニョと、シヌ（ジョン・ヨンファ）が付き合っているとし、2人はキム記者の取材を受けることに。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4086,12 +4106,22 @@ by.Tom Odell</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221205003500 +0900" stop="20221205013000 +0900" channel="FujiTV.jp">
-  <title lang="ko">Love music</title>
+<programme start="20221206013000 +0900" stop="20221206014500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">クールドジ男子</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">Ｏｆｆｉｃｉａｌ髭男ｄｉｓｍ、Ｍｒｓ．　ＧＲＥＥＮ　ＡＰＰＬＥ、ＫｉｎＫｉ　Ｋｉｄｓ、なにわ男子、満島ひかり他…出演者がＦＮＳ歌謡祭への意気込みを語る！</desc>
+    <desc lang="ko">一際目を引くクールでかっこいい男子たち。どこか近寄りがたいけど...彼らは“全員ドジ”だった!ドジさえもクールにキメてしまう、それが「クールドジ男子」。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221206014500 +0900" stop="20221206021500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">東京リベンジャーズ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東京卍會を結成した2年前、みんなで交通安全のお守りを買ったあの日の約束を守るために、場地は一人で戦っていた。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4325,56 +4355,6 @@ by.Tom Odell</desc>
     </rating>
     <desc lang="ko">（延長の場合あり）
 日本代表史上初のベスト８へ、前回大会準優勝国に挑む戦い。新しい景色へ、サムライブルーがブラボーに躍動する！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221205003000 +0900" stop="20221205010000 +0900" channel="Tokyo MX">
-  <title lang="ko">夫婦以上、恋人未満。</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">“恋人”よりも刺激的な、ギャルと非モテの“夫婦ごっこ”が始まる！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221205010000 +0900" stop="20221205010500 +0900" channel="Tokyo MX">
-  <title lang="ko">ハーレムきゃんぷっ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">業界騒然！キャンプ×ハーレムの大人気青年コミックがついにアニメ化！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221205010500 +0900" stop="20221205011500 +0900" channel="Tokyo MX">
-  <title lang="ko">女体化した僕を騎士様達がねらってます</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">二人のイケメン騎士との女体化ラブストーリー！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221205011500 +0900" stop="20221205013000 +0900" channel="Tokyo MX">
-  <title lang="ko">ピーター・グリルと賢者の時間 Super Extra</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">地上最強の賢者タイムが、再び幕を開ける！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221205013000 +0900" stop="20221205013500 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4830,6 +4810,36 @@ by.Tom Odell</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221206010500 +0900" stop="20221206011500 +0900" channel="Tokyo MX">
+  <title lang="ko">名探偵コナン 犯人の犯沢さん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">主人公は、犯人。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221206011500 +0900" stop="20221206013500 +0900" channel="Tokyo MX">
+  <title lang="ko">新・鉄道グルメ旅</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">山陽本線　岡山駅　福山駅の駅弁</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221206013500 +0900" stop="20221206020500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221205000000 +0900" stop="20221205030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　女子　デンソー×トヨタ車体</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「デンソーエアリービーズvsトヨタ車体クインシーズ」　＜解説＞成田郁久美
@@ -5018,7 +5028,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">野性爆弾のヴィンテージ王国　13「聖地神田でお宝本探し!!」</title>
 <desc>「聖地神田でお宝本探し!!昭和40年男ケンコバ初参戦。懐かしの雑誌を前にNGワード続出！」
 ＜出演＞野性爆弾　ケンドーコバヤシ　高梨瑞樹
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221204/9550986/image/3dc379fa0fd7caf2fde8a81be6e557ae.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221205020000 +0900" stop="20221205030000 +0900" channel="FujiOne.jp">
