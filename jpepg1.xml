@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221206010000 +0900" stop="20221206020000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">戦姫絶唱シンフォギアGX</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">9「夢の途中」10「こんなにも、残酷だけど」
-かつて…融合症例と呼ばれた少女は、世界終焉の真際に奇跡を掴み、ガン…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221206020000 +0900" stop="20221206030000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士ガンダム</title>
     <rating system="MPAA">
@@ -426,6 +415,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221207030000 +0900" stop="20221207033000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ドラゴンクエスト ダイの大冒険</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">96「閃光のように」
+かつて、魔王ハドラーにより苦しめられていた世界は、勇者と呼ばれた一人の剣士とその仲間たちの…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221205220000 +0900" stop="20221206010000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　女子　デンソー×トヨタ車体</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「デンソーエアリービーズvsトヨタ車体クインシーズ」　＜解説＞成田郁久美
@@ -629,7 +629,7 @@ https//otn.fujitv.co.jp
 <desc>＜ゲスト＞品川祐（品川庄司）　川口春奈
 ＜全力解説員＞吉川美代子　岸博幸　五箇公一
 （地上波放送日　2017年2月17日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221205/9556831/image/25f2cc34c2ee4029ae8dc99406e562e3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221206030000 +0900" stop="20221206040000 +0900" channel="FujiOne.jp">
@@ -1566,16 +1566,6 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221206015500 +0900" stop="20221206024100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHK MUSIC SPECIAL</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">あいみょんが故郷西宮の阪神甲子園球場で行った弾き語りライブを特集！あいみょん悲願の甲子園ライブの貴重映像はもちろん、ライブ制作の舞台裏にＮＨＫが独占密着。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221206024100 +0900" stop="20221206033700 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">アイデア対決・全国高等専門学校ロボットコンテスト2022(高専ロボコン2022) 地区大会</title>
     <rating system="MPAA">
@@ -2152,6 +2142,16 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">発達障害のある４人の小中学生のリアルドキュメント。「鉄道」「数字」「ゲーム作り」など、好きなものに夢中になることの大切さを子どもたちが教えてくれます。＃君の声</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221207023500 +0900" stop="20221207033100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">アイデア対決・全国高等専門学校ロボットコンテスト2022(高専ロボコン2022) 地区大会</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">３年ぶりに対戦式で開催された高専ロボコン・中国地区大会。今年の競技テーマは「ミラクル☆フライ〜空へ舞いあがれ！〜」。ロボットが自作の紙飛行機を飛ばし点数を競う。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3246,47 +3246,16 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221206013100 +0900" stop="20221206020100 +0900" channel="Asahi.jp">
-  <title lang="ko">musicる TV</title>
+  <programme start="20221207022900 +0900" stop="20221207035400 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレポシュレ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">アーティストのリアルに密着！「ヒャダイン」「内田真礼」がお送りする音楽ドキュメント番組！</desc>
+    <desc lang="ko">お掃除アイテム、口腔ケアアイテム、新登場！湯たんぽ＆買い物カート、コードレス洗浄機や冬用あったか寝具、ホタテ、おせちまでこの時期欲しい商品をお得に提供！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221206020100 +0900" stop="20221206020300 +0900" channel="Asahi.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">３年ぶりの開催！グランプリファイナルが１２月９日開幕！世界王者・宇野昌磨、世界女王・坂本花織、今季大躍進“りくりゅう”こと三浦／木原ペアらが世界の頂点を目指す！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221206020300 +0900" stop="20221206022300 +0900" channel="Asahi.jp">
-  <title lang="ko">見取り図じゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">西の劇場番長・「見取り図」が本格的に上京！
-「東京に染まろう」をテーマに毎週様々な企画に挑戦する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221206022300 +0900" stop="20221206024300 +0900" channel="Asahi.jp">
-  <title lang="ko">チョコプランナー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">オズワルド伊藤＆KAZMAを迎えて「サムネイルプランナー」今回はタイムマシーン３号のサムネから動画を考える！まさかの謎過酷ロケに発展し…チョコプラ爆笑動画完成！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221206024300 +0900" stop="20221206030300 +0900" channel="Asahi.jp">
   <title lang="ko">満パンスター2023-さらば三四郎が3月にライブすることだけ決まっている番組-</title>
     <rating system="MPAA">
@@ -3594,12 +3563,44 @@ by.Ben Folds Five</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221206013500 +0900" stop="20221206022900 +0900" channel="TBS2.jp">
-  <title lang="ko">美男イケメンですね</title>
+<programme start="20221207020100 +0900" stop="20221207022100 +0900" channel="Asahi.jp">
+  <title lang="ko">ホリケンのみんなともだち</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">（字幕）ミナム（パク・シネ）の双子の妹ミニョと、シヌ（ジョン・ヨンファ）が付き合っているとし、2人はキム記者の取材を受けることに。</desc>
+    <desc lang="ko">ホリケンこと堀内健（ネプチューン）が多くの人とふれあってともだちの輪を広げていく、ハートフルな唯一無二のバラエティー番組</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221207022100 +0900" stop="20221207024100 +0900" channel="Asahi.jp">
+  <title lang="ko">イワクラと吉住の番組</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">蛙亭・イワクラ×吉住が、街の人々が抱える“小さな悩みや秘密”を聞いて本音で語り合うトークバラエティー。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221207024100 +0900" stop="20221207030000 +0900" channel="Asahi.jp">
+  <title lang="ko">ランジャタイのがんばれ地上波!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ランジャタイのキー局初冠番組！
+テレビの定番企画を２人ならどう逸脱するのか…？　ランジャタイといっしょに「自由で新しい地上波テレビの表現」を模索する！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221207030000 +0900" stop="20221207061000 +0900" channel="Asahi.jp">
+  <title lang="ko">2022 FIFAワールドカップ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">サッカーの祭典！『ＦＩＦＡワールドカップ カタール』負けたら終わりの決勝トーナメント１回戦
+ポルトガル（グループＨ１位）×スイス（グループＧ２位）</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3817,32 +3818,23 @@ by.Ben Folds Five</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221206014500 +0900" stop="20221206021500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">東京リベンジャーズ</title>
+<programme start="20221207023800 +0900" stop="20221207024500 +0900" channel="TBS2.jp">
+  <title lang="ko">イベントGO!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">東京卍會を結成した2年前、みんなで交通安全のお守りを買ったあの日の約束を守るために、場地は一人で戦っていた。</desc>
+    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221206021500 +0900" stop="20221206022000 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
+<programme start="20221207024500 +0900" stop="20221207034500 +0900" channel="TBS2.jp">
+  <title lang="ko">カイモノラボ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ザキヤマ街道歩き旅の第４弾！水戸街道〜筑波街道８０ｋｍの旅！ザキヤマ＆元乃木坂・樋口日奈が挑む旅を先出し▼１０日夜６３０〜楽しくてハードな旅に…ザキヤマ無言に</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221206022000 +0900" stop="20221206023500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">よるパ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">年下ヤンキーと内気なアラサー女子が恋に落ちる、大人の胸キュンピュアラブストーリー！「自転車屋さんの高橋くん」をご紹介。“胸キュンシーン”をちょい見せ！！</desc>
+    <desc lang="ko">新メンバーを迎えて、カイモノラボのイチ押し商品を徹底調査！驚きのネギリとおまけの嵐にも大注目！
+「TBSチャンネル」おすすめ情報も絶賛放送中！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4228,13 +4220,22 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221205234000 +0900" stop="20221206024000 +0900" channel="FujiTV.jp">
-  <title lang="ko">2022 FIFAワールドカップ</title>
+<programme start="20221207023000 +0900" stop="20221207023500 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">３０分放送を延長してお送りします
-日本代表史上初のベスト８へ、前回大会準優勝国に挑む戦い。新しい景色へ、サムライブルーがブラボーに躍動する！</desc>
+    <desc lang="ko">ザキヤマ街道歩き旅の第４弾！水戸街道〜筑波街道８０ｋｍの旅！ザキヤマ＆元乃木坂・樋口日奈が挑む旅を先出し▼１０日夜６３０〜楽しくてハードな旅に…ザキヤマ無言に</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221207023500 +0900" stop="20221207030500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">夫婦円満レシピ〜交換しない?一晩だけ〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">セックスレスに悩むママたちが「夫婦交換」に挑むスキャンダラスだけど美しいラブストーリー▼智也と面会禁止のちはるが“夫婦交換サークル”で他の男に抱かれることに!?</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4430,32 +4431,22 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221206013500 +0900" stop="20221206020500 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221207021000 +0900" stop="20221207030000 +0900" channel="FujiTV.jp">
+  <title lang="ko">2022 FIFAワールドカップ ハイライト</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">決勝トーナメントベスト１６。快進撃を続けるアフリカのタレント軍団がぺドリ、ガビら擁する無敵艦隊に挑む戦いほかをハイライトでお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221206020500 +0900" stop="20221206023400 +0900" channel="Tokyo MX">
-  <title lang="ko">斬波ZANMAI</title>
+<programme start="20221207030000 +0900" stop="20221207040000 +0900" channel="FujiTV.jp">
+  <title lang="ko">有野屋書店</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「斬波かるた」をやってみよう！今回は斬波メンバーにちなんだかるたをマネージャーが作成！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221206023400 +0900" stop="20221206023500 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">マンガ大好き　よゐこ有野晋哉が店長、声優　伊東健人が副店長を務める「有野屋書店」。助っ人店員（ゲスト）は、ランズベリー・アーサーと浦和希！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4960,6 +4951,36 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221207020500 +0900" stop="20221207023400 +0900" channel="Tokyo MX">
+  <title lang="ko">TVのいろは</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">な〜んと花いろはに新メンバーが加入！番組初お披露目！全員でパラパラ習っちゃいます！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221207023400 +0900" stop="20221207023500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221207023500 +0900" stop="20221207030500 +0900" channel="Tokyo MX">
+  <title lang="ko">バーチャルシンガー花譜の廻れ!! MAD TV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今話題のバーチャルシンガー花譜が毎回様々なゲストを迎え「プロの技」を学び進化していくことを目指す番組！今回のゲストは映像作家の玲架さんが登場します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221205220000 +0900" stop="20221206010000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　女子　デンソー×トヨタ車体</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「デンソーエアリービーズvsトヨタ車体クインシーズ」　＜解説＞成田郁久美
@@ -5163,7 +5184,7 @@ https//otn.fujitv.co.jp
 <desc>＜ゲスト＞品川祐（品川庄司）　川口春奈
 ＜全力解説員＞吉川美代子　岸博幸　五箇公一
 （地上波放送日　2017年2月17日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221205/9556831/image/25f2cc34c2ee4029ae8dc99406e562e3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221206030000 +0900" stop="20221206040000 +0900" channel="FujiOne.jp">
