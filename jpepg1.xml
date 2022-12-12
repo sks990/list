@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221212170000 +0900" stop="20221212180000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">TIGER  BUNNY</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">9「Spare the rod and spoil the child.（かわいい子には旅をさせよ）」
-10「The calm before the storm.（嵐の前の…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221212180000 +0900" stop="20221212190000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ブラッククローバー</title>
     <rating system="MPAA">
@@ -414,6 +403,17 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221213190000 +0900" stop="20221213193000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ドラゴンクエスト ダイの大冒険</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">97「神の涙」
+かつて、魔王ハドラーにより苦しめられていた世界は、勇者と呼ばれた一人の剣士とその仲間たちの手によ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221211223000 +0900" stop="20221212003500 +0900" channel="FujiNext.jp">
 <title lang="ko">女子バスケットボール日本代表国際強化試合　DAY1 日本代表×ラトビア代表</title>
 <desc>DAY1
@@ -568,7 +568,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SELECTRAVEL　27「関東 茨城編」</title>
 <desc>この番組は、まさに旅のガイドブック。タイプの違う2つの旅のプランをご紹介する！
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221212/9612154/image/793d4b8591d49e3a5949cd7143f50c44.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221212190000 +0900" stop="20221212212000 +0900" channel="FujiNext.jp">
@@ -1313,7 +1313,7 @@ https//otn.fujitv.co.jp
 <programme start="20221212181000 +0900" stop="20221212190000 +0900" channel="kbsworld.jp">
 <title lang="ko">韓国人の食卓　[字]</title>
 <desc>地理的環境に人々の息づかいと知恵が合わさったその地域の代表食を紹介する新ドキュメンタリー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221212/9604370/image/3b612bfec9766588c4e367a9cb001871.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221212190000 +0900" stop="20221212201500 +0900" channel="kbsworld.jp">
@@ -1600,36 +1600,6 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221212170000 +0900" stop="20221212180000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースLIVE!ゆう5時</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽「今年の漢字」発表　▽人工知能が作画「画像生成ＡＩ」利点と課題は　▽大阪ミナミ「戎橋筋商店街」師走のにぎわい</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221212180000 +0900" stop="20221212181000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">首都圏ネットワーク</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">首都圏ネットワークがワイドになりました！「明日につながる、あなたとつながる」６０分間。いまチェックすべき首都圏最新情報は？ネットトレンドと連動してより深く！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221212181000 +0900" stop="20221212183000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">首都圏ネットワーク</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「感覚過敏」を知っていますか？　悩みを共有して対策に…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221212183000 +0900" stop="20221212190000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
@@ -2180,52 +2150,32 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221212173500 +0900" stop="20221212180000 +0900" channel="eTele.jp">
-    <title lang="ko">天才てれびくんhello，</title>
+  <programme start="20221213181000 +0900" stop="20221213183000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽秋の京都ＳＰ！特産品ハッケンツアーズは、おしゃれ！学校でもつかえる手ぬぐいの世界▽電空物語「フウカと，モモチー」▽リモコンゲームあり「なぞかけボンバー」</desc>
+    <desc lang="ko">首都圏ネットワークがワイドに！「明日につながる、あなたとつながる」６０分。気忙しい首都圏生活で役立つ情報満載。暮らしのヒントが見つかる地域密着ニュース番組です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221212180000 +0900" stop="20221212182400 +0900" channel="eTele.jp">
-    <title lang="ko">おかあさんといっしょ</title>
+  <programme start="20221213183000 +0900" stop="20221213190000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
+    <desc lang="ko">首都圏ネットワークがワイドに！「明日につながる、あなたとつながる」６０分。あなたの街のニュースや話題をきめ細かく。おかえり天気は中継も交えて詳しくお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221212182400 +0900" stop="20221212182500 +0900" channel="eTele.jp">
-    <title lang="ko">あおきいろ</title>
+  <programme start="20221213190000 +0900" stop="20221213193000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース7</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">セサミストリートとミドリーズが世界の子どもたちとダンスでコラボ！世界２３か国の子どもたちがツバメダンスをＹＯＡＳＯＢＩが歌う英語版の「ツバメ」にのせて踊ります！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221212182500 +0900" stop="20221212184000 +0900" channel="eTele.jp">
-    <title lang="ko">みいつけた!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221212184000 +0900" stop="20221212185000 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世の中の仕組みや構造、考え方をピタゴラらしいユニークな見方で伝えます！今回は「なんでこんなにながいの？クイズ」のまき。</desc>
+    <desc lang="ko">「確かなニュース、いつでも　どこでも」　きょうの日本、世界の今　一歩先へ、一歩深く　テレビでもスマホでも　このニュースを届けたい</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3040,6 +2990,56 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221213182400 +0900" stop="20221213182500 +0900" channel="eTele.jp">
+    <title lang="ko">SDGsのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221213182500 +0900" stop="20221213184000 +0900" channel="eTele.jp">
+    <title lang="ko">みいつけた!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221213184000 +0900" stop="20221213185000 +0900" channel="eTele.jp">
+    <title lang="ko">ピタゴラスイッチ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世の中をピタゴラらしいユニークな見方で伝えます。ぼてじん危機一髪！「ぼてじんと犬」、子どもや孫とご一緒に！「１０００グラムにちょうせん」ほか。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221213185000 +0900" stop="20221213190000 +0900" channel="eTele.jp">
+    <title lang="ko">忍たま乱太郎</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">乱太郎・きり丸・しんべヱは、忍術学園で学ぶ忍者のたまご「忍たま」。ユニークな先生や仲間たちと、明るく・たのしく・ゆかいな毎日がくり広げられる。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221213190000 +0900" stop="20221213193000 +0900" channel="eTele.jp">
+    <title lang="ko">バリューの真実</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">失敗しにくい、時短、美味（おい）しい　アップルパイ▽連続ドラマ「たいせつを探して」第３話　出演田中樹▽ナレーター諏訪部順一</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20221212155000 +0900" stop="20221212190000 +0900" channel="NipponTV.jp">
     <title lang="ko">news every.</title>
     <rating system="MPAA">
@@ -3266,6 +3266,16 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221213190000 +0900" stop="20221213215400 +0900" channel="NipponTV.jp">
+    <title lang="ko">ものまねグランプリ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">2022年のものまね王者がついに今夜決定！お台場チャンピオンも緊急参戦で大波乱SP！帝王コロッケが今回から審査員に…ジャッジはいかに？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3597,6 +3607,16 @@ With ランジャタイ</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221213190000 +0900" stop="20221213205400 +0900" channel="Asahi.jp">
+  <title lang="ko">修造一茂のイミシン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">Ｗ杯ドイツ・スペイン撃破の立役者‼板倉滉＆田中碧に快挙の裏側直撃▽ＷＢＣ参戦表明！大谷翔平の魔球とガチ対決▽三冠王「村神様」涙の真相＆秘蔵映像▽ＮＢＡ八村＆渡邊</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221212154900 +0900" stop="20221212190000 +0900" channel="TBS2.jp">
   <title lang="ko">Nスタ</title>
     <rating system="MPAA">
@@ -3829,13 +3849,12 @@ With ランジャタイ</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221212173000 +0900" stop="20221212182500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">警視庁考察一課</title>
+<programme start="20221213190000 +0900" stop="20221213200000 +0900" channel="TBS2.jp">
+  <title lang="ko">サンドウィッチマンのどうぶつ園飼育員さんプレゼン合戦 ZOO-1グランプリ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">30分以内で考察できなければ仲間が死ぬ！？
-考察一課に届いたメールには、考察ゲームの案内と部屋に閉じ込められた山村・藤井・柳沢の映像が…正体不明の挑戦状とは！？</desc>
+    <desc lang="ko">今年の飼育員さんによる熱いプレゼン合戦では、のべ６５の動物がエントリーし、グランプリに輝いたのは【15】の動物！その中から“年間グランプリ”を決める！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4240,6 +4259,17 @@ With ランジャタイ</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221213182500 +0900" stop="20221213205400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">世界が騒然!本当にあった(秘)衝撃ファイル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">宇宙人に誘拐された！▼UFO！驚愕の衝撃映像
+▼人間と宇宙人のハイブリッドベビー！▼エリート妻変死事件(他)</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221212154500 +0900" stop="20221212190000 +0900" channel="FujiTV.jp">
   <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
@@ -4532,12 +4562,12 @@ With ランジャタイ</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221212175900 +0900" stop="20221212183000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221213190000 +0900" stop="20221213210000 +0900" channel="FujiTV.jp">
+  <title lang="ko">今夜はナゾトレ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">花＆絶景＆難読漢字Ｑ！歴代優勝者大集合！年間優勝決定戦ＳＰ▽小学生も知りたい常識！首位スノーマン阿部ＶＳ有田哲平ＶＳ京大宇治原▽ｄボタンで３０万当たる</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5043,6 +5073,26 @@ With ランジャタイ</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221213183000 +0900" stop="20221213190000 +0900" channel="Tokyo MX">
+  <title lang="ko">日本の昔ばなし</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221213190000 +0900" stop="20221213193000 +0900" channel="Tokyo MX">
+  <title lang="ko">新世紀エヴァンゲリオン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">地軸を揺るがす伝説のメガヒット作</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221211223000 +0900" stop="20221212003500 +0900" channel="FujiNext.jp">
 <title lang="ko">女子バスケットボール日本代表国際強化試合　DAY1 日本代表×ラトビア代表</title>
 <desc>DAY1
@@ -5197,7 +5247,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SELECTRAVEL　27「関東 茨城編」</title>
 <desc>この番組は、まさに旅のガイドブック。タイプの違う2つの旅のプランをご紹介する！
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221212/9612154/image/793d4b8591d49e3a5949cd7143f50c44.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221212190000 +0900" stop="20221212212000 +0900" channel="FujiNext.jp">
@@ -5942,7 +5992,7 @@ https//otn.fujitv.co.jp
 <programme start="20221212181000 +0900" stop="20221212190000 +0900" channel="kbsworld.jp">
 <title lang="ko">韓国人の食卓　[字]</title>
 <desc>地理的環境に人々の息づかいと知恵が合わさったその地域の代表食を紹介する新ドキュメンタリー！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221212/9604370/image/3b612bfec9766588c4e367a9cb001871.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221212190000 +0900" stop="20221212201500 +0900" channel="kbsworld.jp">
