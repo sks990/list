@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221213160000 +0900" stop="20221213170000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">はたらく細胞</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">9「胸腺細胞」10「黄色ブドウ球菌」
-人の細胞の数、およそ37兆個(新説)。
-細胞たちは体という世界の中、今日も元気…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221213170000 +0900" stop="20221213180000 +0900" channel="ANIMAX.jp">
   <title lang="ko">TIGER  BUNNY</title>
     <rating system="MPAA">
@@ -415,6 +403,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221214180000 +0900" stop="20221214190000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ブラッククローバー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">133「続・目覚める獅子」
+134「集められた者たち」
+魔法がすべての、とある世界…。生まれながらに魔法が使えない少…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221213000000 +0900" stop="20221213021000 +0900" channel="FujiNext.jp">
 <title lang="ko">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第138夜！村長一大事！完全版</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助おやすみ友人の杉真理！後輩ブリトラ伊藤飛び込み！クミコ！山崎ハコ！コアラモード！ukka！SunSet Swish！
@@ -538,7 +538,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SKY EYE 〜空からのメッセージ〜　34「埼玉編」</title>
 <desc>日本各地の魅力をこれまでにない空からの視点でご紹介する、ANA機内で上映されているオリジナル番組を放送。
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221213/9612172/image/bfce800fd74df7a3f610311091486ecc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221213175500 +0900" stop="20221213182500 +0900" channel="FujiNext.jp">
@@ -710,7 +710,7 @@ https//otn.fujitv.co.jp
 ＜出演＞堀慎吾　松本圭世　阿部亮平　徳井健太（平成ノブシコブシ）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞筒井大輔　＜解説＞古久根英孝
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221213/9612222/image/da3723700ff01cfef68a06fe4714b7c9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221213180000 +0900" stop="20221213190000 +0900" channel="FujiOne.jp">
@@ -1496,16 +1496,6 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221213164500 +0900" stop="20221213170000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ひまわり</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の下町育ちのヒロイン南田のぞみが、バブル崩壊後のリストラで会社を辞め、悩んだ末に難関の司法試験を突破、弁護士になるまでを描く。１９９６年放送の連続テレビ小説</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221213170000 +0900" stop="20221213180000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">ニュースLIVE!ゆう5時</title>
     <rating system="MPAA">
@@ -2116,52 +2106,12 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221213165000 +0900" stop="20221213170000 +0900" channel="eTele.jp">
-    <title lang="ko">大科学実験</title>
+  <programme start="20221214180000 +0900" stop="20221214181000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">首都圏ネットワーク</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">磁石は同じ極を向かい合わせると反発しあう。たくさんの磁石を同じ極が同じ方向に向くように貼った板を２枚向かい合わせ、人が乗ることができるか挑戦する。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221213170000 +0900" stop="20221213171000 +0900" channel="eTele.jp">
-    <title lang="ko">おじゃる丸</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221213171000 +0900" stop="20221213171500 +0900" channel="eTele.jp">
-    <title lang="ko">オトッペ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">音から生まれた不思議な生きもの・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221213171500 +0900" stop="20221213172500 +0900" channel="eTele.jp">
-    <title lang="ko">はなかっぱ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221213172500 +0900" stop="20221213173500 +0900" channel="eTele.jp">
-    <title lang="ko">ゴー!ゴー!キッチン戦隊クックルン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「アニメ」×「実写」の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルンの３人と元シェルフィッシュ星のお姫様が繰り広げる笑いと涙の冒険物語。</desc>
+    <desc lang="ko">首都圏ネットワークがワイドになりました！「明日につながる、あなたとつながる」６０分間。いまチェックすべき首都圏最新情報は？ネットトレンドと連動してより深く！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2831,7 +2781,7 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">鳥や虫たちといっしょに暮らす庭づくり。今回、村雨と王林はいきものたちの冬越しのお手伝い。さらにオランダの家族とリモートで結び、いきものの増やし方について情報交換</desc>
+    <desc lang="ko">鉢花が成長すると迫られる、大きい鉢への植え替え。置き場所がない、お気に入りの鉢を使い続けたいという人も。そこで同じ鉢ですくすく育てるテクニックを紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2972,6 +2922,56 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221214171000 +0900" stop="20221214171500 +0900" channel="eTele.jp">
+    <title lang="ko">オトッペ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">音から生まれた不思議な生きもの・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221214171500 +0900" stop="20221214172500 +0900" channel="eTele.jp">
+    <title lang="ko">はなかっぱ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">頭の上に花が咲くかっぱ「はなかっぱ」と個性豊かな仲間たち、そして謎の花「わか蘭」を狙う黒羽屋蝶兵衛一味が、緑いっぱいの「やまびこ村」で、てんやわんやの大騒ぎ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221214172500 +0900" stop="20221214173500 +0900" channel="eTele.jp">
+    <title lang="ko">ゴー!ゴー!キッチン戦隊クックルン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「アニメ」×「実写」の幼児向け食育番組。料理のおいしさパワーで怪人をやっつけろ！クックルンの３人と元シェルフィッシュ星のお姫様が繰り広げる笑いと涙の冒険物語。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221214173500 +0900" stop="20221214180000 +0900" channel="eTele.jp">
+    <title lang="ko">天才てれびくんhello，</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽演技力クイズ！本当に重いバケツを持っているのは誰？▽マヂカルラブリーと五感クイズに挑戦！「競技カルタの正しい音はどれ？」「これは何の味？」▽リモコンゲームあり</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221214180000 +0900" stop="20221214182400 +0900" channel="eTele.jp">
+    <title lang="ko">おかあさんといっしょ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3747,46 +3747,6 @@ by.Ziv Zaifman, Hugh Jackman, Michelle Williams</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221213165400 +0900" stop="20221213170500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ゆうがたサテライト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ＢＴＳ最年長メンバー軍に入隊…兵役免除されなかった事情▽業界初か販売期限後の半額商法</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221213170500 +0900" stop="20221213171500 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">生活に役立つ商品を紹介する通販番組</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221213171500 +0900" stop="20221213173000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">虎ノ門市場 〜毎日、幸せごはん。〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。テレビ東京「虎ノ門市場」でお取り寄せも可能です！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221213173000 +0900" stop="20221213174500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">家、ついて行ってイイですか?</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221213174500 +0900" stop="20221213182500 +0900" channel="TVTokyo.jp">
   <title lang="ko">孤独のグルメ Season5</title>
     <rating system="MPAA">
@@ -4147,6 +4107,46 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221214170500 +0900" stop="20221214171500 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">生活に役立つ商品を紹介する通販番組</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221214171500 +0900" stop="20221214173000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">虎ノ門市場 〜毎日、幸せごはん。〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。テレビ東京「虎ノ門市場」でお取り寄せも可能です！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221214173000 +0900" stop="20221214174500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">家、ついて行ってイイですか?</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">終電を逃した人に、タクシー代を払うので「家、ついて行ってイイですか？」とお願いし家について行く完全素人ガチバラエティー</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221214174500 +0900" stop="20221214182500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">孤独のグルメ Season5</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">雑貨輸入商を営む井之頭五郎は仕事で訪れた町で、ふと店に立ち寄り自由に食事をする。今回は「東京都目黒区大岡山の魚定食」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221213154500 +0900" stop="20221213190000 +0900" channel="FujiTV.jp">
   <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
@@ -4418,22 +4418,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221213163000 +0900" stop="20221213170000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20221214174800 +0900" stop="20221214183000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221213170000 +0900" stop="20221213175900 +0900" channel="Tokyo MX">
-  <title lang="ko">5時に夢中!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">岩下と北斗の井戸端ワイドショー▼ニュースに大激論！▼追跡は今若者に人気の「平成レトロ」を調査！▼あれの値段はいくら⁉「プライス巌流島」！</desc>
+    <desc lang="ko">ソレ知りたいを速報！榎並大二郎＆宮司愛海が現場と生の声を取材。わかりやすく伝えます▽ガチャピンとあしたの空を先読み！▽人気企画「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4948,6 +4938,16 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221214175900 +0900" stop="20221214183000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221213000000 +0900" stop="20221213021000 +0900" channel="FujiNext.jp">
 <title lang="ko">しおこうじ玉井詩織×坂崎幸之助のお台場フォーク村！第138夜！村長一大事！完全版</title>
 <desc>ももクロ玉井詩織×アルフィー坂崎幸之助おやすみ友人の杉真理！後輩ブリトラ伊藤飛び込み！クミコ！山崎ハコ！コアラモード！ukka！SunSet Swish！
@@ -5071,7 +5071,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">SKY EYE 〜空からのメッセージ〜　34「埼玉編」</title>
 <desc>日本各地の魅力をこれまでにない空からの視点でご紹介する、ANA機内で上映されているオリジナル番組を放送。
 ※第2音声英語
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221213/9612172/image/bfce800fd74df7a3f610311091486ecc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221213175500 +0900" stop="20221213182500 +0900" channel="FujiNext.jp">
@@ -5243,7 +5243,7 @@ https//otn.fujitv.co.jp
 ＜出演＞堀慎吾　松本圭世　阿部亮平　徳井健太（平成ノブシコブシ）
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜実況＞筒井大輔　＜解説＞古久根英孝
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221213/9612222/image/da3723700ff01cfef68a06fe4714b7c9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221213180000 +0900" stop="20221213190000 +0900" channel="FujiOne.jp">
