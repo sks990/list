@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221214210000 +0900" stop="20221214220000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">スラムダンク</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">11「二人だけの愛の秘密特訓！？」
-12「倒せ陵南！決戦前夜の猛特訓」
-桜木花道は、50人もの女子生徒にふられ続けた…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221214220000 +0900" stop="20221214230000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ジョジョの奇妙な冒険</title>
     <rating system="MPAA">
@@ -422,6 +410,18 @@
     <desc lang="ko">23「風にかえる戦士」
 24「JOJOを結ぶ絆」
 ジョナサンの死から49年後。石油王となったスピードワゴンの財団の遺跡発…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221215230000 +0900" stop="20221216000000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">頭文字[イニシャル]D</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">13「イツキの初デート」
+14「進化するドリフトの天才！」
+家業の豆腐屋を手伝うために地元・秋名山を走り込み、知ら…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -808,7 +808,7 @@ https//otn.fujitv.co.jp
 <desc>「よゐこらぼ新企画突入！アイドルのお風呂の入り方知ってます？湯師になった2人がグラドルの風呂掃除？？」
 ＜出演＞よゐこ
 ＜ゲスト＞高梨瑞樹　鶴祀眞歩
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221214/9612262/image/121377f0e23f59ec5302f2dec23fc910.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221214230000 +0900" stop="20221215000000 +0900" channel="FujiOne.jp">
@@ -1089,7 +1089,7 @@ https//otn.fujitv.co.jp
 <desc>名店FILE　10「カレーノトリコ」
 ＜出演＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）他
 ▽未公開映像付き
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221214/9611896/image/f355671d7fb0070e681a4eb0921166bd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221214230000 +0900" stop="20221214235000 +0900" channel="FujiTwo.jp">
@@ -1507,26 +1507,6 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221214210000 +0900" stop="20221214220000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽来年度税制改正何がどう変わる▽ＮＡＴＯ防衛最前線“要衝”の訓練に密着▽ドラッグラグを知ってますか？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221214220000 +0900" stop="20221214224500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">歴史探偵</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">来年の大河ドラマ・どうする家康。天下分け目の関ヶ原の戦いを直前に送られた５００通の書状から読み解く。一歩間違えば家康は負けていた！？戦国最大の情報戦に迫る。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221214224500 +0900" stop="20221214230000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">作りたい女と食べたい女</title>
     <rating system="MPAA">
@@ -2087,22 +2067,22 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221214215500 +0900" stop="20221214220000 +0900" channel="eTele.jp">
-    <title lang="ko">まる得マガジン</title>
+  <programme start="20221215224500 +0900" stop="20221215230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">鎌倉殿の13人 〜オープニング13の秘密〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">家庭に常備されながら、なかなか使う機会が限られている“乾物”を洋風感覚で新たな料理にします。おうちで乾物レストラン、第７回は、ひじきをポタージュやマドレーヌに。</desc>
+    <desc lang="ko">ＣＧの映像で構成された２分１０秒のタイトルバック。制作に携わった３人のプロフェッショナルが映像に込めた思いとは。そして、そこに隠された秘密とは…。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221214220000 +0900" stop="20221214223000 +0900" channel="eTele.jp">
-    <title lang="ko">ザ・バックヤード</title>
+  <programme start="20221215230000 +0900" stop="20221215233000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">所さん!事件ですよ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">北海道大学のキャンパス内にある総合博物館。その裏側に特別に潜入！クラーク博士の時代から脈々と受け継がれるお宝を特別に拝見する。</desc>
+    <desc lang="ko">大勢の猟師が集結して行われる「巻き狩り」の最中、上空から犬の鳴き声が！？ロケット花火まで搭載したハンティングドローンの登場だ。驚きのドローン最前線を取材する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2917,12 +2897,32 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221214210000 +0900" stop="20221214225400 +0900" channel="NipponTV.jp">
-    <title lang="ko">有働由美子とフカボリ記者</title>
+  <programme start="20221215223000 +0900" stop="20221215225500 +0900" channel="eTele.jp">
+    <title lang="ko">小さなミニチュア鉄道の大冒険</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">27億回超！ヤフーやLINEなどで見られた今年のニューストップ50▽宗教２世取材の裏側　身バレ防ぐ㊙テク▽約10億円の給付金をウソ申請”詐欺家族”▽怪物クマ追跡</desc>
+    <desc lang="ko">ミニチュア鉄道でスコットランド横断！イギリスの鉄道模型オタクたちが知恵と工夫で山越え谷越え。果たして度重なるトラブルを乗り越えられるのか？波乱万丈の挑戦に密着！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221215225500 +0900" stop="20221215230000 +0900" channel="eTele.jp">
+    <title lang="ko">にっぽん巨樹の旅ミニ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本には、かけがえのない巨樹がある。全国各地に立つ“神様の木”に会いに行くシリーズ。今回は、島根の志多美神社のスダジイ。まるで神話の国のヤマタノオロチの様な姿！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221215230000 +0900" stop="20221215232000 +0900" channel="eTele.jp">
+    <title lang="ko">ハングルッ!ナビ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ハングルって楽しい！」「理由の表現」ＪＯ１河野純喜と学ぶ▽Ｋ−ＰＯＰマンスリーゲストＰＥＮＴＡＧＯＮ（ペンタゴン）▽映画「エクストリーム・ジョブ」魅力紹介！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3186,6 +3186,16 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">★女性１００人が生投票に松本も参戦！？★マイファスヒロ高級サウナＶＳ皇治彼女に５０００万高級車★トラジャ松倉＆松田の私服を大公開★ぺこぱシュウペイ美容サロン通い</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221215230000 +0900" stop="20221215235900 +0900" channel="NipponTV.jp">
+    <title lang="ko">news zero</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3502,26 +3512,6 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221214215700 +0900" stop="20221214220000 +0900" channel="TBS2.jp">
-  <title lang="ko">フラッシュニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">最新のニュースをお伝えします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221214220000 +0900" stop="20221214225700 +0900" channel="TBS2.jp">
-  <title lang="ko">水曜日のダウンタウン</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「いい意味で」をつければどんな悪口でも怒られない説▼クロちゃんの恋愛企画“モンスターラブ”第5話！残る恋人候補は3名</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221214225700 +0900" stop="20221214230000 +0900" channel="TBS2.jp">
   <title lang="ko">澤部見上の赤坂ケイバ探偵</title>
     <rating system="MPAA">
@@ -3755,22 +3745,23 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221214215400 +0900" stop="20221214220000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">Ｄの旋律</title>
+<programme start="20221215225700 +0900" stop="20221215230000 +0900" channel="TBS2.jp">
+  <title lang="ko">トニセンのおいしくロスめし食堂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ヴァイオリニスト古澤巖が奏でる名曲にのせて、日本の社交ダンス界のトッププロがダンスを披露する。今宵は「タンゴ・アモーレ」</desc>
+    <desc lang="ko">トニセンがフードロス削減を目指す新感覚料理番組！
+里芋を皮ごと使い ３人揃って楽しく絶品ロスめし作り！自由すぎるトニセンに先生からクレーム！？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221214220000 +0900" stop="20221214225800 +0900" channel="TVTokyo.jp">
-  <title lang="ko">WBS</title>
+<programme start="20221215230000 +0900" stop="20221215235600 +0900" channel="TBS2.jp">
+  <title lang="ko">news23</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽防衛費財源は借金と増税？▽東京は世界で何位？ランキング発表</desc>
+    <desc lang="ko">メインキャスター小川彩佳と国山ハセンアナウンサーが、番組独自の調査報道からＺ世代に刺さるカルチャーまで明日につながる“実（じつ）”のあるニュースをお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4182,6 +4173,16 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221215225800 +0900" stop="20221215230600 +0900" channel="TVTokyo.jp">
+  <title lang="ko">探究の階段</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">革新的なアイデアやテクノロジーでワクワクする未来を創りたい。そんな思いで研究・開発に取り組む人々がいる。探究の階段を登った先にある未来は、どんな世界なんだろう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221214183000 +0900" stop="20221214230300 +0900" channel="FujiTV.jp">
   <title lang="ko">FNS歌謡祭</title>
     <rating system="MPAA">
@@ -4433,22 +4434,22 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221214215400 +0900" stop="20221214220000 +0900" channel="Tokyo MX">
-  <title lang="ko">めざせ!クラウドネイティブ クラウド検定</title>
+<programme start="20221215225400 +0900" stop="20221215230000 +0900" channel="FujiTV.jp">
+  <title lang="ko">空旅をあなたへ-PREMIUM SKY-</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">クラウドについて詳しくなろう！今回は、ドローンとクラウドに関する問題に、井上咲楽が挑戦します！</desc>
+    <desc lang="ko">旅先の「食」「遊」「楽」などの情報を紹介し、じっくりと味わいつくす上質な旅番組。毎回とっておきの現地情報を旅人であるアーティストの歌と共に紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221214220000 +0900" stop="20221214223000 +0900" channel="Tokyo MX">
-  <title lang="ko">ヒューマンバグ大学 -不死学部不幸学科-</title>
+<programme start="20221215230000 +0900" stop="20221215234000 +0900" channel="FujiTV.jp">
+  <title lang="ko">トークィーンズ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">＃１１「惨劇の同窓会　死刑囚が生まれた日」</desc>
+    <desc lang="ko">Ｋｉｎｇ　＆　Ｐｒｉｎｃｅ髙橋海人は付き合うと束縛タイプ？気を遣いすぎるタイプ？指原あさこ若槻ニコル朝日めるるらも驚きのネガティブ＆ナーバス度合いに衝撃！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4893,6 +4894,26 @@ JYPエンターテインメント所属アーティスト出演！JYPエンタ�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221215223000 +0900" stop="20221215230000 +0900" channel="Tokyo MX">
+  <title lang="ko">痛いのは嫌なので防御力に極振りしたいと思います。</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221215230000 +0900" stop="20221215233000 +0900" channel="Tokyo MX">
+  <title lang="ko">バンステ! BanG Dream! STATION</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">メディアミックスプロジェクト『バンドリ！』の魅力の一つでもある、リアルライブ。そんなライブをキャストのコメンタリーとともに楽しめる、バンステ！を再放送！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221213213000 +0900" stop="20221214013000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022フィギュアスケート　全日本ノービス選手権 前半</title>
 <desc>＜開催＞2022年10月21日〜23日
@@ -5275,7 +5296,7 @@ https//otn.fujitv.co.jp
 <desc>「よゐこらぼ新企画突入！アイドルのお風呂の入り方知ってます？湯師になった2人がグラドルの風呂掃除？？」
 ＜出演＞よゐこ
 ＜ゲスト＞高梨瑞樹　鶴祀眞歩
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221214/9612262/image/121377f0e23f59ec5302f2dec23fc910.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221214230000 +0900" stop="20221215000000 +0900" channel="FujiOne.jp">
@@ -5556,7 +5577,7 @@ https//otn.fujitv.co.jp
 <desc>名店FILE　10「カレーノトリコ」
 ＜出演＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）他
 ▽未公開映像付き
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221214/9611896/image/f355671d7fb0070e681a4eb0921166bd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221214230000 +0900" stop="20221214235000 +0900" channel="FujiTwo.jp">
