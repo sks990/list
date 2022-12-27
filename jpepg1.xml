@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20221227143000 +0900" stop="20221227150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221227150000 +0900" stop="20221227160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ルパン三世(PART2)</title>
     <rating system="MPAA">
@@ -336,6 +326,18 @@ C.E.71、地球連合軍とザフトの戦争は…</desc>
     <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
 1〜9
 幼馴染・小舟潮の訃報を聞いた網代慎平は、…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221228153000 +0900" stop="20221228193000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">サマータイムレンダ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
+10〜17
+幼馴染・小舟潮の訃報を聞いた網代慎平は…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -610,7 +612,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">めちゃ2イケてるッ！　287　　　ちょっと懐かしい映像、貴重な映像満載！</title>
 <desc>「ヤベンジャーズ 矢部＆敦士ニューヨーク二人旅」
 （地上波放送日　2018年2月10日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221227/9714045/image/9c16c271eb50c213c337061685d608c3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221227155500 +0900" stop="20221227162000 +0900" channel="FujiOne.jp">
@@ -1349,46 +1351,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221227145000 +0900" stop="20221227150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">みみより!くらし解説</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">新型コロナが再び感染拡大する中で迎える年末年始。忘年会や新年会、帰省や初詣などで感染を広げないためにどう行動すればいいのか。感染したらどう行動すればいいのか。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221227150000 +0900" stop="20221227150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221227150700 +0900" stop="20221227151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221227151000 +0900" stop="20221227155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">歴史探偵</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">大河ドラマ「鎌倉殿の１３人」で北条義時の前に立ちはだかる後鳥羽上皇。あらゆる分野で頂点を極めた最強の上皇の秘密を徹底調査。承久の乱に至る波乱の生涯に迫ります</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221227155500 +0900" stop="20221227160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -2109,32 +2071,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221227143000 +0900" stop="20221227151500 +0900" channel="eTele.jp">
-    <title lang="ko">グレーテルのかまどスピンオフドラマII パティシエヘンゼル クリスマスの魔法</title>
+  <programme start="20221228150700 +0900" stop="20221228151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">数々のお菓子の物語をお届けしてきた“グレーテルのかまど”。スピンオフドラマの第２弾が登場！今回はクリスマスを舞台に繰り広げられるロマンチックホラー・コメディー。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221227151500 +0900" stop="20221227152500 +0900" channel="eTele.jp">
-    <title lang="ko">あの人の極上ハンバーグ</title>
+  <programme start="20221228151000 +0900" stop="20221228155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">慶次郎縁側日記2</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">精肉店、チーズ工房、ソムリエ、僧侶。さまざまな人の自慢のハンバーグを紹介するミニ番組シリーズ。</desc>
+    <desc lang="ko">江戸・根岸の里で商家の寮番（別荘の管理人）となって、はや１年余。仏の慶次郎と仲間たちが、庶民の悩みやもめ事を解決して行く、一話完結の日記帳。第２シリーズ。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221227152500 +0900" stop="20221227153000 +0900" channel="eTele.jp">
-    <title lang="ko">5分でNHKアカデミア</title>
+  <programme start="20221228155500 +0900" stop="20221228160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">各界のトップランナーたちが、いまこそ共有したいテーマを語りつくす「ＮＨＫアカデミア」。どんな人たちが、どんなことを話すのか？５分にまとめてお伝えする。</desc>
+    <desc lang="ko">「Ｔｈｅ　Ｓｗａｌｌｏｗ　ツバメ〜ワールドバージョン」うたＹＯＡＳＯＢＩ　ｗｉｔｈ　ミドリーズ／「こわがりヒーロー　地震編」うたミドリーズ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221228160000 +0900" stop="20221228160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2939,12 +2911,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221227135500 +0900" stop="20221227155000 +0900" channel="NipponTV.jp">
-    <title lang="ko">情報ライブ ミヤネ屋</title>
+  <programme start="20221228153000 +0900" stop="20221228160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽英国王室…激動の年を総決算ＳＰ来年に続くヘンリー王子＆メーガン妃の乱！▽電力高騰＆最強寒波を最新家電で乗り切る！</desc>
+    <desc lang="ko">風間俊介さんと、“知っているようで知らない”福祉のテーマを楽しく学ぶ「フクチッチ」。今回は義手・義足。ユーザーのリアルな日常や知られざる歴史を深掘りします！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221228160000 +0900" stop="20221228161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3149,16 +3131,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221227135400 +0900" stop="20221227154800 +0900" channel="Asahi.jp">
-  <title lang="ko">おかしな刑事6</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「居眠り刑事とエリート警視の父娘捜査・日光鬼怒川明智伝説がつなぐ二つの転落死体！光秀は生きていた？」伊東四朗(他)▽真実が名門短大の学園長と対談することになるが…。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221227154800 +0900" stop="20221227164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season20</title>
     <rating system="MPAA">
@@ -3375,12 +3347,12 @@ by.Andreas Bourani</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221227135500 +0900" stop="20221227154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20221228154800 +0900" stop="20221228164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season5</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
+    <desc lang="ko">「剣聖」水谷豊、寺脇康文(他)▽剣道の達人が真剣で真正面から斬られ殺害された。犯人はかなり腕の立つ人物のようだが、被害者とまともに斬り合って勝てる者はいないという。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3501,7 +3473,7 @@ by.Andreas Bourani</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今の暮らしが１０倍楽しくなるライフアイデア発見バラエティ！すぐに手が届く“楽しい！”をお届けします▼ＭＣ川島明(麒麟)＆田村真子(ＴＢＳアナウンサー)　</desc>
+    <desc lang="ko">視聴者・出演者・スタッフが選ぶ2022年最も忘れられない名シーンＴＯＰ30を大発表▽ついに今夜９時〜生放送「ゴールデンラヴィット！」のスタジオから一足先に生中継</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3536,12 +3508,12 @@ by.Andreas Bourani</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221227130500 +0900" stop="20221227154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ローカル路線バスVS鉄道乗り継ぎ対決旅 予習復習</title>
+<programme start="20221228154900 +0900" stop="20221228180000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">太川ｖｓ鬼軍曹・村井の対決に酒井美紀も参戦！舞台は真夏のしまなみ海道！高速バスＮＧ鉄道なしをどう攻略する！？船か自転車か徒歩か？爽快だけど過酷な旅に…！衝撃結末</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3816,6 +3788,16 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221228160000 +0900" stop="20221228175500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">日本→欧州20000km“巨大コンテナ船に乗せてもらいました!”TV密着SP</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">巨大船シリーズ第１弾！欧州航路40日間にＴＶ初密着！ソマリア海賊が襲来!?イルカ大群＆クジラ遭遇！日本製品を追跡したら…？海の男達の仰天船上生活＆海絶景に感動</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221227144500 +0900" stop="20221227163000 +0900" channel="FujiTV.jp">
   <title lang="ko">Dr.コトー診療所2006</title>
     <rating system="MPAA">
@@ -4013,26 +3995,6 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「ｓｉｌｅｎｔ」の感動再び！年末一挙放送！本日は第２話〜第４話をおおくりします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221227145900 +0900" stop="20221227150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221227150000 +0900" stop="20221227150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4537,6 +4499,26 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20221228150500 +0900" stop="20221228160000 +0900" channel="Tokyo MX">
+  <title lang="ko">必殺仕事人III</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">“必殺シリーズ”第19弾▼ひかる一平が新レギュラーに！エレキテルの殺し技も登場して仕事人ますます快調‼</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221228160000 +0900" stop="20221228163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221226230000 +0900" stop="20221227013000 +0900" channel="FujiNext.jp">
 <title lang="ko">VIVA LA ROCK 2022 完全版　＜DAY1＞</title>
 <desc>埼玉史上最大のロックフェスを連続放送！
@@ -4807,7 +4789,7 @@ https//otn.fujitv.co.jp
 <title lang="ko">めちゃ2イケてるッ！　287　　　ちょっと懐かしい映像、貴重な映像満載！</title>
 <desc>「ヤベンジャーズ 矢部＆敦士ニューヨーク二人旅」
 （地上波放送日　2018年2月10日）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221227/9714045/image/9c16c271eb50c213c337061685d608c3.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221227155500 +0900" stop="20221227162000 +0900" channel="FujiOne.jp">
