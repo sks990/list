@@ -189,6 +189,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230101060000 +0900" stop="20230101070000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ちびまる子ちゃん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
+53「いつものお正月」
+54「まるちゃん 眠れない…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221230230000 +0900" stop="20221231022000 +0900" channel="FujiNext.jp">
 <title lang="ko">LOVE MUSIC FESTIVAL 2022　＜DAY1＞＜DAY2＞</title>
 <desc>＜DAY1＞go!go!vanillas／Saucy Dog／sumika
@@ -234,7 +246,7 @@
 <programme start="20221231055000 +0900" stop="20221231060000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022フォーミュラカー基礎講座　1</title>
 <desc>速さと安全性を追い求めて進化を続けるフォーミュラカーの“現在”を、フジテレビF1中継解説陣が徹底分析する！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221231/9746538/image/c7cb3148aa20ef37fe3d553d4fba20b4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221231060000 +0900" stop="20221231061000 +0900" channel="FujiNext.jp">
@@ -433,7 +445,7 @@ https//otn.fujitv.co.jp
 ＜アシスタント＞橘ゆりか
 ＜解説＞土田浩翔
 【生放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221230/9746612/image/60f45b7e0656807ccf1b03b064339e39.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221231060000 +0900" stop="20221231071000 +0900" channel="FujiOne.jp">
@@ -660,7 +672,7 @@ https//otn.fujitv.co.jp
 <programme start="20221231053000 +0900" stop="20221231060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221231/9746725/image/dd8ed8bcb02fce15a02c219c15cc5c89.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221231060000 +0900" stop="20221231071000 +0900" channel="FujiTwo.jp">
@@ -1098,26 +1110,6 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221231041000 +0900" stop="20221231050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKスペシャル</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">２０１３年、４回目のフライトをした宇宙飛行士の若田光一さん。日本人初の国際宇宙ステーションの船長、コマンダーを任された。出発までの厳しい訓練の現場に密着した。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221231050000 +0900" stop="20221231051000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221231051000 +0900" stop="20221231060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKスペシャル</title>
     <rating system="MPAA">
@@ -1658,12 +1650,32 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221231042500 +0900" stop="20221231052500 +0900" channel="eTele.jp">
-    <title lang="ko">こころの時代〜宗教・人生〜</title>
+  <programme start="20230101051000 +0900" stop="20230101053500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">超入門!落語 THE MOVIE</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">安倍元首相銃撃事件を機に問われる“カルト”そして宗教のありかた。宗教問題の現場・最前線で活動してきた研究者・宗教者６人が一堂に会し、シリーズで徹底討論する。</desc>
+    <desc lang="ko">ふだん想像で楽しむ落語の演目を落語家の語るはなしに合わせてあえて映像化。完璧なアテブリ芝居をかぶせてみたら…２０１６〜１８年放送の「落語ザムービー」一挙再放送！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230101053500 +0900" stop="20230101060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">超入門!落語 THE MOVIE</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ふだん想像で楽しむ落語の演目を落語家の語るはなしに合わせてあえて映像化。完璧なアテブリ芝居をかぶせてみたら…２０１６〜１８年放送の「落語ザムービー」一挙再放送！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230101060000 +0900" stop="20230101061000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2008,12 +2020,22 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221231045900 +0900" stop="20221231055900 +0900" channel="NipponTV.jp">
-    <title lang="ko">通販の女王アン・ミカ ゼヒモノSP</title>
+  <programme start="20230101053000 +0900" stop="20230101054000 +0900" channel="eTele.jp">
+    <title lang="ko">おはなしのくにクラシック</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">女王アンミカのためにメーカー担当者が腕によりをかけて用意した商品の数々をご紹介</desc>
+    <desc lang="ko">「古事記」から、子どもに親しまれている「いなばの白うさぎ」を原文で読む。また、日本神話の由来について解説する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230101054000 +0900" stop="20230101060500 +0900" channel="eTele.jp">
+    <title lang="ko">NHK短歌</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">選者は松村正直さん。ゲストは井森美幸さん。題は「うさぎ」。学校のうさぎ当番、うさぎ革の手袋、幼稚園のうさぎ組など、全国からさまざまなうさぎの歌が寄せられた。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2181,16 +2203,16 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20221231042000 +0900" stop="20221231055000 +0900" channel="Asahi.jp">
-  <title lang="ko">テレメンタリー2022</title>
+  <programme start="20230101060000 +0900" stop="20230101110000 +0900" channel="NipponTV.jp">
+    <title lang="ko">シューイチ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">遊覧船の沈没や幼稚園バスへの園児置き去り…掛け替えのない命が、ないがしろにされた２０２２年。その背景に迫るとともに、一人ひとりがもつ「いのちの尊さ」を描きます。</desc>
+    <desc lang="ko">中丸キッチンカーが都内某所に出没！究極のお雑煮を配ります！▽箱根駅伝10倍楽しく見る方法＆感動名場面▽中丸がガチで憧れる広末涼子と緊張二人旅▽電気自動車が当たる</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20221231055000 +0900" stop="20221231060000 +0900" channel="Asahi.jp">
   <title lang="ko">ANNニュース</title>
     <rating system="MPAA">
@@ -2298,6 +2320,26 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">1987年開始の深夜生討論番組。恒例の元旦ＳＰ、36回目のお正月は「激論！ド〜する？！日本再興2023年」。明るい未来の為にできることは？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230101055000 +0900" stop="20230101060000 +0900" channel="Asahi.jp">
+  <title lang="ko">ANNニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230101060000 +0900" stop="20230101114500 +0900" channel="Asahi.jp">
+  <title lang="ko">羽鳥慎一モーニングショー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">元旦からニュース満載▽初日の出を総力中継①「富士山＆ご来光」上空から新年の願いを②Ｗダイヤモンド富士湖面に映る奇跡の瞬間▽南極から異例生中継“白夜”で迎える新年</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2422,19 +2464,6 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221231042200 +0900" stop="20221231054500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ものスタ サタデー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「も」っといい商品を教えて！！
-「の」んびりしてはいられない
-「ス」ぐに買いたくなっちゃう商品を
-「タ」っぷりとご紹介するショッピング番組</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221231054500 +0900" stop="20221231074500 +0900" channel="TVTokyo.jp">
   <title lang="ko">大江戸捜査網2015〜隠密同心、悪を斬る!</title>
     <rating system="MPAA">
@@ -2547,12 +2576,12 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221231045500 +0900" stop="20221231055500 +0900" channel="FujiTV.jp">
-  <title lang="ko">1月2日よる放送!千原ジュニアの座王</title>
+<programme start="20230101053000 +0900" stop="20230101070000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">新春皇室の窓スペシャル</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「Ｍ－１」「Ｒ－１」「キングオブコント」「ＴＨＥ　Ｗ」の４大賞レース王者が集結！敗れたら即退場の、究極のお笑いバトルを勝ち抜き「座王」に輝くのは誰だ！？</desc>
+    <desc lang="ko">令和５年元旦、北村一輝、藤井由依アナウンサーがみなさまを皇室の雅な世界に誘います。お正月の間、皇族の方々は様々な行事で多忙を極められます。その伝統行事とは？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2703,26 +2732,6 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">木下レオン＆シウマ＆満島真之介が福岡開運旅！２０２３年食べると運気上がる最強グルメ続々▽山本舞香＆大串ノリコ秩父パワースポット旅▽星ひとみ運気ＵＰ術も</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221231043000 +0900" stop="20221231050000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221231050000 +0900" stop="20221231053000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3077,6 +3086,26 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230101053000 +0900" stop="20230101060000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230101060000 +0900" stop="20230101063000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221230230000 +0900" stop="20221231022000 +0900" channel="FujiNext.jp">
 <title lang="ko">LOVE MUSIC FESTIVAL 2022　＜DAY1＞＜DAY2＞</title>
 <desc>＜DAY1＞go!go!vanillas／Saucy Dog／sumika
@@ -3122,7 +3151,7 @@ MタメBANG！編集部が選ぶ今年のプレイリストをまとめてお届
 <programme start="20221231055000 +0900" stop="20221231060000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022フォーミュラカー基礎講座　1</title>
 <desc>速さと安全性を追い求めて進化を続けるフォーミュラカーの“現在”を、フジテレビF1中継解説陣が徹底分析する！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221231/9746538/image/c7cb3148aa20ef37fe3d553d4fba20b4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221231060000 +0900" stop="20221231061000 +0900" channel="FujiNext.jp">
@@ -3321,7 +3350,7 @@ https//otn.fujitv.co.jp
 ＜アシスタント＞橘ゆりか
 ＜解説＞土田浩翔
 【生放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221230/9746612/image/60f45b7e0656807ccf1b03b064339e39.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221231060000 +0900" stop="20221231071000 +0900" channel="FujiOne.jp">
@@ -3548,7 +3577,7 @@ https//otn.fujitv.co.jp
 <programme start="20221231053000 +0900" stop="20221231060000 +0900" channel="FujiTwo.jp">
 <title lang="ko">おトクな時間</title>
 <desc>早起きは三文のトク！生活を彩るおトクな情報を早朝からお届けします！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221231/9746725/image/dd8ed8bcb02fce15a02c219c15cc5c89.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221231060000 +0900" stop="20221231071000 +0900" channel="FujiTwo.jp">
