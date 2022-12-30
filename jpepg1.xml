@@ -644,7 +644,7 @@ https//otn.fujitv.co.jp
 <programme start="20221230140000 +0900" stop="20221230150000 +0900" channel="FujiTwo.jp">
 <title lang="ko">キミは＝LOVEを愛せるか!!!　21　　イコラブの冠番組レギュラー化2年目！</title>
 <desc>「＝LOVE」の冠“王道アイドル”バラエティ番組！ 聖夜にイコラブちゃんだけでほっこりクリスマスパーティーを開催！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221230/9746706/image/dba2310b7333d700345f5606a8ab670a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221230150000 +0900" stop="20221230160000 +0900" channel="FujiTwo.jp">
@@ -1152,16 +1152,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20221230133800 +0900" stop="20221230141700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ドキュメント72時間</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">年末恒例！この１年の放送回から視聴者リクエスト・トップ１０を一挙に放送！みなさんは、どの「７２時間」が、心に響きましたか？さらに、第８位！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20221230141700 +0900" stop="20221230150000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">ドキュメント72時間</title>
     <rating system="MPAA">
@@ -1782,22 +1772,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20221230135000 +0900" stop="20221230141000 +0900" channel="eTele.jp">
-    <title lang="ko">中国語!ナビ</title>
+  <programme start="20221231150000 +0900" stop="20221231150500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">Ｅテレ「中国語！ナビ」ラジオ「まいにち中国語」「ステップアップ中国語」を全国の視聴者はどのように使って勉強しているのか？気になる同学の勉強法を全国で各地で取材！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20221230141000 +0900" stop="20221230143500 +0900" channel="eTele.jp">
-    <title lang="ko">NHK短歌</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">選者佐佐木定綱、ゲスト山崎ナオコーラ（小説家）。題「味」。思い出の味は路上のカップ麺！？伊藤一彦の短歌を紹介。短歌武者修行の結果発表。課題をクリアできたのか</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2342,6 +2322,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20221231140100 +0900" stop="20221231150000 +0900" channel="eTele.jp">
+    <title lang="ko">ETV特集</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今年夏、ウクライナ国立バレエがロシアによる侵攻後初の外国ツアーを日本で行った。世界中に避難し散り散りになっていたダンサーたちによる奇跡の公演までの道のりに密着。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221231150000 +0900" stop="20221231153000 +0900" channel="eTele.jp">
+    <title lang="ko">NHKアカデミア</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世界のトップランナーが語る特別な時間。第７回は人類学者・山極壽一さん。ゴリラ研究から、人類が本来平和的であることを紐解き、暴力にかりだすものの正体に迫っていく。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20221230115500 +0900" stop="20221230160000 +0900" channel="NipponTV.jp">
     <title lang="ko">ハコヅメ〜たたかう!交番女子〜</title>
     <rating system="MPAA">
@@ -2579,6 +2579,16 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">２２度目の米作り完結編…福島での２１５日全記録＆２人乗り自転車で坂の町を疾走＆０円食堂で奇跡…▽明日の元日よる６時からは元日DASH３時間スペシャル。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20221231140500 +0900" stop="20221231155500 +0900" channel="NipponTV.jp">
+    <title lang="ko">第101回全国高校サッカー選手権大会</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">３８８３校の頂点へ！日本サッカーの未来を担う高校生の夢舞台、１０１回目の「選手権」。一生に一度の舞台に懸ける選手たちの熱戦をお伝えします　※最大延長１０分</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2893,28 +2903,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221230130000 +0900" stop="20221230142400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">日経スペシャル 60秒で学べるNews</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼映画業界は新時代“リピーター”なぜ続出
-▼世界的巨匠に無茶ぶり…予想外の時短解説
-▼運命の出会いはアプリ！？AIマッチングの実力…婚活Ｄの前に現れた女性とは</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221230142400 +0900" stop="20221230143000 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">番組の見どころをご紹介します！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20221230143000 +0900" stop="20221230175500 +0900" channel="TVTokyo.jp">
   <title lang="ko">あさこ梨乃の5万円旅</title>
     <rating system="MPAA">
@@ -3054,16 +3042,6 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">１月２日夜５時５５分から４時間ＳＰを放送！上川隆也が初充電！ロッチ中岡＆森三中大島と最強＜関東パワスポ街道＞へ！その前に…朝比奈彩＆小沢一敬の充電旅をお届け！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20221230125000 +0900" stop="20221230144500 +0900" channel="FujiTV.jp">
-  <title lang="ko">全日本総合バドミントン選手権大会2022</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">バドミントン日本一決定戦。東京五輪で味わった悔しさをパリで晴らすため、リスタートを切った日本バドミントン界。日本の王者に輝き最高のスタートを切るのは？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3264,6 +3242,16 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「ｓｉｌｅｎｔ」の感動再び！年末一挙放送！本日は第１０話・最終話をおおくりします</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20221231141500 +0900" stop="20221231151500 +0900" channel="FujiTV.jp">
+  <title lang="ko">1月3日はVS魂 グラデーション2023超豪華新春3時間SP</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">１月３日夜６時からはＶＳ魂超豪華新春３時間ＳＰ！東京ディズニーリゾートで魂メンバー大はしゃぎ！ＢＡＢＡ魂には木村拓哉・郷ひろみそして小池百合子都知事！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4243,7 +4231,7 @@ https//otn.fujitv.co.jp
 <programme start="20221230140000 +0900" stop="20221230150000 +0900" channel="FujiTwo.jp">
 <title lang="ko">キミは＝LOVEを愛せるか!!!　21　　イコラブの冠番組レギュラー化2年目！</title>
 <desc>「＝LOVE」の冠“王道アイドル”バラエティ番組！ 聖夜にイコラブちゃんだけでほっこりクリスマスパーティーを開催！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221230/9746706/image/dba2310b7333d700345f5606a8ab670a.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20221230150000 +0900" stop="20221230160000 +0900" channel="FujiTwo.jp">
