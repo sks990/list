@@ -168,6 +168,18 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230102060000 +0900" stop="20230102070000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ちびまる子ちゃん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
+55「子供は風の子」
+56「まるちゃん　ご機嫌な…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221231230000 +0900" stop="20230101010000 +0900" channel="FujiNext.jp">
 <title lang="ko">J-WAVE INSPIRE TOKYO　DAY1</title>
 <desc>J-WAVEが選ぶ今最もホットなアーティストによるフェス！「DAY1（2022年9月17日公演）」1st＆2nd STAGEのライブをお届け！
@@ -189,7 +201,7 @@
 <programme start="20230101050000 +0900" stop="20230101060000 +0900" channel="FujiNext.jp">
 <title lang="ko">FACTORY ARCHIVES「9mm Parabelleum Bullet」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『9mm Parabelleum Bullet』の出演映像を選りすぐってお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230101/9746568/image/2187dd4b2184b3d1d9b6201faf0ce101.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230101060000 +0900" stop="20230101102000 +0900" channel="FujiNext.jp">
@@ -761,7 +773,7 @@
 <programme start="20230101020000 +0900" stop="20230101060000 +0900" channel="kbsworld.jp">
 <title lang="ko">＊一挙放送＊太陽の末裔 Ｌｏｖｅ Ｕｎｄｅｒ Ｔｈｅ Ｓｕｎ 1〜4 [字][初]</title>
 <desc>ソン・ジュンギ＆ソン・ヘギョ主演！韓国で最高視聴率41.6％を記録し、アジア中で大ブームを巻き起こした大ヒットラブ　ロマンスを年末年始 一挙放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221231/9714470/image/67e0ee982e90a13d9fbac9ce03ea2ff4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230101060000 +0900" stop="20230101101000 +0900" channel="kbsworld.jp">
@@ -1087,36 +1099,6 @@
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230101044500 +0900" stop="20230101050000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">超入門!落語 THE MOVIE</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ふだん想像で楽しむ落語の演目を落語家の語るはなしに合わせてあえて映像化。完璧なアテブリ芝居をかぶせてみたら…２０１６〜１８年放送の「落語ザムービー」一挙再放送！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230101050000 +0900" stop="20230101051000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230101051000 +0900" stop="20230101053500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">超入門!落語 THE MOVIE</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ふだん想像で楽しむ落語の演目を落語家の語るはなしに合わせてあえて映像化。完璧なアテブリ芝居をかぶせてみたら…２０１６〜１８年放送の「落語ザムービー」一挙再放送！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230101053500 +0900" stop="20230101060000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">超入門!落語 THE MOVIE</title>
     <rating system="MPAA">
@@ -1617,22 +1599,32 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230101045500 +0900" stop="20230101053000 +0900" channel="eTele.jp">
+  <programme start="20230102051000 +0900" stop="20230102055900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">地球イチバン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世界一のパワースポットといわれるセドナとは？ネイティブアメリカンも現代人も、国や宗教をこえ人々を癒やし続ける不思議な赤い大地の謎に迫る。ナビゲーター役所広司。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230102055900 +0900" stop="20230102060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">紅白歌合戦はＮＨＫプラスなら、スマホやパソコン、一部のテレビでも見られます。利用登録はお早めに！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230102060000 +0900" stop="20230102061000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230101053000 +0900" stop="20230101054000 +0900" channel="eTele.jp">
-    <title lang="ko">おはなしのくにクラシック</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「古事記」から、子どもに親しまれている「いなばの白うさぎ」を原文で読む。また、日本神話の由来について解説する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2037,6 +2029,26 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20230102052500 +0900" stop="20230102055500 +0900" channel="eTele.jp">
+    <title lang="ko">日本の話芸</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">林家たい平さんの落語「藪入り」をお送りします（令和３年１２月１７日（金）荒川区・サンパール荒川で収録）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230102055500 +0900" stop="20230102062500 +0900" channel="eTele.jp">
+    <title lang="ko">美の壺</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日本の正月に欠かせない「雑煮」。地域の産物を取り込み、具も汁もさまざま。全国各地の多様な雑煮から、雑煮用の器まで、雑煮の奥深い魅力に迫る！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20230101020000 +0900" stop="20230101060000 +0900" channel="NipponTV.jp">
     <title lang="ko">フットンダ王決定戦</title>
     <rating system="MPAA">
@@ -2160,16 +2172,26 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230101014500 +0900" stop="20230101055000 +0900" channel="Asahi.jp">
-  <title lang="ko">朝まで生テレビ!</title>
+  <programme start="20230102054900 +0900" stop="20230102055000 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレみどころ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">1987年開始の深夜生討論番組。恒例の元旦ＳＰ、36回目のお正月は「激論！ド〜する？！日本再興2023年」。明るい未来の為にできることは？</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
+  <programme start="20230102055000 +0900" stop="20230102064500 +0900" channel="NipponTV.jp">
+    <title lang="ko">箱根駅伝 絆の物語スタート直前生情報</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第９９回箱根駅伝・往路スタート直前！年末に放送した「絆の物語」をベースに注目選手をチェック▼番組終盤は大手町スタート地点から生中継！緊張高まる様子をお届けします</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
 <programme start="20230101055000 +0900" stop="20230101060000 +0900" channel="Asahi.jp">
   <title lang="ko">ANNニュース</title>
     <rating system="MPAA">
@@ -2396,12 +2418,42 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20221231234500 +0900" stop="20230101050000 +0900" channel="TBS2.jp">
-  <title lang="ko">CDTVライブ!ライブ!</title>
+<programme start="20230102051000 +0900" stop="20230102053000 +0900" channel="Asahi.jp">
+  <title lang="ko">音チク コンサート</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">King Gnu☆ミセス☆KARAなど総勢80組超えの人気アーティストが集結！朝５時までノンストップ激アツライブをお見逃しなく！</desc>
+    <desc lang="ko">ピアニスト清塚信也と声優の木村昴が送る深夜のサウンドバラエティ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102053000 +0900" stop="20230102055000 +0900" channel="Asahi.jp">
+  <title lang="ko">シソンヌ長谷川×○○のキマリ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">世代№１コント師との呼び声高いシソンヌ長谷川と若い世代に支持されるアーティストがコラボ！一般の方々の「マイルール」＝“キマリ”を肴に本音をぶつけあうトーク番組！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102055000 +0900" stop="20230102060000 +0900" channel="Asahi.jp">
+  <title lang="ko">ANNニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102060000 +0900" stop="20230102065500 +0900" channel="Asahi.jp">
+  <title lang="ko">謎解き!みちのく開運旅</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">東北には福を呼び込み運気を上げる開運スポットが数多くある。各地の識者の案内でパワースポットと称される人気の場所を巡り運気が上がるといわれる謎や由縁を解き明かす。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2527,12 +2579,22 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230101040000 +0900" stop="20230101053000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">キャッツドッグス</title>
+<programme start="20230102055000 +0900" stop="20230102060000 +0900" channel="TBS2.jp">
+  <title lang="ko">JNNニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">犬アレルギーの新薬を研究するブロディー教授を狙う影…それは世界征服を企む邪悪な猫！新米エージェント犬ルーが人間を守るため、教授の家にペットとして潜入するが…。</desc>
+    <desc lang="ko">最新のニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102060000 +0900" stop="20230102115000 +0900" channel="TBS2.jp">
+  <title lang="ko">恋はつづくよどこまでも</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">あの胸キュンをもう一度！上白石萌音・佐藤健出演の、恋に仕事に邁進する新米ナース“勇者”とドＳドクター“魔王”のラブストーリーを一挙放送！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2639,12 +2701,13 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230101031500 +0900" stop="20230101050000 +0900" channel="FujiTV.jp">
-  <title lang="ko">久保みねヒャダ明けましてこじらせナイト寿SP</title>
+<programme start="20230102060000 +0900" stop="20230102093000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">家、ついて行ってイイですか?</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">毎年新春深夜に登場のこじらせ深夜ローカル番組が遂に１０周年！流行語…紅白…ニュース…昨年を振り返りこじらせ談義▽大人気！千葉雄大ヒャダイン旅第６弾沖縄</desc>
+    <desc lang="ko">２０２３年の第１弾はあす夜５時５５分から４時間ＳＰ▽船で50カ国巡った昭和の頑固
+オヤジ▽ヤクルト大好きおじさんvs令和の三冠王▽伝説の男・イノマー…その後の物語</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2829,22 +2892,32 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230101043000 +0900" stop="20230101050000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20230102054000 +0900" stop="20230102055500 +0900" channel="FujiTV.jp">
+  <title lang="ko">伊勢神宮舞楽</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">年始恒例の伊勢神宮・正月初神楽。令和５年の舞楽は「陪臚（ばいろ）」。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230101050000 +0900" stop="20230101053000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20230102055500 +0900" stop="20230102060000 +0900" channel="FujiTV.jp">
+  <title lang="ko">FNNニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">最新ニュースをお届けします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102060000 +0900" stop="20230102070000 +0900" channel="FujiTV.jp">
+  <title lang="ko">はやく起きた朝は…</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽今回のテーマは「他の２人に会わせたい人」▽孫娘に欲のない落語家と俳優の卵にトルコ語の先生が登場！▽松居直美・磯野貴理子・森尾由美ほか</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3169,6 +3242,26 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230102053000 +0900" stop="20230102060000 +0900" channel="Tokyo MX">
+  <title lang="ko">あけましてスターダム2023!今年も新春12時間SP</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">無料ダウンロードでＤＪ気分が楽しめる大人気スマホアプリゲーム・グルミク！大江戸隊でリズムゲームが一番上手いのは⁉さらに本物ＤＪを習いバトル‼</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102060000 +0900" stop="20230102063000 +0900" channel="Tokyo MX">
+  <title lang="ko">あけましてスターダム2023!今年も新春12時間SP</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">選手たちが公約を掲げ、ファンの皆様の投票で１位を目指した選挙戦「ＳＴＡＲＤＯＭ総選挙」第３位は誰の手に⁉</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20221231230000 +0900" stop="20230101010000 +0900" channel="FujiNext.jp">
 <title lang="ko">J-WAVE INSPIRE TOKYO　DAY1</title>
 <desc>J-WAVEが選ぶ今最もホットなアーティストによるフェス！「DAY1（2022年9月17日公演）」1st＆2nd STAGEのライブをお届け！
@@ -3190,7 +3283,7 @@
 <programme start="20230101050000 +0900" stop="20230101060000 +0900" channel="FujiNext.jp">
 <title lang="ko">FACTORY ARCHIVES「9mm Parabelleum Bullet」</title>
 <desc>伝説のスタジオライブ番組「FACTORY」のライブ映像の中から『9mm Parabelleum Bullet』の出演映像を選りすぐってお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230101/9746568/image/2187dd4b2184b3d1d9b6201faf0ce101.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230101060000 +0900" stop="20230101102000 +0900" channel="FujiNext.jp">
@@ -3762,7 +3855,7 @@
 <programme start="20230101020000 +0900" stop="20230101060000 +0900" channel="kbsworld.jp">
 <title lang="ko">＊一挙放送＊太陽の末裔 Ｌｏｖｅ Ｕｎｄｅｒ Ｔｈｅ Ｓｕｎ 1〜4 [字][初]</title>
 <desc>ソン・ジュンギ＆ソン・ヘギョ主演！韓国で最高視聴率41.6％を記録し、アジア中で大ブームを巻き起こした大ヒットラブ　ロマンスを年末年始 一挙放送！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2022/20221231/9714470/image/67e0ee982e90a13d9fbac9ce03ea2ff4.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230101060000 +0900" stop="20230101101000 +0900" channel="kbsworld.jp">
