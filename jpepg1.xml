@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230101030000 +0900" stop="20230101060000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ガールズパンツァー シネマティック・コンサート</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
-2017年7月9日パシフィコ横浜 国立大ホールにて開…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230101060000 +0900" stop="20230101070000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ちびまる子ちゃん</title>
     <rating system="MPAA">
@@ -176,6 +165,18 @@
     <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
 55「子供は風の子」
 56「まるちゃん　ご機嫌な…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102070000 +0900" stop="20230102080000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">夏目友人帳</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
+11「ニャンコ徒然帳」12「五日印」
+祖母レイコ…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1099,46 +1100,6 @@
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230101053500 +0900" stop="20230101060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">超入門!落語 THE MOVIE</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ふだん想像で楽しむ落語の演目を落語家の語るはなしに合わせてあえて映像化。完璧なアテブリ芝居をかぶせてみたら…２０１６〜１８年放送の「落語ザムービー」一挙再放送！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230101060000 +0900" stop="20230101061000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230101061000 +0900" stop="20230101065500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">新日本風土記 45分版</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">風光明美な観光地という“表の顔”の向こうに脈々と「秘境の記憶」が息づく栃木県の日光。山の民の営みが今なお根付く知られざる日光を描く（２０２１年３月放送の再編集）</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230101065500 +0900" stop="20230101065700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230101065700 +0900" stop="20230101070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
     <rating system="MPAA">
@@ -1629,32 +1590,42 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230101054000 +0900" stop="20230101060500 +0900" channel="eTele.jp">
-    <title lang="ko">NHK短歌</title>
+  <programme start="20230102061000 +0900" stop="20230102065500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">新日本風土記 45分版</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">選者は松村正直さん。ゲストは井森美幸さん。題は「うさぎ」。学校のうさぎ当番、うさぎ革の手袋、幼稚園のうさぎ組など、全国からさまざまなうさぎの歌が寄せられた。</desc>
+    <desc lang="ko">番組では弘法大師・空海にまつわる各地の風土や風習を描いてきた。空海とともに生きる人々の姿と千二百年の時を超え受け継がれる祈りを描く（２０２１年６月放送の再編集）</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230101060500 +0900" stop="20230101062500 +0900" channel="eTele.jp">
-    <title lang="ko">舞楽</title>
+  <programme start="20230102065500 +0900" stop="20230102065700 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日本の芸能の「原点」といわれ、１４００年もの歴史をもつ舞楽。宮内庁式部職楽部の出演で左方「蘇莫者（そまくしゃ）」右方「八仙（はっせん）」をお送りする。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230101062500 +0900" stop="20230101063500 +0900" channel="eTele.jp">
-    <title lang="ko">テレビ体操</title>
+  <programme start="20230102065700 +0900" stop="20230102070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【出演】岡本美佳，鈴木大輔，舘野伶奈，吉江晴菜，今井菜津美，矢作あかり，戸塚寛子，石川裕平，杉井勇介，新井庸太，【ピアノ】幅しげみ，能條貴大，細貝柊</desc>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230102070000 +0900" stop="20230102071500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2049,14 +2020,32 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230101020000 +0900" stop="20230101060000 +0900" channel="NipponTV.jp">
-    <title lang="ko">フットンダ王決定戦</title>
+  <programme start="20230102062500 +0900" stop="20230102063500 +0900" channel="eTele.jp">
+    <title lang="ko">テレビ体操</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日本で一番早いお笑いバトル！『フットンダ王決定戦』‼
-１２回目となる今回のテーマは「モジり新時代」
-史上最多の初出場芸人と実力派常連勢が頂上決戦！王座は誰に⁉</desc>
+    <desc lang="ko">【出演】鈴木大輔，舘野伶奈，吉江晴菜，戸塚寛子，杉井勇介，新井庸太，【ピアノ】幅しげみ</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230102063500 +0900" stop="20230102065000 +0900" channel="eTele.jp">
+    <title lang="ko">新春吟詠</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">新春吟詠【吟】河野鶴聲、向山侑真、長谷川素枩、林杏泉、今城龍栄、岳精流日本吟院総本部女子【舞】杉浦裕容【箏】石垣清美【十七絃】井原潤子【尺八】河野正明</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230102065000 +0900" stop="20230102074500 +0900" channel="eTele.jp">
+    <title lang="ko">365日の献立日記</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2192,16 +2181,27 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230101055000 +0900" stop="20230101060000 +0900" channel="Asahi.jp">
-  <title lang="ko">ANNニュース</title>
+  <programme start="20230102064500 +0900" stop="20230102070000 +0900" channel="NipponTV.jp">
+    <title lang="ko">ニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <desc lang="ko">「箱根駅伝」直前情報。
+最新のニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
+  <programme start="20230102070000 +0900" stop="20230102075000 +0900" channel="NipponTV.jp">
+    <title lang="ko">第99回東京箱根間往復大学駅伝競走</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「第９９回箱根駅伝」往路の号砲まで１時間…直前の最新情報をスタート地点・東京大手町の熱気とともにお伝えします</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
 <programme start="20230101060000 +0900" stop="20230101114500 +0900" channel="Asahi.jp">
   <title lang="ko">羽鳥慎一モーニングショー</title>
     <rating system="MPAA">
@@ -2458,22 +2458,12 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230101050000 +0900" stop="20230101062000 +0900" channel="TBS2.jp">
-  <title lang="ko">ジョブチューン〜アノ職業のヒミツぶっちゃけます!特別編</title>
+<programme start="20230102065500 +0900" stop="20230102100000 +0900" channel="Asahi.jp">
+  <title lang="ko">ザワつく!金曜日</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今夜、2023年ジャッジ開幕‼『スシロー』企画最多６度目の挑戦で悲願の全品合格達成なるか⁉『ローソンスイーツ』３度目の挑戦！コンビニスイーツ最高９品合格なるか⁉</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230101062000 +0900" stop="20230101063000 +0900" channel="TBS2.jp">
-  <title lang="ko">JNNニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">最新のニュースをお伝えします。</desc>
+    <desc lang="ko">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2712,16 +2702,6 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230101050000 +0900" stop="20230101065500 +0900" channel="FujiTV.jp">
-  <title lang="ko">突然ですが占ってもいいですか?</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">木下レオン＆シウマ＆満島真之介が福岡開運旅！２０２３年食べると運気上がる最強グルメ続々▽山本舞香＆大串ノリコ秩父パワースポット旅▽星ひとみ運気ＵＰ術も</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230101065500 +0900" stop="20230101070000 +0900" channel="FujiTV.jp">
   <title lang="ko">FNNニュース</title>
     <rating system="MPAA">
@@ -2922,22 +2902,12 @@
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230101053000 +0900" stop="20230101060000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20230102070000 +0900" stop="20230102095000 +0900" channel="FujiTV.jp">
+  <title lang="ko">コンフィデンスマンJP</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230101060000 +0900" stop="20230101063000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">天才信用詐欺師のダー子（長澤まさみ）、ボクちゃん（東出昌大）、リチャード（小日向文世）が欲望にまみれた人間から大金をダマしとる！痛快エンタメコメディ！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3258,6 +3228,26 @@
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">選手たちが公約を掲げ、ファンの皆様の投票で１位を目指した選挙戦「ＳＴＡＲＤＯＭ総選挙」第３位は誰の手に⁉</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102063000 +0900" stop="20230102070000 +0900" channel="Tokyo MX">
+  <title lang="ko">あけましてスターダム2023!今年も新春12時間SP</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">リング外の選手の素顔に迫るユニットトークコーナーＳＴＡＲＳとクイーンズ・クエストを迎えてトーク「一番イケメン好きな人」など普段語らないメンバー内の思いを暴露する</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230102070000 +0900" stop="20230102073000 +0900" channel="Tokyo MX">
+  <title lang="ko">あけましてスターダム2023!今年も新春12時間SP</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">選手たちが公約を掲げ、ファンの皆様の投票で１位を目指した選挙戦「ＳＴＡＲＤＯＭ総選挙」第２位は誰の手に⁉</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
