@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230102060000 +0900" stop="20230102070000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ちびまる子ちゃん</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
-55「子供は風の子」
-56「まるちゃん　ご機嫌な…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230102070000 +0900" stop="20230102080000 +0900" channel="ANIMAX.jp">
   <title lang="ko">夏目友人帳</title>
     <rating system="MPAA">
@@ -191,6 +179,17 @@ PROLOGUE,1〜8
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230103073000 +0900" stop="20230103083000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">夏目友人帳 石起こしと怪しき来訪者</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
+ファンに人気の二つの短編エピソードを劇場にて限…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230102000000 +0900" stop="20230102030000 +0900" channel="FujiNext.jp">
 <title lang="ko">ARABAKI ROCK FEST.22 ＜DAY1＞</title>
 <desc>MAN WITH A MISSION／Creepy Nuts／Novelbright／スガ シカオ with FUYU／BRAHMAN　ほか
@@ -219,7 +218,7 @@ PROLOGUE,1〜8
 <title lang="ko">みんなの鉄道SP 最新新幹線 N-700徹底解剖！</title>
 <desc>2007年夏に営業運転を開始した最新新幹線「N-700」に大注目！組み立てられ完成するまでの工程に密着。試験車両に同乗しその様子を徹底解説する。
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230102/9754091/image/cfdd9c42ec7e20bbbd7bbb75950b8e10.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230102080000 +0900" stop="20230102093000 +0900" channel="FujiNext.jp">
@@ -655,7 +654,7 @@ PROLOGUE,1〜8
 <title lang="ko">超特急の撮れ高足りてますか？　135　　シーズン5から最新回まで一挙放送！</title>
 <desc>「888の変顔で撮れ高足りてますか？」 変顔レパートリーを増やすべくメンバーが試行錯誤！
 ＜出演＞超特急
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230102/9754138/image/9a46e7871dd68733b551eddf189f21da.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230102080000 +0900" stop="20230102083000 +0900" channel="FujiTwo.jp">
@@ -1295,36 +1294,6 @@ PROLOGUE,1〜8
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230102065700 +0900" stop="20230102070000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230102070000 +0900" stop="20230102071500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230102071500 +0900" stop="20230102072000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230102072000 +0900" stop="20230102083000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">さわやか自然百景</title>
     <rating system="MPAA">
@@ -1845,22 +1814,52 @@ PROLOGUE,1〜8
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230102065000 +0900" stop="20230102074500 +0900" channel="eTele.jp">
-    <title lang="ko">365日の献立日記</title>
+  <programme start="20230103071500 +0900" stop="20230103072000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230102074500 +0900" stop="20230102075000 +0900" channel="eTele.jp">
-    <title lang="ko">漢字ふむふむ</title>
+  <programme start="20230103072000 +0900" stop="20230103074900 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">いいいじゅー!!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">中国では干支（えと）にブタが使われているが日本では猪（イノシシ）に入れ替わっている。その謎に迫る。実はこの現象日本だけではく、世界各国で起きていた！真相は？</desc>
+    <desc lang="ko">いま移住人気ナンバーワン離島の長崎県五島市。福岡から移住したばかりの一家に密着。夫婦はレストラン経営を目論むが不安も。先輩移住者が明かすリアルなアドバイスとは？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230103074900 +0900" stop="20230103075000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">紅白歌合戦はＮＨＫプラスなら、スマホやパソコン、一部のテレビでも見られます。利用登録はお早めに！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230103075000 +0900" stop="20230103080000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">長濱ねるの五島列島SDGs旅</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「長濱ねるのＳＤＧｓ日記」でＳＤＧｓを勉強中の長濱ねるさん。朝ドラ「舞いあがれ！」の舞台で、幼少時暮らした長崎県五島列島でＳＤＧｓスポットを訪れます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230103080000 +0900" stop="20230103081500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">舞いあがれ!お正月スペシャル</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">連続テレビ小説「舞いあがれ！」のヒロインや主な出演者が新年のごあいさつ。昨年末ラストの物語を受けて、今後はどんな展開が待ち受けているのかなどを出演者が紹介する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2405,23 +2404,32 @@ PROLOGUE,1〜8
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230102064500 +0900" stop="20230102070000 +0900" channel="NipponTV.jp">
-    <title lang="ko">ニュース</title>
+  <programme start="20230103070500 +0900" stop="20230103073000 +0900" channel="eTele.jp">
+    <title lang="ko">ふるカフェ系 ハルさんの休日</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「箱根駅伝」直前情報。
-最新のニュースをお伝えします。</desc>
+    <desc lang="ko">匠の町、岐阜県飛騨古川。大正ロマン感じるレトロな佇まい。リノベーションしながら時代の思い出をそっと包み込こんできた心地よいフェへ。特産の薬草料理誕生のドラマも！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230102070000 +0900" stop="20230102075000 +0900" channel="NipponTV.jp">
-    <title lang="ko">第99回東京箱根間往復大学駅伝競走</title>
+  <programme start="20230103073000 +0900" stop="20230103075000 +0900" channel="eTele.jp">
+    <title lang="ko">ブレーブ・バニーズ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「第９９回箱根駅伝」往路の号砲まで１時間…直前の最新情報をスタート地点・東京大手町の熱気とともにお伝えします</desc>
+    <desc lang="ko">ぼくたちはブレーブ・バニーズ。ぼうけんにでかけ、あたらしいともだちとたのしくあそぼう！　世界６３の国と地域で親しまれている、ウクライナ生まれのキッズアニメ。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230103075000 +0900" stop="20230103085000 +0900" channel="eTele.jp">
+    <title lang="ko">おかあさんといっしょ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２０２２年８月２０日さいたまスーパーアリーナでのコンサートを収録</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2604,6 +2612,16 @@ PROLOGUE,1〜8
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「第９９回箱根駅伝」復路の号砲まで１時間…直前の最新情報をスタート地点・箱根芦ノ湖の熱気とともにお伝えします</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230103075000 +0900" stop="20230103141800 +0900" channel="NipponTV.jp">
+    <title lang="ko">第99回東京箱根間往復大学駅伝競走</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「９９回目の継走」美しくも過酷な２１７．１ｋｍのドラマがついに決着！▼栄冠はどの大学に！？激しいシード争いの行方にも注目▼箱根芦ノ湖から東京大手町まで完全生中継</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2994,12 +3012,12 @@ PROLOGUE,1〜8
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230102060000 +0900" stop="20230102070000 +0900" channel="FujiTV.jp">
-  <title lang="ko">はやく起きた朝は…</title>
+<programme start="20230103080000 +0900" stop="20230103103000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">洋上の激闘!巨大マグロ戦争</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽今回のテーマは「他の２人に会わせたい人」▽孫娘に欲のない落語家と俳優の卵にトルコ語の先生が登場！▽松居直美・磯野貴理子・森尾由美ほか</desc>
+    <desc lang="ko">巨大マグロが釣れまくり！衝撃の爆釣映像の連続！昨年津軽海峡から消えた巨大マグロが大間の海に帰ってきた！コロナ禍で窮地に陥ったマグロ漁師達の逆転劇が始まる！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3230,26 +3248,6 @@ PROLOGUE,1〜8
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">天才信用詐欺師のダー子（長澤まさみ）、ボクちゃん（東出昌大）、リチャード（小日向文世）が欲望にまみれた人間から大金をダマしとる！痛快エンタメコメディ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230102063000 +0900" stop="20230102070000 +0900" channel="Tokyo MX">
-  <title lang="ko">あけましてスターダム2023!今年も新春12時間SP</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">リング外の選手の素顔に迫るユニットトークコーナーＳＴＡＲＳとクイーンズ・クエストを迎えてトーク「一番イケメン好きな人」など普段語らないメンバー内の思いを暴露する</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230102070000 +0900" stop="20230102073000 +0900" channel="Tokyo MX">
-  <title lang="ko">あけましてスターダム2023!今年も新春12時間SP</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">選手たちが公約を掲げ、ファンの皆様の投票で１位を目指した選挙戦「ＳＴＡＲＤＯＭ総選挙」第２位は誰の手に⁉</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3562,7 +3560,7 @@ PROLOGUE,1〜8
 <title lang="ko">みんなの鉄道SP 最新新幹線 N-700徹底解剖！</title>
 <desc>2007年夏に営業運転を開始した最新新幹線「N-700」に大注目！組み立てられ完成するまでの工程に密着。試験車両に同乗しその様子を徹底解説する。
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230102/9754091/image/cfdd9c42ec7e20bbbd7bbb75950b8e10.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230102080000 +0900" stop="20230102093000 +0900" channel="FujiNext.jp">
@@ -3998,7 +3996,7 @@ PROLOGUE,1〜8
 <title lang="ko">超特急の撮れ高足りてますか？　135　　シーズン5から最新回まで一挙放送！</title>
 <desc>「888の変顔で撮れ高足りてますか？」 変顔レパートリーを増やすべくメンバーが試行錯誤！
 ＜出演＞超特急
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230102/9754138/image/9a46e7871dd68733b551eddf189f21da.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230102080000 +0900" stop="20230102083000 +0900" channel="FujiTwo.jp">
