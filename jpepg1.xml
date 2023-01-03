@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230103110000 +0900" stop="20230103160000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">SPY×FAMILY(スパイファミリー)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">★アニマックス 年末年始「ANIME GRAND SLAM！(グランドスラム)」★
-1〜10
-東国オスタニアと西国ウェスタリスは、冷…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230103160000 +0900" stop="20230103210000 +0900" channel="ANIMAX.jp">
   <title lang="ko">SPY×FAMILY(スパイファミリー)</title>
     <rating system="MPAA">
@@ -263,6 +251,18 @@ C.E.71、地球連合軍とザフトの戦争は…</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230104170000 +0900" stop="20230104180000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">夏目友人帳</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">7「子狐のぼうし」
+8「儚い光」
+祖母レイコが残した、妖との契約書の束“友人帳”を手にした孫の夏目貴志。彼もレイ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230103000000 +0900" stop="20230103030000 +0900" channel="FujiNext.jp">
 <title lang="ko">ARABAKI ROCK FEST.22 ＜DAY2＞</title>
 <desc>マカロニえんぴつ／yama／ユニコーン／キュウソネコカミ／SHISHAMO／ACIDMAN／ASIAN KUNG-FU GENERATION／怒髪天　ほか
@@ -377,7 +377,7 @@ C.E.71、地球連合軍とザフトの戦争は…</desc>
 <title lang="ko">スパイストラベラー　44　第44話「言葉が道になる」</title>
 <desc>＜MC＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）
 ＜ゲスト＞ナヲ（マキシマム ザ ホルモン）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9754117/image/981bf74ee329d2d82a3c5910b4bc75e9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103173000 +0900" channel="FujiNext.jp">
@@ -584,7 +584,7 @@ C.E.71、地球連合軍とザフトの戦争は…</desc>
 <desc>「モンスターコース富士桜カントリー倶楽部に石川遼降臨！」
 ＜出演＞ノブ（千鳥）　石川遼　＜キャディ＞佐藤賢和　大西ライオン
 ＜解説＞戸張捷　＜実況＞谷岡慎一
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9753469/image/0db521f796e56b751d4726dfbde6d2d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103180000 +0900" channel="FujiOne.jp">
@@ -821,7 +821,7 @@ OCTPATHのオクト・バズとの連動企画も！
 <programme start="20230103140000 +0900" stop="20230103170000 +0900" channel="FujiTwo.jp">
 <title lang="ko">9bic 3周年記念ライブ 〜ARK〜　完全版</title>
 <desc>Z世代で次にくる！6人組メンズアイドルグループ「9bic（キュービック）」の3周年記念ライブの模様に、舞台裏の映像を追加した完全版！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9754188/image/772414cf1e8409a6c4aa42375ce049ef.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103180000 +0900" channel="FujiTwo.jp">
@@ -1013,7 +1013,7 @@ OCTPATHのオクト・バズとの連動企画も！
 <programme start="20230103163000 +0900" stop="20230103170000 +0900" channel="kbsworld.jp">
 <title lang="ko">インフォメーション</title>
 <desc> 
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9748816/image/a38b95ecb8c2961eb658c015d7067dc6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103181000 +0900" channel="kbsworld.jp">
@@ -1910,22 +1910,42 @@ OCTPATHのオクト・バズとの連動企画も！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230103143500 +0900" stop="20230103160500 +0900" channel="eTele.jp">
-    <title lang="ko">新春囲碁スペシャル</title>
+  <programme start="20230104160500 +0900" stop="20230104163000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">猫のしっぽ カエルの手</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">新春の囲碁スペシャルは、人気プロ棋士！囲碁大好きアマチュア！そして、囲碁覚えたてのアイドルＡＫＢ４８が入り乱れ、タッグを組んでの囲碁オモシロ対決です！</desc>
+    <desc lang="ko">ベニシアさん、庭のローズゼラニウムの寒さ対策をする。近所の方にしめ縄の作りを教わる。散歩中にカリンの木を見つけ、カリンのパテを作る。京都伏見の造り酒屋を訪ねる。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230103160500 +0900" stop="20230103165000 +0900" channel="eTele.jp">
-    <title lang="ko">先人たちの底力 知恵泉</title>
+  <programme start="20230104163000 +0900" stop="20230104164500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ひらり</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">天下を取った徳川家康は、いかに家臣をまとめ、どんな人材登用を行ったのか。徳川軍団から、若き才能の生かし方や、難題に立ち向かうためのチームづくりの知恵を学ぶ。</desc>
+    <desc lang="ko">相撲が大好きな女の子・ひらりは恋に仕事に大忙し！東京・両国を舞台に夢をかなえるためにさまざまな困難に立ち向かうヒロインの下町青春物語。１９９２年の連続テレビ小説</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230104164500 +0900" stop="20230104170000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ひらり</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">相撲が大好きな女の子・ひらりは恋に仕事に大忙し！東京・両国を舞台に夢をかなえるためにさまざまな困難に立ち向かうヒロインの下町青春物語。１９９２年の連続テレビ小説</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230104170000 +0900" stop="20230104180000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">ニュースLIVE!ゆう5時</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">▽各地の様子中継交えて伝える　▽京都「うさぎ神社」開運中継　▽俳優・大森南朋さんの人生分岐点</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2590,12 +2610,62 @@ OCTPATHのオクト・バズとの連動企画も！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230103150000 +0900" stop="20230103163000 +0900" channel="NipponTV.jp">
-    <title lang="ko">成田屋に、ござりまする。</title>
+  <programme start="20230104161500 +0900" stop="20230104162500 +0900" channel="eTele.jp">
+    <title lang="ko">にほんごであそぼ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">海老蔵から團十郎、勸玄から新之助へのＷ襲名秘舞台裏▼新之助９歳史上最年少で超難役に挑む▼女性６０年ぶりの快挙！姉ぼたん涙の稽古▼海＆キャンプ…遊びも常に全力疾走</desc>
+    <desc lang="ko">かるたとり、四字熟語かるた、名文を言ってみよう！、うた「合体！四字熟語」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230104162500 +0900" stop="20230104163000 +0900" channel="eTele.jp">
+    <title lang="ko">スクる!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230104163000 +0900" stop="20230104164000 +0900" channel="eTele.jp">
+    <title lang="ko">えいごであそぼ with Orton</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">英語の「音」で遊びながら、楽しく英語と親しもう！舞台は不思議な町「オートンタウン」。スーパーマシン、コント、歌、ダンス、アニメなど、楽しいコーナーがいっぱい！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230104164000 +0900" stop="20230104165000 +0900" channel="eTele.jp">
+    <title lang="ko">キミも防災サバイバー!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">キミもなってみないか？災害から自分の身を守れる「防災サバイバー」に。三重県の小学生が挑むのは「暴れ川」がもたらす洪水の危機。どうなる？出演岩井勇気（ハライチ）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230104165000 +0900" stop="20230104170000 +0900" channel="eTele.jp">
+    <title lang="ko">ウチのどうぶつえん</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">主に、京都市動物園でくらすゴリラの兄弟、ゲンタロウとキンタロウの日々をご紹介します。なんというか、スナップショット的な？何気ない姿をご覧ください。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230104170000 +0900" stop="20230104171000 +0900" channel="eTele.jp">
+    <title lang="ko">おじゃる丸</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2823,6 +2893,16 @@ OCTPATHのオクト・バズとの連動企画も！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20230104160500 +0900" stop="20230104190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
 <programme start="20230103153000 +0900" stop="20230103173000 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season5</title>
     <rating system="MPAA">
@@ -3040,12 +3120,12 @@ OCTPATHのオクト・バズとの連動企画も！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230103150000 +0900" stop="20230103160000 +0900" channel="TBS2.jp">
-  <title lang="ko">さまぁ〜ずジュニアのコレって変じゃね!?</title>
+<programme start="20230104164500 +0900" stop="20230104183000 +0900" channel="Asahi.jp">
+  <title lang="ko">スーパーJチャンネル</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">言われてみれば気になる世の中のちょっと「変」なコトに注目！出演者が独自の見解を語り合い真相を解明するバラエティ。ちょっと愛しくなる「変」なコトの大プレゼン大会！</desc>
+    <desc lang="ko">視聴者が知りたいニュース・情報をズバリお伝えします！テレビ朝日の系列局２６局（ＡＮＮ）が総力取材！いち早く正確な情報を届けます。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3221,16 +3301,6 @@ OCTPATHのオクト・バズとの連動企画も！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230103140000 +0900" stop="20230103160000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">新春!芸能人対抗駅伝</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">力自慢の芸能人が新春の秩父に集結！１チーム５名で襷を繋ぎ３チームで覇を競う芸能人対抗駅伝！魔裟斗チームの連覇か？猫ひろし・森脇健児チームのリベンジなるか？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3492,22 +3562,12 @@ OCTPATHのオクト・バズとの連動企画も！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230103143000 +0900" stop="20230103160000 +0900" channel="FujiTV.jp">
-  <title lang="ko">ウチの子ファンタジー</title>
+<programme start="20230104165400 +0900" stop="20230104170500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ゆうがたサテライト</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ファンタジーな脚本で悩める子供を後押し『妖精が勉強教えてくれる』『虫軍団に消されたパパを救え』▽メンディー脚本！逆上がり苦手８歳女子に新米パパ岡村感動▽小芝風花</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230103160000 +0900" stop="20230103161500 +0900" channel="FujiTV.jp">
-  <title lang="ko">FNNニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">最新ニュースをお届けします。</desc>
+    <desc lang="ko">新年伊勢神宮参拝▽東証大発会新年の株価は▽東京感染者数ほか</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3718,16 +3778,6 @@ OCTPATHのオクト・バズとの連動企画も！
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ソレ知りたいを速報！榎並大二郎＆宮司愛海が現場と生の声を取材。わかりやすく伝えます▽ガチャピンとあしたの空を先読み！▽人気企画「しらべてみたら」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230103143500 +0900" stop="20230103161700 +0900" channel="Tokyo MX">
-  <title lang="ko">ハンガー・ゲーム</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">強大な権力者に支配された独裁国家を舞台に、命懸けの殺戮ゲームに身を投じたヒロインの勇気と成長を描く究極のサバイバル・アクション！人気声優による吹き替えにも注目！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4222,6 +4272,26 @@ OCTPATHのオクト・バズとの連動企画も！
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230104163000 +0900" stop="20230104170000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230104170000 +0900" stop="20230104175500 +0900" channel="Tokyo MX">
+  <title lang="ko">京都画報</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">クオリティーライフを送る大人の視聴者に向け、京都の伝統文化をお届けします。常盤貴子が毎回様々なテーマで、京都の美術、工芸、グルメ、キーパーソンと出会います。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230103000000 +0900" stop="20230103030000 +0900" channel="FujiNext.jp">
 <title lang="ko">ARABAKI ROCK FEST.22 ＜DAY2＞</title>
 <desc>マカロニえんぴつ／yama／ユニコーン／キュウソネコカミ／SHISHAMO／ACIDMAN／ASIAN KUNG-FU GENERATION／怒髪天　ほか
@@ -4336,7 +4406,7 @@ OCTPATHのオクト・バズとの連動企画も！
 <title lang="ko">スパイストラベラー　44　第44話「言葉が道になる」</title>
 <desc>＜MC＞桜井誠（Dragon Ash）、セントチヒロ・チッチ（BiSH）
 ＜ゲスト＞ナヲ（マキシマム ザ ホルモン）
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9754117/image/981bf74ee329d2d82a3c5910b4bc75e9.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103173000 +0900" channel="FujiNext.jp">
@@ -4543,7 +4613,7 @@ OCTPATHのオクト・バズとの連動企画も！
 <desc>「モンスターコース富士桜カントリー倶楽部に石川遼降臨！」
 ＜出演＞ノブ（千鳥）　石川遼　＜キャディ＞佐藤賢和　大西ライオン
 ＜解説＞戸張捷　＜実況＞谷岡慎一
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9753469/image/0db521f796e56b751d4726dfbde6d2d0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103180000 +0900" channel="FujiOne.jp">
@@ -4780,7 +4850,7 @@ OCTPATHのオクト・バズとの連動企画も！
 <programme start="20230103140000 +0900" stop="20230103170000 +0900" channel="FujiTwo.jp">
 <title lang="ko">9bic 3周年記念ライブ 〜ARK〜　完全版</title>
 <desc>Z世代で次にくる！6人組メンズアイドルグループ「9bic（キュービック）」の3周年記念ライブの模様に、舞台裏の映像を追加した完全版！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9754188/image/772414cf1e8409a6c4aa42375ce049ef.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103180000 +0900" channel="FujiTwo.jp">
@@ -4972,7 +5042,7 @@ OCTPATHのオクト・バズとの連動企画も！
 <programme start="20230103163000 +0900" stop="20230103170000 +0900" channel="kbsworld.jp">
 <title lang="ko">インフォメーション</title>
 <desc> 
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230103/9748816/image/a38b95ecb8c2961eb658c015d7067dc6.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230103170000 +0900" stop="20230103181000 +0900" channel="kbsworld.jp">
