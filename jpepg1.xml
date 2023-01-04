@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230104143000 +0900" stop="20230104150000 +0900" channel="ANIMAX.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230104150000 +0900" stop="20230104160000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ルパン三世(PART2)</title>
     <rating system="MPAA">
@@ -401,6 +391,18 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合いを深…</des
     <desc lang="ko">71「ルパン対新選組」
 72「スケートボード殺人事件」
 ルパン一味が日本から脱出して5年。世界に散っていたルパン・…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230105160000 +0900" stop="20230105170000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">はたらく細胞BLACK</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">11「自暴自棄、痛風、反乱。」
+12「復帰、心臓、終焉。」
+毎日せっせと体中に酸素を運ぶ、新米赤血球。しかし彼の職…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1088,46 +1090,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230104145500 +0900" stop="20230104150000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">１月１０日からスタートするドラマ１０「大奥」。よしながふみ原作の男女逆転時代劇のみどころをご紹介します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230104150000 +0900" stop="20230104150700 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230104150700 +0900" stop="20230104151000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230104151000 +0900" stop="20230104155500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">剣樹抄(けんじゅしょう)〜光圀公と俺〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">若き徳川光圀（山本耕史）は必殺剣法を持つ無宿の孤児・了助（黒川想矢）と出会い、明暦の大火を起こした火付け一味の首領が、錦氷ノ介（加藤シゲアキ）であることを知る。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230104155500 +0900" stop="20230104160000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">みんなのうた</title>
     <rating system="MPAA">
@@ -1733,7 +1695,7 @@ https//otn.fujitv.co.jp
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▽あなたのくらしに、みみより解説！いま気になるニュースをわかりやすく、裏にはこんな深いコトが…！くらしに密着した耳よりな情報をお届けします！</desc>
+    <desc lang="ko">価が大きく上がる中で迎える２０２３年。不安の中、どうしたらくらしに明るさが見えるのか？賃上げに向けた動きや、外国人観光客増加の動きなど、今後の見通しを解説する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -1748,22 +1710,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230104143000 +0900" stop="20230104150000 +0900" channel="eTele.jp">
-    <title lang="ko">将棋フォーカス</title>
+  <programme start="20230105150700 +0900" stop="20230105151000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">特集は「感動！？詰将棋は芸術だ」。詰将棋界の第一人者・柳田明さんが、芸術作品ともいえる数々の詰将棋を再現、わかりやすく解説する。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230104150000 +0900" stop="20230104153000 +0900" channel="eTele.jp">
-    <title lang="ko">囲碁フォーカス</title>
+  <programme start="20230105151000 +0900" stop="20230105155500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">あしたが変わるトリセツショー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">“アマ・ミス”クリニック講座は「アタマたたいて二段バネ」。「フォーカス・オン」は『「魔王」対「虎」第４７期名人戦を振り返る』。１２月１１日放送のアンコール。</desc>
+    <desc lang="ko">「洗顔のトリセツ」増補・改訂版！ニキビなどの肌荒れや乾燥を防ぐ「正しい洗顔法」３つのポイントに「正しい保湿法」「簡単にきめ細かい泡を作る方法」を追加してお届け！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230105155500 +0900" stop="20230105160000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「バナナ村に雨がふる」うたＥＰＯ／「お年玉」うた石田ひかり</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230105160000 +0900" stop="20230105160500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2518,12 +2500,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230104140500 +0900" stop="20230104155500 +0900" channel="NipponTV.jp">
-    <title lang="ko">第101回全国高校サッカー選手権大会</title>
+  <programme start="20230105152000 +0900" stop="20230105152500 +0900" channel="eTele.jp">
+    <title lang="ko">ギョふんでサカナ★スター</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">勝てば国立での準決勝へ！夢舞台「選手権」ベスト８の戦いを生中継！「前回王者」青森山田と「大会ナンバーワンストライカー」擁する神村学園が激突！　※最大延長１０分</desc>
+    <desc lang="ko">極寒の北海道の海から産卵場所の川まで。日本人が大好きなサケの不思議な生態を、さかなクンが大調査。ホワイトボードを使った解説でサケの謎をアツく、深く、掘り下げる！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230105152500 +0900" stop="20230105153000 +0900" channel="eTele.jp">
+    <title lang="ko">5分でみんなの手話</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２０２１年度に放送したＥテレ「みんなの手話」から１つのキーフレーズをピックアップ。「仕事忙しそうですね」を覚えましょう。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230105153000 +0900" stop="20230105160000 +0900" channel="eTele.jp">
+    <title lang="ko">ハートネットTV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">去年、多発性骨髄腫と診断された佐野史郎さん。４０度ちかい高熱が３週間続き、あまりのつらさに一度は生きることをあきらめかけた。佐野さんならではの生還の秘密とは！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230105160000 +0900" stop="20230105161500 +0900" channel="eTele.jp">
+    <title lang="ko">いないいないばあっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">０歳〜２歳児向けの番組です。映像と音で感覚を揺さぶることにより、子どもたちのさまざまな可能性と能力を引き出します。さらに親子の豊かな関わりあいを促します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2751,16 +2763,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230104135400 +0900" stop="20230104154800 +0900" channel="Asahi.jp">
-  <title lang="ko">西村京太郎サスペンス 鉄道捜査官8</title>
+  <programme start="20230105155000 +0900" stop="20230105190000 +0900" channel="NipponTV.jp">
+    <title lang="ko">news every.</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「死体が線路際を歩いた⁉山形鉄道フラワー長井線、狙われた終着駅！密室列車内の泥だらけ毒殺トリック」沢口靖子(他)▽乃里子は大学時代の同期生と１０年ぶりに再会するが…</desc>
+    <desc lang="ko">藤井貴彦、陣内貴美子が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20230104154800 +0900" stop="20230104164500 +0900" channel="Asahi.jp">
   <title lang="ko">相棒season9</title>
     <rating system="MPAA">
@@ -2962,12 +2974,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230104135500 +0900" stop="20230104154900 +0900" channel="TBS2.jp">
-  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
+<programme start="20230105154800 +0900" stop="20230105164500 +0900" channel="Asahi.jp">
+  <title lang="ko">相棒season7</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">▼新春寒波 最初の三連休…関東は雪？伊勢神宮から生中継▼新年の運試し“カリスマ占い師”水晶玉子が2023年をガチ占い…「干支×血液型」最強運勢は？　ほか（予定）</desc>
+    <desc lang="ko">「悪意の行方」水谷豊(他)▽右京と陣川が何者かに拉致監禁されるが、幸いある女性の通報がきっかけで救出された。陣川が特命係にいたころに逮捕した人間の恨みによる犯行か…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3145,12 +3157,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230104134000 +0900" stop="20230104154000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">午後のロードショー</title>
+<programme start="20230105154900 +0900" stop="20230105190000 +0900" channel="TBS2.jp">
+  <title lang="ko">Nスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">女だけの島で育ち、男性を見たことすらないプリンセス。彼女はなぜ、最強のスーパーヒーロー“ワンダーウーマン”となったのか？超大作アクション・エンターテイメント！</desc>
+    <desc lang="ko">夕方のひととき、あなたの「知りたい！」に全力で応える３時間！気になる話題は「３コマ」解説・６時１５分からは暮らしに役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3532,12 +3544,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230104144500 +0900" stop="20230104154500 +0900" channel="FujiTV.jp">
-  <title lang="ko">世界法廷ミステリー</title>
+<programme start="20230105160000 +0900" stop="20230105165400 +0900" channel="TVTokyo.jp">
+  <title lang="ko">よじごじDays</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">世界最悪の犯罪組織ＶＳ母親・誘拐された娘を取り戻せ！執念と復讐の銃弾</desc>
+    <desc lang="ko">大盛況の人気アウトレットモール初売りセールに潜入取材。毎年話題となる豪華福袋やコスパ抜群の激安アイテムまで、今週末でもまだ間に合う！必見のお得情報が満載です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3762,22 +3774,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230104145900 +0900" stop="20230104150000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20230105154500 +0900" stop="20230105190000 +0900" channel="FujiTV.jp">
+  <title lang="ko">Live News イット!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230104150000 +0900" stop="20230104150500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <desc lang="ko">ソレ知りたいを速報！榎並大二郎＆宮司愛海が現場と生の声を取材。わかりやすく伝えます▽ガチャピンとあしたの空を先読み！▽人気企画「しらべてみたら」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4298,6 +4300,26 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230105150500 +0900" stop="20230105160000 +0900" channel="Tokyo MX">
+  <title lang="ko">必殺仕事人III</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">“必殺シリーズ”第19弾▼ひかる一平が新レギュラーに！エレキテルの殺し技も登場して仕事人ますます快調‼</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230105160000 +0900" stop="20230105163000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
