@@ -463,7 +463,7 @@
 <programme start="20230108030000 +0900" stop="20230108040000 +0900" channel="FujiOne.jp">
 <title lang="ko">もう！バカリズムさんの超Ｈ！ 春の特別版2022</title>
 <desc>大人気バカリズムのちょっとＨなお色気トークバラエティ、春の特別版をお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230107/9795187/image/574113bccf9aaba3f97e573c0ed82835.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230108040000 +0900" stop="20230108055000 +0900" channel="FujiOne.jp">
@@ -688,7 +688,7 @@ https//otn.fujitv.co.jp
 <desc>第75話「消された証拠」
 ＜出演＞シム・イヨン　ハニョン　オ・デギュ　カン・ソジュン　イ・シガン　ほか
 ▽不幸の終わりは、幸せのはじまり…痛快ホームコメディ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230107/9795070/image/96e3154c1a3b1ee53425d7254dab187f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230108040000 +0900" stop="20230108044000 +0900" channel="FujiTwo.jp">
@@ -1250,16 +1250,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230108021100 +0900" stop="20230108031100 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">映像詩</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">奈良在住の映像作家・保山耕一さんが撮影した映像と、ピアニスト・川上ミネさんが「百年ピアノ」で奏でるオリジナル曲。響きあう音と光で、めぐりゆく季節を感じる映像詩。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230108031100 +0900" stop="20230108041000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">ヨーロッパ トラムの旅</title>
     <rating system="MPAA">
@@ -1862,6 +1852,16 @@ https//otn.fujitv.co.jp
   </programme>
   <programme start="20230109002500 +0900" stop="20230109033500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230109033500 +0900" stop="20230109040100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">大相撲(2023年)</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
@@ -2667,36 +2667,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230108023000 +0900" stop="20230108030000 +0900" channel="Asahi.jp">
-  <title lang="ko">Riot Games ONE</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">２０２２年１２月２３日・２４日に開催された横浜アリーナでのオフラインイベントの模様をダイジェストでお届けします</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230108030000 +0900" stop="20230108032000 +0900" channel="Asahi.jp">
-  <title lang="ko">霜降りバラエティX</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">運転免許を取ったばかりの粗品がせいやの行きたい場所へとエスコートする企画「粗品ドライブ第二弾」今回は二人きりで千葉の絶景温泉へ。３０歳になる二人の想いは？</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230108032000 +0900" stop="20230108034000 +0900" channel="Asahi.jp">
-  <title lang="ko">ももクロちゃんと!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">人気アイドルグループ“ももいろクローバーＺ”が「出逢い」をテーマに、最新トレンドからひと癖ある人と出会い、４人が新たな発見をする“アンコントロールバラエティ”‼</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230108034000 +0900" stop="20230108040000 +0900" channel="Asahi.jp">
   <title lang="ko">アイ=ラブ!げーみんぐ 〜○○さんがオンラインになりました〜</title>
     <rating system="MPAA">
@@ -3067,6 +3037,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230109033000 +0900" stop="20230109040000 +0900" channel="Asahi.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230109040000 +0900" stop="20230109045500 +0900" channel="Asahi.jp">
+  <title lang="ko">暴れん坊将軍IV</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「謎！流人船、いずこへ」松平健(他)▽八丈島へ向かった流人船が行方知れずになるという騒ぎが起こる。報告を受けた吉宗は、その船が寄るはずだった浦賀番所へと向かうが…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230108022800 +0900" stop="20230108040000 +0900" channel="TBS2.jp">
   <title lang="ko">カイモノラボ</title>
     <rating system="MPAA">
@@ -3399,12 +3389,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230108025500 +0900" stop="20230108030000 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
+<programme start="20230109034500 +0900" stop="20230109043000 +0900" channel="TBS2.jp">
+  <title lang="ko">TBS NEWS</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">大ヒット公開中の韓国映画『非常宣言』のみどころをご紹介！大躍進を続ける韓国映画初のフライトパニック映画のハンパない没入感をお楽しみ下さい！</desc>
+    <desc lang="ko">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3836,22 +3826,12 @@ LIL　LEAGUE上京前最後の一日に密着。
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230109025000 +0900" stop="20230109030000 +0900" channel="TVTokyo.jp">
+<programme start="20230109025000 +0900" stop="20230109040000 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230108024500 +0900" stop="20230108034500 +0900" channel="FujiTV.jp">
-  <title lang="ko">超絶限界 〜ソコまで見せる!?大百科〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">菊池風磨＆ニューヨークが驚いた＆感動した傑作超絶をもう一度！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4212,22 +4192,22 @@ LIL　LEAGUE上京前最後の一日に密着。
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230108023000 +0900" stop="20230108030000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20230109033000 +0900" stop="20230109034000 +0900" channel="FujiTV.jp">
+  <title lang="ko">中央競馬ダイジェスト</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">日曜日のメインレースをたっぷりとご紹介！更に東京競馬場・中山競馬場の全レースの結果や他場のメインレースの結果もきっちりとお届けしています。競馬ファン必見です！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230108030000 +0900" stop="20230108033000 +0900" channel="Tokyo MX">
+<programme start="20230109034000 +0900" stop="20230109041000 +0900" channel="FujiTV.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4732,6 +4712,26 @@ LIL　LEAGUE上京前最後の一日に密着。
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230109033500 +0900" stop="20230109040000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230109040000 +0900" stop="20230109043000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230107233000 +0900" stop="20230108030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　女子　JT×久光</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　女子「JTマーヴェラス vs 久光スプリングス」
@@ -4896,7 +4896,7 @@ LIL　LEAGUE上京前最後の一日に密着。
 <programme start="20230108030000 +0900" stop="20230108040000 +0900" channel="FujiOne.jp">
 <title lang="ko">もう！バカリズムさんの超Ｈ！ 春の特別版2022</title>
 <desc>大人気バカリズムのちょっとＨなお色気トークバラエティ、春の特別版をお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230107/9795187/image/574113bccf9aaba3f97e573c0ed82835.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230108040000 +0900" stop="20230108055000 +0900" channel="FujiOne.jp">
@@ -5121,7 +5121,7 @@ https//otn.fujitv.co.jp
 <desc>第75話「消された証拠」
 ＜出演＞シム・イヨン　ハニョン　オ・デギュ　カン・ソジュン　イ・シガン　ほか
 ▽不幸の終わりは、幸せのはじまり…痛快ホームコメディ
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230107/9795070/image/96e3154c1a3b1ee53425d7254dab187f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230108040000 +0900" stop="20230108044000 +0900" channel="FujiTwo.jp">
