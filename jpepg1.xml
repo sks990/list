@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230109200000 +0900" stop="20230109210000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">進撃の巨人</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">7「小さな刃」
-8「心臓の鼓動が聞こえる」
-巨人が支配する世界。人類は巨大な壁を築き、壁外への自由と引き換えに侵…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230109210000 +0900" stop="20230109220000 +0900" channel="ANIMAX.jp">
   <title lang="ko">スラムダンク</title>
     <rating system="MPAA">
@@ -430,6 +418,18 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合い…</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230110220000 +0900" stop="20230110230000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダムSEED</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第21話「PHASE-22 紅に染まる海」
+第22話「PHASE-23 運命の出会い」
+C.E.71、地球連合軍とザフトの戦争は混迷の度合い…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230108233000 +0900" stop="20230109030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　男子　JT広島×東レ</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　男子「JTサンダーズ広島 vs 東レアローズ」
@@ -663,7 +663,7 @@ https//otn.fujitv.co.jp
 <desc>＜出演＞鈴木大介　宮川一朗太　武藤敬司　佐藤哲夫（パンクブーブー）
 ＜MC＞ガダルカナル・タカ　橘ゆりか　＜解説＞古久根英孝　パジャマとりや
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230109/9830891/image/0fb32ad0d9788787b195bb5fe4206dca.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230109220000 +0900" stop="20230109225000 +0900" channel="FujiOne.jp">
@@ -975,7 +975,7 @@ https//otn.fujitv.co.jp
 <desc>第525話「深海で遭難 逸れた麦わらの一味」　（地上波放送日　2011年11月27日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230109/9830992/image/73952da71a01c6ed6e44f175a8639f52.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230109220000 +0900" stop="20230109223000 +0900" channel="FujiTwo.jp">
@@ -1178,7 +1178,7 @@ https//otn.fujitv.co.jp
 <programme start="20230109210000 +0900" stop="20230109220000 +0900" channel="kbsworld.jp">
 <title lang="ko">ＫＢＳニュース９　[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230109/9798870/image/57fd936cc9ce36867924e40c9dfeafa0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230109220000 +0900" stop="20230109232000 +0900" channel="kbsworld.jp">
@@ -1459,26 +1459,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230109205500 +0900" stop="20230109210000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230109210000 +0900" stop="20230109213000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニュースウオッチ9</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▽岸田首相欧米訪問へ▽成人の日何を思う？▽新型コロナ最新情報</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230109213000 +0900" stop="20230109224500 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">お取り寄せ不可!? 列島縦断 宝メシグランプリ</title>
     <rating system="MPAA">
@@ -2009,42 +1989,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230109205300 +0900" stop="20230109210000 +0900" channel="eTele.jp">
-    <title lang="ko">手話で楽しむみんなのテレビ</title>
+  <programme start="20230110220000 +0900" stop="20230110230000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">大奥</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＮＨＫの人気番組が“手話”でも楽しめたら！そんな声にお応えして生まれた新シリーズ！今回は「せかほし５ｍｉｎ．」とのコラボ。世界の文房具をめぐる旅を手話でどうぞ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230109210000 +0900" stop="20230109212500 +0900" channel="eTele.jp">
-    <title lang="ko">きょうの料理</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">旬を迎えたみずみずしい白菜。簡単につくれておいしいレシピを、藤井恵さんに教えていただきます。外葉から中心まで、それぞれの部位を生かして、味わいつくしましょう。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230109212500 +0900" stop="20230109213000 +0900" channel="eTele.jp">
-    <title lang="ko">きょうの料理ビギナーズ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ひとり分の冬野菜おかず、２日めの主役はかぶです。バターじょうゆで焼いてステーキにしたり、ミートソースで煮たり。新しい魅力に出会えるレシピを紹介します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230109213000 +0900" stop="20230109215500 +0900" channel="eTele.jp">
-    <title lang="ko">趣味どきっ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">裏千家の「茶の湯」を学ぶシリーズ。第５回は茶の湯の神髄「濃茶」。濃茶の点前と客の作法を学びます。職人を訪ねるコーナーでは、茶道具を包む袋を作る袋師の技を拝見。</desc>
+    <desc lang="ko">若い男子を死に至らせる「赤面疱瘡」が蔓延した江戸時代。貧乏旗本の息子・水野祐之進（中島裕翔）は大奥入りし、８代将軍・吉宗（冨永愛）から最初に声がかかるが…。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2859,12 +2809,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230109190000 +0900" stop="20230109215400 +0900" channel="NipponTV.jp">
-    <title lang="ko">世界まる見え!テレビ特捜部</title>
+  <programme start="20230110212500 +0900" stop="20230110213000 +0900" channel="eTele.jp">
+    <title lang="ko">きょうの料理ビギナーズ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">大人気空港税関ｖｓ危ない客＆過激浮気調査番組▼メキシコの飛行機が墜落！テロか？それとも？まさかの結末▼南仏リゾート地で大火事！立ち向かう戦略的火災部隊の方法とは</desc>
+    <desc lang="ko">ひとり分の冬野菜のおかず、３日目の主役はブロッコリー。下ゆでしなくてもいい便利なレシピを紹介します。さば缶やスライスチーズと合わせて、栄養もバッチリ！です。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230110213000 +0900" stop="20230110215500 +0900" channel="eTele.jp">
+    <title lang="ko">趣味どきっ!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">深くて果てがない「読書の森」の歩き方を各界の本好きが自らの本棚を見せ、道しるべとなって教えてくれる。５回目は料理愛好家・平野レミさん。本との意外な関わり方とは？</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230110215500 +0900" stop="20230110220000 +0900" channel="eTele.jp">
+    <title lang="ko">まる得マガジン</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">国産レモンの旬は冬。今がおいしい国産レモンを皮まで食べつくすアイデア料理集。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230110220000 +0900" stop="20230110224500 +0900" channel="eTele.jp">
+    <title lang="ko">先人たちの底力 知恵泉</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「古今和歌集」を編さんし、日本古来の文芸「和歌」を復興。「春は桜」などの美意識を確立した紀貫之。彼はいかに“和歌ブーム”を起こしたのか。人を巻き込む知恵を学ぶ。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3110,18 +3090,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230109190000 +0900" stop="20230109215400 +0900" channel="Asahi.jp">
-  <title lang="ko">帰れマンデー見っけ隊!!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">今夜の帰れマンデーは新春３時間SP！
-サンド秘境バスは男６人爆笑旅。初詣開運ルートで長野・善光寺へ！
-タカトシ帰れま10の舞台は大人気！コスパ最強中華ファミレス！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230109215400 +0900" stop="20230109231000 +0900" channel="Asahi.jp">
   <title lang="ko">報道ステーション</title>
     <rating system="MPAA">
@@ -3400,12 +3368,22 @@ by.Helene Fischer</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230109190000 +0900" stop="20230109210000 +0900" channel="TBS2.jp">
-  <title lang="ko">さんま・玉緒のお年玉!あんたの夢をかなえたろかスペシャル</title>
+<programme start="20230110214800 +0900" stop="20230110215400 +0900" channel="Asahi.jp">
+  <title lang="ko">私の幸福時間</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">木村拓哉が本気で挑む！一夜限り復活！総費用1000万円でセット再現＆当時のスタッフも集結で伝説ドラマ『ビューティフルライフ特別編』を撮影！令和にあの感動が甦る…</desc>
+    <desc lang="ko">あなたの「しあわせ」は、どこから？なにから？友人や家族と過ごす時間、歴史や文化に触れ合う時間、趣味に没頭する時間…誰もがもっている“大切なひととき”をご紹介。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230110215400 +0900" stop="20230110231000 +0900" channel="Asahi.jp">
+  <title lang="ko">報道ステーション</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「深く、力強く、きょう色々。」大越健介氏をメインキャスターに迎え、きょう知りたいニュースを“独自目線”と“平たい言葉”でお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3602,12 +3580,14 @@ by.Helene Fischer</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230109182500 +0900" stop="20230109215400 +0900" channel="TVTokyo.jp">
-  <title lang="ko">3秒聴けば誰でもわかる名曲ベスト100</title>
+<programme start="20230110220000 +0900" stop="20230110225700 +0900" channel="TBS2.jp">
+  <title lang="ko">DEEPな店の常連さんに密着 イキスギさんについてった</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">歌謡史に輝く１００曲をお届けする名曲ぞろいの３時間半！恒例特番第１４弾！美空ひばり・山口百恵・沢田研二・ちあきなおみ・中山美穂などの超貴重映像が続々登場！</desc>
+    <desc lang="ko">ローカルチェーンに通いまくるイキスギさんに密着
+①大阪の激うまラーメン店に通う夫婦の特殊すぎる結婚式
+②超美女！北九州「資さんうどん」全５８店＆全メニュー制覇</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3658,7 +3638,10 @@ by.Helene Fischer</desc>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「みんなのみたいをスポーツでつなぐ」をコンセプトに、野球・サッカー・五輪種目さらに海外イベントなど様々な情報を「身近に」「わかりやすく」「より深く」お伝えします</desc>
+    <desc lang="ko">▽全国の頂点を決める高校サッカー決勝
+　岡山学芸館ＶＳ東山　勝負の行方は⁉
+▽伊藤美誠＆早田ひなが再び世界を目指す‼
+▽ＤｅＮＡ山崎康晃(他)</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4009,12 +3992,22 @@ by.Helene Fischer</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230109190000 +0900" stop="20230109210000 +0900" channel="FujiTV.jp">
-  <title lang="ko">ネプリーグ</title>
+<programme start="20230110215400 +0900" stop="20230110220000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">東京交差点</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">北川景子、ＴＡＫＡＨＩＲＯ、山田裕貴ら超豪華芸能人が常識クイズでガチ対決！北川景子２０年前の秘蔵映像にあのセリフも披露！▼ｄボタンで希少和牛当たる！</desc>
+    <desc lang="ko">古典や現代アート、伝統芸能・工芸、音楽、食など、幅広い東京の芸術・文化の魅力を紹介する番組。各々の芸術・文化の中で受け継ぐ「伝統」と進化した「革新」を描きます。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230110220000 +0900" stop="20230110225800 +0900" channel="TVTokyo.jp">
+  <title lang="ko">WBS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「あなたと世界を経済でつなぐ」経済ニュース。豊富なデータとわかりやすい解説で、明日からの仕事や生活に役立つニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4275,26 +4268,6 @@ by.Helene Fischer</desc>
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">スパイ７分の１に草彅剛参戦！迫真演技にスパイ探しは大混乱！？６連単にチョコプラ参戦で人気芸人が選ぶ一緒にコントをしたい人ランキング！お年玉１万円プレゼント企画も</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230109203000 +0900" stop="20230109212500 +0900" channel="Tokyo MX">
-  <title lang="ko">バラいろダンディ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">武井壮×苫米地英人▼時事からコラムまでオトナたちが大激論＆武井×苫米地の脳内が垣間見える⁉ＭＣふかわりょう・大島由香里▼ちょっと頭がよくなった“気がする”１時間</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230109212500 +0900" stop="20230109213000 +0900" channel="Tokyo MX">
-  <title lang="ko">ピカイチくん!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「マティーニバーガー」</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4779,6 +4752,46 @@ by.Helene Fischer</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230110212500 +0900" stop="20230110213000 +0900" channel="Tokyo MX">
+  <title lang="ko">至高のひととき〜多摩・立川　オトナ時間〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">日原鍾乳洞</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230110213000 +0900" stop="20230110215400 +0900" channel="Tokyo MX">
+  <title lang="ko">旅番組まかせちゃいます!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230110215400 +0900" stop="20230110220000 +0900" channel="Tokyo MX">
+  <title lang="ko">Artist18File</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今月のアーティストは高瀬統也▼１週目は、インタビューで高瀬統也さんの素顔に迫る！音楽に目覚めた瞬間から、どハマり中のアーティストまで様々な話が明らかに…！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230110220000 +0900" stop="20230110222900 +0900" channel="Tokyo MX">
+  <title lang="ko">ドラゴンボールZ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">＃１３７「ピッコロの決意‼とっておきの最後の手段」</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230108233000 +0900" stop="20230109030000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　男子　JT広島×東レ</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　男子「JTサンダーズ広島 vs 東レアローズ」
@@ -5012,7 +5025,7 @@ https//otn.fujitv.co.jp
 <desc>＜出演＞鈴木大介　宮川一朗太　武藤敬司　佐藤哲夫（パンクブーブー）
 ＜MC＞ガダルカナル・タカ　橘ゆりか　＜解説＞古久根英孝　パジャマとりや
 【再放送】
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230109/9830891/image/0fb32ad0d9788787b195bb5fe4206dca.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230109220000 +0900" stop="20230109225000 +0900" channel="FujiOne.jp">
@@ -5324,7 +5337,7 @@ https//otn.fujitv.co.jp
 <desc>第525話「深海で遭難 逸れた麦わらの一味」　（地上波放送日　2011年11月27日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230109/9830992/image/73952da71a01c6ed6e44f175a8639f52.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230109220000 +0900" stop="20230109223000 +0900" channel="FujiTwo.jp">
@@ -5527,7 +5540,7 @@ https//otn.fujitv.co.jp
 <programme start="20230109210000 +0900" stop="20230109220000 +0900" channel="kbsworld.jp">
 <title lang="ko">ＫＢＳニュース９　[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230109/9798870/image/57fd936cc9ce36867924e40c9dfeafa0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230109220000 +0900" stop="20230109232000 +0900" channel="kbsworld.jp">
