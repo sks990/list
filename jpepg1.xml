@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230111033000 +0900" stop="20230111040000 +0900" channel="ANIMAX.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230111040000 +0900" stop="20230111050000 +0900" channel="ANIMAX.jp">
   <title lang="ko">あんさんぶるスターズ!</title>
     <rating system="MPAA">
@@ -425,6 +415,18 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合い…</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230112050000 +0900" stop="20230112060000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダムSEED</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第23話「PHASE-24 二人だけの戦争」
+第24話「PHASE-25 平和の国へ」
+C.E.71、地球連合軍とザフトの戦争は混迷の度合い…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230110223000 +0900" stop="20230111020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　男子　JT広島×東レ</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　男子「JTサンダーズ広島 vs 東レアローズ」
@@ -649,7 +651,7 @@ JR東海が管轄する熱海から豊橋まで189kmの路線を、211系近郊�
 <desc>『蒲郡温泉編 後篇』
 撮影地ホテル竹島
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230110/9830940/image/e81bddb41871b69b8be9415987db4701.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230111050000 +0900" stop="20230111051500 +0900" channel="FujiOne.jp">
@@ -1150,7 +1152,7 @@ https//otn.fujitv.co.jp
 <programme start="20230111042000 +0900" stop="20230111050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　75　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230110/9798902/image/12a80046d8a09750d0a82a9f2c95e9bd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230111050000 +0900" stop="20230111060000 +0900" channel="kbsworld.jp">
@@ -1556,36 +1558,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230111033500 +0900" stop="20230111040000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2023年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230111040000 +0900" stop="20230111041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">視点・論点</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「ＣＯＰ２７の成果と今後の課題」高村　ゆかり（東京大学　教授）</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230111041000 +0900" stop="20230111042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">政府は、有事の際、海上保安庁を防衛大臣の統制下に入れる統制要領を作成する方針を固めた。これまで自衛隊と一線を画してきた海保。今後、どう変わっていくのか考える。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230111042000 +0900" stop="20230111050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">国際報道2023</title>
     <rating system="MPAA">
@@ -2102,6 +2074,36 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">「特異な才能の子どもへの学習支援」岩永　雅也（放送大学長）</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230112041000 +0900" stop="20230112042000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">時論公論</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">中国では「ゼロコロナ」政策の終了に伴い、新型コロナの感染急拡大が続く。今月２１日からは「春節」の大型連休を迎える。習近平指導部が直面する課題を掘り下げて伝える。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230112042000 +0900" stop="20230112050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">国際報道2023</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ウクライナ情勢▽難民に厳しい姿勢のデンマーク・「難民ミュージアム」が問いかけるものは▽富山で創作続けるウクライナの彫刻家　※変更の可能性あり</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230112050000 +0900" stop="20230112060000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょうのスタート、カラフルに！国内外で起きた最新ニュースをお届け！今日一日の気象情報、スポーツもコンパクトにまとめてお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2956,36 +2958,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230111035400 +0900" stop="20230111042400 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレポシュレ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230111042400 +0900" stop="20230111042900 +0900" channel="NipponTV.jp">
-    <title lang="ko">かがみの孤城 豪華キャスト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">當真あみ、北村匠海、吉柳咲良、板垣李光人、横溝菜帆、高山みなみ、梶裕貴、麻生久美子、芦田愛菜、宮﨑あおいら豪華ボイスキャストのアフレコ風景やインタビューを公開！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230111042900 +0900" stop="20230111043000 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレみどころ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230111043000 +0900" stop="20230111055000 +0900" channel="NipponTV.jp">
     <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
@@ -3199,26 +3171,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230111033000 +0900" stop="20230111040000 +0900" channel="Asahi.jp">
-  <title lang="ko"></title>
+  <programme start="20230112042900 +0900" stop="20230112043000 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレみどころ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ダイエット・美容・ヘアケア・健康・ライフ・キッチン・雑貨・宝飾・電化製品‥日本・米国を始め世界中の逸品を自宅でくつろぎながらショッピング！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111040000 +0900" stop="20230111045500 +0900" channel="Asahi.jp">
-  <title lang="ko">暴れん坊将軍IV</title>
+  </programme>
+  <programme start="20230112043000 +0900" stop="20230112055000 +0900" channel="NipponTV.jp">
+    <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「誘拐！乙女涙の初恋」松平健(他)▽元石見代官・矢野左近太夫の娘で大奥女中の鈴加が何者かにかどわかされた。かどわかしたのは次郎太という石見の忍びの者と判明するが…</desc>
+    <desc lang="ko">ふみだす一歩を応援！いつもみんなのそばに！Ｏｈａ！４▽最新ニュースや気象情報をわかりやすく丁寧に！スポーツ・カルチャーもたっぷりとお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20230111045500 +0900" stop="20230111080000 +0900" channel="Asahi.jp">
   <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
@@ -3514,12 +3486,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230111034500 +0900" stop="20230111043000 +0900" channel="TBS2.jp">
-  <title lang="ko">TBS NEWS</title>
+<programme start="20230112045500 +0900" stop="20230112080000 +0900" channel="Asahi.jp">
+  <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+    <desc lang="ko">「朝の情報まとめ番組」お出かけ前に必要な情報をわかりやすく伝えます。林先生の「ことば検定」、依田さんの「お天気検定」、「みんなのエンタメ検定」にも挑戦しよう！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3716,12 +3688,13 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230111040000 +0900" stop="20230111042200 +0900" channel="TVTokyo.jp">
-  <title lang="ko"></title>
+<programme start="20230112043000 +0900" stop="20230112052000 +0900" channel="TBS2.jp">
+  <title lang="ko">THE TIME’</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">ニッポンの朝がみえる▽ライブ感満載でお届け▽列島リアルタイム中継
+ニュースも天気も充実</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4093,7 +4066,7 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112035500 +0900" stop="20230112040000 +0900" channel="TVTokyo.jp">
+<programme start="20230112035500 +0900" stop="20230112042200 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
@@ -4103,32 +4076,15 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230111030500 +0900" stop="20230111040500 +0900" channel="FujiTV.jp">
-  <title lang="ko">ボタニカルを愛でたい</title>
+<programme start="20230112042200 +0900" stop="20230112054500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ものスタ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">街にも緑が溢れている。この番組は街を散策しながら、植物の楽しさや生命力、また、植物の背後にある人の営みや生活を想像しながら植物を愛でていく番組です。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111040500 +0900" stop="20230111042500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111042500 +0900" stop="20230111045500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4343,22 +4299,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230111033500 +0900" stop="20230111040000 +0900" channel="Tokyo MX">
-  <title lang="ko">ごりやくさん</title>
+<programme start="20230112042000 +0900" stop="20230112042500 +0900" channel="FujiTV.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">全国各地の「御利益が得られる」として有名な神社を訪問し、その御利益の形を紐解き、歴史や風土を４Ｋ撮影の映像で紹介する、あらたな視点の紀行番組です。</desc>
+    <desc lang="ko">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230111040000 +0900" stop="20230111043000 +0900" channel="Tokyo MX">
-  <title lang="ko">MUSIC B.B.</title>
+<programme start="20230112042500 +0900" stop="20230112045500 +0900" channel="FujiTV.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＭＵＳＩＣ　Ｂ．Ｂ．は、全国の音楽ファンに様々な角度から最新の音楽情報や、アーティストをキャッチし届けていく音楽情報番組です！！</desc>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230112045500 +0900" stop="20230112052500 +0900" channel="FujiTV.jp">
+  <title lang="ko">めざましテレビ全部見せ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">きょうのめざましテレビで注目しているとっておきのニュース＆スポーツ＆エンタメが全部わかります！▽更新されたばかりの最新お天気情報をチェック▽占い</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4853,6 +4819,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230112043000 +0900" stop="20230112050000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230112050000 +0900" stop="20230112053000 +0900" channel="Tokyo MX">
+  <title lang="ko">LOVE HOKKAIDO</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「進化を遂げる札幌のランドマーク・狸小路」▼そのエリアには【コンセプト・カフェ】が多数出店！▼ウサギやフクロウと触れ合える癒しのカフェ⁉▼すっぴんに巫女さん！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230110223000 +0900" stop="20230111020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　男子　JT広島×東レ</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　男子「JTサンダーズ広島 vs 東レアローズ」
@@ -5077,7 +5063,7 @@ JR東海が管轄する熱海から豊橋まで189kmの路線を、211系近郊�
 <desc>『蒲郡温泉編 後篇』
 撮影地ホテル竹島
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230110/9830940/image/e81bddb41871b69b8be9415987db4701.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230111050000 +0900" stop="20230111051500 +0900" channel="FujiOne.jp">
@@ -5578,7 +5564,7 @@ https//otn.fujitv.co.jp
 <programme start="20230111042000 +0900" stop="20230111050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　75　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230110/9798902/image/12a80046d8a09750d0a82a9f2c95e9bd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230111050000 +0900" stop="20230111060000 +0900" channel="kbsworld.jp">
