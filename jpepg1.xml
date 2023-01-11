@@ -63,17 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230111120000 +0900" stop="20230111130000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">あんさんぶるスターズ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">9「反撃」10「エレメント〜前編〜」
-男性アイドル育成に特化した私立夢ノ咲学院。氷鷹北斗・明星スバル・遊木真・衣…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230111130000 +0900" stop="20230111140000 +0900" channel="ANIMAX.jp">
   <title lang="ko">機動戦士ガンダムSEED</title>
     <rating system="MPAA">
@@ -427,6 +416,17 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合い…</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230112140000 +0900" stop="20230112143000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ウマ娘 プリティーダービー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第５Ｒ「ライバルとのダービー」
+これは異世界から受け継いだ輝かしい名前と競走能力を持つ“ウマ娘”が遠い昔から人類…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230110223000 +0900" stop="20230111020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　男子　JT広島×東レ</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　男子「JTサンダーズ広島 vs 東レアローズ」
@@ -742,7 +742,7 @@ JR東海が管轄する熱海から豊橋まで189kmの路線を、211系近郊�
 <desc>＜出演＞萩原聖人　坂上忍　小柳ルミ子　宮川一朗太　中野浩一　見栄晴　岡田紗佳　月亭八光
 ＜MC＞ガダルカナル・タカ
 ＜アシスタント＞橘ゆりか　森田涼花
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230111/9830953/image/c0ddcecde064a5b5348c04684df63849.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230111140000 +0900" stop="20230111150000 +0900" channel="FujiOne.jp">
@@ -1558,36 +1558,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230111124500 +0900" stop="20230111130000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">舞いあがれ!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ＩＷＡＫＵＲＡをたたむことを社員に告げためぐみ（永作博美）は、信用金庫が資産価値の視察に来るがいつも通りに仕事をするように頼む。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230111130000 +0900" stop="20230111130500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230111130500 +0900" stop="20230111135500 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">列島ニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230111135500 +0900" stop="20230111140000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">テレビ体操</title>
     <rating system="MPAA">
@@ -2108,32 +2078,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230111125000 +0900" stop="20230111130000 +0900" channel="eTele.jp">
-    <title lang="ko">視点・論点</title>
+  <programme start="20230112130500 +0900" stop="20230112135500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">列島ニュース</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「特異な才能の子どもへの学習支援」岩永　雅也（放送大学長）</desc>
+    <desc lang="ko">日本列島の今が見える！ＮＨＫが地域向けに放送しているお昼のニュースを選（え）りすぐって大阪から全国に発信。地域の課題や郷土の話題を盛りだくさんでお届けします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230111130000 +0900" stop="20230111130500 +0900" channel="eTele.jp">
-    <title lang="ko">NHK手話ニュース</title>
+  <programme start="20230112135500 +0900" stop="20230112140000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">テレビ体操</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">【キャスター】工藤咲子</desc>
+    <desc lang="ko">【出演】鈴木大輔，吉江晴菜，今井菜津美，新井庸太，【ピアノ】細貝柊</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230111130500 +0900" stop="20230111133000 +0900" channel="eTele.jp">
-    <title lang="ko">趣味の園芸</title>
+  <programme start="20230112140000 +0900" stop="20230112140500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">寒さのなかで一層色鮮やかになるハボタンは、春まで美しさをキープしてくれる優れもの！▽正月飾りに使ったハボタンをすてきな寄せ植えにリメイク▽さし木で来年も楽しむ技</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2938,12 +2908,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230111115500 +0900" stop="20230111135500 +0900" channel="NipponTV.jp">
-    <title lang="ko">ヒルナンデス!</title>
+  <programme start="20230112130500 +0900" stop="20230112133000 +0900" channel="eTele.jp">
+    <title lang="ko">すてきにハンドメイド</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
+    <desc lang="ko">佐々木希も納得！スマホも財布も鍵も入るお散歩バッグを、手作りならではのデザインで。４色のピースを縫いつないだ布に好みの模様をキルティング。すべて手縫いでＯＫ！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230112133000 +0900" stop="20230112141500 +0900" channel="eTele.jp">
+    <title lang="ko">先人たちの底力 知恵泉</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「古今和歌集」を編さんし、日本古来の文芸「和歌」を復興。「春は桜」などの美意識を確立した紀貫之。彼はいかに“和歌ブーム”を起こしたのか。人を巻き込む知恵を学ぶ。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3171,56 +3151,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230111102500 +0900" stop="20230111130000 +0900" channel="Asahi.jp">
-  <title lang="ko">大下容子ワイド!スクランブル</title>
+  <programme start="20230112135500 +0900" stop="20230112155000 +0900" channel="NipponTV.jp">
+    <title lang="ko">情報ライブ ミヤネ屋</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">緊張高まる北朝鮮“核戦略”正恩氏の後継者は誰に▽ヘンリー王子回顧録“薬物体験”暴露波紋▽タイが中国便を歓迎…観光客受け入れの思惑▽バイデン氏国境視察(他)</desc>
+    <desc lang="ko">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111130000 +0900" stop="20230111133000 +0900" channel="Asahi.jp">
-  <title lang="ko">徹子の部屋</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">〜浅草で１００年以上続く技…１億６千万円分の“金”が登場！〜金工作家・石川光一さんが今日のゲストです。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111133000 +0900" stop="20230111134500 +0900" channel="Asahi.jp">
-  <title lang="ko">DAIGOも台所〜きょうの献立何にする?〜</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは本当に大変…日々の料理の悩みにこたえる献立を複数提案！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111134500 +0900" stop="20230111134900 +0900" channel="Asahi.jp">
-  <title lang="ko">東京サイト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">２０代で会社を立ち上げた、都内の若手起業家を紹介します。宇宙に新しいエンタメを生み出そうと起業した女性社長。最終目標は、月面にホテルをオープンさせることです。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111134900 +0900" stop="20230111135400 +0900" channel="Asahi.jp">
-  <title lang="ko">ANNニュース</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20230111135400 +0900" stop="20230111154800 +0900" channel="Asahi.jp">
   <title lang="ko">西村京太郎トラベルミステリー54 伊豆の海に消えた女</title>
     <rating system="MPAA">
@@ -3486,12 +3426,42 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230111102500 +0900" stop="20230111135500 +0900" channel="TBS2.jp">
-  <title lang="ko">ひるおび!</title>
+<programme start="20230112133000 +0900" stop="20230112134500 +0900" channel="Asahi.jp">
+  <title lang="ko">DAIGOも台所〜きょうの献立何にする?〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ゼロコロナ後の中国…人々の生活は？春節を前に観光客は？▽たまご価格高騰続く…値段が下がるのはいつ頃？▽お買い得食品大集合▽バレンタイン商戦▽迷子のクジラ最新情報</desc>
+    <desc lang="ko">冷蔵庫の食材管理もしながら、家族の好みや栄養バランス、肉・魚・野菜のローテーションも考えて献立を決めるのは本当に大変…日々の料理の悩みにこたえる献立を複数提案！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230112134500 +0900" stop="20230112134900 +0900" channel="Asahi.jp">
+  <title lang="ko">東京サイト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">２０代で会社を立ち上げた、都内の若手起業家を紹介。飲食店を利用した人のアンケートをＡＩで分析するアプリを開発した社長。幼なじみの存在が大きな力になりました。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230112134900 +0900" stop="20230112135400 +0900" channel="Asahi.jp">
+  <title lang="ko">ANNニュース</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">正確なニュース・情報をいち早くお伝えするＡＮＮニュース！テレビ朝日系列の放送局２６局が総力をあげ、緻密な取材にもとづいたニュースを最新機材を駆使して放送します。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230112135400 +0900" stop="20230112145000 +0900" channel="Asahi.jp">
+  <title lang="ko">森村誠一の終着駅シリーズ30 殺人の債権</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「何でもぬか漬けする殺人犯⁉マリコの激旨ナス鑑定‼」沢口靖子(他)▽ぬか漬けの女神と呼ばれる人気料理研究家。その夫が殺害された。胃の中からは直前に食べたぬか漬けが…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3688,12 +3658,12 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230111120000 +0900" stop="20230111134000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">昼めし旅〜あなたのご飯見せてください!〜</title>
+<programme start="20230112135500 +0900" stop="20230112154900 +0900" channel="TBS2.jp">
+  <title lang="ko">ゴゴスマ〜GOGO!Smile!〜</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">現在7480！どんどん増えるメニュー数と値段ボリュームのワケを調査…埼玉県鶴ヶ島市▽瀬戸内の島で海鮮料理自慢の民宿まかない＆割烹大学で新鮮マダイ料理…広島県江田島市</desc>
+    <desc lang="ko">あらゆるジャンルの関心事を「生」にこだわってＭＣ石井亮次がわかりやすくお届け！さらには独自目線で深掘りも！皆さんが知りたい「今」を、やわらかくお伝えします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4075,6 +4045,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230112134000 +0900" stop="20230112154000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">午後のロードショー</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">政府の裏金95億ドルを、60秒で強奪せよ！天才ハッカーが加担した大金強奪作戦。そこに隠された真の目的とは？ド迫力のVFXクライム・アクション！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230111114500 +0900" stop="20230111144500 +0900" channel="FujiTV.jp">
   <title lang="ko">ぽかぽか</title>
     <rating system="MPAA">
@@ -4311,26 +4291,6 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ハライチ＆神田愛花がお送りするお昼の新バラエティ！豪華ゲストとのトーク企画にスタジオショー！さらには笑えるＶＴＲコーナーも！？“ぽかぽか”なお昼を是非</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111123000 +0900" stop="20230111130000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230111130000 +0900" stop="20230111130500 +0900" channel="Tokyo MX">
-  <title lang="ko">MX news FLAG</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">東京の様々なニュースをお伝えします。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4825,6 +4785,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230112130500 +0900" stop="20230112140000 +0900" channel="Tokyo MX">
+  <title lang="ko">かくれんぼ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「この人生は、私のもの。」名前を失った令嬢と身代わりの人生を与えられたヒロインの嫉妬と欲望が絡み合うサスペンスラブストーリー。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230112140000 +0900" stop="20230112143000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230110223000 +0900" stop="20230111020000 +0900" channel="FujiNext.jp">
 <title lang="ko">2022-23 V.LEAGUE　DIVISION 1　男子　JT広島×東レ</title>
 <desc>バレーボール 2022-23 V.LEAGUE　DIVISION 1　男子「JTサンダーズ広島 vs 東レアローズ」
@@ -5140,7 +5120,7 @@ JR東海が管轄する熱海から豊橋まで189kmの路線を、211系近郊�
 <desc>＜出演＞萩原聖人　坂上忍　小柳ルミ子　宮川一朗太　中野浩一　見栄晴　岡田紗佳　月亭八光
 ＜MC＞ガダルカナル・タカ
 ＜アシスタント＞橘ゆりか　森田涼花
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230111/9830953/image/c0ddcecde064a5b5348c04684df63849.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230111140000 +0900" stop="20230111150000 +0900" channel="FujiOne.jp">
