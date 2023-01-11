@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230112000000 +0900" stop="20230112010000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ワールドトリガー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">5「実力派エリート・迅悠一」
-6「雨取千佳のサイドエフェクト」
-人口28万人の三門市。ある日、この町に異世界への門…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230112010000 +0900" stop="20230112020000 +0900" channel="ANIMAX.jp">
   <title lang="ko">進撃の巨人</title>
     <rating system="MPAA">
@@ -418,6 +406,18 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合…</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230113020000 +0900" stop="20230113030000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">続 夏目友人帳</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">3「妖退治 湯けむり行」
+4「雛、孵る」
+妖を見ることが出来た為、人間に疎まれた夏目レイコ。レイコの力を受け継ぎ…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230111235000 +0900" stop="20230112010000 +0900" channel="FujiNext.jp">
 <title lang="ko">フジサンケイクラシック黄金伝説　22「1975年 第3回大会」</title>
 <desc>3rd フジサンケイクラシック（1975年）
@@ -429,7 +429,7 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合…</desc>
 <programme start="20230112010000 +0900" stop="20230112020000 +0900" channel="FujiNext.jp">
 <title lang="ko">Zepp Tokyoへきくちから第92回！音組がつくった49本のライブを時系列に</title>
 <desc>『フォーク村』18本『GIRLS'FACTORY』14本『LIVE FACTORY』11本『フォーク・デイズ』2本『僕らの音楽　武部聡志ピアノデイズ』まで全部！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230111/9830875/image/523d794a682d24932cb9fdd86b690997.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112020000 +0900" stop="20230112023000 +0900" channel="FujiNext.jp">
@@ -1105,7 +1105,7 @@ https//otn.fujitv.co.jp
 <programme start="20230112003000 +0900" stop="20230112020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230111/9798922/image/f93a536159308f9ffd156adf7b2859ce.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112020000 +0900" stop="20230112031000 +0900" channel="kbsworld.jp">
@@ -1517,16 +1517,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230112002500 +0900" stop="20230112011000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">映像の世紀バタフライエフェクト</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ホロコーストに関わった、元ナチの行方を突き止め、裁判にかけ、正義を果たすことに執念を燃やした、３人のナチハンターの物語。世代を超えて受け継がれた忘却との闘い。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230112011000 +0900" stop="20230112020000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKスペシャル</title>
     <rating system="MPAA">
@@ -2077,12 +2067,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230112000000 +0900" stop="20230112010000 +0900" channel="eTele.jp">
-    <title lang="ko">ETV特集</title>
+  <programme start="20230113011000 +0900" stop="20230113015500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">スポーツ×ヒューマン</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">“辺境の地から中央を撃つ”。沖縄を代表する写真家・平良孝七。本土復帰の前から、沖縄の現実と人々の“内なる声”を記録し続けてきた。平良の写真が問いかけるものとは。</desc>
+    <desc lang="ko">Ｊ２でも下位のヴァンフォーレ甲府が、天皇杯でＪ１の強豪を次々と破って優勝した。いかにして“史上最大の下克上”は成し遂げられたのか。大逆転ドラマの舞台裏に迫る！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113015500 +0900" stop="20230113020000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">毎週（月）〜（木）２２４５〜放送中の夜ドラ「ワタシってサバサバしてるから」。丸山礼主演のオフィス“あるある”コメディーの魅力を５分で紹介！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113020000 +0900" stop="20230113020100 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">１／１７（火）２３００〜第２シリーズ開始！企業や業界団体が内輪で開催するスキルアップのための知られざる技術大会にカメラを大量投入！戦いの現場を勝手に高速実況！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2917,26 +2927,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230112005900 +0900" stop="20230112012900 +0900" channel="NipponTV.jp">
-    <title lang="ko">What's NCT!?</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">次世代グローバルグループ「NCT」。そのショウタロウとソンチャンがプレデビューチーム・SMROOKIESとともにNCTの全てを探っていくリアルバラエティ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230112012900 +0900" stop="20230112015900 +0900" channel="NipponTV.jp">
-    <title lang="ko">東野・岡村の旅猿22</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「何も決めずに長崎県の旅」第２話　平成ノブシコブシの吉村さんと共に今回も急遽行きたいとある場所へ。そしてまさかの海に出航⁉その理由とは…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230112015900 +0900" stop="20230112025900 +0900" channel="NipponTV.jp">
     <title lang="ko">浜ちゃんが!</title>
     <rating system="MPAA">
@@ -3148,36 +3138,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230112004500 +0900" stop="20230112012000 +0900" channel="Asahi.jp">
-  <title lang="ko">お願い!ランキングpresentsそだてれび</title>
+  <programme start="20230113012900 +0900" stop="20230113015900 +0900" channel="NipponTV.jp">
+    <title lang="ko">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">テレビ朝日全局員を対象にした企画オーディションバトルがスタート！《ドラマ》《バラエティー》《ドキュメンタリー》《アニメ》次世代のスタークリエイターを発掘・育成！</desc>
+    <desc lang="ko">以前、頭にボールをのせてキープできると言って大失敗し、最短出演記録を作ったぜひらーに対し、自分ならできると現役Ｊリーガーが登場！しかも阿部アナに関係する人⁉</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230112012000 +0900" stop="20230112012600 +0900" channel="Asahi.jp">
-  <title lang="ko">全力坂</title>
+  </programme>
+  <programme start="20230113015900 +0900" stop="20230113022900 +0900" channel="NipponTV.jp">
+    <title lang="ko">川島・山内のマンガ沼</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
+    <desc lang="ko">祝・放送１００回！ホラー界の巨匠・伊藤潤二先生がスタジオにやって来た！お気に入りの恐怖シーンからとんでもアイデアまで…超話題のマンガ家を徹底解剖！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230112012600 +0900" stop="20230112015600 +0900" channel="Asahi.jp">
-  <title lang="ko">Break Out</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">様々なシーンの最前線で活躍するアーティストたちに愛を捧げ、その素顔や魅力を発掘する音楽番組。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20230112015600 +0900" stop="20230112021600 +0900" channel="Asahi.jp">
   <title lang="ko">まんが未知</title>
     <rating system="MPAA">
@@ -3450,22 +3430,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112005800 +0900" stop="20230112012800 +0900" channel="TBS2.jp">
-  <title lang="ko">ふるさとの未来</title>
+<programme start="20230113012000 +0900" stop="20230113012600 +0900" channel="Asahi.jp">
+  <title lang="ko">全力坂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">全国各地の「ふるさと」で成長過程にある企業を見つけ出し、成功の鍵を解き明かします。そしてともにその成長を見守っていきます。</desc>
+    <desc lang="ko">この坂を登り切れたら、自分の中の何かが変わる気がする。いや変わるはずだ。坂を全力で駆け上がる女性たちの姿と、話題の商品・エンタメ情報をお届けする深夜番組登場。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112012800 +0900" stop="20230112015800 +0900" channel="TBS2.jp">
-  <title lang="ko">ミルベキ!</title>
+<programme start="20230113012600 +0900" stop="20230113015600 +0900" channel="Asahi.jp">
+  <title lang="ko">出川一茂ホラン☆フシギの会</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">新作含む約２００点が展示！香取慎吾のアート展に潜入▽人気沸騰中！イケメン俳優・古川雄大が登場！ファンが心酔する意外な魅力とは？▽スパイク恒例の女子あるあるコント</desc>
+    <desc lang="ko">芸能界を代表するアンコントロールな２人“出川哲朗”＆“長嶋一茂”そして日本一おじさんタレントの扱いが上手い“ホラン千秋”今までになかったフシギＭＣトリオの番組！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230113015600 +0900" stop="20230113021600 +0900" channel="Asahi.jp">
+  <title lang="ko">ぺこぱポジティブNEWS</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">2023年の展望を本音で語る〜ポジティブ新年会！昨年のＭ－１を受け今年はどうする？“漫才の変化”は伝わっている？Ｍ－１ライバル芸人は？テレビの未来に松陰寺絶望？？</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3642,22 +3632,23 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112003000 +0900" stop="20230112010000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">来世ではちゃんとします3</title>
+<programme start="20230113012800 +0900" stop="20230113015800 +0900" channel="TBS2.jp">
+  <title lang="ko">冰剣の魔術師が世界を統べる</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">来世ちゃんが帰ってきた！イマドキ男女のあらゆる性生活を全肯定するエロラブコメディ▼元カノを引きずる林…。恋愛未経験の梅ちゃんにヤバい性癖のお友達がアドバイス！？</desc>
+    <desc lang="ko">第2話「世界最強の魔術師である少年は、演習を開始する」
+やりたいことは徹底してやろうと意気込むレイは、『環境調査部』と『園芸部』の掛け持ちを希望するが…</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112010000 +0900" stop="20230112013000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">それでも結婚したいと、ヤツらが言った。</title>
+<programme start="20230113015800 +0900" stop="20230113020500 +0900" channel="TBS2.jp">
+  <title lang="ko">イベントGO!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ネズミ家族の視点でワケ有りカップル達の結婚式までの道のりを描く、ギミック満載の新感覚ウェディングドラマ‼毒親降臨‼イチゴが導く理不尽要求への逆転劇‼</desc>
+    <desc lang="ko">TBSが贈るエンタテイメント情報番組！毎週今一番注目したいイベント情報を紹介します。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4061,22 +4052,23 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112003500 +0900" stop="20230112010500 +0900" channel="FujiTV.jp">
-  <title lang="ko">答えが賞金です</title>
+<programme start="20230113013000 +0900" stop="20230113020000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">占いなんて信じない</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">５つの気になる界隈のお金事情を徹底調査！解答がそのまま賞金に！賞金獲得は優勝者のみ！須田亜香里、みなみかわ、峯岸みなみ、若槻千夏が白熱のクイズバトル！</desc>
+    <desc lang="ko">加藤浩次ＭＣ！マジでリアルな占い番組が始動</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112010500 +0900" stop="20230112013500 +0900" channel="FujiTV.jp">
-  <title lang="ko">大雪海のカイナ</title>
+<programme start="20230113020000 +0900" stop="20230113020500 +0900" channel="TVTokyo.jp">
+  <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">天膜の少年</desc>
+    <desc lang="ko">世界各国で日本の歌を歌える外国人を大捜索…昭和歌謡にジャニーズソング・最新ヒット曲まで、なんで歌えるの！？な人が続々！
+▼スペインのAdoに遭遇大迫力の演歌熱唱</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4321,22 +4313,32 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112003000 +0900" stop="20230112010000 +0900" channel="Tokyo MX">
-  <title lang="ko">トモちゃんは女の子!</title>
+<programme start="20230113010500 +0900" stop="20230113013500 +0900" channel="FujiTV.jp">
+  <title lang="ko">うる星やつら</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ボーイッシュな女の子×鈍感な幼なじみが織り成す、青春ラブコメディ。恋？友情？愛の攻防戦(ＬＯＶＥバトル)、開幕！</desc>
+    <desc lang="ko">買い食い大戦争／テンからの贈り物！！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112010000 +0900" stop="20230112013000 +0900" channel="Tokyo MX">
-  <title lang="ko">転生王女と天才令嬢の魔法革命</title>
+<programme start="20230113013500 +0900" stop="20230113015000 +0900" channel="FujiTV.jp">
+  <title lang="ko">CoA</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">――この魔法は、あなたの笑顔のために。２人の少女が未来を切り開く、「転生×天才」魔法ファンタジー！</desc>
+    <desc lang="ko">爆破アート制作佳境▽あなたもアートが好きになる▽気鋭の現代アーティストの創作活動を通じてアートを身近に感じる、ＭＣ無し専門家解説無しの新感覚アート番組</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230113015000 +0900" stop="20230113025000 +0900" channel="FujiTV.jp">
+  <title lang="ko">EXITV〜FODの新作・名作をPon!Pon!見せまくり!!〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ＥＸＩＴ単独ＭＣ▽注目パフォーマンスユニット・円神の瀧澤翼＆中谷日向とＥＮＪＩＮチャレンジ▽誰にも見せていないツイッター下書き公開▽視聴者プレゼントも</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4831,6 +4833,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230113013000 +0900" stop="20230113013500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230113013500 +0900" stop="20230113020500 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230111235000 +0900" stop="20230112010000 +0900" channel="FujiNext.jp">
 <title lang="ko">フジサンケイクラシック黄金伝説　22「1975年 第3回大会」</title>
 <desc>3rd フジサンケイクラシック（1975年）
@@ -4842,7 +4864,7 @@ https//otn.fujitv.co.jp
 <programme start="20230112010000 +0900" stop="20230112020000 +0900" channel="FujiNext.jp">
 <title lang="ko">Zepp Tokyoへきくちから第92回！音組がつくった49本のライブを時系列に</title>
 <desc>『フォーク村』18本『GIRLS'FACTORY』14本『LIVE FACTORY』11本『フォーク・デイズ』2本『僕らの音楽　武部聡志ピアノデイズ』まで全部！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230111/9830875/image/523d794a682d24932cb9fdd86b690997.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112020000 +0900" stop="20230112023000 +0900" channel="FujiNext.jp">
@@ -5518,7 +5540,7 @@ https//otn.fujitv.co.jp
 <programme start="20230112003000 +0900" stop="20230112020000 +0900" channel="kbsworld.jp">
 <title lang="ko">新商品発売〜コンビニレストラン　[字]</title>
 <desc>日本初放送中！最新料理バラエティ！コンビニでの商品化を目指して、食にこだわりをもつスターたちが奮闘！2019年〜
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230111/9798922/image/f93a536159308f9ffd156adf7b2859ce.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112020000 +0900" stop="20230112031000 +0900" channel="kbsworld.jp">
