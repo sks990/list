@@ -63,29 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230112050000 +0900" stop="20230112060000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">機動戦士ガンダムSEED</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">第23話「PHASE-24 二人だけの戦争」
-第24話「PHASE-25 平和の国へ」
-C.E.71、地球連合軍とザフトの戦争は混迷の度合い…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230112060000 +0900" stop="20230112063000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ウマ娘 プリティーダービー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">第５Ｒ「ライバルとのダービー」
-これは異世界から受け継いだ輝かしい名前と競走能力を持つ“ウマ娘”が遠い昔から人類…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230112063000 +0900" stop="20230112070000 +0900" channel="ANIMAX.jp">
   <title lang="ko">名探偵コナン</title>
     <rating system="MPAA">
@@ -417,6 +394,29 @@ C.E.71、地球連合軍とザフトの戦争は混迷の度合…</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230113063000 +0900" stop="20230113070000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">転生したらスライムだった件 転スラ日記</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">３日記「ジュラの夏」
+貴重な紙を手に入れたので、俺のこれまでを日記形式で綴ることにした。書き出しはそうだな…『転…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230113070000 +0900" stop="20230113080000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">スラムダンク</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">43「三井、限界か！？」
+44「三井！嵐の３ポイント」
+桜木花道は、50人もの女子生徒にふられ続けた悲しい男。ある日…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230111235000 +0900" stop="20230112010000 +0900" channel="FujiNext.jp">
 <title lang="ko">フジサンケイクラシック黄金伝説　22「1975年 第3回大会」</title>
 <desc>3rd フジサンケイクラシック（1975年）
@@ -679,7 +679,7 @@ JR東海が管轄する東海道本線 豊橋〜米原間を、JR東海の主力
 <programme start="20230112060000 +0900" stop="20230112070000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　46「東日本旅客鉄道・中央東線」</title>
 <desc>46『東日本旅客鉄道・中央東線』　大ターミナル駅「東京」から長野県「塩尻」までを走る『中央東線』。今回は新宿発の「スーパーあずさ」に乗車し、塩尻を目指す。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9843544/image/8267b77ed34929b4c802989dcadd85bd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112070000 +0900" stop="20230112130000 +0900" channel="FujiOne.jp">
@@ -1134,7 +1134,7 @@ https//otn.fujitv.co.jp
 <programme start="20230112060000 +0900" stop="20230112070000 +0900" channel="kbsworld.jp">
 <title lang="ko">ニュース広場　[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9798927/image/25b632b2d0727ccf339eaeabf7f676ca.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112070000 +0900" stop="20230112073500 +0900" channel="kbsworld.jp">
@@ -1516,26 +1516,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230112050000 +0900" stop="20230112060000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼日英首脳会談▼注目のＷＥＢニュースをチェック！▼ドッジボール世界選手権【首都圏】▼ウクライナ難民支える日本語教室【北海道】▼探求の対話【宮城】</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230112060000 +0900" stop="20230112063000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">▼ウクライナ最新情勢▼日英首脳会談▼ＮＥＷＳＷＥＢチェック「みかんの甘さ見分ける柑橘ソムリエ」▼ここに注目！「ロシア　村上作品を統制？背景は」</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230112063000 +0900" stop="20230112070000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
@@ -2106,72 +2086,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230112055500 +0900" stop="20230112060000 +0900" channel="eTele.jp">
-    <title lang="ko">浮世絵EDO-LIFE</title>
+  <programme start="20230113063000 +0900" stop="20230113070000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">浮世絵の世界をのぞいてみれば、江戸のリアルな暮らしが見えてくる！今回の舞台は「席書会（せきがきかい）」。子どもが書の腕前を披露する、寺子屋の授業参観に密着！</desc>
+    <desc lang="ko">押さえておきたい経済情報「おはｂｉｚ」・世界の驚きニュース・ニュースサイトの注目記事・気象情報・役立つ情報満載です</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230112060000 +0900" stop="20230112062000 +0900" channel="eTele.jp">
-    <title lang="ko">旅するためのスペイン語</title>
+  <programme start="20230113070000 +0900" stop="20230113074500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">舞台はアンダルシア。イスラム時代の栄華を誇るアルハンブラ宮殿などの世界遺産をはじめ、中世の面影を色濃く残す古都を訪ねます。一緒に旅で使える表現を覚えましょう！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230112062000 +0900" stop="20230112062500 +0900" channel="eTele.jp">
-    <title lang="ko">美の小壺</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ＢＳプレミアムの人気番組「美の壺」を、“小壺”サイズに仕立てたミニ番組。今回のテーマは「丹後ちりめん」。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230112062500 +0900" stop="20230112063500 +0900" channel="eTele.jp">
-    <title lang="ko">テレビ体操</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">【出演】鈴木大輔，舘野伶奈，吉江晴菜，戸塚寛子，石川裕平，新井庸太，【ピアノ】幅しげみ</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230112063500 +0900" stop="20230112064000 +0900" channel="eTele.jp">
-    <title lang="ko">みんなのうた</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「おはようのうた」うた本間絹子／「ヘドラーの山」うた細川たかし</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230112064000 +0900" stop="20230112065000 +0900" channel="eTele.jp">
-    <title lang="ko">おじゃる丸</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">千年前のヘイアンチョウから月光町にやってきたおじゃる丸が、小学生のカズマや町の人々、あとを追ってきた子鬼（おに）たちとゆかいな騒動（そうどう）をまきおこします。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230112065000 +0900" stop="20230112065500 +0900" channel="eTele.jp">
-    <title lang="ko">オトッペ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">音から生まれた不思議な生きもの・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
+    <desc lang="ko">きょうのスタート、カラフルに！気になる現場からの生中継やニュースの背景に切り込む特集も！地域の話題・スポーツ・詳しい気象情報など</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2922,6 +2852,76 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">新年を寿ぐみやびやかな箏の音色！「吾妻獅子」を米川文子・富山清琴の両人間国宝、「寿くらべ」を文化勲章の山勢松韻他の皆さんの演奏と、初春にふさわしい名曲ぞろいで。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113060500 +0900" stop="20230113062500 +0900" channel="eTele.jp">
+    <title lang="ko">中国語!ナビ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">中国、塩城から中継ライブ！絶品おもてなし料理に感動。海のように広い森が一変！黄色と赤に染まる大絶景にため息。森の謎のかわいいロッジ風建物にイモトも泊まりたい！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113062500 +0900" stop="20230113063500 +0900" channel="eTele.jp">
+    <title lang="ko">テレビ体操</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">【出演】岡本美佳，吉江晴菜，今井菜津美，矢作あかり，石川裕平，新井庸太，【ピアノ】能條貴大</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113063500 +0900" stop="20230113064000 +0900" channel="eTele.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「神父さんのパイプオルガン」うたアグネス　チャン、東京放送児童合唱団／「るらら」うたブラッツ　オン　ビー</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113064000 +0900" stop="20230113065000 +0900" channel="eTele.jp">
+    <title lang="ko">MIXびじゅチューン!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">みかん・オレンジが印象的な古今東西の作品を集める。登場曲は「出会えないりんごとオレンジ」「貴婦人でごめユニコーン」「人を真似る瓶」「夢パフューマー麗子」。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113065000 +0900" stop="20230113065500 +0900" channel="eTele.jp">
+    <title lang="ko">オトッペ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">音から生まれた不思議な生き物・オトッペと世界一のＤＪを目指すシーナの大冒険。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113065500 +0900" stop="20230113070000 +0900" channel="eTele.jp">
+    <title lang="ko">Eテレ0655</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">１日のはじまりをつくる５分番組『０６５５』。「日めくりアニメ」「おはようソング」などの楽しいコーナーで、あなたを送り出します</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230113070000 +0900" stop="20230113071000 +0900" channel="eTele.jp">
+    <title lang="ko">マチスコープ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">みんなが暮らす街には楽しくて「へー！」と驚くヒミツがいっぱい。俳優・佐藤二朗さんと街探検に行こう！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4383,26 +4383,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230112053000 +0900" stop="20230112060000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230112060000 +0900" stop="20230112063000 +0900" channel="Tokyo MX">
-  <title lang="ko">中西圭三の朝ぶら散歩</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">佃・勝どきエリアの朝</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230112063000 +0900" stop="20230112070000 +0900" channel="Tokyo MX">
   <title lang="ko"></title>
     <rating system="MPAA">
@@ -4893,6 +4873,26 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230113063000 +0900" stop="20230113070000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230113070000 +0900" stop="20230113080000 +0900" channel="Tokyo MX">
+  <title lang="ko">堀潤モーニングFLAG</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ジャーナリスト堀潤がＺ世代を中心としたコメンテーターとお届けする朝のニュースショー▼モニフラＺ議会▼政策サイト伊藤和真とＮＦＴ事業の渋谷啓太と社会起業家白井智子</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230111235000 +0900" stop="20230112010000 +0900" channel="FujiNext.jp">
 <title lang="ko">フジサンケイクラシック黄金伝説　22「1975年 第3回大会」</title>
 <desc>3rd フジサンケイクラシック（1975年）
@@ -5155,7 +5155,7 @@ JR東海が管轄する東海道本線 豊橋〜米原間を、JR東海の主力
 <programme start="20230112060000 +0900" stop="20230112070000 +0900" channel="FujiOne.jp">
 <title lang="ko">みんなの鉄道リターンズ　46「東日本旅客鉄道・中央東線」</title>
 <desc>46『東日本旅客鉄道・中央東線』　大ターミナル駅「東京」から長野県「塩尻」までを走る『中央東線』。今回は新宿発の「スーパーあずさ」に乗車し、塩尻を目指す。
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9843544/image/8267b77ed34929b4c802989dcadd85bd.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112070000 +0900" stop="20230112130000 +0900" channel="FujiOne.jp">
@@ -5610,7 +5610,7 @@ https//otn.fujitv.co.jp
 <programme start="20230112060000 +0900" stop="20230112070000 +0900" channel="kbsworld.jp">
 <title lang="ko">ニュース広場　[生]</title>
 <desc>リアルタイムで最新韓国情報をいち早くお届け！
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9798927/image/25b632b2d0727ccf339eaeabf7f676ca.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230112070000 +0900" stop="20230112073500 +0900" channel="kbsworld.jp">
