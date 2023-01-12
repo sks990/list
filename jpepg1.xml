@@ -63,16 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230113033000 +0900" stop="20230113040000 +0900" channel="ANIMAX.jp">
-  <title lang="ko"></title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">この時間は情報番組をお送りしております。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230113040000 +0900" stop="20230113050000 +0900" channel="ANIMAX.jp">
   <title lang="ko">あんさんぶるスターズ!</title>
     <rating system="MPAA">
@@ -414,6 +404,17 @@ C.E.71、地球連合軍とザフトの戦争は…</desc>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230114050000 +0900" stop="20230114060000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">機動戦士ガンダムSEED</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">第27話「PHASE-29 さだめの楔（くさび）」第28話「PHASE-30 閃光の刻（とき）」
+C.E.71、地球連合軍とザフトの戦争は…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230112235000 +0900" stop="20230113043000 +0900" channel="FujiNext.jp">
 <title lang="ko">スケートボード JAPAN STREET LEAGUE　第2戦</title>
 <desc>−SECOND IMPACT−　予選・決勝
@@ -605,7 +606,7 @@ https//otn.fujitv.co.jp
 <desc>『万座温泉編 後篇』
 撮影地日進館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9843563/image/d5f96e40bd6c97913a638ce3708e4efc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230113050000 +0900" stop="20230113052000 +0900" channel="FujiOne.jp">
@@ -1114,7 +1115,7 @@ https//otn.fujitv.co.jp
 <programme start="20230113042000 +0900" stop="20230113050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　77　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9799592/image/bc49ee765c1c8b83146ab8e5243d71c0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230113050000 +0900" stop="20230113060000 +0900" channel="kbsworld.jp">
@@ -1476,36 +1477,6 @@ https//otn.fujitv.co.jp
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230113033500 +0900" stop="20230113040000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">大相撲(2023年)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230113040000 +0900" stop="20230113041000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">ニッポンの里山 ふるさとの絶景に出会う旅</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">伊勢神宮では毎日２回神にささげる食事を自給自足してきた。森を育み水の恵みで実りを得る里山の原風景が息づいている。春、森の奥でスギとサクラが合体した神秘の花が咲く</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230113041000 +0900" stop="20230113042000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">時論公論</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">経済の見通しに関する世界銀行の報告書が発表され、今年の世界経済の成長率見通しは１．７％とここ３０年ほどで３番目の低さに。その背景と今後のリスク、課題を考える。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230113042000 +0900" stop="20230113050000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">国際報道</title>
     <rating system="MPAA">
@@ -2022,6 +1993,46 @@ https//otn.fujitv.co.jp
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">今回はＡＢＵ（アジア太平洋放送連合）を通しての、ＮＨＫの国際貢献について紹介する。「ＡＢＵアジア太平洋ロボットコンテスト」などの取り組みを伝える。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230114040500 +0900" stop="20230114041000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">みんなのうた</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「そっくりハウス」うた谷山浩子／「ぼくんちのチャボ」うたホリイくんと先生</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230114041000 +0900" stop="20230114042000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">時論公論</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">安倍元首相が銃撃され死亡した事件で、容疑者が殺人などの罪で起訴される見通しに。逮捕から半年かかったのはなぜか？今後どのような手続き、審理が行われるのか解説する。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230114042000 +0900" stop="20230114050000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">国際報道</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">ウクライナ情勢▽イスラエル新政権・極右閣僚の言動でパレスチナ緊迫▽インドの地方の女性に働く場を・日本の女性発案の小さな工房　※変更の可能性あり</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230114050000 +0900" stop="20230114051000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2816,46 +2827,6 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230113035900 +0900" stop="20230113041900 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレポシュレ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">テレビの音が聞こえにくい、とお悩みの方にピッタリの方に素敵なスピーカーをご紹介！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230113041900 +0900" stop="20230113042400 +0900" channel="NipponTV.jp">
-    <title lang="ko">「大竹伸朗展」徹底解剖</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">現代日本を代表するアーティスト、大竹伸朗の創作活動を体感する大回顧展「大竹伸朗展」＠東京国立近代美術館を、作家インタビュー＆脳科学者 茂木健一郎の視点で紹介</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230113042400 +0900" stop="20230113042900 +0900" channel="NipponTV.jp">
-    <title lang="ko">『金の国水の国』のここが凄い</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">観る者の心を包み込む＜最高純度のやさしさ＞溢れる映画『金の国 水の国』。その世界観と制作秘話を、主演の賀来賢人・浜辺美波が語ります。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230113042900 +0900" stop="20230113043000 +0900" channel="NipponTV.jp">
-    <title lang="ko">日テレみどころ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko"></desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230113043000 +0900" stop="20230113055000 +0900" channel="NipponTV.jp">
     <title lang="ko">Oha!4 NEWS LIVE</title>
     <rating system="MPAA">
@@ -3069,26 +3040,16 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-<programme start="20230113033000 +0900" stop="20230113040000 +0900" channel="Asahi.jp">
-  <title lang="ko"></title>
+  <programme start="20230114045400 +0900" stop="20230114052400 +0900" channel="NipponTV.jp">
+    <title lang="ko">日テレポシュレ</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今すぐ気軽にショッピング！お得な情報盛りだくさん！みんなで一緒にショッピングなう！</desc>
+    <desc lang="ko">イイモノがお得に手に入る通販番組「日テレポシュレ」今だから！買えるドキドキ・ワクワクな商品をご紹介！お見逃しなく！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230113040000 +0900" stop="20230113045500 +0900" channel="Asahi.jp">
-  <title lang="ko">暴れん坊将軍VI</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">「標的は将軍様」松平健(他)▽恒例の増上寺参拝が近づき、吉宗は倉吉藩主・戸田山城守にその行列の警護責任者を命じた。そのころ辰五郎は、忠相から町名主補佐役を依頼され…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
+  </programme>
 <programme start="20230113045500 +0900" stop="20230113080000 +0900" channel="Asahi.jp">
   <title lang="ko">グッド!モーニング</title>
     <rating system="MPAA">
@@ -3359,12 +3320,22 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230113034500 +0900" stop="20230113043000 +0900" channel="TBS2.jp">
-  <title lang="ko">TBS NEWS</title>
+<programme start="20230114042500 +0900" stop="20230114045000 +0900" channel="Asahi.jp">
+  <title lang="ko">渡辺篤史の建もの探訪</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">今朝の日本各地の最新ニュース、海外ニュース、経済情報、今日のお天気、野球などスポーツ情報を女性キャスターがお伝えする朝の報道番組。</desc>
+    <desc lang="ko">「五差路に面した五角形の家」東京都大田区・村越邸</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230114045000 +0900" stop="20230114052000 +0900" channel="Asahi.jp">
+  <title lang="ko">命を諦めるということ〜トリアージを決断した医師の1.17〜</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">1995年の阪神淡路大震災。淡路島の病院で、震災当日の1日が映像に記録されていた。当時、助かる見込みがない人への蘇生中止はどう決断されたのか？覚悟と葛藤に迫る。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3592,22 +3563,23 @@ https//otn.fujitv.co.jp
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230113035500 +0900" stop="20230113040500 +0900" channel="TVTokyo.jp">
-  <title lang="ko">ラビッツ インベージョン</title>
+<programme start="20230114041500 +0900" stop="20230114044500 +0900" channel="TBS2.jp">
+  <title lang="ko">開運音楽堂</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">突如現れたコワモテのギャングたちに平和が乱された！ギャングに立ち向かったのはカラフルなダンサーたち。対立する両チームの前に、別のヒップホップなラビッツが現れて…</desc>
+    <desc lang="ko">演歌の松阪ゆうきがスタジオに登場！キーサン待望のゲストとなったその理由とは…？▽「セーフリスニング」ナレーター・奈波果林▽角 かおるがパワーストーンで運勢を占う</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230113040500 +0900" stop="20230113042200 +0900" channel="TVTokyo.jp">
+<programme start="20230114044500 +0900" stop="20230114051500 +0900" channel="TBS2.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"></desc>
+    <desc lang="ko">通販番組（ＴＶショッピング）
+</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4013,32 +3985,35 @@ HIPHOPミーツallグッド何かサイプレス上野　ポチョムキン</des
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230113035000 +0900" stop="20230113042000 +0900" channel="FujiTV.jp">
+<programme start="20230114040500 +0900" stop="20230114041000 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko">いよいよ放送開始！世界中に熱狂的なファンを持つ日本SF漫画の金字塔を打ち立てた不朽の名作を完全オリジナルでアニメ化。その魅力をご紹介します！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230113042000 +0900" stop="20230113042500 +0900" channel="FujiTV.jp">
+<programme start="20230114041000 +0900" stop="20230114043000 +0900" channel="TVTokyo.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230113042500 +0900" stop="20230113045500 +0900" channel="FujiTV.jp">
-  <title lang="ko"></title>
+<programme start="20230114043000 +0900" stop="20230114055500 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ものスタ サタデー</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <desc lang="ko">「も」っといい商品を教えて！！
+「の」んびりしてはいられない
+「ス」ぐに買いたくなっちゃう商品を
+「タ」っぷりとご紹介するショッピング番組</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4253,22 +4228,33 @@ HIPHOPミーツallグッド何かサイプレス上野　ポチョムキン</des
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230113033400 +0900" stop="20230113040000 +0900" channel="Tokyo MX">
-  <title lang="ko">週刊バイクTV</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">バイク本来の持っている自由な楽しさや素晴らしさを、ライダーだけでなく、バイクに乗ったことない方にもお伝えするバイク情報番組。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230113040000 +0900" stop="20230113043000 +0900" channel="Tokyo MX">
+<programme start="20230114043500 +0900" stop="20230114045000 +0900" channel="FujiTV.jp">
   <title lang="ko"></title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
+    <desc lang="ko">通販のディノスが自信を持ってお届けする「今がカイドキ！」な商品をご紹介！ゲストの皆さんの本音のリアクションも交えて、商品の魅力を解説します！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230114045000 +0900" stop="20230114045200 +0900" channel="FujiTV.jp">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">メジャー、インディーズを問わず、良質なポップミュージックのプロモーションビデオにのせて、翌日のお天気をお届けする音楽プログラム。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230114045200 +0900" stop="20230114052200 +0900" channel="FujiTV.jp">
+  <title lang="ko">テレビ寺子屋</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「自分のことは自分で？」
+親野智可等（教育評論家）</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4743,6 +4729,26 @@ HIPHOPミーツallグッド何かサイプレス上野　ポチョムキン</des
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230114043000 +0900" stop="20230114050000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230114050000 +0900" stop="20230114053000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230112235000 +0900" stop="20230113043000 +0900" channel="FujiNext.jp">
 <title lang="ko">スケートボード JAPAN STREET LEAGUE　第2戦</title>
 <desc>−SECOND IMPACT−　予選・決勝
@@ -4934,7 +4940,7 @@ https//otn.fujitv.co.jp
 <desc>『万座温泉編 後篇』
 撮影地日進館
 ▽美女と仮想温泉デートを楽しめる擬似体験型温泉情報番組
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9843563/image/d5f96e40bd6c97913a638ce3708e4efc.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230113050000 +0900" stop="20230113052000 +0900" channel="FujiOne.jp">
@@ -5443,7 +5449,7 @@ https//otn.fujitv.co.jp
 <programme start="20230113042000 +0900" stop="20230113050000 +0900" channel="kbsworld.jp">
 <title lang="ko">笑ってトンヘ　77　[字]</title>
 <desc>「ヒーラー　〜最高の恋人〜」のチ・チャンウク主演！韓国で瞬間最高視聴率51.4%！「トンへシンドローム」を巻き起こしたホームドラマの最高傑作！2010年 全159話
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230112/9799592/image/bc49ee765c1c8b83146ab8e5243d71c0.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230113050000 +0900" stop="20230113060000 +0900" channel="kbsworld.jp">
