@@ -63,18 +63,6 @@
     <icon src="https://image.pngaaa.com/303/1608303-middle.png" />
   </channel>
   
-<programme start="20230114063000 +0900" stop="20230114073000 +0900" channel="ANIMAX.jp">
-  <title lang="ko">ルパン三世(PART2)</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">87「悪魔がルパンを招くとき」
-88「ルパンの南極北極大冒険」
-ルパン一味が日本から脱出して5年。世界に散っていた…</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230114073000 +0900" stop="20230114083000 +0900" channel="ANIMAX.jp">
   <title lang="ko">ムヒョとロージーの魔法律相談事務所 第2期</title>
     <rating system="MPAA">
@@ -356,6 +344,18 @@ A.S.(アド・ステラ)122。数多の企業が宇宙へ進出し、巨大な�
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230115073000 +0900" stop="20230115083000 +0900" channel="ANIMAX.jp">
+  <title lang="ko">ハイキュー!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">1「終わりと始まり」
+2「烏野高校排球部」
+中学最初の公式戦で天才プレーヤー・影山飛雄に惨敗した日向翔陽は、烏野…</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230113233000 +0900" stop="20230114070000 +0900" channel="FujiNext.jp">
 <title lang="ko">CHIMERA A-SIDE THE FINAL　1　スケートボード＆BMX</title>
 <desc>CHIMERA A-SIDE スケートボード＆BMXスーパーリーグ THE FINAL　[Day1]
@@ -504,7 +504,7 @@ A.S.(アド・ステラ)122。数多の企業が宇宙へ進出し、巨大な�
 <title lang="ko">パチンコLAB 〜11th season〜　14</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう　ロギー
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230114/9843593/image/9d1f6ff0e8248838242ec18e6c1ec96f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230114080000 +0900" stop="20230114090000 +0900" channel="FujiOne.jp">
@@ -1461,26 +1461,6 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
 <icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
-  <programme start="20230114063000 +0900" stop="20230114070000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ロシア“東部の町を掌握”ウクライナは否定▼紅白でも注目！Ｋ−ＰＯＰダンス　創作の秘けつ▼銭湯のぬくもり　若者たちの情熱で</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230114070000 +0900" stop="20230114073000 +0900" channel="NHK1Tokyo.jp">
-    <title lang="ko">NHKニュース おはよう日本</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日米首脳会談　同盟のさらなる強化を確認▼ワシントンから中継▼きょうから大学入学共通テスト・受験生を痴漢から守る▼ウクライナ国立バレエ　戦時下でも踊り続ける理由</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20230114073000 +0900" stop="20230114080000 +0900" channel="NHK1Tokyo.jp">
     <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
@@ -2121,62 +2101,32 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230114065000 +0900" stop="20230114070000 +0900" channel="eTele.jp">
-    <title lang="ko">えいごであそぼ with Orton</title>
+  <programme start="20230115074000 +0900" stop="20230115074500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">NHKニュース おはよう日本（関東甲信越）</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">英語の「音」で遊びながら、楽しく英語と親しもう！舞台は不思議な町「オートンタウン」。スーパーマシン、コント、歌、ダンス、アニメなど、楽しいコーナーがいっぱい！</desc>
+    <desc lang="ko"></desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230114070000 +0900" stop="20230114071000 +0900" channel="eTele.jp">
-    <title lang="ko">ミミクリーズ</title>
+  <programme start="20230115074500 +0900" stop="20230115080000 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">さわやか自然百景</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ミミクリー（ｍｉｍｉｃｒｙ）」それは「似せること」または「似ているもの」という意味です。自然のなかのソックリさん＝「ミミクリー」をさがしてみよう！</desc>
+    <desc lang="ko">日本有数の規模を誇る熊本県の荒尾干潟。およそ３０００羽のシギやチドリの仲間が冬を越すために集まる渡り鳥の楽園だ。また絶滅が心配されるクロツラヘラサギも越冬する。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20230114071000 +0900" stop="20230114071500 +0900" channel="eTele.jp">
-    <title lang="ko">スクる!</title>
+  <programme start="20230115080000 +0900" stop="20230115082500 +0900" channel="NHK1Tokyo.jp">
+    <title lang="ko">小さな旅</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">「ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌで検索する」＝「スクる！」。勉強のおなやみや学校生活のおなやみ、さらには「もっと知りたいこと」まで、スクればヒントが見つかるぞ！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230114071500 +0900" stop="20230114072000 +0900" channel="eTele.jp">
-    <title lang="ko">ギョふんでサカナ★スター</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">魚なのに「輪くぐり」ができるというビックリな頭脳を持つ“磯の王者”イシダイ。とびきり好奇心が強いという不思議な生態にせまります。</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230114072000 +0900" stop="20230114073500 +0900" channel="eTele.jp">
-    <title lang="ko">なりきり! むーにゃん生きもの学園</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">空の最強ハンター「タカとハヤブサ」。時速３００キロの急降下で繰り出す必殺キックにカラスも押さえこむ鋭い足の爪！なかなか見られない狩りのワザを間近で観察します！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20230114073500 +0900" stop="20230114074500 +0900" channel="eTele.jp">
-    <title lang="ko">ピタゴラスイッチ</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">世の中をピタゴラ風のユニークな見方で伝えます！今回は人形劇、ピタゴラスイッチ。テーマは「ふきとばしてばっちり」のまき。</desc>
+    <desc lang="ko">茨城県南部の守谷市。河川敷には、終戦後、満蒙開拓から引き揚げてきた人たちが切りひらいた、牧草地が広がります。開拓当初からの絆を大切にする人たちに出会う旅です。</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -2651,6 +2601,36 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <programme start="20230115072500 +0900" stop="20230115073000 +0900" channel="eTele.jp">
+    <title lang="ko">ポップイン!クラフト</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">「猪苗代湖の冬景色は最高！しぶき氷は素敵だよ」というリクエストに応え、クラフト用のモールで「しぶき氷」の小物入れを作る。キラキラビーズを通して、輝きを演出！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230115073000 +0900" stop="20230115080000 +0900" channel="eTele.jp">
+    <title lang="ko">おとうさんといっしょ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">蒸気機関車Ｄ１０３が自慢の「レオレオ駅」が舞台です。シュッシュ・ポッポ・ゆめ・まさとも・パンタン駅長が、歌ったり踊ったり大活躍！楽しいコーナーが盛りだくさん。</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230115080000 +0900" stop="20230115082500 +0900" channel="eTele.jp">
+    <title lang="ko">趣味の園芸 やさいの時間</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">１９年１月１３日のアンコール放送。室内でキノコ栽培！すくすく成長する様子を間近に観察できることで、癒やし効果も満点！【出演】深町貴子（園芸家）、渡辺満里奈</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20230114053000 +0900" stop="20230114080000 +0900" channel="NipponTV.jp">
     <title lang="ko">ズームイン!!サタデー</title>
     <rating system="MPAA">
@@ -3010,6 +2990,16 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
       <value>15세 이상 시청가</value>
     </rating>
     <desc lang="ko">ココアの原材料、カカオを日本で栽培するプロジェクトとは▽ココアを作るのは超大変？カカオの実からココア作りに挑戦！▽麻婆豆腐にカカオ？ココアを使ったオリジナル料理</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20230115073000 +0900" stop="20230115102500 +0900" channel="NipponTV.jp">
+    <title lang="ko">シューイチ</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">バズリ飯ー1GP！簡単極上肉料理が続々▽世界記録！35周年かいけつゾロリの秘密▽中丸の夢がまた実現ぐるぐるドリフト挑戦▽スキーシーズン到来ゲレンデの歴史を調査</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -3454,26 +3444,6 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230114053000 +0900" stop="20230114073000 +0900" channel="TBS2.jp">
-  <title lang="ko">まるっと!サタデー</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">アトピーかゆみ撃退へ？新発見▽自転車ヘルメット大進化▽木村拓哉＆綾瀬はるか"信長"プレミア▽ＢＴＳ映画公開でＡＲＭＹに伝言▽地方ソウルフードが東京に出店＆大人気</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230114073000 +0900" stop="20230114075900 +0900" channel="TBS2.jp">
-  <title lang="ko">所さんお届けモノです!</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">日本三大朝市のひとつ、１０００年続く石川・輪島の朝市でカミナリの２人がお届けモノ探し！★実は水揚げ日本一という天然フグの産地で、新鮮で珍しいフググルメを満喫！</desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
 <programme start="20230114075900 +0900" stop="20230114093000 +0900" channel="TBS2.jp">
   <title lang="ko">サタデープラス</title>
     <rating system="MPAA">
@@ -3769,23 +3739,22 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230114065400 +0900" stop="20230114070000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">Larva</title>
+<programme start="20230115073000 +0900" stop="20230115080000 +0900" channel="TBS2.jp">
+  <title lang="ko">がっちりマンデー!!</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">コミカルな2匹のかわいくて笑える虫がお送りする。ノンバーバル物語
-世界中で大人気のキャラクターLarva（ラーバ）と愉快な仲間達のお話</desc>
+    <desc lang="ko">★スゴい社長大集合！新年会SP！★愛知県の山奥にある超極秘基地で開発中「空飛ぶクルマ」の正体★淡路島の西側をおしゃれスポットに大変身！バルニバービの作戦とは!?</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230114070000 +0900" stop="20230114073000 +0900" channel="TVTokyo.jp">
-  <title lang="ko">イニミニマニモ</title>
+<programme start="20230115080000 +0900" stop="20230115095400 +0900" channel="TBS2.jp">
+  <title lang="ko">サンデーモーニング</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko">ＰＵＩ　ＰＵＩ　モルカー　アンコール・ペッパピッグ（再）・しゅつどう！パジャマスクの３本立てで放送中！ペッパピッグとパジャマスクは副音声で英語版が聞けるよ！</desc>
+    <desc lang="ko">一週間の見逃せないニュース＆スポーツをサンデーモーニングならではの視点でお送りします！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -4222,6 +4191,26 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230115073000 +0900" stop="20230115080000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">遊戯王ゴーラッシュ!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">今、遠い銀河の果てから来た１人の宇宙戦士が、ラッシュデュエルという新たな戦場を駆け抜ける！行くぞ、ゴーラッシュ!!</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230115080000 +0900" stop="20230115083000 +0900" channel="TVTokyo.jp">
+  <title lang="ko">ポケモンとどこいく!?</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">これを見ればゲームが１００倍楽しめる、スペシャル映像！『ポケモンＳＶ』パートナーポケモンの最終進化！？あのポケモンを真似て、松田が超絶クールなダンスをキメる！！</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230114060000 +0900" stop="20230114083000 +0900" channel="FujiTV.jp">
   <title lang="ko">めざましどようび</title>
     <rating system="MPAA">
@@ -4577,22 +4566,12 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
-<programme start="20230114063000 +0900" stop="20230114070000 +0900" channel="Tokyo MX">
-  <title lang="ko"></title>
+<programme start="20230115073000 +0900" stop="20230115085500 +0900" channel="FujiTV.jp">
+  <title lang="ko">日曜報道 THE PRIME</title>
     <rating system="MPAA">
       <value>15세 이상 시청가</value>
     </rating>
-    <desc lang="ko"> </desc>
-    <category lang="ko">예능</category>
-    <episode-num system="onscreen">00</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-</programme>
-<programme start="20230114070000 +0900" stop="20230114073000 +0900" channel="Tokyo MX">
-  <title lang="ko">ぐるり東京 江戸散歩</title>
-    <rating system="MPAA">
-      <value>15세 이상 시청가</value>
-    </rating>
-    <desc lang="ko">ユージと江戸時代のうさぎの歴史を辿る▼月を祀る寺に潜むうさぎ▼有名浮世絵師も描いたうさぎの数々▼練り切りでうさぎ作り▼神楽坂で絶品ガレット▼中野区イベント情報</desc>
+    <desc lang="ko">今動いているニュースの「当事者」と、橋下徹がスタジオ生議論！「当事者の考え」が分かる！「日本の行方」が分かる！「ｄボタン」投票で番組に参加も！</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -5097,6 +5076,26 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
     <episode-num system="onscreen">00</episode-num>
     <episode-num system="xmltv_ns">0.0.</episode-num>
 </programme>
+<programme start="20230115073000 +0900" stop="20230115080000 +0900" channel="Tokyo MX">
+  <title lang="ko"></title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko"> </desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
+<programme start="20230115080000 +0900" stop="20230115083000 +0900" channel="Tokyo MX">
+  <title lang="ko">あんぎゃでござる!!</title>
+    <rating system="MPAA">
+      <value>15세 이상 시청가</value>
+    </rating>
+    <desc lang="ko">しりとりあんぎゃ‼</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">00</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+</programme>
 <programme start="20230113233000 +0900" stop="20230114070000 +0900" channel="FujiNext.jp">
 <title lang="ko">CHIMERA A-SIDE THE FINAL　1　スケートボード＆BMX</title>
 <desc>CHIMERA A-SIDE スケートボード＆BMXスーパーリーグ THE FINAL　[Day1]
@@ -5245,7 +5244,7 @@ MZ世代のインフルエンサーたちによるセルフプロモーション
 <title lang="ko">パチンコLAB 〜11th season〜　14</title>
 <desc>出玉にこだわらない新しい楽しみ方を研究するパチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう　ロギー
-<icon src="https://tvguide.myjcom.jp/monomedia/si/2023/20230114/9843593/image/9d1f6ff0e8248838242ec18e6c1ec96f.jpg" />
+<icon src="https://tvguide.myjcom.jp" />
 </desc>
 </programme>
 <programme start="20230114080000 +0900" stop="20230114090000 +0900" channel="FujiOne.jp">
